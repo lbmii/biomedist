@@ -5,12 +5,62 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>A bacteriophage nucleus-like compartment shields DNA from CRISPR nucleases</title>
+      <link>https://example.com/article/31819262/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31819262/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All viruses require strategies to inhibit or evade the immune pathways of cells that they infect. The viruses that infect bacteria, bacteriophages (phages), must avoid immune pathways that target nucleic acids, such as CRISPR-Cas and restriction-modification systems, to replicate efficiently1. Here we show that jumbo phage ΦKZ segregates its DNA from immunity nucleases of its host, &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;, by constructing a proteinaceous nucleus-like compartment. ΦKZ is resistant to many immunity mechanisms that target DNA &lt;em&gt;in vivo&lt;/em&gt;, including two subtypes of CRISPR-Cas3, Cas9, Cas12a and the restriction enzymes HsdRMS and EcoRI. Cas proteins and restriction enzymes are unable to access the phage DNA throughout the infection, but engineering the relocalization of EcoRI inside the compartment enables targeting of the phage and protection of host cells. Moreover, ΦKZ is sensitive to Cas13a-a CRISPR-Cas enzyme that targets RNA-probably owing to phage mRNA localizing to the cytoplasm. Collectively, we propose that Pseudomonas jumbo phages evade a broad spectrum of DNA-targeting nucleases through the assembly of a protein barrier around their genome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A genome-wide long noncoding RNA CRISPRi screen identifies PRANCR as a novel regulator of epidermal homeostasis</title>
+      <link>https://example.com/article/31804951/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31804951/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Genome-wide association studies indicate that many disease susceptibility regions reside in non-protein-coding regions of the genome. Long noncoding RNAs (lncRNAs) are a major component of the noncoding genome, but their biological impacts are not fully understood. Here, we performed a CRISPR interference (CRISPRi) screen on 2263 epidermis-expressed lncRNAs and identified nine novel candidate lncRNAs regulating keratinocyte proliferation. We further characterized a top hit from the screen, progenitor renewal associated non-coding RNA (&lt;em&gt;PRANCR&lt;/em&gt;), using RNA interference-mediated knockdown and phenotypic analysis in organotypic human tissue. PRANCR regulates keratinocyte proliferation, cell cycle progression, and clonogenicity. &lt;em&gt;PRANCR&lt;/em&gt;-deficient epidermis displayed impaired stratification with reduced expression of differentiation genes that are altered in human skin diseases, including keratins 1 and 10, filaggrin, and loricrin. Transcriptome analysis showed that &lt;em&gt;PRANCR&lt;/em&gt; controls the expression of 1136 genes, with strong enrichment for late cell cycle genes containing a CHR promoter element. In addition, _PRANCR _depletion led to increased levels of both total and nuclear CDKN1A (also known as p21), which is known to govern both keratinocyte proliferation and differentiation. Collectively, these data show that &lt;em&gt;PRANCR&lt;/em&gt; is a novel lncRNA regulating epidermal homeostasis and identify other lncRNA candidates that may have roles in this process as well.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Programmable Inhibition and Detection of RNA Viruses Using Cas13</title>

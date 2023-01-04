@@ -5,12 +5,41 @@
     <link>https://example.com/tag/brain/</link>
       <atom:link href="https://example.com/tag/brain/index.xml" rel="self" type="application/rss+xml" />
     <description>Brain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Brain</title>
       <link>https://example.com/tag/brain/</link>
     </image>
+    
+    <item>
+      <title>VEGF-C-driven lymphatic drainage enables immunosurveillance of brain tumours</title>
+      <link>https://example.com/article/31942068/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31942068/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Erratum in:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Publisher Correction: &lt;a href=&#34;https://www.nature.com/articles/s41586-021-03204-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;VEGF-C-driven lymphatic drainage enables immunosurveillance of brain tumours&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immune surveillance against pathogens and tumours in the central nervous system is thought to be limited owing to the lack of lymphatic drainage. However, the characterization of the meningeal lymphatic network has shed light on previously unappreciated ways that an immune response can be elicited to antigens that are expressed in the brain1-3. Despite progress in our understanding of the development and structure of the meningeal lymphatic system, the contribution of this network in evoking a protective antigen-specific immune response in the brain remains unclear. Here, using a mouse model of glioblastoma, we show that the meningeal lymphatic vasculature can be manipulated to mount better immune responses against brain tumours. The immunity that is mediated by CD8 T cells to the glioblastoma antigen is very limited when the tumour is confined to the central nervous system, resulting in uncontrolled tumour growth. However, ectopic expression of vascular endothelial growth factor C (VEGF-C) promotes enhanced priming of CD8 T cells in the draining deep cervical lymph nodes, migration of CD8 T cells into the tumour, rapid clearance of the glioblastoma and a long-lasting antitumour memory response. Furthermore, transfection of an mRNA construct that expresses VEGF-C works synergistically with checkpoint blockade therapy to eradicate existing glioblastoma. These results reveal the capacity of VEGF-C to promote immune surveillance of tumours, and suggest a new therapeutic approach to treat brain tumours.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Developmental Heterogeneity of Microglia and Brain Myeloid Cells Revealed by Deep Single-Cell RNA Sequencing</title>

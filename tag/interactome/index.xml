@@ -225,6 +225,113 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>lncRNA Sensing of a Viral Suppressor of RNAi Activates Non-canonical Innate Immune Signaling in Drosophila</title>
+      <link>https://example.com/article/31917956/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31917956/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antiviral immunity in insects is mediated by the RNA interference (RNAi) pathway. Viruses evade antiviral RNAi by expressing virulence factors known as viral suppressors of RNAi (VSR). Here, we report the identification of VINR, a Drosophila VSR-interacting long non-coding (lnc) RNA that activates non-canonical innate immune signaling upon detection of the dsRNA-binding VSR of Drosophila C virus (DCV). VINR is required for the induction of antimicrobial peptide (AMP) genes but dispensable for antiviral RNAi. VINR functions by preventing the ubiquitin proteasome-dependent degradation of Cactin, a coiled-coil and arginine-serine-rich domain-containing protein that regulates a non-cannonical antimicrobial pathway for AMP induction. CRISPR-Cas9 knockout of VINR in Drosophila cells enhances DCV replication independently of antiviral RNAi, and VINR-knockout adult flies exhibit enhanced disease susceptibility to DCV and bacteria. Our findings reveal a counter counter-defense strategy activated by a lncRNA in response to the viral suppression of the primary antiviral RNAi immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bacterial Endotoxin Activates the Coagulation Cascade through Gasdermin D-Dependent Phosphatidylserine Exposure</title>
+      <link>https://example.com/article/31836429/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31836429/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deletion of caspase-11 prevents disseminated intravascular coagulation (DIC) in sepsis&lt;/li&gt;
+&lt;li&gt;Deletion of GSDMD prevents caspase-11- and TF-mediated DIC in endotoxemia&lt;/li&gt;
+&lt;li&gt;GSDMD deficiency inhibits endotoxin-induced TF activation by reducing PS exposure&lt;/li&gt;
+&lt;li&gt;Activation of GSDMD by caspase-11 triggers Ca2+-dependent PS exposure through TMEM16F&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Excessive activation of the coagulation system leads to life-threatening disseminated intravascular coagulation (DIC). Here, we examined the mechanisms underlying the activation of coagulation by lipopolysaccharide (LPS), the major cell-wall component of Gram-negative bacteria. We found that caspase-11, a cytosolic LPS receptor, activated the coagulation cascade. Caspase-11 enhanced the activation of tissue factor (TF), an initiator of coagulation, through triggering the formation of gasdermin D (GSDMD) pores and subsequent phosphatidylserine exposure, in a manner independent of cell death. GSDMD pores mediated calcium influx, which induced phosphatidylserine exposure through transmembrane protein 16F, a calcium-dependent phospholipid scramblase. Deletion of &lt;em&gt;Casp11&lt;/em&gt;, ablation of &lt;em&gt;Gsdmd&lt;/em&gt;, or neutralization of phosphatidylserine or TF prevented LPS-induced DIC. In septic patients, plasma concentrations of interleukin (IL)-1α and IL-1β, biomarkers of GSDMD activation, correlated with phosphatidylserine exposure in peripheral leukocytes and DIC scores. Our findings mechanistically link immune recognition of LPS to coagulation, with implications for the treatment of DIC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NicheNet: modeling intercellular communication by linking ligands to target genes</title>
+      <link>https://example.com/article/31819264/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31819264/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computational methods that model how gene expression of a cell is influenced by interacting cells are lacking. We present &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt;, a method that predicts ligand-target links between interacting cells by combining their expression data with prior knowledge on signaling and gene regulatory networks. We applied &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; to tumor and immune cell microenvironment data and demonstrate that &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; can infer active ligands and their gene regulatory effects on interacting cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ketogenic diet activates protective γδ T cell responses against influenza virus infection</title>
+      <link>https://example.com/article/31732517/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31732517/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A virus (IAV) infection-associated morbidity and mortality are a key global health care concern, necessitating the identification of new therapies capable of reducing the severity of IAV infections. In this study, we show that the consumption of a low-carbohydrate, high-fat ketogenic diet (KD) protects mice from lethal IAV infection and disease. KD feeding resulted in an expansion of γδ T cells in the lung that improved barrier functions, thereby enhancing antiviral resistance. Expansion of these protective γδ T cells required metabolic adaptation to a ketogenic diet because neither feeding mice a high-fat, high-carbohydrate diet nor providing chemical ketone body substrate that bypasses hepatic ketogenesis protected against infection. Therefore, KD-mediated immune-metabolic integration represents a viable avenue toward preventing or alleviating influenza disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Discovery of Protein-RNA Interactions</title>
       <link>https://example.com/tool/2019-10-25-pri/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>

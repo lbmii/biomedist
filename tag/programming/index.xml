@@ -945,6 +945,31 @@
     </item>
     
     <item>
+      <title>Interpreting pathways to discover cancer driver genes with Moonlight</title>
+      <link>https://example.com/article/31900418/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31900418/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer driver gene alterations influence cancer development, occurring in oncogenes, tumor suppressors, and dual role genes. Discovering dual role cancer genes is difficult because of their elusive context-dependent behavior. We define oncogenic mediators as genes controlling biological processes. With them, we classify cancer driver genes, unveiling their roles in cancer mechanisms. To this end, we present Moonlight, a tool that incorporates multiple -omics data to identify critical cancer driver genes. With Moonlight, we analyze 8000+ tumor samples from 18 cancer types, discovering 3310 oncogenic mediators, 151 having dual roles. By incorporating additional data (amplification, mutation, DNA methylation, chromatin accessibility), we reveal 1000+ cancer driver genes, corroborating known molecular mechanisms. Additionally, we confirm critical cancer driver genes by analysing cell-line datasets. We discover inactivation of tumor suppressors in intron regions and that tissue type and subtype indicate dual role status. These findings help explain tumor heterogeneity and could guide therapeutic decisions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Introduction to Data Science</title>
       <link>https://example.com/books/2019-12-12-intro-dt-sci-dt-anal-predict/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
@@ -954,6 +979,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NicheNet: modeling intercellular communication by linking ligands to target genes</title>
+      <link>https://example.com/article/31819264/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31819264/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computational methods that model how gene expression of a cell is influenced by interacting cells are lacking. We present &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt;, a method that predicts ligand-target links between interacting cells by combining their expression data with prior knowledge on signaling and gene regulatory networks. We applied &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; to tumor and immune cell microenvironment data and demonstrate that &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; can infer active ligands and their gene regulatory effects on interacting cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

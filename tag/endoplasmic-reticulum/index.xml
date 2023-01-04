@@ -5,12 +5,37 @@
     <link>https://example.com/tag/endoplasmic-reticulum/</link>
       <atom:link href="https://example.com/tag/endoplasmic-reticulum/index.xml" rel="self" type="application/rss+xml" />
     <description>Endoplasmic Reticulum</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endoplasmic Reticulum</title>
       <link>https://example.com/tag/endoplasmic-reticulum/</link>
     </image>
+    
+    <item>
+      <title>The ER-Localized Transmembrane Protein TMEM39A/SUSR2 Regulates Autophagy by Controlling the Trafficking of the PtdIns(4)P Phosphatase SAC1</title>
+      <link>https://example.com/article/31806350/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31806350/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TMEM39A, encoding an ER-localized transmembrane protein, is a susceptibility locus for multiple autoimmune diseases. The molecular function of TMEM39A remains completely unknown. Here we demonstrated that TMEM39A, also called SUSR2, modulates autophagy activity by regulating the spatial distribution and levels of PtdIns(4)P. Depletion of SUSR2 elevates late endosomal/lysosomal PtdIns(4)P levels, facilitating recruitment of the HOPS complex to promote assembly of the SNARE complex for autophagosome maturation. SUSR2 knockdown also increases the degradative capability of lysosomes. Mechanistically, SUSR2 interacts with the ER-localized PtdIns(4)P phosphatase SAC1 and also the COPII SEC23/SEC24 subunits to promote the ER-to-Golgi transport of SAC1. Retention of SAC1 on the ER in SUSR2 knockdown cells increases the level of PtdIns(3)P produced by the VPS34 complex, promoting autophagosome formation. Our study reveals that TMEM39A/SUSR2 acts as an adaptor protein for efficient export of SAC1 from the ER and provides insights into the pathogenesis of diseases associated with TMEM39A mutations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>UFMylation of RPL26 links translocation-associated quality control to endoplasmic reticulum protein homeostasis</title>

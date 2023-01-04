@@ -319,6 +319,31 @@
     </item>
     
     <item>
+      <title>NicheNet: modeling intercellular communication by linking ligands to target genes</title>
+      <link>https://example.com/article/31819264/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31819264/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computational methods that model how gene expression of a cell is influenced by interacting cells are lacking. We present &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt;, a method that predicts ligand-target links between interacting cells by combining their expression data with prior knowledge on signaling and gene regulatory networks. We applied &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; to tumor and immune cell microenvironment data and demonstrate that &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; can infer active ligands and their gene regulatory effects on interacting cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Data Visualisation with R: 111 Examples</title>
       <link>https://example.com/books/2019-11-23-data-vis-r-111-examp/</link>
       <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>

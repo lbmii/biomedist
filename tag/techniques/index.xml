@@ -604,6 +604,56 @@
     </item>
     
     <item>
+      <title>PIRCh-seq: functional classification of non-coding RNAs associated with distinct histone modifications</title>
+      <link>https://example.com/article/31862000/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31862000/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We develop PIRCh-seq, a method which enables a comprehensive survey of chromatin-associated RNAs in a histone modification-specific manner. We identify hundreds of chromatin-associated RNAs in several cell types with substantially less contamination by nascent transcripts. Non-coding RNAs are found enriched on chromatin and are classified into functional groups based on the patterns of their association with specific histone modifications. We find single-stranded RNA bases are more chromatin-associated, and we discover hundreds of allele-specific RNA-chromatin interactions. These results provide a unique resource to globally study the functions of chromatin-associated lncRNAs and elucidate the basic mechanisms of chromatin-RNA interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NicheNet: modeling intercellular communication by linking ligands to target genes</title>
+      <link>https://example.com/article/31819264/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31819264/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computational methods that model how gene expression of a cell is influenced by interacting cells are lacking. We present &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt;, a method that predicts ligand-target links between interacting cells by combining their expression data with prior knowledge on signaling and gene regulatory networks. We applied &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; to tumor and immune cell microenvironment data and demonstrate that &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; can infer active ligands and their gene regulatory effects on interacting cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Programmable Inhibition and Detection of RNA Viruses Using Cas13</title>
       <link>https://example.com/article/31607545/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
