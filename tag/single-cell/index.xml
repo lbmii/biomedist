@@ -97,5 +97,132 @@
 </description>
     </item>
     
+    <item>
+      <title>Single-cell transcriptomics of the mouse kidney reveals potential cellular targets of kidney disease</title>
+      <link>https://example.com/article/29622724/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29622724/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Touring the kidney, cell by cell&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our kidneys play a critical role in keeping us healthy, a fact of which we are reminded several times each day. This organ&amp;rsquo;s cellular complexity has hindered progress in understanding the mechanisms underlying chronic kidney disease, which affects 10% of the world&amp;rsquo;s population. Using single-cell transcriptional profiling, Park et al. produced a comprehensive cell atlas of the healthy mouse kidney (see the Perspective by Humphreys). An unexpected cell type in the collecting duct appears to be a transitional state between two known cell types. The transition from one cell type to the other is regulated by the Notch signaling pathway and is associated with metabolic acidosis. The authors also find that genetically distinct kidney diseases with common clinical features share common cellular origins.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our understanding of kidney disease pathogenesis is limited by an incomplete molecular characterization of the cell types responsible for the organ’s multiple homeostatic functions. To help fill this knowledge gap, we characterized 57,979 cells from healthy mouse kidneys by using unbiased single-cell RNA sequencing. On the basis of gene expression patterns, we infer that inherited kidney diseases that arise from distinct genetic mutations but share the same phenotypic manifestation originate from the same differentiated cell type. We also found that the collecting duct in kidneys of adult mice generates a spectrum of cell types through a newly identified transitional cell. Computational cell trajectory analysis and in vivo lineage tracing revealed that intercalated cells and principal cells undergo transitions mediated by the Notch signaling pathway. In mouse and human kidney disease, these transitions were shifted toward a principal cell fate and were associated with metabolic acidosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Reversed graph embedding resolves complex single-cell trajectories</title>
+      <link>https://example.com/article/28825705/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/28825705/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell trajectories can unveil how gene regulation governs cell fate decisions. However, learning the structure of complex trajectories with multiple branches remains a challenging computational problem. We present Monocle 2, an algorithm that uses reversed graph embedding to describe multiple fate decisions in a fully unsupervised manner. We applied Monocle 2 to two studies of blood development and found that mutations in the genes encoding key lineage transcription factors divert cells to alternative fates.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Landscape of Infiltrating T Cells in Liver Cancer Revealed by Single-Cell Sequencing</title>
+      <link>https://example.com/article/28622514/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/28622514/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Systematic interrogation of tumor-infiltrating lymphocytes is key to the development of immunotherapies and the prediction of their clinical responses in cancers. Here, we perform deep single-cell RNA sequencing on 5,063 single T cells isolated from peripheral blood, tumor, and adjacent normal tissues from six hepatocellular carcinoma patients. The transcriptional profiles of these individual cells, coupled with assembled T cell receptor (TCR) sequences, enable us to identify 11 T cell subsets based on their molecular and functional properties and delineate their developmental trajectory. Specific subsets such as exhausted CD8+ T cells and Tregs are preferentially enriched and potentially clonally expanded in hepatocellular carcinoma (HCC), and we identified signature genes for each subset. One of the genes, layilin, is upregulated on activated CD8+ T cells and Tregs and represses the CD8+ T cell functions in vitro. This compendium of transcriptome data provides valuable insights and a rich resource for understanding the immune landscape in cancers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell mRNA quantification and differential analysis with Census</title>
+      <link>https://example.com/article/28114287/</link>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/28114287/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell gene expression studies promise to reveal rare cell types and cryptic states, but the high variability of single-cell RNA-seq measurements frustrates efforts to assay transcriptional differences between cells. We introduce the Census algorithm to convert relative RNA-seq expression levels into relative transcript counts without the need for experimental spike-in controls. Analyzing changes in relative transcript counts led to dramatic improvements in accuracy compared to normalized read counts and enabled new statistical tests for identifying developmentally regulated genes. Census counts can be analyzed with widely used regression techniques to reveal changes in cell-fate-dependent gene expression, splicing patterns and allelic imbalances. We reanalyzed single-cell data from several developmental and disease studies, and demonstrate that Census enabled robust analysis at multiple layers of gene regulation. Census is freely available through our updated single-cell analysis toolkit, Monocle 2.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells</title>
+      <link>https://example.com/article/24658644/</link>
+      <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/24658644/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Defining the transcriptional dynamics of a temporal process such as cell differentiation is challenging owing to the high variability in gene expression between individual cells. Time-series gene expression analyses of bulk cells have difficulty distinguishing early and late phases of a transcriptional cascade or identifying rare subpopulations of cells, and single-cell proteomic methods rely on a priori knowledge of key distinguishing markers. Here we describe Monocle, an unsupervised algorithm that increases the temporal resolution of transcriptome dynamics using single-cell RNA-Seq data collected at multiple time points. Applied to the differentiation of primary human myoblasts, Monocle revealed switch-like changes in expression of key regulatory factors, sequential waves of gene regulation, and expression of regulators that were not known to act in differentiation. We validated some of these predicted regulators in a loss-of function screen. Monocle can in principle be used to recover single-cell gene expression kinetics from a wide array of cellular processes, including differentiation, proliferation and oncogenic transformation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

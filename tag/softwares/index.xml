@@ -429,5 +429,37 @@
 </description>
     </item>
     
+    <item>
+      <title>SeqMap: mapping massive amount of oligonucleotides to the genome</title>
+      <link>https://example.com/article/18697769/</link>
+      <pubDate>Tue, 12 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/18697769/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Go and 
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download SeqMap&lt;/strong&gt;&lt;/a&gt; from official website.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/&#34;&gt;Click here&lt;/a&gt; to read more about how to use.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a tool for mapping large amount of short sequences to the genome. It is designed for finding all the places in a reference genome where each sequence may come from. This task is essential to the analysis of data from ultra high-throughput sequencing machines. With a carefully designed index-filtering algorithm and an efficient implementation, &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; can map tens of millions of short sequences to a genome of several billions of nucleotides. Multiple substitutions and insertions/deletions of the nucleotide bases in the sequences can be tolerated and therefore detected. &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; supports FASTA input format and various output formats, and provides command line options for tuning almost every aspect of the mapping process. A typical mapping can be done in a few hours on a desktop PC. Parallel use of &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; on a cluster is also very straightforward.&lt;/p&gt;
+&lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&amp;amp;from_uid=18697769&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;see all similiar articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&amp;amp;from_uid=18697769&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;see all &amp;ldquo;Cited by&amp;rdquo; articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

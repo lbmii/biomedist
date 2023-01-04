@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kidney | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/kidney/</link>
+      <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kidney</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Kidney</title>
+      <link>https://example.com/tag/kidney/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell transcriptomics of the mouse kidney reveals potential cellular targets of kidney disease</title>
+      <link>https://example.com/article/29622724/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29622724/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Touring the kidney, cell by cell&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our kidneys play a critical role in keeping us healthy, a fact of which we are reminded several times each day. This organ&amp;rsquo;s cellular complexity has hindered progress in understanding the mechanisms underlying chronic kidney disease, which affects 10% of the world&amp;rsquo;s population. Using single-cell transcriptional profiling, Park et al. produced a comprehensive cell atlas of the healthy mouse kidney (see the Perspective by Humphreys). An unexpected cell type in the collecting duct appears to be a transitional state between two known cell types. The transition from one cell type to the other is regulated by the Notch signaling pathway and is associated with metabolic acidosis. The authors also find that genetically distinct kidney diseases with common clinical features share common cellular origins.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our understanding of kidney disease pathogenesis is limited by an incomplete molecular characterization of the cell types responsible for the organ’s multiple homeostatic functions. To help fill this knowledge gap, we characterized 57,979 cells from healthy mouse kidneys by using unbiased single-cell RNA sequencing. On the basis of gene expression patterns, we infer that inherited kidney diseases that arise from distinct genetic mutations but share the same phenotypic manifestation originate from the same differentiated cell type. We also found that the collecting duct in kidneys of adult mice generates a spectrum of cell types through a newly identified transitional cell. Computational cell trajectory analysis and in vivo lineage tracing revealed that intercalated cells and principal cells undergo transitions mediated by the Notch signaling pathway. In mouse and human kidney disease, these transitions were shifted toward a principal cell fate and were associated with metabolic acidosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

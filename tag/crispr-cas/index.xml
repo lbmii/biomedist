@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRISPR-Cas | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/crispr-cas/</link>
+      <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
+    <description>CRISPR-Cas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>CRISPR-Cas</title>
+      <link>https://example.com/tag/crispr-cas/</link>
+    </image>
+    
+    <item>
+      <title>Functional CRISPR screening identifies the ufmylation pathway as a regulator of SQSTM1/p62</title>
+      <link>https://example.com/article/27351204/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/27351204/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SQSTM1 is an adaptor protein that integrates multiple cellular signaling pathways and whose expression is tightly regulated at the transcriptional and post-translational level. Here, we describe a forward genetic screening paradigm exploiting CRISPR-mediated genome editing coupled to a cell selection step by FACS to identify regulators of SQSTM1. Through systematic comparison of pooled libraries, we show that CRISPR is superior to RNAi in identifying known SQSTM1 modulators. A genome-wide CRISPR screen exposed MTOR signalling and the entire macroautophagy machinery as key regulators of SQSTM1 and identified several novel modulators including HNRNPM, SLC39A14, SRRD, PGK1 and the ufmylation cascade. We show that ufmylation regulates SQSTM1 by eliciting a cell type-specific ER stress response which induces SQSTM1 expression and results in its accumulation in the cytosol. This study validates pooled CRISPR screening as a powerful method to map the repertoire of cellular pathways that regulate the fate of an individual target protein.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

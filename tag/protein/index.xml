@@ -294,5 +294,32 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
 </description>
     </item>
     
+    <item>
+      <title>The harmonizome: a collection of processed datasets gathered to serve and mine knowledge about genes and proteins</title>
+      <link>https://example.com/article/27374120/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/27374120/</guid>
+      <description>&lt;p&gt;Thanks to technological advances in genomics, transcriptomics, proteomics, metabolomics, and related fields, projects that generate a large number of measurements of the properties of cells, tissues, model organisms, and patients are becoming commonplace in biomedical research. In addition, curation projects are making great progress mining biomedical literature to extract and aggregate decades worth of research findings into online databases. Such projects are generating a wealth of information that potentially can guide research toward novel biomedical discoveries and advances in healthcare. To facilitate access to and learning from biomedical Big Data, we created the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;: a collection of information about genes and proteins from 112 datasets provided by 65 online resources.&lt;/p&gt;
+&lt;!---more---&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Genomics, epigenomics, transcriptomics, proteomics and metabolomics efforts rapidly generate a plethora of data on the activity and levels of biomolecules within mammalian cells. At the same time, curation projects that organize knowledge from the biomedical literature into online databases are expanding. Hence, there is a wealth of information about genes, proteins and their associations, with an urgent need for data integration to achieve better knowledge extraction and data reuse. For this purpose, we developed the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;: a collection of processed datasets gathered to serve and mine knowledge about genes and proteins from over 70 major online resources. We extracted, abstracted and organized data into ∼72 million functional associations between genes/proteins and their attributes. Such attributes could be physical relationships with other biomolecules, expression in cell lines and tissues, genetic associations with knockout mouse or human phenotypes, or changes in expression after drug treatment. We stored these associations in a relational database along with rich metadata for the genes/proteins, their attributes and the original resources. The freely available &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; web portal provides a graphical user interface, a web service and a mobile app for querying, browsing and downloading all of the collected data. To demonstrate the utility of the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;, we computed and visualized gene–gene and attribute–attribute similarity networks, and through unsupervised clustering, identified many unexpected relationships by combining pairs of datasets such as the association between kinase perturbations and disease signatures. We also applied supervised machine learning methods to predict novel substrates for kinases, endogenous ligands for G-protein coupled receptors, mouse phenotypes for knockout genes, and classified unannotated transmembrane proteins for likelihood of being ion channels. The &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; is a comprehensive resource of knowledge about genes and proteins, and as such, it enables researchers to discover novel relationships between biological entities, as well as form novel data-driven hypotheses for experimental validation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
