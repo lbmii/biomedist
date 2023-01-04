@@ -604,6 +604,56 @@
     </item>
     
     <item>
+      <title>Programmable Inhibition and Detection of RNA Viruses Using Cas13</title>
+      <link>https://example.com/article/31607545/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31607545/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The CRISPR effector Cas13 could be an effective antiviral for single-stranded RNA (ssRNA) viruses because it programmably cleaves RNAs complementary to its CRISPR RNA (crRNA). Here, we computationally identify thousands of potential Cas13 crRNA target sites in hundreds of ssRNA viral species that can potentially infect humans. We experimentally demonstrate Cas13&amp;rsquo;s potent activity against three distinct ssRNA viruses: lymphocytic choriomeningitis virus (LCMV); influenza A virus (IAV); and vesicular stomatitis virus (VSV). Combining this antiviral activity with Cas13-based diagnostics, we develop Cas13-assisted restriction of viral expression and readout (CARVER), an end-to-end platform that uses Cas13 to detect and destroy viral RNA. We further screen hundreds of crRNAs along the LCMV genome to evaluate how conservation and target RNA nucleotide content influence Cas13&amp;rsquo;s antiviral activity. Our results demonstrate that Cas13 can be harnessed to target a wide range of ssRNA viruses and CARVER&amp;rsquo;s potential broad utility for rapid diagnostic and antiviral drug development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells</title>
+      <link>https://example.com/article/30890159/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30890159/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell RNA-seq quantifies biological heterogeneity across both discrete cell types and continuous cell transitions. &lt;a href=&#34;https://github.com/theislab/paga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Partition-based graph abstraction (PAGA)&lt;/a&gt; provides an interpretable graph-like map of the arising data manifold, based on estimating connectivity of manifold partitions. &lt;a href=&#34;https://github.com/theislab/paga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PAGA&lt;/a&gt; maps preserve the global topology of data, allow analyzing data at different resolutions, and result in much higher computational efficiency of the typical exploratory data analysis workflow. We demonstrate the method by inferring structure-rich cell maps with consistent topology across four hematopoietic datasets, adult planaria and the zebrafish embryo and benchmark computational performance on one million neurons.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Entirely plasmid-based reverse genetics system for rotaviruses</title>
       <link>https://example.com/article/28137864/</link>
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>

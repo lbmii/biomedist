@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skin | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/skin/</link>
+      <atom:link href="https://example.com/tag/skin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Skin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Skin</title>
+      <link>https://example.com/tag/skin/</link>
+    </image>
+    
+    <item>
+      <title>Mast cells are critical for controlling the bacterial burden and the healing of infected wounds</title>
+      <link>https://example.com/article/31548430/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31548430/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skin wound infections are a significant health problem, and antibiotic resistance is on the rise. Mast cells (MCs) have been shown to contribute to host-defense responses in certain bacterial infections, but their role in skin wound superinfection is unknown. We subjected 2 MC-deficient mouse strains to Pseudomonas aeruginosa skin wound infection and found significantly delayed wound closure in infected skin wounds. This delay was associated with impaired bacterial clearance in the absence of MCs. Engraftment of MCs restored both bacterial clearance and wound closure. Bacterial killing was dependent on IL-6 released from MCs, and engraftment with IL-6-deficient MCs failed to control wound infection. Treatment with recombinant IL-6 enhanced bacterial killing and resulted in the control of wound infection and normal wound healing in vivo. Taken together, our results demonstrate a defense mechanism for boosting host innate immune responses, namely effects of MC-derived IL-6 on antimicrobial functions of keratinocytes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

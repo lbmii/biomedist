@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enterovirus | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/enterovirus/</link>
+      <atom:link href="https://example.com/tag/enterovirus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Enterovirus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Enterovirus</title>
+      <link>https://example.com/tag/enterovirus/</link>
+    </image>
+    
+    <item>
+      <title>Enterovirus pathogenesis requires the host methyltransferase SETD3</title>
+      <link>https://example.com/article/31527793/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31527793/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enteroviruses (EVs) comprise a large genus of positive-sense, single-stranded RNA viruses whose members cause a number of important and widespread human diseases, including poliomyelitis, myocarditis, acute flaccid myelitis and the common cold. How EVs co-opt cellular functions to promote replication and spread is incompletely understood. Here, using genome-scale CRISPR screens, we identify the actin histidine methyltransferase SET domain containing 3 (SETD3) as critically important for viral infection by a broad panel of EVs, including rhinoviruses and non-polio EVs increasingly linked to severe neurological disease such as acute flaccid myelitis (EV-D68) and viral encephalitis (EV-A71). We show that cytosolic SETD3, independent of its methylation activity, is required for the RNA replication step in the viral life cycle. Using quantitative affinity purification-mass spectrometry, we show that SETD3 specifically interacts with the viral 2A protease of multiple enteroviral species, and we map the residues in 2A that mediate this interaction. 2A mutants that retain protease activity but are unable to interact with SETD3 are severely compromised in RNA replication. These data suggest a role of the viral 2A protein in RNA replication beyond facilitating proteolytic cleavage. Finally, we show that SETD3 is essential for in vivo replication and pathogenesis in multiple mouse models for EV infection, including CV-A10, EV-A71 and EV-D68. Our results reveal a crucial role of a host protein in viral pathogenesis, and suggest targeting SETD3 as a potential mechanism for controlling viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

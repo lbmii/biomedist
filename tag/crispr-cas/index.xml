@@ -5,12 +5,37 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>Programmable Inhibition and Detection of RNA Viruses Using Cas13</title>
+      <link>https://example.com/article/31607545/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31607545/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The CRISPR effector Cas13 could be an effective antiviral for single-stranded RNA (ssRNA) viruses because it programmably cleaves RNAs complementary to its CRISPR RNA (crRNA). Here, we computationally identify thousands of potential Cas13 crRNA target sites in hundreds of ssRNA viral species that can potentially infect humans. We experimentally demonstrate Cas13&amp;rsquo;s potent activity against three distinct ssRNA viruses: lymphocytic choriomeningitis virus (LCMV); influenza A virus (IAV); and vesicular stomatitis virus (VSV). Combining this antiviral activity with Cas13-based diagnostics, we develop Cas13-assisted restriction of viral expression and readout (CARVER), an end-to-end platform that uses Cas13 to detect and destroy viral RNA. We further screen hundreds of crRNAs along the LCMV genome to evaluate how conservation and target RNA nucleotide content influence Cas13&amp;rsquo;s antiviral activity. Our results demonstrate that Cas13 can be harnessed to target a wide range of ssRNA viruses and CARVER&amp;rsquo;s potential broad utility for rapid diagnostic and antiviral drug development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Functional CRISPR screening identifies the ufmylation pathway as a regulator of SQSTM1/p62</title>

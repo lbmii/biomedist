@@ -5,12 +5,239 @@
     <link>https://example.com/tag/virology/</link>
       <atom:link href="https://example.com/tag/virology/index.xml" rel="self" type="application/rss+xml" />
     <description>Virology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Virology</title>
       <link>https://example.com/tag/virology/</link>
     </image>
+    
+    <item>
+      <title>Commensal viruses maintain intestinal intraepithelial lymphocytes via noncanonical RIG-I signaling</title>
+      <link>https://example.com/article/31636462/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31636462/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Much attention has focused on commensal bacteria in health and disease, but the role of commensal viruses is understudied. Although metagenomic analysis shows that the intestine of healthy humans and animals harbors various commensal viruses and the dysbiosis of these viruses can be associated with inflammatory diseases, there is still a lack of causal data and underlying mechanisms to understand the physiological role of commensal viruses in intestinal homeostasis. In the present study, we show that commensal viruses are essential for the homeostasis of intestinal intraepithelial lymphocytes (IELs). Mechanistically, the cytosolic viral RNA-sensing receptor RIG-I in antigen-presenting cells can recognize commensal viruses and maintain IELs via a type I interferon-independent, but MAVS-IRF1-IL-15 axis-dependent, manner. The recovery of IELs by interleukin-15 administration reverses the susceptibility of commensal virus-depleted mice to dextran sulfate sodium-induced colitis. Collectively, our results indicate that commensal viruses maintain the IELs and consequently sustain intestinal homeostasis via noncanonical RIG-I signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Programmable Inhibition and Detection of RNA Viruses Using Cas13</title>
+      <link>https://example.com/article/31607545/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31607545/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The CRISPR effector Cas13 could be an effective antiviral for single-stranded RNA (ssRNA) viruses because it programmably cleaves RNAs complementary to its CRISPR RNA (crRNA). Here, we computationally identify thousands of potential Cas13 crRNA target sites in hundreds of ssRNA viral species that can potentially infect humans. We experimentally demonstrate Cas13&amp;rsquo;s potent activity against three distinct ssRNA viruses: lymphocytic choriomeningitis virus (LCMV); influenza A virus (IAV); and vesicular stomatitis virus (VSV). Combining this antiviral activity with Cas13-based diagnostics, we develop Cas13-assisted restriction of viral expression and readout (CARVER), an end-to-end platform that uses Cas13 to detect and destroy viral RNA. We further screen hundreds of crRNAs along the LCMV genome to evaluate how conservation and target RNA nucleotide content influence Cas13&amp;rsquo;s antiviral activity. Our results demonstrate that Cas13 can be harnessed to target a wide range of ssRNA viruses and CARVER&amp;rsquo;s potential broad utility for rapid diagnostic and antiviral drug development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enterovirus pathogenesis requires the host methyltransferase SETD3</title>
+      <link>https://example.com/article/31527793/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31527793/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enteroviruses (EVs) comprise a large genus of positive-sense, single-stranded RNA viruses whose members cause a number of important and widespread human diseases, including poliomyelitis, myocarditis, acute flaccid myelitis and the common cold. How EVs co-opt cellular functions to promote replication and spread is incompletely understood. Here, using genome-scale CRISPR screens, we identify the actin histidine methyltransferase SET domain containing 3 (SETD3) as critically important for viral infection by a broad panel of EVs, including rhinoviruses and non-polio EVs increasingly linked to severe neurological disease such as acute flaccid myelitis (EV-D68) and viral encephalitis (EV-A71). We show that cytosolic SETD3, independent of its methylation activity, is required for the RNA replication step in the viral life cycle. Using quantitative affinity purification-mass spectrometry, we show that SETD3 specifically interacts with the viral 2A protease of multiple enteroviral species, and we map the residues in 2A that mediate this interaction. 2A mutants that retain protease activity but are unable to interact with SETD3 are severely compromised in RNA replication. These data suggest a role of the viral 2A protein in RNA replication beyond facilitating proteolytic cleavage. Finally, we show that SETD3 is essential for in vivo replication and pathogenesis in multiple mouse models for EV infection, including CV-A10, EV-A71 and EV-D68. Our results reveal a crucial role of a host protein in viral pathogenesis, and suggest targeting SETD3 as a potential mechanism for controlling viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The structure of the influenza A virus genome</title>
+      <link>https://example.com/article/31332385/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31332385/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A viruses (IAVs) constitute a major threat to human health. The IAV genome consists of eight single-stranded viral RNA segments contained in separate viral ribonucleoprotein (vRNP) complexes that are packaged together into a single virus particle. The structure of viral RNA is believed to play a role in assembling the different vRNPs into budding virions1-8 and in directing reassortment between IAVs9. Reassortment between established human IAVs and IAVs harboured in the animal reservoir can lead to the emergence of pandemic influenza strains to which there is little pre-existing immunity in the human population10,11. While previous studies have revealed the overall organization of the proteins within vRNPs, characterization of viral RNA structure using conventional structural methods is hampered by limited resolution and an inability to resolve dynamic components12,13. Here, we employ multiple high-throughput sequencing approaches to generate a global high-resolution structure of the IAV genome. We show that different IAV genome segments acquire distinct RNA conformations and form both intra- and intersegment RNA interactions inside influenza virions. We use our detailed map of IAV genome structure to provide direct evidence for how intersegment RNA interactions drive vRNP cosegregation during reassortment between different IAV strains. The work presented here is a roadmap both for the development of improved vaccine strains and for the creation of a framework to &amp;lsquo;risk assess&amp;rsquo; reassortment potential to better predict the emergence of new pandemic influenza strains.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Protection against influenza infection requires early recognition by inflammatory dendritic cells through C-type lectin receptor SIGN-R1</title>
+      <link>https://example.com/article/31358982/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31358982/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The early phase of influenza infection occurs in the upper respiratory tract and the trachea, but little is known about the initial events of virus recognition and control of viral dissemination by the immune system. Here, we report that inflammatory dendritic cells (IDCs) are recruited to the trachea shortly after influenza infection through type I interferon-mediated production of the chemokine CCL2. We further show that recruited IDCs express the C-type lectin receptor SIGN-R1, which mediates direct recognition of the virus by interacting with N-linked glycans present in glycoproteins of the virion envelope. Activation of IDCs via SIGN-R1 triggers the production of the chemokines CCL5, CXCL9 and CXCL10, which initiate the recruitment of protective natural killer (NK) cells in the infected trachea. In the absence of SIGN-R1, the recruitment and activation of NK cells is impaired, leading to uncontrolled viral proliferation. In sum, our results provide insight into the orchestration of the early cellular and molecular events involved in immune protection against influenza.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Virus Sequencing of Influenza Infections That Trigger Innate Immunity</title>
+      <link>https://example.com/article/31068418/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31068418/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza virus-infected cells vary widely in their expression of viral genes and only occasionally activate innate immunity. Here, we develop a new method to assess how the genetic variation in viral populations contributes to this heterogeneity. We do this by determining the transcriptome and full-length sequences of all viral genes in single cells infected with a nominally &amp;ldquo;pure&amp;rdquo; stock of influenza virus. Most cells are infected by virions with defects, some of which increase the frequency of innate-immune activation. These immunostimulatory defects are diverse and include mutations that perturb the function of the viral polymerase protein PB1, large internal deletions in viral genes, and failure to express the virus&amp;rsquo;s interferon antagonist NS1. However, immune activation remains stochastic in cells infected by virions with these defects and occasionally is triggered even by virions that express unmutated copies of all genes. Our work shows that the diverse spectrum of defects in influenza virus populations contributes to-but does not completely explain-the heterogeneity in viral gene expression and immune activation in single infected cells.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because influenza virus has a high mutation rate, many cells are infected by mutated virions. But so far, it has been impossible to fully characterize the sequence of the virion infecting any given cell, since conventional techniques such as flow cytometry and single-cell transcriptome sequencing (scRNA-seq) only detect if a protein or transcript is present, not its sequence. Here we develop a new approach that uses long-read PacBio sequencing to determine the sequences of virions infecting single cells. We show that viral genetic variation explains some but not all of the cell-to-cell variability in viral gene expression and innate immune induction. Overall, our study provides the first complete picture of how viral mutations affect the course of infection in single cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Direct interactions with influenza promote bacterial adherence during respiratory infections</title>
+      <link>https://example.com/article/31110359/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31110359/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epidemiological observations and animal models have long shown synergy between influenza virus infections and bacterial infections. Influenza virus infection leads to an increase in both the susceptibility to secondary bacterial infections and the severity of the bacterial infections, primarily pneumonias caused by Streptococcus pneumoniae or Staphylococcus aureus. We show that, in addition to the widely described immune modulation and tissue-remodelling mechanisms of bacterial-viral synergy, the virus interacts directly with the bacterial surface. Similar to the recent observation of direct interactions between enteric bacteria and enteric viruses, we observed a direct interaction between influenza virus on the surface of Gram-positive, S. pneumoniae and S. aureus, and Gram-negative, Moraxella catarrhalis and non-typeable Haemophilus influenzae, bacterial colonizers and pathogens in the respiratory tract. Pre-incubation of influenza virus with bacteria, followed by the removal of unbound virus, increased bacterial adherence to respiratory epithelial cells in culture. This result was recapitulated in vivo, with higher bacterial burdens in murine tissues when infected with pneumococci pre-incubated with influenza virus versus control bacteria without virus. These observations support an additional mechanism of bacteria-influenza virus synergy at the earliest steps of pathogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Low ambient humidity impairs barrier function and innate resistance against influenza infection</title>
+      <link>https://example.com/article/31085641/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31085641/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the temperate regions, seasonal influenza virus outbreaks correlate closely with decreases in humidity. While low ambient humidity is known to enhance viral transmission, its impact on host response to influenza virus infection and disease outcome remains unclear. Here, we showed that housing Mx1 congenic mice in low relative humidity makes mice more susceptible to severe disease following respiratory challenge with influenza A virus. We find that inhalation of dry air impairs mucociliary clearance, innate antiviral defense, and tissue repair. Moreover, disease exacerbated by low relative humidity was ameliorated in caspase-1/11-deficient Mx1 mice, independent of viral burden. Single-cell RNA sequencing revealed that induction of IFN-stimulated genes in response to viral infection was diminished in multiple cell types in the lung of mice housed in low humidity condition. These results indicate that exposure to dry air impairs host defense against influenza infection, reduces tissue repair, and inflicts caspase-dependent disease pathology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Naproxen Exhibits Broad Anti-influenza Virus Activity in Mice by Impeding Viral Nucleoprotein Nuclear Export</title>
+      <link>https://example.com/article/31067470/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31067470/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Naproxen is a non-steroidal anti-inflammatory drug that has previously been shown to exert antiviral activity against influenza A virus by inhibiting nucleoprotein (NP) binding to RNA. Here, we show that naproxen is a potential broad, multi-mechanistic anti-influenza virus therapeutic, as it inhibits influenza B virus replication both in vivo and in vitro. The anti-influenza B virus activity of naproxen is more efficient than that of the commonly used neuraminidase inhibitor oseltamivir in mice. Furthermore, the NP of influenza B virus (BNP) has a higher binding affinity to naproxen than influenza A virus NP (ANP). Specifically, naproxen targets the NP at residues F209 (BNP) and Y148 (ANP). This interaction antagonizes the nuclear export of NP normally mediated by the host export protein CRM1. This study reveals a crucial mechanism of broad-spectrum anti-influenza virus activity of naproxen, suggesting that the existing drug naproxen may be used as an anti-influenza drug.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Apoptotic Caspases Suppress Type I Interferon Production via the Cleavage of cGAS, MAVS, and IRF3</title>

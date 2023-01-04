@@ -4123,6 +4123,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>GMrepo: a database of curated and consistently annotated human gut metagenomes</title>
+      <link>https://example.com/article/31504765/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31504765/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; (data repository for Gut Microbiota) is a database of curated and consistently annotated human gut metagenomes. Its main purpose is to facilitate the reusability and accessibility of the rapidly growing human metagenomic data. This is achieved by consistently annotating the microbial contents of collected samples using state-of-art toolsets and by manual curation of the meta-data of the corresponding human hosts. &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; organizes the collected samples according to their associated phenotypes and includes all possible related meta-data such as age, sex, country, body-mass-index (BMI) and recent antibiotics usage. To make relevant information easier to access, &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; is equipped with a graphical query builder, enabling users to make customized, complex and biologically relevant queries. For example, to find (1) samples from healthy individuals of 18 to 25 years old with BMIs between 18.5 and 24.9, or (2) projects that are related to colorectal neoplasms, with each containing &amp;gt;100 samples and both patients and healthy controls. Precomputed species/genus relative abundances, prevalence within and across phenotypes, and pairwise co-occurrence information are all available at the website and accessible through programmable interfaces. So far, &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; contains 58 903 human gut samples/runs (including 17 618 metagenomes and 41 285 amplicons) from 253 projects concerning 92 phenotypes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Introduction to Data Science</title>
       <link>https://example.com/books/2019-12-12-intro-dt-sci-dt-anal-predict/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
@@ -4410,6 +4435,431 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Transcriptional Basis of Mouse and Human Dendritic Cell Heterogeneity</title>
+      <link>https://example.com/article/31668803/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31668803/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dendritic cells (DCs) play a critical role in orchestrating adaptive immune responses due to their unique ability to initiate T cell responses and direct their differentiation into effector lineages. Classical DCs have been divided into two subsets, cDC1 and cDC2, based on phenotypic markers and their distinct abilities to prime CD8 and CD4 T cells. While the transcriptional regulation of the cDC1 subset has been well characterized, cDC2 development and function remain poorly understood. By combining transcriptional and chromatin analyses with genetic reporter expression, we identified two principal cDC2 lineages defined by distinct developmental pathways and transcriptional regulators, including T-bet and RORγt, two key transcription factors known to define innate and adaptive lymphocyte subsets. These novel cDC2 lineages were characterized by distinct metabolic and functional programs. Extending our findings to humans revealed conserved DC heterogeneity and the presence of the newly defined cDC2 subsets in human cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic regulation of gene expression by histone lactylation</title>
+      <link>https://example.com/article/31645732/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31645732/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Warburg effect, which originally described increased production of lactate in cancer, is associated with diverse cellular processes such as angiogenesis, hypoxia, polarization of macrophages and activation of T cells. This phenomenon is intimately linked to several diseases including neoplasia, sepsis and autoimmune diseases1,2. Lactate, which is converted from pyruvate in tumour cells, is widely known as an energy source and metabolic by-product. However, its non-metabolic functions in physiology and disease remain unknown. Here we show that lactate-derived lactylation of histone lysine residues serves as an epigenetic modification that directly stimulates gene transcription from chromatin. We identify 28 lactylation sites on core histones in human and mouse cells. Hypoxia and bacterial challenges induce the production of lactate by glycolysis, and this acts as a precursor that stimulates histone lactylation. Using M1 macrophages that have been exposed to bacteria as a model system, we show that histone lactylation has different temporal dynamics from acetylation. In the late phase of M1 macrophage polarization, increased histone lactylation induces homeostatic genes that are involved in wound healing, including Arg1. Collectively, our results suggest that an endogenous ‘lactate clock’ in bacterially challenged M1 macrophages turns on gene expression to promote homeostasis. Histone lactylation thus represents an opportunity to improve our understanding of the functions of lactate and its role in diverse pathophysiological conditions, including infection and cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Commensal viruses maintain intestinal intraepithelial lymphocytes via noncanonical RIG-I signaling</title>
+      <link>https://example.com/article/31636462/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31636462/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Much attention has focused on commensal bacteria in health and disease, but the role of commensal viruses is understudied. Although metagenomic analysis shows that the intestine of healthy humans and animals harbors various commensal viruses and the dysbiosis of these viruses can be associated with inflammatory diseases, there is still a lack of causal data and underlying mechanisms to understand the physiological role of commensal viruses in intestinal homeostasis. In the present study, we show that commensal viruses are essential for the homeostasis of intestinal intraepithelial lymphocytes (IELs). Mechanistically, the cytosolic viral RNA-sensing receptor RIG-I in antigen-presenting cells can recognize commensal viruses and maintain IELs via a type I interferon-independent, but MAVS-IRF1-IL-15 axis-dependent, manner. The recovery of IELs by interleukin-15 administration reverses the susceptibility of commensal virus-depleted mice to dextran sulfate sodium-induced colitis. Collectively, our results indicate that commensal viruses maintain the IELs and consequently sustain intestinal homeostasis via noncanonical RIG-I signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>FSP1 is a glutathione-independent ferroptosis suppressor</title>
+      <link>https://example.com/article/31634899/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31634899/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is an iron-dependent form of necrotic cell death marked by oxidative damage to phospholipids. To date, ferroptosis has been thought to be controlled only by the phospholipid hydroperoxide-reducing enzyme glutathione peroxidase 4 (GPX4) and radical-trapping antioxidants. However, elucidation of the factors that underlie the sensitivity of a given cell type to ferroptosis is crucial to understand the pathophysiological role of ferroptosis and how it may be exploited for the treatment of cancer. Although metabolic constraints and phospholipid composition contribute to ferroptosis sensitivity, no cell-autonomous mechanisms have been identified that account for the resistance of cells to ferroptosis. Here we used an expression cloning approach to identify genes in human cancer cells that are able to complement the loss of GPX4. We found that the flavoprotein apoptosis-inducing factor mitochondria-associated 2 (AIFM2) is a previously unrecognized anti-ferroptotic gene. AIFM2, which we renamed ferroptosis suppressor protein 1 (FSP1) and which was initially described as a pro-apoptotic gene, confers protection against ferroptosis elicited by GPX4 deletion. We further demonstrate that the suppression of ferroptosis by FSP1 is mediated by ubiquinone (also known as coenzyme Q&lt;sub&gt;10&lt;/sub&gt;, CoQ&lt;sub&gt;10&lt;/sub&gt;): the reduced form, ubiquinol, traps lipid peroxyl radicals that mediate lipid peroxidation, whereas FSP1 catalyses the regeneration of CoQ&lt;sub&gt;10&lt;/sub&gt; using NAD(P)H. Pharmacological targeting of FSP1 strongly synergizes with GPX4 inhibitors to trigger ferroptosis in a number of cancer entities. In conclusion, the FSP1-CoQ&lt;sub&gt;10&lt;/sub&gt;-NAD(P)H pathway exists as a stand-alone parallel system, which co-operates with GPX4 and glutathione to suppress phospholipid peroxidation and ferroptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial fragmentation limits NK cell-based tumor immunosurveillance</title>
+      <link>https://example.com/article/31636463/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31636463/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Natural killer (NK) cells have crucial roles in tumor surveillance. We found that tumor-infiltrating NK cells in human liver cancers had small, fragmented mitochondria in their cytoplasm, whereas liver NK cells outside tumors, as well as peripheral NK cells, had normal large, tubular mitochondria. This fragmentation was correlated with reduced cytotoxicity and NK cell loss, resulting in tumor evasion of NK cell-mediated surveillance, which predicted poor survival in patients with liver cancer. The hypoxic tumor microenvironment drove the sustained activation of mechanistic target of rapamycin-GTPase dynamin-related protein 1 (mTOR-Drp1) in NK cells, resulting in excessive mitochondrial fission into fragments. Inhibition of mitochondrial fragmentation improved mitochondrial metabolism, survival and the antitumor capacity of NK cells. These data reveal a mechanism of immune escape that might be targetable and could invigorate NK cell-based cancer treatments.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The CoQ oxidoreductase FSP1 acts parallel to GPX4 to inhibit ferroptosis</title>
+      <link>https://example.com/article/31634900/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31634900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a form of regulated cell death that is caused by the iron-dependent peroxidation of lipids. The glutathione-dependent lipid hydroperoxidase glutathione peroxidase 4 (GPX4) prevents ferroptosis by converting lipid hydroperoxides into non-toxic lipid alcohols. Ferroptosis has previously been implicated in the cell death that underlies several degenerative conditions, and induction of ferroptosis by the inhibition of GPX4 has emerged as a therapeutic strategy to trigger cancer cell death. However, sensitivity to GPX4 inhibitors varies greatly across cancer cell lines, which suggests that additional factors govern resistance to ferroptosis. Here, using a synthetic lethal CRISPR-Cas9 screen, we identify ferroptosis suppressor protein 1 (FSP1) (previously known as apoptosis-inducing factor mitochondrial 2 (AIFM2)) as a potent ferroptosis-resistance factor. Our data indicate that myristoylation recruits FSP1 to the plasma membrane where it functions as an oxidoreductase that reduces coenzyme Q&lt;sub&gt;10&lt;/sub&gt; (CoQ) (also known as ubiquinone-10), which acts as a lipophilic radical-trapping antioxidant that halts the propagation of lipid peroxides. We further find that FSP1 expression positively correlates with ferroptosis resistance across hundreds of cancer cell lines, and that FSP1 mediates resistance to ferroptosis in lung cancer cells in culture and in mouse tumour xenografts. Thus, our data identify FSP1 as a key component of a non-mitochondrial CoQ antioxidant system that acts in parallel to the canonical glutathione-based GPX4 pathway. These findings define a ferroptosis suppression pathway and indicate that pharmacological inhibition of FSP1 may provide an effective strategy to sensitize cancer cells to ferroptosis-inducing chemotherapeutic agents.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Programmable Inhibition and Detection of RNA Viruses Using Cas13</title>
+      <link>https://example.com/article/31607545/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31607545/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The CRISPR effector Cas13 could be an effective antiviral for single-stranded RNA (ssRNA) viruses because it programmably cleaves RNAs complementary to its CRISPR RNA (crRNA). Here, we computationally identify thousands of potential Cas13 crRNA target sites in hundreds of ssRNA viral species that can potentially infect humans. We experimentally demonstrate Cas13&amp;rsquo;s potent activity against three distinct ssRNA viruses: lymphocytic choriomeningitis virus (LCMV); influenza A virus (IAV); and vesicular stomatitis virus (VSV). Combining this antiviral activity with Cas13-based diagnostics, we develop Cas13-assisted restriction of viral expression and readout (CARVER), an end-to-end platform that uses Cas13 to detect and destroy viral RNA. We further screen hundreds of crRNAs along the LCMV genome to evaluate how conservation and target RNA nucleotide content influence Cas13&amp;rsquo;s antiviral activity. Our results demonstrate that Cas13 can be harnessed to target a wide range of ssRNA viruses and CARVER&amp;rsquo;s potential broad utility for rapid diagnostic and antiviral drug development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>UFMylation of RPL26 links translocation-associated quality control to endoplasmic reticulum protein homeostasis</title>
+      <link>https://example.com/article/31595041/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31595041/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protein biogenesis at the endoplasmic reticulum (ER) in eukaryotic cells is monitored by a protein quality control system named ER-associated protein degradation (ERAD). While there has been substantial progress in understanding how ERAD eliminates defective polypeptides generated from erroneous folding, how cells remove nascent chains stalled in the translocon during co-translational protein insertion into the ER is unclear. Here we show that ribosome stalling during protein translocation induces the attachment of UFM1, a ubiquitin-like modifier, to two conserved lysine residues near the COOH-terminus of the 60S ribosomal subunit RPL26 (uL24) at the ER. Strikingly, RPL26 UFMylation enables the degradation of stalled nascent chains, but unlike ERAD or previously established cytosolic ribosome-associated quality control (RQC), which uses proteasome to degrade their client proteins, ribosome UFMylation promotes the targeting of a translocation-arrested ER protein to lysosomes for degradation. RPL26 UFMylation is upregulated during erythroid differentiation to cope with increased secretory flow, and compromising UFMylation impairs protein secretion, and ultimately hemoglobin production. We propose that in metazoan, co-translational protein translocation into the ER is safeguarded by a UFMylation-dependent protein quality control mechanism, which when impaired causes anemia in mice and abnormal neuronal development in humans.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ikaros prevents autoimmunity by controlling anergy and Toll-like receptor signaling in B cells</title>
+      <link>https://example.com/article/31591571/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31591571/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The establishment of a diverse B cell antigen receptor (BCR) repertoire by V(D)J recombination also generates autoreactive B cells. Anergy is one tolerance mechanism; it renders autoreactive B cells insensitive to stimulation by self-antigen, whereas Toll-like receptor (TLR) signaling can reactivate anergic B cells. Here, we describe a critical role of the transcription factor Ikaros in controlling BCR anergy and TLR signaling. Mice with specific deletion of &lt;em&gt;Ikaros&lt;/em&gt; in mature B cells developed systemic autoimmunity. Ikaros regulated many anergy-associated genes, including &lt;em&gt;Zfp318&lt;/em&gt;, which is implicated in the attenuation of BCR responsiveness by promoting immunoglobulin D expression in anergic B cells. TLR signaling was hyperactive in Ikaros-deficient B cells, which failed to upregulate feedback inhibitors of the MyD88–nuclear factor κB signaling pathway. Systemic inflammation was lost on expression of a non-self-reactive BCR or loss of MyD88 in Ikaros-deficient B cells. Thus, Ikaros acts as a guardian preventing autoimmunity by promoting BCR anergy and restraining TLR signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Modulation of M2 macrophage polarization by the crosstalk between Stat6 and Trim24</title>
+      <link>https://example.com/article/31554795/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31554795/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stat6 is known to drive macrophage M2 polarization. However, how macrophage polarization is fine-tuned by Stat6 is poorly understood. Here, we find that Lys383 of Stat6 is acetylated by the acetyltransferase CREB-binding protein (CBP) during macrophage activation to suppress macrophage M2 polarization. Mechanistically, Trim24, a CBP-associated E3 ligase, promotes Stat6 acetylation by catalyzing CBP ubiquitination at Lys119 to facilitate the recruitment of CBP to Stat6. Loss of Trim24 inhibits Stat6 acetylation and thus promotes M2 polarization in both mouse and human macrophages, potentially compromising antitumor immune responses. By contrast, Stat6 mediates the suppression of &lt;em&gt;TRIM24&lt;/em&gt; expression in M2 macrophages to contribute to the induction of an immunosuppressive tumor niche. Taken together, our findings establish Stat6 acetylation as an essential negative regulatory mechanism that curtails macrophage M2 polarization.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mast cells are critical for controlling the bacterial burden and the healing of infected wounds</title>
+      <link>https://example.com/article/31548430/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31548430/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skin wound infections are a significant health problem, and antibiotic resistance is on the rise. Mast cells (MCs) have been shown to contribute to host-defense responses in certain bacterial infections, but their role in skin wound superinfection is unknown. We subjected 2 MC-deficient mouse strains to Pseudomonas aeruginosa skin wound infection and found significantly delayed wound closure in infected skin wounds. This delay was associated with impaired bacterial clearance in the absence of MCs. Engraftment of MCs restored both bacterial clearance and wound closure. Bacterial killing was dependent on IL-6 released from MCs, and engraftment with IL-6-deficient MCs failed to control wound infection. Treatment with recombinant IL-6 enhanced bacterial killing and resulted in the control of wound infection and normal wound healing in vivo. Taken together, our results demonstrate a defense mechanism for boosting host innate immune responses, namely effects of MC-derived IL-6 on antimicrobial functions of keratinocytes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circular RNA CircFndc3b modulates cardiac repair after myocardial infarction via FUS/VEGF-A axis</title>
+      <link>https://example.com/article/31541092/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31541092/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs are generated from many protein-coding genes, but their role in cardiovascular health and disease states remains unknown. Here we report identification of circRNA transcripts that are differentially expressed in post myocardial infarction (MI) mouse hearts including circFndc3b which is significantly down-regulated in the post-MI hearts. Notably, the human circFndc3b ortholog is also significantly down-regulated in cardiac tissues of ischemic cardiomyopathy patients. Overexpression of circFndc3b in cardiac endothelial cells increases vascular endothelial growth factor-A expression and enhances their angiogenic activity and reduces cardiomyocytes and endothelial cell apoptosis. Adeno-associated virus 9 -mediated cardiac overexpression of circFndc3b in post-MI hearts reduces cardiomyocyte apoptosis, enhances neovascularization and improves left ventricular functions. Mechanistically, circFndc3b interacts with the RNA binding protein Fused in Sarcoma to regulate VEGF expression and signaling. These findings highlight a physiological role for circRNAs in cardiac repair and indicate that modulation of circFndc3b expression may represent a potential strategy to promote cardiac function and remodeling after MI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RNA Granules Hitchhike on Lysosomes for Long-Distance Transport, Using Annexin A11 as a Molecular Tether</title>
+      <link>https://example.com/article/31539493/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31539493/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long-distance RNA transport enables local protein synthesis at metabolically-active sites distant from the nucleus. This process ensures an appropriate spatial organization of proteins, vital to polarized cells such as neurons. Here, we present a mechanism for RNA transport in which RNA granules &amp;ldquo;hitchhike&amp;rdquo; on moving lysosomes. In vitro biophysical modeling, live-cell microscopy, and unbiased proximity labeling proteomics reveal that annexin A11 (ANXA11), an RNA granule-associated phosphoinositide-binding protein, acts as a molecular tether between RNA granules and lysosomes. ANXA11 possesses an N-terminal low complexity domain, facilitating its phase separation into membraneless RNA granules, and a C-terminal membrane binding domain, enabling interactions with lysosomes. RNA granule transport requires ANXA11, and amyotrophic lateral sclerosis (ALS)-associated mutations in ANXA11 impair RNA granule transport by disrupting their interactions with lysosomes. Thus, ANXA11 mediates neuronal RNA transport by tethering RNA granules to actively-transported lysosomes, performing a critical cellular function that is disrupted in ALS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enterovirus pathogenesis requires the host methyltransferase SETD3</title>
+      <link>https://example.com/article/31527793/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31527793/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enteroviruses (EVs) comprise a large genus of positive-sense, single-stranded RNA viruses whose members cause a number of important and widespread human diseases, including poliomyelitis, myocarditis, acute flaccid myelitis and the common cold. How EVs co-opt cellular functions to promote replication and spread is incompletely understood. Here, using genome-scale CRISPR screens, we identify the actin histidine methyltransferase SET domain containing 3 (SETD3) as critically important for viral infection by a broad panel of EVs, including rhinoviruses and non-polio EVs increasingly linked to severe neurological disease such as acute flaccid myelitis (EV-D68) and viral encephalitis (EV-A71). We show that cytosolic SETD3, independent of its methylation activity, is required for the RNA replication step in the viral life cycle. Using quantitative affinity purification-mass spectrometry, we show that SETD3 specifically interacts with the viral 2A protease of multiple enteroviral species, and we map the residues in 2A that mediate this interaction. 2A mutants that retain protease activity but are unable to interact with SETD3 are severely compromised in RNA replication. These data suggest a role of the viral 2A protein in RNA replication beyond facilitating proteolytic cleavage. Finally, we show that SETD3 is essential for in vivo replication and pathogenesis in multiple mouse models for EV infection, including CV-A10, EV-A71 and EV-D68. Our results reveal a crucial role of a host protein in viral pathogenesis, and suggest targeting SETD3 as a potential mechanism for controlling viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ubiquitination of RIPK1 suppresses programmed cell death by regulating RIPK1 kinase activation during embryogenesis</title>
+      <link>https://example.com/article/31519886/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31519886/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ubiquitination status of RIPK1 is considered to be critical for cell fate determination. However, the in vivo role for RIPK1 ubiquitination remains undefined. Here we show that mice expressing RIPK1&lt;sup&gt;K376R&lt;/sup&gt; which is defective in RIPK1 ubiquitination die during embryogenesis. This lethality is fully rescued by concomitant deletion of &lt;em&gt;Fadd&lt;/em&gt; and &lt;em&gt;Ripk3&lt;/em&gt; or &lt;em&gt;Mlkl&lt;/em&gt;. Mechanistically, cells expressing RIPK1K376R are more susceptible to TNF-α induced apoptosis and necroptosis with more complex II formation and increased RIPK1 activation, which is consistent with the observation that &lt;em&gt;Ripk1&lt;sup&gt;K376R/K376R&lt;/sup&gt;&lt;/em&gt; lethality is effectively prevented by treatment of RIPK1 kinase inhibitor and is rescued by deletion of Tnfr1. However, &lt;em&gt;Tnfr1&lt;sup&gt;-/-&lt;/sup&gt; Ripk1&lt;sup&gt;K376R/K376R&lt;/sup&gt;&lt;/em&gt; mice display systemic inflammation and die within 2 weeks. Significantly, this lethal inflammation is rescued by deletion of &lt;em&gt;Ripk3&lt;/em&gt;. Taken together, these findings reveal a critical role of Lys376-mediated ubiquitination of RIPK1 in suppressing RIPK1 kinase activity-dependent lethal pathways during embryogenesis and RIPK3-dependent inflammation postnatally.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DDX3X acts as a live-or-die checkpoint in stressed cells by regulating NLRP3 inflammasome</title>
+      <link>https://example.com/article/31511697/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31511697/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The cellular stress response has a vital role in regulating homeostasis by modulating cell survival and death. Stress granules are cytoplasmic compartments that enable cells to survive various stressors. Defects in the assembly and disassembly of stress granules are linked to neurodegenerative diseases, aberrant antiviral responses and cancer. Inflammasomes are multi-protein heteromeric complexes that sense molecular patterns that are associated with damage or intracellular pathogens, and assemble into cytosolic compartments known as ASC specks to facilitate the activation of caspase-1. Activation of inflammasomes induces the secretion of interleukin (IL)-1β and IL-18 and drives cell fate towards pyroptosis—a form of programmed inflammatory cell death that has major roles in health and disease. Although both stress granules and inflammasomes can be triggered by the sensing of cellular stress, they drive contrasting cell-fate decisions. The crosstalk between stress granules and inflammasomes and how this informs cell fate has not been well-studied. Here we show that the induction of stress granules specifically inhibits NLRP3 inflammasome activation, ASC speck formation and pyroptosis. The stress granule protein DDX3X interacts with NLRP3 to drive inflammasome activation. Assembly of stress granules leads to the sequestration of DDX3X, and thereby the inhibition of NLRP3 inflammasome activation. Stress granules and the NLRP3 inflammasome compete for DDX3X molecules to coordinate the activation of innate responses and subsequent cell-fate decisions under stress conditions. Induction of stress granules or loss of DDX3X in the myeloid compartment leads to a decrease in the production of inflammasome-dependent cytokines in vivo. Our findings suggest that macrophages use the availability of DDX3X to interpret stress signals and choose between pro-survival stress granules and pyroptotic ASC specks. Together, our data demonstrate the role of DDX3X in driving NLRP3 inflammasome and stress granule assembly, and suggest a rheostat-like mechanistic paradigm for regulating live-or-die cell-fate decisions under stress conditions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Toll-like receptor mediated inflammation requires FASN-dependent MYD88 palmitoylation</title>
+      <link>https://example.com/article/31427815/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31427815/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Toll-like receptor (TLR)/myeloid differentiation primary response protein (MYD88) signaling aggravates sepsis by impairing neutrophil migration to infection sites. However, the role of intracellular fatty acids in TLR/MYD88 signaling is unclear. Here, inhibition of fatty acid synthase by C75 improved neutrophil chemotaxis and increased the survival of mice with sepsis in cecal ligation puncture and lipopolysaccharide-induced septic shock models. C75 specifically blocked TLR/MYD88 signaling in neutrophils. Treatment with GSK2194069 that targets a different domain of fatty acid synthase, did not block TLR signaling or MYD88 palmitoylation. De novo fatty acid synthesis and CD36-mediated exogenous fatty acid incorporation contributed to MYD88 palmitoylation. The binding of IRAK4 to the MYD88 intermediate domain and downstream signal activation required MYD88 palmitoylation at cysteine 113. MYD88 was palmitoylated by ZDHHC6, and ZDHHC6 knockdown decreased MYD88 palmitoylation and TLR/MYD88 activation upon lipopolysaccharide stimulus. Thus, intracellular saturated fatty acid-dependent palmitoylation of MYD88 by ZDHHC6 is a therapeutic target of sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Gallery for R graphs and charts</title>
       <link>https://example.com/blog/2019-08-11-r-graphics/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
@@ -4422,6 +4872,137 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tolerogenic signaling of alveolar macrophages induces lung adaptation to oxidative injury</title>
+      <link>https://example.com/article/31356919/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31356919/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Inhaled oxidative toxicants present in ambient air cause airway epithelial injury, inflammation, and airway hyperresponsiveness. Effective adaptation to such environmental insults is essential for the preservation of pulmonary function, whereas failure or incomplete adaptation to oxidative injury can render the host susceptible to the development of airway disease.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; We sought to explore the mechanisms of airway adaptation to oxidative injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; For a model to study pulmonary adaptation to oxidative stress-induced lung injury, we exposed mice to repeated nose-only chlorine gas exposures. Outcome measures were evaluated 24 hours after the last chlorine exposure. Lung mechanics and airway responsiveness to methacholine were assessed by using the flexiVent. Inflammation and antioxidant responses were assessed in both bronchoalveolar lavage fluid and lung tissue. Using both loss or gain of function and genomic approaches, we further dissected the cellular and molecular mechanisms involved in pulmonary adaptation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Repeated exposures to oxidative stress resulted in pulmonary adaptation evidenced by abrogation of neutrophilic inflammation and airway hyperresponsiveness. This adaptation was independent of antioxidant mechanisms and regulatory T cells but dependent on residential alveolar macrophages (AMs). Interestingly, 5% of AMs expressed forkhead box P3, and depletion of these cells abolished adaptation. Results from transcriptomic profiling and loss and gain of function suggest that adaptation might be dependent on TGF-β and prostaglandin E&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Pulmonary adaptation during oxidative stress-induced lung injury is mediated by a novel subset of forkhead box P3-positive AMs that limits inflammation, favoring airway adaptation and host fitness through TGF-β and prostaglandin E&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The structure of the influenza A virus genome</title>
+      <link>https://example.com/article/31332385/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31332385/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A viruses (IAVs) constitute a major threat to human health. The IAV genome consists of eight single-stranded viral RNA segments contained in separate viral ribonucleoprotein (vRNP) complexes that are packaged together into a single virus particle. The structure of viral RNA is believed to play a role in assembling the different vRNPs into budding virions1-8 and in directing reassortment between IAVs9. Reassortment between established human IAVs and IAVs harboured in the animal reservoir can lead to the emergence of pandemic influenza strains to which there is little pre-existing immunity in the human population10,11. While previous studies have revealed the overall organization of the proteins within vRNPs, characterization of viral RNA structure using conventional structural methods is hampered by limited resolution and an inability to resolve dynamic components12,13. Here, we employ multiple high-throughput sequencing approaches to generate a global high-resolution structure of the IAV genome. We show that different IAV genome segments acquire distinct RNA conformations and form both intra- and intersegment RNA interactions inside influenza virions. We use our detailed map of IAV genome structure to provide direct evidence for how intersegment RNA interactions drive vRNP cosegregation during reassortment between different IAV strains. The work presented here is a roadmap both for the development of improved vaccine strains and for the creation of a framework to &amp;lsquo;risk assess&amp;rsquo; reassortment potential to better predict the emergence of new pandemic influenza strains.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Protection against influenza infection requires early recognition by inflammatory dendritic cells through C-type lectin receptor SIGN-R1</title>
+      <link>https://example.com/article/31358982/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31358982/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The early phase of influenza infection occurs in the upper respiratory tract and the trachea, but little is known about the initial events of virus recognition and control of viral dissemination by the immune system. Here, we report that inflammatory dendritic cells (IDCs) are recruited to the trachea shortly after influenza infection through type I interferon-mediated production of the chemokine CCL2. We further show that recruited IDCs express the C-type lectin receptor SIGN-R1, which mediates direct recognition of the virus by interacting with N-linked glycans present in glycoproteins of the virion envelope. Activation of IDCs via SIGN-R1 triggers the production of the chemokines CCL5, CXCL9 and CXCL10, which initiate the recruitment of protective natural killer (NK) cells in the infected trachea. In the absence of SIGN-R1, the recruitment and activation of NK cells is impaired, leading to uncontrolled viral proliferation. In sum, our results provide insight into the orchestration of the early cellular and molecular events involved in immune protection against influenza.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Gata6&#43; Pericardial Cavity Macrophages Relocate to the Injured Heart and Prevent Cardiac Fibrosis</title>
+      <link>https://example.com/article/31315031/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31315031/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Macrophages play an important role in structural cardiac remodeling and the transition to heart failure following myocardial infarction (MI). Previous research has focused on the impact of blood-derived monocytes on cardiac repair. Here we examined the contribution of resident cavity macrophages located in the pericardial space adjacent to the site of injury. We found that disruption of the pericardial cavity accelerated maladaptive post-MI cardiac remodeling. Gata6&lt;sup&gt;+&lt;/sup&gt; macrophages in mouse pericardial fluid contributed to the reparative immune response. Following experimental MI, these macrophages invaded the epicardium and lost Gata6 expression but continued to perform anti-fibrotic functions. Loss of this specialized macrophage population enhanced interstitial fibrosis after ischemic injury. Gata6+ macrophages were present in human pericardial fluid, supporting the notion that this reparative function is relevant in human disease. Our findings uncover an immune cardioprotective role for the pericardial tissue compartment and argue for the reevaluation of surgical procedures that remove the pericardium.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Virus Sequencing of Influenza Infections That Trigger Innate Immunity</title>
+      <link>https://example.com/article/31068418/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31068418/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza virus-infected cells vary widely in their expression of viral genes and only occasionally activate innate immunity. Here, we develop a new method to assess how the genetic variation in viral populations contributes to this heterogeneity. We do this by determining the transcriptome and full-length sequences of all viral genes in single cells infected with a nominally &amp;ldquo;pure&amp;rdquo; stock of influenza virus. Most cells are infected by virions with defects, some of which increase the frequency of innate-immune activation. These immunostimulatory defects are diverse and include mutations that perturb the function of the viral polymerase protein PB1, large internal deletions in viral genes, and failure to express the virus&amp;rsquo;s interferon antagonist NS1. However, immune activation remains stochastic in cells infected by virions with these defects and occasionally is triggered even by virions that express unmutated copies of all genes. Our work shows that the diverse spectrum of defects in influenza virus populations contributes to-but does not completely explain-the heterogeneity in viral gene expression and immune activation in single infected cells.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because influenza virus has a high mutation rate, many cells are infected by mutated virions. But so far, it has been impossible to fully characterize the sequence of the virion infecting any given cell, since conventional techniques such as flow cytometry and single-cell transcriptome sequencing (scRNA-seq) only detect if a protein or transcript is present, not its sequence. Here we develop a new approach that uses long-read PacBio sequencing to determine the sequences of virions infecting single cells. We show that viral genetic variation explains some but not all of the cell-to-cell variability in viral gene expression and innate immune induction. Overall, our study provides the first complete picture of how viral mutations affect the course of infection in single cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -4522,6 +5103,34 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>S100a8/a9 Signaling Causes Mitochondrial Dysfunction and Cardiomyocyte Death in Response to Ischemic/Reperfusion Injury</title>
+      <link>https://example.com/article/31220942/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31220942/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Myocardial ischemia-reperfusion (MI/R) injury is a significant clinical problem without effective therapy. Unbiased omics approaches may reveal key MI/R mediators to initiate MI/R injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We used a dynamic transcriptome analysis of mouse heart exposed to various MI/R periods to identify S100a8/a9 as an early mediator. Using loss/gain-of-function approaches to understand the role of S100a8/a9 in MI/R injury, we explored the mechanisms through transcriptome and functional experiment. Dynamic serum S100a8/a9 levels were measured in patients with acute myocardial infarction before and after percutaneous coronary intervention. Patients were prospectively followed for the occurrence of major adverse cardiovascular events.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; S100a8/a9 was identified as the most significantly upregulated gene during the early reperfusion stage. Knockout of S100a9 markedly decreased cardiomyocyte death and improved heart function, whereas hematopoietic overexpression of S100a9 exacerbated MI/R injury. Transcriptome/functional studies revealed that S100a8/a9 caused mitochondrial respiratory dysfunction in cardiomyocytes. Mechanistically, S100a8/a9 downregulated NDUF gene expression with subsequent mitochondrial complex I inhibition via Toll-like receptor 4/Erk-mediated Pparg coactivator 1 alpha/nuclear respiratory factor 1 signaling suppression. Administration of S100a9 neutralizing antibody significantly reduced MI/R injury and improved cardiac function. Finally, we demonstrated that serum S100a8/a9 levels were significantly increased 1 day after percutaneous coronary intervention in patients with acute myocardial infarction, and elevated S100a8/a9 levels were associated with the incidence of major adverse cardiovascular events.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study identified S100a8/a9 as a master regulator causing cardiomyocyte death in the early stage of MI/R injury via the suppression of mitochondrial function. Targeting S100a8/a9-intiated signaling may represent a novel therapeutic intervention against MI/R injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The R series: Advanced R</title>
       <link>https://example.com/books/2019-06-01-adva-r/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -4532,6 +5141,56 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Direct interactions with influenza promote bacterial adherence during respiratory infections</title>
+      <link>https://example.com/article/31110359/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31110359/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epidemiological observations and animal models have long shown synergy between influenza virus infections and bacterial infections. Influenza virus infection leads to an increase in both the susceptibility to secondary bacterial infections and the severity of the bacterial infections, primarily pneumonias caused by Streptococcus pneumoniae or Staphylococcus aureus. We show that, in addition to the widely described immune modulation and tissue-remodelling mechanisms of bacterial-viral synergy, the virus interacts directly with the bacterial surface. Similar to the recent observation of direct interactions between enteric bacteria and enteric viruses, we observed a direct interaction between influenza virus on the surface of Gram-positive, S. pneumoniae and S. aureus, and Gram-negative, Moraxella catarrhalis and non-typeable Haemophilus influenzae, bacterial colonizers and pathogens in the respiratory tract. Pre-incubation of influenza virus with bacteria, followed by the removal of unbound virus, increased bacterial adherence to respiratory epithelial cells in culture. This result was recapitulated in vivo, with higher bacterial burdens in murine tissues when infected with pneumococci pre-incubated with influenza virus versus control bacteria without virus. These observations support an additional mechanism of bacteria-influenza virus synergy at the earliest steps of pathogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Low ambient humidity impairs barrier function and innate resistance against influenza infection</title>
+      <link>https://example.com/article/31085641/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31085641/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the temperate regions, seasonal influenza virus outbreaks correlate closely with decreases in humidity. While low ambient humidity is known to enhance viral transmission, its impact on host response to influenza virus infection and disease outcome remains unclear. Here, we showed that housing Mx1 congenic mice in low relative humidity makes mice more susceptible to severe disease following respiratory challenge with influenza A virus. We find that inhalation of dry air impairs mucociliary clearance, innate antiviral defense, and tissue repair. Moreover, disease exacerbated by low relative humidity was ameliorated in caspase-1/11-deficient Mx1 mice, independent of viral burden. Single-cell RNA sequencing revealed that induction of IFN-stimulated genes in response to viral infection was diminished in multiple cell types in the lung of mice housed in low humidity condition. These results indicate that exposure to dry air impairs host defense against influenza infection, reduces tissue repair, and inflicts caspase-dependent disease pathology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -4572,6 +5231,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Naproxen Exhibits Broad Anti-influenza Virus Activity in Mice by Impeding Viral Nucleoprotein Nuclear Export</title>
+      <link>https://example.com/article/31067470/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31067470/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Naproxen is a non-steroidal anti-inflammatory drug that has previously been shown to exert antiviral activity against influenza A virus by inhibiting nucleoprotein (NP) binding to RNA. Here, we show that naproxen is a potential broad, multi-mechanistic anti-influenza virus therapeutic, as it inhibits influenza B virus replication both in vivo and in vitro. The anti-influenza B virus activity of naproxen is more efficient than that of the commonly used neuraminidase inhibitor oseltamivir in mice. Furthermore, the NP of influenza B virus (BNP) has a higher binding affinity to naproxen than influenza A virus NP (ANP). Specifically, naproxen targets the NP at residues F209 (BNP) and Y148 (ANP). This interaction antagonizes the nuclear export of NP normally mediated by the host export protein CRM1. This study reveals a crucial mechanism of broad-spectrum anti-influenza virus activity of naproxen, suggesting that the existing drug naproxen may be used as an anti-influenza drug.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Fundamentals of Data Visualization</title>
       <link>https://example.com/books/2019-04-30-basic-data-viz/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
@@ -4581,6 +5265,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells</title>
+      <link>https://example.com/article/30890159/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30890159/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell RNA-seq quantifies biological heterogeneity across both discrete cell types and continuous cell transitions. &lt;a href=&#34;https://github.com/theislab/paga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Partition-based graph abstraction (PAGA)&lt;/a&gt; provides an interpretable graph-like map of the arising data manifold, based on estimating connectivity of manifold partitions. &lt;a href=&#34;https://github.com/theislab/paga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PAGA&lt;/a&gt; maps preserve the global topology of data, allow analyzing data at different resolutions, and result in much higher computational efficiency of the typical exploratory data analysis workflow. We demonstrate the method by inferring structure-rich cell maps with consistent topology across four hematopoietic datasets, adult planaria and the zebrafish embryo and benchmark computational performance on one million neurons.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -7098,6 +7807,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/17568748/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting Degradation of the Transcription Factor C/EBPβ Reduces Lung Fibrosis by Restoring Activity of the Ubiquitin-Editing Enzyme A20 in Macrophages</title>
+      <link>https://example.com/article/31471107/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31471107/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although recent progress provides mechanistic insights into the pathogenesis of pulmonary fibrosis (PF), rare anti-PF therapeutics show definitive promise for treating this disease. Repeated lung epithelial injury results in injury-repairing response and inflammation, which drive the development of PF. Here, we report that chronic lung injury inactivated the ubiquitin-editing enzyme A20, causing progressive accumulation of the transcription factor C/EBPβ in alveolar macrophages (AMs) from PF patients and mice, which upregulated a number of immunosuppressive and profibrotic factors promoting PF development. In response to chronic lung injury, elevated glycogen synthase kinase-3β (GSK-3β) interacted with and phosphorylated A20 to suppress C/EBPβ degradation. Ectopic expression of A20 or pharmacological restoration of A20 activity by disturbing the A20-GSK-3β interaction accelerated C/EBPβ degradation and showed potent therapeutic efficacy against experimental PF. Our study indicates that a regulatory mechanism of the GSK-3β-A20-C/EBPβ axis in AMs may be a potential target for treating PF and fibroproliferative lung diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

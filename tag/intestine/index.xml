@@ -44,6 +44,81 @@
     </item>
     
     <item>
+      <title>GMrepo: a database of curated and consistently annotated human gut metagenomes</title>
+      <link>https://example.com/article/31504765/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31504765/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; (data repository for Gut Microbiota) is a database of curated and consistently annotated human gut metagenomes. Its main purpose is to facilitate the reusability and accessibility of the rapidly growing human metagenomic data. This is achieved by consistently annotating the microbial contents of collected samples using state-of-art toolsets and by manual curation of the meta-data of the corresponding human hosts. &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; organizes the collected samples according to their associated phenotypes and includes all possible related meta-data such as age, sex, country, body-mass-index (BMI) and recent antibiotics usage. To make relevant information easier to access, &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; is equipped with a graphical query builder, enabling users to make customized, complex and biologically relevant queries. For example, to find (1) samples from healthy individuals of 18 to 25 years old with BMIs between 18.5 and 24.9, or (2) projects that are related to colorectal neoplasms, with each containing &amp;gt;100 samples and both patients and healthy controls. Precomputed species/genus relative abundances, prevalence within and across phenotypes, and pairwise co-occurrence information are all available at the website and accessible through programmable interfaces. So far, &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; contains 58 903 human gut samples/runs (including 17 618 metagenomes and 41 285 amplicons) from 253 projects concerning 92 phenotypes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Commensal viruses maintain intestinal intraepithelial lymphocytes via noncanonical RIG-I signaling</title>
+      <link>https://example.com/article/31636462/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31636462/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Much attention has focused on commensal bacteria in health and disease, but the role of commensal viruses is understudied. Although metagenomic analysis shows that the intestine of healthy humans and animals harbors various commensal viruses and the dysbiosis of these viruses can be associated with inflammatory diseases, there is still a lack of causal data and underlying mechanisms to understand the physiological role of commensal viruses in intestinal homeostasis. In the present study, we show that commensal viruses are essential for the homeostasis of intestinal intraepithelial lymphocytes (IELs). Mechanistically, the cytosolic viral RNA-sensing receptor RIG-I in antigen-presenting cells can recognize commensal viruses and maintain IELs via a type I interferon-independent, but MAVS-IRF1-IL-15 axis-dependent, manner. The recovery of IELs by interleukin-15 administration reverses the susceptibility of commensal virus-depleted mice to dextran sulfate sodium-induced colitis. Collectively, our results indicate that commensal viruses maintain the IELs and consequently sustain intestinal homeostasis via noncanonical RIG-I signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enterovirus pathogenesis requires the host methyltransferase SETD3</title>
+      <link>https://example.com/article/31527793/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31527793/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enteroviruses (EVs) comprise a large genus of positive-sense, single-stranded RNA viruses whose members cause a number of important and widespread human diseases, including poliomyelitis, myocarditis, acute flaccid myelitis and the common cold. How EVs co-opt cellular functions to promote replication and spread is incompletely understood. Here, using genome-scale CRISPR screens, we identify the actin histidine methyltransferase SET domain containing 3 (SETD3) as critically important for viral infection by a broad panel of EVs, including rhinoviruses and non-polio EVs increasingly linked to severe neurological disease such as acute flaccid myelitis (EV-D68) and viral encephalitis (EV-A71). We show that cytosolic SETD3, independent of its methylation activity, is required for the RNA replication step in the viral life cycle. Using quantitative affinity purification-mass spectrometry, we show that SETD3 specifically interacts with the viral 2A protease of multiple enteroviral species, and we map the residues in 2A that mediate this interaction. 2A mutants that retain protease activity but are unable to interact with SETD3 are severely compromised in RNA replication. These data suggest a role of the viral 2A protein in RNA replication beyond facilitating proteolytic cleavage. Finally, we show that SETD3 is essential for in vivo replication and pathogenesis in multiple mouse models for EV infection, including CV-A10, EV-A71 and EV-D68. Our results reveal a crucial role of a host protein in viral pathogenesis, and suggest targeting SETD3 as a potential mechanism for controlling viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The Virtual Metabolic Human database: integrating human and gut microbiome metabolism with nutrition and disease</title>
       <link>https://example.com/article/30371894/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>

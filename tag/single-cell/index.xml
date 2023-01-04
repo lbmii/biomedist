@@ -98,6 +98,58 @@
     </item>
     
     <item>
+      <title>Single-Cell Virus Sequencing of Influenza Infections That Trigger Innate Immunity</title>
+      <link>https://example.com/article/31068418/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31068418/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza virus-infected cells vary widely in their expression of viral genes and only occasionally activate innate immunity. Here, we develop a new method to assess how the genetic variation in viral populations contributes to this heterogeneity. We do this by determining the transcriptome and full-length sequences of all viral genes in single cells infected with a nominally &amp;ldquo;pure&amp;rdquo; stock of influenza virus. Most cells are infected by virions with defects, some of which increase the frequency of innate-immune activation. These immunostimulatory defects are diverse and include mutations that perturb the function of the viral polymerase protein PB1, large internal deletions in viral genes, and failure to express the virus&amp;rsquo;s interferon antagonist NS1. However, immune activation remains stochastic in cells infected by virions with these defects and occasionally is triggered even by virions that express unmutated copies of all genes. Our work shows that the diverse spectrum of defects in influenza virus populations contributes to-but does not completely explain-the heterogeneity in viral gene expression and immune activation in single infected cells.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because influenza virus has a high mutation rate, many cells are infected by mutated virions. But so far, it has been impossible to fully characterize the sequence of the virion infecting any given cell, since conventional techniques such as flow cytometry and single-cell transcriptome sequencing (scRNA-seq) only detect if a protein or transcript is present, not its sequence. Here we develop a new approach that uses long-read PacBio sequencing to determine the sequences of virions infecting single cells. We show that viral genetic variation explains some but not all of the cell-to-cell variability in viral gene expression and innate immune induction. Overall, our study provides the first complete picture of how viral mutations affect the course of infection in single cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells</title>
+      <link>https://example.com/article/30890159/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30890159/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell RNA-seq quantifies biological heterogeneity across both discrete cell types and continuous cell transitions. &lt;a href=&#34;https://github.com/theislab/paga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Partition-based graph abstraction (PAGA)&lt;/a&gt; provides an interpretable graph-like map of the arising data manifold, based on estimating connectivity of manifold partitions. &lt;a href=&#34;https://github.com/theislab/paga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PAGA&lt;/a&gt; maps preserve the global topology of data, allow analyzing data at different resolutions, and result in much higher computational efficiency of the typical exploratory data analysis workflow. We demonstrate the method by inferring structure-rich cell maps with consistent topology across four hematopoietic datasets, adult planaria and the zebrafish embryo and benchmark computational performance on one million neurons.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Developmental Heterogeneity of Microglia and Brain Myeloid Cells Revealed by Deep Single-Cell RNA Sequencing</title>
       <link>https://example.com/article/30606613/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
