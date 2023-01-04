@@ -155,6 +155,31 @@
     </item>
     
     <item>
+      <title>Combining genome-wide association studies highlight novel loci involved in human facial variation</title>
+      <link>https://example.com/article/36565798/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36565798/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Standard genome-wide association studies (GWASs) rely on analyzing a single trait at a time. However, many human phenotypes are complex and composed by multiple correlated traits. Here we introduce C-GWAS, a method for combining GWAS summary statistics of multiple potentially correlated traits. Extensive computer simulations demonstrated increased statistical power of C-GWAS compared to the minimal p-values of multiple single-trait GWASs (MinGWAS) and the current state-of-the-art method for combining single-trait GWASs (MTAG). Applying C-GWAS to a meta-analysis dataset of 78 single trait facial GWASs from 10,115 Europeans identified 56 study-wide suggestively significant loci with multi-trait effects on facial morphology of which 17 are novel loci. Using data from additional 13,622 European and Asian samples, 46 (82%) loci, including 9 (53%) novel loci, were replicated at nominal significance with consistent allele effects. Functional analyses further strengthen the reliability of our C-GWAS findings. Our study introduces the C-GWAS method and makes it available as computationally efficient open-source R package for widespread future use. Our work also provides insights into the genetic architecture of human facial appearance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Circular visualization for high-throughput data</title>
       <link>https://example.com/tool/2022-11-03-data-circ-vis/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
@@ -247,6 +272,37 @@
     </item>
     
     <item>
+      <title>Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data</title>
+      <link>https://example.com/article/imt2.56/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.56/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The phylogenetic tree and diverse accompanying data can be stored in a &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; graph object, which improves the reproducibility and reusability of phylogenetic data.&lt;/li&gt;
+&lt;li&gt;The phylogenetic tree and associated data can be extracted from the &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; object, which can be reanalyzed and help various scientific disciplines synthesize their comparative studies and phylogenetic information.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; graph object can be rendered as a static image, and the visualization directives that were previously saved in the object can be reused to display a different tree object in a manner akin to Microsoft Word Format Painter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While phylogenetic trees and associated data have been getting easier to generate, it has been difficult to reuse, combine, and synthesize the information they provided, because published trees are often only available as image files and associated data are often stored in incompatible formats. To increase the reproducibility and reusability of phylogenetic data, the &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; object was designed for storing phylogenetic tree and associated data, as well as visualization directives. The &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; object itself is a graphic object and can be rendered as a static image. More importantly, the input tree and associated data that are used in visualization can be extracted from the graphic object, making it an ideal data structure for publishing tree (image, tree, and data in one single object) and thus enhancing data reuse and analytical reproducibility, as well as facilitating integrative and comparative studies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Python for Data Analysis</title>
       <link>https://example.com/books/2022-09-20-py-data-anal/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
@@ -271,12 +327,131 @@
     </item>
     
     <item>
+      <title>Sangerbox: A comprehensive, interaction-friendly clinical bioinformatics analysis platform</title>
+      <link>https://example.com/article/imt2.36/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.36/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In recent decades, with the continuous development of high-throughput sequencing technology, data volume in medical research has increased, at the same time, almost all clinical researchers have their own independent omics data, which provided a better condition for data mining and a deeper understanding of gene functions. However, for these large amounts of data, many common and cutting-edge effective bioinformatics research methods still cannot be widely used. This has encouraged the establishment of many analytical platforms, a portion of databases or platforms were designed to solve the special analysis needs of users, for instance, MG RAST, IMG/M, Qiita, BIGSdb, and TRAPR were developed for specific omics research, and some databases or servers provide solutions for special problems solutions. Metascape was designed to only provide functional annotations of genes as well as function enrichment analysis; BioNumerics and RidomSeqSphere+ perform multilocus sequence typing; CARD provides only antimicrobial resistance annotations. Additionally, some web services are outdated, and inefficient interaction often fails to meet the needs of researchers, such as our previous versions of the platform. Therefore, the demand to complete massive data processing tasks urgently requires a comprehensive bioinformatics analysis platform. Hence, we have developed a website platform, &lt;a href=&#34;http://vip.sangerbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sangerbox&lt;/strong&gt;&lt;/a&gt; 3.0, a web-based tool platform. On a user-friendly interface that also supports differential analysis, the platform provides interactive customizable analysis tools, including various kinds of correlation analyses, pathway enrichment analysis, weighted correlation network analysis, and other common tools and functions, users only need to upload their own corresponding data into &lt;a href=&#34;http://vip.sangerbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sangerbox&lt;/strong&gt;&lt;/a&gt; 3.0, select required parameters, submit, and wait for the results after the task has been completed. We have also established a new interactive plotting system that allows users to adjust the parameters in the image; moreover, optimized plotting performance enables users to adjust large-capacity vector maps on the web site. At the same time, we have integrated GEO, TCGA, ICGC, and other databases and processed data in batches, greatly reducing the difficulty to obtain data and improving the efficiency of bioimformatics study for users. Finally, we also provide users with rich sources of bioinformatics analysis courses, offering a platform for researchers to share and exchange knowledge.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ggClusterNet: An R package for microbiome network analysis and modularity-based multiple network layouts</title>
+      <link>https://example.com/article/imt2.32/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.32/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggClusterNet is an R package for microbial networks.&lt;/li&gt;
+&lt;li&gt;Analysis functions could help the user to easily complete network analysis and interpretation.&lt;/li&gt;
+&lt;li&gt;Ten network layout algorithms allow users more alternatives to plot the network and generate published-ready figures.&lt;/li&gt;
+&lt;li&gt;It is free to access on GitHub and Gitee.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The network analysis has attracted increasing attention and interest from ecological academics, thus it is of great necessity to develop more convenient and powerful tools. For that reason, we have developed an R package, named “ggClusterNet,” to complete and display the network analysis in an easier manner. In that package, ten network layout algorithms are designed to better display the modules of microbiome network (randomClusterG, PolygonClusterG, PolygonRrClusterG, ArtifCluster, randSNEClusterG, PolygonModsquareG, PolyRdmNotdCirG, model_Gephi.2, model_igraph, and model_maptree). For the convenience of the users, many functions related to microbial network analysis, such as corMicor(), net_properties(), node_properties(), ZiPiPlot(), random_Net_compate(), are integrated to complete the network mining. Furthermore, the pipeline function named network.2() and corBionetwork() are also added for the quick achievement of the network or bipartite network analysis as well as their in-depth mining. The ggClusterNet is publicly available via &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or &lt;a href=&#34;https://gitee.com/wentaomicro/ggClusterNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitee&lt;/a&gt; for users&amp;rsquo; access. A complete description of the usages can be found on the &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&amp;rsquo;s GitHub page&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data</title>
       <link>https://example.com/article/35680885/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35680885/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The growing availability of single-cell data, especially transcriptomics, has sparked an increased interest in the inference of cell-cell communication. Many computational tools were developed for this purpose. Each of them consists of a resource of intercellular interactions prior knowledge and a method to predict potential cell-cell communication events. Yet the impact of the choice of resource and method on the resulting predictions is largely unknown. To shed light on this, we systematically compare 16 cell-cell communication inference resources and 7 methods, plus the consensus between the methods’ predictions. Among the resources, we find few unique interactions, a varying degree of overlap, and an uneven coverage of specific pathways and tissue-enriched proteins. We then examine all possible combinations of methods and resources and show that both strongly influence the predicted intercellular interactions. Finally, we assess the agreement of cell-cell communication methods with spatial colocalisation, cytokine activities, and receptor protein abundance and find that predictions are generally coherent with those data modalities. To facilitate the use of the methods and resources described in this work, we provide LIANA, a LIgand-receptor ANalysis frAmework as an open-source interface to all the resources and methods.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>iMetaLab Suite: A one-stop toolset for metaproteomics</title>
+      <link>https://example.com/article/imt2.25/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A one-stop solution for metaproteomics data analysis for nonexpert.&lt;/li&gt;
+&lt;li&gt;Database search and result reports that include taxonomy and function.&lt;/li&gt;
+&lt;li&gt;Interactive tools for frequently used metaproteomics data analysis tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metaproteomics is a recently thriving technique that studies the collection of proteins in complex microbiomes of the human, animal, plant, and environment. The bioinformatics workflow required for metaproteomics research, from the database search and protein quantification to downstream functional and taxonomic analysis has been challenging and thus limiting the accessibility of metaproteomics to microbiome researchers. To overcome these challenges, we have developed a set of tools named &lt;a href=&#34;https://imetalab.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iMetaLab Suite&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://imetalab.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iMetaLab Suite&lt;/strong&gt;&lt;/a&gt; includes the following components:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MetaLab Desktop, an automated database search software that facilities proteins identification and quantitation from microbiomes;&lt;/li&gt;
+&lt;li&gt;the automated iMetaReport that allows users to quickly access database search results and data set profiles;&lt;/li&gt;
+&lt;li&gt;an interactive online toolset, iMetaShiny, covering most frequently used functional, taxonomic, and statistical analysis in metaproteomics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://imetalab.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iMetaLab Suite&lt;/strong&gt;&lt;/a&gt; is a free, easily accessible, and actively updated toolset available to assist researchers to explore metaproteomic data.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ImageGP: An easy-to-use data visualization web server for scientific researchers</title>
+      <link>https://example.com/article/imt2.5/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.5/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Data visualization plays a crucial role in illustrating results and sharing knowledge among researchers. Though many types of visualization tools are widely used, most of them require enough coding experience or are designed for specialized usages, or are not free. Here, we present &lt;a href=&#34;http://www.ehbio.com/ImageGP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageGP&lt;/a&gt;, a specialized visualization platform designed for biology and chemistry data illustration. &lt;a href=&#34;http://www.ehbio.com/ImageGP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageGP&lt;/a&gt; could generate generalized plots like lines, bars, scatters, boxes, sets, heatmaps, and histograms with the most common input content in a user-friendly interface. Normally plotting using &lt;a href=&#34;http://www.ehbio.com/ImageGP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageGP&lt;/a&gt; only needs a few mouse clicks. For some plots, one only needs to just paste data and click submit to get the visualization results. Additionally, &lt;a href=&#34;http://www.ehbio.com/ImageGP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageGP&lt;/a&gt; supplies up to 26 parameters to meet customizable requirements. &lt;a href=&#34;http://www.ehbio.com/ImageGP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageGP&lt;/a&gt; also contains specialized plots like volcano plot, functional enrichment plot for most omics-data analysis, and other four specialized functions for microbiome analysis. Since 2017, &lt;a href=&#34;http://www.ehbio.com/ImageGP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageGP&lt;/a&gt; has been running for nearly 5 years and serving 336,951 visits from all over the world. Together, &lt;a href=&#34;http://www.ehbio.com/ImageGP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageGP&lt;/a&gt; is an effective and efficient tool for experimental researchers to comprehensively visualize and interpret data generated from wet-lab and dry-lab.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -651,6 +826,31 @@
     </item>
     
     <item>
+      <title>iTALK: an R Package to Characterize and Illustrate Intercellular Communication</title>
+      <link>https://example.com/article/italk/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/italk/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Crosstalk between tumor cells and other cells within the tumor microenvironment (TME) plays a crucial role in tumor progression, metastases, and therapy resistance. We present &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt;, a computational approach to characterize and illustrate intercellular communication signals in the multicellular tumor ecosystem using single-cell RNA sequencing data. &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt; can in principle be used to dissect the complexity, diversity, and dynamics of cell-cell communication from a wide range of cellular processes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>R Graphics Cookbook</title>
       <link>https://example.com/books/2018-11-30-r-graphics/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
@@ -660,6 +860,56 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Best practices for analysing microbiomes</title>
+      <link>https://example.com/review/29795328/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29795328/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Complex microbial communities shape the dynamics of various environments, ranging from the mammalian gastrointestinal tract to the soil. Advances in DNA sequencing technologies and data analysis have provided drastic improvements in microbiome analyses, for example, in taxonomic resolution, false discovery rate control and other properties, over earlier methods. In this Review, we discuss the best practices for performing a microbiome study, including experimental design, choice of molecular analysis technology, methods for data analysis and the integration of multiple omics data sets. We focus on recent findings that suggest that operational taxonomic unit-based analyses should be replaced with new methods that are based on exact sequence variants, methods for integrating metagenomic and metabolomic data, and issues surrounding compositional data analysis, where advances have been particularly rapid. We note that although some of these approaches are new, it is important to keep sight of the classic issues that arise during experimental design and relate to research reproducibility. We describe how keeping these issues in mind allows researchers to obtain more insight from their microbiome data sets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying tumor-infiltrating immune cells from transcriptomics data</title>
+      <link>https://example.com/review/29541787/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29541787/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By exerting pro- and anti-tumorigenic actions, tumor-infiltrating immune cells can profoundly influence tumor progression, as well as the success of anti-cancer therapies. Therefore, the quantification of tumor-infiltrating immune cells holds the promise to unveil the multi-faceted role of the immune system in human cancers and its involvement in tumor escape mechanisms and response to therapy. Tumor-infiltrating immune cells can be quantified from RNA sequencing data of human tumors using bioinformatics approaches. In this review, we describe state-of-the-art computational methods for the quantification of immune cells from transcriptomics data and discuss the open challenges that must be addressed to accurately quantify immune infiltrates from RNA sequencing data of human bulk tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

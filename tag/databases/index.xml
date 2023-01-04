@@ -98,6 +98,56 @@
     </item>
     
     <item>
+      <title>GSCA: an integrated platform for gene set cancer analysis at genomic, pharmacogenomic and immunogenomic levels</title>
+      <link>https://example.com/article/36549921/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36549921/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer initiation and progression are likely caused by the dysregulation of biological pathways. Gene set analysis (GSA) could improve the signal-to-noise ratio and identify potential biological insights on the gene set level. However, platforms exploring cancer multi-omics data using GSA methods are lacking. In this study, we upgraded our GSCALite to &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Gene Set Cancer Analysis (GSCA)&lt;/strong&gt;&lt;/a&gt; for cancer GSA at genomic, pharmacogenomic and immunogenomic levels. In this improved &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt;, we integrated expression, mutation, drug sensitivity and clinical data from four public data sources for 33 cancer types. We introduced useful features to &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt;, including associations between immune infiltration with gene expression and genomic variations, and associations between gene set expression/mutation and clinical outcomes. &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt; has four main functional modules for cancer GSA to explore, analyze and visualize expression, genomic variations, tumor immune infiltration, drug sensitivity and their associations with clinical outcomes. We used case studies of three gene sets: (i) seven cell cycle genes, (ii) tumor suppressor genes of PI3K pathway and (iii) oncogenes of PI3K pathway to prove the advantage of &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt; over single gene analysis. We found novel associations of gene set expression and mutation with clinical outcomes in different cancer types on gene set level, while on single gene analysis level, they are not significant associations. In conclusion, &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt; is a user-friendly web server and a useful resource for conducting hypothesis tests by using GSA methods at genomic, pharmacogenomic and immunogenomic levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A spatially resolved atlas of the human lung characterizes a gland-associated immune niche</title>
+      <link>https://example.com/article/36543915/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36543915/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics has allowed unprecedented resolution of cell types/states in the human lung, but their spatial context is less well defined. To (re)define tissue architecture of lung and airways, we profiled five proximal-to-distal locations of healthy human lungs in depth using multi-omic single cell/nuclei and spatial transcriptomics at &lt;a href=&#34;https://www.lungcellatlas.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lung Cell Atlas&lt;/strong&gt;&lt;/a&gt;. Using computational data integration and analysis, we extend beyond the suspension cell paradigm and discover macro and micro-anatomical tissue compartments including previously unannotated cell types in the epithelial, vascular, stromal and nerve bundle micro-environments. We identify and implicate peribronchial fibroblasts in lung disease. Importantly, we discover and validate a survival niche for IgA plasma cells in the airway submucosal glands (SMG). We show that gland epithelial cells recruit B cells and IgA plasma cells, and promote longevity and antibody secretion locally through expression of CCL28, APRIL and IL-6. This new ‘gland-associated immune niche’ has implications for respiratory health.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The Human Islet Research Network (HIRN)</title>
       <link>https://example.com/blog/2022-12-04-hu-islet-res-net/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
@@ -421,6 +471,31 @@
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MetOrigin: Discriminating the origins of microbial metabolites for integrative analysis of the gut microbiome and metabolome</title>
+      <link>https://example.com/article/imt2.10/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interactions between the gut microbiome and metabolome play an important role in human health and diseases. Current studies mainly apply statistical correlation analysis between the gut microbiome and all the identified metabolites to explore their relationship. However, it remains challenging to identify the specific metabolic functions of microbes without in vitro culture experiments for validation. Discriminating the microbial metabolites from others (e.g., host, food, or environment) and exploring their metabolic functions and correlations with microbiome specifically may improve the efficiency and accuracy of biomarker discovery. So far, there have been no such bioinformatics tools available. Herein, we developed &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt;, an interactive web server that discriminates metabolites originating from the microbiome, performs the origin-based metabolic pathway enrichment analysis, and integrates the statistical correlations and biological relationships in the database using Sankey network visualization. &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt; not only enables the quick identification of microbial metabolites and their metabolic functions but also facilitates the discovery of specific bacterial species that are closely associated with metabolites statistically and biologically.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   
@@ -1624,6 +1699,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying tumor-infiltrating immune cells from transcriptomics data</title>
+      <link>https://example.com/review/29541787/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29541787/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By exerting pro- and anti-tumorigenic actions, tumor-infiltrating immune cells can profoundly influence tumor progression, as well as the success of anti-cancer therapies. Therefore, the quantification of tumor-infiltrating immune cells holds the promise to unveil the multi-faceted role of the immune system in human cancers and its involvement in tumor escape mechanisms and response to therapy. Tumor-infiltrating immune cells can be quantified from RNA sequencing data of human tumors using bioinformatics approaches. In this review, we describe state-of-the-art computational methods for the quantification of immune cells from transcriptomics data and discuss the open challenges that must be addressed to accurately quantify immune infiltrates from RNA sequencing data of human bulk tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

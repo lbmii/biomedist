@@ -38,6 +38,31 @@
     </item>
     
     <item>
+      <title>Co-evolution-based prediction of metal-binding sites in proteomes by machine learning</title>
+      <link>https://example.com/article/36593274/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36593274/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metal ions have various important biological roles in proteins, including structural maintenance, molecular recognition and catalysis. Previous methods of predicting metal-binding sites in proteomes were based on either sequence or structural motifs. Here we developed a co-evolution-based pipeline named &amp;lsquo;MetalNet&amp;rsquo; to systematically predict metal-binding sites in proteomes. We applied MetalNet to proteomes of four representative prokaryotic species and predicted 4,849 potential metalloproteins, which substantially expands the currently annotated metalloproteomes. We biochemically and structurally validated previously unannotated metal-binding sites in several proteins, including apo-citrate lyase phosphoribosyl-dephospho-CoA transferase citX, an Escherichia coli enzyme lacking structural or sequence homology to any known metalloprotein (Protein Data Bank (PDB) codes: 7DCM and 7DCN ). MetalNet also successfully recapitulated all known zinc-binding sites from the human spliceosome complex. The pipeline of MetalNet provides a unique and enabling tool for interrogating the hidden metalloproteome and studying metal biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Methods for inference and analysis of cell-cell communication</title>
       <link>https://example.com/blog/2023-01-02-infer-anal-ccc/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
@@ -257,6 +282,106 @@
     </item>
     
     <item>
+      <title>Spatial proteomics in three-dimensional intact specimens</title>
+      <link>https://example.com/article/36563667/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36563667/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spatial molecular profiling of complex tissues is essential to investigate cellular function in physiological and pathological states. However, methods for molecular analysis of large biological specimens imaged in 3D are lacking. Here, we present DISCO-MS, a technology that combines whole-organ/whole-organism clearing and imaging, deep-learning-based image analysis, robotic tissue extraction, and ultra-high-sensitivity mass spectrometry. DISCO-MS yielded proteome data indistinguishable from uncleared samples in both rodent and human tissues. We used DISCO-MS to investigate microglia activation along axonal tracts after brain injury and characterized early- and late-stage individual amyloid-beta plaques in a mouse model of Alzheimer&amp;rsquo;s disease. DISCO-bot robotic sample extraction enabled us to study the regional heterogeneity of immune cells in intact mouse bodies and aortic plaques in a complete human heart. DISCO-MS enables unbiased proteome analysis of preclinical and clinical tissues after unbiased imaging of entire specimens in 3D, identifying diagnostic and therapeutic opportunities for complex diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal chromatin profiling using nanobody-based single-cell CUT&amp;Tag</title>
+      <link>https://example.com/article/36536148/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36536148/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Probing histone modifications at a single-cell level in thousands of cells has been enabled by technologies such as single-cell CUT&amp;amp;Tag. Here we describe nano-CUT&amp;amp;Tag (nano-CT), which allows simultaneous mapping of up to three epigenomic modalities at single-cell resolution using nanobody-Tn5 fusion proteins. Multimodal nano-CT is compatible with starting materials as low as 25,000-200,000 cells and has significantly higher sensitivity and number of fragments per cell than single-cell CUT&amp;amp;Tag. We use nano-CT to simultaneously profile chromatin accessibility, H3K27ac, and H3K27me3 in juvenile mouse brain, allowing for discrimination of more cell types and states than unimodal single-cell CUT&amp;amp;Tag. We also infer chromatin velocity between assay for transposase-accessible chromatin (ATAC) and H3K27ac in the oligodendrocyte lineage and deconvolute H3K27me3 repressive states, finding two sequential waves of H3K27me3 repression at distinct gene modules during oligodendrocyte lineage progression. Given its high resolution, versatility, and multimodal features, nano-CT allows unique insights in epigenetic landscapes in complex biological systems at the single-cell level.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An HSV-1-H129 amplicon tracer system for rapid and efficient monosynaptic anterograde neural circuit tracing</title>
+      <link>https://example.com/article/36496505/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36496505/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monosynaptic viral tracers are essential tools for dissecting neuronal connectomes and for targeted delivery of molecular sensors and effectors. Viral toxicity and complex multi-injection protocols are major limiting application barriers. To overcome these barriers, we developed an anterograde monosynaptic H129&lt;sub&gt;Amp&lt;/sub&gt; tracer system based on HSV-1 strain H129. The H129&lt;sub&gt;Amp&lt;/sub&gt; tracer system consists of two components: an H129-dTK-T2-pac&lt;sup&gt;Flox&lt;/sup&gt; helper which assists H129&lt;sub&gt;Amp&lt;/sub&gt; tracer&amp;rsquo;s propagation and transneuronal monosynaptic transmission. The shared viral features of tracer/helper allow for simultaneous single-injection and subsequent high expression efficiency from multiple-copy of expression cassettes in H129&lt;sub&gt;Amp&lt;/sub&gt; tracer. These improvements of H129&lt;sub&gt;Amp&lt;/sub&gt; tracer system shorten experiment duration from 28-day to 5-day for fast-bright monosynaptic tracing. The lack of toxic viral genes in the H129&lt;sub&gt;Amp&lt;/sub&gt;tracer minimizes toxicity in postsynaptic neurons, thus offering the potential for functional anterograde mapping and long-term tracer delivery of genetic payloads. The H129&lt;sub&gt;Amp&lt;/sub&gt; tracer system is a powerful tracing tool for revealing neuronal connectomes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel viral vaccine platform based on engineered transfer RNA</title>
+      <link>https://example.com/article/36482724/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36482724/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, an increasing number of emerging and remerging virus outbreaks have occurred and the rapid development of vaccines against these viruses has been crucial. Controlling the replication of premature termination codon (PTC)-containing viruses is a promising approach to generate live but replication-defective viruses that can be used for potent vaccines. Here, we used anticodon-engineered transfer RNAs (ACE-tRNAs) as powerful precision switches to control the replication of PTC-containing viruses. We showed that ACE-tRNAs display higher potency of reading through PTCs than genetic code expansion (GCE) technology. Interestingly, ACE-tRNA has a site preference that may influence its read-through efficacy. We further attempted to use ACE-tRNAs as a novel viral vaccine platform. Using a human immunodeficiency virus type 1 (HIV-1) pseudotyped virus as an RNA virus model, we found that ACE-tRNAs display high potency for read-through viral PTCs and precisely control their production. Pseudorabies virus (PRV), a herpesvirus, was used as a DNA virus model. We found that ACE-tRNAs display high potency for reading through viral PTCs and precisely controlling PTC-containing virus replication. In addition, PTC-engineered PRV completely attenuated and lost virulence in mice in vivo, and immunization with PRV containing a PTC elicited a robust immune response and provided complete protection against wild-type PRV challenge. Overall, replication-controllable PTC-containing viruses based on ACE-tRNAs provide a new strategy to rapidly attenuate virus infection and prime robust immune responses. This technology can be used as a platform for rapidly developing viral vaccines in the future.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Bifunctional probe-assisted hybridization chain reaction for circular RNA detection and live-cell imaging</title>
       <link>https://example.com/article/23-01-01-10-08/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
@@ -270,6 +395,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Circular RNA (circRNA) is considered as a promising biomarker for various diseases owing to its unique functions and stable structure in biological circumstances. Nonetheless, homologous linear RNA always causes detection errors, posing a key challenge in effective circRNA assays for clinical applications. Herein, we present a novel method to directly analyze circRNA, eliminating homologous linear RNA interference. A dual-function circRNA-identifying hairpin (ih) probe is designed, which identifies target circRNA and initiates the subsequent hybridization chain reaction amplification. This method provides highly sensitive live-cell circRNA imaging capability and can directly monitor circRNA levels in biological samples, showing great promise for the analysis of low-abundant circRNA in clinical applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An E. coli display method for characterization of peptide-sensor kinase interactions</title>
+      <link>https://example.com/article/36482094/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36482094/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bacteria use two-component system (TCS) signaling pathways to sense and respond to peptides involved in host defense, quorum sensing and inter-bacterial warfare. However, little is known about the broad peptide-sensing capabilities of TCSs. In this study, we developed an Escherichia coli display method to characterize the effects of human antimicrobial peptides (AMPs) on the pathogenesis-regulating TCS PhoPQ of Salmonella Typhimurium with much higher throughput than previously possible. We found that PhoPQ senses AMPs with diverse sequences, structures and biological functions. We further combined thousands of displayed AMP variants with machine learning to identify peptide sub-domains and biophysical features linked to PhoPQ activation. Most of the newfound AMP activators induce PhoPQ in S. Typhimurium, suggesting possible roles in virulence regulation. Finally, we present evidence that PhoPQ peptide-sensing specificity has evolved across commensal and pathogenic bacteria. Our method enables new insights into the specificities, mechanisms and evolutionary dynamics of TCS-mediated peptide sensing in bacteria.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1378,6 +1528,31 @@
     </item>
     
     <item>
+      <title>Engineering adeno-associated virus vectors for gene therapy</title>
+      <link>https://example.com/review/32042148/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32042148/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adeno-associated virus (AAV) vector-mediated gene delivery was recently approved for the treatment of inherited blindness and spinal muscular atrophy, and long-term therapeutic effects have been achieved for other rare diseases, including haemophilia and Duchenne muscular dystrophy. However, current research indicates that the genetic modification of AAV vectors may further facilitate the success of AAV gene therapy. Vector engineering can increase AAV transduction efficiency (by optimizing the transgene cassette), vector tropism (using capsid engineering) and the ability of the capsid and transgene to avoid the host immune response (by genetically modifying these components), as well as optimize the large-scale production of AAV.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>PIRCh-seq: functional classification of non-coding RNAs associated with distinct histone modifications</title>
       <link>https://example.com/article/31862000/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
@@ -1453,6 +1628,31 @@
     </item>
     
     <item>
+      <title>RNA sequencing: the teenage years</title>
+      <link>https://example.com/review/31341269/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/31341269/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Over the past decade, RNA sequencing (RNA-seq) has become an indispensable tool for transcriptome-wide analysis of differential gene expression and differential splicing of mRNAs. However, as next-generation sequencing technologies have developed, so too has RNA-seq. Now, RNA-seq methods are available for studying many different aspects of RNA biology, including single-cell gene expression, translation (the translatome) and RNA structure (the structurome). Exciting new applications are being explored, such as spatial transcriptomics (spatialomics). Together with new long-read and direct RNA-seq technologies and better computational tools for data analysis, innovations in RNA-seq are contributing to a fuller understanding of RNA biology, from questions such as when and where transcription occurs to the folding and intermolecular interactions that govern RNA function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells</title>
       <link>https://example.com/article/30890159/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
@@ -1463,6 +1663,81 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>iTALK: an R Package to Characterize and Illustrate Intercellular Communication</title>
+      <link>https://example.com/article/italk/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/italk/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Crosstalk between tumor cells and other cells within the tumor microenvironment (TME) plays a crucial role in tumor progression, metastases, and therapy resistance. We present &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt;, a computational approach to characterize and illustrate intercellular communication signals in the multicellular tumor ecosystem using single-cell RNA sequencing data. &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt; can in principle be used to dissect the complexity, diversity, and dynamics of cell-cell communication from a wide range of cellular processes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying tumor-infiltrating immune cells from transcriptomics data</title>
+      <link>https://example.com/review/29541787/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29541787/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By exerting pro- and anti-tumorigenic actions, tumor-infiltrating immune cells can profoundly influence tumor progression, as well as the success of anti-cancer therapies. Therefore, the quantification of tumor-infiltrating immune cells holds the promise to unveil the multi-faceted role of the immune system in human cancers and its involvement in tumor escape mechanisms and response to therapy. Tumor-infiltrating immune cells can be quantified from RNA sequencing data of human tumors using bioinformatics approaches. In this review, we describe state-of-the-art computational methods for the quantification of immune cells from transcriptomics data and discuss the open challenges that must be addressed to accurately quantify immune infiltrates from RNA sequencing data of human bulk tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optogenetic and chemogenetic techniques for neurogastroenterology</title>
+      <link>https://example.com/review/29184183/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29184183/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Optogenetics and chemogenetics comprise a wide variety of applications in which genetically encoded actuators and indicators are used to modulate and monitor activity with high cellular specificity. Over the past 10 years, development of these genetically encoded tools has contributed tremendously to our understanding of integrated physiology. In concert with the continued refinement of probes, strategies to target transgene expression to specific cell types have also made much progress in the past 20 years. In addition, the successful implementation of optogenetic and chemogenetic techniques thrives thanks to ongoing advances in live imaging microscopy and optical technology. Although innovation of optogenetic and chemogenetic methods has been primarily driven by researchers studying the central nervous system, these techniques also hold great promise to boost research in neurogastroenterology. In this Review, we describe the different classes of tools that are currently available and give an overview of the strategies to target them to specific cell types in the gut wall. We discuss the possibilities and limitations of optogenetic and chemogenetic technology in the gut and provide an overview of their current use, with a focus on the enteric nervous system. Furthermore, we suggest some experiments that can advance our understanding of how the intrinsic and extrinsic neural networks of the gut control gastrointestinal function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

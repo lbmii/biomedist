@@ -5,12 +5,37 @@
     <link>https://example.com/tag/genomics/</link>
       <atom:link href="https://example.com/tag/genomics/index.xml" rel="self" type="application/rss+xml" />
     <description>Genomics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Genomics</title>
       <link>https://example.com/tag/genomics/</link>
     </image>
+    
+    <item>
+      <title>Combining genome-wide association studies highlight novel loci involved in human facial variation</title>
+      <link>https://example.com/article/36565798/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36565798/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Standard genome-wide association studies (GWASs) rely on analyzing a single trait at a time. However, many human phenotypes are complex and composed by multiple correlated traits. Here we introduce C-GWAS, a method for combining GWAS summary statistics of multiple potentially correlated traits. Extensive computer simulations demonstrated increased statistical power of C-GWAS compared to the minimal p-values of multiple single-trait GWASs (MinGWAS) and the current state-of-the-art method for combining single-trait GWASs (MTAG). Applying C-GWAS to a meta-analysis dataset of 78 single trait facial GWASs from 10,115 Europeans identified 56 study-wide suggestively significant loci with multi-trait effects on facial morphology of which 17 are novel loci. Using data from additional 13,622 European and Asian samples, 46 (82%) loci, including 9 (53%) novel loci, were replicated at nominal significance with consistent allele effects. Functional analyses further strengthen the reliability of our C-GWAS findings. Our study introduces the C-GWAS method and makes it available as computationally efficient open-source R package for widespread future use. Our work also provides insights into the genetic architecture of human facial appearance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Gene probes re-annotation with SeqMap and R</title>

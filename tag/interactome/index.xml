@@ -13,6 +13,31 @@
     </image>
     
     <item>
+      <title>Co-evolution-based prediction of metal-binding sites in proteomes by machine learning</title>
+      <link>https://example.com/article/36593274/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36593274/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metal ions have various important biological roles in proteins, including structural maintenance, molecular recognition and catalysis. Previous methods of predicting metal-binding sites in proteomes were based on either sequence or structural motifs. Here we developed a co-evolution-based pipeline named &amp;lsquo;MetalNet&amp;rsquo; to systematically predict metal-binding sites in proteomes. We applied MetalNet to proteomes of four representative prokaryotic species and predicted 4,849 potential metalloproteins, which substantially expands the currently annotated metalloproteomes. We biochemically and structurally validated previously unannotated metal-binding sites in several proteins, including apo-citrate lyase phosphoribosyl-dephospho-CoA transferase citX, an Escherichia coli enzyme lacking structural or sequence homology to any known metalloprotein (Protein Data Bank (PDB) codes: 7DCM and 7DCN ). MetalNet also successfully recapitulated all known zinc-binding sites from the human spliceosome complex. The pipeline of MetalNet provides a unique and enabling tool for interrogating the hidden metalloproteome and studying metal biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Methods for inference and analysis of cell-cell communication</title>
       <link>https://example.com/blog/2023-01-02-infer-anal-ccc/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
@@ -83,6 +108,210 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Neural-Cell-Intrinsic NF-κB Signaling Enhances Reovirus Virulence</title>
+      <link>https://example.com/article/36541803/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36541803/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pathological effects of apoptosis associated with viral infections of the central nervous system are an important cause of morbidity and mortality. Reovirus is a neurotropic virus that causes apoptosis in neurons, leading to lethal encephalitis in newborn mice. Reovirus-induced encephalitis is diminished in mice with germ line ablation of NF-κB subunit p50. It is not known whether the proapoptotic function of NF-κB is mediated by neural-cell-intrinsic (neural-intrinsic) processes, NF-κB-regulated cytokine production by inflammatory cells, or a combination of both. To determine the contribution of cell type-specific NF-κB signaling in reovirus-induced neuronal injury, we established mice that lack NF-κB p65 expression in neural cells using the &lt;em&gt;Cre/loxP&lt;/em&gt; recombination system. Following intracranial inoculation of reovirus, 50% of wild-type (WT) mice succumbed to infection, whereas more than 90% of mice lacking neural cell NF-κB p65 (Nsp65&lt;sup&gt;-/-&lt;/sup&gt;) survived. While viral loads in brains of WT and Nsp65&lt;sup&gt;-/-&lt;/sup&gt; mice were comparable, histological analysis revealed that reovirus antigen-positive areas in the brains of WT mice displayed increased immunoreactivity for cleaved caspase-3, a marker of apoptosis, relative to Nsp65&lt;sup&gt;-/-&lt;/sup&gt; mice. These data suggest that neural-intrinsic NF-κB-dependent factors are essential mediators of reovirus neurovirulence. RNA sequencing analysis of reovirus-infected brain cortices of WT and Nsp65&lt;sup&gt;-/-&lt;/sup&gt; mice suggests that NF-κB activation in neuronal cells upregulates genes involved in innate immunity, inflammation, and cell death following reovirus infection. A better understanding of the contribution of cell type-specific NF-κB-dependent signaling to viral neuropathogenesis could inform development of new therapeutics that target and protect highly vulnerable cell populations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Viral encephalitis contributes to illness and death in children and adults worldwide and has limited treatment options. Identifying common host factors upregulated by neurotropic viruses can enhance an understanding of virus-induced neuropathogenesis and aid in development of therapeutics. Although many neurotropic viruses activate NF-κB during infection, mechanisms by which NF-κB regulates viral neuropathogenesis and contributes to viral encephalitis are not well understood. We established mice in which NF-κB expression is ablated in neural tissue to study the function of NF-κB in reovirus neurovirulence and identify genes activated by NF-κB in response to reovirus infection in the central nervous system. Encephalitis following reovirus infection was dampened in mice lacking neural cell NF-κB. Reovirus induced a chemokine profile in the brain that was dependent on NF-κB signaling and was similar to chemokine profiles elicited by other neurotropic viruses. These data suggest common underlying mechanisms of encephalitis caused by neurotropic viruses and potentially shared therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Persistent post-COVID-19 smell loss is associated with immune cell infiltration and altered gene expression in olfactory epithelium</title>
+      <link>https://example.com/article/36542694/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36542694/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 causes profound changes in the sense of smell, including total smell loss. Although these alterations are often transient, many patients with COVID-19 exhibit olfactory dysfunction that lasts months to years. Although animal and human autopsy studies have suggested mechanisms driving acute anosmia, it remains unclear how SARS-CoV-2 causes persistent smell loss in a subset of patients. To address this question, we analyzed olfactory epithelial samples collected from 24 biopsies, including from nine patients with objectively quantified long-term smell loss after COVID-19. This biopsy-based approach revealed a diffuse infiltrate of T cells expressing interferon-γ and a shift in myeloid cell population composition, including enrichment of CD207+ dendritic cells and depletion of anti-inflammatory M2 macrophages. Despite the absence of detectable SARS-CoV-2 RNA or protein, gene expression in the barrier supporting cells of the olfactory epithelium, termed sustentacular cells, appeared to reflect a response to ongoing inflammatory signaling, which was accompanied by a reduction in the number of olfactory sensory neurons relative to olfactory epithelial sustentacular cells. These findings indicate that T cell-mediated inflammation persists in the olfactory epithelium long after SARS-CoV-2 has been eliminated from the tissue, suggesting a mechanism for long-term post-COVID-19 smell loss.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R-loop-derived cytoplasmic RNA-DNA hybrids activate an immune response</title>
+      <link>https://example.com/article/36544021/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36544021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Degradation of HDAC10 by autophagy promotes IRF3-mediated antiviral innate immune responses</title>
+      <link>https://example.com/article/36538592/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36538592/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Histone deacetylases (HDACs) play important roles in immunity and inflammation. Through functional screening, we identified HDAC10 as an inhibitor of the type I interferon (IFN) response mediated by interferon regulatory factor 3 (IRF3). HDAC10 abundance was decreased in mouse macrophages in response to innate immune stimuli and was reduced in peripheral blood mononuclear cells (PBMCs) from patients with systemic lupus erythematosus (SLE) compared with that in PBMCs from healthy donors. Deficiency in HDAC10 in mouse embryonic fibroblasts and in mice promoted the expression of genes encoding type I IFNs and of IFN-stimulated genes (ISGs), leading to enhanced antiviral responses in vitro and in vivo. HDAC10 bound in a deacetylase-independent manner to IRF3 in uninfected cells to inhibit the phosphorylation of IRF3 at Ser&lt;sup&gt;396&lt;/sup&gt; by TANK-binding kinase 1 (TBK1). Upon viral infection, HDAC10 was targeted for autophagy-mediated degradation through its interaction with LC3-II. Consequently, IRF3 phosphorylation was increased, which resulted in enhanced type I IFN production and antiviral responses. Our findings identify a potential target for improving host defense responses against pathogen infection and for treating autoimmune disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Analogous comparison unravels heightened antiviral defense and boosted viral infection upon immunosuppression in bat organoids</title>
+      <link>https://example.com/article/36529763/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36529763/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Horseshoe bats host numerous SARS-related coronaviruses without overt disease signs. Bat intestinal organoids, a unique model of bat intestinal epithelium, allow direct comparison with human intestinal organoids. We sought to unravel the cellular mechanism(s) underlying bat tolerance of coronaviruses by comparing the innate immunity in bat and human organoids. We optimized the culture medium, which enabled a consecutive passage of bat intestinal organoids for over one year. Basal expression levels of IFNs and IFN-stimulated genes were higher in bat organoids than in their human counterparts. Notably, bat organoids mounted a more rapid, robust and prolonged antiviral defense than human organoids upon Poly(I:C) stimulation. TLR3 and RLR might be the conserved pathways mediating antiviral response in bat and human intestinal organoids. The susceptibility of bat organoids to a bat coronavirus CoV-HKU4, but resistance to EV-71, an enterovirus of exclusive human origin, indicated that bat organoids adequately recapitulated the authentic susceptibility of bats to certain viruses. Importantly, TLR3/RLR inhibition in bat organoids significantly boosted viral growth in the early phase after SARS-CoV-2 or CoV-HKU4 infection. Collectively, the higher basal expression of antiviral genes, especially more rapid and robust induction of innate immune response, empowered bat cells to curtail virus propagation in the early phase of infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Herpes Simplex Virus 1-Induced Ferroptosis Contributes to Viral Encephalitis</title>
+      <link>https://example.com/article/36507835/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36507835/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Herpes simplex virus 1 (HSV-1) is a DNA virus belonging to the family Herpesviridae. HSV-1 infection causes severe neurological disease in the central nervous system (CNS), including encephalitis. Ferroptosis is a nonapoptotic form of programmed cell death that contributes to different neurological inflammatory diseases. However, whether HSV-1 induces ferroptosis in the CNS and the role of ferroptosis in viral pathogenesis remain unclear. Here, we demonstrate that HSV-1 induces ferroptosis, as hallmarks of ferroptosis, including Fe&lt;sup&gt;2+&lt;/sup&gt; overload, reactive oxygen species (ROS) accumulation, glutathione (GSH) depletion, lipid peroxidation, and mitochondrion shrinkage, are observed in HSV-1-infected cultured human astrocytes, microglia cells, and murine brains. Moreover, HSV-1 infection enhances the E3 ubiquitin ligase Keap1 (Kelch-like ECH-related protein 1)-mediated ubiquitination and degradation of nuclear factor E2-related factor 2 (Nrf2), a transcription factor that regulates the expression of antioxidative genes, thereby disturbing cellular redox homeostasis and promoting ferroptosis. Furthermore, HSV-1-induced ferroptosis is tightly associated with the process of viral encephalitis in a mouse model, and the ferroptosis-activated upregulation of prostaglandin-endoperoxide synthase 2 (PTGS2) and prostaglandin E2 (PGE&lt;sub&gt;2&lt;/sub&gt;) plays an important role in HSV-1-caused inflammation and encephalitis. Importantly, the inhibition of ferroptosis by a ferroptosis inhibitor or a proteasome inhibitor to suppress Nrf2 degradation effectively alleviated HSV-1 encephalitis. Together, our findings demonstrate the interaction between HSV-1 infection and ferroptosis and provide novel insights into the pathogenesis of HSV-1 encephalitis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a nonapoptotic form of programmed cell death that contributes to different neurological inflammatory diseases. However, whether HSV-1 induces ferroptosis in the CNS and the role of ferroptosis in viral pathogenesis remain unclear. In the current study, we demonstrate that HSV-1 infection induces ferroptosis, as Fe&lt;sup&gt;2+&lt;/sup&gt; overload, ROS accumulation, GSH depletion, lipid peroxidation, and mitochondrion shrinkage, all of which are hallmarks of ferroptosis, are observed in human cultured astrocytes, microglia cells, and murine brains infected with HSV-1. Moreover, HSV-1 infection enhances Keap1-dependent Nrf2 ubiquitination and degradation, which results in substantial reductions in the expression levels of antiferroptotic genes downstream of Nrf2, thereby disturbing cellular redox homeostasis and promoting ferroptosis. Furthermore, HSV-1-induced ferroptosis is tightly associated with the process of viral encephalitis in a mouse model, and the ferroptosis-activated upregulation of PTGS2 and PGE2 plays an important role in HSV-1-caused inflammation and encephalitis. Importantly, the inhibition of ferroptosis by either a ferroptosis inhibitor or a proteasome inhibitor to suppress HSV-1-induced Nrf2 degradation effectively alleviates HSV-1-caused neuro-damage and inflammation in infected mice. Overall, our findings uncover the interaction between HSV-1 infection and ferroptosis, shed novel light on the physiological impacts of ferroptosis on the pathogenesis of HSV-1 infection and encephalitis, and provide a promising therapeutic strategy to treat this important infectious disease with a worldwide distribution.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineering antiviral immune-like systems for autonomous virus detection and inhibition in mice</title>
+      <link>https://example.com/article/36494373/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36494373/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ongoing COVID-19 pandemic has demonstrated that viral diseases represent an enormous public health and economic threat to mankind and that individuals with compromised immune systems are at greater risk of complications and death from viral diseases. The development of broad-spectrum antivirals is an important part of pandemic preparedness. Here, we have engineer a series of designer cells which we term autonomous, intelligent, virus-inducible immune-like (ALICE) cells as sense-and-destroy antiviral system. After developing a destabilized STING-based sensor to detect viruses from seven different genera, we have used a synthetic signal transduction system to link viral detection to the expression of multiple antiviral effector molecules, including antiviral cytokines, a CRISPR-Cas9 module for viral degradation and the secretion of a neutralizing antibody. We perform a proof-of-concept study using multiple iterations of our ALICE system in vitro, followed by in vivo functionality testing in mice. We show that dual output ALICE&lt;sub&gt;SaCas9+Ab&lt;/sub&gt; system delivered by an AAV-vector inhibited viral infection in herpetic simplex keratitis (HSK) mouse model. Our work demonstrates that viral detection and antiviral countermeasures can be paired for intelligent sense-and-destroy applications as a flexible and innovative method against virus infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer analyses reveal molecular and clinical characteristics of cuproptosis regulators</title>
+      <link>https://example.com/article/imt2.68/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.68/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -830,6 +1059,31 @@
       <guid>https://example.com/article/35384603/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The nucleocapsid (N) protein of SARS-CoV-2 has been reported to have a high ability of liquid-liquid phase separation, which enables its incorporation into stress granules (SGs) of host cells. However, whether SG invasion by N protein occurs in the scenario of SARS-CoV-2 infection is unknow, neither do we know its consequence. Here, we used SARS-CoV-2 to infect mammalian cells and observed the incorporation of N protein into SGs, which resulted in markedly impaired self-disassembly but stimulated cell cellular clearance of SGs. NMR experiments further showed that N protein binds to the SG-related amyloid proteins via non-specific transient interactions, which not only expedites the phase transition of these proteins to aberrant amyloid aggregation in vitro, but also promotes the aggregation of FUS with ALS-associated P525L mutation in cells. In addition, we found that ACE2 is not necessary for the infection of SARS-CoV-2 to mammalian cells. Our work indicates that SARS-CoV-2 infection can impair the disassembly of host SGs and promote the aggregation of SG-related amyloid proteins, which may lead to an increased risk of neurodegeneration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MetOrigin: Discriminating the origins of microbial metabolites for integrative analysis of the gut microbiome and metabolome</title>
+      <link>https://example.com/article/imt2.10/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interactions between the gut microbiome and metabolome play an important role in human health and diseases. Current studies mainly apply statistical correlation analysis between the gut microbiome and all the identified metabolites to explore their relationship. However, it remains challenging to identify the specific metabolic functions of microbes without in vitro culture experiments for validation. Discriminating the microbial metabolites from others (e.g., host, food, or environment) and exploring their metabolic functions and correlations with microbiome specifically may improve the efficiency and accuracy of biomarker discovery. So far, there have been no such bioinformatics tools available. Herein, we developed &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt;, an interactive web server that discriminates metabolites originating from the microbiome, performs the origin-based metabolic pathway enrichment analysis, and integrates the statistical correlations and biological relationships in the database using Sankey network visualization. &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt; not only enables the quick identification of microbial metabolites and their metabolic functions but also facilitates the discovery of specific bacterial species that are closely associated with metabolites statistically and biologically.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2480,6 +2734,38 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Classical and Nonclassical Intercellular Communication in Senescence and Ageing</title>
+      <link>https://example.com/review/32505550/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32505550/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intercellular communication is a key feature in physiological and pathological conditions. We hypothesize that several means of intercellular communication occur either simultaneously or in succession.&lt;/li&gt;
+&lt;li&gt;The most studied means of intercellular communication are soluble factors. However, important alternative means are emerging.&lt;/li&gt;
+&lt;li&gt;Senescent cells are highly proactive and communicate with neighboring cells via various means of intercellular communication including but not limited to the senescence-associated secretory phenotype (SASP).&lt;/li&gt;
+&lt;li&gt;Most studies of pharmacological drugs preventing the release of soluble factors oversee the influence of these drugs on other means of communication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intercellular communication refers to the different ways through which cells communicate with each other and transfer a variety of messages. These communication methods involve a number of different processes that occur individually or simultaneously, which change depending on the physiological or pathological context. The best characterized means of intercellular communication is the release of soluble factors that affect the function of neighboring cells. However, there are many other ways by which cells can communicate with each other. Here, we review the different means of intercellular communication including soluble factors in the context of senescence, ageing, and age-related diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>USP29 maintains the stability of cGAS and promotes cellular antiviral responses and autoimmunity</title>
       <link>https://example.com/article/32457395/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
@@ -2561,6 +2847,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Interaction Between the Microbiota, Epithelia, and Immune Cells in the Intestine</title>
+      <link>https://example.com/review/32340570/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32340570/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The gastrointestinal tract harbors numerous commensal bacteria, referred to as the microbiota, that benefit host health by digesting dietary components and eliminating pathogens. The intestinal microbiota maintains epithelial barrier integrity and shapes the mucosal immune system, balancing host defense and oral tolerance with microbial metabolites, components, and attachment to host cells. To avoid aberrant immune responses, epithelial cells segregate the intestinal microbiota from immune cells by constructing chemical and physical barriers, leading to the establishment of host-commensal mutualism. Furthermore, intestinal immune cells participate in the maintenance of a healthy microbiota community and reinforce epithelial barrier functions. Perturbations of the microbiota composition are commonly observed in patients with autoimmune diseases and chronic inflammatory disorders. An understanding of the intimate interactions between the intestinal microbiota, epithelial cells, and immune cells that are crucial for the maintenance of intestinal homeostasis might promote advances in diagnostic and therapeutic approaches for various diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>O-GlcNAc transferase promotes influenza A virus-induced cytokine storm by targeting interferon regulatory factor-5</title>
       <link>https://example.com/article/32494619/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
@@ -2621,6 +2932,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>How RNA-Binding Proteins Interact with RNA: Molecules and Mechanisms</title>
+      <link>https://example.com/review/32243832/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32243832/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA-binding proteins (RBPs) comprise a large class of over 2,000 proteins that interact with transcripts in all manner of RNA-driven processes. The structures and mechanisms that RBPs use to bind and regulate RNA are incredibly diverse. In this review, we take a look at the components of protein-RNA interaction, from the molecular level to multi-component interaction. We first summarize what is known about protein-RNA molecular interactions based on analyses of solved structures. We additionally describe software currently available for predicting protein-RNA interaction and other resources useful for the study of RBPs. We then review the structure and function of seventeen known RNA-binding domains and analyze the hydrogen bonds adopted by protein-RNA structures on a domain-by-domain basis. We conclude with a summary of the higher-level mechanisms that regulate protein-RNA interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -3088,6 +3424,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/30371894/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A multitude of factors contribute to complex diseases and can be measured with &amp;lsquo;omics&amp;rsquo; methods. Databases facilitate data interpretation for underlying mechanisms. Here, we describe the &lt;a href=&#34;www.vmh.life&#34;&gt;Virtual Metabolic Human (VMH)&lt;/a&gt; database encapsulating current knowledge of human metabolism within five interlinked resources &amp;lsquo;Human metabolism&amp;rsquo;, &amp;lsquo;Gut microbiome&amp;rsquo;, &amp;lsquo;Disease&amp;rsquo;, &amp;lsquo;Nutrition&amp;rsquo;, and &amp;lsquo;ReconMaps&amp;rsquo;. The &lt;a href=&#34;www.vmh.life&#34;&gt;VMH&lt;/a&gt; captures 5180 unique metabolites, 17 730 unique reactions, 3695 human genes, 255 Mendelian diseases, 818 microbes, 632 685 microbial genes and 8790 food items. The &lt;a href=&#34;www.vmh.life&#34;&gt;VMH&lt;/a&gt;&amp;rsquo;s unique features are (i) the hosting of the metabolic reconstructions of human and gut microbes amenable for metabolic modeling; (ii) seven human metabolic maps for data visualization; (iii) a nutrition designer; (iv) a user-friendly webpage and application-programming interface to access its content; (v) user feedback option for community engagement and (vi) the connection of its entities to 57 other web resources. The &lt;a href=&#34;www.vmh.life&#34;&gt;VMH&lt;/a&gt; represents a novel, interdisciplinary database for data interpretation and hypothesis generation to the biomedical community.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>iTALK: an R Package to Characterize and Illustrate Intercellular Communication</title>
+      <link>https://example.com/article/italk/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/italk/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Crosstalk between tumor cells and other cells within the tumor microenvironment (TME) plays a crucial role in tumor progression, metastases, and therapy resistance. We present &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt;, a computational approach to characterize and illustrate intercellular communication signals in the multicellular tumor ecosystem using single-cell RNA sequencing data. &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt; can in principle be used to dissect the complexity, diversity, and dynamics of cell-cell communication from a wide range of cellular processes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

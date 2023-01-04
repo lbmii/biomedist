@@ -5,12 +5,37 @@
     <link>https://example.com/tag/phosphorylation/</link>
       <atom:link href="https://example.com/tag/phosphorylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Phosphorylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Phosphorylation</title>
       <link>https://example.com/tag/phosphorylation/</link>
     </image>
+    
+    <item>
+      <title>SESAME-catalyzed H3T11 phosphorylation inhibits Dot1-catalyzed H3K79me3 to regulate autophagy and telomere silencing</title>
+      <link>https://example.com/article/36473858/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36473858/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The glycolytic enzyme, pyruvate kinase Pyk1 maintains telomere heterochromatin by phosphorylating histone H3T11 (H3pT11), which promotes SIR (silent information regulator) complex binding at telomeres and prevents autophagy-mediated Sir2 degradation. However, the exact mechanism of action for H3pT11 is poorly understood. Here, we report that H3pT11 directly inhibits Dot1-catalyzed H3K79 tri-methylation (H3K79me3) and uncover how this histone crosstalk regulates autophagy and telomere silencing. Mechanistically, Pyk1-catalyzed H3pT11 directly reduces the binding of Dot1 to chromatin and inhibits Dot1-catalyzed H3K79me3, which leads to transcriptional repression of autophagy genes and reduced autophagy. Despite the antagonism between H3pT11 and H3K79me3, they work together to promote the binding of SIR complex at telomeres to maintain telomere silencing. Furthermore, we identify Reb1 as a telomere-associated factor that recruits Pyk1-containing SESAME (Serine-responsive SAM-containing Metabolic Enzyme) complex to telomere regions to phosphorylate H3T11 and prevent the invasion of H3K79me3 from euchromatin into heterochromatin to maintain telomere silencing. Together, these results uncover a histone crosstalk and provide insights into dynamic regulation of silent heterochromatin and autophagy in response to cell metabolism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>AMPK directly phosphorylates TBK1 to integrate glucose sensing into innate immunity</title>

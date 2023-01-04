@@ -5,12 +5,44 @@
     <link>https://example.com/tag/sialylation/</link>
       <atom:link href="https://example.com/tag/sialylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Sialylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Sialylation</title>
       <link>https://example.com/tag/sialylation/</link>
     </image>
+    
+    <item>
+      <title>Immune checkpoint therapy-elicited sialylation of IgG antibodies impairs antitumorigenic type I interferon responses in hepatocellular carcinoma</title>
+      <link>https://example.com/article/36563676/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36563676/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ICB therapy catalyzes IgG sialylation in HCC that predicts an improved outcome&lt;/li&gt;
+&lt;li&gt;Effector T cells trigger sialylated IgG via IFN-γ-ST6Gal-I-dependent pathways&lt;/li&gt;
+&lt;li&gt;Sialylated IgG binding to DC-SIGN abrogates macrophage type I IFN production&lt;/li&gt;
+&lt;li&gt;Impeding IgG sialylation enhances antitumorigenic T cell immunity during ICB therapy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The reinvigoration of anti-tumor T cells in response to immune checkpoint blockade (ICB) therapy is well established. Whether and how ICB therapy manipulates antibody-mediated immune response in cancer environments, however, remains elusive. Using tandem mass spectrometric analysis of modification of immunoglobulin G (IgG) from hepatoma tissues, we identified a role of ICB therapy in catalyzing IgG sialylation in the Fc region. Effector T cells triggered sialylation of IgG via an interferon (IFN)-γ-ST6Gal-I-dependent pathway. DC-SIGN&lt;sup&gt;+&lt;/sup&gt; macrophages represented the main target cells of sialylated IgG. Upon interacting with sialylated IgG, DC-SIGN stimulated Raf-1-elicited elevation of ATF3, which inactivated cGAS-STING pathway and eliminated subsequent type-I-IFN-triggered antitumorigenic immunity. Although enhanced IgG sialylation in tumors predicted improved therapeutic outcomes for patients receiving ICB therapy, impeding IgG sialylation augmented antitumorigenic T cell immunity after ICB therapy. Thus, targeting antibody-based negative feedback action of ICB therapy has potential for improving efficacy of cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PHGDH heterogeneity potentiates cancer cell dissemination and metastasis</title>

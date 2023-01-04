@@ -5,12 +5,37 @@
     <link>https://example.com/tag/immune-evasion/</link>
       <atom:link href="https://example.com/tag/immune-evasion/index.xml" rel="self" type="application/rss+xml" />
     <description>Immune Evasion</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immune Evasion</title>
       <link>https://example.com/tag/immune-evasion/</link>
     </image>
+    
+    <item>
+      <title>PRDM1/BLIMP1 induces cancer immune evasion by modulating the USP22-SPI1-PD-L1 axis in hepatocellular carcinoma cells</title>
+      <link>https://example.com/article/36509766/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36509766/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Programmed death receptor-1 (PD-1) blockade have achieved some efficacy but only in a fraction of patients with hepatocellular carcinoma (HCC). Programmed cell death 1 ligand 1 (PD-L1) binds to its receptor PD1 on T cells to dampen antigen-tumor immune responses. However, the mechanisms underlying PD-L1 regulation are not fully elucidated. Herein, we identify that tumoral &lt;em&gt;Prdm1&lt;/em&gt; overexpression inhibits cell growth in immune-deficient mouse models. Further, tumoral &lt;em&gt;Prdm1&lt;/em&gt; overexpression upregulates PD-L1 levels, dampening anti-tumor immunity in vivo, and neutralizes the anti-tumor efficacy of &lt;em&gt;Prdm1&lt;/em&gt; overexpression in immune-competent mouse models. Mechanistically, &lt;em&gt;PRDM1&lt;/em&gt; enhances &lt;em&gt;USP22&lt;/em&gt; transcription, thus reducing &lt;em&gt;SPI1&lt;/em&gt; protein degradation through deubiquitination, which enhances &lt;em&gt;PD-L1&lt;/em&gt; transcription. Functionally, PD-1 mAb treatment reinforces the efficacy of &lt;em&gt;Prdm1&lt;/em&gt;-overexpressing HCC immune-competent mouse models. Collectively, we demonstrate that the PRDM1-USP22-SPI1 axis regulates PD-L1 levels, resulting in infiltrated CD8&lt;sup&gt;+&lt;/sup&gt; T cell exhaustion. Furthermore, &lt;em&gt;PRDM1&lt;/em&gt; overexpression combined with PD-(L)1 mAb treatment provides a therapeutic strategy for HCC treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Aberrant hyperexpression of the RNA binding protein FMRP in tumors mediates immune evasion</title>

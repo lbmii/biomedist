@@ -5,12 +5,69 @@
     <link>https://example.com/tag/endoplasmic-reticulum/</link>
       <atom:link href="https://example.com/tag/endoplasmic-reticulum/index.xml" rel="self" type="application/rss+xml" />
     <description>Endoplasmic Reticulum</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endoplasmic Reticulum</title>
       <link>https://example.com/tag/endoplasmic-reticulum/</link>
     </image>
+    
+    <item>
+      <title>The UFM1 system regulates ER-phagy through the ufmylation of CYB5R3</title>
+      <link>https://example.com/article/36543799/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36543799/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protein modification by ubiquitin-like proteins (UBLs) amplifies limited genome information and regulates diverse cellular processes, including translation, autophagy and antiviral pathways. Ubiquitin-fold modifier 1 (UFM1) is a UBL covalently conjugated with intracellular proteins through ufmylation, a reaction analogous to ubiquitylation. Ufmylation is involved in processes such as endoplasmic reticulum (ER)-associated protein degradation, ribosome-associated protein quality control at the ER and ER-phagy. However, it remains unclear how ufmylation regulates such distinct ER-related functions. Here we identify a UFM1 substrate, NADH-cytochrome b5 reductase 3 (CYB5R3), that localizes on the ER membrane. Ufmylation of CYB5R3 depends on the E3 components UFL1 and UFBP1 on the ER, and converts CYB5R3 into its inactive form. Ufmylated CYB5R3 is recognized by UFBP1 through the UFM1-interacting motif, which plays an important role in the further uyfmylation of CYB5R3. Ufmylated CYB5R3 is degraded in lysosomes, which depends on the autophagy-related protein Atg7- and the autophagy-adaptor protein CDK5RAP3. Mutations of CYB5R3 and genes involved in the UFM1 system cause hereditary developmental disorders, and ufmylation-defective Cyb5r3 knock-in mice exhibit microcephaly. Our results indicate that CYB5R3 ufmylation induces ER-phagy, which is indispensable for brain development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Endosomal lipid signaling reshapes the endoplasmic reticulum to control mitochondrial function</title>
+      <link>https://example.com/article/36520888/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36520888/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cells need to react appropriately to nutritional cues. Defects in the rewiring of metabolism in response to alterations in nutrient supply have been linked to human diseases ranging from diabetes to muscle atrophy. Starvation represses anabolic pathways and facilitates catabolic ones, such as the degradation of macromolecules by autophagy and endolysosomes. Starvation also promotes the β-oxidation of fatty acids in mitochondria to produce adenosine triphosphate (ATP). Within cells, organelles including lysosomes and mitochondria undergo changes in shape and dynamics. These processes are often regulated by phosphoinositide lipids. Phosphoinositides are also involved in the formation of membrane contacts between organelles and in the response of cells and tissues to growth and nutrient signals. How the adaptive changes that protect mammalian cells and tissues from starvation-induced damage are coordinated on a cell-wide scale is unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RATIONALE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Endolysosomal membrane dynamics and function are controlled by phosphoinositide signaling lipids, most notably by the synthesis and turnover of phosphatidylinositol 3-phosphate [PI(3)P]. Patients carrying mutations in the gene encoding the lipid phosphatase MTM1, an enzyme that mediates endosomal PI(3)P turnover, suffer from X-linked centronuclear myopathy (XLCNM), a severe neuromuscular disease characterized by muscle atrophy, disorganization of mitochondria, and defects in the organization of the muscle endoplasmic reticulum (ER). Given that PI(3)P is a hallmark of endosomes, we hypothesized that the control of early endosomal PI(3)P by MTM1 might serve to orchestrate adaptive changes in the dynamics of the ER and mitochondria in response to altering nutrient supply.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESULTS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Working with XLCNM patient–derived myoblasts and engineered cell lines, we found that nutrient starvation (for example, lack of amino acids) induced the hydrolysis of PI(3)P by endosomal recruitment of MTM1. Concomitantly, tubular ER membranes were observed to be converted into ER sheets by live super-resolution light microscopy. Mechanistically, loss of early endosomal PI(3)P upon starvation was found to reduce membrane contacts between peripheral ER tubules and early endosomes. These contacts function as physical tethers that may transmit pulling forces from highly motile peripheral endosomes to the tubular ER. Using proximity labeling proteomic and functional cell biological experiments we demonstrated that the ER–endosome contacts were mediated by binding of the related ER membrane proteins RRBP1 and kinectin 1 to PI(3)P on endosomes. To study the role of starvation-induced reshaping of tubular ER membranes into sheets on mitochondrial form and function, we combined live imaging with three-dimensional focused ion beam milling scanning electron microscopy (FIB-SEM) and proteomic analysis. We found that starvation-induced ER reshaping by MTM1 reduced the rate of mitochondrial fission and promoted the formation of a hyperfused mitochondrial network. Genetic manipulations that resulted in ER sheet expansion caused the formation of an enlarged mitochondrial network even in fed cells. Conversely, impaired ER reshaping and reduced mitochondrial network formation were observed in starved myoblasts from XLCNM patients. Mitochondrial network formation appeared to be critical for the delivery of fatty acids from lipid droplets to mitochondria and for oxidative ATP production to sustain energy supply in nutrient-deprived cells.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our data unravel a crucial role for early endosomal lipid signaling in controlling ER morphology and, thereby, mitochondrial form and function to orchestrate the adaptive response of cells to alterations in nutrient (e.g., amino acid) supply. This mechanism operates independent of autophagy, a cellular self-eating process typically induced by prolonged starvation. Rather, it resembles an organellar conveyor belt, in which the tubular ER serves as a membrane conduit that transmits nutrient-triggered changes in endosomal PI(3)P levels to metabolic organelles to enable metabolic rewiring. How early endosomal PI(3)P levels and MTM1 function are controlled by cellular nutrient status is currently unknown. Defects in ER shape, mitochondrial morphogenesis, and cellular ATP depletion caused by loss of MTM1 function can explain the observed myofiber hypotrophy and defective ER organization in animal models of XLCNM and in human patients who often appear undernourished. We therefore hypothesize that dysregulated organelle remodeling may underlie XLCNM caused by MTM1 mutations in humans.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Exosome modification to better alleviates endoplasmic reticulum stress induced chondrocyte apoptosis and osteoarthritis</title>
@@ -242,6 +299,31 @@
     </item>
     
     <item>
+      <title>ER-Phagy: Quality Control and Turnover of Endoplasmic Reticulum</title>
+      <link>https://example.com/review/32302550/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32302550/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The endoplasmic reticulum (ER) is the largest organelle in cells and has fundamental functions, such as folding, processing, and trafficking of proteins, cellular metabolism, and ion storage. To maintain its function, it is turned over constitutively, and even more actively under certain stress conditions. Quality control of the ER is mediated primarily by two pathways: the ubiquitin-proteasome system and autophagy (termed &amp;lsquo;ER-phagy&amp;rsquo;). The identification of ER-phagy adaptor molecules has shed light on the mechanisms and physiological significance of ER-phagy. Here, we describe recent findings on various types of ER-phagy and present unanswered questions related to their mechanism and regulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The ER-Localized Transmembrane Protein TMEM39A/SUSR2 Regulates Autophagy by Controlling the Trafficking of the PtdIns(4)P Phosphatase SAC1</title>
       <link>https://example.com/article/31806350/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
@@ -323,6 +405,31 @@
       <guid>https://example.com/article/30626644/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ubiquitin fold modifier 1 (UFM1) is a small, metazoan-specific, ubiquitin-like protein modifier that is essential for embryonic development. Although loss-of-function mutations in UFM1 conjugation are linked to endoplasmic reticulum (ER) stress, neither the biological function nor the relevant cellular targets of this protein modifier are known. Here, we show that a largely uncharacterized ribosomal protein, RPL26, is the principal target of UFM1 conjugation. RPL26 UFMylation and de-UFMylation is catalyzed by enzyme complexes tethered to the cytoplasmic surface of the ER and UFMylated RPL26 is highly enriched on ER membrane-bound ribosomes and polysomes. Biochemical analysis and structural modeling establish that UFMylated RPL26 and the UFMylation machinery are in close proximity to the SEC61 translocon, suggesting that this modification plays a direct role in cotranslational protein translocation into the ER. These data suggest that UFMylation is a ribosomal modification specialized to facilitate metazoan-specific protein biogenesis at the ER.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>GRAMD1/ASTER-mediated cholesterol transport promotes Smoothened cholesterylation at the endoplasmic reticulum</title>
+      <link>https://example.com/article/36524353/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36524353/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hedgehog (Hh) signaling pathway plays a pivotal role in embryonic development. Hh binding to Patched1 (PTCH1) derepresses Smoothened (SMO), thereby activating the downstream signal transduction. Covalent SMO modification by cholesterol in its cysteine-rich domain (CRD) is essential for SMO function. SMO cholesterylation is a calcium-accelerated autoprocessing reaction, and STIM1-ORAI1-mediated store-operated calcium entry promotes cholesterylation and activation of endosome-localized SMO. However, it is unknown whether the Hh-PTCH1 interplay regulates the activity of the endoplasmic reticulum (ER)-localized SMO. Here, we found that PTCH1 inhibited the COPII-dependent export of SMO from the ER, whereas Hh promoted this process. The RRxWxR amino acid motif in the cytosolic tail of SMO was essential for COPII recognition, ciliary localization, and signal transduction activity. Hh and PTCH1 regulated cholesterol modification of the ER-localized SMO, and SMO cholesterylation accelerated its exit from ER. The GRAMD1/ASTER sterol transport proteins facilitated cholesterol transfer to ER from PM, resulting in increased SMO cholesterylation and enhanced Hh signaling. Collectively, we reveal a regulatory role of GRAMD-mediated cholesterol transport in ER-resident SMO maturation and Hh signaling.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

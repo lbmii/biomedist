@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reovirus | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/reovirus/</link>
+      <atom:link href="https://example.com/tag/reovirus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reovirus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Reovirus</title>
+      <link>https://example.com/tag/reovirus/</link>
+    </image>
+    
+    <item>
+      <title>Neural-Cell-Intrinsic NF-κB Signaling Enhances Reovirus Virulence</title>
+      <link>https://example.com/article/36541803/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36541803/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pathological effects of apoptosis associated with viral infections of the central nervous system are an important cause of morbidity and mortality. Reovirus is a neurotropic virus that causes apoptosis in neurons, leading to lethal encephalitis in newborn mice. Reovirus-induced encephalitis is diminished in mice with germ line ablation of NF-κB subunit p50. It is not known whether the proapoptotic function of NF-κB is mediated by neural-cell-intrinsic (neural-intrinsic) processes, NF-κB-regulated cytokine production by inflammatory cells, or a combination of both. To determine the contribution of cell type-specific NF-κB signaling in reovirus-induced neuronal injury, we established mice that lack NF-κB p65 expression in neural cells using the &lt;em&gt;Cre/loxP&lt;/em&gt; recombination system. Following intracranial inoculation of reovirus, 50% of wild-type (WT) mice succumbed to infection, whereas more than 90% of mice lacking neural cell NF-κB p65 (Nsp65&lt;sup&gt;-/-&lt;/sup&gt;) survived. While viral loads in brains of WT and Nsp65&lt;sup&gt;-/-&lt;/sup&gt; mice were comparable, histological analysis revealed that reovirus antigen-positive areas in the brains of WT mice displayed increased immunoreactivity for cleaved caspase-3, a marker of apoptosis, relative to Nsp65&lt;sup&gt;-/-&lt;/sup&gt; mice. These data suggest that neural-intrinsic NF-κB-dependent factors are essential mediators of reovirus neurovirulence. RNA sequencing analysis of reovirus-infected brain cortices of WT and Nsp65&lt;sup&gt;-/-&lt;/sup&gt; mice suggests that NF-κB activation in neuronal cells upregulates genes involved in innate immunity, inflammation, and cell death following reovirus infection. A better understanding of the contribution of cell type-specific NF-κB-dependent signaling to viral neuropathogenesis could inform development of new therapeutics that target and protect highly vulnerable cell populations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Viral encephalitis contributes to illness and death in children and adults worldwide and has limited treatment options. Identifying common host factors upregulated by neurotropic viruses can enhance an understanding of virus-induced neuropathogenesis and aid in development of therapeutics. Although many neurotropic viruses activate NF-κB during infection, mechanisms by which NF-κB regulates viral neuropathogenesis and contributes to viral encephalitis are not well understood. We established mice in which NF-κB expression is ablated in neural tissue to study the function of NF-κB in reovirus neurovirulence and identify genes activated by NF-κB in response to reovirus infection in the central nervous system. Encephalitis following reovirus infection was dampened in mice lacking neural cell NF-κB. Reovirus induced a chemokine profile in the brain that was dependent on NF-κB signaling and was similar to chemokine profiles elicited by other neurotropic viruses. These data suggest common underlying mechanisms of encephalitis caused by neurotropic viruses and potentially shared therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

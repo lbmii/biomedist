@@ -93,5 +93,33 @@
 </description>
     </item>
     
+    <item>
+      <title>Identification of a novel anoikis-related gene signature to predict prognosis and tumor microenvironment in lung adenocarcinoma</title>
+      <link>https://example.com/article/36507553/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36507553/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Lung adenocarcinoma (LUAD) is the most prevalent histotype of non-small cell lung cancer. Anoikis, an alternative form of programmed cell death, plays a pivotal role in cancer invasion and metastasis, preventing the detached cancer cells from readhering to other substrates for abnormal proliferation. The aim of this study was to conduct a comprehensive analyses of the prognostic implications of anoikis-related genes (ARGs) in LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; ARGs were selected from The Cancer Genome Atlas (TCGA) database and Genecards dataset using differential expression analysis. The signature incorporating ARGs was identified using univariate Cox regression analysis and LASSO regression analysis. Furthermore, a nomogram containing the signature and clinical information was developed through univariate and multivariate Cox regression analysis. Kaplan-Meier survival analysis and receiver operating characteristic (ROC) curves were applied to evaluate the predictive validity of these risk models. Finally, functional analysis of the selected ARGs in signature and analysis of immune landscape were also conducted.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A 16-gene signature was integrated to stratify LUAD patients into different survival risk groups. The prognostic risk score generated from the signature and TNM stage were identified as independent prognostic factors and utilized to develop a nomogram. Both the signature and the nomogram showed satisfactory prediction performance in predicting overall survival (OS) of LUAD patients. The ARGs were enriched in several biological functions and signaling pathways. Finally, differences of immune landscape were investigated among the high- and low-risk groups stratified by the signature.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This study revealed potential relationships between ARGs and prognosis of LUAD. The prognostic predictors identified in present study could be utilized as potential biomarkers for clinical applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

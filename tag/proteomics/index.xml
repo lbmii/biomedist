@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proteomics | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/proteomics/</link>
+      <atom:link href="https://example.com/tag/proteomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Proteomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Proteomics</title>
+      <link>https://example.com/tag/proteomics/</link>
+    </image>
+    
+    <item>
+      <title>iMetaLab Suite: A one-stop toolset for metaproteomics</title>
+      <link>https://example.com/article/imt2.25/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A one-stop solution for metaproteomics data analysis for nonexpert.&lt;/li&gt;
+&lt;li&gt;Database search and result reports that include taxonomy and function.&lt;/li&gt;
+&lt;li&gt;Interactive tools for frequently used metaproteomics data analysis tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metaproteomics is a recently thriving technique that studies the collection of proteins in complex microbiomes of the human, animal, plant, and environment. The bioinformatics workflow required for metaproteomics research, from the database search and protein quantification to downstream functional and taxonomic analysis has been challenging and thus limiting the accessibility of metaproteomics to microbiome researchers. To overcome these challenges, we have developed a set of tools named &lt;a href=&#34;https://imetalab.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iMetaLab Suite&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://imetalab.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iMetaLab Suite&lt;/strong&gt;&lt;/a&gt; includes the following components:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MetaLab Desktop, an automated database search software that facilities proteins identification and quantitation from microbiomes;&lt;/li&gt;
+&lt;li&gt;the automated iMetaReport that allows users to quickly access database search results and data set profiles;&lt;/li&gt;
+&lt;li&gt;an interactive online toolset, iMetaShiny, covering most frequently used functional, taxonomic, and statistical analysis in metaproteomics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://imetalab.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iMetaLab Suite&lt;/strong&gt;&lt;/a&gt; is a free, easily accessible, and actively updated toolset available to assist researchers to explore metaproteomic data.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

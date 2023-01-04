@@ -5,12 +5,44 @@
     <link>https://example.com/tag/endosome/</link>
       <atom:link href="https://example.com/tag/endosome/index.xml" rel="self" type="application/rss+xml" />
     <description>Endosome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endosome</title>
       <link>https://example.com/tag/endosome/</link>
     </image>
+    
+    <item>
+      <title>Endosomal lipid signaling reshapes the endoplasmic reticulum to control mitochondrial function</title>
+      <link>https://example.com/article/36520888/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36520888/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cells need to react appropriately to nutritional cues. Defects in the rewiring of metabolism in response to alterations in nutrient supply have been linked to human diseases ranging from diabetes to muscle atrophy. Starvation represses anabolic pathways and facilitates catabolic ones, such as the degradation of macromolecules by autophagy and endolysosomes. Starvation also promotes the β-oxidation of fatty acids in mitochondria to produce adenosine triphosphate (ATP). Within cells, organelles including lysosomes and mitochondria undergo changes in shape and dynamics. These processes are often regulated by phosphoinositide lipids. Phosphoinositides are also involved in the formation of membrane contacts between organelles and in the response of cells and tissues to growth and nutrient signals. How the adaptive changes that protect mammalian cells and tissues from starvation-induced damage are coordinated on a cell-wide scale is unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RATIONALE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Endolysosomal membrane dynamics and function are controlled by phosphoinositide signaling lipids, most notably by the synthesis and turnover of phosphatidylinositol 3-phosphate [PI(3)P]. Patients carrying mutations in the gene encoding the lipid phosphatase MTM1, an enzyme that mediates endosomal PI(3)P turnover, suffer from X-linked centronuclear myopathy (XLCNM), a severe neuromuscular disease characterized by muscle atrophy, disorganization of mitochondria, and defects in the organization of the muscle endoplasmic reticulum (ER). Given that PI(3)P is a hallmark of endosomes, we hypothesized that the control of early endosomal PI(3)P by MTM1 might serve to orchestrate adaptive changes in the dynamics of the ER and mitochondria in response to altering nutrient supply.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESULTS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Working with XLCNM patient–derived myoblasts and engineered cell lines, we found that nutrient starvation (for example, lack of amino acids) induced the hydrolysis of PI(3)P by endosomal recruitment of MTM1. Concomitantly, tubular ER membranes were observed to be converted into ER sheets by live super-resolution light microscopy. Mechanistically, loss of early endosomal PI(3)P upon starvation was found to reduce membrane contacts between peripheral ER tubules and early endosomes. These contacts function as physical tethers that may transmit pulling forces from highly motile peripheral endosomes to the tubular ER. Using proximity labeling proteomic and functional cell biological experiments we demonstrated that the ER–endosome contacts were mediated by binding of the related ER membrane proteins RRBP1 and kinectin 1 to PI(3)P on endosomes. To study the role of starvation-induced reshaping of tubular ER membranes into sheets on mitochondrial form and function, we combined live imaging with three-dimensional focused ion beam milling scanning electron microscopy (FIB-SEM) and proteomic analysis. We found that starvation-induced ER reshaping by MTM1 reduced the rate of mitochondrial fission and promoted the formation of a hyperfused mitochondrial network. Genetic manipulations that resulted in ER sheet expansion caused the formation of an enlarged mitochondrial network even in fed cells. Conversely, impaired ER reshaping and reduced mitochondrial network formation were observed in starved myoblasts from XLCNM patients. Mitochondrial network formation appeared to be critical for the delivery of fatty acids from lipid droplets to mitochondria and for oxidative ATP production to sustain energy supply in nutrient-deprived cells.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our data unravel a crucial role for early endosomal lipid signaling in controlling ER morphology and, thereby, mitochondrial form and function to orchestrate the adaptive response of cells to alterations in nutrient (e.g., amino acid) supply. This mechanism operates independent of autophagy, a cellular self-eating process typically induced by prolonged starvation. Rather, it resembles an organellar conveyor belt, in which the tubular ER serves as a membrane conduit that transmits nutrient-triggered changes in endosomal PI(3)P levels to metabolic organelles to enable metabolic rewiring. How early endosomal PI(3)P levels and MTM1 function are controlled by cellular nutrient status is currently unknown. Defects in ER shape, mitochondrial morphogenesis, and cellular ATP depletion caused by loss of MTM1 function can explain the observed myofiber hypotrophy and defective ER organization in animal models of XLCNM and in human patients who often appear undernourished. We therefore hypothesize that dysregulated organelle remodeling may underlie XLCNM caused by MTM1 mutations in humans.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Distinct changes in endosomal composition promote NLRP3 inflammasome activation</title>

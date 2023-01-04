@@ -5,12 +5,37 @@
     <link>https://example.com/tag/bacteriome/</link>
       <atom:link href="https://example.com/tag/bacteriome/index.xml" rel="self" type="application/rss+xml" />
     <description>Bacteriome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bacteriome</title>
       <link>https://example.com/tag/bacteriome/</link>
     </image>
+    
+    <item>
+      <title>MetOrigin: Discriminating the origins of microbial metabolites for integrative analysis of the gut microbiome and metabolome</title>
+      <link>https://example.com/article/imt2.10/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interactions between the gut microbiome and metabolome play an important role in human health and diseases. Current studies mainly apply statistical correlation analysis between the gut microbiome and all the identified metabolites to explore their relationship. However, it remains challenging to identify the specific metabolic functions of microbes without in vitro culture experiments for validation. Discriminating the microbial metabolites from others (e.g., host, food, or environment) and exploring their metabolic functions and correlations with microbiome specifically may improve the efficiency and accuracy of biomarker discovery. So far, there have been no such bioinformatics tools available. Herein, we developed &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt;, an interactive web server that discriminates metabolites originating from the microbiome, performs the origin-based metabolic pathway enrichment analysis, and integrates the statistical correlations and biological relationships in the database using Sankey network visualization. &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt; not only enables the quick identification of microbial metabolites and their metabolic functions but also facilitates the discovery of specific bacterial species that are closely associated with metabolites statistically and biologically.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Integrated gut virome and bacteriome dynamics in COVID-19 patients</title>

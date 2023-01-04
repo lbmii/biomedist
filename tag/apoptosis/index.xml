@@ -5,12 +5,37 @@
     <link>https://example.com/tag/apoptosis/</link>
       <atom:link href="https://example.com/tag/apoptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Apoptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Apoptosis</title>
       <link>https://example.com/tag/apoptosis/</link>
     </image>
+    
+    <item>
+      <title>Mitochondria-localized lncRNA HITT inhibits fusion by attenuating formation of mitofusin-2 homo- or heterotypic complexes</title>
+      <link>https://example.com/article/36567017/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36567017/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNAs (lncRNAs) are emerging as essential players in multiple biological processes. Mitochondrial dynamics, comprising the continuous cycle of fission and fusion, are required for healthy mitochondria that function properly. Despite long-term recognition of its significance in cell-fate control, the mechanism underlying mitochondrial fusion is not completely understood, particularly regarding the involvement of lncRNAs. Here, we show that the lncRNA HITT (HIF-1α inhibitor at translation level), can specifically localize in mitochondria. Cells expressing higher levels of HITT contain fragmented mitochondria. Conversely, we show that HITT knockdown cells have more tubular mitochondria than is present in control cells. Mechanistically, we demonstrate HITT directly binds mitofusin-2 (MFN2), a core component that mediates mitochondrial outer membrane fusion, by the &lt;em&gt;in vitro&lt;/em&gt; RNA pull-down and UV-cross-linking RNA-IP (CLIP) assays. In doing so, we found HITT disturbs MFN2 homo- or heterotypic complex formation, attenuating mitochondrial fusion. Under stress conditions, such as ultraviolet radiation, we in addition show HITT stability increases as a consequence of MiR-205 downregulation, inhibiting MFN2-mediated fusion and leading to apoptosis. Overall, our data provide significant insights into the roles of organelle (mitochondria)-specific resident lncRNAs in regulating mitochondrial fusion, and also reveal how such a mechanism controls cellular sensitivity to UV radiation-induced apoptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PANoptosis-like cell death in ischemia/reperfusion injury of retinal neurons</title>
@@ -263,6 +288,31 @@
     </item>
     
     <item>
+      <title>The PANoptosome: A Deadly Protein Complex Driving Pyroptosis, Apoptosis, and Necroptosis (PANoptosis)</title>
+      <link>https://example.com/review/32582562/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32582562/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Programmed cell death is regulated by evolutionarily conserved pathways that play critical roles in development and the immune response. A newly recognized pathway for proinflammatory programmed cell death called PANoptosis is controlled by a recently identified cytoplasmic multimeric protein complex named the PANoptosome. The PANoptosome can engage, in parallel, three key modes of programmed cell death-pyroptosis, apoptosis, and necroptosis. The PANoptosome components have been implicated in a wide array of human diseases including autoinflammatory diseases, neurodegenerative diseases, cancer, microbial infections, and metabolic diseases. Here, we review putative components of the PANoptosome and present a phylogenetic analysis of their molecular domains and interaction motifs that support complex assembly. We also discuss genetic data that suggest PANoptosis is coordinated by scaffolding and catalytic functions of the complex components and propose mechanistic models for PANoptosome assembly. Overall, this review presents potential mechanisms governing PANoptosis based on evolutionary analysis of the PANoptosome components.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Identification of the PANoptosome: A Molecular Platform Triggering Pyroptosis, Apoptosis, and Necroptosis (PANoptosis)</title>
       <link>https://example.com/article/32547960/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
@@ -298,6 +348,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The Coming Decade of Cell Death Research: Five Riddles</title>
+      <link>https://example.com/review/31100266/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/31100266/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Active cell death, in its many forms, is a fundamental biological process. Studies over the past several decades have explored the functions and consequences of cellular demise and elucidated several of the key cell death pathways. Here, I pose five questions, or riddles, that might provide a guide to the next decade of cell death research. Focusing mainly on four types of active cell death (apoptosis, necroptosis, pyroptosis, and ferroptosis) mainly in mammals, this Perspective explores the possible research directions that might answer these riddles, or at least prompt new ones.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

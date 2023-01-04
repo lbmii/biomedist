@@ -5,12 +5,37 @@
     <link>https://example.com/tag/immunotherapy/</link>
       <atom:link href="https://example.com/tag/immunotherapy/index.xml" rel="self" type="application/rss+xml" />
     <description>Immunotherapy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immunotherapy</title>
       <link>https://example.com/tag/immunotherapy/</link>
     </image>
+    
+    <item>
+      <title>Macrophage Membrane-Coated Nano-Gemcitabine Promotes Lymphocyte Infiltration and Synergizes AntiPD-L1 to Restore the Tumoricidal Function</title>
+      <link>https://example.com/article/36525314/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36525314/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The limited lymphocyte infiltration and exhaustion of tumoricidal functions in solid tumors remain a formidable obstacle to cancer immunotherapy. Herein, we designed a macrophage membrane-coated nano-gemcitabine system (MNGs) to promote lymphocyte infiltration and then synergized anti-programmed death ligand 1 (antiPD-L1) to reinvigorate the exhausted lymphocytes. MNGs exhibited effective intratumor-permeating and responsive drug-releasing capacity, produced notable elimination of versatile immunosuppressive cells, and promoted lymphocyte infiltration into cancer cell regions in tumors, but over 50% of these infiltrated lymphocytes were in the exhausted state. Compared with MNG monotherapy, the MNGs+antiPD-L1 combination produced 31.77% and 30.63% reduction of exhausted CD3&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells and natural killer (NK) cells and 2.83- and 3.17-fold increases of interferon-γ (IFN-γ)-positive subtypes, respectively, thereby resulting in considerable therapeutic benefits in several tumor models. Thus, MNGs provide an encouraging strategy to promote lymphocyte infiltration and synergize antiPD-L1 to restore their tumoricidal function for cancer immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Dendritic cell derived exosomes loaded neoantigens for personalized cancer immunotherapies</title>

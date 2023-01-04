@@ -98,6 +98,95 @@
     </item>
     
     <item>
+      <title>Molecular and spatial signatures of mouse brain aging at single-cell resolution</title>
+      <link>https://example.com/article/36580914/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36580914/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Molecular and cellular architecture of aging frontal cortex and striatum is mapped&lt;/li&gt;
+&lt;li&gt;Aging induces spatially dependent cell-state changes in non-neuronal cells&lt;/li&gt;
+&lt;li&gt;White matter is a hotspot for aging-related glial and immune cell activation&lt;/li&gt;
+&lt;li&gt;Aging- and LPS-induced brain inflammation exhibit similarities and differences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The diversity and complex organization of cells in the brain have hindered systematic characterization of age-related changes in its cellular and molecular architecture, limiting our ability to understand the mechanisms underlying its functional decline during aging. Here, we generated a high-resolution cell atlas of brain aging within the frontal cortex and striatum using spatially resolved single-cell transcriptomics and quantified changes in gene expression and spatial organization of major cell types in these regions over the mouse lifespan. We observed substantially more pronounced changes in cell state, gene expression, and spatial organization of non-neuronal cells over neurons. Our data revealed molecular and spatial signatures of glial and immune cell activation during aging, particularly enriched in the subcortical white matter, and identified both similarities and notable differences in cell-activation patterns induced by aging and systemic inflammatory challenge. These results provide critical insights into age-related decline and inflammation in the brain.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal chromatin profiling using nanobody-based single-cell CUT&amp;Tag</title>
+      <link>https://example.com/article/36536148/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36536148/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Probing histone modifications at a single-cell level in thousands of cells has been enabled by technologies such as single-cell CUT&amp;amp;Tag. Here we describe nano-CUT&amp;amp;Tag (nano-CT), which allows simultaneous mapping of up to three epigenomic modalities at single-cell resolution using nanobody-Tn5 fusion proteins. Multimodal nano-CT is compatible with starting materials as low as 25,000-200,000 cells and has significantly higher sensitivity and number of fragments per cell than single-cell CUT&amp;amp;Tag. We use nano-CT to simultaneously profile chromatin accessibility, H3K27ac, and H3K27me3 in juvenile mouse brain, allowing for discrimination of more cell types and states than unimodal single-cell CUT&amp;amp;Tag. We also infer chromatin velocity between assay for transposase-accessible chromatin (ATAC) and H3K27ac in the oligodendrocyte lineage and deconvolute H3K27me3 repressive states, finding two sequential waves of H3K27me3 repression at distinct gene modules during oligodendrocyte lineage progression. Given its high resolution, versatility, and multimodal features, nano-CT allows unique insights in epigenetic landscapes in complex biological systems at the single-cell level.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates</title>
+      <link>https://example.com/article/36493756/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36493756/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spatiotemporal atlas of human lung development identifies 144 cell types/states&lt;/li&gt;
+&lt;li&gt;Tracking the developmental origins of multiple cell types, including new progenitors&lt;/li&gt;
+&lt;li&gt;Functional diversity of fibroblasts in distinct anatomical signaling niches&lt;/li&gt;
+&lt;li&gt;Experimental validation of TFs controlling neuroendocrine cell heterogeneity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We present a multiomic cell atlas of human lung development that combines single-cell RNA and ATAC sequencing, high-throughput spatial transcriptomics, and single-cell imaging. Coupling single-cell methods with spatial analysis has allowed a comprehensive cellular survey of the epithelial, mesenchymal, endothelial, and erythrocyte/leukocyte compartments from 5–22 post-conception weeks. We identify previously uncharacterized cell states in all compartments. These include developmental-specific secretory progenitors and a subtype of neuroendocrine cell related to human small cell lung cancer. Our datasets are available through our web interface (&lt;a href=&#34;https://lungcellatlas.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lungcellatlas.org&lt;/a&gt;). To illustrate its general utility, we use our cell atlas to generate predictions about cell-cell signaling and transcription factor hierarchies which we rigorously test using organoid models.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Complexity of enhancer networks predicts cell identity and disease genes revealed by single-cell multi-omics analysis</title>
       <link>https://example.com/article/36464486/</link>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>

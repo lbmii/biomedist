@@ -147,6 +147,31 @@
     </item>
     
     <item>
+      <title>Inferring disease-associated circRNAs by multi-source aggregation based on heterogeneous graph neural network</title>
+      <link>https://example.com/article/36572658/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36572658/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emerging evidence has proved that circular RNAs (circRNAs) are implicated in pathogenic processes. They are regarded as promising biomarkers for diagnosis due to covalently closed loop structures. As opposed to traditional experiments, computational approaches can identify circRNA-disease associations at a lower cost. Aggregating multi-source pathogenesis data helps to alleviate data sparsity and infer potential associations at the system level. The majority of computational approaches construct a homologous network using multi-source data, but they lose the heterogeneity of the data. Effective methods that use the features of multi-source data are considered as a matter of urgency. In this paper, we propose a model (CDHGNN) based on edge-weighted graph attention and heterogeneous graph neural networks for potential circRNA-disease association prediction. The circRNA network, micro RNA network, disease network and heterogeneous network are constructed based on multi-source data. To reflect association probabilities between nodes, an edge-weighted graph attention network model is designed for node features. To assign attention weights to different types of edges and learn contextual meta-path, CDHGNN infers potential circRNA-disease association based on heterogeneous neural networks. CDHGNN outperforms state-of-the-art algorithms in terms of accuracy. Edge-weighted graph attention networks and heterogeneous graph networks have both improved performance significantly. Furthermore, case studies suggest that CDHGNN is capable of identifying specific molecular associations and investigating biomolecular regulatory relationships in pathogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Bifunctional probe-assisted hybridization chain reaction for circular RNA detection and live-cell imaging</title>
       <link>https://example.com/article/23-01-01-10-08/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
@@ -993,6 +1018,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Biogenesis and Functions of Circular RNAs Come into Focus</title>
+      <link>https://example.com/review/31973951/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/31973951/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many eukaryotic protein-coding genes are able to generate exonic circular RNAs. Most of these covalently linked transcripts are expressed at low levels, but some accumulate to higher levels than their associated linear mRNAs. We highlight several methodologies that have been developed in recent years to identify and characterize these transcripts, and which have revealed an increasingly detailed view of how circular RNAs can be generated and function. It is now clear that modulation of circular RNA levels can result in a variety of molecular and physiological phenotypes, including effects on the nervous system, innate immunity, microRNAs, and many disease-relevant pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

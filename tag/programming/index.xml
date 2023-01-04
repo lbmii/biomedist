@@ -155,6 +155,31 @@
     </item>
     
     <item>
+      <title>Combining genome-wide association studies highlight novel loci involved in human facial variation</title>
+      <link>https://example.com/article/36565798/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36565798/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Standard genome-wide association studies (GWASs) rely on analyzing a single trait at a time. However, many human phenotypes are complex and composed by multiple correlated traits. Here we introduce C-GWAS, a method for combining GWAS summary statistics of multiple potentially correlated traits. Extensive computer simulations demonstrated increased statistical power of C-GWAS compared to the minimal p-values of multiple single-trait GWASs (MinGWAS) and the current state-of-the-art method for combining single-trait GWASs (MTAG). Applying C-GWAS to a meta-analysis dataset of 78 single trait facial GWASs from 10,115 Europeans identified 56 study-wide suggestively significant loci with multi-trait effects on facial morphology of which 17 are novel loci. Using data from additional 13,622 European and Asian samples, 46 (82%) loci, including 9 (53%) novel loci, were replicated at nominal significance with consistent allele effects. Functional analyses further strengthen the reliability of our C-GWAS findings. Our study introduces the C-GWAS method and makes it available as computationally efficient open-source R package for widespread future use. Our work also provides insights into the genetic architecture of human facial appearance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Gene annotation of GPL16686 with R</title>
       <link>https://example.com/blog/2022-12-09-gpl16686/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
@@ -847,6 +872,37 @@
     </item>
     
     <item>
+      <title>Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data</title>
+      <link>https://example.com/article/imt2.56/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.56/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The phylogenetic tree and diverse accompanying data can be stored in a &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; graph object, which improves the reproducibility and reusability of phylogenetic data.&lt;/li&gt;
+&lt;li&gt;The phylogenetic tree and associated data can be extracted from the &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; object, which can be reanalyzed and help various scientific disciplines synthesize their comparative studies and phylogenetic information.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; graph object can be rendered as a static image, and the visualization directives that were previously saved in the object can be reused to display a different tree object in a manner akin to Microsoft Word Format Painter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While phylogenetic trees and associated data have been getting easier to generate, it has been difficult to reuse, combine, and synthesize the information they provided, because published trees are often only available as image files and associated data are often stored in incompatible formats. To increase the reproducibility and reusability of phylogenetic data, the &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; object was designed for storing phylogenetic tree and associated data, as well as visualization directives. The &lt;a href=&#34;https://www.bioconductor.org/packages/ggtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ggtree&lt;/em&gt;&lt;/a&gt; object itself is a graphic object and can be rendered as a static image. More importantly, the input tree and associated data that are used in visualization can be extracted from the graphic object, making it an ideal data structure for publishing tree (image, tree, and data in one single object) and thus enhancing data reuse and analytical reproducibility, as well as facilitating integrative and comparative studies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Python for Data Analysis</title>
       <link>https://example.com/books/2022-09-20-py-data-anal/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
@@ -856,6 +912,38 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ggClusterNet: An R package for microbiome network analysis and modularity-based multiple network layouts</title>
+      <link>https://example.com/article/imt2.32/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.32/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggClusterNet is an R package for microbial networks.&lt;/li&gt;
+&lt;li&gt;Analysis functions could help the user to easily complete network analysis and interpretation.&lt;/li&gt;
+&lt;li&gt;Ten network layout algorithms allow users more alternatives to plot the network and generate published-ready figures.&lt;/li&gt;
+&lt;li&gt;It is free to access on GitHub and Gitee.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The network analysis has attracted increasing attention and interest from ecological academics, thus it is of great necessity to develop more convenient and powerful tools. For that reason, we have developed an R package, named “ggClusterNet,” to complete and display the network analysis in an easier manner. In that package, ten network layout algorithms are designed to better display the modules of microbiome network (randomClusterG, PolygonClusterG, PolygonRrClusterG, ArtifCluster, randSNEClusterG, PolygonModsquareG, PolyRdmNotdCirG, model_Gephi.2, model_igraph, and model_maptree). For the convenience of the users, many functions related to microbial network analysis, such as corMicor(), net_properties(), node_properties(), ZiPiPlot(), random_Net_compate(), are integrated to complete the network mining. Furthermore, the pipeline function named network.2() and corBionetwork() are also added for the quick achievement of the network or bipartite network analysis as well as their in-depth mining. The ggClusterNet is publicly available via &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or &lt;a href=&#34;https://gitee.com/wentaomicro/ggClusterNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitee&lt;/a&gt; for users&amp;rsquo; access. A complete description of the usages can be found on the &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&amp;rsquo;s GitHub page&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -1615,6 +1703,31 @@
     </item>
     
     <item>
+      <title>iTALK: an R Package to Characterize and Illustrate Intercellular Communication</title>
+      <link>https://example.com/article/italk/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/italk/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Crosstalk between tumor cells and other cells within the tumor microenvironment (TME) plays a crucial role in tumor progression, metastases, and therapy resistance. We present &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt;, a computational approach to characterize and illustrate intercellular communication signals in the multicellular tumor ecosystem using single-cell RNA sequencing data. &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt; can in principle be used to dissect the complexity, diversity, and dynamics of cell-cell communication from a wide range of cellular processes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>R Graphics Cookbook</title>
       <link>https://example.com/books/2018-11-30-r-graphics/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
@@ -1831,6 +1944,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying tumor-infiltrating immune cells from transcriptomics data</title>
+      <link>https://example.com/review/29541787/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29541787/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By exerting pro- and anti-tumorigenic actions, tumor-infiltrating immune cells can profoundly influence tumor progression, as well as the success of anti-cancer therapies. Therefore, the quantification of tumor-infiltrating immune cells holds the promise to unveil the multi-faceted role of the immune system in human cancers and its involvement in tumor escape mechanisms and response to therapy. Tumor-infiltrating immune cells can be quantified from RNA sequencing data of human tumors using bioinformatics approaches. In this review, we describe state-of-the-art computational methods for the quantification of immune cells from transcriptomics data and discuss the open challenges that must be addressed to accurately quantify immune infiltrates from RNA sequencing data of human bulk tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

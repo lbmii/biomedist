@@ -5,12 +5,44 @@
     <link>https://example.com/tag/pancreas/</link>
       <atom:link href="https://example.com/tag/pancreas/index.xml" rel="self" type="application/rss+xml" />
     <description>Pancreas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Pancreas</title>
       <link>https://example.com/tag/pancreas/</link>
     </image>
+    
+    <item>
+      <title>β-hydroxybutyrate inhibits ferroptosis-mediated pancreatic damage in acute liver failure through the increase of H3K9bhb</title>
+      <link>https://example.com/article/36543135/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36543135/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ferroptosis contributes to pancreatic injury after acute liver failure (ALF)&lt;/li&gt;
+&lt;li&gt;β-hydroxybutyrate (β-HB) restoration alleviates pancreatic injury after ALF&lt;/li&gt;
+&lt;li&gt;β-HB induces enrichment of H3K9bhb in the promotor regions of ferroptosis-suppressor genes&lt;/li&gt;
+&lt;li&gt;β-HB regulates chromatin accessibility and mRNA expression of ferroptosis-suppressor genes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute pancreatitis and hyperamylasemia are often seen in patients with acute liver failure (ALF). However, the underlying mechanisms remain elusive. This study describes pancreatic tissue damage and exocrine dysfunction in a mouse model of major-liver-resection-induced ALF. The analysis of 1,264 clinical cases of liver failure (LF) showed that the incidence of hyperamylasemia and hyperlipasemia in patients with LF is 5.5% and 20%, respectively. Metabolomic studies indicate that glutathione (GSH)-deficiency-caused ferroptosis contributes to pancreatic damage in mouse ALF. β-hydroxybutyrate (β-HB) is the only metabolite downregulated in the liver, serum, and pancreas. Our data suggest that β-HB protects pancreatic cells and tissues from GSH-deficiency-caused ferroptosis. β-HB administration in ALF mice restores the expression of ferroptosis-suppressor genes through histone H3 lysine 9 β-hydroxybutyrylation (H3K9bhb)-mediated chromatin opening. Our findings highlight β-HB as an endogenous metabolite regulating ferroptosis in the pancreas and extend our understanding of the pathophysiology of ALF-induced pancreatitis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Differential integrated stress response and asparagine production drive symbiosis and therapy resistance of pancreatic adenocarcinoma cells</title>

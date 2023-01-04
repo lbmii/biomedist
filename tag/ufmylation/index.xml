@@ -5,12 +5,62 @@
     <link>https://example.com/tag/ufmylation/</link>
       <atom:link href="https://example.com/tag/ufmylation/index.xml" rel="self" type="application/rss+xml" />
     <description>UFMylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>UFMylation</title>
       <link>https://example.com/tag/ufmylation/</link>
     </image>
+    
+    <item>
+      <title>The UFM1 system regulates ER-phagy through the ufmylation of CYB5R3</title>
+      <link>https://example.com/article/36543799/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36543799/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protein modification by ubiquitin-like proteins (UBLs) amplifies limited genome information and regulates diverse cellular processes, including translation, autophagy and antiviral pathways. Ubiquitin-fold modifier 1 (UFM1) is a UBL covalently conjugated with intracellular proteins through ufmylation, a reaction analogous to ubiquitylation. Ufmylation is involved in processes such as endoplasmic reticulum (ER)-associated protein degradation, ribosome-associated protein quality control at the ER and ER-phagy. However, it remains unclear how ufmylation regulates such distinct ER-related functions. Here we identify a UFM1 substrate, NADH-cytochrome b5 reductase 3 (CYB5R3), that localizes on the ER membrane. Ufmylation of CYB5R3 depends on the E3 components UFL1 and UFBP1 on the ER, and converts CYB5R3 into its inactive form. Ufmylated CYB5R3 is recognized by UFBP1 through the UFM1-interacting motif, which plays an important role in the further uyfmylation of CYB5R3. Ufmylated CYB5R3 is degraded in lysosomes, which depends on the autophagy-related protein Atg7- and the autophagy-adaptor protein CDK5RAP3. Mutations of CYB5R3 and genes involved in the UFM1 system cause hereditary developmental disorders, and ufmylation-defective Cyb5r3 knock-in mice exhibit microcephaly. Our results indicate that CYB5R3 ufmylation induces ER-phagy, which is indispensable for brain development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Proteome-wide systems genetics identifies UFMylation as a regulator of skeletal muscle function</title>
+      <link>https://example.com/article/36472367/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36472367/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Improving muscle function has great potential to improve the quality of life. To identify novel regulators of skeletal muscle metabolism and function, we performed a proteomic analysis of gastrocnemius muscle from 73 genetically distinct inbred mouse strains, and integrated the data with previously acquired genomics and &amp;gt;300 molecular/phenotypic traits via quantitative trait loci mapping and correlation network analysis. These data identified thousands of associations between protein abundance and phenotypes and can be accessed online (&lt;a href=&#34;https://muscle.coffeeprot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://muscle.coffeeprot.com/&lt;/a&gt;) to identify regulators of muscle function. We used this resource to prioritize targets for a functional genomic screen in human bioengineered skeletal muscle. This identified several negative regulators of muscle function including UFC1, an E2 ligase for protein UFMylation. We show UFMylation is up-regulated in a mouse model of amyotrophic lateral sclerosis, a disease that involves muscle atrophy. Furthermore, in vivo knockdown of UFMylation increased contraction force, implicating its role as a negative regulator of skeletal muscle function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A non-canonical scaffold-type E3 ligase complex mediates protein UFMylation</title>
@@ -368,6 +418,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The UFMylation System in Proteostasis and Beyond</title>
+      <link>https://example.com/review/31703843/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/31703843/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Post-translational modifications are at the apex of cellular communication and eventually regulate every aspect of life. The identification of new post-translational modifiers is opening alternative avenues in understanding fundamental cell biology processes and may ultimately provide novel therapeutic opportunities. The ubiquitin-fold modifier 1 (UFM1) is a post-translational modifier discovered a decade ago but its biological significance has remained mostly unknown. The field has recently witnessed an explosion of research uncovering the implications of the pathway to cellular homeostasis in living organisms. We overview recent advances in the function and regulation of the UFM1 pathway, and its implications for cell physiology and disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mass Cytometry | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/mass-cytometry/</link>
+      <atom:link href="https://example.com/tag/mass-cytometry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mass Cytometry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Mass Cytometry</title>
+      <link>https://example.com/tag/mass-cytometry/</link>
+    </image>
+    
+    <item>
+      <title>Integrated multi-omics Landscape of liver metastases</title>
+      <link>https://example.com/article/36574521/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36574521/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BACKGROUND &amp;amp; AIMS&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Lack of thorough knowledge for complicated immune-microenvironment (IM) within a variety of liver metastases (LMs) leads to inappropriate treatment and unsatisfactory prognosis. We aimed to characterize IM subtypes and investigate potential mechanisms in LMs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;METHODS&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Mass cytometry was applied to characterize immune landscape of primary liver cancers and liver metastases cohort. Transcriptomic and whole exome sequencing were used to explore potential mechanisms across distinct IM subtypes. Single cell transcriptomic sequencing, multiplex fluorescent immunohistochemistry, cell culture, mouse model, western blot, quantitative polymerase chain reaction and immunohistochemistry were used for validation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RESULTS&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Five IM subtypes were revealed in 100 LMs and 50 primary liver cancers. Patients featured terminally exhausted (IM1) or rare-T-cell-inflamed (IM2 and IM3) immune characteristics showed worse outcome. Increased intra-tumor heterogeneity, enriched somatic TP53, KRAS, APC, PIK3CA mutations and hyper-activated hypoxia signaling accounted for the formation of vicious subtypes. SLC2A1 promoted immune suppression and desert via increasing proportion of Spp1&lt;sup&gt;+&lt;/sup&gt; macrophages and their inhibitory interactions with T cells in liver metastatic lesions. Furthermore, SLC2A1 promoted immune escape and liver metastasis through inducing regulatory T cells including Tregs and LAG3&lt;sup&gt;+&lt;/sup&gt;CD4&lt;sup&gt;+&lt;/sup&gt; T cells in primary colorectal cancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONCLUSION&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The study provided integrated multi-omics landscape of liver metastasis, uncovering potential mechanisms for vicious IM subtypes and confirming the roles of SLC2A1 in regulating tumor microenvironment remodeling in both primary tumor and liver metastatic lesions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

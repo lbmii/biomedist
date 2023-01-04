@@ -5,12 +5,112 @@
     <link>https://example.com/tag/rna/</link>
       <atom:link href="https://example.com/tag/rna/index.xml" rel="self" type="application/rss+xml" />
     <description>RNA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>RNA</title>
       <link>https://example.com/tag/rna/</link>
     </image>
+    
+    <item>
+      <title>Inferring disease-associated circRNAs by multi-source aggregation based on heterogeneous graph neural network</title>
+      <link>https://example.com/article/36572658/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36572658/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emerging evidence has proved that circular RNAs (circRNAs) are implicated in pathogenic processes. They are regarded as promising biomarkers for diagnosis due to covalently closed loop structures. As opposed to traditional experiments, computational approaches can identify circRNA-disease associations at a lower cost. Aggregating multi-source pathogenesis data helps to alleviate data sparsity and infer potential associations at the system level. The majority of computational approaches construct a homologous network using multi-source data, but they lose the heterogeneity of the data. Effective methods that use the features of multi-source data are considered as a matter of urgency. In this paper, we propose a model (CDHGNN) based on edge-weighted graph attention and heterogeneous graph neural networks for potential circRNA-disease association prediction. The circRNA network, micro RNA network, disease network and heterogeneous network are constructed based on multi-source data. To reflect association probabilities between nodes, an edge-weighted graph attention network model is designed for node features. To assign attention weights to different types of edges and learn contextual meta-path, CDHGNN infers potential circRNA-disease association based on heterogeneous neural networks. CDHGNN outperforms state-of-the-art algorithms in terms of accuracy. Edge-weighted graph attention networks and heterogeneous graph networks have both improved performance significantly. Furthermore, case studies suggest that CDHGNN is capable of identifying specific molecular associations and investigating biomolecular regulatory relationships in pathogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mitochondria-localized lncRNA HITT inhibits fusion by attenuating formation of mitofusin-2 homo- or heterotypic complexes</title>
+      <link>https://example.com/article/36567017/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36567017/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNAs (lncRNAs) are emerging as essential players in multiple biological processes. Mitochondrial dynamics, comprising the continuous cycle of fission and fusion, are required for healthy mitochondria that function properly. Despite long-term recognition of its significance in cell-fate control, the mechanism underlying mitochondrial fusion is not completely understood, particularly regarding the involvement of lncRNAs. Here, we show that the lncRNA HITT (HIF-1α inhibitor at translation level), can specifically localize in mitochondria. Cells expressing higher levels of HITT contain fragmented mitochondria. Conversely, we show that HITT knockdown cells have more tubular mitochondria than is present in control cells. Mechanistically, we demonstrate HITT directly binds mitofusin-2 (MFN2), a core component that mediates mitochondrial outer membrane fusion, by the &lt;em&gt;in vitro&lt;/em&gt; RNA pull-down and UV-cross-linking RNA-IP (CLIP) assays. In doing so, we found HITT disturbs MFN2 homo- or heterotypic complex formation, attenuating mitochondrial fusion. Under stress conditions, such as ultraviolet radiation, we in addition show HITT stability increases as a consequence of MiR-205 downregulation, inhibiting MFN2-mediated fusion and leading to apoptosis. Overall, our data provide significant insights into the roles of organelle (mitochondria)-specific resident lncRNAs in regulating mitochondrial fusion, and also reveal how such a mechanism controls cellular sensitivity to UV radiation-induced apoptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R-loop-derived cytoplasmic RNA-DNA hybrids activate an immune response</title>
+      <link>https://example.com/article/36544021/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36544021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Somatosensory neurons express specific sets of lincRNAs, and lincRNA CLAP promotes itch sensation in mice</title>
+      <link>https://example.com/article/36524339/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36524339/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somatosensory neurons are highly heterogeneous with distinct types of neural cells responding to specific stimuli. However, the distribution and roles of cell-type-specific long intergenic noncoding RNAs (lincRNAs) in somatosensory neurons remain largely unexplored. Here, by utilizing droplet-based single-cell RNA-seq (scRNA-seq) and full-length Smart-seq2, we show that lincRNAs, but not coding mRNAs, are enriched in specific types of mouse somatosensory neurons. Profiling of lincRNAs from single neurons located in dorsal root ganglia (DRG) identifies 200 lincRNAs localized in specific types or subtypes of somatosensory neurons. Among them, the conserved cell-type-specific lincRNA CLAP associates with pruritus and is abundantly expressed in somatostatin (SST)-positive neurons. CLAP knockdown reduces histamine-induced Ca&lt;sup&gt;2+&lt;/sup&gt; influx in cultured SST-positive neurons and in vivo reduces histamine-induced scratching in mice. In vivo knockdown of CLAP also decreases the expression of neuron-type-specific and itch-related genes in somatosensory neurons, and this partially depends on the RNA binding protein MSI2. Our data reveal a cell-type-specific landscape of lincRNAs and a function for CLAP in somatosensory neurons in sensory transmission.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Heparan sulfate proteoglycan-mediated internalization of extracellular vesicles ameliorates liver fibrosis by targeting hepatic stellate cells</title>
@@ -19,6 +119,31 @@
       <guid>https://example.com/article/2022-12-14-1024/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Accumulating evidence shows that stem cell-derived extracellular vesicles (EVs) have shown great promise for tissue regeneration and are considered an alternative to cell-based therapy. However, the mechanisms by which EVs induce tissue repair have not been well demonstrated. Previous work indicates that activation of hepatic stellate cells (HSCs) may contribute to the progression of liver fibrosis. Here, we investigate the therapeutic potential of EVs derived from human placental mesenchymal stem cells (hP-MSCs) for the treatment of carbon tetrachloride (CCl4)-induced liver injury. Our data revealed that EVs derived from hP-MSCs effectively ameliorate liver injury by attenuating inflammation and fibrosis. Further data revealed that heparan sulfate proteoglycans (HSPGs) on the surface of HSCs mediate the internalization of EVs. Furthermore, EVs could inhibit the epithelial–mesenchymal transition (EMT) process in HSCs through the downregulated TGF-/Smad pathway, which was mediated by miR-744-5p in EVs. Meanwhile, glycosaminoglycans on the surface of EVs play a crucial anti-inflammatory role. In conclusion, our results provide evidence that hP-MSC-derived EVs promote the recovery of liver injury by targeting HSPGs on HSCs and inhibiting liver inflammation through glycosaminoglycans from EVs. These findings may provide a novel theoretical basis for the treatment of liver fibrosis based on EVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel viral vaccine platform based on engineered transfer RNA</title>
+      <link>https://example.com/article/36482724/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36482724/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, an increasing number of emerging and remerging virus outbreaks have occurred and the rapid development of vaccines against these viruses has been crucial. Controlling the replication of premature termination codon (PTC)-containing viruses is a promising approach to generate live but replication-defective viruses that can be used for potent vaccines. Here, we used anticodon-engineered transfer RNAs (ACE-tRNAs) as powerful precision switches to control the replication of PTC-containing viruses. We showed that ACE-tRNAs display higher potency of reading through PTCs than genetic code expansion (GCE) technology. Interestingly, ACE-tRNA has a site preference that may influence its read-through efficacy. We further attempted to use ACE-tRNAs as a novel viral vaccine platform. Using a human immunodeficiency virus type 1 (HIV-1) pseudotyped virus as an RNA virus model, we found that ACE-tRNAs display high potency for read-through viral PTCs and precisely control their production. Pseudorabies virus (PRV), a herpesvirus, was used as a DNA virus model. We found that ACE-tRNAs display high potency for reading through viral PTCs and precisely controlling PTC-containing virus replication. In addition, PTC-engineered PRV completely attenuated and lost virulence in mice in vivo, and immunization with PRV containing a PTC elicited a robust immune response and provided complete protection against wild-type PRV challenge. Overall, replication-controllable PTC-containing viruses based on ACE-tRNAs provide a new strategy to rapidly attenuate virus infection and prime robust immune responses. This technology can be used as a platform for rapidly developing viral vaccines in the future.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -51,6 +176,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Circular RNA (circRNA) is considered as a promising biomarker for various diseases owing to its unique functions and stable structure in biological circumstances. Nonetheless, homologous linear RNA always causes detection errors, posing a key challenge in effective circRNA assays for clinical applications. Herein, we present a novel method to directly analyze circRNA, eliminating homologous linear RNA interference. A dual-function circRNA-identifying hairpin (ih) probe is designed, which identifies target circRNA and initiates the subsequent hybridization chain reaction amplification. This method provides highly sensitive live-cell circRNA imaging capability and can directly monitor circRNA levels in biological samples, showing great promise for the analysis of low-abundant circRNA in clinical applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer analyses reveal molecular and clinical characteristics of cuproptosis regulators</title>
+      <link>https://example.com/article/imt2.68/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.68/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2114,6 +2264,31 @@
     </item>
     
     <item>
+      <title>How RNA-Binding Proteins Interact with RNA: Molecules and Mechanisms</title>
+      <link>https://example.com/review/32243832/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32243832/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA-binding proteins (RBPs) comprise a large class of over 2,000 proteins that interact with transcripts in all manner of RNA-driven processes. The structures and mechanisms that RBPs use to bind and regulate RNA are incredibly diverse. In this review, we take a look at the components of protein-RNA interaction, from the molecular level to multi-component interaction. We first summarize what is known about protein-RNA molecular interactions based on analyses of solved structures. We additionally describe software currently available for predicting protein-RNA interaction and other resources useful for the study of RBPs. We then review the structure and function of seventeen known RNA-binding domains and analyze the hydrogen bonds adopted by protein-RNA structures on a domain-by-domain basis. We conclude with a summary of the higher-level mechanisms that regulate protein-RNA interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Databases make cancer research easier</title>
       <link>https://example.com/tool/2020-02-22-dtb-cancer-res/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
@@ -2165,6 +2340,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Biogenesis and Functions of Circular RNAs Come into Focus</title>
+      <link>https://example.com/review/31973951/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/31973951/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many eukaryotic protein-coding genes are able to generate exonic circular RNAs. Most of these covalently linked transcripts are expressed at low levels, but some accumulate to higher levels than their associated linear mRNAs. We highlight several methodologies that have been developed in recent years to identify and characterize these transcripts, and which have revealed an increasingly detailed view of how circular RNAs can be generated and function. It is now clear that modulation of circular RNA levels can result in a variety of molecular and physiological phenotypes, including effects on the nervous system, innate immunity, microRNAs, and many disease-relevant pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -2403,6 +2603,81 @@
     </item>
     
     <item>
+      <title>Temporospatial guidance of activity-dependent gene expression by microRNA: mechanisms and functional implications for neural plasticity</title>
+      <link>https://example.com/review/30535081/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/30535081/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MicroRNA are major regulators of neuronal gene expression at the post-transcriptional and translational levels. This layer of control is critical for spatially and temporally restricted gene expression, facilitating highly dynamic changes to cellular structure and function associated with neural plasticity. Investigation of microRNA function in the neural system, however, is at an early stage, and many aspects of the mechanisms employing these small non-coding RNAs remain unclear. In this article, we critically review current knowledge pertaining to microRNA function in neural activity, with emphasis on mechanisms of microRNA repression, their subcellular remodelling and functional impacts on neural plasticity and behavioural phenotypes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rapid evolution and conserved function of the piRNA pathway</title>
+      <link>https://example.com/review/30958115/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/30958115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transposons are major genome constituents that can mobilize and trigger mutations, DNA breaks and chromosome rearrangements. Transposon silencing is particularly important in the germline, which is dedicated to transmission of the inherited genome. Piwi-interacting RNAs (piRNAs) guide a host defence system that transcriptionally and post-transcriptionally silences transposons during germline development. While germline control of transposons by the piRNA pathway is conserved, many piRNA pathway genes are evolving rapidly under positive selection, and the piRNA biogenesis machinery shows remarkable phylogenetic diversity. Conservation of core function combined with rapid gene evolution is characteristic of a host-pathogen arms race, suggesting that transposons and the piRNA pathway are engaged in an evolutionary tug of war that is driving divergence of the biogenesis machinery. Recent studies suggest that this process may produce biochemical incompatibilities that contribute to reproductive isolation and species divergence.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PIWI-interacting RNAs: small RNAs with big functions</title>
+      <link>https://example.com/review/30446728/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/30446728/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In animals, PIWI-interacting RNAs (piRNAs) of 21-35 nucleotides in length silence transposable elements, regulate gene expression and fight viral infection. piRNAs guide PIWI proteins to cleave target RNA, promote heterochromatin assembly and methylate DNA. The architecture of the piRNA pathway allows it both to provide adaptive, sequence-based immunity to rapidly evolving viruses and transposons and to regulate conserved host genes. piRNAs silence transposons in the germ line of most animals, whereas somatic piRNA functions have been lost, gained and lost again across evolution. Moreover, most piRNA pathway proteins are deeply conserved, but different animals employ remarkably divergent strategies to produce piRNA precursor transcripts. Here, we discuss how a common piRNA pathway allows animals to recognize diverse targets, ranging from selfish genetic elements to genes essential for gametogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A Network of Noncoding Regulatory RNAs Acts in the Mammalian Brain</title>
       <link>https://example.com/article/29887379/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
@@ -2438,6 +2713,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RNA N6-methyladenosine modification in cancers: current status and perspectives</title>
+      <link>https://example.com/review/29686311/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29686311/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A), the most abundant internal modification in eukaryotic messenger RNAs (mRNAs), has been shown to play critical roles in various normal bioprocesses such as tissue development, stem cell self-renewal and differentiation, heat shock or DNA damage response, and maternal-to-zygotic transition. The m&lt;sup&gt;6&lt;/sup&gt;A modification is deposited by the m&lt;sup&gt;6&lt;/sup&gt;A methyltransferase complex (MTC; i.e., writer) composed of METTL3, METTL14 and WTAP, and probably also VIRMA and RBM15, and can be removed by m&lt;sup&gt;6&lt;/sup&gt;A demethylases (i.e., erasers) such as FTO and ALKBH5. The fates of m&lt;sup&gt;6&lt;/sup&gt;A-modified mRNAs rely on the functions of distinct proteins that recognize them (i.e., readers), which may affect the stability, splicing, and/or translation of target mRNAs. Given the functional importance of the m&lt;sup&gt;6&lt;/sup&gt;A modification machinery in normal bioprocesses, it is not surprising that evidence is emerging that dysregulation of m&lt;sup&gt;6&lt;/sup&gt;A modification and the associated proteins also contributes to the initiation, progression, and drug response of cancers. In this review, we focus on recent advances in the study of biological functions and the underlying molecular mechanisms of dysregulated m&lt;sup&gt;6&lt;/sup&gt;A modification and the associated machinery in the pathogenesis and drug response of various types of cancers. In addition, we also discuss possible therapeutic interventions against the dysregulated m&lt;sup&gt;6&lt;/sup&gt;A machinery to treat cancers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -2559,6 +2859,31 @@
       <guid>https://example.com/article/28281539/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Extensive pre-mRNA back-splicing generates numerous circular RNAs (circRNAs) in human transcriptome. However, the biological functions of these circRNAs remain largely unclear. Here we report that N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A), the most abundant base modification of RNA, promotes efficient initiation of protein translation from circRNAs in human cells. We discover that consensus m&lt;sup&gt;6&lt;/sup&gt;A motifs are enriched in circRNAs and a single m&lt;sup&gt;6&lt;/sup&gt;A site is sufficient to drive translation initiation. This m&lt;sup&gt;6&lt;/sup&gt;A-driven translation requires initiation factor eIF4G2 and m&lt;sup&gt;6&lt;/sup&gt;A reader YTHDF3, and is enhanced by methyltransferase METTL3/14, inhibited by demethylase FTO, and upregulated upon heat shock. Further analyses through polysome profiling, computational prediction and mass spectrometry reveal that m&lt;sup&gt;6&lt;/sup&gt;A-driven translation of circRNAs is widespread, with hundreds of endogenous circRNAs having translation potential. Our study expands the coding landscape of human transcriptome, and suggests a role of circRNA-derived proteins in cellular responses to environmental stress.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Distinct non-coding RNA cargo of extracellular vesicles from M1 and M2 human primary macrophages</title>
+      <link>https://example.com/article/36544271/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36544271/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Macrophages are important antigen presenting cells which can release extracellular vesicles (EVs) carrying functional cargo including non-coding RNAs. Macrophages can be broadly classified into M1 &amp;lsquo;classical&amp;rsquo; and M2 &amp;lsquo;alternatively-activated&amp;rsquo; macrophages. M1 macrophages have been linked with inflammation-associated pathologies, whereas a switch towards an M2 phenotype indicates resolution of inflammation and tissue regeneration. Here, we provide the first comprehensive analysis of the small RNA cargo of EVs from human M1 and M2 primary macrophages. Using small RNA sequencing, we identified several types of small non-coding RNAs in M1 and M2 macrophage EVs including miRNAs, isomiRs, tRNA fragments, piRNA, snRNA, snoRNA and Y-RNA fragments. Distinct differences were observed between M1 and M2 EVs, with higher relative abundance of miRNAs, and lower abundance of tRNA fragments in M1 compared to M2 EVs. MicroRNA-target enrichment analysis identified several gene targets involved in gene expression and inflammatory signalling pathways. EVs were also enriched in tRNA fragments, primarily originating from the 5&amp;rsquo; end or the internal region of the full length tRNAs, many of which were differentially abundant in M1 and M2 EVs. Similarly, several other small non-coding RNAs, namely snRNAs, snoRNAs and Y-RNA fragments, were differentially enriched in M1 and M2 EVs; we discuss their putative roles in macrophage EVs. In conclusion, we show that M1 and M2 macrophages release EVs with distinct RNA cargo, which has the potential to contribute to the unique effect of these cell subsets on their microenvironment.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

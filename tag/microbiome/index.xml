@@ -5,12 +5,37 @@
     <link>https://example.com/tag/microbiome/</link>
       <atom:link href="https://example.com/tag/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiome</title>
       <link>https://example.com/tag/microbiome/</link>
     </image>
+    
+    <item>
+      <title>A microbiome-dependent gut–brain pathway regulates motivation for exercise</title>
+      <link>https://example.com/article/36517598/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36517598/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exercise exerts a wide range of beneficial effects for healthy physiology. However, the mechanisms regulating an individual’s motivation to engage in physical activity remain incompletely understood. An important factor stimulating the engagement in both competitive and recreational exercise is the motivating pleasure derived from prolonged physical activity, which is triggered by exercise-induced neurochemical changes in the brain. Here, we report on the discovery of a gut–brain connection in mice that enhances exercise performance by augmenting dopamine signalling during physical activity. We find that microbiome-dependent production of endocannabinoid metabolites in the gut stimulates the activity of TRPV1-expressing sensory neurons and thereby elevates dopamine levels in the ventral striatum during exercise. Stimulation of this pathway improves running performance, whereas microbiome depletion, peripheral endocannabinoid receptor inhibition, ablation of spinal afferent neurons or dopamine blockade abrogate exercise capacity. These findings indicate that the rewarding properties of exercise are influenced by gut-derived interoceptive circuits and provide a microbiome-dependent explanation for interindividual variability in exercise performance. Our study also suggests that interoceptomimetic molecules that stimulate the transmission of gut-derived signals to the brain may enhance the motivation for exercise.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Gut dysbiosis induces the development of mastitis through a reduction in host anti-inflammatory enzyme activity by endotoxemia</title>
@@ -202,12 +227,69 @@
     </item>
     
     <item>
+      <title>ggClusterNet: An R package for microbiome network analysis and modularity-based multiple network layouts</title>
+      <link>https://example.com/article/imt2.32/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.32/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggClusterNet is an R package for microbial networks.&lt;/li&gt;
+&lt;li&gt;Analysis functions could help the user to easily complete network analysis and interpretation.&lt;/li&gt;
+&lt;li&gt;Ten network layout algorithms allow users more alternatives to plot the network and generate published-ready figures.&lt;/li&gt;
+&lt;li&gt;It is free to access on GitHub and Gitee.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The network analysis has attracted increasing attention and interest from ecological academics, thus it is of great necessity to develop more convenient and powerful tools. For that reason, we have developed an R package, named “ggClusterNet,” to complete and display the network analysis in an easier manner. In that package, ten network layout algorithms are designed to better display the modules of microbiome network (randomClusterG, PolygonClusterG, PolygonRrClusterG, ArtifCluster, randSNEClusterG, PolygonModsquareG, PolyRdmNotdCirG, model_Gephi.2, model_igraph, and model_maptree). For the convenience of the users, many functions related to microbial network analysis, such as corMicor(), net_properties(), node_properties(), ZiPiPlot(), random_Net_compate(), are integrated to complete the network mining. Furthermore, the pipeline function named network.2() and corBionetwork() are also added for the quick achievement of the network or bipartite network analysis as well as their in-depth mining. The ggClusterNet is publicly available via &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or &lt;a href=&#34;https://gitee.com/wentaomicro/ggClusterNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitee&lt;/a&gt; for users&amp;rsquo; access. A complete description of the usages can be found on the &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&amp;rsquo;s GitHub page&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>MIntO: A Modular and Scalable Pipeline For Microbiome Metagenomic and Metatranscriptomic Data Integration</title>
       <link>https://example.com/article/36304282/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36304282/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Omics technologies have revolutionized microbiome research allowing the characterization of complex microbial communities in different biomes without requiring their cultivation. As a consequence, there has been a great increase in the generation of omics data from metagenomes and metatranscriptomes. However, pre-processing and analysis of these data have been limited by the availability of computational resources, bioinformatics expertise and standardized computational workflows to obtain consistent results that are comparable across different studies. Here, we introduce MIntO (Microbiome Integrated meta-Omics), a highly versatile pipeline that integrates metagenomic and metatranscriptomic data in a scalable way. The distinctive feature of this pipeline is the computation of gene expression profile through integrating metagenomic and metatranscriptomic data taking into account the community turnover and gene expression variations to disentangle the mechanisms that shape the metatranscriptome across time and between conditions. The modular design of MIntO enables users to run the pipeline using three available modes based on the input data and the experimental design, including de novo assembly leading to metagenome-assembled genomes. The integrated pipeline will be relevant to provide unique biochemical insights into microbial ecology by linking functions to retrieved genomes and to examine gene expression variation. Functional characterization of community members will be crucial to increase our knowledge of the microbiome&amp;rsquo;s contribution to human health and environment. MIntO v1.0.1 is available at &lt;a href=&#34;https://github.com/arumugamlab/MIntO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MetOrigin: Discriminating the origins of microbial metabolites for integrative analysis of the gut microbiome and metabolome</title>
+      <link>https://example.com/article/imt2.10/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interactions between the gut microbiome and metabolome play an important role in human health and diseases. Current studies mainly apply statistical correlation analysis between the gut microbiome and all the identified metabolites to explore their relationship. However, it remains challenging to identify the specific metabolic functions of microbes without in vitro culture experiments for validation. Discriminating the microbial metabolites from others (e.g., host, food, or environment) and exploring their metabolic functions and correlations with microbiome specifically may improve the efficiency and accuracy of biomarker discovery. So far, there have been no such bioinformatics tools available. Herein, we developed &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt;, an interactive web server that discriminates metabolites originating from the microbiome, performs the origin-based metabolic pathway enrichment analysis, and integrates the statistical correlations and biological relationships in the database using Sankey network visualization. &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt; not only enables the quick identification of microbial metabolites and their metabolic functions but also facilitates the discovery of specific bacterial species that are closely associated with metabolites statistically and biologically.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -690,6 +772,56 @@
     </item>
     
     <item>
+      <title>Interaction Between the Microbiota, Epithelia, and Immune Cells in the Intestine</title>
+      <link>https://example.com/review/32340570/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32340570/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The gastrointestinal tract harbors numerous commensal bacteria, referred to as the microbiota, that benefit host health by digesting dietary components and eliminating pathogens. The intestinal microbiota maintains epithelial barrier integrity and shapes the mucosal immune system, balancing host defense and oral tolerance with microbial metabolites, components, and attachment to host cells. To avoid aberrant immune responses, epithelial cells segregate the intestinal microbiota from immune cells by constructing chemical and physical barriers, leading to the establishment of host-commensal mutualism. Furthermore, intestinal immune cells participate in the maintenance of a healthy microbiota community and reinforce epithelial barrier functions. Perturbations of the microbiota composition are commonly observed in patients with autoimmune diseases and chronic inflammatory disorders. An understanding of the intimate interactions between the intestinal microbiota, epithelial cells, and immune cells that are crucial for the maintenance of intestinal homeostasis might promote advances in diagnostic and therapeutic approaches for various diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>From Association to Causality: the Role of the Gut Microbiota and Its Functional Products on Host Metabolism</title>
+      <link>https://example.com/review/32234490/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32234490/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many genomic studies have revealed associations between the gut microbiota composition and host metabolism. These observations led to the idea that a causal relationship could exist between the microbiota and metabolic diseases, a concept supported by studies showing compositional changes in the microbial community in metabolic diseases and transmissibility of host phenotype via microbiota transfer. Accumulating data suggest that the microbiota may affect host metabolic phenotypes through the production of metabolites. These bioactive microbial metabolites, sensitive fingerprints of microbial function, can act as inter-kingdom signaling messengers via penetration into host blood circulation and tissues. These fingerprints may be used for diagnostic purposes, and increased understanding of strain specificity in producing microbial metabolites can identify bacterial strains or specific metabolites that can be used for therapeutic purposes. Here, we will review data supporting the causal role of the gut microbiota in metabolism and discuss mechanisms and potential clinical implications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Altered Gut Microbiome Profile in Patients With Pulmonary Arterial Hypertension</title>
       <link>https://example.com/article/32088998/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
@@ -852,6 +984,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Best practices for analysing microbiomes</title>
+      <link>https://example.com/review/29795328/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29795328/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Complex microbial communities shape the dynamics of various environments, ranging from the mammalian gastrointestinal tract to the soil. Advances in DNA sequencing technologies and data analysis have provided drastic improvements in microbiome analyses, for example, in taxonomic resolution, false discovery rate control and other properties, over earlier methods. In this Review, we discuss the best practices for performing a microbiome study, including experimental design, choice of molecular analysis technology, methods for data analysis and the integration of multiple omics data sets. We focus on recent findings that suggest that operational taxonomic unit-based analyses should be replaced with new methods that are based on exact sequence variants, methods for integrating metagenomic and metabolomic data, and issues surrounding compositional data analysis, where advances have been particularly rapid. We note that although some of these approaches are new, it is important to keep sight of the classic issues that arise during experimental design and relate to research reproducibility. We describe how keeping these issues in mind allows researchers to obtain more insight from their microbiome data sets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

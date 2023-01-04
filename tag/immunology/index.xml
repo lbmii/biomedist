@@ -5,12 +5,44 @@
     <link>https://example.com/tag/immunology/</link>
       <atom:link href="https://example.com/tag/immunology/index.xml" rel="self" type="application/rss+xml" />
     <description>Immunology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immunology</title>
       <link>https://example.com/tag/immunology/</link>
     </image>
+    
+    <item>
+      <title>Palmitoylation prevents sustained inflammation by limiting NLRP3 inflammasome activation through chaperone-mediated autophagy</title>
+      <link>https://example.com/article/36586411/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36586411/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Palmitoylation of NLRP3 at C844 is critical for preventing inflammasome activation&lt;/li&gt;
+&lt;li&gt;zDHHC12 directly palmitoylates NLRP3&lt;/li&gt;
+&lt;li&gt;zDHHC12 enhances NLRP3 degradation through CMA pathway&lt;/li&gt;
+&lt;li&gt;Defective NLRP3 palmitoylation is associated with inflammatory diseases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a key component of the inflammasome, NLRP3 is a critical intracellular danger sensor emerging as an important clinical target in inflammatory diseases. However, little is known about the mechanisms that determine the kinetics of NLRP3 inflammasome stability and activity to ensure effective and controllable inflammatory responses. Here, we show that S-palmitoylation acts as a brake to turn NLRP3 inflammasome off. zDHHC12 is identified as the S-acyltransferase for NLRP3 palmitoylation, which promotes its degradation through the chaperone-mediated autophagy pathway. Zdhhc12 deficiency in mice enhances inflammatory symptoms and lethality following alum-induced peritonitis and LPS-induced endotoxic shock. Notably, several disease-associated mutations in NLRP3 are associated with defective palmitoylation, resulting in overt NLRP3 inflammasome activation. Thus, our findings identify zDHHC12 as a repressor of NLRP3 inflammasome activation and uncover a previously unknown regulatory mechanism by which the inflammasome pathway is tightly controlled by the dynamic palmitoylation of NLRP3.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Biomarker-responsive engineered probiotic diagnoses, records, and ameliorates inflammatory bowel disease in mice</title>
@@ -25,6 +57,552 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Rapid advances in synthetic biology have fueled interest in engineered microorganisms that can diagnose and treat disease. However, designing bacteria that detect dynamic disease-associated biomarkers that then drive treatment remains difficult. Here, we have developed an engineered probiotic that noninvasively monitors and records inflammatory bowel disease (IBD) occurrence and progression in real time and can release treatments via a self-tunable mechanism in response to these biomarkers. These intelligent responsive bacteria for diagnosis and therapy (i-ROBOT) consists of E. coli Nissle 1917 that responds to levels of the inflammatory marker thiosulfate by activating a base-editing system to generate a heritable genomic DNA sequence as well as producing a colorimetric signal. Fluctuations in thiosulfate also drive the tunable release of the immunomodulator AvCystatin. Orally administering i-ROBOT to mice with colitis generated molecular recording signals in processed fecal and colon samples and effectively ameliorated disease. i-ROBOT provides a promising paradigm for gastrointestinal and other metabolic disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dressing bacteria with a hybrid immunoactive nanosurface to elicit dual anticancer and antiviral immunity</title>
+      <link>https://example.com/article/36564893/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36564893/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Approaches capable of simultaneously treating cancer and preventing susceptible patients from lethal infections, such as coronavirus disease 2019, are highly desirable but have proven to be difficult. Here, dressing bacteria with a hybrid immunoactive nanosurface is reported to elicit dual anticancer and antiviral immunity. A combination of checkpoint blocking antibody and virus-specific antigen is covalently conjugated to polydopamine nanoparticles, which can be anchored onto bacterial surface, by a one-step in-situ polymerization of dopamine under a cell-friendly condition. By virtue of the ability to colonize and penetrate deep tumor tissue, dressed bacteria enable sustained release and expanded exposure of carried immunoactivators to stimulate immune cells. In addition to a carrier role, bacteria are able to further provoke innate immunity due to native immunogenicity of the pathogen-associated molecular patterns. Immunization with dressed bacteria promote the maturation and activation of antigen-presenting cells, which induces robust humoral and cellular immune responses in tumor-bearing mice. As evidenced by efficient production of viral antigen-specific immunoglobulin G antibody in serum and significantly suppressed tumor growth in different models, dressing bacteria with a hybrid immunoactive nanosurface paves an avenue to prepare next-generation therapeutics for synergistic treatment and prevention. This article is protected by copyright.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dual-Responsive STAT3 Inhibitor Nanoprodrug Combined with Oncolytic Virus Elicits Synergistic Antitumor Immune Responses by Igniting Pyroptosis</title>
+      <link>https://example.com/article/36545949/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36545949/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immune checkpoint blockade (ICB) therapy shows excellent efficacy against malignancies; however, insufficient tumor immunogenicity and immunosuppressive tumor microenvironment are considered as the two major stumbling blocks to a broad ICB response. Here, we report a combinational therapeutic strategy combining tumor microenvironment reactive oxygen species (ROS)/pH dual-responsive signal transducers and activators of transcription 3 (STAT3) inhibitor nanoprodrugs MPNPs with oncolytic herpes simplex virus 1 (HSV-1) virotherapy to synergistically ignite pyroptosis for enhancing immunotherapy. MPNPs exhibited a certain level of tumor accumulation, reduce tumor cell stemness, and enhance antitumor immune responses. Furthermore, the simultaneous application of oncolytic viruses (OVs) confers MPNPs with higher tumor penetration capacity and remarkable gasdermin E-mediated pyroptosis, thereby reshaping the tumor microenvironment and transforming &amp;ldquo;cold&amp;rdquo; tumors into &amp;ldquo;hot&amp;rdquo; ones. This &amp;ldquo;fire of immunity&amp;rdquo; strategy successfully activates robust T cell-dependent antitumor responses, potentiating ICB effects against local recurrence and pulmonary metastasis in preclinical &amp;ldquo;cold&amp;rdquo; murine triple-negative breast cancer and syngeneic oral cancer models. Collectively, this work may pave a new way and offer an unprecedented opportunity for the combination of OVs with nanomedicine for cancer immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>GSCA: an integrated platform for gene set cancer analysis at genomic, pharmacogenomic and immunogenomic levels</title>
+      <link>https://example.com/article/36549921/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36549921/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer initiation and progression are likely caused by the dysregulation of biological pathways. Gene set analysis (GSA) could improve the signal-to-noise ratio and identify potential biological insights on the gene set level. However, platforms exploring cancer multi-omics data using GSA methods are lacking. In this study, we upgraded our GSCALite to &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Gene Set Cancer Analysis (GSCA)&lt;/strong&gt;&lt;/a&gt; for cancer GSA at genomic, pharmacogenomic and immunogenomic levels. In this improved &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt;, we integrated expression, mutation, drug sensitivity and clinical data from four public data sources for 33 cancer types. We introduced useful features to &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt;, including associations between immune infiltration with gene expression and genomic variations, and associations between gene set expression/mutation and clinical outcomes. &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt; has four main functional modules for cancer GSA to explore, analyze and visualize expression, genomic variations, tumor immune infiltration, drug sensitivity and their associations with clinical outcomes. We used case studies of three gene sets: (i) seven cell cycle genes, (ii) tumor suppressor genes of PI3K pathway and (iii) oncogenes of PI3K pathway to prove the advantage of &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt; over single gene analysis. We found novel associations of gene set expression and mutation with clinical outcomes in different cancer types on gene set level, while on single gene analysis level, they are not significant associations. In conclusion, &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/GSCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GSCA&lt;/strong&gt;&lt;/a&gt; is a user-friendly web server and a useful resource for conducting hypothesis tests by using GSA methods at genomic, pharmacogenomic and immunogenomic levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A spatially resolved atlas of the human lung characterizes a gland-associated immune niche</title>
+      <link>https://example.com/article/36543915/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36543915/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics has allowed unprecedented resolution of cell types/states in the human lung, but their spatial context is less well defined. To (re)define tissue architecture of lung and airways, we profiled five proximal-to-distal locations of healthy human lungs in depth using multi-omic single cell/nuclei and spatial transcriptomics at &lt;a href=&#34;https://www.lungcellatlas.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lung Cell Atlas&lt;/strong&gt;&lt;/a&gt;. Using computational data integration and analysis, we extend beyond the suspension cell paradigm and discover macro and micro-anatomical tissue compartments including previously unannotated cell types in the epithelial, vascular, stromal and nerve bundle micro-environments. We identify and implicate peribronchial fibroblasts in lung disease. Importantly, we discover and validate a survival niche for IgA plasma cells in the airway submucosal glands (SMG). We show that gland epithelial cells recruit B cells and IgA plasma cells, and promote longevity and antibody secretion locally through expression of CCL28, APRIL and IL-6. This new ‘gland-associated immune niche’ has implications for respiratory health.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R-loop-derived cytoplasmic RNA-DNA hybrids activate an immune response</title>
+      <link>https://example.com/article/36544021/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36544021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The transcription factor Fosl1 preserves Klotho expression and protects from acute kidney injury</title>
+      <link>https://example.com/article/36565807/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36565807/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Increased expression of AP-1 transcription factor components has been reported in acute kidney injury (AKI). However, the role of specific components, such as Fosl1, in tubular cells or AKI is unknown. Upstream regulator analysis of murine nephrotoxic AKI transcriptomics identified AP-1 as highly upregulated. Among AP-1 canonical components, Fosl1 was found to be upregulated in two transcriptomics datasets from nephrotoxic murine AKI induced by folic acid or cisplatin and from proximal tubular cells exposed to TWEAK, a cytokine mediator of AKI. Fosl1 was minimally expressed in the kidneys of control uninjured mice. Increased Fosl1 protein was localized to proximal tubular cell nuclei in AKI. In human AKI, FOSL1 was found present in proximal tubular cells in kidney sections and in urine along with increased urinary FOSL1 mRNA. Selective Fosl1 deficiency in proximal tubular cells (Fosl1Δtub) increased the severity of murine cisplatin- or folate-induced AKI as characterized by lower kidney function, more severe kidney inflammation and Klotho downregulation. Indeed, elevated AP-1 activity was observed after cisplatin-induced AKI in Fosl1Δtub mice compared to wild type mice. More severe Klotho downregulation preceded more severe kidney dysfunction. The Klotho promoter was enriched in Fosl1 binding sites and Fosl1 bound to the Klotho promoter in cisplatin-AKI. In cultured proximal tubular cells, Fosl1 targeting increased the proinflammatory response and downregulated Klotho. In vivo, recombinant Klotho administration protected Fosl1Δtub mice from cisplatin-AKI. Thus, increased proximal tubular Fosl1 expression during AKI is an adaptive response, preserves Klotho. and limits the severity of tubular cell injury and AKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Chronic exposure to synthetic food colorant Allura Red AC promotes susceptibility to experimental colitis via intestinal serotonin in mice</title>
+      <link>https://example.com/article/36539404/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36539404/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chemicals in food are widely used leading to significant human exposure. Allura Red AC (AR) is a highly common synthetic colorant; however, little is known about its impact on colitis. Here, we show chronic exposure of AR at a dose found in commonly consumed dietary products exacerbates experimental models of colitis in mice. While intermittent exposure is more akin to a typical human exposure, intermittent exposure to AR in mice for 12 weeks, does not influence susceptibility to colitis. However, exposure to AR during early life primes mice to heightened susceptibility to colitis. In addition, chronic exposure to AR induces mild colitis, which is associated with elevated colonic serotonin (5-hydroxytryptamine; 5-HT) levels and impairment of the epithelial barrier function via myosin light chain kinase (MLCK). Importantly, chronic exposure to AR does not influence colitis susceptibility in mice lacking tryptophan hydroxylase 1 (TPH1), the rate limiting enzyme for 5-HT biosynthesis. Cecal transfer of the perturbed gut microbiota by AR exposure worsens colitis severity in the recipient germ-free (GF) mice. Furthermore, chronic AR exposure elevates colonic 5-HT levels in naïve GF mice. Though it remains unknown whether AR has similar effects in humans, our study reveals that chronic long-term exposure to a common synthetic colorant promotes experimental colitis via colonic 5-HT in gut microbiota-dependent and -independent pathway in mice.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Degradation of HDAC10 by autophagy promotes IRF3-mediated antiviral innate immune responses</title>
+      <link>https://example.com/article/36538592/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36538592/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Histone deacetylases (HDACs) play important roles in immunity and inflammation. Through functional screening, we identified HDAC10 as an inhibitor of the type I interferon (IFN) response mediated by interferon regulatory factor 3 (IRF3). HDAC10 abundance was decreased in mouse macrophages in response to innate immune stimuli and was reduced in peripheral blood mononuclear cells (PBMCs) from patients with systemic lupus erythematosus (SLE) compared with that in PBMCs from healthy donors. Deficiency in HDAC10 in mouse embryonic fibroblasts and in mice promoted the expression of genes encoding type I IFNs and of IFN-stimulated genes (ISGs), leading to enhanced antiviral responses in vitro and in vivo. HDAC10 bound in a deacetylase-independent manner to IRF3 in uninfected cells to inhibit the phosphorylation of IRF3 at Ser&lt;sup&gt;396&lt;/sup&gt; by TANK-binding kinase 1 (TBK1). Upon viral infection, HDAC10 was targeted for autophagy-mediated degradation through its interaction with LC3-II. Consequently, IRF3 phosphorylation was increased, which resulted in enhanced type I IFN production and antiviral responses. Our findings identify a potential target for improving host defense responses against pathogen infection and for treating autoimmune disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting the transcription factor HES1 by L-menthol restores protein phosphatase 6 in keratinocytes in models of psoriasis</title>
+      <link>https://example.com/article/36535970/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36535970/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protein Phosphatase 6 down-regulation in keratinocytes is a pivotal event that amplifies the inflammatory circuits in psoriasis, indicating that restoration of protein phosphatase 6 can be a rational strategy for psoriasis treatment. Through the phenotypic screen, we here identify L-menthol that ameliorates psoriasis-like skin inflammation by increasing protein phosphatase 6 in keratinocytes. Target identification approaches reveal an indispensable role for the transcription factor hairy and enhancer of split 1 in governing the protein phosphatase 6-upregulating function of L-menthol in keratinocytes. The transcription factor hairy and enhancer of split 1 is diminished in the epidermis of psoriasis patients and imiquimod-induced mouse model, while L-menthol upregulates the transcription factor hairy and enhancer of split 1 by preventing its proteasomal degradation. Mechanistically, the transcription factor hairy and enhancer of split 1 transcriptionally activates the expression of immunoglobulin-binding protein 1 which promotes protein phosphatase 6 expression and inhibits its ubiquitination. Collectively, we discover a therapeutic compound, L-menthol, for psoriasis, and uncover the dysfunctional the transcription factor hairy and enhancer of split 1- immunoglobulin-binding protein 1- protein phosphatase 6 axis that contributes to psoriasis pathology by using L-menthol as a probe.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Macrophage Membrane-Coated Nano-Gemcitabine Promotes Lymphocyte Infiltration and Synergizes AntiPD-L1 to Restore the Tumoricidal Function</title>
+      <link>https://example.com/article/36525314/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36525314/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The limited lymphocyte infiltration and exhaustion of tumoricidal functions in solid tumors remain a formidable obstacle to cancer immunotherapy. Herein, we designed a macrophage membrane-coated nano-gemcitabine system (MNGs) to promote lymphocyte infiltration and then synergized anti-programmed death ligand 1 (antiPD-L1) to reinvigorate the exhausted lymphocytes. MNGs exhibited effective intratumor-permeating and responsive drug-releasing capacity, produced notable elimination of versatile immunosuppressive cells, and promoted lymphocyte infiltration into cancer cell regions in tumors, but over 50% of these infiltrated lymphocytes were in the exhausted state. Compared with MNG monotherapy, the MNGs+antiPD-L1 combination produced 31.77% and 30.63% reduction of exhausted CD3&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells and natural killer (NK) cells and 2.83- and 3.17-fold increases of interferon-γ (IFN-γ)-positive subtypes, respectively, thereby resulting in considerable therapeutic benefits in several tumor models. Thus, MNGs provide an encouraging strategy to promote lymphocyte infiltration and synergize antiPD-L1 to restore their tumoricidal function for cancer immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Myeloid cell-derived proteases produce a proinflammatory form of IL-37 that signals via IL-36 receptor engagement</title>
+      <link>https://example.com/article/36525507/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36525507/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interleukin-1 (IL-1) family cytokines are key barrier cytokines that are typically expressed as inactive, or partially active, precursors that require proteolysis within their amino termini for activation. IL-37 is an enigmatic member of the IL-1 family that has been proposed to be activated by caspase-1 and to exert anti-inflammatory activity through engagement of the IL-18R and SIGIRR. However, here we show that the longest IL-37 isoform, IL-37b, exhibits robust proinflammatory activity upon amino-terminal proteolysis by neutrophil elastase or cathepsin S. In sharp contrast, caspase-1 failed to process or activate IL-37 at concentrations that robustly activated its canonical substrate, IL-1β. IL-37 and IL-36 exhibit high structural homology, and, consistent with this, a K53-truncated form of IL-37, mimicking the cathepsin S-processed form of this cytokine, was found to exert its proinflammatory effects via IL-36 receptor engagement and produced an inflammatory signature practically identical to IL-36. Administration of K53-truncated IL-37b intraperitoneally into wild-type mice also elicited an inflammatory response that was attenuated in &lt;em&gt;IL-36R&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; animals. These data demonstrate that, in common with other IL-1 family members, mature IL-37 can also elicit proinflammatory effects upon processing by specific proteases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Resveratrol-loaded macrophage exosomes alleviate multiple sclerosis through targeting microglia</title>
+      <link>https://example.com/article/36521687/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36521687/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite exosome promise as endogenous drug delivery vehicles, the current understanding of exosome may be insufficient to develop their various applications. Here we synthesized five sialic acid analogues with different length N-acyl side chains and screened out the optimal metabolic precursor for exosome labeling via bio-orthogonal click chemistry. In proof-of-principle labeling experiments, exosomes derived from macrophages (RAW-Exo) strongly co-localized with central nervous system (CNS) microglia. Inspired by this discovery, we developed a resveratrol-loaded RAW-Exo formulation (RSV&amp;amp;Exo) for multiple sclerosis (MS) treatment. Intranasal administration of RSV&amp;amp;Exo significantly inhibited inflammatory responses in the CNS and peripheral system in a mouse model of MS and effectively improved the clinical evolution of MS in vivo. These findings suggested the feasibility and efficacy of engineered RSV&amp;amp;Exo administration for MS, providing a potential therapeutic strategy for CNS diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immune checkpoint therapy-elicited sialylation of IgG antibodies impairs antitumorigenic type I interferon responses in hepatocellular carcinoma</title>
+      <link>https://example.com/article/36563676/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36563676/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ICB therapy catalyzes IgG sialylation in HCC that predicts an improved outcome&lt;/li&gt;
+&lt;li&gt;Effector T cells trigger sialylated IgG via IFN-γ-ST6Gal-I-dependent pathways&lt;/li&gt;
+&lt;li&gt;Sialylated IgG binding to DC-SIGN abrogates macrophage type I IFN production&lt;/li&gt;
+&lt;li&gt;Impeding IgG sialylation enhances antitumorigenic T cell immunity during ICB therapy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The reinvigoration of anti-tumor T cells in response to immune checkpoint blockade (ICB) therapy is well established. Whether and how ICB therapy manipulates antibody-mediated immune response in cancer environments, however, remains elusive. Using tandem mass spectrometric analysis of modification of immunoglobulin G (IgG) from hepatoma tissues, we identified a role of ICB therapy in catalyzing IgG sialylation in the Fc region. Effector T cells triggered sialylation of IgG via an interferon (IFN)-γ-ST6Gal-I-dependent pathway. DC-SIGN&lt;sup&gt;+&lt;/sup&gt; macrophages represented the main target cells of sialylated IgG. Upon interacting with sialylated IgG, DC-SIGN stimulated Raf-1-elicited elevation of ATF3, which inactivated cGAS-STING pathway and eliminated subsequent type-I-IFN-triggered antitumorigenic immunity. Although enhanced IgG sialylation in tumors predicted improved therapeutic outcomes for patients receiving ICB therapy, impeding IgG sialylation augmented antitumorigenic T cell immunity after ICB therapy. Thus, targeting antibody-based negative feedback action of ICB therapy has potential for improving efficacy of cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Locally organised and activated Fth1hi neutrophils aggravate inflammation of acute lung injury in an IL-10-dependent manner</title>
+      <link>https://example.com/article/36513690/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36513690/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute respiratory distress syndrome (ARDS) is a common respiratory critical syndrome with no effective therapeutic intervention. Neutrophils function in the overwhelming inflammatory process of acute lung injury (ALI) caused by ARDS; however, the phenotypic heterogeneity of pulmonary neutrophils in ALI/ARDS remains largely unknown. Here, using single-cell RNA sequencing, we identify two transcriptionally and functionally heterogeneous neutrophil populations (Fth1&lt;sup&gt;hi&lt;/sup&gt; Neu and Prok2&lt;sup&gt;hi&lt;/sup&gt; Neu) with distinct locations in LPS-induced ALI mouse lungs. Exposure to LPS promotes the Fth1&lt;sup&gt;hi&lt;/sup&gt; Neu subtype, with more inflammatory factors, stronger antioxidant, and decreased apoptosis under the regulation of interleukin-10. Furthermore, prolonged retention of Fth1&lt;sup&gt;hi&lt;/sup&gt; Neu within lung tissue aggravates inflammatory injury throughout the development of ALI/ARDS. Notably, ARDS patients have high ratios of Fth1 to Prok2 expression in pulmonary neutrophils, suggesting that the Fth1&lt;sup&gt;hi&lt;/sup&gt; Neu population may promote the pathological development and provide a marker of poor outcome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PRDM1/BLIMP1 induces cancer immune evasion by modulating the USP22-SPI1-PD-L1 axis in hepatocellular carcinoma cells</title>
+      <link>https://example.com/article/36509766/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36509766/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Programmed death receptor-1 (PD-1) blockade have achieved some efficacy but only in a fraction of patients with hepatocellular carcinoma (HCC). Programmed cell death 1 ligand 1 (PD-L1) binds to its receptor PD1 on T cells to dampen antigen-tumor immune responses. However, the mechanisms underlying PD-L1 regulation are not fully elucidated. Herein, we identify that tumoral &lt;em&gt;Prdm1&lt;/em&gt; overexpression inhibits cell growth in immune-deficient mouse models. Further, tumoral &lt;em&gt;Prdm1&lt;/em&gt; overexpression upregulates PD-L1 levels, dampening anti-tumor immunity in vivo, and neutralizes the anti-tumor efficacy of &lt;em&gt;Prdm1&lt;/em&gt; overexpression in immune-competent mouse models. Mechanistically, &lt;em&gt;PRDM1&lt;/em&gt; enhances &lt;em&gt;USP22&lt;/em&gt; transcription, thus reducing &lt;em&gt;SPI1&lt;/em&gt; protein degradation through deubiquitination, which enhances &lt;em&gt;PD-L1&lt;/em&gt; transcription. Functionally, PD-1 mAb treatment reinforces the efficacy of &lt;em&gt;Prdm1&lt;/em&gt;-overexpressing HCC immune-competent mouse models. Collectively, we demonstrate that the PRDM1-USP22-SPI1 axis regulates PD-L1 levels, resulting in infiltrated CD8&lt;sup&gt;+&lt;/sup&gt; T cell exhaustion. Furthermore, &lt;em&gt;PRDM1&lt;/em&gt; overexpression combined with PD-(L)1 mAb treatment provides a therapeutic strategy for HCC treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>STAT3/mitophagy axis coordinates macrophage NLRP3 inflammasome activation and inflammatory bone loss</title>
+      <link>https://example.com/article/36502520/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36502520/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Signal transducer and activator of transcription 3 (STAT3), a cytokine-responsive transcription factor, is known to play a role in immunity and bone remodeling. However, whether and how STAT3 impacts macrophage NLR family pyrin domain containing 3 (NLRP3) inflammasome activation associated with inflammatory bone loss remains unknown. Here, STAT3 signaling is hyperactivated in macrophages in the context of both non-sterile and sterile inflammatory osteolysis, and this was highly correlated with the cleaved interleukin-1β (IL-1β) expression pattern. Strikingly, pharmacological inhibition of STAT3 markedly blocks macrophage NLRP3 inflammasome activation in vitro, thereby relieving inflammatory macrophage-amplified osteoclast formation and bone resorptive activity. Mechanistically, STAT3 inhibition in macrophages triggers PTEN-induced kinase 1 (PINK1)-dependent mitophagy that eliminates dysfunctional mitochondria, reverses mitochondrial membrane potential collapse, and inhibits mitochondrial reactive oxygen species release, thus inactivating the NLRP3 inflammasome. In vivo, STAT3 inhibition effectively protects mice from both infection-induced periapical lesions and aseptic titanium particle-mediated calvarial bone erosion with potent induction of PINK1 and downregulation of inflammasome activation, macrophage infiltration, and osteoclast formation. This study reveals the regulatory role of the STAT3/mitophagy axis at the osteo-immune interface and highlights a potential therapeutic intervention to prevent inflammatory bone loss.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineering antiviral immune-like systems for autonomous virus detection and inhibition in mice</title>
+      <link>https://example.com/article/36494373/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36494373/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ongoing COVID-19 pandemic has demonstrated that viral diseases represent an enormous public health and economic threat to mankind and that individuals with compromised immune systems are at greater risk of complications and death from viral diseases. The development of broad-spectrum antivirals is an important part of pandemic preparedness. Here, we have engineer a series of designer cells which we term autonomous, intelligent, virus-inducible immune-like (ALICE) cells as sense-and-destroy antiviral system. After developing a destabilized STING-based sensor to detect viruses from seven different genera, we have used a synthetic signal transduction system to link viral detection to the expression of multiple antiviral effector molecules, including antiviral cytokines, a CRISPR-Cas9 module for viral degradation and the secretion of a neutralizing antibody. We perform a proof-of-concept study using multiple iterations of our ALICE system in vitro, followed by in vivo functionality testing in mice. We show that dual output ALICE&lt;sub&gt;SaCas9+Ab&lt;/sub&gt; system delivered by an AAV-vector inhibited viral infection in herpetic simplex keratitis (HSK) mouse model. Our work demonstrates that viral detection and antiviral countermeasures can be paired for intelligent sense-and-destroy applications as a flexible and innovative method against virus infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Maturation and specialization of group 2 innate lymphoid cells through the lung-gut axis</title>
+      <link>https://example.com/article/36494354/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36494354/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Innate lymphoid cells (ILC) are abundant in mucosal tissues. They serve critical functions in anti-pathogen response and tissue homeostasis. However, the heterogenous composition of ILCs in mucosal sites and their various maturation trajectories are less well known. In this study, we characterize ILC types and functions from both the lung and the small intestine, and identify their tissue-specific markers. We find that ILC2s residing in the lung express CCR2, whereas intestinal ILC2s express CCR4. Through the use of CCR2 and CCR4 reporter mice, we show that ILC2s undergo translocation via the lung-gut axis upon IL-33 treatment. This trajectory of ILC2s is also observed at the postnatal stage. Allergen-induced activation of lung ILC2s affects the homeostasis of gut ILC2s. Together, our findings implicate that ILCs display tissue-specific features in both the lung and gut, and ILC2s mature along the lung-gut axis in particular homeostatic and inflammatory conditions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Prolonged hypernutrition impairs TREM2-dependent efferocytosis to license chronic liver inflammation and NASH development</title>
+      <link>https://example.com/article/36521495/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36521495/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TREM2-dependent macrophage efferocytosis maintains immune homeostasis in the fatty liver&lt;/li&gt;
+&lt;li&gt;Hepatocyte-derived S1P upregulates TREM2 in infiltrated liver macrophages&lt;/li&gt;
+&lt;li&gt;Persistent obesity causes TREM2 shedding via TNF and IL-1β-induced proteolytic cleavage&lt;/li&gt;
+&lt;li&gt;Loss of TREM2 disables efferocytosis to license chronic liver inflammation and NASH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obesity-induced chronic liver inflammation is a hallmark of nonalcoholic steatohepatitis (NASH)—an aggressive form of nonalcoholic fatty liver disease. However, it remains unclear how such a low-grade, yet persistent, inflammation is sustained in the liver. Here, we show that the macrophage phagocytic receptor TREM2, induced by hepatocyte-derived sphingosine-1-phosphate, was required for efferocytosis of lipid-laden apoptotic hepatocytes and thereby maintained liver immune homeostasis. However, prolonged hypernutrition led to the production of proinflammatory cytokines TNF and IL-1β in the liver to induce TREM2 shedding through ADAM17-dependent proteolytic cleavage. Loss of TREM2 resulted in aberrant accumulation of dying hepatocytes, thereby further augmenting proinflammatory cytokine production. This ultimately precipitated a vicious cycle that licensed chronic inflammation to drive simple steatosis transition to NASH. Therefore, impaired macrophage efferocytosis is a previously unrecognized key pathogenic event that enables chronic liver inflammation in obesity. Blocking TREM2 cleavage to restore efferocytosis may represent an effective strategy to treat NASH.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fibroblast inflammatory priming determines regenerative versus fibrotic skin repair in reindeer</title>
+      <link>https://example.com/article/36493752/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36493752/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reindeer antler velvet regenerates after wounding whereas back skin forms a scar&lt;/li&gt;
+&lt;li&gt;Fibroblasts direct site-specific immune cell recruitment and differentiation&lt;/li&gt;
+&lt;li&gt;Fibroblast fate reversion and absence of inflammatory signals enables regeneration&lt;/li&gt;
+&lt;li&gt;Obstructing fibroblast inflammatory signals enhances skin regeneration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adult mammalian skin wounds heal by forming fibrotic scars. We report that full-thickness injuries of reindeer antler skin (velvet) regenerate, whereas back skin forms fibrotic scar. Single-cell multi-omics reveal that uninjured velvet fibroblasts resemble human fetal fibroblasts, whereas back skin fibroblasts express inflammatory mediators mimicking pro-fibrotic adult human and rodent fibroblasts. Consequently, injury elicits site-specific immune responses: back skin fibroblasts amplify myeloid infiltration and maturation during repair, whereas velvet fibroblasts adopt an immunosuppressive phenotype that restricts leukocyte recruitment and hastens immune resolution. Ectopic transplantation of velvet to scar-forming back skin is initially regenerative, but progressively transitions to a fibrotic phenotype akin to the scarless fetal-to-scar-forming transition reported in humans. Skin regeneration is diminished by intensifying, or enhanced by neutralizing, these pathologic fibroblast-immune interactions. Reindeer represent a powerful comparative model for interrogating divergent wound healing outcomes, and our results nominate decoupling of fibroblast-immune interactions as a promising approach to mitigate scar.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Suppression of PD-L1 release from small extracellular vesicles promotes systemic anti-tumor immunity by targeting ORAI1 calcium channels</title>
+      <link>https://example.com/article/36482876/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36482876/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Blockade of immune checkpoints as a strategy of cancer cells to overcome the immune response has received ample attention in cancer research recently. In particular, expression of PD-L1 by various cancer cells has become a paradigm in this respect. Delivery of PD-L1 to its site of action occurs either by local diffusion, or else by transport via small extracellular vesicles (sEVs, commonly referred to as exosomes). Many steps of sEVs formation, their packaging with PD-L1 and their release into the extracellular space have been studied in detail. The likely dependence of release on Ca&lt;sup&gt;2+&lt;/sup&gt;-signaling, however, has received little attention. This is surprising, since the intracellular Ca&lt;sup&gt;2+&lt;/sup&gt;-concentration is known as a prominent regulator of many secretory processes. Here, we report on the roles of three Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent proteins in regulating release of PD-L1-containing sEVs, as well as on the growth of tumors in mouse models. We show that sEVs release in cancer cell lines is Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent and the knockdown of the gene coding the Ca&lt;sup&gt;2+&lt;/sup&gt;-channel protein ORAI1 reduces Ca&lt;sup&gt;2+&lt;/sup&gt;-signals and release of sEVs. Consequently, the T cell response is reinvigorated and tumor progression in mouse models is retarded. Furthermore, analysis of protein expression patterns in samples from human cancer tissue shows that the ORAI1 gene is significantly upregulated. Such upregulation is identified as an unfavorable prognostic factor for survival of patients with non-small-cell lung cancer. We show that reduced Ca&lt;sup&gt;2+&lt;/sup&gt;-signaling after knockdown of ORAI1 gene also compromises the activity of melanophilin and Synaptotagmin-like protein 2, two proteins, which are important for correct localization of secretory organelles within cancer cells and their transport to sites of exocytosis. Thus, the Ca&lt;sup&gt;2+&lt;/sup&gt;-channel ORAI1 and Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent proteins of the secretion pathway emerge as important targets for understanding and manipulating immune checkpoint blockade by PD-L1.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -69,12 +647,109 @@
     </item>
     
     <item>
+      <title>Lipid-laden lung mesenchymal cells foster breast cancer metastasis via metabolic reprogramming of tumor cells and natural killer cells</title>
+      <link>https://example.com/article/36476935/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36476935/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lung mesenchymal cells (MCs) store neutral lipids during breast cancer progression&lt;/li&gt;
+&lt;li&gt;IL-1β elicits neutral lipid accumulation in lung MCs to foster metastasis&lt;/li&gt;
+&lt;li&gt;Lipid-laden MCs metabolically reprogram both tumor cells and NK cells&lt;/li&gt;
+&lt;li&gt;Targeting lipid-laden MCs improves the efficacy of NK cell-based immunotherapy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While the distant organ environment is known to support metastasis of primary tumors, its metabolic roles in this process remain underdetermined. Here, in breast cancer models, we found lung-resident mesenchymal cells (MCs) accumulating neutral lipids at the pre-metastatic stage. This was partially mediated by interleukin-1β (IL-1β)-induced hypoxia-inducible lipid droplet-associated (HILPDA) that subsequently represses adipose triglyceride lipase (ATGL) activity in lung MCs. MC-specific ablation of the ATGL or HILPDA genes in mice reinforced and reduced lung metastasis of breast cancer respectively, suggesting a metastasis-promoting effect of lipid-laden MCs. Mechanistically, lipid-laden MCs transported their lipids to tumor cells and natural killer (NK) cells via exosome-like vesicles, leading to heightened tumor cell survival and proliferation and NK cell dysfunction. Blockage of IL-1β, which was effective singly, improved the efficacy of adoptive NK cell immunotherapy in mitigating lung metastasis. Collectively, lung MCs metabolically regulate tumor cells and anti-tumor immunity to facilitate breast cancer lung metastasis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial cristae architecture protects against mtDNA release and inflammation</title>
+      <link>https://example.com/article/36476853/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36476853/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A mitochondria-targeted sgRNA library for interrogating mitochondrial function&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mitochondrial regulators of type I interferon (IFN-I) response are identified&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cristae disorganization induces mtDNA release and STING-dependent IFN-I response&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knockout of cristae regulator Metaxin-2 causes the IFN-I response in vivo&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitochondrial damage causes mitochondrial DNA (mtDNA) release to activate the type I interferon (IFN-I) response via the cGAS-STING pathway. mtDNA-induced inflammation promotes autoimmune- and aging-related degenerative disorders. However, the global picture of inflammation-inducing mitochondrial damages remains obscure. Here, we have performed a mitochondria-targeted CRISPR knockout screen for regulators of the IFN-I response. Strikingly, our screen reveals dozens of hits enriched with key regulators of cristae architecture, including phospholipid cardiolipin and protein complexes such as OPA1, mitochondrial contact site and cristae organization (MICOS), sorting and assembly machinery (SAM), mitochondrial intermembrane space bridging (MIB), prohibitin (PHB), and the F&lt;sub&gt;1&lt;/sub&gt;F&lt;sub&gt;o&lt;/sub&gt;-ATP synthase. Disrupting these cristae organizers consistently induces mtDNA release and the STING-dependent IFN-I response. Furthermore, knocking out MTX2, a subunit of the SAM complex whose null mutations cause progeria in humans, induces a robust STING-dependent IFN-I response in mouse liver. Taken together, beyond revealing the central role of cristae architecture to prevent mtDNA release and inflammation, our results mechanistically link mitochondrial cristae disorganization and inflammation, two emerging hallmarks of aging and aging-related degenerative diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Dendritic cells direct circadian anti-tumor immune responses</title>
       <link>https://example.com/article/36470303/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36470303/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The process of cancer immunosurveillance is a mechanism of tumor suppression that can protect the host from cancer development throughout its lifetime1,2. Yet, it is unknown whether its effectiveness fluctuates over a single day. Here, we demonstrate that the initial time-of-day of tumor engraftment dictates ensuing tumor size across murine cancer models. Using immunodeficient mice and animals lacking lineage-specific circadian functions, we show that dendritic cells (DCs) and CD8&lt;sup&gt;+&lt;/sup&gt; T cells exert circadian anti-tumor functions that control melanoma volume. Specifically, we find that rhythmic trafficking of DCs to the tumor draining lymph node (dLN) governs a circadian response of tumor antigen-specific CD8&lt;sup&gt;+&lt;/sup&gt; T cells, which is dependent on circadian expression of the co-stimulatory molecule CD80. Consequently, cancer immunotherapy is more effective when synchronized with DC functions, shows circadian outcomes in mice and suggests similar effects in humans. These data demonstrate that circadian rhythms of anti-tumor immune components are not only critical for the control of tumor size but can also be exploited therapeutically.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mannose metabolism normalizes gut homeostasis by blocking the TNF-α-mediated proinflammatory circuit</title>
+      <link>https://example.com/article/36471112/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36471112/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mannose is a naturally occurring sugar widely consumed in the daily diet; however, mechanistic insights into how mannose metabolism affects intestinal inflammation remain lacking. Herein, we reported that mannose supplementation ameliorated colitis development and promoted colitis recovery. Macrophage-secreted inflammatory cytokines, particularly TNF-α, induced pathological endoplasmic reticulum stress (ERS) in intestinal epithelial cells (IECs), which was prevented by mannose via normalization of protein N-glycosylation. By preserving epithelial integrity, mannose reduced the inflammatory activation of colonic macrophages. On the other hand, mannose directly suppressed macrophage TNF-α production translationally by reducing the glyceraldehyde 3-phosphate level, thus promoting GAPDH binding to TNF-α mRNA. Additionally, we found dysregulated mannose metabolism in the colonic mucosa of patients with inflammatory bowel disease. Finally, we revealed that activating PMM2 activity with epalrestat, a clinically approved drug for the treatment of diabetic neuropathy, elicited further sensitization to the therapeutic effect of mannose. Therefore, mannose metabolism prevents TNF-α-mediated pathogenic crosstalk between IECs and intestinal macrophages, thereby normalizing aberrant immunometabolism in the gut.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3312,6 +3987,31 @@
     </item>
     
     <item>
+      <title>Nuclear innate sensors for nucleic acids in immunity and inflammation</title>
+      <link>https://example.com/review/32564422/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32564422/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Innate sensors recognize pathogen-associated molecular patterns (PAMPs) or damage-associated molecular patterns (DAMPs) to initiate innate immune response by activating downstream signaling. These evolutionarily conserved innate sensors usually locate in the plasma membrane or cytoplasm. However, the nucleus-localized innate sensors are recently found to detect pathogenic nucleic acids for initiating innate response, demonstrating a complicated crosstalk with cytoplasmic sensors and signaling molecules to form an elaborate tiered innate signaling network between nucleus and cytoplasm. Furthermore, these nuclear innate sensors evolve varied mechanisms for discriminating self from non-self nucleic acids to maintain immune homeostasis and avoid autoinflammatory immune response. In this review, we summarize the recent findings on the identification of nuclear innate sensors for nucleic acids, such as hnRNPA2B1, IFI16, SAFA, and their roles in host defense and inflammatory response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Interferon regulatory factor 1 regulates PANoptosis to prevent colorectal cancer</title>
       <link>https://example.com/article/32554929/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
@@ -3620,6 +4320,31 @@
     </item>
     
     <item>
+      <title>Innate immune cells in cirrhosis</title>
+      <link>https://example.com/review/32240716/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32240716/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cirrhosis is a multisystemic disease wherein inflammatory responses originating from advanced liver disease and its sequelae affect distant compartments. Patients with cirrhosis are susceptible to bacterial infections, which may precipitate acute decompensation and acute-on-chronic liver failure, both of which are associated with high short-term mortality. Innate immune cells are an essential first line of defence against pathogens. Activation of liver macrophages (Kupffer cells) and resident mastocytes generate proinflammatory and vaso-permeating mediators that induce accumulation of neutrophils, lymphocytes, eosinophils and monocytes in the liver, and promote tissue damage. During cirrhosis progression, damage- and pathogen-associated molecular patterns activate immune cells and promote development of systemic inflammatory responses which may involve different tissues and compartments. The antibacterial function of circulating neutrophils and monocytes is gradually and severely impaired as cirrhosis worsens, contributing to disease progression. The mechanisms underlying impaired antimicrobial responses are complex and incompletely understood. This review focuses on the continuous and distinct perturbations arising in innate immune cells during cirrhosis, including their impact on disease progression, as well as reviewing potential therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Z-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation</title>
       <link>https://example.com/article/32296175/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
@@ -3674,6 +4399,56 @@
     </item>
     
     <item>
+      <title>Golgi Apparatus: An Emerging Platform for Innate Immunity</title>
+      <link>https://example.com/review/32413316/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32413316/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Golgi apparatus serves as a receiving station where proteins from the endoplasmic reticulum (ER) are further processed before being sent to other cellular compartments. In addition to its well-appreciated roles in vesicular trafficking and protein/lipid secretion, recent studies have demonstrated that the Golgi acts as a signaling platform to facilitate multiple innate immune pathways. Moreover, the membranous networks that connect the Golgi with the ER, mitochondria, endosomes, and autophagosomes provide convenient access to innate immune signal transduction and subsequent effector responses. Here, we review the emerging knowledge about the roles of the Golgi in the initiation and activation of innate immune signaling. Moreover, microbial hijacking strategies that inhibit Golgi-associated innate immune responses will also be discussed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Signaling networks in immunometabolism</title>
+      <link>https://example.com/review/32203134/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32203134/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adaptive immunity is essential for pathogen and tumor eradication, but may also trigger uncontrolled or pathological inflammation. T cell receptor, co-stimulatory and cytokine signals coordinately dictate specific signaling networks that trigger the activation and functional programming of T cells. In addition, cellular metabolism promotes T cell responses and is dynamically regulated through the interplay of serine/threonine kinases, immunological cues and nutrient signaling networks. In this review, we summarize the upstream regulators and signaling effectors of key serine/threonine kinase-mediated signaling networks, including PI3K-AGC kinases, mTOR and LKB1-AMPK pathways that regulate metabolism, especially in T cells. We also provide our perspectives about the pending questions and clinical applicability of immunometabolic signaling. Understanding the regulators and effectors of immunometabolic signaling networks may uncover therapeutic targets to modulate metabolic programming and T cell responses in human disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A bioorthogonal system reveals antitumour immune function of pyroptosis</title>
       <link>https://example.com/article/32188939/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
@@ -3709,6 +4484,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Caspases in Cell Death, Inflammation, and Pyroptosis</title>
+      <link>https://example.com/review/32017655/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32017655/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Caspases are a family of conserved cysteine proteases that play key roles in programmed cell death and inflammation. In multicellular organisms, caspases are activated via macromolecular signaling complexes that bring inactive procaspases together and promote their proximity-induced autoactivation and proteolytic processing. Activation of caspases ultimately results in programmed execution of cell death, and the nature of this cell death is determined by the specific caspases involved. Pioneering new research has unraveled distinct roles and cross talk of caspases in the regulation of programmed cell death, inflammation, and innate immune responses. In-depth understanding of these mechanisms is essential to foster the development of precise therapeutic targets to treat autoinflammatory disorders, infectious diseases, and cancer. This review focuses on mechanisms governing caspase activation and programmed cell death with special emphasis on the recent progress in caspase cross talk and caspase-driven gasdermin D-induced pyroptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -3981,6 +4781,31 @@
     </item>
     
     <item>
+      <title>DAMP-sensing receptors in sterile inflammation and inflammatory diseases</title>
+      <link>https://example.com/review/31558839/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/31558839/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The innate immune system has the capacity to detect ’non-self’ molecules derived from pathogens, known as pathogen-associated molecular patterns, via pattern recognition receptors. In addition, an increasing number of endogenous host-derived molecules, termed damage-associated molecular patterns (DAMPs), have been found to be sensed by various innate immune receptors. The recognition of DAMPs, which are produced or released by damaged and dying cells, promotes sterile inflammation, which is important for tissue repair and regeneration, but can also lead to the development of numerous inflammatory diseases, such as metabolic disorders, neurodegenerative diseases, autoimmune diseases and cancer. Here we examine recent discoveries concerning the roles of DAMP-sensing receptors in sterile inflammation and in diseases resulting from dysregulated sterile inflammation, and then discuss insights into the cross-regulation of these receptors and their ligands.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>DDX3X acts as a live-or-die checkpoint in stressed cells by regulating NLRP3 inflammasome</title>
       <link>https://example.com/article/31511697/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
@@ -4083,6 +4908,31 @@
     </item>
     
     <item>
+      <title>Caspases in Cell Death, Inflammation, and Disease</title>
+      <link>https://example.com/review/31216460/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/31216460/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Caspases are an evolutionary conserved family of cysteine proteases that are centrally involved in cell death and inflammation responses. A wealth of foundational insight into the molecular mechanisms that control caspase activation has emerged in recent years. Important advancements include the identification of additional inflammasome platforms and pathways that regulate activation of inflammatory caspases; the discovery of gasdermin D as the effector of pyroptosis and interleukin (IL)-1 and IL-18 secretion; and the existence of substantial crosstalk between inflammatory and apoptotic initiator caspases. A better understanding of the mechanisms regulating caspase activation has supported initial efforts to modulate dysfunctional cell death and inflammation pathways in a suite of communicable, inflammatory, malignant, metabolic, and neurodegenerative diseases. Here, we review current understanding of caspase biology with a prime focus on the inflammatory caspases and outline important topics for future experimentation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Low ambient humidity impairs barrier function and innate resistance against influenza infection</title>
       <link>https://example.com/article/31085641/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
@@ -4108,6 +4958,31 @@
     </item>
     
     <item>
+      <title>Innate immunity to intracellular LPS</title>
+      <link>https://example.com/review/30962589/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/30962589/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monitoring of the cytosolic compartment by the innate immune system for pathogen-encoded products or pathogen activities often enables the activation of a subset of caspases. In most cases, the cytosolic surveillance pathways are coupled to activation of caspase-1 via canonical inflammasome complexes. A related set of caspases, caspase-11 in rodents and caspase-4 and caspase-5 in humans, monitors the cytosol for bacterial lipopolysaccharide (LPS). Direct activation of caspase-11, caspase-4 and caspase-5 by intracellular LPS elicits the lytic cell death called ‘pyroptosis’, which occurs in multiple cell types. The pyroptosis is executed by the pore-forming protein GSDMD, which is activated by cleavage mediated by caspase-11, caspase-4 or caspase-5. In monocytes, formation of GSDMD pores can induce activation of the NLRP3 inflammasome for maturation of the cytokines IL-1β and IL-18. Caspase-11-mediated pyroptosis in response to cytosolic LPS is critical for antibacterial defense and septic shock. Here we review the emerging literature on the sensing of cytosolic LPS and its regulation and pathophysiological functions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Apoptotic Caspases Suppress Type I Interferon Production via the Cleavage of cGAS, MAVS, and IRF3</title>
       <link>https://example.com/article/30878284/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
@@ -4118,6 +4993,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Diverging inflammasome signals in tumorigenesis and potential targeting</title>
+      <link>https://example.com/review/30842595/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/30842595/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammasomes are molecular platforms that assemble upon sensing various intracellular stimuli. Inflammasome assembly leads to activation of caspase 1, thereby promoting the secretion of bioactive interleukin-1β (IL-1β) and IL-18 and inducing an inflammatory cell death called pyroptosis. Effectors of the inflammasome efficiently drive an immune response, primarily providing protection against microbial infections and mediating control over sterile insults. However, aberrant inflammasome signalling is associated with pathogenesis of inflammatory and metabolic diseases, neurodegeneration and malignancies. Chronic inflammation perpetuated by inflammasome activation plays a central role in all stages of tumorigenesis, including immunosuppression, proliferation, angiogenesis and metastasis. Conversely, inflammasome signalling also contributes to tumour suppression by maintaining intestinal barrier integrity, which portrays the diverse roles of inflammasomes in tumorigenesis. Studies have underscored the importance of environmental factors, such as diet and gut microbiota, in inflammasome signalling, which in turn influences tumorigenesis. In this Review, we deliver an overview of the interplay between inflammasomes and tumorigenesis and discuss their potential as therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -4359,6 +5259,90 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying tumor-infiltrating immune cells from transcriptomics data</title>
+      <link>https://example.com/review/29541787/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/29541787/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By exerting pro- and anti-tumorigenic actions, tumor-infiltrating immune cells can profoundly influence tumor progression, as well as the success of anti-cancer therapies. Therefore, the quantification of tumor-infiltrating immune cells holds the promise to unveil the multi-faceted role of the immune system in human cancers and its involvement in tumor escape mechanisms and response to therapy. Tumor-infiltrating immune cells can be quantified from RNA sequencing data of human tumors using bioinformatics approaches. In this review, we describe state-of-the-art computational methods for the quantification of immune cells from transcriptomics data and discuss the open challenges that must be addressed to accurately quantify immune infiltrates from RNA sequencing data of human bulk tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting neural reflex circuits in immunity to treat kidney disease</title>
+      <link>https://example.com/review/28970585/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/28970585/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Key Points&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neural circuits that control immunity and inflammation provide novel targets for the treatment of kidney disease and hypertension&lt;/li&gt;
+&lt;li&gt;Activation of the cholinergic anti-inflammatory pathway (CAP) blocks splenic-dependent systemic inflammation and acute kidney injury (AKI); non-invasive, nonpharmacological approaches to activate the CAP include ultrasound application and vagus nerve stimulation&lt;/li&gt;
+&lt;li&gt;Neural circuits that directly regulate kidney function or carry sensory feedback from the kidney to the central nervous system could provide additional mechanisms for bidirectional neuroimmunomodulation of kidney disease&lt;/li&gt;
+&lt;li&gt;Interactions between neural circuits and the immune system have important roles in the pathogenesis of hypertension and renal fibrosis&lt;/li&gt;
+&lt;li&gt;Further defining neuroimmunomodulatory pathways in hypertension could enable the development of selective neuronal stimulatory or inhibitory strategies for lowering blood pressure that could potentially be more effective than renal denervation&lt;/li&gt;
+&lt;li&gt;Optogenetic tools provide unprecedented opportunities to dissect the neural pathways that control immunity and inflammation and enable the identification of novel approaches to therapy for kidney diseases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neural pathways regulate immunity and inflammation via the inflammatory reflex and specific molecular targets can be modulated by stimulating neurons. Neuroimmunomodulation by nonpharmacological methods is emerging as a novel therapeutic strategy for inflammatory diseases, including kidney diseases and hypertension. Electrical stimulation of vagus neurons or treatment with pulsed ultrasound activates the cholinergic anti-inflammatory pathway (CAP) and protects mice from acute kidney injury (AKI). Direct innervation of the kidney, by afferent and efferent neurons, might have a role in modulating and responding to inflammation in various diseases, either locally or by providing feedback to regions of the central nervous system that are important in the inflammatory reflex pathway. Increased sympathetic drive to the kidney has a role in the pathogenesis of hypertension, and selective modulation of neuroimmune interactions in the kidney could potentially be more effective for lowering blood pressure and treating inflammatory kidney diseases than renal denervation. Use of optogenetic tools for selective stimulation of specific neurons has enabled the identification of neural circuits in the brain that modulate kidney function via activation of the CAP. In this Review we discuss evidence for a role of neural circuits in the control of renal inflammation as well as the therapeutic potential of targeting these circuits in the settings of AKI, kidney fibrosis and hypertension.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Programmed Cell Death and Inflammation: Winter Is Coming</title>
+      <link>https://example.com/review/28734635/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/28734635/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The life of an organism requires the assistance of an unlikely process: programmed cell death. Both development and the maintenance of homeostasis result in the production of superfluous cells that must eventually be disposed of. Furthermore, programmed cell death can also represent a defense mechanism; for example, by depriving pathogens of a replication niche. The responsibility of handling these dead cells falls on phagocytes of the immune system, which surveil their surroundings for dying or dead cells and efficiently clear them in a quiescent manner. This process, termed efferocytosis, depends on cooperation between the phagocyte and the dying cell. In this review we explore different types of programmed cell death and their impact on innate immune responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

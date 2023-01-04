@@ -5,12 +5,144 @@
     <link>https://example.com/tag/brain/</link>
       <atom:link href="https://example.com/tag/brain/index.xml" rel="self" type="application/rss+xml" />
     <description>Brain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Brain</title>
       <link>https://example.com/tag/brain/</link>
     </image>
+    
+    <item>
+      <title>Molecular and spatial signatures of mouse brain aging at single-cell resolution</title>
+      <link>https://example.com/article/36580914/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36580914/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Molecular and cellular architecture of aging frontal cortex and striatum is mapped&lt;/li&gt;
+&lt;li&gt;Aging induces spatially dependent cell-state changes in non-neuronal cells&lt;/li&gt;
+&lt;li&gt;White matter is a hotspot for aging-related glial and immune cell activation&lt;/li&gt;
+&lt;li&gt;Aging- and LPS-induced brain inflammation exhibit similarities and differences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The diversity and complex organization of cells in the brain have hindered systematic characterization of age-related changes in its cellular and molecular architecture, limiting our ability to understand the mechanisms underlying its functional decline during aging. Here, we generated a high-resolution cell atlas of brain aging within the frontal cortex and striatum using spatially resolved single-cell transcriptomics and quantified changes in gene expression and spatial organization of major cell types in these regions over the mouse lifespan. We observed substantially more pronounced changes in cell state, gene expression, and spatial organization of non-neuronal cells over neurons. Our data revealed molecular and spatial signatures of glial and immune cell activation during aging, particularly enriched in the subcortical white matter, and identified both similarities and notable differences in cell-activation patterns induced by aging and systemic inflammatory challenge. These results provide critical insights into age-related decline and inflammation in the brain.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Persistent post-COVID-19 smell loss is associated with immune cell infiltration and altered gene expression in olfactory epithelium</title>
+      <link>https://example.com/article/36542694/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36542694/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 causes profound changes in the sense of smell, including total smell loss. Although these alterations are often transient, many patients with COVID-19 exhibit olfactory dysfunction that lasts months to years. Although animal and human autopsy studies have suggested mechanisms driving acute anosmia, it remains unclear how SARS-CoV-2 causes persistent smell loss in a subset of patients. To address this question, we analyzed olfactory epithelial samples collected from 24 biopsies, including from nine patients with objectively quantified long-term smell loss after COVID-19. This biopsy-based approach revealed a diffuse infiltrate of T cells expressing interferon-γ and a shift in myeloid cell population composition, including enrichment of CD207+ dendritic cells and depletion of anti-inflammatory M2 macrophages. Despite the absence of detectable SARS-CoV-2 RNA or protein, gene expression in the barrier supporting cells of the olfactory epithelium, termed sustentacular cells, appeared to reflect a response to ongoing inflammatory signaling, which was accompanied by a reduction in the number of olfactory sensory neurons relative to olfactory epithelial sustentacular cells. These findings indicate that T cell-mediated inflammation persists in the olfactory epithelium long after SARS-CoV-2 has been eliminated from the tissue, suggesting a mechanism for long-term post-COVID-19 smell loss.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dual roles of hexokinase 2 in shaping microglial function by gating glycolytic flux and mitochondrial activity</title>
+      <link>https://example.com/article/36536134/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36536134/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microglia continuously survey the brain parenchyma and actively shift status following stimulation. These processes demand a unique bioenergetic programme; however, little is known about the metabolic determinants in microglia. By mining large datasets and generating transgenic tools, here we show that hexokinase 2 (HK2), the most active isozyme associated with mitochondrial membrane, is selectively expressed in microglia in the brain. Genetic ablation of HK2 reduced microglial glycolytic flux and energy production, suppressed microglial repopulation, and attenuated microglial surveillance and damage-triggered migration in male mice. HK2 elevation is prominent in immune-challenged or disease-associated microglia. In ischaemic stroke models, however, HK2 deletion promoted neuroinflammation and potentiated cerebral damages. The enhanced inflammatory responses after HK2 ablation in microglia are associated with aberrant mitochondrial function and reactive oxygen species accumulation. Our study demonstrates that HK2 gates both glycolytic flux and mitochondrial activity to shape microglial functions, changes of which contribute to metabolic abnormalities and maladaptive inflammation in brain diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Functional reconstruction of the basal ganglia neural circuit by human striatal neurons in hypoxic-ischaemic injured brain</title>
+      <link>https://example.com/article/36516880/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36516880/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Perinatal hypoxic-ischaemic encephalopathy is the leading cause of neonatal death and permanent neurological deficits, while the basal ganglia is one of the major nuclei that is selectively and greatly affected in the brains of hypoxic-ischaemic encephalopathy patients, especially in severe cases. Human embryonic stem cell-derived neurons have shown great potential in different types of brain disorders in adults. However, it remains unknown whether and how grafted human embryonic stem cell-derived neurons can repair immature brains with hypoxic-ischaemic encephalopathy. Here, by administrating genetically labelled human embryonic stem cell-derived striatal neural progenitors into the ipsilateral striatum of hypoxic-ischaemic encephalopathy-injured mice, we found that the grafted cells gradually matured into GABA spiny projection neurons morphologically and electrophysiologically, and significantly rescued the area loss of hypoxic-ischaemic encephalopathy-injured brains. Intriguingly, using immunohistochemical staining combined with enhanced ascorbate peroxidase-based immunoelectron microscopy and rabies virus-mediated trans-synaptic tracing, we show that the grafts start to extend axonal projections to the endogenous target areas (globus pallidus externa, globus pallidus internus, substantia nigra), form synapses with host striatal, globus pallidus and nigra neurons, and receive extensive and stable synaptic inputs as early as 2 months post-transplantation. Importantly, we further demonstrated functional neural circuits re-established between the grafted neurons and host cortical, striatal and substantial nigra neurons at 3-6 months post-transplantation in the hypoxic-ischaemic encephalopathy-injured brain by optogenetics combined with electrophysiological recording. Finally, the transplanted striatal spiny projection neurons but not spinal GABA neurons restored the motor defects of hypoxic-ischaemic encephalopathy, which were reversed by clozapine-N-oxide-based inhibition of graft function. These findings demonstrate anatomical and functional reconstruction of the basal ganglia neural circuit including multiple loops by striatal spiny projection neurons in hypoxic-ischaemic encephalopathy-injured immature brains, which raises the possibility of such a cell replacement therapeutic strategy for hypoxic-ischaemic encephalopathy in neonates.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A microbiome-dependent gut–brain pathway regulates motivation for exercise</title>
+      <link>https://example.com/article/36517598/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36517598/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exercise exerts a wide range of beneficial effects for healthy physiology. However, the mechanisms regulating an individual’s motivation to engage in physical activity remain incompletely understood. An important factor stimulating the engagement in both competitive and recreational exercise is the motivating pleasure derived from prolonged physical activity, which is triggered by exercise-induced neurochemical changes in the brain. Here, we report on the discovery of a gut–brain connection in mice that enhances exercise performance by augmenting dopamine signalling during physical activity. We find that microbiome-dependent production of endocannabinoid metabolites in the gut stimulates the activity of TRPV1-expressing sensory neurons and thereby elevates dopamine levels in the ventral striatum during exercise. Stimulation of this pathway improves running performance, whereas microbiome depletion, peripheral endocannabinoid receptor inhibition, ablation of spinal afferent neurons or dopamine blockade abrogate exercise capacity. These findings indicate that the rewarding properties of exercise are influenced by gut-derived interoceptive circuits and provide a microbiome-dependent explanation for interindividual variability in exercise performance. Our study also suggests that interoceptomimetic molecules that stimulate the transmission of gut-derived signals to the brain may enhance the motivation for exercise.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Caspase-8 as a novel mediator linking Src kinase signaling to enhanced glioblastoma malignancy </title>
@@ -681,6 +813,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rhythms of life: circadian disruption and brain disorders across the lifespan</title>
+      <link>https://example.com/review/30459365/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/30459365/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many processes in the human body — including brain function — are regulated over the 24-hour cycle, and there are strong associations between disrupted circadian rhythms (for example, sleep–wake cycles) and disorders of the CNS. Brain disorders such as autism, depression and Parkinson disease typically develop at certain stages of life, and circadian rhythms are important during each stage of life for the regulation of processes that may influence the development of these disorders. Here, we describe circadian disruptions observed in various brain disorders throughout the human lifespan and highlight emerging evidence suggesting these disruptions affect the brain. Currently, much of the evidence linking brain disorders and circadian dysfunction is correlational, and so whether and what kind of causal relationships might exist are unclear. We therefore identify remaining questions that may direct future research towards a better understanding of the links between circadian disruption and CNS disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

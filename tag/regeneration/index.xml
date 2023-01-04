@@ -5,12 +5,69 @@
     <link>https://example.com/tag/regeneration/</link>
       <atom:link href="https://example.com/tag/regeneration/index.xml" rel="self" type="application/rss+xml" />
     <description>Regeneration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Regeneration</title>
       <link>https://example.com/tag/regeneration/</link>
     </image>
+    
+    <item>
+      <title>Senescence atlas reveals an aged-like inflamed niche that blunts muscle regeneration</title>
+      <link>https://example.com/article/36544018/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36544018/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tissue regeneration requires coordination between resident stem cells and local niche cells1,2. Here we identify that senescent cells are integral components of the skeletal muscle regenerative niche that repress regeneration at all stages of life. The technical limitation of senescent-cell scarcity3 was overcome by combining single-cell transcriptomics and a senescent-cell enrichment sorting protocol. We identified and isolated different senescent cell types from damaged muscles of young and old mice. Deeper transcriptome, chromatin and pathway analyses revealed conservation of cell identity traits as well as two universal senescence hallmarks (inflammation and fibrosis) across cell type, regeneration time and ageing. Senescent cells create an aged-like inflamed niche that mirrors inflammation associated with ageing (inflammageing4) and arrests stem cell proliferation and regeneration. Reducing the burden of senescent cells, or reducing their inflammatory secretome through CD36 neutralization, accelerates regeneration in young and old mice. By contrast, transplantation of senescent cells delays regeneration. Our results provide a technique for isolating in vivo senescent cells, define a senescence blueprint for muscle, and uncover unproductive functional interactions between senescent cells and stem cells in regenerative niches that can be overcome. As senescent cells also accumulate in human muscles, our findings open potential paths for improving muscle repair throughout life.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fibroblast inflammatory priming determines regenerative versus fibrotic skin repair in reindeer</title>
+      <link>https://example.com/article/36493752/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36493752/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reindeer antler velvet regenerates after wounding whereas back skin forms a scar&lt;/li&gt;
+&lt;li&gt;Fibroblasts direct site-specific immune cell recruitment and differentiation&lt;/li&gt;
+&lt;li&gt;Fibroblast fate reversion and absence of inflammatory signals enables regeneration&lt;/li&gt;
+&lt;li&gt;Obstructing fibroblast inflammatory signals enhances skin regeneration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adult mammalian skin wounds heal by forming fibrotic scars. We report that full-thickness injuries of reindeer antler skin (velvet) regenerate, whereas back skin forms fibrotic scar. Single-cell multi-omics reveal that uninjured velvet fibroblasts resemble human fetal fibroblasts, whereas back skin fibroblasts express inflammatory mediators mimicking pro-fibrotic adult human and rodent fibroblasts. Consequently, injury elicits site-specific immune responses: back skin fibroblasts amplify myeloid infiltration and maturation during repair, whereas velvet fibroblasts adopt an immunosuppressive phenotype that restricts leukocyte recruitment and hastens immune resolution. Ectopic transplantation of velvet to scar-forming back skin is initially regenerative, but progressively transitions to a fibrotic phenotype akin to the scarless fetal-to-scar-forming transition reported in humans. Skin regeneration is diminished by intensifying, or enhanced by neutralizing, these pathologic fibroblast-immune interactions. Reindeer represent a powerful comparative model for interrogating divergent wound healing outcomes, and our results nominate decoupling of fibroblast-immune interactions as a promising approach to mitigate scar.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Generation of neural organoids for spinal-cord regeneration via the direct reprogramming of human astrocytes</title>
