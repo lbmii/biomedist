@@ -5,12 +5,44 @@
     <link>https://example.com/tag/circadian-rhythm/</link>
       <atom:link href="https://example.com/tag/circadian-rhythm/index.xml" rel="self" type="application/rss+xml" />
     <description>Circadian Rhythm</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Circadian Rhythm</title>
       <link>https://example.com/tag/circadian-rhythm/</link>
     </image>
+    
+    <item>
+      <title>Comparative transcriptomics reveals circadian and pluripotency networks as two pillars of longevity regulation</title>
+      <link>https://example.com/article/35580607/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35580607/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neg-MLS genes are involved in energy metabolism and inflammation&lt;/li&gt;
+&lt;li&gt;Pos-MLS genes are involved in DNA repair, microtubule organization, and RNA transport&lt;/li&gt;
+&lt;li&gt;Neg-MLS genes are controlled by the circadian network&lt;/li&gt;
+&lt;li&gt;Pos-MLS genes are controlled by pluripotency genes and upregulated during reprogramming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mammals differ more than 100-fold in maximum lifespan. Here, we conducted comparative transcriptomics on 26 species with diverse lifespans. We identified thousands of genes with expression levels negatively or positively correlated with a species’ maximum lifespan (Neg- or Pos-MLS genes). Neg-MLS genes are primarily involved in energy metabolism and inflammation. Pos-MLS genes show enrichment in DNA repair, microtubule organization, and RNA transport. Expression of Neg- and Pos-MLS genes is modulated by interventions, including mTOR and PI3K inhibition. Regulatory networks analysis showed that Neg-MLS genes are under circadian regulation possibly to avoid persistent high expression, whereas Pos-MLS genes are targets of master pluripotency regulators OCT4 and NANOG and are upregulated during somatic cell reprogramming. Pos-MLS genes are highly expressed during embryogenesis but significantly downregulated after birth. This work provides targets for anti-aging interventions by defining pathways correlating with longevity across mammals and uncovering circadian and pluripotency networks as central regulators of longevity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Paraventricular hypothalamus mediates diurnal rhythm of metabolism</title>

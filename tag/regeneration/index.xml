@@ -5,12 +5,68 @@
     <link>https://example.com/tag/regeneration/</link>
       <atom:link href="https://example.com/tag/regeneration/index.xml" rel="self" type="application/rss+xml" />
     <description>Regeneration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Regeneration</title>
       <link>https://example.com/tag/regeneration/</link>
     </image>
+    
+    <item>
+      <title>Multi-omic analysis reveals divergent molecular events in scarring and regenerative wound healing</title>
+      <link>https://example.com/article/35077667/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35077667/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Verteporfin (YAP inhibitor) treatment yields wound regeneration in mice&lt;/li&gt;
+&lt;li&gt;Divergent molecular pathways of scarring versus regeneration are defined by differential mechanical versus Wnt signaling&lt;/li&gt;
+&lt;li&gt;Trps1 drives wound regeneration in the context of blocked mechanical signaling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Regeneration is the holy grail of tissue repair, but skin injury typically yields fibrotic, non-functional scars. Developing pro-regenerative therapies requires rigorous understanding of the molecular progression from injury to fibrosis or regeneration. Here, we report the divergent molecular events driving skin wound cells toward scarring or regenerative fates. We profile scarring versus YAP-inhibition-induced wound regeneration at the transcriptional (single-cell RNA sequencing), protein (timsTOF proteomics), and tissue (extracellular matrix ultrastructural analysis) levels. Using cell-surface barcoding, we integrate these data to reveal fibrotic and regenerative “molecular trajectories” of healing. We show that disrupting YAP mechanotransduction yields regenerative repair by fibroblasts with activated Trps1 and Wnt signaling. Finally, via in vivo gene knockdown and overexpression in wounds, we identify Trps1 as a key regulatory gene that is necessary and partially sufficient for wound regeneration. Our findings serve as a multi-omic map of wound regeneration and could have therapeutic implications for pathologic fibroses.
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient healing of large osseous segmental defects using optimized chemically modified messenger RNA encoding BMP-2</title>
+      <link>https://example.com/article/35171668/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35171668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Large segmental osseous defects heal poorly. Recombinant, human bone morphogenetic protein-2 (rhBMP-2) is used clinically to promote bone healing, but it is applied at very high doses that cause adverse side effects and raise costs while providing only incremental benefit. We describe a previously unexplored, alternative approach to bone regeneration using chemically modified messenger RNA (cmRNA). An optimized cmRNA encoding BMP-2 was delivered to critical-sized femoral osteotomies in rats. The cmRNA remained orthotopically localized and generated BMP locally for several days. Defects healed at doses ≥25 μg of BMP-2 cmRNA. By 4 weeks, all animals treated with 50 μg of BMP-2 cmRNA had bridged bone defects without forming the massive callus seen with rhBMP-2. Moreover, such defects recovered normal mechanical strength quicker and initiated bone remodeling faster. cmRNA regenerated bone via endochondral ossification, whereas rhBMP-2 drove intramembranous osteogenesis; cmRNA provides an innovative, safe, and highly translatable technology for bone healing.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Hair shaft miniaturization causes stem cell depletion through mechanosensory signals mediated by a Piezo1-calcium-TNF-α axis</title>

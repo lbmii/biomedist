@@ -5,12 +5,37 @@
     <link>https://example.com/tag/phosphorylation/</link>
       <atom:link href="https://example.com/tag/phosphorylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Phosphorylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Phosphorylation</title>
       <link>https://example.com/tag/phosphorylation/</link>
     </image>
+    
+    <item>
+      <title>Energy homeostasis mediated by the LcSnRK1α-LcbZIP1/3 signaling pathway modulates litchi fruit senescence</title>
+      <link>https://example.com/article/35634876/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35634876/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cellular energy status is a key factor deciding the switch-on of the senescence of horticultural crops. Despite the established significance of the conserved energy master regulator sucrose non-fermenting 1 (SNF1)-related protein kinase 1 (SnRK1) in plant development, its working mechanism and related signaling pathway in the regulation of fruit senescence remain enigmatic. Here, we demonstrate that energy deficit accelerates fruit senescence, whereas exogenous ATP treatment delays it. The transient suppression of &lt;em&gt;LcSnRK1α&lt;/em&gt; in litchi (&lt;em&gt;Litchi chinensis&lt;/em&gt; Sonn.) fruit inhibited the expression of energy metabolism-related genes, while its ectopic expression in tomato (&lt;em&gt;Solanum lycopersicum&lt;/em&gt;) promoted ripening and a high energy level. Biochemical analyses revealed that LcSnRK1α interacted with and phosphorylated the transcription factors LcbZIP1 and LcbZIP3, which directly bound to the promoters to activate the expression of &lt;em&gt;DARK-INDUCIBLE 10&lt;/em&gt; (&lt;em&gt;LcDIN10&lt;/em&gt;), &lt;em&gt;ASPARAGINE SYNTHASE 1&lt;/em&gt; (&lt;em&gt;LcASN1&lt;/em&gt;), and &lt;em&gt;ANTHOCYANIN SYNTHASE&lt;/em&gt; (&lt;em&gt;LcANS&lt;/em&gt;), thereby fine-tuning the metabolic reprogramming to ensure energy and redox homeostasis. Altogether, these observations reveal a post-translational modification mechanism by which &lt;em&gt;LcSnRK1α&lt;/em&gt;-mediated phosphorylation of LcbZIP1 and LcbZIP3 regulates the expression of metabolic reprogramming-related genes, consequently modulating litchi fruit senescence.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>HIPK2 phosphorylates HDAC3 for NF-κB acetylation to ameliorate colitis-associated colorectal carcinoma and sepsis</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/mitophagy/</link>
       <atom:link href="https://example.com/tag/mitophagy/index.xml" rel="self" type="application/rss+xml" />
     <description>Mitophagy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Mitophagy</title>
       <link>https://example.com/tag/mitophagy/</link>
     </image>
+    
+    <item>
+      <title>Dynamic O-GlcNAcylation coordinates ferritinophagy and mitophagy to activate ferroptosis</title>
+      <link>https://example.com/article/35504898/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35504898/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a regulated iron-dependent cell death characterized by the accumulation of lipid peroxidation. A myriad of facets linking amino acid, lipid, redox, and iron metabolisms were found to drive or to suppress the execution of ferroptosis. However, how the cells decipher the diverse pro-ferroptotic stress to activate ferroptosis remains elusive. Here, we report that protein O-GlcNAcylation, the primary nutrient sensor of glucose flux, orchestrates both ferritinophagy and mitophagy for ferroptosis. Following the treatment of ferroptosis stimuli such as RSL3, a commonly used ferroptosis inducer, there exists a biphasic change of protein O-GlcNAcylation to modulate ferroptosis. Pharmacological or genetic inhibition of O-GlcNAcylation promoted ferritinophagy, resulting in the accumulation of labile iron towards mitochondria. Inhibition of O-GlcNAcylation resulted in mitochondria fragmentation and enhanced mitophagy, providing an additional source of labile iron and rendering the cell more sensitive to ferroptosis. Mechanistically, we found that de-O-GlcNAcylation of the ferritin heavy chain at S179 promoted its interaction with NCOA4, the ferritinophagy receptor, thereby accumulating labile iron for ferroptosis. Our findings reveal a previously uncharacterized link of dynamic O-GlcNAcylation with iron metabolism and decision-making for ferroptosis, thus offering potential therapeutic intervention for fighting disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Paradoxical Mitophagy Regulation by PINK1 and TUFm</title>

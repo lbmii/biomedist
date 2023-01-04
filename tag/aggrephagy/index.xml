@@ -5,12 +5,37 @@
     <link>https://example.com/tag/aggrephagy/</link>
       <atom:link href="https://example.com/tag/aggrephagy/index.xml" rel="self" type="application/rss+xml" />
     <description>Aggrephagy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Aggrephagy</title>
       <link>https://example.com/tag/aggrephagy/</link>
     </image>
+    
+    <item>
+      <title>CCT2 is an aggrephagy receptor for clearance of solid protein aggregates</title>
+      <link>https://example.com/article/35366418/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35366418/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protein aggregation is a hallmark of multiple human pathologies. Autophagy selectively degrades protein aggregates via aggrephagy. How selectivity is achieved has been elusive. Here, we identify the chaperonin subunit CCT2 as an autophagy receptor regulating the clearance of aggregation-prone proteins in the cell and the mouse brain. CCT2 associates with aggregation-prone proteins independent of cargo ubiquitination and interacts with autophagosome marker ATG8s through a non-classical VLIR motif. In addition, CCT2 regulates aggrephagy independently of the ubiquitin-binding receptors (P62, NBR1, and TAX1BP1) or chaperone-mediated autophagy. Unlike P62, NBR1, and TAX1BP1, which facilitate the clearance of protein condensates with liquidity, CCT2 specifically promotes the autophagic degradation of protein aggregates with little liquidity (solid aggregates). Furthermore, aggregation-prone protein accumulation induces the functional switch of CCT2 from a chaperone subunit to an autophagy receptor by promoting CCT2 monomer formation, which exposes the VLIR to ATG8s interaction and, therefore, enables the autophagic function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>HDAC6 mediates an aggresome-like mechanism for NLRP3 and pyrin inflammasome activation</title>

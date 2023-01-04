@@ -5,12 +5,69 @@
     <link>https://example.com/tag/vaccines/</link>
       <atom:link href="https://example.com/tag/vaccines/index.xml" rel="self" type="application/rss+xml" />
     <description>Vaccines</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Vaccines</title>
       <link>https://example.com/tag/vaccines/</link>
     </image>
+    
+    <item>
+      <title>Circular RNA vaccines against SARS-CoV-2 and emerging variants</title>
+      <link>https://example.com/article/35460644/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35460644/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Highly stable circRNA vaccines induce potent humoral and cellular immune responses&lt;/li&gt;
+&lt;li&gt;CircRNA vaccines elicit a high proportion of neutralizing antibodies&lt;/li&gt;
+&lt;li&gt;CircRNA vaccines enable effective protection against SARS-CoV-2 in mice and monkeys&lt;/li&gt;
+&lt;li&gt;CircRNARBD-Delta vaccine provides broad-spectrum protection against SARS-CoV-2 VOCs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As the emerging variants of SARS-CoV-2 continue to drive the worldwide pandemic, there is a constant demand for vaccines that offer more effective and broad-spectrum protection. Here, we report a circular RNA (circRNA) vaccine that elicited potent neutralizing antibodies and T cell responses by expressing the trimeric RBD of the spike protein, providing robust protection against SARS-CoV-2 in both mice and rhesus macaques. Notably, the circRNA vaccine enabled higher and more durable antigen production than the 1mΨ-modified mRNA vaccine and elicited a higher proportion of neutralizing antibodies and distinct Th1-skewed immune responses. Importantly, we found that the circRNARBD-Omicron vaccine induced effective neutralizing antibodies against the Omicron but not the Delta variant. In contrast, the circRNARBD-Delta vaccine protected against both Delta and Omicron or functioned as a booster after two doses of either native- or Delta-specific vaccination, making it a favorable choice against the current variants of concern (VOCs) of SARS-CoV-2.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enantiomer-dependent immunological response to chiral nanoparticles</title>
+      <link>https://example.com/article/35046606/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35046606/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chirality is a unifying structural metric of biological and abiological forms of matter. Over the past decade, considerable clarity has been achieved in understanding the chemistry and physics of chiral inorganic nanoparticles; however, little is known about their effects on complex biochemical networks. Intermolecular interactions of biological molecules and inorganic nanoparticles show some commonalities, but these structures differ in scale, in geometry and in the dynamics of chiral shapes, which can both impede and strengthen their mirror-asymmetric complexes. Here we show that achiral and left- and right-handed gold biomimetic nanoparticles show different &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; immune responses. We use irradiation with circularly polarized light (CPL) to synthesize nanoparticles with controllable nanometre-scale chirality and optical anisotropy factors (g-factors) of up to 0.4. We find that binding of nanoparticles to two proteins from the family of adhesion G-protein-coupled receptors (AGPCRs)-namely cluster-of-differentiation 97 (CD97) and epidermal-growth-factor-like-module receptor 1 (EMR1)-results in the opening of mechanosensitive potassium-efflux channels, the production of immune signalling complexes known as inflammasomes, and the maturation of mouse bone-marrow-derived dendritic cells. Both &lt;em&gt;in vivo&lt;/em&gt; and &lt;em&gt;in vitro&lt;/em&gt; immune responses depend monotonically on the g-factors of the nanoparticles, indicating that nanoscale chirality can be used to regulate the maturation of immune cells. Finally, left-handed nanoparticles show substantially higher (1,258-fold) efficiency compared with their right-handed counterparts as adjuvants for vaccination against the H9N2 influenza virus, opening a path to the use of nanoscale chirality in immunology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Protective Zika vaccines engineered to eliminate enhancement of dengue infection via immunodominance switch</title>

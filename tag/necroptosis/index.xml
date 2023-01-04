@@ -5,12 +5,37 @@
     <link>https://example.com/tag/necroptosis/</link>
       <atom:link href="https://example.com/tag/necroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Necroptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Necroptosis</title>
       <link>https://example.com/tag/necroptosis/</link>
     </image>
+    
+    <item>
+      <title>Osmotic stress activates RIPK3/MLKL-mediated necroptosis by increasing cytosolic pH through a plasma membrane Na&#43;/H&#43; exchanger</title>
+      <link>https://example.com/article/35580168/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35580168/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Necroptosis is a form of cell death triggered by stimuli such as the tumor necrosis factor family of cytokines, which induce necrotic cell death through the RIPK1-RIPK3-MLKL pathway. We report here that necroptosis is also activated by extracellular osmotic stresses. Unlike the previously identified inducers of necroptosis, osmotic stress stimulated necroptosis through the direct activation of the kinase activity of RIPK3 by an increase in cytosolic pH mediated by the Na&lt;sup&gt;+&lt;/sup&gt;/H&lt;sup&gt;+&lt;/sup&gt; exchanger SLC9A1. Knockout, knockdown, or chemical inhibition of SLC9A1 blocked necroptosis induced by osmotic stresses. Moreover, setting intracellular pH at above-physiological values directly activated RIPK3 and necroptosis. The activation of RIPK3 by osmotic stresses did not require its RHIM domain, the protein-interacting domain required for the activation of RIPK3 when cells respond to other previously identified necroptotic stimuli. These results thus delineate a pathway that activates necroptosis in response to osmotic stresses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>E3 ligase TRIM25 ubiquitinates RIP3 to inhibit TNF induced cell necrosis</title>

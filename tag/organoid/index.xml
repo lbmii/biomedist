@@ -5,12 +5,37 @@
     <link>https://example.com/tag/organoid/</link>
       <atom:link href="https://example.com/tag/organoid/index.xml" rel="self" type="application/rss+xml" />
     <description>Organoid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Organoid</title>
       <link>https://example.com/tag/organoid/</link>
     </image>
+    
+    <item>
+      <title>KMT2C deficiency promotes small cell lung cancer metastasis through DNMT3A-mediated epigenetic reprogramming</title>
+      <link>https://example.com/article/35449309/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35449309/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Small cell lung cancer (SCLC) is notorious for its early and frequent metastases, which contribute to it as a recalcitrant malignancy. To understand the molecular mechanisms underlying SCLC metastasis, we generated SCLC mouse models with orthotopically transplanted genome-edited lung organoids and performed multiomics analyses. We found that a deficiency of KMT2C, a histone H3 lysine 4 methyltransferase frequently mutated in extensive-stage SCLC, promoted multiple-organ metastases in mice. Metastatic and KMT2C-deficient SCLC displayed both histone and DNA hypomethylation. Mechanistically, KMT2C directly regulated the expression of DNMT3A, a de novo DNA methyltransferase, through histone methylation. Forced DNMT3A expression restrained metastasis of KMT2C-deficient SCLC through repressing metastasis-promoting MEIS/HOX genes. Further, S-(5′-adenosyl)-L-methionine, the common cofactor of histone and DNA methyltransferases, inhibited SCLC metastasis. Thus, our study revealed a concerted epigenetic reprogramming of KMT2C- and DNMT3A-mediated histone and DNA hypomethylation underlying SCLC metastasis, which suggested a potential epigenetic therapeutic vulnerability.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Disease Modeling in Stem Cell-Derived 3D Organoid Systems</title>

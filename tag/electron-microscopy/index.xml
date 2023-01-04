@@ -5,12 +5,37 @@
     <link>https://example.com/tag/electron-microscopy/</link>
       <atom:link href="https://example.com/tag/electron-microscopy/index.xml" rel="self" type="application/rss+xml" />
     <description>Electron Microscopy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Electron Microscopy</title>
       <link>https://example.com/tag/electron-microscopy/</link>
     </image>
+    
+    <item>
+      <title>Activation of STING by targeting a pocket in the transmembrane domain</title>
+      <link>https://example.com/article/35388221/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35388221/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stimulator of interferon genes (STING) is an adaptor protein in innate immunity against DNA viruses or bacteria. STING-mediated immunity could be exploited in the development of vaccines or cancer immunotherapies. STING is a transmembrane dimeric protein that is located in the endoplasmic reticulum or in the Golgi apparatus. STING is activated by the binding of its cytoplasmic ligand-binding domain to cyclic dinucleotides that are produced by the DNA sensor cyclic GMP-AMP (cGAMP) synthase or by invading bacteria. Cyclic dinucleotides induce a conformational change in the STING ligand-binding domain, which leads to a high-order oligomerization of STING that is essential for triggering the downstream signalling pathways. However, the cGAMP-induced STING oligomers tend to dissociate in solution and have not been resolved to high resolution, which limits our understanding of the activation mechanism. Here we show that a small-molecule agonist, compound 53 (C53), promotes the oligomerization and activation of human STING through a mechanism orthogonal to that of cGAMP. We determined a cryo-electron microscopy structure of STING bound to both C53 and cGAMP, revealing a stable oligomer that is formed by side-by-side packing and has a curled overall shape. Notably, C53 binds to a cryptic pocket in the STING transmembrane domain, between the two subunits of the STING dimer. This binding triggers outward shifts of transmembrane helices in the dimer, and induces inter-dimer interactions between these helices to mediate the formation of the high-order oligomer. Our functional analyses show that cGAMP and C53 together induce stronger activation of STING than either ligand alone.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Structural basis for chemokine recognition and receptor activation of chemokine receptor CCR5</title>

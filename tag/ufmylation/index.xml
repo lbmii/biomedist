@@ -5,12 +5,37 @@
     <link>https://example.com/tag/ufmylation/</link>
       <atom:link href="https://example.com/tag/ufmylation/index.xml" rel="self" type="application/rss+xml" />
     <description>UFMylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>UFMylation</title>
       <link>https://example.com/tag/ufmylation/</link>
     </image>
+    
+    <item>
+      <title>Signaling from the RNA sensor RIG-I is regulated by ufmylation</title>
+      <link>https://example.com/article/35394863/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35394863/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Metformin induces Ferroptosis by inhibiting UFMylation of SLC7A11 in breast cancer</title>

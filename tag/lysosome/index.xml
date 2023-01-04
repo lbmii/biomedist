@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lysosome/</link>
       <atom:link href="https://example.com/tag/lysosome/index.xml" rel="self" type="application/rss+xml" />
     <description>Lysosome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lysosome</title>
       <link>https://example.com/tag/lysosome/</link>
     </image>
+    
+    <item>
+      <title>The Lysosomal Rag-Ragulator Complex Licenses RIPK1 and Caspase-8-mediated Pyroptosis by Yersinia</title>
+      <link>https://example.com/article/35058659/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35058659/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Host cells initiate cell death programs to limit pathogen infection. Inhibition of transforming growth factor-β-activated kinase 1 (TAK1) by pathogenic &lt;em&gt;Yersinia&lt;/em&gt; in macrophages triggers receptor-interacting serine/threonine-protein kinase 1 (RIPK1)-dependent caspase-8 cleavage of gasdermin D (GSDMD) and inflammatory cell death (pyroptosis). A genome-wide clustered regularly interspaced short palindromic repeats (CRISPR) screen to uncover mediators of caspase-8-dependent pyroptosis identified an unexpected role of the lysosomal FLCN-FNIP2-Rag-Ragulator supercomplex, which regulates metabolic signalling and the mechanistic target of rapamycin complex 1 (mTORC1). In response to &lt;em&gt;Yersinia&lt;/em&gt; infection, FADD, RIPK1 and caspase-8 were recruited to Rag-Ragulator, causing RIPK1 phosphorylation and caspase-8 activation. Pyroptosis activation depended on Rag GTPase activity and lysosomal tethering of Rag-Ragulator, but not mTORC1. Thus, the lysosomal metabolic regulator Rag-Ragulator instructs the inflammatory response to &lt;em&gt;Yersinia&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>MARCH8 inhibits influenza A virus infection by targeting viral M2 protein for ubiquitination-dependent degradation in lysosomes</title>

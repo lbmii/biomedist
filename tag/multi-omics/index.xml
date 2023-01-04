@@ -5,12 +5,43 @@
     <link>https://example.com/tag/multi-omics/</link>
       <atom:link href="https://example.com/tag/multi-omics/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-Omics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Multi-Omics</title>
       <link>https://example.com/tag/multi-omics/</link>
     </image>
+    
+    <item>
+      <title>Multi-omic analysis reveals divergent molecular events in scarring and regenerative wound healing</title>
+      <link>https://example.com/article/35077667/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35077667/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Verteporfin (YAP inhibitor) treatment yields wound regeneration in mice&lt;/li&gt;
+&lt;li&gt;Divergent molecular pathways of scarring versus regeneration are defined by differential mechanical versus Wnt signaling&lt;/li&gt;
+&lt;li&gt;Trps1 drives wound regeneration in the context of blocked mechanical signaling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Regeneration is the holy grail of tissue repair, but skin injury typically yields fibrotic, non-functional scars. Developing pro-regenerative therapies requires rigorous understanding of the molecular progression from injury to fibrosis or regeneration. Here, we report the divergent molecular events driving skin wound cells toward scarring or regenerative fates. We profile scarring versus YAP-inhibition-induced wound regeneration at the transcriptional (single-cell RNA sequencing), protein (timsTOF proteomics), and tissue (extracellular matrix ultrastructural analysis) levels. Using cell-surface barcoding, we integrate these data to reveal fibrotic and regenerative “molecular trajectories” of healing. We show that disrupting YAP mechanotransduction yields regenerative repair by fibroblasts with activated Trps1 and Wnt signaling. Finally, via in vivo gene knockdown and overexpression in wounds, we identify Trps1 as a key regulatory gene that is necessary and partially sufficient for wound regeneration. Our findings serve as a multi-omic map of wound regeneration and could have therapeutic implications for pathologic fibroses.
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Longitudinal Multi-omics Reveals Subset-Specific Mechanisms Underlying Irritable Bowel Syndrome</title>

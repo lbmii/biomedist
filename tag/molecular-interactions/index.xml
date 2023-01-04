@@ -5,12 +5,62 @@
     <link>https://example.com/tag/molecular-interactions/</link>
       <atom:link href="https://example.com/tag/molecular-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Molecular Interactions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Molecular Interactions</title>
       <link>https://example.com/tag/molecular-interactions/</link>
     </image>
+    
+    <item>
+      <title>Energy homeostasis mediated by the LcSnRK1α-LcbZIP1/3 signaling pathway modulates litchi fruit senescence</title>
+      <link>https://example.com/article/35634876/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35634876/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cellular energy status is a key factor deciding the switch-on of the senescence of horticultural crops. Despite the established significance of the conserved energy master regulator sucrose non-fermenting 1 (SNF1)-related protein kinase 1 (SnRK1) in plant development, its working mechanism and related signaling pathway in the regulation of fruit senescence remain enigmatic. Here, we demonstrate that energy deficit accelerates fruit senescence, whereas exogenous ATP treatment delays it. The transient suppression of &lt;em&gt;LcSnRK1α&lt;/em&gt; in litchi (&lt;em&gt;Litchi chinensis&lt;/em&gt; Sonn.) fruit inhibited the expression of energy metabolism-related genes, while its ectopic expression in tomato (&lt;em&gt;Solanum lycopersicum&lt;/em&gt;) promoted ripening and a high energy level. Biochemical analyses revealed that LcSnRK1α interacted with and phosphorylated the transcription factors LcbZIP1 and LcbZIP3, which directly bound to the promoters to activate the expression of &lt;em&gt;DARK-INDUCIBLE 10&lt;/em&gt; (&lt;em&gt;LcDIN10&lt;/em&gt;), &lt;em&gt;ASPARAGINE SYNTHASE 1&lt;/em&gt; (&lt;em&gt;LcASN1&lt;/em&gt;), and &lt;em&gt;ANTHOCYANIN SYNTHASE&lt;/em&gt; (&lt;em&gt;LcANS&lt;/em&gt;), thereby fine-tuning the metabolic reprogramming to ensure energy and redox homeostasis. Altogether, these observations reveal a post-translational modification mechanism by which &lt;em&gt;LcSnRK1α&lt;/em&gt;-mediated phosphorylation of LcbZIP1 and LcbZIP3 regulates the expression of metabolic reprogramming-related genes, consequently modulating litchi fruit senescence.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>XDeathDB: a visualization platform for cell death molecular interactions</title>
+      <link>https://example.com/article/34907160/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34907160/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lots of cell death initiator and effector molecules, signalling pathways and subcellular sites have been identified as key mediators in both cell death processes in cancer. The &lt;a href=&#34;https://pcm2019.shinyapps.io/XDeathDB/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;XDeathDB&lt;/strong&gt;&lt;/a&gt; visualization platform provides a comprehensive cell death and their crosstalk resource for deciphering the signaling network organization of interactions among different cell death modes associated with 1461 cancer types and COVID-19, with an aim to understand the molecular mechanisms of physiological cell death in disease and facilitate systems-oriented novel drug discovery in inducing cell deaths properly. Apoptosis, autosis, efferocytosis, ferroptosis, immunogenic cell death, intrinsic apoptosis, lysosomal cell death, mitotic cell death, mitochondrial permeability transition, necroptosis, parthanatos, and pyroptosis related to 12 cell deaths and their crosstalk can be observed systematically by the platform. Big data for cell death gene-disease associations, gene-cell death pathway associations, pathway-cell death mode associations, and cell death-cell death associations is collected by literature review articles and public database from iRefIndex, STRING, BioGRID, Reactom, Pathway&amp;rsquo;s commons, DisGeNET, DrugBank, and Therapeutic Target Database (TTD). An interactive webtool, &lt;a href=&#34;https://pcm2019.shinyapps.io/XDeathDB/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;XDeathDB&lt;/strong&gt;&lt;/a&gt;, is built by web applications with R-Shiny, JavaScript (JS) and Shiny Server Iso. With this platform, users can search specific interactions from vast interdependent networks that occur in the realm of cell death. A multilayer spectral graph clustering method that performs convex layer aggregation to identify crosstalk function among cell death modes for a specific cancer. 147 hallmark genes of cell death could be observed in detail in these networks. These potential druggable targets are displayed systematically and tailoring networks to visualize specified relations is available to fulfil user-specific needs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Encyclopedia of transcription factor</title>

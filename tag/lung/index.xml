@@ -5,12 +5,90 @@
     <link>https://example.com/tag/lung/</link>
       <atom:link href="https://example.com/tag/lung/index.xml" rel="self" type="application/rss+xml" />
     <description>Lung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lung</title>
       <link>https://example.com/tag/lung/</link>
     </image>
+    
+    <item>
+      <title>KMT2C deficiency promotes small cell lung cancer metastasis through DNMT3A-mediated epigenetic reprogramming</title>
+      <link>https://example.com/article/35449309/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35449309/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Small cell lung cancer (SCLC) is notorious for its early and frequent metastases, which contribute to it as a recalcitrant malignancy. To understand the molecular mechanisms underlying SCLC metastasis, we generated SCLC mouse models with orthotopically transplanted genome-edited lung organoids and performed multiomics analyses. We found that a deficiency of KMT2C, a histone H3 lysine 4 methyltransferase frequently mutated in extensive-stage SCLC, promoted multiple-organ metastases in mice. Metastatic and KMT2C-deficient SCLC displayed both histone and DNA hypomethylation. Mechanistically, KMT2C directly regulated the expression of DNMT3A, a de novo DNA methyltransferase, through histone methylation. Forced DNMT3A expression restrained metastasis of KMT2C-deficient SCLC through repressing metastasis-promoting MEIS/HOX genes. Further, S-(5′-adenosyl)-L-methionine, the common cofactor of histone and DNA methyltransferases, inhibited SCLC metastasis. Thus, our study revealed a concerted epigenetic reprogramming of KMT2C- and DNMT3A-mediated histone and DNA hypomethylation underlying SCLC metastasis, which suggested a potential epigenetic therapeutic vulnerability.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Neuropilin-1 mediates lung tissue-specific control of ILC2 function in type 2 immunity</title>
+      <link>https://example.com/article/35075279/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35075279/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Group 2 innate lymphoid cells (ILC2s) are highly heterogeneous tissue-resident lymphocytes that regulate inflammation and tissue homeostasis in health and disease. However, how these cells integrate into the tissue microenvironment to perform tissue-specific functions is unclear. Here, we show neuropilin-1 (Nrp1), which is induced postnatally and sustained by lung-derived transforming growth factor beta-1 (TGFβ1), is a tissue-specific marker of lung ILC2s. Genetic ablation or pharmacological inhibition of Nrp1 suppresses IL-5 and IL-13 production by ILC2s and protects mice from the development of pulmonary fibrosis. Mechanistically, TGFβ1-Nrp1 signaling enhances ILC2 function and type 2 immunity by upregulating IL-33 receptor ST2 expression. These findings identify Nrp1 as a tissue-specific regulator of lung-resident ILC2s and highlight Nrp1 as a potential therapeutic target for pulmonary fibrosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Coal dust exposure triggers heterogeneity of transcriptional profiles in mouse pneumoconiosis and Vitamin D remedies</title>
+      <link>https://example.com/article/35057792/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35057792/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Coal dust particles (CDP), an inevitable by-product of coal mining for the environment, mainly causes coal workers&amp;rsquo; pneumoconiosis (CWP). Long-term exposure to coal dust leads to a complex alternation of biological processes during regeneration and repair in the healing lung. However, the cellular and complete molecular changes associated with pulmonary homeostasis caused by respiratory coal dust particles remain unclear.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; This study mainly investigated the pulmonary toxicity of respirable-sized CDP in mice using unbiased single-cell RNA sequencing. CDP (&amp;lt; 5 μm) collected from the coal mine was analyzed by Scanning Electron Microscope (SEM) and Mass Spectrometer. In addition, western blotting, Elisa, QPCR was used to detect gene expression at mRNA or protein levels. Pathological analysis including HE staining, Masson staining, immunohistochemistry, and immunofluorescence staining were performed to characterize the structure and functional alternation in the pneumoconiosis mouse and verify the reliability of single-cell sequencing results.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SEM image and Mass Spectrometer analysis showed that coal dust particles generated during coal mine production have been crushed and screened with a diameter of less than 5 µm and contained less than 10% silica. Alveolar structure and pulmonary microenvironment were destroyed, inflammatory and death (apoptosis, autophagy, and necrosis) pathways were activated, leading to pneumoconiosis in post 9 months coal dust stimulation. A distinct abnormally increased alveolar type 2 epithelial cell (AT2) were classified with a highly active state but reduced the antimicrobial-related protein expression of LYZ and Chia1 after CDP exposure. Beclin1, LC3B, LAMP2, TGF-ß, and MLPH were up-regulated induced by CDP, promoting autophagy and pulmonary fibrosis. A new subset of macrophages with M2-type polarization double expressed MLPH + /CD206 + was found in mice having pneumoconiosis but markedly decreased after the Vitamin D treatment. Activated MLPH + /CD206 + M2 macrophages secreted TGF-β1 and are sensitive to Vitamin D treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This is the first study to reconstruct the pathologic progression and transcriptome pattern of coal pneumoconiosis in mice. Coal dust had obvious toxic effects on lung epithelial cells and macrophages and eventually induced pulmonary fibrosis. CDP-induced M2-type macrophages could be inhibited by VD, which may be related to the alleviation of the pulmonary fibrosis process.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>RBMS1 regulates lung cancer ferroptosis through translational control of SLC7A11</title>
