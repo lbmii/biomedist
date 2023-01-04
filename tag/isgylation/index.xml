@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISGylation | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/isgylation/</link>
+      <atom:link href="https://example.com/tag/isgylation/index.xml" rel="self" type="application/rss+xml" />
+    <description>ISGylation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>ISGylation</title>
+      <link>https://example.com/tag/isgylation/</link>
+    </image>
+    
+    <item>
+      <title>The E3 ubiquitin ligase ARIH1 promotes antiviral immunity and autoimmunity by inducing mono-ISGylation and oligomerization of cGAS</title>
+      <link>https://example.com/article/36217001/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36217001/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The cytosolic DNA sensor cyclic GMP-AMP synthase (cGAS) plays a critical role in antiviral immunity and autoimmunity. The activity and stability of cGAS are fine-tuned by post-translational modifications. Here, we show that ariadne RBR E3 ubiquitin protein ligase 1 (ARIH1) catalyzes the mono-ISGylation and induces the oligomerization of cGAS, thereby promoting antiviral immunity and autoimmunity. Knockdown or knockout of ARIH1 significantly inhibits herpes simplex virus 1 (HSV-1)- or cytoplasmic DNA-induced expression of type I interferons (IFNs) and proinflammatory cytokines. Consistently, tamoxifen-treated ER-Cre;Arih1&lt;sup&gt;fl/fl&lt;/sup&gt; mice and Lyz2-Cre; Arih1&lt;sup&gt;fl/fl&lt;/sup&gt; mice are hypersensitive to HSV-1 infection compared with the controls. In addition, deletion of ARIH1 in myeloid cells alleviates the autoimmune phenotypes and completely rescues the autoimmune lethality caused by TREX1 deficiency. Mechanistically, HSV-1- or cytosolic DNA-induced oligomerization and activation of cGAS are potentiated by ISGylation at its K187 residue, which is catalyzed by ARIH1. Our findings thus reveal an important role of ARIH1 in innate antiviral and autoimmune responses and provide insight into the post-translational regulation of cGAS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myristylation | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/myristylation/</link>
+      <atom:link href="https://example.com/tag/myristylation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myristylation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Myristylation</title>
+      <link>https://example.com/tag/myristylation/</link>
+    </image>
+    
+    <item>
+      <title>Targeting EGFR-dependent tumors by disrupting an ARF6-mediated sorting system</title>
+      <link>https://example.com/article/36224181/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36224181/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aberrant activation of EGFR due to overexpression or mutation is associated with poor prognosis in many types of tumors. Here we show that blocking the sorting system that directs EGFR to plasma membrane is a potent strategy to treat EGFR-dependent tumors. We find that EGFR palmitoylation by DHHC13 is critical for its plasma membrane localization and identify ARF6 as a key factor in this process. N-myristoylated ARF6 recognizes palmitoylated EGFR via lipid-lipid interaction, recruits the exocyst complex to promote EGFR budding from Golgi, and facilitates EGFR transporting to plasma membrane in a GTP-bound form. To evaluate the therapeutic potential of this sorting system, we design a cell-permeable peptide, N-myristoylated GKVL-TAT, and find it effectively disrupts plasma membrane localization of EGFR and significantly inhibits progression of EGFR-dependent tumors. Our findings shed lights on the underlying mechanism of how palmitoylation directs protein sorting and provide an potential strategy to manage EGFR-dependent tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

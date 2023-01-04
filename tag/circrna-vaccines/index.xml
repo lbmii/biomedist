@@ -5,12 +5,43 @@
     <link>https://example.com/tag/circrna-vaccines/</link>
       <atom:link href="https://example.com/tag/circrna-vaccines/index.xml" rel="self" type="application/rss+xml" />
     <description>circRNA Vaccines</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>circRNA Vaccines</title>
       <link>https://example.com/tag/circrna-vaccines/</link>
     </image>
+    
+    <item>
+      <title>Circular RNA cancer vaccines drive immunity in hard-to-treat malignancies</title>
+      <link>https://example.com/article/36168634/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36168634/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Messenger RNA (mRNA) vaccine outperforms other kinds of cancer immunotherapy due to its high response rates, easy preparation, and wide applicability, which is considered as one of the most promising forms of next-generation cancer therapies. However, the inherent instability and insufficient protein expression duration of mRNA limit the efficacy and widespread application of the vaccine.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here, we first tested the possibility of a novel circular RNA (circRNA) platform for protein expression and compare its duration with linear RNA. Then, we developed a lipid nanoparticle (LNP) system for circRNA delivery in vitro and in vivo. Next, the innate and adaptive immune response of circRNA-LNP complex was evaluated in vivo. The anti-tumor efficacy of circRNA-LNP was further confirmed in three tumor models. Finally, the possibility of combination therapy with circRNA-LNP and adoptive cell transfer therapy was further investigated in a late-stage tumor model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We successfully increased the stability of the RNA vaccine by circularizing the linear RNA molecules to form highly stable circRNA molecules which exhibited durable protein expression ability. By encapsulating the antigen-coding circRNA in LNP enabling in vivo expression, we established a novel circRNA vaccine platform, which was capable of triggering robust innate and adaptive immune activation and showed superior anti-tumor efficacy in multiple mouse tumor models.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Overall, our circRNA vaccine platform provides a novel prospect for the development of cancer RNA vaccines in a wide range of hard-to-treat malignancies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Circular RNA vaccines against SARS-CoV-2 and emerging variants</title>

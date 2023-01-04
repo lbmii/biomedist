@@ -5,12 +5,37 @@
     <link>https://example.com/tag/coronavirus/</link>
       <atom:link href="https://example.com/tag/coronavirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Coronavirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Coronavirus</title>
       <link>https://example.com/tag/coronavirus/</link>
     </image>
+    
+    <item>
+      <title>Acute and postacute sequelae associated with SARS-CoV-2 reinfection</title>
+      <link>https://example.com/article/36357676/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36357676/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is associated with increased risk of acute and postacute death and sequelae in various organ systems. Whether reinfection adds to risks incurred after first infection is unclear. Here we used the US Department of Veterans Affairs&amp;rsquo; national healthcare database to build a cohort of individuals with one SARS-CoV-2 infection (n = 443,588), reinfection (two or more infections, n = 40,947) and a noninfected control (n = 5,334,729). We used inverse probability-weighted survival models to estimate risks and 6-month burdens of death, hospitalization and incident sequelae. Compared to no reinfection, reinfection contributed additional risks of death (hazard ratio (HR) = 2.17, 95% confidence intervals (CI) 1.93-2.45), hospitalization (HR = 3.32, 95% CI 3.13-3.51) and sequelae including pulmonary, cardiovascular, hematological, diabetes, gastrointestinal, kidney, mental health, musculoskeletal and neurological disorders. The risks were evident regardless of vaccination status. The risks were most pronounced in the acute phase but persisted in the postacute phase at 6 months. Compared to noninfected controls, cumulative risks and burdens of repeat infection increased according to the number of infections. Limitations included a cohort of mostly white males. The evidence shows that reinfection further increases risks of death, hospitalization and sequelae in multiple organ systems in the acute and postacute phase. Reducing overall burden of death and disease due to SARS-CoV-2 will require strategies for reinfection prevention.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The human disease gene LYSET is essential for lysosomal enzyme transport and viral infection</title>
@@ -19,6 +44,31 @@
       <guid>https://example.com/article/36074821/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lysosomes are key degradative compartments of the cell. Transport to lysosomes relies on GlcNAc-1-phosphotransferase-mediated tagging of soluble enzymes with mannose 6-phosphate (M6P). GlcNAc-1-phosphotransferase deficiency leads to the severe lysosomal storage disorder mucolipidosis II (MLII). Several viruses require lysosomal cathepsins to cleave structural proteins and thus depend on functional GlcNAc-1-phosphotransferase. We used genome-scale CRISPR screens to identify lysosomal enzyme trafficking factor (LYSET, also named TMEM251) as essential for infection by cathepsin-dependent viruses including severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). LYSET deficiency resulted in global loss of M6P tagging and mislocalization of GlcNAc-1-phosphotransferase from the Golgi complex to lysosomes. &lt;em&gt;Lyset&lt;/em&gt; knockout mice exhibited MLII-like phenotypes, and human pathogenic LYSET alleles failed to restore lysosomal sorting defects. Thus, LYSET is required for correct functioning of the M6P trafficking machinery and mutations in LYSET can explain the phenotype of the associated disorder.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 disrupts host epigenetic regulation via histone mimicry</title>
+      <link>https://example.com/article/36198800/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36198800/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged at the end of 2019 and caused the devastating global pandemic of coronavirus disease 2019 (COVID-19), in part because of its ability to effectively suppress host cell responses. In rare cases, viral proteins dampen antiviral responses by mimicking critical regions of human histone proteins, particularly those containing post-translational modifications required for transcriptional regulation. Recent work has demonstrated that SARS-CoV-2 markedly disrupts host cell epigenetic regulation. However, how SARS-CoV-2 controls the host cell epigenome and whether it uses histone mimicry to do so remain unclear. Here we show that the SARS-CoV-2 protein encoded by ORF8 (ORF8) functions as a histone mimic of the ARKS motifs in histone H3 to disrupt host cell epigenetic regulation. ORF8 is associated with chromatin, disrupts regulation of critical histone post-translational modifications and promotes chromatin compaction. Deletion of either the ORF8 gene or the histone mimic site attenuates the ability of SARS-CoV-2 to disrupt host cell chromatin, affects the transcriptional response to infection and attenuates viral genome copy number. These findings demonstrate a new function of ORF8 and a mechanism through which SARS-CoV-2 disrupts host cell epigenetic regulation. Further, this work provides a molecular basis for the finding that SARS-CoV-2 lacking ORF8 is associated with decreased severity of COVID-19.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

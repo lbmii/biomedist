@@ -5,12 +5,37 @@
     <link>https://example.com/tag/kidney/</link>
       <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Kidney</title>
       <link>https://example.com/tag/kidney/</link>
     </image>
+    
+    <item>
+      <title>Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis</title>
+      <link>https://example.com/article/36265491/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36265491/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The underlying cellular events driving kidney fibrogenesis and metabolic dysfunction are incompletely understood. Here, we employed single-cell combinatorial indexing RNA sequencing to analyze 24 mouse kidneys from two fibrosis models. We profiled 309,666 cells in one experiment, representing 50 cell types/states encompassing epithelial, endothelial, immune, and stromal populations. Single-cell analysis identified diverse injury states of the proximal tubule, including two distinct early-phase populations with dysregulated lipid and amino acid metabolism, respectively. Lipid metabolism was defective in the chronic phase but was transiently activated in the very early stages of ischemia-induced injury, where we discovered increased lipid deposition and increased fatty acid β-oxidation. Perilipin 2 was identified as a surface marker of intracellular lipid droplets, and its knockdown in vitro disrupted cell energy state maintenance during lipid accumulation. Surveying epithelial cells across nephron segments identified shared and unique injury responses. Stromal cells exhibited high heterogeneity and contributed to fibrogenesis by epithelial-stromal crosstalk.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Insulin-like growth factor binding protein 7 promotes acute kidney injury by alleviating poly ADP ribose polymerase 1 degradation</title>

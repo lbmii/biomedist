@@ -5,12 +5,37 @@
     <link>https://example.com/tag/electron-microscopy/</link>
       <atom:link href="https://example.com/tag/electron-microscopy/index.xml" rel="self" type="application/rss+xml" />
     <description>Electron Microscopy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Electron Microscopy</title>
       <link>https://example.com/tag/electron-microscopy/</link>
     </image>
+    
+    <item>
+      <title>Recognition of cyclic dinucleotides and folates by human SLC19A1</title>
+      <link>https://example.com/article/36265513/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36265513/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cyclic dinucleotides (CDNs) are ubiquitous signalling molecules in all domains of life. Mammalian cells produce one CDN, 2&#39;3&amp;rsquo;-cGAMP, through cyclic GMP-AMP synthase after detecting cytosolic DNA signals. 2&#39;3&amp;rsquo;-cGAMP, as well as bacterial and synthetic CDN analogues, can act as second messengers to activate stimulator of interferon genes (STING) and elicit broad downstream responses. Extracellular CDNs must traverse the cell membrane to activate STING, a process that is dependent on the solute carrier SLC19A1. Moreover, SLC19A1 represents the major transporter for folate nutrients and antifolate therapeutics, thereby placing SLC19A1 as a key factor in multiple physiological and pathological processes. How SLC19A1 recognizes and transports CDNs, folate and antifolate is unclear. Here we report cryo-electron microscopy structures of human SLC19A1 (hSLC19A1) in a substrate-free state and in complexes with multiple CDNs from different sources, a predominant natural folate and a new-generation antifolate drug. The structural and mutagenesis results demonstrate that hSLC19A1 uses unique yet divergent mechanisms to recognize CDN- and folate-type substrates. Two CDN molecules bind within the hSLC19A1 cavity as a compact dual-molecule unit, whereas folate and antifolate bind as a monomer and occupy a distinct pocket of the cavity. Moreover, the structures enable accurate mapping and potential mechanistic interpretation of hSLC19A1 with loss-of-activity and disease-related mutations. Our research provides a framework for understanding the mechanism of SLC19-family transporters and is a foundation for the development of potential therapeutics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Activation of STING by targeting a pocket in the transmembrane domain</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/endosome/</link>
       <atom:link href="https://example.com/tag/endosome/index.xml" rel="self" type="application/rss+xml" />
     <description>Endosome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endosome</title>
       <link>https://example.com/tag/endosome/</link>
     </image>
+    
+    <item>
+      <title>Clathrin-associated AP-1 controls termination of STING signalling</title>
+      <link>https://example.com/article/36261523/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36261523/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stimulator of interferon genes (STING) functions downstream of cyclic GMP-AMP synthase in DNA sensing or as a direct receptor for bacterial cyclic dinucleotides and small molecules to activate immunity during infection, cancer and immunotherapy. Precise regulation of STING is essential to ensure balanced immune responses and prevent detrimental autoinflammation. After activation, STING, a transmembrane protein, traffics from the endoplasmic reticulum to the Golgi, where its phosphorylation by the protein kinase TBK1 enables signal transduction. The mechanism that ends STING signalling at the Golgi remains unknown. Here we show that adaptor protein complex 1 (AP-1) controls the termination of STING-dependent immune activation. We find that AP-1 sorts phosphorylated STING into clathrin-coated transport vesicles for delivery to the endolysosomal system, where STING is degraded. We identify a highly conserved dileucine motif in the cytosolic C-terminal tail (CTT) of STING that, together with TBK1-dependent CTT phosphorylation, dictates the AP-1 engagement of STING. A cryo-electron microscopy structure of AP-1 in complex with phosphorylated STING explains the enhanced recognition of TBK1-activated STING. We show that suppression of AP-1 exacerbates STING-induced immune responses. Our results reveal a structural mechanism of negative regulation of STING and establish that the initiation of signalling is inextricably associated with its termination to enable transient activation of immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A shared, stochastic pathway mediates exosome protein budding along plasma and endosome membranes</title>

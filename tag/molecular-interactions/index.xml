@@ -5,12 +5,44 @@
     <link>https://example.com/tag/molecular-interactions/</link>
       <atom:link href="https://example.com/tag/molecular-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Molecular Interactions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Molecular Interactions</title>
       <link>https://example.com/tag/molecular-interactions/</link>
     </image>
+    
+    <item>
+      <title>Spatially resolved epigenomic profiling of single cells in complex tissues</title>
+      <link>https://example.com/article/36272405/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36272405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Epigenomic MERFISH enables spatially resolved single-cell epigenomic profiling&lt;/li&gt;
+&lt;li&gt;Epigenomic MERFISH maps active promoters and putative enhancers in mouse brain&lt;/li&gt;
+&lt;li&gt;Epigenomic MERFISH reveals putative enhancer hubs in embryonic mouse brain&lt;/li&gt;
+&lt;li&gt;Epigenomic MERFISH images show sub-nuclear distributions of epigenetic loci&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The recent development of spatial omics methods has enabled single-cell profiling of the transcriptome and 3D genome organization with high spatial resolution. Expanding the repertoire of spatial omics tools, a spatially resolved single-cell epigenomics method will accelerate understanding of the spatial regulation of cell and tissue functions. Here, we report a method for spatially resolved epigenomic profiling of single cells using in situ tagmentation and transcription followed by multiplexed imaging. We demonstrated the ability to profile histone modifications marking active promoters, putative enhancers, and silent promoters in individual cells, and generated high-resolution spatial atlas of hundreds of active promoters and putative enhancers in embryonic and adult mouse brains. Our results suggested putative promoter-enhancer pairs and enhancer hubs regulating developmentally important genes. We envision this approach will be generally applicable to spatial profiling of epigenetic modifications and DNA-binding proteins, advancing our understanding of how gene expression is spatiotemporally regulated by the epigenome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Circular RNA circNFKB1 promotes osteoarthritis progression through interacting with ENO1 and sustaining NF-κB signaling</title>

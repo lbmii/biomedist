@@ -5,12 +5,77 @@
     <link>https://example.com/tag/phase-separation/</link>
       <atom:link href="https://example.com/tag/phase-separation/index.xml" rel="self" type="application/rss+xml" />
     <description>Phase Separation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Phase Separation</title>
       <link>https://example.com/tag/phase-separation/</link>
     </image>
+    
+    <item>
+      <title>WNK kinases sense molecular crowding and rescue cell volume via phase separation</title>
+      <link>https://example.com/article/36318922/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36318922/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Endogenous WNK1 forms hyperosmotic stress-induced condensates&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The intrinsically disordered C-terminal domain mediates WNK1 phase separation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Phase behavior of the WNK1 CTD is evolutionarily conserved despite sequence divergence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WNK1 is a molecular crowding sensor and mediator of regulatory volume increase&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When challenged by hypertonicity, dehydrated cells must recover their volume to survive. This process requires the phosphorylation-dependent regulation of SLC12 cation chloride transporters by WNK kinases, but how these kinases are activated by cell shrinkage remains unknown. Within seconds of cell exposure to hypertonicity, WNK1 concentrates into membraneless condensates, initiating a phosphorylation-dependent signal that drives net ion influx via the SLC12 cotransporters to restore cell volume. WNK1 condensate formation is driven by its intrinsically disordered C terminus, whose evolutionarily conserved signatures are necessary for efficient phase separation and volume recovery. This disorder-encoded phase behavior occurs within physiological constraints and is activated in vivo by molecular crowding rather than changes in cell size. This allows kinase activity despite an inhibitory ionic milieu and permits cell volume recovery through condensate-mediated signal amplification. Thus, WNK kinases are physiological crowding sensors that phase separate to coordinate a cell volume rescue response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>USP15 promotes cGAS activation through deubiquitylation and liquid condensation</title>
+      <link>https://example.com/article/36243958/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36243958/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Double-stranded DNA (dsDNA) is recognized as a danger signal by cyclic GMP-AMP synthase (cGAS), which triggers innate immune responses. cGAS activity must be properly regulated to maintain immune homeostasis. However, the mechanism by which cGAS activation is controlled remains to be better understood. In this study, we identified USP15 as a cGAS-interacting partner. USP15 promoted DNA-induced cGAS activation and downstream innate immune responses through a positive feedback mechanism. Specifically, USP15 deubiquitylated cGAS and promoted its activation. In the absence of DNA, USP15 drove cGAS dimerization and liquid condensation through the USP15 intrinsic disordered region (IDR), which prepared cGAS for a rapid response to DNA. Upon DNA stimulation, USP15 was induced to express and boost cGAS activation, functioning as an efficient amplifier in innate immune signal transduction. In summary, the positive role played by USP15-mediated cGAS activation may be a novel regulatory mechanism in the fine-tuning of innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Viral tegument proteins restrict cGAS-DNA phase separation to mediate immune evasion</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/nasopharynx/</link>
       <atom:link href="https://example.com/tag/nasopharynx/index.xml" rel="self" type="application/rss+xml" />
     <description>Nasopharynx</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Nasopharynx</title>
       <link>https://example.com/tag/nasopharynx/</link>
     </image>
+    
+    <item>
+      <title>Intercellular transfer of activated STING triggered by RAB22A-mediated non-canonical autophagy promotes antitumor immunity</title>
+      <link>https://example.com/article/36280710/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36280710/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;STING, an endoplasmic reticulum (ER) transmembrane protein, mediates innate immune activation upon cGAMP stimulation and is degraded through autophagy. Here, we report that activated STING could be transferred between cells to promote antitumor immunity, a process triggered by RAB22A-mediated non-canonical autophagy. Mechanistically, RAB22A engages PI4K2A to generate PI4P that recruits the Atg12-Atg5-Atg16L1 complex, inducing the formation of ER-derived RAB22A-mediated non-canonical autophagosome, in which STING activated by agonists or chemoradiotherapy is packaged. This RAB22A-induced autophagosome fuses with RAB22A-positive early endosome, generating a new organelle that we name Rafeesome (RAB22A-mediated non-canonical autophagosome fused with early endosome). Meanwhile, RAB22A inactivates RAB7 to suppress the fusion of Rafeesome with lysosome, thereby enabling the secretion of the inner vesicle of the autophagosome bearing activated STING as a new type of extracellular vesicle that we define as R-EV (RAB22A-induced extracellular vesicle). Activated STING-containing R-EVs induce IFNβ release from recipient cells to the tumor microenvironment, promoting antitumor immunity. Consistently, RAB22A enhances the antitumor effect of the STING agonist diABZI in mice, and a high RAB22A level predicts good survival in nasopharyngeal cancer patients treated with chemoradiotherapy. Our findings reveal that Rafeesome regulates the intercellular transfer of activated STING to trigger and spread antitumor immunity, and that the inner vesicle of non-canonical autophagosome originated from ER is secreted as R-EV, providing a new perspective for understanding the intercellular communication of organelle membrane proteins.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Whole-genome profiling of nasopharyngeal carcinoma reveals viral-host co-operation in inflammatory NF-κB activation and immune escape</title>

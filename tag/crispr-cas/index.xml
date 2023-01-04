@@ -5,12 +5,134 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>The phenotypic landscape of essential human genes</title>
+      <link>https://example.com/article/36347254/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36347254/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Image-based pooled screen of 5,072 essential genes reveals multidimensional phenotypes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Phenotypic clustering of cell image parameters defines diverse co-functional genes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Live-cell pooled imaging screen identifies genes required for chromosome segregation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A resource defining the phenotypic consequences of disrupting core cellular processes&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Understanding the basis for cellular growth, proliferation, and function requires determining the roles of essential genes in diverse cellular processes, including visualizing their contributions to cellular organization and morphology. Here, we combined pooled CRISPR-Cas9-based functional screening of 5,072 fitness-conferring genes in human HeLa cells with microscopy-based imaging of DNA, the DNA damage response, actin, and microtubules. Analysis of &amp;gt;31 million individual cells identified measurable phenotypes for &amp;gt;90% of gene knockouts, implicating gene targets in specific cellular processes. Clustering of phenotypic similarities based on hundreds of quantitative parameters further revealed co-functional genes across diverse cellular activities, providing predictions for gene functions and associations. By conducting pooled live-cell screening of ∼450,000 cell division events for 239 genes, we additionally identified diverse genes with functional contributions to chromosome segregation. Our work establishes a resource detailing the consequences of disrupting core cellular processes that represents the functional landscape of essential human genes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Precise DNA cleavage using CRISPR-SpRYgests</title>
+      <link>https://example.com/article/36203014/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36203014/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Methods for in vitro DNA cleavage and molecular cloning remain unable to precisely cleave DNA directly adjacent to bases of interest. Restriction enzymes (REs) must bind specific motifs, whereas wild-type CRISPR–Cas9 or CRISPR–Cas12 nucleases require protospacer adjacent motifs (PAMs). Here we explore the utility of our previously reported near-PAMless SpCas9 variant, named SpRY, to serve as a universal DNA cleavage tool for various cloning applications. By performing SpRY DNA digests (SpRYgests) using more than 130 guide RNAs (gRNAs) sampling a wide diversity of PAMs, we discovered that SpRY is PAMless in vitro and can cleave DNA at practically any sequence, including sites refractory to cleavage with wild-type SpCas9. We illustrate the versatility and effectiveness of SpRYgests to improve the precision of several cloning workflows, including those not possible with REs or canonical CRISPR nucleases. We also optimize a rapid and simple one-pot gRNA synthesis protocol to streamline SpRYgest implementation. Together, SpRYgests can improve various DNA engineering applications that benefit from precise DNA breaks.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Inhibition of the CtBP complex and FBXO11 enhances MHC class II expression and anti-cancer immune responses</title>
+      <link>https://example.com/article/36179686/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36179686/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The CtBP complex transcriptionally represses MHC class II pathway genes in AML&lt;/li&gt;
+&lt;li&gt;FBXO11 restricts MHC class II expression by targeting CIITA for degradation&lt;/li&gt;
+&lt;li&gt;Restoring MHC class II expression on leukemic blasts stimulates CD4+ T cell responses&lt;/li&gt;
+&lt;li&gt;Inducing tumor cell MHC class II may enhance alloSCT and immunotherapy outcomes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is increasing recognition of the prognostic significance of tumor cell major histocompatibility complex (MHC) class II expression in anti-cancer immunity. Relapse of acute myeloid leukemia (AML) following allogeneic stem cell transplantation (alloSCT) has recently been linked to MHC class II silencing in leukemic blasts; however, the regulation of MHC class II expression remains incompletely understood. Utilizing unbiased CRISPR-Cas9 screens, we identify that the C-terminal binding protein (CtBP) complex transcriptionally represses MHC class II pathway genes, while the E3 ubiquitin ligase complex component FBXO11 mediates degradation of CIITA, the principal transcription factor regulating MHC class II expression. Targeting these repressive mechanisms selectively induces MHC class II upregulation across a range of AML cell lines. Functionally, MHC class II+ leukemic blasts stimulate antigen-dependent CD4&lt;sup&gt;+&lt;/sup&gt; T cell activation and potent anti-tumor immune responses, providing fundamental insights into the graft-versus-leukemia effect. These findings establish the rationale for therapeutic strategies aimed at restoring tumor-specific MHC class II expression to salvage AML relapse post-alloSCT and also potentially to enhance immunotherapy outcomes in non-myeloid malignancies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Guide RNA engineering enables efficient CRISPR editing with a miniature Syntrophomonas palmitatica Cas12f1 nuclease</title>
+      <link>https://example.com/article/36170834/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36170834/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gene therapy is limited by inefficient delivery of large clustered regularly interspaced short palindromic repeat (CRISPR) effectors, such as Cas9 and Cas12a nucleases. Cas12f nucleases are currently one of the most compact CRISPR genome editors. However, the available toolkit of efficient Cas12f editors is limited. Here, we report the characterization and engineering of a miniature CRISPR-Cas12f system from Syntrophomonas palmitatica (SpaCas12f1, 497 amino acids). We show that CRISPR-SpaCas12f1 cleaves double-stranded DNA (dsDNA) with 5&amp;rsquo; T-rich PAM specificity and is naturally active for genome editing in bacteria. We identify that CRISPR-SpaCas12f1 trans-activating CRISPR RNA (tracrRNA) harbors a unique head-to-toe hairpin structure, and the natural hairpin structure is a key factor in restricting genome editing by SpaCas12f1 in human cells. Systematical engineering of SpaCas12f1 guide RNA transforms CRISPR-SpaCas12f1 into an efficient genome editor comparable to Francisella novicida CRISPR-Cas12a. Our findings expand the mini CRISPR toolbox, paving the way for therapeutic applications of CRISPR-SpaCas12f1 and engineering compact genome manipulation technologies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>In vivo CRISPR screens reveal the landscape of immune evasion pathways across cancer</title>

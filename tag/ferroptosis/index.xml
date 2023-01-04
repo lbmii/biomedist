@@ -5,12 +5,39 @@
     <link>https://example.com/tag/ferroptosis/</link>
       <atom:link href="https://example.com/tag/ferroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Ferroptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Ferroptosis</title>
       <link>https://example.com/tag/ferroptosis/</link>
     </image>
+    
+    <item>
+      <title>FerrDb V2: update of the manually curated database of ferroptosis regulators and ferroptosis-disease associations</title>
+      <link>https://example.com/article/36305834/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36305834/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.zhounan.org/ferrdb/current/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FerrDb&lt;/a&gt; is the world&amp;rsquo;s first database that dedicates to ferroptosis regulators and ferroptosis-disease associations. There are two secondary categories of ferroptosis regulators: (1) genes and (2) substances. Gene regulators include driver, suppressor, marker, and unclassified regulator. Substances cover a wide range of chemical entities, including pure substances (e.g., iron, erastin) and mixtures (e.g., herbal extracts). Substance regulators include inducers and inhibitors. On the basis of this philosophy, &lt;a href=&#34;http://www.zhounan.org/ferrdb/current/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FerrDb&lt;/a&gt; consists of seven independent curated data sets.&lt;/p&gt;
+&lt;!---more---&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a mode of regulated cell death characterized by iron-dependent accumulation of lipid peroxidation. It is closely linked to the pathophysiological processes in many diseases. Since our publication of the first ferroptosis database in 2020 (&lt;a href=&#34;http://www.zhounan.org/ferrdb/current/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FerrDb&lt;/a&gt; V1), many new findings have been published. To keep up with the rapid progress in ferroptosis research and to provide timely and high-quality data, here we present the successor, &lt;a href=&#34;http://www.zhounan.org/ferrdb/current/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FerrDb&lt;/a&gt; V2. It contains 1001 ferroptosis regulators and 143 ferroptosis-disease associations manually curated from 3288 articles. Specifically, there are 621 gene regulators, of which 264 are drivers, 238 are suppressors, 9 are markers, and 110 are unclassified genes; and there are 380 substance regulators, with 201 inducers and 179 inhibitors. Compared to &lt;a href=&#34;http://www.zhounan.org/ferrdb/current/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FerrDb&lt;/a&gt; V1, curated articles increase by &amp;gt;300%, ferroptosis regulators increase by 175%, and ferroptosis-disease associations increase by 50.5%. Circular RNA and pseudogene are novel regulators in &lt;a href=&#34;http://www.zhounan.org/ferrdb/current/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FerrDb&lt;/a&gt; V2, and the percentage of non-coding RNA increases from 7.3% to 13.6%. External gene-related data were integrated, enabling thought-provoking and gene-oriented analysis in FerrDb V2. In conclusion, &lt;a href=&#34;http://www.zhounan.org/ferrdb/current/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FerrDb&lt;/a&gt; V2 will help to acquire deeper insights into ferroptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Dynamic O-GlcNAcylation coordinates ferritinophagy and mitophagy to activate ferroptosis</title>

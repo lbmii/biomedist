@@ -5,12 +5,37 @@
     <link>https://example.com/tag/bone/</link>
       <atom:link href="https://example.com/tag/bone/index.xml" rel="self" type="application/rss+xml" />
     <description>Bone</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bone</title>
       <link>https://example.com/tag/bone/</link>
     </image>
+    
+    <item>
+      <title>Gasdermin D maintains bone mass by rewiring the endo-lysosomal pathway of osteoclastic bone resorption</title>
+      <link>https://example.com/article/36243012/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36243012/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gasdermin D (GSDMD)-mediated pyroptosis induces immunogenic cell death and promotes inflammation. However, the functions of GSDMD in tissue homeostasis remain unclear. Here, we identify a physiological function of GSDMD in osteoclasts via a non-lytic p20-generated protein, which prevents bone loss to maintain bone homeostasis. In the late stage of RANKL-induced osteoclastogenesis, GSDMD underwent cleavage, which is dependent on RIPK1 and caspase-8/-3, to yield this p20 product. Gsdmd-deficient osteoclasts showed normal differentiation but enhanced bone resorption with excessive lysosomal activity. Mice with complete or myeloid-specific Gsdmd deletion exhibited increased trabecular bone loss and more severe aging/ovariectomy-induced osteoporosis. GSDMD p20 was preferentially localized to early endosomes and limited endo-lysosomal trafficking and maturation, relying on its oligomerization and control of phosphoinositide conversion by binding to phosphatidylinositol 3-phosphate (PI(3)P). We have thus identified an anti-osteoclastic function of GSDMD as a checkpoint for lysosomal maturation and secretion and linked this to bone homeostasis and endosome-lysosome biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Propionate and butyrate attenuate macrophage pyroptosis and osteoclastogenesis induced by CoCrMo alloy particles</title>

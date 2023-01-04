@@ -313,6 +313,95 @@
     </item>
     
     <item>
+      <title>Immunological conversion of solid tumours using a bispecific nanobioconjugate for cancer immunotherapy</title>
+      <link>https://example.com/article/36357792/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36357792/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solid tumours display a limited response to immunotherapies. By contrast, haematological malignancies exhibit significantly higher response rates to immunotherapies as compared with solid tumours. Among several microenvironmental and biological disparities, the differential expression of unique immune regulatory molecules contributes significantly to the interaction of blood cancer cells with immune cells. The self-ligand receptor of the signalling lymphocytic activation molecule family member 7 (SLAMF7), a molecule that is critical in promoting the body&amp;rsquo;s innate immune cells to detect and engulf cancer cells, is expressed nearly exclusively on the cell surface of haematologic tumours, but not on solid ones. Here we show that a bispecific nanobioconjugate that enables the decoration of SLAMF7 on the surface of solid tumours induces robust phagocytosis and activates the phagocyte cyclic guanosine monophosphate-adenosine monophosphate synthase-stimulator of interferon genes (cGAS-STING) pathway, sensitizing the tumours to immune checkpoint blockade. Our findings support an immunological conversion strategy that uses nano-adjuvants to improve the effectiveness of immunotherapies for solid tumours.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spatially resolved epigenomic profiling of single cells in complex tissues</title>
+      <link>https://example.com/article/36272405/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36272405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Epigenomic MERFISH enables spatially resolved single-cell epigenomic profiling&lt;/li&gt;
+&lt;li&gt;Epigenomic MERFISH maps active promoters and putative enhancers in mouse brain&lt;/li&gt;
+&lt;li&gt;Epigenomic MERFISH reveals putative enhancer hubs in embryonic mouse brain&lt;/li&gt;
+&lt;li&gt;Epigenomic MERFISH images show sub-nuclear distributions of epigenetic loci&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The recent development of spatial omics methods has enabled single-cell profiling of the transcriptome and 3D genome organization with high spatial resolution. Expanding the repertoire of spatial omics tools, a spatially resolved single-cell epigenomics method will accelerate understanding of the spatial regulation of cell and tissue functions. Here, we report a method for spatially resolved epigenomic profiling of single cells using in situ tagmentation and transcription followed by multiplexed imaging. We demonstrated the ability to profile histone modifications marking active promoters, putative enhancers, and silent promoters in individual cells, and generated high-resolution spatial atlas of hundreds of active promoters and putative enhancers in embryonic and adult mouse brains. Our results suggested putative promoter-enhancer pairs and enhancer hubs regulating developmentally important genes. We envision this approach will be generally applicable to spatial profiling of epigenetic modifications and DNA-binding proteins, advancing our understanding of how gene expression is spatiotemporally regulated by the epigenome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial maps of T cell receptors and transcriptomes reveal distinct immune niches and interactions in the adaptive immune response</title>
+      <link>https://example.com/article/36223726/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36223726/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slide-TCR-seq measures the location, clonotype, and gene expression of T cells&lt;/li&gt;
+&lt;li&gt;Germinal centers in human lymph nodes and tonsil have spatially segregated T clones&lt;/li&gt;
+&lt;li&gt;Cancers can show spatial and transcriptomic inter- and intra-clonotype heterogeneity&lt;/li&gt;
+&lt;li&gt;Expression profiles differ between T clones in neighboring monocytes and tumor cells&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;T cells mediate antigen-specific immune responses to disease through the specificity and diversity of their clonotypic T cell receptors (TCRs). Determining the spatial distributions of T cell clonotypes in tissues is essential to understanding T cell behavior, but spatial sequencing methods remain unable to profile the TCR repertoire. Here, we developed Slide-TCR-seq, a 10-μm-resolution method, to sequence whole transcriptomes and TCRs within intact tissues. We confirmed the ability of Slide-TCR-seq to map the characteristic locations of T cells and their receptors in mouse spleen. In human lymphoid germinal centers, we identified spatially distinct TCR repertoires. Profiling T cells in renal cell carcinoma and melanoma specimens revealed heterogeneous immune responses: T cell states and infiltration differed intra- and inter-clonally, and adjacent tumor and immune cells exhibited distinct gene expression. Altogether, our method yields insights into the spatial relationships between clonality, neighboring cell types, and gene expression that drive T cell responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>DeepCIP: a multimodal deep learning method for the prediction of internal ribosome entry sites of circRNAs</title>
       <link>https://example.com/article/23-01-02-19-17/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
@@ -322,6 +411,81 @@
 &lt;p&gt;Circular RNAs (circRNAs) have been found to have the potential to code proteins. Internal ribosome entry sites (IRESs) are key RNA regulatory elements for the translation of proteins by circRNAs through a cap-independent mechanism. IRES can be identified by bicistronic assay, but the method is time-consuming and laborious. Therefore, it is important to develop computational methods for facilitating IRES identification, evaluation, and design in circRNAs.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In this study, we proposed DeepCIP, a multimodal deep learning approach for circRNA IRES prediction, by exploiting both sequence and structure information. As far as we know, DeepCIP is the first predictor for circRNA IRESs, which consists of an RNA processing module, an S-LSTM module, a GCN module, a feature fusion module, and an ensemble module. The comparative studies show that DeepCIP outperforms other comparative methods and justify the effectiveness of the sequence model and structure model of DeepCIP for extracting features. We found that the integration of structural information on the basis of sequence information effectively improves predictive performance. For the real circRNA IRES prediction, DeepCIP also outperforms other methods. DeepCIP may facilitate the study of the coding potential of circRNAs as well as the design of circRNA drugs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Precise DNA cleavage using CRISPR-SpRYgests</title>
+      <link>https://example.com/article/36203014/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36203014/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Methods for in vitro DNA cleavage and molecular cloning remain unable to precisely cleave DNA directly adjacent to bases of interest. Restriction enzymes (REs) must bind specific motifs, whereas wild-type CRISPR–Cas9 or CRISPR–Cas12 nucleases require protospacer adjacent motifs (PAMs). Here we explore the utility of our previously reported near-PAMless SpCas9 variant, named SpRY, to serve as a universal DNA cleavage tool for various cloning applications. By performing SpRY DNA digests (SpRYgests) using more than 130 guide RNAs (gRNAs) sampling a wide diversity of PAMs, we discovered that SpRY is PAMless in vitro and can cleave DNA at practically any sequence, including sites refractory to cleavage with wild-type SpCas9. We illustrate the versatility and effectiveness of SpRYgests to improve the precision of several cloning workflows, including those not possible with REs or canonical CRISPR nucleases. We also optimize a rapid and simple one-pot gRNA synthesis protocol to streamline SpRYgest implementation. Together, SpRYgests can improve various DNA engineering applications that benefit from precise DNA breaks.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Programmable RNA sensing for cell monitoring and manipulation</title>
+      <link>https://example.com/article/36198803/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36198803/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA is a central and universal mediator of genetic information underlying the diversity of cell types and cell states, which together shape tissue organization and organismal function across species and lifespans. Despite numerous advances in RNA sequencing technologies and the massive accumulation of transcriptome datasets across the life sciences1,2, the dearth of technologies that use RNAs to observe and manipulate cell types remains a bottleneck in biology and medicine. Here we describe CellREADR (Cell access through RNA sensing by Endogenous ADAR), a programmable RNA-sensing technology that leverages RNA editing mediated by ADAR to couple the detection of cell-defining RNAs with the translation of effector proteins. Viral delivery of CellREADR conferred specific cell-type access in mouse and rat brains and in ex vivo human brain tissues. Furthermore, CellREADR enabled the recording and control of specific types of neurons in behaving mice. CellREADR thus highlights the potential for RNA-based monitoring and editing of animal cells in ways that are specific, versatile, simple and generalizable across organ systems and species, with wide applications in biology, biotechnology and programmable RNA medicine.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Guide RNA engineering enables efficient CRISPR editing with a miniature Syntrophomonas palmitatica Cas12f1 nuclease</title>
+      <link>https://example.com/article/36170834/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36170834/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gene therapy is limited by inefficient delivery of large clustered regularly interspaced short palindromic repeat (CRISPR) effectors, such as Cas9 and Cas12a nucleases. Cas12f nucleases are currently one of the most compact CRISPR genome editors. However, the available toolkit of efficient Cas12f editors is limited. Here, we report the characterization and engineering of a miniature CRISPR-Cas12f system from Syntrophomonas palmitatica (SpaCas12f1, 497 amino acids). We show that CRISPR-SpaCas12f1 cleaves double-stranded DNA (dsDNA) with 5&amp;rsquo; T-rich PAM specificity and is naturally active for genome editing in bacteria. We identify that CRISPR-SpaCas12f1 trans-activating CRISPR RNA (tracrRNA) harbors a unique head-to-toe hairpin structure, and the natural hairpin structure is a key factor in restricting genome editing by SpaCas12f1 in human cells. Systematical engineering of SpaCas12f1 guide RNA transforms CRISPR-SpaCas12f1 into an efficient genome editor comparable to Francisella novicida CRISPR-Cas12a. Our findings expand the mini CRISPR toolbox, paving the way for therapeutic applications of CRISPR-SpaCas12f1 and engineering compact genome manipulation technologies.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

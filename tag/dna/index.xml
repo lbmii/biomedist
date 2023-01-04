@@ -5,7 +5,7 @@
     <link>https://example.com/tag/dna/</link>
       <atom:link href="https://example.com/tag/dna/index.xml" rel="self" type="application/rss+xml" />
     <description>DNA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>DNA</title>
@@ -29,6 +29,63 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhanced DNA repair through droplet formation and p53 oscillations</title>
+      <link>https://example.com/article/36368307/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36368307/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;p53 oscillations optimize DNA repair compared to cells with sustained levels&lt;/li&gt;
+&lt;li&gt;Enhanced DNA repair efficiency may be achieved by suppression of Ostwald ripening&lt;/li&gt;
+&lt;li&gt;Natural p53 periodicity and amplitude enable optimal distribution of repair material&lt;/li&gt;
+&lt;li&gt;Oscillations enhance robustness of DNA damage response in stochastic environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Living organisms are constantly exposed to DNA damage, and optimal repair is therefore crucial. A characteristic hallmark of the response is the formation of sub-compartments around the site of damage, known as foci. Following multiple DNA breaks, the transcription factor p53 exhibits oscillations in its nuclear concentration, but how this dynamics can affect the repair remains unknown. Here, we formulate a theory for foci formation through droplet condensation and discover how oscillations in p53, with its specific periodicity and amplitude, optimize the repair process by preventing Ostwald ripening and distributing protein material in space and time. Based on the theory predictions, we reveal experimentally that the oscillatory dynamics of p53 does enhance the repair efficiency. These results connect the dynamical signaling of p53 with the microscopic repair process and create a new paradigm for the interplay of complex dynamics and phase transitions in biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>EV-ADD, a database for EV-associated DNA in human liquid biopsy samples</title>
+      <link>https://example.com/article/36271888/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36271888/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular vesicles (EVs) play a key role in cellular communication both in physiological conditions and in pathologies such as cancer. Emerging evidence has shown that EVs are active carriers of molecular cargo (e.g. protein and nucleic acids) and a powerful source of biomarkers and targets. While recent studies on EV-associated DNA (EV-DNA) in human biofluids have generated a large amount of data, there is currently no database that catalogues information on EV-DNA. To fill this gap, we have manually curated a database of EV-DNA data derived from human biofluids (liquid biopsy) and in-vitro studies, called the &lt;a href=&#34;%28www.evdnadatabase.com%29&#34;&gt;&lt;strong&gt;Extracellular Vesicle-Associated DNA Database (EV-ADD)&lt;/strong&gt;&lt;/a&gt;. This database contains validated experimental details and data extracted from peer-reviewed published literature. It can be easily queried to search for EV isolation methods and characterization, EV-DNA isolation techniques, quality validation, DNA fragment size, volume of starting material, gene names and disease context. Currently, our database contains samples representing 23 diseases, with 13 different types of EV isolation techniques applied on eight different human biofluids (e.g. blood, saliva). In addition, &lt;a href=&#34;www.evdnadatabase.com&#34;&gt;&lt;strong&gt;EV-ADD&lt;/strong&gt;&lt;/a&gt; encompasses EV-DNA data both representing the whole genome and specifically including oncogenes, such as KRAS, EGFR, BRAF, MYC, and mitochondrial DNA (mtDNA). An &lt;a href=&#34;www.evdnadatabase.com&#34;&gt;&lt;strong&gt;EV-ADD&lt;/strong&gt;&lt;/a&gt; data metric system was also integrated to assign a compliancy score to the MISEV guidelines based on experimental parameters reported in each study. While currently available databases document the presence of proteins, lipids, RNA and metabolites in EVs (e.g. Vesiclepedia, ExoCarta, ExoBCD, EVpedia, and EV-TRACK), to the best of our knowledge, &lt;a href=&#34;www.evdnadatabase.com&#34;&gt;&lt;strong&gt;EV-ADD&lt;/strong&gt;&lt;/a&gt; is the first of its kind to compile all available EV-DNA datasets derived from human biofluid samples. We believe that this database provides an important reference resource on EV-DNA-based liquid biopsy research, serving as a learning tool and to showcase the latest developments in the EV-DNA field. &lt;a href=&#34;www.evdnadatabase.com&#34;&gt;&lt;strong&gt;EV-ADD&lt;/strong&gt;&lt;/a&gt; will be updated yearly as newly published EV-DNA data becomes available.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
 </description>
     </item>
     

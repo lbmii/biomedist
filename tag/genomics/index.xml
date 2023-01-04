@@ -257,6 +257,46 @@
     </item>
     
     <item>
+      <title>The phenotypic landscape of essential human genes</title>
+      <link>https://example.com/article/36347254/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36347254/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Image-based pooled screen of 5,072 essential genes reveals multidimensional phenotypes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Phenotypic clustering of cell image parameters defines diverse co-functional genes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Live-cell pooled imaging screen identifies genes required for chromosome segregation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A resource defining the phenotypic consequences of disrupting core cellular processes&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Understanding the basis for cellular growth, proliferation, and function requires determining the roles of essential genes in diverse cellular processes, including visualizing their contributions to cellular organization and morphology. Here, we combined pooled CRISPR-Cas9-based functional screening of 5,072 fitness-conferring genes in human HeLa cells with microscopy-based imaging of DNA, the DNA damage response, actin, and microtubules. Analysis of &amp;gt;31 million individual cells identified measurable phenotypes for &amp;gt;90% of gene knockouts, implicating gene targets in specific cellular processes. Clustering of phenotypic similarities based on hundreds of quantitative parameters further revealed co-functional genes across diverse cellular activities, providing predictions for gene functions and associations. By conducting pooled live-cell screening of ∼450,000 cell division events for 239 genes, we additionally identified diverse genes with functional contributions to chromosome segregation. Our work establishes a resource detailing the consequences of disrupting core cellular processes that represents the functional landscape of essential human genes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Download genome annotation files from GENCODE</title>
       <link>https://example.com/blog/2022-11-01-dl-genome-annot-gencode/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>

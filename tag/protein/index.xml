@@ -5,12 +5,40 @@
     <link>https://example.com/tag/protein/</link>
       <atom:link href="https://example.com/tag/protein/index.xml" rel="self" type="application/rss+xml" />
     <description>Protein</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Protein</title>
       <link>https://example.com/tag/protein/</link>
     </image>
+    
+    <item>
+      <title>Histone Lactylation Boosts Reparative Gene Activation Post-Myocardial Infarction</title>
+      <link>https://example.com/article/36268709/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36268709/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Inflammation resolution and cardiac repair initiation after myocardial infarction (MI) require timely activation of reparative signals. Histone lactylation confers macrophage homeostatic gene expression signatures via transcriptional regulation. However, the role of histone lactylation in the repair response post-MI remains unclear. We aimed to investigate whether histone lactylation induces reparative gene expression in monocytes early and remotely post-MI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Single-cell transcriptome data indicated that reparative genes were activated early and remotely in bone marrow and circulating monocytes before cardiac recruitment. Western blotting and immunofluorescence staining revealed increases in histone lactylation levels, including the previously identified histone H3K18 lactylation in monocyte-macrophages early post-MI. Through joint CUT&amp;amp;Tag and RNA-sequencing analyses, we identified Lrg1, Vegf-a, and IL-10 as histone H3K18 lactylation target genes. The increased modification and expression levels of these target genes post-MI were verified by chromatin immunoprecipitation-qPCR and reverse transcription-qPCR.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We demonstrated that histone lactylation regulates the anti-inflammatory and pro-angiogenic dual activities of monocyte-macrophages by facilitating reparative gene transcription and confirmed that histone lactylation favors a reparative environment and improves cardiac function post-MI. Furthermore, we explored the potential positive role of monocyte histone lactylation in reperfused MI. Mechanistically, we provided new evidence that monocytes undergo metabolic reprogramming in the early stage of MI and demonstrated that dysregulated glycolysis and MCT1 (monocarboxylate transporter 1)-mediated lactate transport promote histone lactylation. Finally, we revealed the catalytic effect of IL (interleukin)-1β-dependent GCN5 (general control non-depressible 5) recruitment on histone H3K18 lactylation and elucidated its potential role as an upstream regulatory element in the regulation of monocyte histone lactylation and downstream reparative gene expression post-MI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Histone lactylation promotes early remote activation of the reparative transcriptional response in monocytes, which is essential for the establishment of immune homeostasis and timely activation of the cardiac repair process post-MI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Encyclopedia of transcription factor</title>
