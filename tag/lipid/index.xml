@@ -5,12 +5,65 @@
     <link>https://example.com/tag/lipid/</link>
       <atom:link href="https://example.com/tag/lipid/index.xml" rel="self" type="application/rss+xml" />
     <description>Lipid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lipid</title>
       <link>https://example.com/tag/lipid/</link>
     </image>
+    
+    <item>
+      <title>Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression</title>
+      <link>https://example.com/article/36444722/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36444722/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Excess cholesterol accumulation in lesional macrophages elicits complex responses in atherosclerosis. Epsins, a family of endocytic adaptors, fuel the progression of atherosclerosis; however, the underlying mechanism and therapeutic potential of targeting Epsins remains unknown. In this study, we determined the role of Epsins in macrophage-mediated metabolic regulation. We then developed an innovative method to therapeutically target macrophage Epsins with specially designed S2P-conjugated lipid nanoparticles, which encapsulate small-interfering RNAs to suppress Epsins.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We used single-cell RNA sequencing with our newly developed algorithm MEBOCOST to study cell-cell communications mediated by metabolites from sender cells and sensor proteins on receiver cells. Biomedical, cellular, and molecular approaches were utilized to investigate the role of macrophage Epsins in regulating lipid metabolism and transport. We performed this study using myeloid-specific Epsin double knockout (LysM-DKO) mice and mice with a genetic reduction of ABCG1 (ATP-binding cassette subfamily G member 1; LysM-DKO-ABCG1&lt;sup&gt;fl/+&lt;/sup&gt;). The nanoparticles targeting lesional macrophages were developed to encapsulate interfering RNAs to treat atherosclerosis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We revealed that Epsins regulate lipid metabolism and transport in atherosclerotic macrophages. Inhibiting Epsins by nanotherapy halts inflammation and accelerates atheroma resolution. Harnessing lesional macrophage-specific nanoparticle delivery of Epsin small-interfering RNAs, we showed that silencing of macrophage Epsins diminished atherosclerotic plaque size and promoted plaque regression. Mechanistically, we demonstrated that Epsins bound to CD36 to facilitate lipid uptake by enhancing CD36 endocytosis and recycling. Conversely, Epsins promoted ABCG1 degradation via lysosomes and hampered ABCG1-mediated cholesterol efflux and reverse cholesterol transport. In a LysM-DKO-ABCG1&lt;sup&gt;fl/+&lt;/sup&gt; mouse model, enhanced cholesterol efflux and reverse transport due to Epsin deficiency was suppressed by the reduction of ABCG1.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings suggest that targeting Epsins in lesional macrophages may offer therapeutic benefits for advanced atherosclerosis by reducing CD36-mediated lipid uptake and increasing ABCG1-mediated cholesterol efflux.
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A multivalent nucleoside-modified mRNA vaccine against all known influenza virus subtypes</title>
+      <link>https://example.com/article/36423275/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36423275/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Seasonal influenza vaccines offer little protection against pandemic influenza virus strains. It is difficult to create effective prepandemic vaccines because it is uncertain which influenza virus subtype will cause the next pandemic. In this work, we developed a nucleoside-modified messenger RNA (mRNA)-lipid nanoparticle vaccine encoding hemagglutinin antigens from all 20 known influenza A virus subtypes and influenza B virus lineages. This multivalent vaccine elicited high levels of cross-reactive and subtype-specific antibodies in mice and ferrets that reacted to all 20 encoded antigens. Vaccination protected mice and ferrets challenged with matched and mismatched viral strains, and this protection was at least partially dependent on antibodies. Our studies indicate that mRNA vaccines can provide protection against antigenically variable viruses by simultaneously inducing antibodies against multiple antigens.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>TMEM41B acts as an ER scramblase required for lipoprotein biogenesis and lipid homeostasis</title>

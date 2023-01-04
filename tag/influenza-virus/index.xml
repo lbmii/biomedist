@@ -5,12 +5,37 @@
     <link>https://example.com/tag/influenza-virus/</link>
       <atom:link href="https://example.com/tag/influenza-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Influenza Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Influenza Virus</title>
       <link>https://example.com/tag/influenza-virus/</link>
     </image>
+    
+    <item>
+      <title>A multivalent nucleoside-modified mRNA vaccine against all known influenza virus subtypes</title>
+      <link>https://example.com/article/36423275/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36423275/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Seasonal influenza vaccines offer little protection against pandemic influenza virus strains. It is difficult to create effective prepandemic vaccines because it is uncertain which influenza virus subtype will cause the next pandemic. In this work, we developed a nucleoside-modified messenger RNA (mRNA)-lipid nanoparticle vaccine encoding hemagglutinin antigens from all 20 known influenza A virus subtypes and influenza B virus lineages. This multivalent vaccine elicited high levels of cross-reactive and subtype-specific antibodies in mice and ferrets that reacted to all 20 encoded antigens. Vaccination protected mice and ferrets challenged with matched and mismatched viral strains, and this protection was at least partially dependent on antibodies. Our studies indicate that mRNA vaccines can provide protection against antigenically variable viruses by simultaneously inducing antibodies against multiple antigens.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PSMD12-Mediated M1 Ubiquitination of Influenza A Virus at K102 Regulates Viral Replication</title>

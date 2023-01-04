@@ -5,12 +5,114 @@
     <link>https://example.com/tag/molecular-interactions/</link>
       <atom:link href="https://example.com/tag/molecular-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Molecular Interactions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Molecular Interactions</title>
       <link>https://example.com/tag/molecular-interactions/</link>
     </image>
+    
+    <item>
+      <title>Monitoring of cell-cell communication and contact history in mammals</title>
+      <link>https://example.com/article/36454848/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36454848/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monitoring of cell-cell communication in multicellular organisms is fundamental to understanding diverse biological processes such as embryogenesis and tumorigenesis. To track cell-cell contacts in vivo, we developed an intercellular genetic technology to monitor cell-cell contact and to trace cell contact histories by permanently marking contacts between cells. In mice, we engineered an artificial Notch ligand into one cell (the sender cell) and an artificial receptor into another cell (the receiver cell). Contact between the sender and receiver cells triggered a synthetic Notch signaling that activated downstream transcriptional programs in the receiver cell, thereby transiently or permanently labeling it. In vivo cell-cell contact was observed during development, tissue homeostasis, and tumor growth. This technology may be useful for studying dynamic in vivo cell-cell contacts and cell fate plasticity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantification of extracellular proteins, protein complexes and mRNAs in single cells by proximity sequencing</title>
+      <link>https://example.com/article/36456784/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36456784/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We present proximity sequencing (Prox-seq) for simultaneous measurement of proteins, protein complexes and mRNAs in thousands of single cells. Prox-seq combines proximity ligation assay with single-cell sequencing to measure proteins and their complexes from all pairwise combinations of targeted proteins, providing quadratically scaled multiplexing. We validate Prox-seq and analyze a mixture of T cells and B cells to show that it accurately identifies these cell types and detects well-known protein complexes. Next, by studying human peripheral blood mononuclear cells, we discover that naïve CD8+ T cells display the protein complex CD8-CD9. Finally, we study protein interactions during Toll-like receptor (TLR) signaling in human macrophages. We observe the formation of signal-specific protein complexes, find CD36 co-receptor activity and additive signal integration under lipopolysaccharide (TLR4) and Pam2CSK4 (TLR2) stimulation, and show that quantification of protein complexes identifies signaling inputs received by macrophages. Prox-seq provides access to an untapped measurement modality for single-cell phenotyping and can discover uncharacterized protein interactions in different cell types.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interference with LTβR signaling by tick saliva facilitates transmission of Lyme disease spirochetes</title>
+      <link>https://example.com/article/36383602/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36383602/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lyme spirochetes have coevolved with ticks to optimize transmission to hosts using tick salivary molecules (TSMs) to counteract host defenses. TSMs modulate various molecular events at the tick-host interface. Lymphotoxin-beta receptor (LTβR) is a vital immune receptor and plays protective roles in host immunity against microbial infections. We found that &lt;em&gt;Ltbr&lt;/em&gt; knockout mice were more susceptible to Lyme disease spirochetes, suggesting the involvement of LTβR signaling in tick-borne &lt;em&gt;Borrelia&lt;/em&gt; infection. Further investigation showed that a 15-kDa TSM protein from &lt;em&gt;Ixodes persulcatus&lt;/em&gt; (&lt;em&gt;I. persulcatus salivary&lt;/em&gt; protein; IpSAP) functioned as an immunosuppressant to facilitate the transmission and infection of Lyme disease spirochetes. IpSAP directly interacts with LTβR to block its activation, thus inhibiting the downstream signaling and consequently suppressing immunity. IpSAP immunization provided mice with significant protection against &lt;em&gt;I. persulcatus&lt;/em&gt;-mediated &lt;em&gt;Borrelia garinii&lt;/em&gt; infection. Notably, the immunization showed considerable cross-protection against other &lt;em&gt;Borrelia&lt;/em&gt; infections mediated by other ixodid ticks. One of the IpSAP homologs from other ixodid ticks showed similar effects on Lyme spirochete transmission. Together, our findings suggest that LTβR signaling plays an important role in blocking the transmission and pathogenesis of tick-borne Lyme disease spirochetes, and that IpSAP and its homologs are promising candidates for broad-spectrum vaccine development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NPInter v5.0: ncRNA interaction database in a new era</title>
+      <link>https://example.com/article/36373614/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36373614/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; documents functional interactions between noncoding RNAs (except tRNAs and rRNAs) and biomolecules (proteins, RNAs and DNAs) which are experimentally verified. By functional interactions, we mean primarily physical interactions, although several interactions of other forms also appear here. Interactions are manually collected from publication in peer-reviewed journals, followed by an annotation process against known databases including NONCODE, miRBase and UniProt. We introduce a classification of the functional interaction data, which is based on the functional interaction process the ncRNA takes part in. &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; also provides an efficient search option, allowing discovery of interactions, related publications and other information. &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is one of the 42 expert databases chosen by RNAcentral database.&lt;/p&gt;
+&lt;!---more---&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Noncoding RNAs (ncRNAs) play key regulatory roles in biological processes by interacting with other biomolecules. With the development of high-throughput sequencing and experimental technologies, extensive ncRNA interactions have been accumulated. Therefore, we updated the &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; database to a fifth version to document these interactions. ncRNA interaction entries were doubled from 1 100 618 to 2 596 695 by manual literature mining and high-throughput data processing. We integrated global RNA-DNA interactions from iMARGI, ChAR-seq and GRID-seq, greatly expanding the number of RNA-DNA interactions (from 888 915 to 8 329 382). In addition, we collected different types of RNA interaction between SARS-CoV-2 virus and its host from recently published studies. Long noncoding RNA (lncRNA) expression specificity in different cell types from tumor single cell RNA-seq (scRNA-seq) data were also integrated to provide a cell-type level view of interactions. A new module named RBP was built to display the interactions of RNA-binding proteins with annotations of localization, binding domains and functions. In conclusion, &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter v5.0&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; provides informative and valuable ncRNA interactions for biological researchers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Spatially resolved epigenomic profiling of single cells in complex tissues</title>

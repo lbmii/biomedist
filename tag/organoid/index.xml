@@ -5,12 +5,102 @@
     <link>https://example.com/tag/organoid/</link>
       <atom:link href="https://example.com/tag/organoid/index.xml" rel="self" type="application/rss+xml" />
     <description>Organoid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Organoid</title>
       <link>https://example.com/tag/organoid/</link>
     </image>
+    
+    <item>
+      <title>Generation and multiomic profiling of a TP53/CDKN2A double-knockout gastroesophageal junction organoid model</title>
+      <link>https://example.com/article/36449602/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36449602/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inactivation of the tumor suppressor genes tumor protein p53 (&lt;em&gt;TP53&lt;/em&gt;) and cyclin-dependent kinase inhibitor 2A (&lt;em&gt;CDKN2A&lt;/em&gt;) occurs early during gastroesophageal junction (GEJ) tumorigenesis. However, because of a paucity of GEJ-specific disease models, cancer-promoting consequences of &lt;em&gt;TP53&lt;/em&gt; and &lt;em&gt;CDKN2A&lt;/em&gt; inactivation at the GEJ have not been characterized. Here, we report the development of a wild-type primary human GEJ organoid model and a CRISPR-edited transformed GEJ organoid model. CRISPR-Cas9–mediated &lt;em&gt;TP53&lt;/em&gt; and &lt;em&gt;CDKN2A&lt;/em&gt; knockout (&lt;em&gt;TP53/CDKN2A&lt;sup&gt;KO&lt;/sup&gt;&lt;/em&gt;) in GEJ organoids induced morphologic dysplasia and proneoplastic features in vitro and tumor formation in vivo. Lipidomic profiling identified several platelet-activating factors (PTAFs) among the most up-regulated lipids in CRISPR-edited organoids. PTAF/PTAF receptor (PTAFR) abrogation by siRNA knockdown or a pharmacologic inhibitor (WEB2086) reduced proliferation and other proneoplastic features of &lt;em&gt;TP53/CDKN2A&lt;sup&gt;KO&lt;/sup&gt;&lt;/em&gt; GEJ organoids in vitro and tumor formation in vivo. In addition, murine xenografts of Eso26, an established human esophageal adenocarcinoma cell line, were suppressed by WEB2086. Mechanistically, &lt;em&gt;TP53/CDKN2A&lt;/em&gt; dual inactivation disrupted both the transcriptome and the DNA methylome, likely mediated by key transcription factors, particularly forkhead box M1 (FOXM1). FOXM1 activated &lt;em&gt;PTAFR&lt;/em&gt; transcription by binding to the &lt;em&gt;PTAFR&lt;/em&gt; promoter, further amplifying the PTAF-PTAFR pathway. Together, these studies established a robust model system for investigating early GEJ neoplastic events, identified crucial metabolic and epigenomic changes occurring during GEJ model tumorigenesis, and revealed a potential cancer therapeutic strategy. This work provides insights into proneoplastic mechanisms associated with &lt;em&gt;TP53/CDKN2A&lt;/em&gt; inactivation in early GEJ neoplasia, which may facilitate early diagnosis and prevention of GEJ neoplasms.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>B cell expansion hinders the stroma-epithelium regenerative cross talk during mucosal healing</title>
+      <link>https://example.com/article/36462502/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36462502/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;B cells are the dominant immune cell type during colonic mucosal healing (MH)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IFN-induced B cells are associated with injury and expand during MH&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B cell depletion results in enhanced MH following intestinal injury&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B cells impair the interactions between IEC and stromal cells during MH&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutic promotion of intestinal regeneration holds great promise, but defining the cellular mechanisms that influence tissue regeneration remains an unmet challenge. To gain insight into the process of mucosal healing, we longitudinally examined the immune cell composition during intestinal damage and regeneration. B cells were the dominant cell type in the healing colon, and single-cell RNA sequencing (scRNA-seq) revealed expansion of an IFN-induced B cell subset during experimental mucosal healing that predominantly located in damaged areas and associated with colitis severity. B cell depletion accelerated recovery upon injury, decreased epithelial ulceration, and enhanced gene expression programs associated with tissue remodeling. scRNA-seq from the epithelial and stromal compartments combined with spatial transcriptomics and multiplex immunostaining showed that B cells decreased interactions between stromal and epithelial cells during mucosal healing. Activated B cells disrupted the epithelial-stromal cross talk required for organoid survival. Thus, B cell expansion during injury impairs epithelial-stromal cell interactions required for mucosal healing, with implications for the treatment of IBD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Generation of neural organoids for spinal-cord regeneration via the direct reprogramming of human astrocytes</title>
+      <link>https://example.com/article/36424465/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36424465/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Organoids with region-specific architecture could facilitate the repair of injuries of the central nervous system. Here we show that human astrocytes can be directly reprogrammed into early neuroectodermal cells via the overexpression of &lt;em&gt;OCT4&lt;/em&gt;, the suppression of &lt;em&gt;p53&lt;/em&gt; and the provision of the small molecules CHIR99021, SB431542, RepSox and Y27632. We also report that the activation of signalling mediated by fibroblast growth factor, sonic hedgehog and bone morphogenetic protein 4 in the reprogrammed cells induces them to form spinal-cord organoids with functional neurons specific to the dorsal and ventral domains. In mice with complete spinal-cord injury, organoids transplanted into the lesion differentiated into spinal-cord neurons, which migrated and formed synapses with host neurons. The direct reprogramming of human astrocytes into neurons may pave the way for in vivo neural organogenesis from endogenous astrocytes for the repair of injuries to the central nervous system.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>KMT2C deficiency promotes small cell lung cancer metastasis through DNMT3A-mediated epigenetic reprogramming</title>

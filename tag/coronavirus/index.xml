@@ -5,12 +5,44 @@
     <link>https://example.com/tag/coronavirus/</link>
       <atom:link href="https://example.com/tag/coronavirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Coronavirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Coronavirus</title>
       <link>https://example.com/tag/coronavirus/</link>
     </image>
+    
+    <item>
+      <title>AMPK directly phosphorylates TBK1 to integrate glucose sensing into innate immunity</title>
+      <link>https://example.com/article/36384137/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36384137/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viral infection induces acute blood glucose decline in rodents that activates AMPK&lt;/li&gt;
+&lt;li&gt;AMPK directly phosphorylates TBK1 at S511 to prime antiviral sensing&lt;/li&gt;
+&lt;li&gt;AMPK-TBK1 couples glucose deficiency sensing and innate immune surveillance&lt;/li&gt;
+&lt;li&gt;Targeting the AMPK-TBK1 axis compromises innate antiviral immunity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nutrient sensing and damage sensing are two fundamental processes in living organisms. While hyperglycemia is frequently linked to diabetes-related vulnerability to microbial infection, how body glucose levels affect innate immune responses to microbial invasion is not fully understood. Here, we surprisingly found that viral infection led to a rapid and dramatic decrease in blood glucose levels in rodents, leading to robust AMPK activation. AMPK, once activated, directly phosphorylates TBK1 at S511, which triggers IRF3 recruitment and the assembly of MAVS or STING signalosomes. Consistently, ablation or inhibition of AMPK, knockin of TBK1-S511A, or increased glucose levels compromised nucleic acid sensing, while boosting AMPK-TBK1 cascade by AICAR or TBK1-S511E knockin improves antiviral immunity substantially in various animal models. Thus, we identify TBK1 as an AMPK substrate, reveal the molecular mechanism coupling a dual sensing of glucose and nuclei acids, and report its physiological necessity in antiviral defense.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Acute and postacute sequelae associated with SARS-CoV-2 reinfection</title>

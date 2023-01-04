@@ -5,12 +5,90 @@
     <link>https://example.com/tag/immunotherapy/</link>
       <atom:link href="https://example.com/tag/immunotherapy/index.xml" rel="self" type="application/rss+xml" />
     <description>Immunotherapy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immunotherapy</title>
       <link>https://example.com/tag/immunotherapy/</link>
     </image>
+    
+    <item>
+      <title>Dendritic cell derived exosomes loaded neoantigens for personalized cancer immunotherapies</title>
+      <link>https://example.com/article/36470333/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36470333/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Reprogramming of T cell-derived small extracellular vesicles using IL2 surface engineering induces potent anti-cancer effects through miRNA delivery</title>
+      <link>https://example.com/article/36447429/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36447429/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;T cell-derived small extracellular vesicles (sEVs) exhibit anti-cancer effects. However, their anti-cancer potential should be reinforced to enhance clinical applicability. Herein, we generated interleukin-2-tethered sEVs (IL2-sEVs) from engineered Jurkat T cells expressing IL2 at the plasma membrane via a flexible linker to induce an autocrine effect. IL2-sEVs increased the anti-cancer ability of CD8&lt;sup&gt;+&lt;/sup&gt; T cells without affecting regulatory T (T&lt;sub&gt;reg&lt;/sub&gt; ) cells and down-regulated cellular and exosomal PD-L1 expression in melanoma cells, causing their increased sensitivity to CD8+ T cell-mediated cytotoxicity. Its effect on CD8&lt;sup&gt;+&lt;/sup&gt; T and melanoma cells was mediated by several IL2-sEV-resident microRNAs (miRNAs), whose expressions were upregulated by the autocrine effects of IL2. Among the miRNAs, miR-181a-3p and miR-223-3p notably reduced the PD-L1 protein levels in melanoma cells. Interestingly, miR-181a-3p increased the activity of CD8&lt;sup&gt;+&lt;/sup&gt; T cells while suppressing Treg cell activity. IL2-sEVs inhibited tumour progression in melanoma-bearing immunocompetent mice, but not in immunodeficient mice. The combination of IL2-sEVs and existing anti-cancer drugs significantly improved anti-cancer efficacy by decreasing PD-L1 expression in vivo. Thus, IL2-sEVs are potential cancer immunotherapeutic agents that regulate both immune and cancer cells by reprogramming miRNA levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IL-6/STAT3 signaling in tumor cells restricts the expression of frameshift-derived neoantigens by SMG1 induction</title>
+      <link>https://example.com/article/36443756/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36443756/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The quality and quantity of tumor neoantigens derived from tumor mutations determines the fate of the immune response in cancer. Frameshift mutations elicit better tumor neoantigens, especially when they are not targeted by nonsense-mediated mRNA decay (NMD). For tumor progression, malignant cells need to counteract the immune response including the silencing of immunodominant neoantigens (antigen immunoediting) and promoting an immunosuppressive tumor microenvironment. Although NMD inhibition has been reported to induce tumor immunity and increase the expression of cryptic neoantigens, the possibility that NMD activity could be modulated by immune forces operating in the tumor microenvironment as a new immunoediting mechanism has not been addressed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We study the effect of SMG1 expression (main kinase that initiates NMD) in the survival and the nature of the tumor immune infiltration using TCGA RNAseq and scRNAseq datasets of breast, lung and pancreatic cancer. Different murine tumor models were used to corroborate the antitumor immune dependencies of NMD. We evaluate whether changes of SMG1 expression in malignant cells impact the immune response elicited by cancer immunotherapy. To determine how NMD fluctuates in malignant cells we generated a luciferase reporter system to track NMD activity in vivo under different immune conditions. Cytokine screening, in silico studies and functional assays were conducted to determine the regulation of SMG1 via IL-6/STAT3 signaling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; IL-6/STAT3 signaling induces SMG1, which limits the expression of potent frameshift neoantigens that are under NMD control compromising the outcome of the immune response.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We revealed a new neoantigen immunoediting mechanism regulated by immune forces (IL-6/STAT3 signaling) responsible for silencing otherwise potent frameshift mutation-derived neoantigens.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Immunological conversion of solid tumours using a bispecific nanobioconjugate for cancer immunotherapy</title>

@@ -5,12 +5,62 @@
     <link>https://example.com/tag/protein/</link>
       <atom:link href="https://example.com/tag/protein/index.xml" rel="self" type="application/rss+xml" />
     <description>Protein</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Protein</title>
       <link>https://example.com/tag/protein/</link>
     </image>
+    
+    <item>
+      <title>Quantification of extracellular proteins, protein complexes and mRNAs in single cells by proximity sequencing</title>
+      <link>https://example.com/article/36456784/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36456784/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We present proximity sequencing (Prox-seq) for simultaneous measurement of proteins, protein complexes and mRNAs in thousands of single cells. Prox-seq combines proximity ligation assay with single-cell sequencing to measure proteins and their complexes from all pairwise combinations of targeted proteins, providing quadratically scaled multiplexing. We validate Prox-seq and analyze a mixture of T cells and B cells to show that it accurately identifies these cell types and detects well-known protein complexes. Next, by studying human peripheral blood mononuclear cells, we discover that naïve CD8+ T cells display the protein complex CD8-CD9. Finally, we study protein interactions during Toll-like receptor (TLR) signaling in human macrophages. We observe the formation of signal-specific protein complexes, find CD36 co-receptor activity and additive signal integration under lipopolysaccharide (TLR4) and Pam2CSK4 (TLR2) stimulation, and show that quantification of protein complexes identifies signaling inputs received by macrophages. Prox-seq provides access to an untapped measurement modality for single-cell phenotyping and can discover uncharacterized protein interactions in different cell types.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SENP1 prevents steatohepatitis by suppressing RIPK1-driven apoptosis and inflammation</title>
+      <link>https://example.com/article/36414671/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36414671/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Activation of RIPK1-driven cell death and inflammation play important roles in the progression of nonalcoholic steatohepatitis (NASH). However, the mechanism underlying RIPK1 activation in NASH remains unclear. Here we identified SENP1, a SUMO-specific protease, as a key endogenous inhibitor of RIPK1. SENP1 is progressively reduced in proportion to NASH severity in patients. Hepatocyte-specific SENP1-knockout mice develop spontaneous NASH-related phenotypes in a RIPK1 kinase-dependent manner. We demonstrate that SENP1 deficiency sensitizes cells to RIPK1 kinase-dependent apoptosis by promoting RIPK1 activation following TNFα stimulation. Mechanistically, SENP1 deSUMOylates RIPK1 in TNF-R1 signaling complex (TNF-RSC), keeping RIPK1 in check. Loss of SENP1 leads to SUMOylation of RIPK1, which re-orchestrates TNF-RSC and modulates the ubiquitination patterns and activity of RIPK1. Notably, genetic inhibition of RIPK1 effectively reverses disease progression in hepatocyte-specific SENP1-knockout male mice with high-fat-diet-induced nonalcoholic fatty liver. We propose that deSUMOylation of RIPK1 by SENP1 provides a pathophysiologically relevant cell death-restricting checkpoint that modulates RIPK1 activation in the pathogenesis of nonalcoholic steatohepatitis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Histone Lactylation Boosts Reparative Gene Activation Post-Myocardial Infarction</title>

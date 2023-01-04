@@ -5,12 +5,37 @@
     <link>https://example.com/tag/mitochondria/</link>
       <atom:link href="https://example.com/tag/mitochondria/index.xml" rel="self" type="application/rss+xml" />
     <description>Mitochondria</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Mitochondria</title>
       <link>https://example.com/tag/mitochondria/</link>
     </image>
+    
+    <item>
+      <title>Nuclear localization of mitochondrial TCA cycle enzymes modulates pluripotency via histone acetylation</title>
+      <link>https://example.com/article/36460681/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36460681/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pluripotent stem cells hold great promise in regenerative medicine and developmental biology studies. Mitochondrial metabolites, including tricarboxylic acid (TCA) cycle intermediates, have been reported to play critical roles in pluripotency. Here we show that TCA cycle enzymes including Pdha1, Pcb, Aco2, Cs, Idh3a, Ogdh, Sdha and Mdh2 are translocated to the nucleus during somatic cell reprogramming, primed-to-naive transition and totipotency acquisition. The nuclear-localized TCA cycle enzymes Pdha1, Pcb, Aco2, Cs, Idh3a promote somatic cell reprogramming and primed-to-naive transition. In addition, nuclear-localized TCA cycle enzymes, particularly nuclear-targeted Pdha1, facilitate the 2-cell program in pluripotent stem cells. Mechanistically, nuclear Pdha1 increases the acetyl-CoA and metabolite pool in the nucleus, leading to chromatin remodeling at pluripotency genes by enhancing histone H3 acetylation. Our results reveal an important role of mitochondrial TCA cycle enzymes in the epigenetic regulation of pluripotency that constitutes a mitochondria-to-nucleus retrograde signaling mode in different states of pluripotent acquisition.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>UBXD8 mediates mitochondria-associated degradation to restrain apoptosis and mitophagy</title>

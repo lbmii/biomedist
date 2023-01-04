@@ -180,6 +180,59 @@
     </item>
     
     <item>
+      <title>Complexity of enhancer networks predicts cell identity and disease genes revealed by single-cell multi-omics analysis</title>
+      <link>https://example.com/article/36464486/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36464486/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many enhancers exist as clusters in the genome and control cell identity and disease genes; however, the underlying mechanism remains largely unknown. Here, we introduce an algorithm, eNet, to build enhancer networks by integrating single-cell chromatin accessibility and gene expression profiles. The complexity of enhancer networks is assessed by two metrics: the number of enhancers and the frequency of predicted enhancer interactions (PEIs) based on chromatin co-accessibility. We apply eNet algorithm to a human blood dataset and find cell identity and disease genes tend to be regulated by complex enhancer networks. The network hub enhancers (enhancers with frequent PEIs) are the most functionally important. Compared with super-enhancers, enhancer networks show better performance in predicting cell identity and disease genes. eNet is robust and widely applicable in various human or mouse tissues datasets. Thus, we propose a model of enhancer networks containing three modes: Simple, Multiple and Complex, which are distinguished by their complexity in regulating gene expression. Taken together, our work provides an unsupervised approach to simultaneously identify key cell identity and disease genes and explore the underlying regulatory relationships among enhancers in single cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Epsin Nanotherapy Regulates Cholesterol Transport to Fortify Atheroma Regression</title>
+      <link>https://example.com/article/36444722/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36444722/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Excess cholesterol accumulation in lesional macrophages elicits complex responses in atherosclerosis. Epsins, a family of endocytic adaptors, fuel the progression of atherosclerosis; however, the underlying mechanism and therapeutic potential of targeting Epsins remains unknown. In this study, we determined the role of Epsins in macrophage-mediated metabolic regulation. We then developed an innovative method to therapeutically target macrophage Epsins with specially designed S2P-conjugated lipid nanoparticles, which encapsulate small-interfering RNAs to suppress Epsins.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We used single-cell RNA sequencing with our newly developed algorithm MEBOCOST to study cell-cell communications mediated by metabolites from sender cells and sensor proteins on receiver cells. Biomedical, cellular, and molecular approaches were utilized to investigate the role of macrophage Epsins in regulating lipid metabolism and transport. We performed this study using myeloid-specific Epsin double knockout (LysM-DKO) mice and mice with a genetic reduction of ABCG1 (ATP-binding cassette subfamily G member 1; LysM-DKO-ABCG1&lt;sup&gt;fl/+&lt;/sup&gt;). The nanoparticles targeting lesional macrophages were developed to encapsulate interfering RNAs to treat atherosclerosis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We revealed that Epsins regulate lipid metabolism and transport in atherosclerotic macrophages. Inhibiting Epsins by nanotherapy halts inflammation and accelerates atheroma resolution. Harnessing lesional macrophage-specific nanoparticle delivery of Epsin small-interfering RNAs, we showed that silencing of macrophage Epsins diminished atherosclerotic plaque size and promoted plaque regression. Mechanistically, we demonstrated that Epsins bound to CD36 to facilitate lipid uptake by enhancing CD36 endocytosis and recycling. Conversely, Epsins promoted ABCG1 degradation via lysosomes and hampered ABCG1-mediated cholesterol efflux and reverse cholesterol transport. In a LysM-DKO-ABCG1&lt;sup&gt;fl/+&lt;/sup&gt; mouse model, enhanced cholesterol efflux and reverse transport due to Epsin deficiency was suppressed by the reduction of ABCG1.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings suggest that targeting Epsins in lesional macrophages may offer therapeutic benefits for advanced atherosclerosis by reducing CD36-mediated lipid uptake and increasing ABCG1-mediated cholesterol efflux.
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gene probes re-annotation with SeqMap and R</title>
       <link>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>

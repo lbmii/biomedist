@@ -313,6 +313,156 @@
     </item>
     
     <item>
+      <title>Complexity of enhancer networks predicts cell identity and disease genes revealed by single-cell multi-omics analysis</title>
+      <link>https://example.com/article/36464486/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36464486/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many enhancers exist as clusters in the genome and control cell identity and disease genes; however, the underlying mechanism remains largely unknown. Here, we introduce an algorithm, eNet, to build enhancer networks by integrating single-cell chromatin accessibility and gene expression profiles. The complexity of enhancer networks is assessed by two metrics: the number of enhancers and the frequency of predicted enhancer interactions (PEIs) based on chromatin co-accessibility. We apply eNet algorithm to a human blood dataset and find cell identity and disease genes tend to be regulated by complex enhancer networks. The network hub enhancers (enhancers with frequent PEIs) are the most functionally important. Compared with super-enhancers, enhancer networks show better performance in predicting cell identity and disease genes. eNet is robust and widely applicable in various human or mouse tissues datasets. Thus, we propose a model of enhancer networks containing three modes: Simple, Multiple and Complex, which are distinguished by their complexity in regulating gene expression. Taken together, our work provides an unsupervised approach to simultaneously identify key cell identity and disease genes and explore the underlying regulatory relationships among enhancers in single cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Monitoring of cell-cell communication and contact history in mammals</title>
+      <link>https://example.com/article/36454848/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36454848/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monitoring of cell-cell communication in multicellular organisms is fundamental to understanding diverse biological processes such as embryogenesis and tumorigenesis. To track cell-cell contacts in vivo, we developed an intercellular genetic technology to monitor cell-cell contact and to trace cell contact histories by permanently marking contacts between cells. In mice, we engineered an artificial Notch ligand into one cell (the sender cell) and an artificial receptor into another cell (the receiver cell). Contact between the sender and receiver cells triggered a synthetic Notch signaling that activated downstream transcriptional programs in the receiver cell, thereby transiently or permanently labeling it. In vivo cell-cell contact was observed during development, tissue homeostasis, and tumor growth. This technology may be useful for studying dynamic in vivo cell-cell contacts and cell fate plasticity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantification of extracellular proteins, protein complexes and mRNAs in single cells by proximity sequencing</title>
+      <link>https://example.com/article/36456784/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36456784/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We present proximity sequencing (Prox-seq) for simultaneous measurement of proteins, protein complexes and mRNAs in thousands of single cells. Prox-seq combines proximity ligation assay with single-cell sequencing to measure proteins and their complexes from all pairwise combinations of targeted proteins, providing quadratically scaled multiplexing. We validate Prox-seq and analyze a mixture of T cells and B cells to show that it accurately identifies these cell types and detects well-known protein complexes. Next, by studying human peripheral blood mononuclear cells, we discover that naïve CD8+ T cells display the protein complex CD8-CD9. Finally, we study protein interactions during Toll-like receptor (TLR) signaling in human macrophages. We observe the formation of signal-specific protein complexes, find CD36 co-receptor activity and additive signal integration under lipopolysaccharide (TLR4) and Pam2CSK4 (TLR2) stimulation, and show that quantification of protein complexes identifies signaling inputs received by macrophages. Prox-seq provides access to an untapped measurement modality for single-cell phenotyping and can discover uncharacterized protein interactions in different cell types.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IL6 supports long-term expansion of hepatocytes in vitro</title>
+      <link>https://example.com/article/36446858/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36446858/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatocytes are very difficult to expand in vitro. A few studies have demonstrated that chemical cocktails with growth factors or Wnt ligands can support long-term expansion of hepatocytes via dedifferentiation. However, the culture conditions are complex, and clonal expansion of hepatic progenitors with full differentiation capacity are rarely reported. Here, we discover IL6, combined with EGF and HGF, promotes long-term expansion (&amp;gt;30 passages in ~150 days with theoretical expansion of ~1035 times) of primary mouse hepatocytes in vitro in simple 2D culture, by converting hepatocytes into induced hepatic progenitor cells (iHPCs), which maintain the capacity of differentiation into hepatocytes. IL6 also supports the establishment of single hepatocyte-derived iHPC clones. The summation of the downstream STAT3, ERK and AKT pathways induces a number of transcription factors which support rapid growth. This physiological and simple way may provide ideas for culturing previously difficult-to-culture cell types and support their future applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Generation of neural organoids for spinal-cord regeneration via the direct reprogramming of human astrocytes</title>
+      <link>https://example.com/article/36424465/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36424465/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Organoids with region-specific architecture could facilitate the repair of injuries of the central nervous system. Here we show that human astrocytes can be directly reprogrammed into early neuroectodermal cells via the overexpression of &lt;em&gt;OCT4&lt;/em&gt;, the suppression of &lt;em&gt;p53&lt;/em&gt; and the provision of the small molecules CHIR99021, SB431542, RepSox and Y27632. We also report that the activation of signalling mediated by fibroblast growth factor, sonic hedgehog and bone morphogenetic protein 4 in the reprogrammed cells induces them to form spinal-cord organoids with functional neurons specific to the dorsal and ventral domains. In mice with complete spinal-cord injury, organoids transplanted into the lesion differentiated into spinal-cord neurons, which migrated and formed synapses with host neurons. The direct reprogramming of human astrocytes into neurons may pave the way for in vivo neural organogenesis from endogenous astrocytes for the repair of injuries to the central nervous system.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A solution to the biophysical fractionation of extracellular vesicles: Acoustic Nanoscale Separation via Wave-pillar Excitation Resonance (ANSWER)</title>
+      <link>https://example.com/article/36417505/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36417505/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Immunological conversion of solid tumours using a bispecific nanobioconjugate for cancer immunotherapy</title>
       <link>https://example.com/article/36357792/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>

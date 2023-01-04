@@ -5,12 +5,37 @@
     <link>https://example.com/tag/circadian-rhythm/</link>
       <atom:link href="https://example.com/tag/circadian-rhythm/index.xml" rel="self" type="application/rss+xml" />
     <description>Circadian Rhythm</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Circadian Rhythm</title>
       <link>https://example.com/tag/circadian-rhythm/</link>
     </image>
+    
+    <item>
+      <title>Dendritic cells direct circadian anti-tumor immune responses</title>
+      <link>https://example.com/article/36470303/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36470303/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The process of cancer immunosurveillance is a mechanism of tumor suppression that can protect the host from cancer development throughout its lifetime1,2. Yet, it is unknown whether its effectiveness fluctuates over a single day. Here, we demonstrate that the initial time-of-day of tumor engraftment dictates ensuing tumor size across murine cancer models. Using immunodeficient mice and animals lacking lineage-specific circadian functions, we show that dendritic cells (DCs) and CD8&lt;sup&gt;+&lt;/sup&gt; T cells exert circadian anti-tumor functions that control melanoma volume. Specifically, we find that rhythmic trafficking of DCs to the tumor draining lymph node (dLN) governs a circadian response of tumor antigen-specific CD8&lt;sup&gt;+&lt;/sup&gt; T cells, which is dependent on circadian expression of the co-stimulatory molecule CD80. Consequently, cancer immunotherapy is more effective when synchronized with DC functions, shows circadian outcomes in mice and suggests similar effects in humans. These data demonstrate that circadian rhythms of anti-tumor immune components are not only critical for the control of tumor size but can also be exploited therapeutically.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Comparative transcriptomics reveals circadian and pluripotency networks as two pillars of longevity regulation</title>

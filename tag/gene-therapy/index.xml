@@ -5,12 +5,37 @@
     <link>https://example.com/tag/gene-therapy/</link>
       <atom:link href="https://example.com/tag/gene-therapy/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene Therapy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gene Therapy</title>
       <link>https://example.com/tag/gene-therapy/</link>
     </image>
+    
+    <item>
+      <title>Species-agnostic polymeric formulations for inhalable messenger RNA delivery to the lung</title>
+      <link>https://example.com/article/36443576/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36443576/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Messenger RNA has now been used to vaccinate millions of people. However, the diversity of pulmonary pathologies, including infections, genetic disorders, asthma and others, reveals the lung as an important organ to directly target for future RNA therapeutics and preventatives. Here we report the screening of 166 polymeric nanoparticle formulations for functional delivery to the lungs, obtained from a combinatorial synthesis approach combined with a low-dead-volume nose-only inhalation system for mice. We identify P76, a poly-β-amino-thio-ester polymer, that exhibits increased expression over formulations lacking the thiol component, delivery to different animal species with varying RNA cargos and low toxicity. P76 allows for dose sparing when delivering an mRNA-expressed Cas13a-mediated treatment in a SARS-CoV-2 challenge model, resulting in similar efficacy to a 20-fold higher dose of a neutralizing antibody. Overall, the combinatorial synthesis approach allowed for the discovery of promising polymeric formulations for future RNA pharmaceutical development for the lungs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Exosome-mediated delivery of Cas9 ribonucleoprotein complexes for tissue-specific gene therapy of liver diseases</title>

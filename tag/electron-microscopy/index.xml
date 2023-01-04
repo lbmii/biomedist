@@ -5,12 +5,37 @@
     <link>https://example.com/tag/electron-microscopy/</link>
       <atom:link href="https://example.com/tag/electron-microscopy/index.xml" rel="self" type="application/rss+xml" />
     <description>Electron Microscopy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Electron Microscopy</title>
       <link>https://example.com/tag/electron-microscopy/</link>
     </image>
+    
+    <item>
+      <title>Cryo-EM structures of the active NLRP3 inflammasome disk</title>
+      <link>https://example.com/article/36442502/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36442502/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammasomes are cytosolic innate immune complexes that activate caspase-1 upon detection of pathogenic and endogenous dangers, and NLRP3 is an inflammasome sensor of membrane damage highly important in inducing inflammation. Here we report cryo-EM structures of disk-shaped active NLRP3 oligomers in complex with ATP𝛾S, the centrosomal kinase NEK7, and the adaptor protein ASC which recruits caspase-1. In these NLRP3-NEK7-ASC complexes, the central NACHT domain of NLRP3 assumes an ATP-bound conformation in which two of its subdomains rotate by ~85° relative to the ADP-bound inactive conformation. The FISNA domain conserved in NLRP3 but absent in most NLRPs becomes ordered in its key regions to stabilize the active NACHT conformation and mediate most interactions in the disk. Mutations on these interactions compromise NLRP3-mediated caspase-1 activation. The N-terminal PYDs from all the NLRP3 subunits gather together to form a PYD filament that recruits ASC PYD to elicit downstream signalling. Surprisingly, the C-terminal LRR domain and the LRR-bound NEK7 do not participate in disk interfaces. Together with previous structures of inactive NLRP3 cage in which LRR-LRR interactions play an important role, we propose that the role of NEK7 is to break the inactive cage to transform NLRP3 into the active NLRP3 inflammasome disk.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Recognition of cyclic dinucleotides and folates by human SLC19A1</title>

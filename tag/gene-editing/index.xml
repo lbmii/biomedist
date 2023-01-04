@@ -5,12 +5,77 @@
     <link>https://example.com/tag/gene-editing/</link>
       <atom:link href="https://example.com/tag/gene-editing/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene Editing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gene Editing</title>
       <link>https://example.com/tag/gene-editing/</link>
     </image>
+    
+    <item>
+      <title>Diverse virus-encoded CRISPR-Cas systems include streamlined genome editors</title>
+      <link>https://example.com/article/36423580/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36423580/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CRISPR pathways encoded in diverse bacteriophage are hypercompact anti-viral systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Phage-encoded CRISPR systems encompass all known CRISPR-Cas types&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Casλ enzyme’s compact structure is capable of plant and human cell genome editing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;These findings reveal a new source of CRISPR-Cas enzymes with value as genome editors&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR-Cas systems are host-encoded pathways that protect microbes from viral infection using an adaptive RNA-guided mechanism. Using genome-resolved metagenomics, we find that CRISPR systems are also encoded in diverse bacteriophages, where they occur as divergent and hypercompact anti-viral systems. Bacteriophage-encoded CRISPR systems belong to all six known CRISPR-Cas types, though some lack crucial components, suggesting alternate functional roles or host complementation. We describe multiple new Cas9-like proteins and 44 families related to type V CRISPR-Cas systems, including the Casλ RNA-guided nuclease family. Among the most divergent of the new enzymes identified, Casλ recognizes double-stranded DNA using a uniquely structured CRISPR RNA (crRNA). The Casλ-RNA-DNA structure determined by cryoelectron microscopy reveals a compact bilobed architecture capable of inducing genome editing in mammalian, Arabidopsis, and hexaploid wheat cells. These findings reveal a new source of CRISPR-Cas enzymes in phages and highlight their value as genome editors in plant and human cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>GPSAdb: a comprehensive web resource for interactive exploration of genetic perturbation RNA-seq datasets</title>
+      <link>https://example.com/article/36416261/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36416261/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gene knock-out/down methods are commonly used to explore the functions of genes of interest, but a database that systematically collects perturbed data is not available currently. Manual curation of all the available human cell line perturbed RNA-seq datasets enabled us to develop a comprehensive human perturbation database-&lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt;. The current version of &lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt; collected 3048 RNA-seq datasets associated with 1458 genes, which were knocked out/down by siRNA, shRNA, CRISPR/Cas9, or CRISPRi. The database provides full exploration of these datasets and generated 6096 new perturbed gene sets (up and down separately). &lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt; integrated the gene sets and developed an online tool, genetic perturbation similarity analysis (GPSA), to identify candidate causal perturbations from differential gene expression data. In summary, &lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt; is a powerful platform that aims to assist life science researchers to easily access and analyze public perturbed data and explore differential gene expression data in depth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The phenotypic landscape of essential human genes</title>

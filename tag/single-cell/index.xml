@@ -98,6 +98,96 @@
     </item>
     
     <item>
+      <title>Complexity of enhancer networks predicts cell identity and disease genes revealed by single-cell multi-omics analysis</title>
+      <link>https://example.com/article/36464486/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36464486/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many enhancers exist as clusters in the genome and control cell identity and disease genes; however, the underlying mechanism remains largely unknown. Here, we introduce an algorithm, eNet, to build enhancer networks by integrating single-cell chromatin accessibility and gene expression profiles. The complexity of enhancer networks is assessed by two metrics: the number of enhancers and the frequency of predicted enhancer interactions (PEIs) based on chromatin co-accessibility. We apply eNet algorithm to a human blood dataset and find cell identity and disease genes tend to be regulated by complex enhancer networks. The network hub enhancers (enhancers with frequent PEIs) are the most functionally important. Compared with super-enhancers, enhancer networks show better performance in predicting cell identity and disease genes. eNet is robust and widely applicable in various human or mouse tissues datasets. Thus, we propose a model of enhancer networks containing three modes: Simple, Multiple and Complex, which are distinguished by their complexity in regulating gene expression. Taken together, our work provides an unsupervised approach to simultaneously identify key cell identity and disease genes and explore the underlying regulatory relationships among enhancers in single cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>B cell expansion hinders the stroma-epithelium regenerative cross talk during mucosal healing</title>
+      <link>https://example.com/article/36462502/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36462502/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;B cells are the dominant immune cell type during colonic mucosal healing (MH)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IFN-induced B cells are associated with injury and expand during MH&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B cell depletion results in enhanced MH following intestinal injury&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B cells impair the interactions between IEC and stromal cells during MH&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutic promotion of intestinal regeneration holds great promise, but defining the cellular mechanisms that influence tissue regeneration remains an unmet challenge. To gain insight into the process of mucosal healing, we longitudinally examined the immune cell composition during intestinal damage and regeneration. B cells were the dominant cell type in the healing colon, and single-cell RNA sequencing (scRNA-seq) revealed expansion of an IFN-induced B cell subset during experimental mucosal healing that predominantly located in damaged areas and associated with colitis severity. B cell depletion accelerated recovery upon injury, decreased epithelial ulceration, and enhanced gene expression programs associated with tissue remodeling. scRNA-seq from the epithelial and stromal compartments combined with spatial transcriptomics and multiplex immunostaining showed that B cells decreased interactions between stromal and epithelial cells during mucosal healing. Activated B cells disrupted the epithelial-stromal cross talk required for organoid survival. Thus, B cell expansion during injury impairs epithelial-stromal cell interactions required for mucosal healing, with implications for the treatment of IBD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>High-resolution single-cell atlas reveals diversity and plasticity of tissue-resident neutrophils in non-small cell lung cancer</title>
+      <link>https://example.com/article/36368318/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36368318/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non-small cell lung cancer (NSCLC) is characterized by molecular heterogeneity with diverse immune cell infiltration patterns, which has been linked to therapy sensitivity and resistance. However, full understanding of how immune cell phenotypes vary across different patient subgroups is lacking. Here, we dissect the NSCLC tumor microenvironment at high resolution by integrating 1,283,972 single cells from 556 samples and 318 patients across 29 datasets, including our dataset capturing cells with low mRNA content. We stratify patients into immune-deserted, B cell, T cell, and myeloid cell subtypes. Using bulk samples with genomic and clinical information, we identify cellular components associated with tumor histology and genotypes. We then focus on the analysis of tissue-resident neutrophils (TRNs) and uncover distinct subpopulations that acquire new functional properties in the tissue microenvironment, providing evidence for the plasticity of TRNs. Finally, we show that a TRN-derived gene signature is associated with anti-programmed cell death ligand 1 (PD-L1) treatment failure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell transcriptome analysis of the in vivo response to viral infection in the cave nectar bat Eonycteris spelaea</title>
       <link>https://example.com/article/36351376/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>

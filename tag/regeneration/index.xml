@@ -5,12 +5,37 @@
     <link>https://example.com/tag/regeneration/</link>
       <atom:link href="https://example.com/tag/regeneration/index.xml" rel="self" type="application/rss+xml" />
     <description>Regeneration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Regeneration</title>
       <link>https://example.com/tag/regeneration/</link>
     </image>
+    
+    <item>
+      <title>Generation of neural organoids for spinal-cord regeneration via the direct reprogramming of human astrocytes</title>
+      <link>https://example.com/article/36424465/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36424465/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Organoids with region-specific architecture could facilitate the repair of injuries of the central nervous system. Here we show that human astrocytes can be directly reprogrammed into early neuroectodermal cells via the overexpression of &lt;em&gt;OCT4&lt;/em&gt;, the suppression of &lt;em&gt;p53&lt;/em&gt; and the provision of the small molecules CHIR99021, SB431542, RepSox and Y27632. We also report that the activation of signalling mediated by fibroblast growth factor, sonic hedgehog and bone morphogenetic protein 4 in the reprogrammed cells induces them to form spinal-cord organoids with functional neurons specific to the dorsal and ventral domains. In mice with complete spinal-cord injury, organoids transplanted into the lesion differentiated into spinal-cord neurons, which migrated and formed synapses with host neurons. The direct reprogramming of human astrocytes into neurons may pave the way for in vivo neural organogenesis from endogenous astrocytes for the repair of injuries to the central nervous system.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A composite hydrogel containing resveratrol-laden nanoparticles and platelet-derived extracellular vesicles promotes wound healing in diabetic mice</title>

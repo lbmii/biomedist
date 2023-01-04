@@ -5,12 +5,37 @@
     <link>https://example.com/tag/endosome/</link>
       <atom:link href="https://example.com/tag/endosome/index.xml" rel="self" type="application/rss+xml" />
     <description>Endosome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endosome</title>
       <link>https://example.com/tag/endosome/</link>
     </image>
+    
+    <item>
+      <title>Distinct changes in endosomal composition promote NLRP3 inflammasome activation</title>
+      <link>https://example.com/article/36443515/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36443515/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammasome complexes are pivotal in the innate immune response. The NLR family pyrin domain containing protein 3 (NLRP3) inflammasome is activated in response to a broad variety of cellular stressors. However, a primary and converging sensing mechanism by the NLRP3 receptor initiating inflammasome assembly remains ill defined. Here, we demonstrate that NLRP3 inflammasome activators primarily converge on disruption of endoplasmic reticulum-endosome membrane contact sites (EECS). This defect causes endosomal accumulation of phosphatidylinositol 4-phosphate (PI4P) and a consequent impairment of endosome-to-trans-Golgi network trafficking (ETT), necessary steps for endosomal recruitment of NLRP3 and subsequent inflammasome activation. Lowering endosomal PI4P levels prevents endosomal association of NLRP3 and inhibits inflammasome activation. Disruption of EECS or ETT is sufficient to enhance endosomal PI4P levels, to recruit NLRP3 to endosomes and to potentiate NLRP3 inflammasome activation. Mice with defects in ETT in the myeloid compartment are more susceptible to lipopolysaccharide-induced sepsis. Our study thus identifies a distinct cellular mechanism leading to endosomal NLRP3 recruitment and inflammasome activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Clathrin-associated AP-1 controls termination of STING signalling</title>

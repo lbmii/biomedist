@@ -5,12 +5,87 @@
     <link>https://example.com/tag/lung/</link>
       <atom:link href="https://example.com/tag/lung/index.xml" rel="self" type="application/rss+xml" />
     <description>Lung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lung</title>
       <link>https://example.com/tag/lung/</link>
     </image>
+    
+    <item>
+      <title>Species-agnostic polymeric formulations for inhalable messenger RNA delivery to the lung</title>
+      <link>https://example.com/article/36443576/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36443576/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Messenger RNA has now been used to vaccinate millions of people. However, the diversity of pulmonary pathologies, including infections, genetic disorders, asthma and others, reveals the lung as an important organ to directly target for future RNA therapeutics and preventatives. Here we report the screening of 166 polymeric nanoparticle formulations for functional delivery to the lungs, obtained from a combinatorial synthesis approach combined with a low-dead-volume nose-only inhalation system for mice. We identify P76, a poly-β-amino-thio-ester polymer, that exhibits increased expression over formulations lacking the thiol component, delivery to different animal species with varying RNA cargos and low toxicity. P76 allows for dose sparing when delivering an mRNA-expressed Cas13a-mediated treatment in a SARS-CoV-2 challenge model, resulting in similar efficacy to a 20-fold higher dose of a neutralizing antibody. Overall, the combinatorial synthesis approach allowed for the discovery of promising polymeric formulations for future RNA pharmaceutical development for the lungs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Chronic exposure to carbon black ultrafine particles reprograms macrophage metabolism and accelerates lung cancer</title>
+      <link>https://example.com/article/36383649/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36383649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chronic exposure to airborne carbon black ultrafine (nCB) particles generated from incomplete combustion of organic matter drives IL-17A–dependent emphysema. However, whether and how they alter the immune responses to lung cancer remains unknown. Here, we show that exposure to nCB particles increased PD-L1&lt;sup&gt;+&lt;/sup&gt; PD-L2&lt;sup&gt;+&lt;/sup&gt; CD206&lt;sup&gt;+&lt;/sup&gt; antigen-presenting cells (APCs), exhausted T cells, and Treg cells. Lung macrophages that harbored nCB particles showed selective mitochondrial structure damage and decreased oxidative respiration. Lung macrophages sustained the HIF1α axis that increased glycolysis and lactate production, culminating in an immunosuppressive microenvironment in multiple mouse models of non–small cell lung cancers. Adoptive transfer of lung APCs from nCB-exposed wild type to susceptible mice increased tumor incidence and caused early metastasis. Our findings show that nCB exposure metabolically rewires lung macrophages to promote immunosuppression and accelerates the development of lung cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>High-resolution single-cell atlas reveals diversity and plasticity of tissue-resident neutrophils in non-small cell lung cancer</title>
+      <link>https://example.com/article/36368318/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36368318/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non-small cell lung cancer (NSCLC) is characterized by molecular heterogeneity with diverse immune cell infiltration patterns, which has been linked to therapy sensitivity and resistance. However, full understanding of how immune cell phenotypes vary across different patient subgroups is lacking. Here, we dissect the NSCLC tumor microenvironment at high resolution by integrating 1,283,972 single cells from 556 samples and 318 patients across 29 datasets, including our dataset capturing cells with low mRNA content. We stratify patients into immune-deserted, B cell, T cell, and myeloid cell subtypes. Using bulk samples with genomic and clinical information, we identify cellular components associated with tumor histology and genotypes. We then focus on the analysis of tissue-resident neutrophils (TRNs) and uncover distinct subpopulations that acquire new functional properties in the tissue microenvironment, providing evidence for the plasticity of TRNs. Finally, we show that a TRN-derived gene signature is associated with anti-programmed cell death ligand 1 (PD-L1) treatment failure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Single-cell transcriptome analysis of the in vivo response to viral infection in the cave nectar bat Eonycteris spelaea</title>

@@ -134,6 +134,58 @@
     </item>
     
     <item>
+      <title>GPSAdb: a comprehensive web resource for interactive exploration of genetic perturbation RNA-seq datasets</title>
+      <link>https://example.com/article/36416261/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36416261/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gene knock-out/down methods are commonly used to explore the functions of genes of interest, but a database that systematically collects perturbed data is not available currently. Manual curation of all the available human cell line perturbed RNA-seq datasets enabled us to develop a comprehensive human perturbation database-&lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt;. The current version of &lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt; collected 3048 RNA-seq datasets associated with 1458 genes, which were knocked out/down by siRNA, shRNA, CRISPR/Cas9, or CRISPRi. The database provides full exploration of these datasets and generated 6096 new perturbed gene sets (up and down separately). &lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt; integrated the gene sets and developed an online tool, genetic perturbation similarity analysis (GPSA), to identify candidate causal perturbations from differential gene expression data. In summary, &lt;a href=&#34;https://www.gpsadb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPSAdb&lt;/a&gt; is a powerful platform that aims to assist life science researchers to easily access and analyze public perturbed data and explore differential gene expression data in depth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NPInter v5.0: ncRNA interaction database in a new era</title>
+      <link>https://example.com/article/36373614/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36373614/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; documents functional interactions between noncoding RNAs (except tRNAs and rRNAs) and biomolecules (proteins, RNAs and DNAs) which are experimentally verified. By functional interactions, we mean primarily physical interactions, although several interactions of other forms also appear here. Interactions are manually collected from publication in peer-reviewed journals, followed by an annotation process against known databases including NONCODE, miRBase and UniProt. We introduce a classification of the functional interaction data, which is based on the functional interaction process the ncRNA takes part in. &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; also provides an efficient search option, allowing discovery of interactions, related publications and other information. &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is one of the 42 expert databases chosen by RNAcentral database.&lt;/p&gt;
+&lt;!---more---&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Noncoding RNAs (ncRNAs) play key regulatory roles in biological processes by interacting with other biomolecules. With the development of high-throughput sequencing and experimental technologies, extensive ncRNA interactions have been accumulated. Therefore, we updated the &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; database to a fifth version to document these interactions. ncRNA interaction entries were doubled from 1 100 618 to 2 596 695 by manual literature mining and high-throughput data processing. We integrated global RNA-DNA interactions from iMARGI, ChAR-seq and GRID-seq, greatly expanding the number of RNA-DNA interactions (from 888 915 to 8 329 382). In addition, we collected different types of RNA interaction between SARS-CoV-2 virus and its host from recently published studies. Long noncoding RNA (lncRNA) expression specificity in different cell types from tumor single cell RNA-seq (scRNA-seq) data were also integrated to provide a cell-type level view of interactions. A new module named RBP was built to display the interactions of RNA-binding proteins with annotations of localization, binding domains and functions. In conclusion, &lt;a href=&#34;http://bigdata.ibp.ac.cn/npinter5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;NPInter v5.0&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; provides informative and valuable ncRNA interactions for biological researchers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>TEDD: a database of temporal gene expression patterns during multiple developmental periods in human and model organisms</title>
       <link>https://example.com/article/36350663/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
