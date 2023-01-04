@@ -5,12 +5,37 @@
     <link>https://example.com/tag/panoptosis/</link>
       <atom:link href="https://example.com/tag/panoptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>PANoptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>PANoptosis</title>
       <link>https://example.com/tag/panoptosis/</link>
     </image>
+    
+    <item>
+      <title>PANoptosis-like cell death in ischemia/reperfusion injury of retinal neurons</title>
+      <link>https://example.com/article/35900430/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35900430/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We screened small molecules to identify two compounds, which we named RSL3 and RSL5, that have increased lethality in the presence of oncogenic RAS. Counter screening with biologically active compounds defined aspects of the mechanism of action for RSL3 and RSL5, such as a nonapoptotic, MEK-dependent, and iron-dependent oxidative cell death. Erastin, a previously reported compound with RAS-selective lethality, showed similar properties. RNA interference experiments targeting voltage-dependent anion channel 3 (VDAC3), a target of erastin, demonstrated that RSL5 is a scaffold that acts through VDACs to activate the observed pathway. RSL3 activated a similar death mechanism but in a VDAC-independent manner. We found that cells transformed with oncogenic RAS have increased iron content relative to their normal cell counterparts through upregulation of transferrin receptor 1 and downregulation of ferritin heavy chain 1 and ferritin light chain.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Interferon regulatory factor 1 regulates PANoptosis to prevent colorectal cancer</title>

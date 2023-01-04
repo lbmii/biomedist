@@ -134,6 +134,31 @@
     </item>
     
     <item>
+      <title>HTCA: a database with an in-depth characterization of the single-cell human transcriptome</title>
+      <link>https://example.com/article/36130266/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36130266/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell RNA-sequencing (scRNA-seq) is one of the most used single-cell omics in recent decades. The exponential growth of single-cell data has immense potential for large-scale integration and in-depth explorations that are more representative of the study population. Efforts have been made to consolidate published data, yet extensive characterization is still lacking. Many focused on raw-data database constructions while others concentrate mainly on gene expression queries. Hereby, we present &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt;, an interactive database constructed based on ∼2.3 million high-quality cells from ∼3000 scRNA-seq samples and comprised in-depth phenotype profiles of 19 healthy adult and matching fetal tissues. &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; provides a one-stop interactive query to gene signatures, transcription factor (TF) activities, TF motifs, receptor-ligand interactions, enriched gene ontology (GO) terms, etc. across cell types in adult and fetal tissues. At the same time, &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; encompasses single-cell splicing variant profiles of 16 adult and fetal tissues, spatial transcriptomics profiles of 11 adult and fetal tissues, and single-cell ATAC-sequencing (scATAC-seq) profiles of 27 adult and fetal tissues. Besides, &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; provides online analysis tools to perform major steps in a typical scRNA-seq analysis. Altogether, &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; allows real-time explorations of multi-omics adult and fetal phenotypic profiles and provides tools for a flexible scRNA-seq analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Summary of microbiome databases</title>
       <link>https://example.com/tool/2022-07-10-db-microbiome/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>

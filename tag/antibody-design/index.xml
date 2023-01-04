@@ -5,12 +5,37 @@
     <link>https://example.com/tag/antibody-design/</link>
       <atom:link href="https://example.com/tag/antibody-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Antibody Design</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Antibody Design</title>
       <link>https://example.com/tag/antibody-design/</link>
     </image>
+    
+    <item>
+      <title>Engineering SARS-CoV-2 specific cocktail antibodies into a bispecific format improves neutralizing potency and breadth</title>
+      <link>https://example.com/article/36138032/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36138032/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One major limitation of neutralizing antibody-based COVID-19 therapy is the requirement of costly cocktails to reduce emergence of antibody resistance. Here we engineer two bispecific antibodies (bsAbs) using distinct designs and compared them with parental antibodies and their cocktail. Single molecules of both bsAbs block the two epitopes targeted by parental antibodies on the receptor-binding domain (RBD). However, bsAb with the IgG-(scFv)2 design (14-H-06) but not the CrossMAb design (14-crs-06) shows increased antigen-binding and virus-neutralizing activities against multiple SARS-CoV-2 variants as well as increased breadth of neutralizing activity compared to the cocktail. X-ray crystallography and cryo-EM reveal distinct binding models for individual cocktail antibodies, and computational simulations suggest higher inter-spike crosslinking potentials by 14-H-06 than 14-crs-06. In mouse models of infections by SARS-CoV-2 and multiple variants, 14-H-06 exhibits higher or equivalent therapeutic efficacy than the cocktail. Rationally engineered bsAbs represent a cost-effective alternative to antibody cocktails and a promising strategy to improve potency and breadth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Broad neutralization of SARS-CoV-2 variants by an inhalable bispecific single-domain antibody</title>

@@ -514,6 +514,34 @@
     </item>
     
     <item>
+      <title>Identification and validation of an anoikis-associated gene signature to predict clinical character, stemness, IDH mutation, and immune filtration in glioblastoma</title>
+      <link>https://example.com/article/36091049/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36091049/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Glioblastoma (GBM) is the most prominent and aggressive primary brain tumor in adults. Anoikis is a specific form of programmed cell death that plays a key role in tumor invasion and metastasis. The presence of anti-anoikis factors is associated with tumor aggressiveness and drug resistance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The non-negative matrix factorization algorithm was used for effective dimension reduction for integrated datasets. Differences in the tumor microenvironment (TME), stemness indices, and clinical characteristics between the two clusters were analyzed. Difference analysis, weighted gene coexpression network analysis (WGCNA), univariate Cox regression, and least absolute shrinkage and selection operator regression were leveraged to screen prognosis-related genes and construct a risk score model. Immunohistochemistry was performed to evaluate the expression of representative genes in clinical specimens. The relationship between the risk score and the TME, stemness, clinical traits, and immunotherapy response was assessed in GBM and pancancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Two definite clusters were identified on the basis of anoikis-related gene expression. Patients with GBM assigned to C1 were characterized by shortened overall survival, higher suppressive immune infiltration levels, and lower stemness indices. We further constructed a risk scoring model to quantify the regulatory patterns of anoikis-related genes. The higher risk score group was characterized by a poor prognosis, the infiltration of suppressive immune cells and a differentiated phenotype, whereas the lower risk score group exhibited the opposite effects. In addition, patients in the lower risk score group exhibited a higher frequency of isocitrate dehydrogenase (IDH) mutations and a more sensitive response to immunotherapy. Drug sensitivity analysis was performed, revealing that the higher risk group may benefit more from drugs targeting the PI3K/mTOR signaling pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We revealed potential relationships between anoikis-related genes and clinical features, TME, stemness, IDH mutation, and immunotherapy and elucidated their therapeutic value.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Summary of microbiome databases</title>
       <link>https://example.com/tool/2022-07-10-db-microbiome/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
@@ -3538,6 +3566,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
 &lt;p&gt;&lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a tool for mapping large amount of short sequences to the genome. It is designed for finding all the places in a reference genome where each sequence may come from. This task is essential to the analysis of data from ultra high-throughput sequencing machines. With a carefully designed index-filtering algorithm and an efficient implementation, &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; can map tens of millions of short sequences to a genome of several billions of nucleotides. Multiple substitutions and insertions/deletions of the nucleotide bases in the sequences can be tolerated and therefore detected. &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; supports FASTA input format and various output formats, and provides command line options for tuning almost every aspect of the mapping process. A typical mapping can be done in a few hours on a desktop PC. Parallel use of &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;SeqMap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; on a cluster is also very straightforward.&lt;/p&gt;
 &lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&amp;amp;from_uid=18697769&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;see all similiar articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
 &lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&amp;amp;from_uid=18697769&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;see all &amp;ldquo;Cited by&amp;rdquo; articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>scRNA-seq of gastric tumor shows complex intercellular interaction with an alternative T cell exhaustion trajectory</title>
+      <link>https://example.com/article/35999201/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35999201/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The tumor microenvironment (TME) in gastric cancer (GC) has been shown to be important for tumor control but the specific characteristics for GC are not fully appreciated. We generated an atlas of 166,533 cells from 10 GC patients with matched paratumor tissues and blood. Our results show tumor-associated stromal cells (TASCs) have upregulated activity of Wnt signaling and angiogenesis, and are negatively correlated with survival. Tumor-associated macrophages and LAMP3&lt;sup&gt;+&lt;/sup&gt; DCs are involved in mediating T cell activity and form intercellular interaction hubs with TASCs. Clonotype and trajectory analysis demonstrates that Tc17 (IL-17&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells) originate from tissue-resident memory T cells and can subsequently differentiate into exhausted T cells, suggesting an alternative pathway for T cell exhaustion. Our results indicate that IL17&lt;sup&gt;+&lt;/sup&gt; cells may promote tumor progression through IL17, IL22, and IL26 signaling, highlighting the possibility of targeting IL17&lt;sup&gt;+&lt;/sup&gt; cells and associated signaling pathways as a therapeutic strategy to treat GC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

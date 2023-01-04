@@ -271,6 +271,31 @@
     </item>
     
     <item>
+      <title>Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data</title>
+      <link>https://example.com/article/35680885/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35680885/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The growing availability of single-cell data, especially transcriptomics, has sparked an increased interest in the inference of cell-cell communication. Many computational tools were developed for this purpose. Each of them consists of a resource of intercellular interactions prior knowledge and a method to predict potential cell-cell communication events. Yet the impact of the choice of resource and method on the resulting predictions is largely unknown. To shed light on this, we systematically compare 16 cell-cell communication inference resources and 7 methods, plus the consensus between the methods’ predictions. Among the resources, we find few unique interactions, a varying degree of overlap, and an uneven coverage of specific pathways and tissue-enriched proteins. We then examine all possible combinations of methods and resources and show that both strongly influence the predicted intercellular interactions. Finally, we assess the agreement of cell-cell communication methods with spatial colocalisation, cytokine activities, and receptor protein abundance and find that predictions are generally coherent with those data modalities. To facilitate the use of the methods and resources described in this work, we provide LIANA, a LIgand-receptor ANalysis frAmework as an open-source interface to all the resources and methods.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Mapping the temporal and spatial dynamics of the human endometrium in vivo and in vitro</title>
       <link>https://example.com/article/34857954/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
@@ -684,6 +709,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>scRNA-seq of gastric tumor shows complex intercellular interaction with an alternative T cell exhaustion trajectory</title>
+      <link>https://example.com/article/35999201/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35999201/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The tumor microenvironment (TME) in gastric cancer (GC) has been shown to be important for tumor control but the specific characteristics for GC are not fully appreciated. We generated an atlas of 166,533 cells from 10 GC patients with matched paratumor tissues and blood. Our results show tumor-associated stromal cells (TASCs) have upregulated activity of Wnt signaling and angiogenesis, and are negatively correlated with survival. Tumor-associated macrophages and LAMP3&lt;sup&gt;+&lt;/sup&gt; DCs are involved in mediating T cell activity and form intercellular interaction hubs with TASCs. Clonotype and trajectory analysis demonstrates that Tc17 (IL-17&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells) originate from tissue-resident memory T cells and can subsequently differentiate into exhausted T cells, suggesting an alternative pathway for T cell exhaustion. Our results indicate that IL17&lt;sup&gt;+&lt;/sup&gt; cells may promote tumor progression through IL17, IL22, and IL26 signaling, highlighting the possibility of targeting IL17&lt;sup&gt;+&lt;/sup&gt; cells and associated signaling pathways as a therapeutic strategy to treat GC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

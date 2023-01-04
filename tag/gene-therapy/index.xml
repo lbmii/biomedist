@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gene Therapy | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/gene-therapy/</link>
+      <atom:link href="https://example.com/tag/gene-therapy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gene Therapy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Gene Therapy</title>
+      <link>https://example.com/tag/gene-therapy/</link>
+    </image>
+    
+    <item>
+      <title>Exosome-mediated delivery of Cas9 ribonucleoprotein complexes for tissue-specific gene therapy of liver diseases</title>
+      <link>https://example.com/article/36103526/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36103526/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR-Cas9 gene editing has emerged as a powerful therapeutic technology, but the lack of safe and efficient in vivo delivery systems, especially for tissue-specific vectors, limits its broad clinical applications. Delivery of Cas9 ribonucleoprotein (RNP) owns competitive advantages over other options; however, the large size of RNPs exceeds the loading capacity of currently available delivery vectors. Here, we report a previously unidentified genome editing delivery system, named exosome&lt;sup&gt;RNP&lt;/sup&gt;, in which Cas9 RNPs were loaded into purified exosomes isolated from hepatic stellate cells through electroporation. Exosome&lt;sup&gt;RNP&lt;/sup&gt; facilitated effective cytosolic delivery of RNP in vitro while specifically accumulated in the liver tissue in vivo. Exosome&lt;sup&gt;RNP&lt;/sup&gt; showed vigorous therapeutic potential in acute liver injury, chronic liver fibrosis, and hepatocellular carcinoma mouse models via targeting p53 up-regulated modulator of apoptosis (&lt;em&gt;PUMA&lt;/em&gt;), cyclin E1 (&lt;em&gt;CcnE1&lt;/em&gt;), and K (lysine) acetyltransferase 5 (&lt;em&gt;KAT5&lt;/em&gt;), respectively. The developed exosomeRNP provides a feasible platform for precise and tissue-specific gene therapies of liver diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PARylation | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/parylation/</link>
+      <atom:link href="https://example.com/tag/parylation/index.xml" rel="self" type="application/rss+xml" />
+    <description>PARylation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>PARylation</title>
+      <link>https://example.com/tag/parylation/</link>
+    </image>
+    
+    <item>
+      <title>Tankyrases inhibit innate antiviral response by PARylating VISA/MAVS and priming it for RNF146-mediated ubiquitination and degradation</title>
+      <link>https://example.com/article/35733260/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35733260/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During viral infection, sensing of viral RNA by retinoic acid-inducible gene-I-like receptors (RLRs) initiates an antiviral innate immune response, which is mediated by the mitochondrial adaptor protein VISA (virus-induced signal adaptor; also known as mitochondrial antiviral signaling protein [MAVS]). VISA is regulated by various posttranslational modifications (PTMs), such as polyubiquitination, phosphorylation, O-linked β-d-N-acetylglucosaminylation (O-GlcNAcylation), and monomethylation. However, whether other forms of PTMs regulate VISA-mediated innate immune signaling remains elusive. Here, we report that Poly(ADP-ribosyl)ation (PARylation) is a PTM of VISA, which attenuates innate immune response to RNA viruses. Using a biochemical purification approach, we identified tankyrase 1 (TNKS1) as a VISA-associated protein. Viral infection led to the induction of TNKS1 and its homolog TNKS2, which translocated from cytosol to mitochondria and interacted with VISA. TNKS1 and TNKS2 catalyze the PARylation of VISA at Glu137 residue, thereby priming it for K48-linked polyubiquitination by the E3 ligase Ring figure protein 146 (RNF146) and subsequent degradation. Consistently, TNKS1, TNKS2, or RNF146 deficiency increased the RNA virus-triggered induction of downstream effector genes and impaired the replication of the virus. Moreover, TNKS1- or TNKS2-deficient mice produced higher levels of type I interferons (IFNs) and proinflammatory cytokines after virus infection and markedly reduced virus loads in the brains and lungs. Together, our findings uncover an essential role of PARylation of VISA in virus-triggered innate immune signaling, which represents a mechanism to avoid excessive harmful immune response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

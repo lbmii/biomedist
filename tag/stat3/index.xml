@@ -5,12 +5,37 @@
     <link>https://example.com/tag/stat3/</link>
       <atom:link href="https://example.com/tag/stat3/index.xml" rel="self" type="application/rss+xml" />
     <description>STAT3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>STAT3</title>
       <link>https://example.com/tag/stat3/</link>
     </image>
+    
+    <item>
+      <title>SHF Acts as a Novel Tumor Suppressor in Glioblastoma Multiforme by Disrupting STAT3 Dimerization</title>
+      <link>https://example.com/article/35843865/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35843865/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sustained activation of signal transducer and activator of transcription 3 (STAT3) is a critical contributor in tumorigenesis and chemoresistance, thus making it an attractive cancer therapeutic target. Here, SH2 domain-containing adapter protein F (SHF) is identified as a tumor suppressor in glioblastoma Multiforme (GBM) and its negative regulation of STAT3 activity is characterized. Mechanically, SHF selectively binds and inhibits acetylated STAT3 dimerization without affecting STAT3 phosphorylation or acetylation. Additionally, by blocking STAT3-DNMT1 (DNA Methyltransferase 1) interaction, SHF relieves methylation of tumor suppressor genes. The SH2 domain is documented to be essential for SHF&amp;rsquo;s actions on STAT3, and almost entirely replaces the functions of SHF on STAT3 independently. Moreover, the peptide C16 a peptide derived from the STAT3-binding sites of SHF inhibits STAT3 dimerization and STAT3/DNMT1 interaction, and achieves remarkable growth inhibition in GBM cells in vitro and in vivo. These findings strongly identify targeting of the SHF/STAT3 interaction as a promising strategy for developing an optimal STAT3 inhibitor and provide early evidence of the potential clinical efficacy of STAT3 inhibitors such as C16 in GBM.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>STAT3 signaling in immunity</title>

@@ -5,12 +5,112 @@
     <link>https://example.com/tag/lysosome/</link>
       <atom:link href="https://example.com/tag/lysosome/index.xml" rel="self" type="application/rss+xml" />
     <description>Lysosome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lysosome</title>
       <link>https://example.com/tag/lysosome/</link>
     </image>
+    
+    <item>
+      <title>Lysosomal enzyme trafficking factor LYSET enables nutritional usage of extracellular proteins</title>
+      <link>https://example.com/article/36074822/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36074822/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mammalian cells can generate amino acids through macropinocytosis and lysosomal breakdown of extracellular proteins, which is exploited by cancer cells to grow in nutrient-poor tumors. Through genetic screens in defined nutrient conditions, we characterized LYSET, a transmembrane protein (TMEM251) selectively required when cells consume extracellular proteins. LYSET was found to associate in the Golgi with GlcNAc-1-phosphotransferase, which targets catabolic enzymes to lysosomes through mannose-6-phosphate modification. Without LYSET, GlcNAc-1-phosphotransferase was unstable because of a hydrophilic transmembrane domain. Consequently, LYSET-deficient cells were depleted of lysosomal enzymes and impaired in turnover of macropinocytic and autophagic cargoes. Thus, LYSET represents a core component of the lysosomal enzyme trafficking pathway, underlies the pathomechanism for hereditary lysosomal storage disorders, and may represent a target to suppress metabolic adaptations in cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The human disease gene LYSET is essential for lysosomal enzyme transport and viral infection</title>
+      <link>https://example.com/article/36074821/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36074821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lysosomes are key degradative compartments of the cell. Transport to lysosomes relies on GlcNAc-1-phosphotransferase-mediated tagging of soluble enzymes with mannose 6-phosphate (M6P). GlcNAc-1-phosphotransferase deficiency leads to the severe lysosomal storage disorder mucolipidosis II (MLII). Several viruses require lysosomal cathepsins to cleave structural proteins and thus depend on functional GlcNAc-1-phosphotransferase. We used genome-scale CRISPR screens to identify lysosomal enzyme trafficking factor (LYSET, also named TMEM251) as essential for infection by cathepsin-dependent viruses including severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). LYSET deficiency resulted in global loss of M6P tagging and mislocalization of GlcNAc-1-phosphotransferase from the Golgi complex to lysosomes. &lt;em&gt;Lyset&lt;/em&gt; knockout mice exhibited MLII-like phenotypes, and human pathogenic LYSET alleles failed to restore lysosomal sorting defects. Thus, LYSET is required for correct functioning of the M6P trafficking machinery and mutations in LYSET can explain the phenotype of the associated disorder.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The Acid Gate in the Lysosome</title>
+      <link>https://example.com/article/36120744/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36120744/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The acidic environment within lysosomes is maintained within a narrow pH range (pH 4.5-5.0) optimal for digesting autophagic cargo macromolecules so that the resulting building block metabolites can be reused. This pH homeostasis is a consequence of proton influx produced by a V-type H&lt;sup&gt;+&lt;/sup&gt;-translocating ATPase (V-ATPase) and rapid proton efflux through an unidentified &amp;ldquo;leak&amp;rdquo; pathway. By performing a candidate expression screening, we discovered that the &lt;em&gt;TMEM175&lt;/em&gt; gene encodes a proton-activated, proton-selective channel (LyPAP) that is required for lysosomal H&lt;sup&gt;+&lt;/sup&gt; &amp;ldquo;leak&amp;rdquo; currents. The activity of LyPAP is most active when lysosomes are hyper-acidified, and cells lacking TMEM175 exhibit lysosomal hyper-acidification and impaired proteolytic degradation, both of which can be restored by optimizing lysosomal pH using pharmacological agents. Variants of &lt;em&gt;TMEM175&lt;/em&gt; that are associated with susceptibility to Parkinson disease (PD) cause a reduction in TMEM175-dependent LyPAP currents and lysosomal hyper-acidification. Hence, our studies not only reveal an essential H&lt;sup&gt;+&lt;/sup&gt;-dissipating pathway in lysosomes, but also provide a molecular target to regulate pH-dependent lysosomal functions and associated pathologies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A phosphoinositide signalling pathway mediates rapid lysosomal repair</title>
+      <link>https://example.com/article/36071159/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36071159/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lysosomal dysfunction has been increasingly linked to disease and normal ageing. Lysosomal membrane permeabilization (LMP), a hallmark of lysosome-related diseases, can be triggered by diverse cellular stressors. Given the damaging contents of lysosomes, LMP must be rapidly resolved, although the underlying mechanisms are poorly understood. Here, using an unbiased proteomic approach, we show that LMP stimulates a phosphoinositide-initiated membrane tethering and lipid transport (PITT) pathway for rapid lysosomal repair. Upon LMP, phosphatidylinositol-4 kinase type 2α (PI4K2A) accumulates rapidly on damaged lysosomes, generating high levels of the lipid messenger phosphatidylinositol-4-phosphate. Lysosomal phosphatidylinositol-4-phosphate in turn recruits multiple oxysterol-binding protein (OSBP)-related protein (ORP) family members, including ORP9, ORP10, ORP11 and OSBP, to orchestrate extensive new membrane contact sites between damaged lysosomes and the endoplasmic reticulum. The ORPs subsequently catalyse robust endoplasmic reticulum-to-lysosome transfer of phosphatidylserine and cholesterol to support rapid lysosomal repair. Finally, the lipid transfer protein ATG2 is also recruited to damaged lysosomes where its activity is potently stimulated by phosphatidylserine. Independent of macroautophagy, ATG2 mediates rapid membrane repair through direct lysosomal lipid transfer. Together, our findings identify that the PITT pathway maintains lysosomal membrane integrity, with important implications for numerous age-related diseases characterized by impaired lysosomal function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The Lysosomal Rag-Ragulator Complex Licenses RIPK1 and Caspase-8-mediated Pyroptosis by Yersinia</title>

@@ -5,12 +5,39 @@
     <link>https://example.com/tag/influenza-virus/</link>
       <atom:link href="https://example.com/tag/influenza-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Influenza Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Influenza Virus</title>
       <link>https://example.com/tag/influenza-virus/</link>
     </image>
+    
+    <item>
+      <title>PSMD12-Mediated M1 Ubiquitination of Influenza A Virus at K102 Regulates Viral Replication</title>
+      <link>https://example.com/article/35861516/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35861516/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The M1 of influenza A virus (IAV) is important for the virus life cycle, especially for the assembly and budding of viruses, which is a multistep process that requires host factors. Identifying novel host proteins that interact with M1 and understanding their functions in IAV replication are of great interest in antiviral drug development. In this study, we identified 19 host proteins in DF1 cells suspected to interact with the M1 protein of an H5N6 virus through immunoprecipitation (IP)/mass spectrometry. Among them, PSMD12, a 26S proteasome regulatory subunit, was shown to interact with influenza M1, acting as a positive host factor in IAV replication in avian and human cells. The data showed that PSMD12 promoted K63-linked ubiquitination of M1 at the K102 site. H5N6 and PR8 with an M1-K102 site mutant displayed a significantly weaker replication ability than the wild-type viruses. Mechanistically, PSMD12 promoted M1-M2 virus-like particle (VLP) release, and an M1-K102 mutation disrupted the formation of supernatant M1-M2 VLPs. An H5N6 M1-K102 site mutation or knockdown PSMD12 disrupted the budding release of the virus in chicken embryo fibroblast (CEF) cells, which was confirmed by transmission electron microscopy. Further study confirmed that M1-K102 site mutation significantly affected the virulence of H5N6 and PR8 viruses in mice. In conclusion, we report the novel host factor PSMD12 which affects the replication of influenza virus by mediating K63-linked ubiquitination of M1 at K102. These findings provide novel insight into the interactions between IAV and host cells, while suggesting an important target for anti-influenza virus drug research.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;M1 is proposed to play multiple biologically important roles in the life cycle of IAV, which relies largely on host factors. This study is the first one to identify that PSMD12 interacts with M1, mediates K63-linked ubiquitination of M1 at the K102 site, and thus positively regulates influenza virus proliferation. PSMD12 promoted M1-M2 VLP egress, and an M1-K102 mutation affected the M1-M2 VLP formation. Furthermore, we demonstrate the importance of this site to the morphology and budding of influenza viruses by obtaining mutant viruses, and the M1 ubiquitination regulator PSMD12 has a similar function to the M1 K102 mutation in regulating virus release and virus morphology. Additionally, we confirm the reduced virulence of H5N6 and PR8 (H1N1) viruses carrying the M1-K102 site mutation in mice. These findings provide novel insights into IAV interactions with host cells and suggest a valid and highly conserved candidate target for antiviral drug development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Enantiomer-dependent immunological response to chiral nanoparticles</title>

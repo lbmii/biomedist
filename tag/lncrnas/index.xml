@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lncrnas/</link>
       <atom:link href="https://example.com/tag/lncrnas/index.xml" rel="self" type="application/rss+xml" />
     <description>lncRNAs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>lncRNAs</title>
       <link>https://example.com/tag/lncrnas/</link>
     </image>
+    
+    <item>
+      <title>Enterobacterial LPS-inducible LINC00152 is regulated by histone lactylation and promotes cancer cells invasion and migration</title>
+      <link>https://example.com/article/35959377/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35959377/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gut microbes participate in pathogenesis by interacting with the host genome through epigenetic mechanisms, such as long non-coding RNAs. However, the mechanisms by which the microbiota induce expression alteration of long non-coding RNAs remains unclear. Here, we quantified the transcriptome alteration of human colon cell lines after being infected by a common enteric pathogen &lt;em&gt;Salmonella typhimurium SL1344&lt;/em&gt;. We observed a widespread lncRNAs expression alteration. Among them, the elevated expression of LINC00152 was verified and proved to be induced by enteric bacteria-derived lipopolysaccharide (LPS). The inducible LINC00152 were found to inhibit Salmonella invasion and inflammation response. LINC00152 was overexpressed in tumors of the clinical CRC samples compared with adjacent normal tissues. Accordingly, we also demonstrated that overexpression of LINC00152 promoted the migration and invasion of colorectal cancer cells. Consistently, we observed an increased abundance of gram-negative bacteria and LPS in tumors tissue. Taken together, the above data implicated that enriched gram-negative bacteria in tumor tissue might promote tumor growth through modulating the expression of LINC00152. Furthermore, we demonstrated that LPS upregulated the expression of LINC00152 by introducing histone lactylation on its promoter and decreasing the binding efficiency of the repressor, YY1, to it. Our results provide new insights into how enterobacteria affect host epigenetics in human disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>LncRNA-PACERR induces pro-tumour macrophages via interacting with miR-671-3p and m6A-reader IGF2BP2 in pancreatic ductal adenocarcinoma</title>

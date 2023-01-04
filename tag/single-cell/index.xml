@@ -98,6 +98,56 @@
     </item>
     
     <item>
+      <title>HTCA: a database with an in-depth characterization of the single-cell human transcriptome</title>
+      <link>https://example.com/article/36130266/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36130266/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell RNA-sequencing (scRNA-seq) is one of the most used single-cell omics in recent decades. The exponential growth of single-cell data has immense potential for large-scale integration and in-depth explorations that are more representative of the study population. Efforts have been made to consolidate published data, yet extensive characterization is still lacking. Many focused on raw-data database constructions while others concentrate mainly on gene expression queries. Hereby, we present &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt;, an interactive database constructed based on ∼2.3 million high-quality cells from ∼3000 scRNA-seq samples and comprised in-depth phenotype profiles of 19 healthy adult and matching fetal tissues. &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; provides a one-stop interactive query to gene signatures, transcription factor (TF) activities, TF motifs, receptor-ligand interactions, enriched gene ontology (GO) terms, etc. across cell types in adult and fetal tissues. At the same time, &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; encompasses single-cell splicing variant profiles of 16 adult and fetal tissues, spatial transcriptomics profiles of 11 adult and fetal tissues, and single-cell ATAC-sequencing (scATAC-seq) profiles of 27 adult and fetal tissues. Besides, &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; provides online analysis tools to perform major steps in a typical scRNA-seq analysis. Altogether, &lt;a href=&#34;www.htcatlas.org&#34;&gt;HTCA&lt;/a&gt; allows real-time explorations of multi-omics adult and fetal phenotypic profiles and provides tools for a flexible scRNA-seq analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long-primed germinal centres with enduring affinity maturation and clonal migration</title>
+      <link>https://example.com/article/36131022/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36131022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Germinal centres are the engines of antibody evolution. Here, using human immunodeficiency virus (HIV) Env protein immunogen priming in rhesus monkeys followed by a long period without further immunization, we demonstrate germinal centre B (B&lt;sub&gt;GC&lt;/sub&gt;) cells that last for at least 6 months. A 186-fold increase in B&lt;sub&gt;GC&lt;/sub&gt; cells was present by week 10 compared with conventional immunization. Single-cell transcriptional profiling showed that both light- and dark-zone germinal centre states were sustained. Antibody somatic hypermutation of B&lt;sub&gt;GC&lt;/sub&gt; cells continued to accumulate throughout the 29-week priming period, with evidence of selective pressure. Env-binding B&lt;sub&gt;GC&lt;/sub&gt; cells were still 49-fold above baseline at 29 weeks, which suggests that they could remain active for even longer periods of time. High titres of HIV-neutralizing antibodies were generated after a single booster immunization. Fully glycosylated HIV trimer protein is a complex antigen, posing considerable immunodominance challenges for B cells. Memory B cells generated under these long priming conditions had higher levels of antibody somatic hypermutation, and both memory B cells and antibodies were more likely to recognize non-immunodominant epitopes. Numerous B&lt;sub&gt;GC&lt;/sub&gt; cell lineage phylogenies spanning more than the 6-month germinal centre period were identified, demonstrating continuous germinal centre activity and selection for at least 191 days with no further antigen exposure. A long-prime, slow-delivery (12 days) immunization approach holds promise for difficult vaccine targets and suggests that patience can have great value for tuning of germinal centres to maximize antibody responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell and spatial analysis reveal interaction of FAP&#43; fibroblasts and SPP1&#43; macrophages in colorectal cancer</title>
       <link>https://example.com/article/35365629/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
@@ -702,6 +752,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; C57BL/6 mice were orotracheally instilled with LPS (20 mg/kg). Compact bone-derived MSCs were administered orotracheally 4 h after LPS inhalation. Mononuclear phagocytes recruited in the lung tissues were characterized at different timepoints by high-dimensional analysis including flow cytometry, mass cytometry, and single-cell RNA sequencing.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Eight mononuclear phagocyte subsets recruited to LPS-challenged lungs were precisely identified. On day 3 after LPS administration, both Ly6C&lt;sup&gt;hi&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; and Ly6C&lt;sup&gt;low&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes were recruited into acutely injured lungs, which was associated with increased secretion of neutrophil chemokines. Ly6C&lt;sup&gt;hi&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes differentiated into M1 macrophages on day 3, and subsequently differentiated into CD38&lt;sup&gt;+&lt;/sup&gt; monocyte-derived dendritic cells (mo-DCs) on day 7, while Ly6C&lt;sup&gt;low&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes differentiated into CD11b&lt;sup&gt;+&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; DCs on day 7. When ALI mice were treated with MSCs, the mortality significantly reduced. Notably, MSCs reduced the amount of M1 macrophages and reduced the secretion of neutrophil chemokines on day 3. Furthermore, MSCs reduced the number of CD38&lt;sup&gt;+&lt;/sup&gt; mo-DCs and CD11b&lt;sup&gt;+&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; DCs on day 7, suppressing the antigen presentation process. Recruited mononuclear phagocyte subsets with a high level of CD38 exhibited an activated phenotype and could secrete higher levels of cytokines and chemokines.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This study characterized the dynamic functions and phenotypes of recruited mononuclear phagocytes in ALI mice and MSC-treated ALI mice.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>scRNA-seq of gastric tumor shows complex intercellular interaction with an alternative T cell exhaustion trajectory</title>
+      <link>https://example.com/article/35999201/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35999201/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The tumor microenvironment (TME) in gastric cancer (GC) has been shown to be important for tumor control but the specific characteristics for GC are not fully appreciated. We generated an atlas of 166,533 cells from 10 GC patients with matched paratumor tissues and blood. Our results show tumor-associated stromal cells (TASCs) have upregulated activity of Wnt signaling and angiogenesis, and are negatively correlated with survival. Tumor-associated macrophages and LAMP3&lt;sup&gt;+&lt;/sup&gt; DCs are involved in mediating T cell activity and form intercellular interaction hubs with TASCs. Clonotype and trajectory analysis demonstrates that Tc17 (IL-17&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells) originate from tissue-resident memory T cells and can subsequently differentiate into exhausted T cells, suggesting an alternative pathway for T cell exhaustion. Our results indicate that IL17&lt;sup&gt;+&lt;/sup&gt; cells may promote tumor progression through IL17, IL22, and IL26 signaling, highlighting the possibility of targeting IL17&lt;sup&gt;+&lt;/sup&gt; cells and associated signaling pathways as a therapeutic strategy to treat GC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

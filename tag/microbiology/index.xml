@@ -5,12 +5,216 @@
     <link>https://example.com/tag/microbiology/</link>
       <atom:link href="https://example.com/tag/microbiology/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiology</title>
       <link>https://example.com/tag/microbiology/</link>
     </image>
+    
+    <item>
+      <title>The human disease gene LYSET is essential for lysosomal enzyme transport and viral infection</title>
+      <link>https://example.com/article/36074821/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36074821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lysosomes are key degradative compartments of the cell. Transport to lysosomes relies on GlcNAc-1-phosphotransferase-mediated tagging of soluble enzymes with mannose 6-phosphate (M6P). GlcNAc-1-phosphotransferase deficiency leads to the severe lysosomal storage disorder mucolipidosis II (MLII). Several viruses require lysosomal cathepsins to cleave structural proteins and thus depend on functional GlcNAc-1-phosphotransferase. We used genome-scale CRISPR screens to identify lysosomal enzyme trafficking factor (LYSET, also named TMEM251) as essential for infection by cathepsin-dependent viruses including severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). LYSET deficiency resulted in global loss of M6P tagging and mislocalization of GlcNAc-1-phosphotransferase from the Golgi complex to lysosomes. &lt;em&gt;Lyset&lt;/em&gt; knockout mice exhibited MLII-like phenotypes, and human pathogenic LYSET alleles failed to restore lysosomal sorting defects. Thus, LYSET is required for correct functioning of the M6P trafficking machinery and mutations in LYSET can explain the phenotype of the associated disorder.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineering SARS-CoV-2 specific cocktail antibodies into a bispecific format improves neutralizing potency and breadth</title>
+      <link>https://example.com/article/36138032/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36138032/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One major limitation of neutralizing antibody-based COVID-19 therapy is the requirement of costly cocktails to reduce emergence of antibody resistance. Here we engineer two bispecific antibodies (bsAbs) using distinct designs and compared them with parental antibodies and their cocktail. Single molecules of both bsAbs block the two epitopes targeted by parental antibodies on the receptor-binding domain (RBD). However, bsAb with the IgG-(scFv)2 design (14-H-06) but not the CrossMAb design (14-crs-06) shows increased antigen-binding and virus-neutralizing activities against multiple SARS-CoV-2 variants as well as increased breadth of neutralizing activity compared to the cocktail. X-ray crystallography and cryo-EM reveal distinct binding models for individual cocktail antibodies, and computational simulations suggest higher inter-spike crosslinking potentials by 14-H-06 than 14-crs-06. In mouse models of infections by SARS-CoV-2 and multiple variants, 14-H-06 exhibits higher or equivalent therapeutic efficacy than the cocktail. Rationally engineered bsAbs represent a cost-effective alternative to antibody cocktails and a promising strategy to improve potency and breadth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long-primed germinal centres with enduring affinity maturation and clonal migration</title>
+      <link>https://example.com/article/36131022/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36131022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Germinal centres are the engines of antibody evolution. Here, using human immunodeficiency virus (HIV) Env protein immunogen priming in rhesus monkeys followed by a long period without further immunization, we demonstrate germinal centre B (B&lt;sub&gt;GC&lt;/sub&gt;) cells that last for at least 6 months. A 186-fold increase in B&lt;sub&gt;GC&lt;/sub&gt; cells was present by week 10 compared with conventional immunization. Single-cell transcriptional profiling showed that both light- and dark-zone germinal centre states were sustained. Antibody somatic hypermutation of B&lt;sub&gt;GC&lt;/sub&gt; cells continued to accumulate throughout the 29-week priming period, with evidence of selective pressure. Env-binding B&lt;sub&gt;GC&lt;/sub&gt; cells were still 49-fold above baseline at 29 weeks, which suggests that they could remain active for even longer periods of time. High titres of HIV-neutralizing antibodies were generated after a single booster immunization. Fully glycosylated HIV trimer protein is a complex antigen, posing considerable immunodominance challenges for B cells. Memory B cells generated under these long priming conditions had higher levels of antibody somatic hypermutation, and both memory B cells and antibodies were more likely to recognize non-immunodominant epitopes. Numerous B&lt;sub&gt;GC&lt;/sub&gt; cell lineage phylogenies spanning more than the 6-month germinal centre period were identified, demonstrating continuous germinal centre activity and selection for at least 191 days with no further antigen exposure. A long-prime, slow-delivery (12 days) immunization approach holds promise for difficult vaccine targets and suggests that patience can have great value for tuning of germinal centres to maximize antibody responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Urine is a viral antigen reservoir in hepatitis E virus infection</title>
+      <link>https://example.com/article/36106666/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36106666/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background and aims:&lt;/em&gt; HEV ORF2 antigen (Ag) in serum has become a tool for diagnosing current HEV infection. Particularly, urinary shedding of HEV Ag has been gaining increasing interest. We aim to uncover the origin, antigenicity, diagnostic performance, and diagnostic significance of Ag in urine in HEV infection.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Approach and results:&lt;/em&gt; Clinical serum and urine samples from patients with acute and chronic HEV infection were analyzed for their Ag levels. Ag in urine was analyzed by biochemical and proteomic approaches. The origin of urinary Ag and Ag kinetics during HEV infection was investigated in mouse and rabbit models, respectively. We found that both the Ag level and diagnostic sensitivity in urine were higher than in serum. Antigenic protein in urine was an E2s-like dimer spanning amino acids 453-606. pORF2 entered urine from serum in mice i.v. injected with pORF2. Ag in urine originated from the secreted form of pORF2 (ORF2&lt;sup&gt;S&lt;/sup&gt;) that abundantly existed in hepatitis E patients&amp;rsquo; serum. HEV Ag was specifically taken up by renal cells and was disposed into urine, during which the level of Ag was concentrated &amp;gt;10-fold, resulting in the higher diagnosing sensitivity of urine Ag than serum Ag. Moreover, Ag in urine appeared 6 days earlier, lasted longer than viremia and antigenemia, and showed good concordance with fecal RNA in a rabbit model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings demonstrated the origin and diagnostic value of urine Ag and provided insights into the disposal of exogenous protein of pathogens by the host kidney.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Vimentin inhibits α-tubulin acetylation via enhancing α-TAT1 degradation to suppress the replication of human parainfluenza virus type 3</title>
+      <link>https://example.com/article/36108090/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36108090/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We previously found that, among human parainfluenza virus type 3 (HPIV3) proteins, the interaction of nucleoprotein (N) and phosphoprotein (P) provides the minimal requirement for the formation of cytoplasmic inclusion bodies (IBs), which are sites of RNA synthesis, and that acetylated α-tubulin enhances IB fusion and viral replication. In this study, using immunoprecipitation and mass spectrometry assays, we determined that vimentin (VIM) specifically interacted with the N-P complex of HPIV3, and that the head domain of VIM was responsible for this interaction, contributing to the inhibition of IB fusion and viral replication. Furthermore, we found that VIM promoted the degradation of α-tubulin acetyltransferase 1 (α-TAT1), through its head region, thereby inhibiting the acetylation of α-tubulin, IB fusion, and viral replication. In addition, we identified a 20-amino-acid peptide derived from the head region of VIM that participated in the interaction with the N-P complex and inhibited viral replication. Our findings suggest that VIM inhibits the formation of HPIV3 IBs by downregulating α-tubulin acetylation via enhancing the degradation of α-TAT1. Our work sheds light on a new mechanism by which VIM suppresses HPIV3 replication.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Structural and functional characterization of NEMO cleavage by SARS-CoV-2 3CLpro</title>
+      <link>https://example.com/article/36075915/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36075915/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In addition to its essential role in viral polyprotein processing, the SARS-CoV-2 3C-like protease (3CLpro) can cleave human immune signaling proteins, like NF-κB Essential Modulator (NEMO) and deregulate the host immune response. Here, in vitro assays show that SARS-CoV-2 3CLpro cleaves NEMO with fine-tuned efficiency. Analysis of the 2.50 Å resolution crystal structure of 3CLpro C145S bound to NEMO&lt;sub&gt;226-234&lt;/sub&gt; reveals subsites that tolerate a range of viral and host substrates through main chain hydrogen bonds while also enforcing specificity using side chain hydrogen bonds and hydrophobic contacts. Machine learning- and physics-based computational methods predict that variation in key binding residues of 3CLpro-NEMO helps explain the high fitness of SARS-CoV-2 in humans. We posit that cleavage of NEMO is an important piece of information to be accounted for, in the pathology of COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circular RNA circSFMBT2 downregulation by HBx promotes hepatocellular carcinoma metastasis via the miR-665/TIMP3 axis</title>
+      <link>https://example.com/article/36159591/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36159591/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatitis B virus X protein (HBx) is considered as an oncogene in tumorigenesis and progression of hepatocellular carcinoma (HCC). In recent years, the important role of circular RNAs (circRNAs) in HCC has been increasingly demonstrated. However, the regulatory mechanisms of HBx on circRNAs remains largely unknown. In this study, we identified that a novel circRNA, circSFMBT2, was markedly downregulated by HBx. Low expression of circSFMBT2 was correlated with poor prognosis and vascular invasion. Functionally, overexpression of circSFMBT2 significantly inhibited HCC metastasis both in vitro and in vivo. The mechanism of circSFMBT2 was to as a sponge of miR-665, which is a negative regulator of tissue inhibitor of metalloproteinases 3 (TIMP3). However, HBx downregulated circSFMBT2 via the interaction with DExH-box helicase 9 (DHX9), which binds to flanking circRNA-forming introns. In conclusion, circSFMBT2, which is downregulated by HBx, acts as a tumor suppressor to inhibit tumor metastasis through the miR-665/TIMP3 axis. Our study suggests that circSFMBT2 could be a potential prognostic biomarker and therapeutic target for HCC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PSMD12-Mediated M1 Ubiquitination of Influenza A Virus at K102 Regulates Viral Replication</title>
+      <link>https://example.com/article/35861516/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35861516/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The M1 of influenza A virus (IAV) is important for the virus life cycle, especially for the assembly and budding of viruses, which is a multistep process that requires host factors. Identifying novel host proteins that interact with M1 and understanding their functions in IAV replication are of great interest in antiviral drug development. In this study, we identified 19 host proteins in DF1 cells suspected to interact with the M1 protein of an H5N6 virus through immunoprecipitation (IP)/mass spectrometry. Among them, PSMD12, a 26S proteasome regulatory subunit, was shown to interact with influenza M1, acting as a positive host factor in IAV replication in avian and human cells. The data showed that PSMD12 promoted K63-linked ubiquitination of M1 at the K102 site. H5N6 and PR8 with an M1-K102 site mutant displayed a significantly weaker replication ability than the wild-type viruses. Mechanistically, PSMD12 promoted M1-M2 virus-like particle (VLP) release, and an M1-K102 mutation disrupted the formation of supernatant M1-M2 VLPs. An H5N6 M1-K102 site mutation or knockdown PSMD12 disrupted the budding release of the virus in chicken embryo fibroblast (CEF) cells, which was confirmed by transmission electron microscopy. Further study confirmed that M1-K102 site mutation significantly affected the virulence of H5N6 and PR8 viruses in mice. In conclusion, we report the novel host factor PSMD12 which affects the replication of influenza virus by mediating K63-linked ubiquitination of M1 at K102. These findings provide novel insight into the interactions between IAV and host cells, while suggesting an important target for anti-influenza virus drug research.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;M1 is proposed to play multiple biologically important roles in the life cycle of IAV, which relies largely on host factors. This study is the first one to identify that PSMD12 interacts with M1, mediates K63-linked ubiquitination of M1 at the K102 site, and thus positively regulates influenza virus proliferation. PSMD12 promoted M1-M2 VLP egress, and an M1-K102 mutation affected the M1-M2 VLP formation. Furthermore, we demonstrate the importance of this site to the morphology and budding of influenza viruses by obtaining mutant viruses, and the M1 ubiquitination regulator PSMD12 has a similar function to the M1 K102 mutation in regulating virus release and virus morphology. Additionally, we confirm the reduced virulence of H5N6 and PR8 (H1N1) viruses carrying the M1-K102 site mutation in mice. These findings provide novel insights into IAV interactions with host cells and suggest a valid and highly conserved candidate target for antiviral drug development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Summary of microbiome databases</title>
@@ -89,6 +293,56 @@
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>UFL1 promotes antiviral immune response by maintaining STING stability independent of UFMylation</title>
+      <link>https://example.com/article/35871231/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35871231/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The precise regulation of STING homeostasis is essential for its antiviral function. Post-translational modification, especially ubiquitination, is important for the regulation of STING homeostasis. Previous studies have focused on how STING is degraded, but little is known about its maintenance. Here, we show that UFM1 specific ligase UFL1 promotes innate immune response by maintaining STING expression independent of UFMylation. Mechanistically, UFL1 inhibits TRIM29 to interact with STING, thereby reducing its ubiquitination at K338/K347/K370 and subsequent proteasomal degradation. DNA virus infection reduces the UFL1 expression, which may promote STING degradation and facilitate viral expansion. Our study identifies UFL1 as a crucial regulator for the maintenance of STING stability and antiviral function, and provides novel insights into the mechanistic explanation for the immunological escape of DNA virus.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tankyrases inhibit innate antiviral response by PARylating VISA/MAVS and priming it for RNF146-mediated ubiquitination and degradation</title>
+      <link>https://example.com/article/35733260/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35733260/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During viral infection, sensing of viral RNA by retinoic acid-inducible gene-I-like receptors (RLRs) initiates an antiviral innate immune response, which is mediated by the mitochondrial adaptor protein VISA (virus-induced signal adaptor; also known as mitochondrial antiviral signaling protein [MAVS]). VISA is regulated by various posttranslational modifications (PTMs), such as polyubiquitination, phosphorylation, O-linked β-d-N-acetylglucosaminylation (O-GlcNAcylation), and monomethylation. However, whether other forms of PTMs regulate VISA-mediated innate immune signaling remains elusive. Here, we report that Poly(ADP-ribosyl)ation (PARylation) is a PTM of VISA, which attenuates innate immune response to RNA viruses. Using a biochemical purification approach, we identified tankyrase 1 (TNKS1) as a VISA-associated protein. Viral infection led to the induction of TNKS1 and its homolog TNKS2, which translocated from cytosol to mitochondria and interacted with VISA. TNKS1 and TNKS2 catalyze the PARylation of VISA at Glu137 residue, thereby priming it for K48-linked polyubiquitination by the E3 ligase Ring figure protein 146 (RNF146) and subsequent degradation. Consistently, TNKS1, TNKS2, or RNF146 deficiency increased the RNA virus-triggered induction of downstream effector genes and impaired the replication of the virus. Moreover, TNKS1- or TNKS2-deficient mice produced higher levels of type I interferons (IFNs) and proinflammatory cytokines after virus infection and markedly reduced virus loads in the brains and lungs. Together, our findings uncover an essential role of PARylation of VISA in virus-triggered innate immune signaling, which represents a mechanism to avoid excessive harmful immune response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/obstetrics-gynaecology/</link>
       <atom:link href="https://example.com/tag/obstetrics-gynaecology/index.xml" rel="self" type="application/rss+xml" />
     <description>Obstetrics &amp; Gynaecology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Obstetrics &amp; Gynaecology</title>
       <link>https://example.com/tag/obstetrics-gynaecology/</link>
     </image>
+    
+    <item>
+      <title>METTL3 potentiates progression of cervical cancer by suppressing ER stress via regulating m6A modification of TXNDC5 mRNA</title>
+      <link>https://example.com/article/35987795/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35987795/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N6-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A) is the most abundant chemical modification on mRNA and plays significant roles in many bioprocesses. However, the functions of m&lt;sup&gt;6&lt;/sup&gt;A on cervical cancer (CC) tumorigenesis remain unclear. Here we found methyltransferase-like 3 (METTL3), a core member of the m&lt;sup&gt;6&lt;/sup&gt;A methyltransferase family, was greatly upregulated as an independent prognostic factor in CC. Mechanistically, the transcription factor ETS1 recruited P300 and WDR5 which separately mediated H3K27ac and H3K4me3 histone modification in the promoter of METTL3 and induced METTL3 transcription activation. Furthermore, we identified TXNDC5 as a target of METTL3-mediated m&lt;sup&gt;6&lt;/sup&gt;A modification through MeRIP-seq, and revealed that METTL3-mediated TXNDC5 expression relied on the m&lt;sup&gt;6&lt;/sup&gt;A reader-dependent manner. Functionally, we verified that METTL3 promoted proliferation and metastasis of CC cells by regulating of TXNDC5 expression through in vitro and in vivo experiments. In addition, our study verified the effect of METTL3/TXNDC5 axis on ER stress. Taken together, METTL3 facilitates the malignant progression of CC, suggesting that METTL3 might be a potential prognostic biomarker and therapeutic target for CC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Metformin induces Ferroptosis by inhibiting UFMylation of SLC7A11 in breast cancer</title>

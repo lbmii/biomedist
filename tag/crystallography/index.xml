@@ -5,12 +5,37 @@
     <link>https://example.com/tag/crystallography/</link>
       <atom:link href="https://example.com/tag/crystallography/index.xml" rel="self" type="application/rss+xml" />
     <description>Crystallography</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Crystallography</title>
       <link>https://example.com/tag/crystallography/</link>
     </image>
+    
+    <item>
+      <title>Structural basis for product specificities of MLL family methyltransferases</title>
+      <link>https://example.com/article/36108631/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36108631/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human mixed-lineage leukemia (MLL) family methyltransferases methylate histone H3 lysine 4 to different methylation states (me1/me2/me3) with distinct functional outputs, but the mechanism underlying the different product specificities of MLL proteins remains unclear. Here, we develop methodologies to quantitatively measure the methylation rate difference between mono-, di-, and tri-methylation steps and demonstrate that MLL proteins possess distinct product specificities in the context of the minimum MLL-RBBP5-ASH2L complex. Comparative structural analyses of MLL complexes by X-ray crystal structures, fluorine-19 nuclear magnetic resonance, and molecular dynamics simulations reveal that the dynamics of two conserved tyrosine residues at the &amp;ldquo;F/Y (phenylalanine/tyrosine) switch&amp;rdquo; positions fine-tune the product specificity. The variation in the intramolecular interaction between SET-N and SET-C affects the F/Y switch dynamics, thus determining the product specificities of MLL proteins. These results indicate a modified F/Y switch rule applicable for most SET domain methyltransferases and implicate the functional divergence of MLL proteins.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Tools facilitating determination of molecular structures (1)</title>

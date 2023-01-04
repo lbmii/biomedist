@@ -5,12 +5,40 @@
     <link>https://example.com/tag/prostate/</link>
       <atom:link href="https://example.com/tag/prostate/index.xml" rel="self" type="application/rss+xml" />
     <description>Prostate</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Prostate</title>
       <link>https://example.com/tag/prostate/</link>
     </image>
+    
+    <item>
+      <title>CircCEMIP promotes anoikis-resistance by enhancing protective autophagy in prostate cancer cells</title>
+      <link>https://example.com/article/35655258/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35655258/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Circular RNAs (circRNAs) are essential participants in the development and progression of various malignant tumors. Previous studies have shown that cell migration-inducing protein (CEMIP) accelerates prostate cancer (PCa) anoikis resistance (AR) by activating autophagy. This study focused on the effect of circCEMIP on PCa metastasis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; This study gradually revealed the role of circ_0004585 in PCa anoikis resistance via quantitative real-time PCR (qRT-PCR) analysis, western blotting, pull-down assays, and dual fluorescence reporter assays.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Functionally, circ_0004585 promoted PCa cells invasion and metastasis both in vitro and in vivo. Mechanistically, circ_0004585 directly interacted with miR-1248 to upregulate target gene expression. Furthermore, target prediction and dual-luciferase reporter assays identified transmembrane 9 superfamily member 4 (TM9SF4) as a potential miR-1248 target. Pathway analysis revealed that TM9SF4 activated autophagy to promote PCa cells anoikis resistance via mTOR phosphorylation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; These results demonstrated that circ_0004585 played an oncogenic role during PCa invasion and metastasis by targeting the miR-1248/TM9SF4 axis while providing new insight into therapeutic strategy development for metastatic PCa.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Targeted inhibition of SIRT6 via engineered exosomes impairs tumorigenesis and metastasis in prostate cancer</title>

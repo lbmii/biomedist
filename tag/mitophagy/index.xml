@@ -5,12 +5,37 @@
     <link>https://example.com/tag/mitophagy/</link>
       <atom:link href="https://example.com/tag/mitophagy/index.xml" rel="self" type="application/rss+xml" />
     <description>Mitophagy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Mitophagy</title>
       <link>https://example.com/tag/mitophagy/</link>
     </image>
+    
+    <item>
+      <title>UBXD8 mediates mitochondria-associated degradation to restrain apoptosis and mitophagy</title>
+      <link>https://example.com/article/35979733/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35979733/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The hexameric AAA-ATPase valosin-containing protein (VCP) is essential for mitochondrial protein quality control. How VCP is recruited to mammalian mitochondria remains obscure. Here we report that UBXD8, an ER- and lipid droplet-localized VCP adaptor, also localizes to mitochondria and locally recruits VCP. UBXD8 associates with mitochondrial and ER ubiquitin E3 ligases and targets their substrates for degradation. Remarkably, both mitochondria- and ER-localized UBXD8 can degrade mitochondrial and ER substrates in cis and in trans. UBXD8 also associates with the TOM complex but is dispensable for translocation-associated degradation. UBXD8 knockout impairs the degradation of the pro-survival protein Mcl1 but surprisingly sensitizes cells to apoptosis and mitochondrial stresses. UBXD8 knockout also hyperactivates mitophagy. We identify pro-apoptotic BH3-only proteins Noxa, Bik, and Bnip3 as novel UBXD8 substrates and determine that UBXD8 inhibits apoptosis via degrading Noxa and restrains mitophagy via degrading Bnip3. Collectively, our characterizations reveal UBXD8 as the major mitochondrial adaptor of VCP and unveil its role in apoptosis and mitophagy regulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Dynamic O-GlcNAcylation coordinates ferritinophagy and mitophagy to activate ferroptosis</title>

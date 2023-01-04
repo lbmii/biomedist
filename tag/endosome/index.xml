@@ -5,12 +5,37 @@
     <link>https://example.com/tag/endosome/</link>
       <atom:link href="https://example.com/tag/endosome/index.xml" rel="self" type="application/rss+xml" />
     <description>Endosome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endosome</title>
       <link>https://example.com/tag/endosome/</link>
     </image>
+    
+    <item>
+      <title>A shared, stochastic pathway mediates exosome protein budding along plasma and endosome membranes</title>
+      <link>https://example.com/article/35988652/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35988652/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exosomes are small extracellular vesicles of ∼30 to 150 nm that are secreted by all cells, abundant in all biofluids, and play important roles in health and disease. However, details about the mechanism of exosome biogenesis are unclear. Here, we carried out a cargo-based analysis of exosome cargo protein biogenesis in which we identified the most highly enriched exosomal cargo proteins and then followed their biogenesis, trafficking, and exosomal secretion to test different hypotheses for how cells make exosomes. We show that exosome cargo proteins bud from cells (i) in exosome-sized vesicles regardless of whether they are localized to plasma or endosome membranes, (ii) ∼5-fold more efficiently when localized to the plasma membrane, (iii) ∼5-fold less efficiently when targeted to the endosome membrane, (iv) by a stochastic process that leads to ∼100-fold differences in their abundance from one exosome to another, and (v) independently of small GTPase Rab27a, the ESCRT complex-associated protein Alix, or the cargo protein CD63. Taken together, our results demonstrate that cells use a shared, stochastic mechanism to bud exosome cargoes along the spectrum of plasma and endosome membranes and far more efficiently from the plasma membrane than the endosome. Our observations also indicate that the pronounced variation in content between different exosome-sized vesicles is an inevitable consequence of a stochastic mechanism of small vesicle biogenesis, that the origin membrane of exosome-sized extracellular vesicles simply cannot be determined, and that most of what we currently know about exosomes has likely come from studies of plasma membrane-derived vesicles.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A Golgi-derived vesicle potentiates PtdIns4P to PtdIns3P conversion for endosome fission</title>

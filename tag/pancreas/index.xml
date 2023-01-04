@@ -5,12 +5,40 @@
     <link>https://example.com/tag/pancreas/</link>
       <atom:link href="https://example.com/tag/pancreas/index.xml" rel="self" type="application/rss+xml" />
     <description>Pancreas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Pancreas</title>
       <link>https://example.com/tag/pancreas/</link>
     </image>
+    
+    <item>
+      <title>Hypoxia-induced exosomal circPDK1 promotes pancreatic cancer glycolysis via c-myc activation by modulating miR-628-3p/BPTF axis and degrading BIN1</title>
+      <link>https://example.com/article/36068586/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36068586/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; circRNA has been established to play a pivotal role in tumorigenesis development in a variety of cancers; nevertheless, the biological functions and molecular mechanisms of hypoxia-induced exosomal circRNAs in pancreatic cancer remain largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Differentially expressed circRNAs in exosomes between hypoxic exosomes and normoxic exosomes in PC cells were verified by RNA sequencing. The expression of circPDK1 in PC tumors and PC patients was evaluated by qRT-PCR and ISH, and the biological functions of circPDK1 in PC were verified through a series of in vitro and in vivo experiments. Using Western blotting, Co-IP, RNA pull-down, ChIP, RIP, dual-luciferase assays, and rescue experiments, the underlying mechanism of circPDK1 was verified.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; CircPDK1 was highly abundant in PC tumor tissues and serum exosomes and was associated with poor survival. Exosomal circPDK1 significantly promoted PC cell proliferation, migration, and glycolysis both in vitro and in vivo. Mechanistically, circPDK1 could be activated by HIF1A at the transcriptional level and sponges miR-628-3p to activate the BPTF/c-myc axis. In addition, circPDK1 serves as a scaffold that enhances the interaction between UBE2O and BIN1, inducing the UBE2O-mediated degradation of BIN1.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; We found that circPDK1 was activated by HIF1A at the transcriptional level by modulating the miR-628-3p/BPTF axis and degrading BIN1. Exosomal circPDK1 is a promising biomarker for PC diagnosis and prognosis and represents a potential therapeutic target for PC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>LncRNA-PACERR induces pro-tumour macrophages via interacting with miR-671-3p and m6A-reader IGF2BP2 in pancreatic ductal adenocarcinoma</title>

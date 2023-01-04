@@ -5,12 +5,37 @@
     <link>https://example.com/tag/kidney/</link>
       <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Kidney</title>
       <link>https://example.com/tag/kidney/</link>
     </image>
+    
+    <item>
+      <title>Insulin-like growth factor binding protein 7 promotes acute kidney injury by alleviating poly ADP ribose polymerase 1 degradation</title>
+      <link>https://example.com/article/35752325/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35752325/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The novel biomarker, insulin-like growth factor binding protein 7 (IGFBP7), is used clinically to predict different types of acute kidney injury (AKI) and has drawn significant attention as a urinary biomarker. However, as a secreted protein in the circulation of patients with AKI, it is unclear whether IGFBP7 acts as a key regulator in AKI progression, and if mechanisms underlying its upregulation still need to be determined. Here we found that IGFBP7 is highly expressed in the blood and urine of patients and mice with AKI, possibly via a c-Jun-dependent mechanism, and is positively correlated with kidney dysfunction. Global knockout of IGFBP7 ameliorated kidney dysfunction, inflammatory responses, and programmed cell death in murine models of cisplatin-, kidney ischemia/reperfusion-, and lipopolysaccharide-induced AKI. IGFBP7 mainly originated from kidney tubular epithelial cells. Conditional knockout of IGFBP7 from the kidney protected against AKI. By contrast, rescue of IGFBP7 expression in IGFBP7-knockout mice restored kidney damage and inflammation. IGFBP7 function was determined in vitro using recombinant IGFBP7 protein, IGFBP7 knockdown, or overexpression. Additionally, IGFBP7 was found to bind to poly [ADP-ribose] polymerase 1 (PARP1) and inhibit its degradation by antagonizing the E3 ubiquitin ligase ring finger protein 4 (RNF4). Thus, IGFBP7 in circulation acts as a biomarker and key mediator of AKI by inhibiting RNF4/PARP1-mediated tubular injury and inflammation. Hence, over-activation of the IGFBP7/PARP1 axis represents a promising target for AKI treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The PINK1/PARK2/optineurin pathway of mitophagy is activated for protection in septic acute kidney injury</title>
