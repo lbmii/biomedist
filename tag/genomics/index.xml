@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genomics | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/genomics/</link>
+      <atom:link href="https://example.com/tag/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Genomics</title>
+      <link>https://example.com/tag/genomics/</link>
+    </image>
+    
+    <item>
+      <title>Gene probes re-annotation with SeqMap and R</title>
+      <link>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</guid>
+      <description>&lt;h4 id=&#34;font-color--019858preparation-workfont&#34;&gt;&lt;font color = &#34;#019858&#34;&gt;&lt;strong&gt;Preparation Work:&lt;/strong&gt;&lt;/font&gt;&lt;/h4&gt;
+&lt;p&gt;Before starting for re-annotation, preparatory work includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Download probe annotation table from GEO (See how in &lt;a href=&#34;https://example.com/blog/2022-12-09-gpl16686/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Download genome annotation file from GENCODE (See how in &lt;a href=&#34;https://example.com/blog/2022-11-01-dl-genome-annot-gencode/&#34;&gt;&lt;strong&gt;Download genome annotation files from GENCODE&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Download and unzip &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SeqMap&lt;/a&gt; Software for re-annotation&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://www.r-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt; for Windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow the preparation, create a new folder and &lt;u&gt;name it with &lt;code&gt;an English name without space&lt;/code&gt; is preferred&lt;/u&gt;. Then move &lt;u&gt;probe annotation table&lt;/u&gt;, &lt;u&gt;genome annotation file&lt;/u&gt; and &lt;u&gt;SeqMap&lt;/u&gt; to the new-created folder.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Make sure that &lt;u&gt;probe annotation table&lt;/u&gt;, &lt;u&gt;genome annotation file&lt;/u&gt; and &lt;u&gt;SeqMap&lt;/u&gt; are placed in the same folder.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;font-color--019858start-for-re-annotationfont&#34;&gt;&lt;font color = &#34;#019858&#34;&gt;&lt;strong&gt;Start for re-annotation:&lt;/strong&gt;&lt;/font&gt;&lt;/h4&gt;
+&lt;p&gt;Demo with &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPL10558&lt;/a&gt; from GEO.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extract probes and probe_sequences without gene SYMBOL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;rm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;list&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;ls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;())&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load R packages&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GEOquery&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tidyverse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data.table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;platformID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GPL10558&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load GPL.Rdata (platform annotation table)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;load&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;GPL10558.GPL.Rdata&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# OR View(gpl)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Gene.title&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Gene.symbol&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Gene.ID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UniGene.title&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UniGene.symbol&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UniGene.ID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Nucleotide.Title&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GI&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GenBank.Accession&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343048&lt;/span&gt;                                                                                         &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343049&lt;/span&gt;                                                                                         &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343050&lt;/span&gt;                                                                                         &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343052&lt;/span&gt;                                                                                         &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343059&lt;/span&gt;                                                                                         &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343061&lt;/span&gt;                                                                                         &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;Platform_CLONEID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Platform_ORF&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Platform_SPOTID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Chromosome.location&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Chromosome.annotation&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GO.Function&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GO.Process&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;               &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;           &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;              &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                                                                 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;               &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;           &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;              &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                                                                 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;               &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;           &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;              &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                                                                 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;               &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;           &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;              &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                                                                 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt;               &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;           &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;              &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                                                                 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;               &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;           &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;              &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;                                                                 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;GO.Component&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GO.Function.ID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GO.Process.ID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GO.Component.ID&lt;/span&gt;                                  &lt;span class=&#34;n&#34;&gt;Platform_SEQUENCE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;                                                           &lt;span class=&#34;n&#34;&gt;GAATAAAGAACAATCTGCTGATGATCCCTCCGTGGATCTGATTCGTGTAA&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;                                                           &lt;span class=&#34;n&#34;&gt;CCATGTGATACGAGGGCGCGTAGTTTGCATTATCGTTTTTATCGTTTCAA&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;                                                           &lt;span class=&#34;n&#34;&gt;CCGACAGATGTATGTAAGGCCAACGTGCTCAAATCTTCATACAGAAAGAT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;                                                           &lt;span class=&#34;n&#34;&gt;TCTGTCACTGTCAGGAAAGTGGTAAAACTGCAACTCAATTACTGCAATGC&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt;                                                           &lt;span class=&#34;n&#34;&gt;CTTGTGCCTGAGCTGTCAAAAGTAGAGCACGTCGCCGAGATGAAGGGCGC&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;                                                           &lt;span class=&#34;n&#34;&gt;AATTAAAACGATGCACTCAGGGTTTAGCGCGTAGACGTATTGCATTATGC&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# select columns of probe_id, gene_symbol and probe_sequences&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ID&amp;#34;&lt;/span&gt;                    &lt;span class=&#34;s&#34;&gt;&amp;#34;Gene.title&amp;#34;&lt;/span&gt;            &lt;span class=&#34;s&#34;&gt;&amp;#34;Gene.symbol&amp;#34;&lt;/span&gt;           &lt;span class=&#34;s&#34;&gt;&amp;#34;Gene.ID&amp;#34;&lt;/span&gt;               &lt;span class=&#34;s&#34;&gt;&amp;#34;UniGene.title&amp;#34;&lt;/span&gt;        
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[6]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;UniGene.symbol&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;UniGene.ID&amp;#34;&lt;/span&gt;            &lt;span class=&#34;s&#34;&gt;&amp;#34;Nucleotide.Title&amp;#34;&lt;/span&gt;      &lt;span class=&#34;s&#34;&gt;&amp;#34;GI&amp;#34;&lt;/span&gt;                    &lt;span class=&#34;s&#34;&gt;&amp;#34;GenBank.Accession&amp;#34;&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[11]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;Platform_CLONEID&amp;#34;&lt;/span&gt;      &lt;span class=&#34;s&#34;&gt;&amp;#34;Platform_ORF&amp;#34;&lt;/span&gt;          &lt;span class=&#34;s&#34;&gt;&amp;#34;Platform_SPOTID&amp;#34;&lt;/span&gt;       &lt;span class=&#34;s&#34;&gt;&amp;#34;Chromosome.location&amp;#34;&lt;/span&gt;   &lt;span class=&#34;s&#34;&gt;&amp;#34;Chromosome.annotation&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[16]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GO.Function&amp;#34;&lt;/span&gt;           &lt;span class=&#34;s&#34;&gt;&amp;#34;GO.Process&amp;#34;&lt;/span&gt;            &lt;span class=&#34;s&#34;&gt;&amp;#34;GO.Component&amp;#34;&lt;/span&gt;          &lt;span class=&#34;s&#34;&gt;&amp;#34;GO.Function.ID&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;GO.Process.ID&amp;#34;&lt;/span&gt;        
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[21]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GO.Component.ID&amp;#34;&lt;/span&gt;       &lt;span class=&#34;s&#34;&gt;&amp;#34;Platform_SEQUENCE&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;selected.columns&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;ID&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;Gene.symbol&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;Platform_SEQUENCE&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sel.index&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%in%&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;selected.columns&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sel.index&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt;  &lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt;  &lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[21]&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt;  &lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl[&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sel.index]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# delete rows with NA&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;na.omit&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# delete probes for QC if exist&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Split annotation table into 2 table for probes with and without annotation&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# extract probes with annotation&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;probeOK&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl[gpl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Gene.symbol&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;!=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probeOK&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# OR View(probeOK)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;symbol&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;10&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;ILMN_1343291&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;EEF1A1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;11&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;ILMN_1343295&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;GAPDH&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;783&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1651209&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;SLC35E2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;784&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1651210&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;DUSP22&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;786&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1651228&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;RPS28&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;787&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1651229&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;IPO13&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;duplicated&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probeOK&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probeOK&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;probe_id&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;symbol&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# save probes with annotations (gene symbols)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;write.csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probeOK&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;probe_ready_GEO.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# extract probes with no annotation&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;nosymbol.seq&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl[gpl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Gene.symbol&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;nosymbol.seq&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# OR View(nosymbol.seq)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Gene.symbol&lt;/span&gt;                                  &lt;span class=&#34;n&#34;&gt;Platform_SEQUENCE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343048&lt;/span&gt;             &lt;span class=&#34;n&#34;&gt;GAATAAAGAACAATCTGCTGATGATCCCTCCGTGGATCTGATTCGTGTAA&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343049&lt;/span&gt;             &lt;span class=&#34;n&#34;&gt;CCATGTGATACGAGGGCGCGTAGTTTGCATTATCGTTTTTATCGTTTCAA&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343050&lt;/span&gt;             &lt;span class=&#34;n&#34;&gt;CCGACAGATGTATGTAAGGCCAACGTGCTCAAATCTTCATACAGAAAGAT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343052&lt;/span&gt;             &lt;span class=&#34;n&#34;&gt;TCTGTCACTGTCAGGAAAGTGGTAAAACTGCAACTCAATTACTGCAATGC&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343059&lt;/span&gt;             &lt;span class=&#34;n&#34;&gt;CTTGTGCCTGAGCTGTCAAAAGTAGAGCACGTCGCCGAGATGAAGGGCGC&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1343061&lt;/span&gt;             &lt;span class=&#34;n&#34;&gt;AATTAAAACGATGCACTCAGGGTTTAGCGCGTAGACGTATTGCATTATGC&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# remove rows without sequences&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;probe_sense&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;nosymbol.seq&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;filter&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;nchar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Platform_SEQUENCE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;!=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# OR View(probe_sense)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Transform peobe_sequences into &lt;code&gt;fasta&lt;/code&gt; format with R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;probe.fas&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;paste0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;probe_sense&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;\n&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                    &lt;span class=&#34;n&#34;&gt;probe_sense&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Platform_SEQUENCE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe.fas&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;gt;ILMN_1343048\nGAATAAAGAACAATCTGCTGATGATCCCTCCGTGGATCTGATTCGTGTAA&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[2]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;gt;ILMN_1343049\nCCATGTGATACGAGGGCGCGTAGTTTGCATTATCGTTTTTATCGTTTCAA&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[3]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;gt;ILMN_1343050\nCCGACAGATGTATGTAAGGCCAACGTGCTCAAATCTTCATACAGAAAGAT&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[4]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;gt;ILMN_1343052\nTCTGTCACTGTCAGGAAAGTGGTAAAACTGCAACTCAATTACTGCAATGC&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[5]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;gt;ILMN_1343059\nCTTGTGCCTGAGCTGTCAAAAGTAGAGCACGTCGCCGAGATGAAGGGCGC&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[6]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;gt;ILMN_1343061\nAATTAAAACGATGCACTCAGGGTTTAGCGCGTAGACGTATTGCATTATGC&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# save probe_sequences of fasta format into a txt file&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;write.table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe.fas&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;paste0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;platformID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;_probe_seq.fasta&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;n&#34;&gt;quote&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;F&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;row.names&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;F&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;col.names&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;F&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Make sure that &lt;font color = &#34;red&#34;&gt;&lt;em&gt;GPL10558_probe_seq.fasta&lt;/em&gt;&lt;/font&gt; is saved in the same folder with &lt;u&gt;probe annotation table&lt;/u&gt;, &lt;u&gt;genome annotation file&lt;/u&gt; and &lt;u&gt;SeqMap&lt;/u&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Re-annotate the probes with SeqMap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Open &lt;font color = &#34;#5A5AAD&#34;&gt;&lt;strong&gt;Git Bash&lt;/strong&gt;&lt;/font&gt; and change directory to the folder depositing &lt;u&gt;GPL10558_probe_seq.fasta&lt;/u&gt;, &lt;u&gt;probe annotation table&lt;/u&gt;, &lt;u&gt;genome annotation file&lt;/u&gt; and &lt;u&gt;SeqMap&lt;/u&gt; with command line.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; E:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; DataMining/RemapSeqMap/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Input the following command in &lt;font color = &#34;#5A5AAD&#34;&gt;&lt;strong&gt;Git Bash&lt;/strong&gt;&lt;/font&gt; and press &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;Enter&lt;/strong&gt;&lt;/font&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;./seqmap-1.0.12-windows.exe &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt; ./GPL10558_probe_seq.fasta ./gencode.v42.transcripts.fa seqmap_results.txt //output_all_matches
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Once finished, the re-annotation results will be save as &lt;code&gt;seqmap_results.txt&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;All names in the command must be the same with files in the folder!&lt;/li&gt;
+&lt;li&gt;Turn to SeqMap official site for more details.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Extract probe_id and gene SYMBOL from SeqMap results with R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# import SeqMap results into R&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;seqmap.res&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;data.table&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;fread&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;seqmap_results.txt&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                  &lt;span class=&#34;n&#34;&gt;data.table&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;F&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;seqmap.res&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# OR View(seqmap.res)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                                                               &lt;span class=&#34;n&#34;&gt;trans_id&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;                                            &lt;span class=&#34;n&#34;&gt;ENST00000689170.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENSG00000231050.3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMG00000000941.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|-|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;-204&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;988&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lncRNA&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;                                            &lt;span class=&#34;n&#34;&gt;ENST00000686550.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENSG00000231050.3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMG00000000941.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|-|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;-203&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;836&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lncRNA&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;                                           &lt;span class=&#34;n&#34;&gt;ENST00000702668.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENSG00000231050.3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMG00000000941.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|-|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;-205&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1018&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lncRNA&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ENST00000469733.5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENSG00000162585.17&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMG00000001404.8&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMT00000004066.2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FAAP20&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;-211&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FAAP20&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2280&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;protein_coding_CDS_not_defined&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt;                 &lt;span class=&#34;n&#34;&gt;ENST00000514625.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENSG00000162585.17&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMG00000001404.8&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMT00000366246.1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FAAP20&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;-215&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FAAP20&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;703&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;retained_intron&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;             &lt;span class=&#34;n&#34;&gt;ENST00000442483.2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENSG00000234396.3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMG00000001405.2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OTTHUMT00000004068.2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENST00000442483&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENSG00000234396&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;326&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lncRNA&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;trans_coord&lt;/span&gt;                                         &lt;span class=&#34;n&#34;&gt;target_seq&lt;/span&gt;     &lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;         &lt;span class=&#34;m&#34;&gt;874&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1859657&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;         &lt;span class=&#34;m&#34;&gt;722&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1859657&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;         &lt;span class=&#34;m&#34;&gt;904&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1859657&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;         &lt;span class=&#34;m&#34;&gt;812&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1896703&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt;         &lt;span class=&#34;m&#34;&gt;613&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1896703&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;         &lt;span class=&#34;m&#34;&gt;137&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GAGGAGCCACAGGACACCAGAGCATCTGCTACAACCCCAGCCAAGATGGT&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1895827&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                           &lt;span class=&#34;n&#34;&gt;probe_seq&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num_mismatch&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;strand&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT&lt;/span&gt;            &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;      &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT&lt;/span&gt;            &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;      &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT&lt;/span&gt;            &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;      &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA&lt;/span&gt;            &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;      &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA&lt;/span&gt;            &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;      &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GAGGAGCCACAGGACACCAGAGCATCTGCTACAACCCCAGCCAAGATGGT&lt;/span&gt;            &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;seqmap.res&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;trans_id&amp;#34;&lt;/span&gt;     &lt;span class=&#34;s&#34;&gt;&amp;#34;trans_coord&amp;#34;&lt;/span&gt;  &lt;span class=&#34;s&#34;&gt;&amp;#34;target_seq&amp;#34;&lt;/span&gt;   &lt;span class=&#34;s&#34;&gt;&amp;#34;probe_id&amp;#34;&lt;/span&gt;     &lt;span class=&#34;s&#34;&gt;&amp;#34;probe_seq&amp;#34;&lt;/span&gt;    &lt;span class=&#34;s&#34;&gt;&amp;#34;num_mismatch&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;strand&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# extract gene SYMBOL by self-defined function&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;def.extract&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sep&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;//&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;element.order&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stringr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;object_split&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;str_split&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sep&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;geneID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;sapply&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;object_split&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;[&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;element.order&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nf&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;geneID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;geneNames&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;def.extract&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;seqmap.res&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;trans_id&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;\\|&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;geneNames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;20&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GNB1-DT&amp;#34;&lt;/span&gt;         &lt;span class=&#34;s&#34;&gt;&amp;#34;GNB1-DT&amp;#34;&lt;/span&gt;         &lt;span class=&#34;s&#34;&gt;&amp;#34;GNB1-DT&amp;#34;&lt;/span&gt;         &lt;span class=&#34;s&#34;&gt;&amp;#34;FAAP20&amp;#34;&lt;/span&gt;          &lt;span class=&#34;s&#34;&gt;&amp;#34;FAAP20&amp;#34;&lt;/span&gt;          &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSG00000234396&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[7]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;TNFRSF14-AS1&amp;#34;&lt;/span&gt;    &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSG00000233234&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSG00000284692&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ENO1-AS1&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;MIR34AHG&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;MIR34AHG&amp;#34;&lt;/span&gt;       
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[13]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSG00000235263&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;LINC01784&amp;#34;&lt;/span&gt;       &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSG00000231606&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSG00000231606&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;DDI2&amp;#34;&lt;/span&gt;            &lt;span class=&#34;s&#34;&gt;&amp;#34;LINC02783&amp;#34;&lt;/span&gt;      
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[19]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;PAX7&amp;#34;&lt;/span&gt;            &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSG00000226664&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# save remapped probes as data.frame&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;seqmap.res&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;trans_id&amp;#34;&lt;/span&gt;     &lt;span class=&#34;s&#34;&gt;&amp;#34;trans_coord&amp;#34;&lt;/span&gt;  &lt;span class=&#34;s&#34;&gt;&amp;#34;target_seq&amp;#34;&lt;/span&gt;   &lt;span class=&#34;s&#34;&gt;&amp;#34;probe_id&amp;#34;&lt;/span&gt;     &lt;span class=&#34;s&#34;&gt;&amp;#34;probe_seq&amp;#34;&lt;/span&gt;    &lt;span class=&#34;s&#34;&gt;&amp;#34;num_mismatch&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;strand&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids.seqmap&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;data.frame&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;seqmap.res&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                           &lt;span class=&#34;n&#34;&gt;symbol&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;geneNames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids.seqmap&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# OR View(ids.seqmap)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;symbol&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1859657&lt;/span&gt;         &lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1859657&lt;/span&gt;         &lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1859657&lt;/span&gt;         &lt;span class=&#34;n&#34;&gt;GNB1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1896703&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;FAAP20&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1896703&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;FAAP20&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ILMN_1895827&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ENSG00000234396&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# remove duplicated rows&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids.seqmap&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;unique&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids.seqmap&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# save results&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;write.csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids.seqmap&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;probe_reannotated_SeqMap.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Download genome annotation files from GENCODE</title>
+      <link>https://example.com/blog/2022-11-01-dl-genome-annot-gencode/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2022-11-01-dl-genome-annot-gencode/</guid>
+      <description>&lt;p&gt;First, we need to enter &lt;a href=&#34;https://www.gencodegenes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GENCODE&lt;/a&gt; site (Figure 1) and select the organism species.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-gencode-homepage&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GENCODE homepage&#34; srcset=&#34;
+               /media/genecode-home_huf35faa97b44c8611868e3d944e36050f_489129_548060b0fee493e4e32b7959dd6121ff.webp 400w,
+               /media/genecode-home_huf35faa97b44c8611868e3d944e36050f_489129_277473b3fb3e2355787384a494d26b9d.webp 760w,
+               /media/genecode-home_huf35faa97b44c8611868e3d944e36050f_489129_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/genecode-home_huf35faa97b44c8611868e3d944e36050f_489129_548060b0fee493e4e32b7959dd6121ff.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;470&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      GENCODE homepage
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Demo here chooses human (Homo Sapiens) can click &lt;a href=&#34;https://www.gencodegenes.org/human/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human&lt;/a&gt; in mainpage to continue. Indeed, it would direct to the same window by clicking &lt;code&gt;Human&lt;/code&gt; in the navbar and choosing &lt;code&gt;Current release&lt;/code&gt; (Figure 2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-human-windows-of-gencode&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Human windows of GENCODE&#34; srcset=&#34;
+               /media/gencode-ftp_hu4867f01ca2ab7e725c8978b23274b368_218316_8e5f23338b46a4b3e39def5d5924b827.webp 400w,
+               /media/gencode-ftp_hu4867f01ca2ab7e725c8978b23274b368_218316_ad2cd02048aa68483a13ba09656539e2.webp 760w,
+               /media/gencode-ftp_hu4867f01ca2ab7e725c8978b23274b368_218316_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/gencode-ftp_hu4867f01ca2ab7e725c8978b23274b368_218316_8e5f23338b46a4b3e39def5d5924b827.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Human windows of GENCODE
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FTP site&lt;/a&gt; &lt;font color = &#34;red&#34;&gt;circled in red&lt;/font&gt; at the right side in Figure 2 and enter the repository of annotation file released in versions.&lt;/p&gt;
+&lt;p&gt;Choose the right release version you need and click to open the folder.&lt;/p&gt;
+&lt;p&gt;Works tell what we need, cand choose the right file to download.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Probes re-annotation for analysis of transcriptomics&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Up to 10 december 2022, the latest release version is Version 42. Enter the folder of &lt;a href=&#34;https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_42/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;release_42&lt;/a&gt; and scroll down to the bottom. Demo here downloads the file named &lt;font color = &#34;#009100&#34;&gt;&lt;strong&gt;gencode.v42.transcripts.fa.gz&lt;/strong&gt;&lt;/font&gt; with a suffix of &lt;code&gt;transcripts.fa.gz&lt;/code&gt; for probes re-annotation. Unzip it and we will get a file with a name of &lt;font color = &#34;#009100&#34;&gt;gencode.v42.transcripts.fa&lt;/font&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Summary of microbiome databases</title>
+      <link>https://example.com/tool/2022-07-10-db-microbiome/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2022-07-10-db-microbiome/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.dsmz.de/collection/catalogue/microorganisms/special-groups-of-organisms/dzif-sammlung/maus-mikrobiomliste&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mouse intestinal Bacterial Collection (miBC)&lt;/a&gt;  is an initiative from the RTWH Aachen (Prof. Thomas Clavel) and the &lt;a href=&#34;https://www.dsmz.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leibniz-Institute DSMZ-German Collection of Microorganisms and Cell Cultures&lt;/a&gt;. It is supported by Collaborative Research Centre (CRC) 1371 and CRC1382 and by the German Federal Ministry of Science and Education through the German Center of Infection Research (DZIF). This collection includes bacterial strains isolated from the intestine of mice. They have been taxonomically described and are all publicly available. This well-curated resource was built to increase our knowledge of cultured diversity within the mouse gut microbiota and to support scientists with their own research by providing multiple strains representing a broad phylogenetic diversity to be used for functional experiments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://bio-annotation.cn/gutMDisorder/home.dhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMDisorder&lt;/a&gt; is a comprehensive resource for associations between gut microbes and phenotypes or interventions in Human and Mouse, derived from manual literature extraction and raw data reprocessing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Microbiome and its metabolites are closely associated with human health and diseases. However, it is challenging to understand the complex interplay between microbiome and metabolites. &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt; is a bioinformatics tool, aiming to identify which bacteria and how they participate in certain metabolic reactions, helping us to understand where metabolites come from: host, bacteria, or both?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; is a curated database of consistently annotated human gut metagenomes. So far &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; contains 71,642 human gut runs/samples from 353 projects; they are associated with 132 human phenotypes. Its main features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;extensive manual curation of meta-data of gut samples/runs,&lt;/li&gt;
+&lt;li&gt;grouping samples/runs according to their associated human phenotypes (i.e. health and diseases),&lt;/li&gt;
+&lt;li&gt;graphical selectors enabling easy and efficient access to all our collected data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Recently numerous studies have identified that the perturbations in the gut microbiome were associated with human health, including diseases and cancers, even mental health. The recent development of high-throughput sequencing based metagenomics technologies such as 16S ribosomal RNA gene amplicon-based and genome-centric approaches have burst the profiling of the landscape for gut microbiome and the identification of human health related microbes. Here, we presented the &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; database, which hosted the results of metagenomics studies. In total, 59,132 quantification events for 6,457 taxa at 7 different levels (kingdom, phylum, class, order, family, genus and species) under 776 conditions were collected and integrated in the database, and the details about the samples and experiments were also curated. Various browse and search options were provided in the database, and the detailed information was organized and visualized for queries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://bio-annotation.cn/gutmgene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; is a comprehensive database for target genes of gut microbes and microbial metabolites. Metagenomic sequencing of fecal samples has identified 3.3×10&lt;sup&gt;6&lt;/sup&gt; non-redundant microbial genes from up to 1,500 different species. One of the contributions of gut microbiota to host biology is the circulating pool of bacterially derived small-molecule metabolites. It has been estimated that 10% of metabolites found in mammalian blood are derived from the gut microbiota, where they can produce systemic effects on the host through activating or inhibiting gene expression. Currently, detailed information on target genes of gut microbes and microbial metabolites is scattered in literatures and no online repository is available for collecting these data. Here, we manually extracted microbe-metabolite, microbe-target, and metabolite-target relationships in Human and Mouse from almost 400 publications. All of these relationships were experimentally validated in vivo or in vitro and measured by RT-qPCR, high performance liquid chromatography, 16S rRNA sequence, and so on. Currently, users can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bio-annotation.cn/gutmgene/resource.dhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt; all manually curated relationships.&lt;/li&gt;
+&lt;li&gt;Achieve relationships by &lt;em&gt;browsing&lt;/em&gt; or &lt;em&gt;searching&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Submit&lt;/em&gt; novel relationships to the &lt;a href=&#34;http://bio-annotation.cn/gutmgene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Taxonomic and functional research of microorganisms has increasingly relied upon genome-based data and methods. As the depository of the Global Catalogue of Microorganisms (GCM) 10K prokaryotic type strain sequencing project, &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Catalogue of Type Strain (gcType)&lt;/a&gt; has published 1049 type strain genomes sequenced by the GCM 10K project which are preserved in global culture collections with a valid published status. Additionally, the information provided through &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gcType&lt;/a&gt; includes &amp;gt;12 000 publicly available type strain genome sequences from GenBank incorporated using quality control criteria and standard data annotation pipelines to form a high-quality reference database. This database integrates type strain sequences with their phenotypic information to facilitate phenotypic and genotypic analyses. Multiple formats of cross-genome searches and interactive interfaces have allowed extensive exploration of the database&amp;rsquo;s resources. In this study, we describe web-based data analysis pipelines for genomic analyses and genome-based taxonomy, which could serve as a one-stop platform for the identification of prokaryotic species. The number of type strain genomes that are published will continue to increase as the GCM 10K project increases its collaboration with culture collections worldwide. Data of this project is shared with the International Nucleotide Sequence Database Collaboration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://disbiome.ugent.be/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disbiome&lt;/a&gt; is a database covering microbial composition changes in different kinds of diseases, managed by Ghent University. Disease names, detection methods or organism names can be used as search queries giving you all information related to the experiment (related disease/bacteria, abundancy subject/control, control type, detection method and related literature).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.vmh.life/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virtual Metabolic Human (VMH)&lt;/a&gt; database captures information on human and gut microbial metabolism and links this information to hundreds of diseases and nutritional data. At its core, there are hundreds of manually curated genome-scale metabolic reconstructions, which have been assembled based on genomic, biochemical, and physiological data. The &lt;a href=&#34;https://www.vmh.life/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VMH&lt;/a&gt; facilitates rapid analyses and interpretations of complex data arising from large-scale biomedical studies by enabling complex queries of its content, by providing a detailed graphical representation of human metabolism, and by distributing computational models for simulating human and microbial metabolism.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt; constitutes a novel resource of experimentally supported microbe-disease associations, currently hosting more than 7,900 entries linking 43 diseases and 1,396 microorganisms. &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt;’s content is exclusively sustained by manual curation of biomedical articles. Importantly, diseases and microorganisms are provided in a systematic, standardized manner using reference resources to create database dictionaries. Information about the experimental design, study cohorts and the applied high- or low-throughput techniques are meticulously annotated and catered to users. Extensive details regarding bacterial abundance, the groups under study (including their sex ratio and their size) and article metadata are available for each entry. A number of functionalities are provided to enhance user experience and enable ingenious use of &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt;. One or more microorganisms and/or diseases can be queried at the same time. Advanced filtering options and direct text-based filtering of results enable refinement of returned information and the conducting of tailored queries suitable to different research questions. Results can be directly downloaded as tab-separated files for local storage and downstream analyses. &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt; also provides to users’ interactive visualizations to effectively capture different aspects of its content. Via Network graphs, Chord diagrams and Hierarchy Diagrams users can browse into the available content and perform observations about microbe-disease relationships using information from the latest relevant literature. &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt;’s content in numbers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2,918 gastrointestinal disease associations&lt;/li&gt;
+&lt;li&gt;4,065 cancer-related associations&lt;/li&gt;
+&lt;li&gt;869 neurodegenerative disorder associations&lt;/li&gt;
+&lt;li&gt;125 cardiovascular disease associations&lt;/li&gt;
+&lt;li&gt;1,718 entries providing information at species level or below&lt;/li&gt;
+&lt;li&gt;3,777 entries comparing a disease group against healthy individuals and 4,200 comparing disease states&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Accumulating evidence about the interaction between human microbiota and therapeutic-related substances, especially for clinical used drugs, deepens and broadens our understanding in the role of &amp;ldquo;our second genome&amp;rdquo; in human health and diseases, and opens a new window for managing/treating human healthy problems/diseases by manipulating microbiota-human interactions. A centralized and standardized database to catalog Microbiota-Active Substances Interactions (MASIs) will be very useful for related research fields, including microbiota-related pharmaceutical research, food and nutrition research, clinical pharmacy, health management studies. Here, the &lt;a href=&#34;http://www.aiddlab.com/MASI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MASI&lt;/a&gt; database is developed to cater this urgent need by providing manually curated MASIs data from scientific literature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Animal Microbiome Database (AMDB)&lt;/a&gt; is a database covering bacterial 16S rRNA gene profiles from various animal species to assess the relationship between the gut microbiota and animal hosts. We collected 2,530 samples from 34 public projects with manually curated metadata. Currently, &lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMDB&lt;/a&gt; contains 10,478 bacterial taxa from 467 animal species. Please refer to our paper for detailed analysis methods. &lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMDB&lt;/a&gt; provides four main functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taxa: It shows samples enriched with the bacterial taxon of interest.&lt;/li&gt;
+&lt;li&gt;Samples: It provides the gut microbiota composition of the sample of interest.&lt;/li&gt;
+&lt;li&gt;Projects/Hosts: It gives you summary information for the project or the host.&lt;/li&gt;
+&lt;li&gt;Visualization: It visually presents valuable information about the relationships between the samples and the gut microbiota.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Expanded encyclopaedias of DNA elements</title>
+      <link>https://example.com/tool/2021-06-20-dna/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2021-06-20-dna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.encodeproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Encyclopedia of DNA Elements (ENCODE)&lt;/em&gt;&lt;/a&gt; Consortium is an ongoing international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI). The goal of &lt;a href=&#34;https://www.encodeproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ENCODE&lt;/em&gt;&lt;/a&gt; is to build a comprehensive parts list of functional elements in the human genome, including elements that act at the protein and RNA levels, and regulatory elements that control cells and circumstances in which a gene is active.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive databases for biomedical research</title>
+      <link>https://example.com/tool/db-biomed-res/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/db-biomed-res/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://db.cngb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;China National GeneBank DataBase (CNGBdb)&lt;/strong&gt;&lt;/a&gt; is a uniﬁed platform built for biological big data sharing and application services to the research community. Based on the big data and cloud computing technologies, it provides data services such as archive, analysis, knowledge search, management authorization, and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;National Center for Biotechnology Information (NCBI)&lt;/strong&gt;&lt;/a&gt; advances science and health by providing access to biomedical and genomic information.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;PubMed&lt;/em&gt;&lt;/a&gt; comprises more than 34 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Gene&lt;/em&gt;&lt;/a&gt; supplies gene-specific connections in the nexus of map, sequence, expression, structure, function, citation, and homology data. Unique identifiers are assigned to genes with defining sequences, genes with known map positions, and genes inferred from phenotypic information.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/nuccore/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Nucleotide&lt;/em&gt;&lt;/a&gt; deposites DNA and RNA sequences.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Gene Expression Omnibus (GEO)&lt;/em&gt;&lt;/a&gt;  is a public functional genomics data repository supporting MIAME-compliant data submissions. Array- and sequence-based data are accepted. Tools are provided to help users query and download experiments and curated gene expression profiles. Users can also analyze published data to identify genes that are differentially expressed across experimental conditions with &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/geo2r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEO2R&lt;/a&gt;, where codes and scripts are not needed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blast.ncbi.nlm.nih.gov/Blast.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Basic Local Alignment Search Tool (BLAST)&lt;/em&gt;&lt;/a&gt; finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/biostudies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;BioStudies&lt;/strong&gt;&lt;/a&gt; holds descriptions of biological studies, links to data from these studies in other databases at &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt; or outside, as well as data that do not fit in the structured archives at &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt;. The database accepts submissions via an online tool, or in a simple tab-delimited format. It also enables authors to submit supplementary information and link to it from the publication.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/biostudies/arrayexpress&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ArrayExpress&lt;/em&gt;&lt;/a&gt;, the functional genomics collection, stores data from high-throughput functional genomics experiments, and provides data for reuse to the research community. In line with community guidelines, a study typically contains metadata such as detailed sample annotations, protocols, processed data and raw data. Raw sequence reads from high-throughput sequencing studies are brokered to the European Nucleotide Archive (ENA), and links are provided to download the sequence reads from ENA. Data can be submitted to the &lt;a href=&#34;https://www.ebi.ac.uk/biostudies/arrayexpress&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ArrayExpress&lt;/em&gt;&lt;/a&gt; collection through its dedicated submission tool, Annotare.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genomes&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ensembl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ensembl&lt;/em&gt;&lt;/a&gt; is a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation and a part of the &lt;a href=&#34;https://elixir-europe.org/platforms/data/core-data-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ELIXIR Core Data Resources&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.genome.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The UCSC Genome Browser&lt;/em&gt;&lt;/a&gt; is a web-based tool serving as a multi-powered microscope that allows researchers to view all 23 chromosomes of the human genome at any scale from a full chromosome down to an individual nucleotide.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gencodegenes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GENCODE&lt;/em&gt;&lt;/a&gt; aims to identify and classify all gene features in the human and mouse genomes with high accuracy based on biological evidence, and to release these annotations for the benefit of biomedical research and genome interpretation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.noncode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NONCODE&lt;/em&gt;&lt;/a&gt; is an integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs). The source of &lt;a href=&#34;http://www.noncode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NONCODE&lt;/em&gt;&lt;/a&gt; includes literature and other public databases. &lt;a href=&#34;http://www.noncode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NONCODE&lt;/em&gt;&lt;/a&gt; searches PubMed using key words &lt;code&gt;ncrna&lt;/code&gt;, &lt;code&gt;noncoding&lt;/code&gt;, &lt;code&gt;non-coding&lt;/code&gt;, &lt;code&gt;no code&lt;/code&gt;, &lt;code&gt;non-code&lt;/code&gt;, &lt;code&gt;lncrna&lt;/code&gt; or &lt;code&gt;lincrna&lt;/code&gt;. NONCODE retrieves the new identified lncRNAs and their annotation from the Supplementary Material or web site of these articles. Together with the newest data from &lt;a href=&#34;https://www.ensembl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensembl&lt;/a&gt;, &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/refseq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RefSeq&lt;/a&gt;, &lt;a href=&#34;http://lncrnadb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lncRNAdb&lt;/a&gt; and &lt;a href=&#34;https://www.gencodegenes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GENCODE&lt;/a&gt; were processed through a standard pipeline for each species.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.encodeproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Encyclopedia of DNA Elements (ENCODE)&lt;/em&gt;&lt;/a&gt; Consortium is an ongoing international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI). The goal of &lt;a href=&#34;https://www.encodeproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ENCODE&lt;/em&gt;&lt;/a&gt; is to build a comprehensive parts list of functional elements in the human genome, including elements that act at the protein and RNA levels, and regulatory elements that control cells and circumstances in which a gene is active.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancers&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Cancer Genome Atlas (TCGA)&lt;/em&gt;&lt;/a&gt;, a landmark cancer genomics program, molecularly characterizes over 20,000 primary cancer and matched normal samples spanning 33 cancer types. Usually, we prefer to access the Database via &lt;a href=&#34;https://portal.gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons Data Portal (GDC)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; for Cancer Genomics was originally developed at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center (MSKCC)&lt;/a&gt;. The public &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; site is hosted by the Center for &lt;a href=&#34;https://www.mskcc.org/research-programs/molecular-oncology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecular Oncology&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSKCC&lt;/a&gt;. The &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; software is now available under an open source license via &lt;a href=&#34;https://github.com/cBioPortal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; 
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; is for analyzing the RNA sequencing expression data of 9,736 tumors and 8,587 normal samples from the &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; and the &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; projects, using a standard processing pipeline. &lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; provides customizable functions such as tumor/normal differential expression analysis, profiling according to cancer types or pathological stages, patient survival analysis, similar gene detection, correlation analysis and dimensionality reduction analysis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; allows users to explore functional genomic data sets for correlations between genomic and/or phenotypic variables. It provides interactive online visualization of seminal cancer genomics datasets, including data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(TCGA)&lt;/a&gt;, &lt;a href=&#34;https://dcc.icgc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Cancer Genome Consortium (ICGC)&lt;/a&gt;, and &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons (GDC)&lt;/a&gt;. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; also visualizes the UCSC RNA-seq compendium which contains data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; tumor samples, &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; normal samples, and &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; normal samples. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; supports virtually any functional genomics data, including SNVs, INDELs, large structural variants, copy number variation, gene-, transcript-, exon-, miRNA-, LncRNA-, protein-expressions, DNA methylation, ATAC-seq signals, phenotypic/clinical annotations, and higher-level derived genomic parameters.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gdac.broadinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Broad GDAC&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Databases make cancer research easier</title>
+      <link>https://example.com/tool/2020-02-22-dtb-cancer-res/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2020-02-22-dtb-cancer-res/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Cancer Genome Atlas (TCGA)&lt;/em&gt;&lt;/a&gt;, a landmark cancer genomics program, molecularly characterizes over 20,000 primary cancer and matched normal samples spanning 33 cancer types. Usually, we prefer to access the Database via &lt;a href=&#34;https://portal.gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons Data Portal (GDC)&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; for Cancer Genomics was originally developed at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center (MSKCC)&lt;/a&gt;. The public &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; site is hosted by the Center for &lt;a href=&#34;https://www.mskcc.org/research-programs/molecular-oncology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecular Oncology&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSKCC&lt;/a&gt;. The &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; software is now available under an open source license via &lt;a href=&#34;https://github.com/cBioPortal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; 
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; is for analyzing the RNA sequencing expression data of 9,736 tumors and 8,587 normal samples from the &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; and the &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; projects, using a standard processing pipeline. &lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; provides customizable functions such as tumor/normal differential expression analysis, profiling according to cancer types or pathological stages, patient survival analysis, similar gene detection, correlation analysis and dimensionality reduction analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; allows users to explore functional genomic data sets for correlations between genomic and/or phenotypic variables. It provides interactive online visualization of seminal cancer genomics datasets, including data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(TCGA)&lt;/a&gt;, &lt;a href=&#34;https://dcc.icgc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Cancer Genome Consortium (ICGC)&lt;/a&gt;, and &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons (GDC)&lt;/a&gt;. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; also visualizes the UCSC RNA-seq compendium which contains data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; tumor samples, &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; normal samples, and &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; normal samples. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; supports virtually any functional genomics data, including SNVs, INDELs, large structural variants, copy number variation, gene-, transcript-, exon-, miRNA-, LncRNA-, protein-expressions, DNA methylation, ATAC-seq signals, phenotypic/clinical annotations, and higher-level derived genomic parameters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gdac.broadinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Broad GDAC&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Databases for virological research</title>
+      <link>https://example.com/tool/2018-02-27-db-virol/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2018-02-27-db-virol/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.bv-brc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bacterial and Viral Bioinformatics Resource Center (BV-BRC)&lt;/strong&gt;&lt;/a&gt; is an information system designed to support the biomedical research community’s work on bacterial and viral infectious diseases via integration of vital pathogen information with rich data and analysis tools. &lt;a href=&#34;https://www.bv-brc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;BV-BRC&lt;/strong&gt;&lt;/a&gt; combines the data, technology, and extensive user communities from two long-running centers: PATRIC, the bacterial system , and IRD/ViPR, the viral systems. In addition to hundreds of thousands of bacterial genomes in PATRIC and over a million viral genomes in IRD/ViPR, the two resources host data on protein structure and function, clinical studies, drug targets and resistance, epidemiology, and other features, and provide open source tools for data analysis and genomic annotation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NCBI &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Influenza Virus Resource&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; Initiative promotes the rapid sharing of data from all influenza viruses and the coronavirus causing COVID-19. This includes genetic sequence and related clinical and epidemiological data associated with human viruses, and geographical as well as species-specific data associated with avian and other animal viruses, to help researchers understand how viruses evolve and spread during epidemics and pandemics. &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; does so by overcoming disincentive hurdles and restrictions, which discourage or prevented sharing of virological data prior to formal publication. The Initiative ensures that open access to data in &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; is provided free-of-charge to all individuals that agreed to identify themselves and agreed to uphold the &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; sharing mechanism governed through its Database Access Agreement. All bonafide users with &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; access credentials agreed to the basic premise of upholding a scientific etiquette, by acknowledging the Originating laboratories providing the specimens, and the Submitting laboratories generating sequence and other metadata, ensuring fair exploitation of results derived from the data, and that all users agree that no restrictions shall be attached to data submitted to &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt;, to promote collaboration among researchers on the basis of open sharing of data and respect for all rights and interests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FluPhenotype&lt;/strong&gt;&lt;/a&gt; is an one-stop platform for early warnings of influenza A viruses. Complete or partial genome sequences, or protein sequences of influenza A viruses could be inputted. &lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FluPhenotype&lt;/strong&gt;&lt;/a&gt; would automatically scan the genomic or protein sequences and output four kinds of information about the virus: the predicted antigenic and genetic relationship between the virus and the vaccine or reference strains,the predicted host of the virus, the mammalian virulence-related amino acids, and the drug-resistance related amino acids.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

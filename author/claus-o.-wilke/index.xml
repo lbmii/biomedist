@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claus O. Wilke | BM Sci-Tech Memento</title>
+    <link>https://example.com/author/claus-o.-wilke/</link>
+      <atom:link href="https://example.com/author/claus-o.-wilke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claus O. Wilke</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Claus O. Wilke</title>
+      <link>https://example.com/author/claus-o.-wilke/</link>
+    </image>
+    
+    <item>
+      <title>Fundamentals of Data Visualization</title>
+      <link>https://example.com/books/2019-04-30-basic-data-viz/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-04-30-basic-data-viz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://clauswilke.com/dataviz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Fundamentals of Data Visualization&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional. It has grown out of experience of the author working with students and postdocs in laboratory on thousands of data visualizations. Over the years, the autor has noticed that the same issues arise over and over and have attempted to collect my accumulated knowledge from these interactions in the form of this book. The website of &lt;a href=&#34;https://clauswilke.com/dataviz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Fundamentals of Data Visualization&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; contains the complete author manuscript before final copy-editing and other quality control.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

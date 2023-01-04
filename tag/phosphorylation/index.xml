@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phosphorylation | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/phosphorylation/</link>
+      <atom:link href="https://example.com/tag/phosphorylation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phosphorylation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Phosphorylation</title>
+      <link>https://example.com/tag/phosphorylation/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of kinase-specific phosphorylation sites in proteins</title>
+      <link>https://example.com/tool/2020-04-12-pkspsp/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2020-04-12-pkspsp/</guid>
+      <description>&lt;p&gt;In eukaryotes, protein phosphorylation is specifically catalyzed by numerous protein kinases (PKs), faithfully orchestrates various biological processes, and reversibly determines cellular dynamics and plasticity. Here we report an updated algorithm of &lt;a href=&#34;%28http://gps.biocuckoo.cn/%29&#34;&gt;&lt;strong&gt;Group-based Prediction System (PGS)&lt;/strong&gt;&lt;/a&gt; 5.0 to improve the performance for predicting kinase-specific phosphorylation sites (p-sites). Two novel methods, position weight determination (PWD) and scoring matrix optimization (SMO), were developed. Compared with other existing tools, &lt;a href=&#34;http://gps.biocuckoo.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GPS&lt;/strong&gt;&lt;/a&gt; 5.0 exhibits a highly competitive accuracy. Besides serine/threonine or tyrosine kinases, &lt;a href=&#34;http://gps.biocuckoo.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GPS&lt;/strong&gt;&lt;/a&gt; 5.0 also supports the prediction of dual-specificity kinase-specific p-sites. In the classical module of &lt;a href=&#34;http://gps.biocuckoo.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GPS&lt;/strong&gt;&lt;/a&gt; 5.0, 617 individual predictors were constructed for predicting p-sites of 479 human PKs. To extend the application of &lt;a href=&#34;http://gps.biocuckoo.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GPS&lt;/strong&gt;&lt;/a&gt; 5.0, a species-specific module was implemented to predict kinase-specific p-sites for 44,795 PKs in 161 eukaryotes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.phosphonet.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PhosphoNET&lt;/strong&gt;&lt;/a&gt; is an open-access, online resource developed by Kinexus Bioinformatics Corporation to foster the study of cell signalling systems to advance biomedical research in academia and industry. &lt;a href=&#34;http://www.phosphonet.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PhosphoNET&lt;/strong&gt;&lt;/a&gt; is the worlds largest repository of known and predicted information on human phosphorylation sites, their evolutionary conservation, the identities of protein kinases that may target these sites and related phosphosites. &lt;a href=&#34;http://www.phosphonet.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PhosphoNET&lt;/strong&gt;&lt;/a&gt; presently holds data on over 950,000 known and putative phosphorylation sites (P-sites) in over 20,000 human proteins that have been collected from the scientific literature and other reputable websites. Over 19% of these phosphosites have been experimentally validated. The rest have been predicted with a novel P-Site Predictor algorithm developed at Kinexus with academic partners at the University of British Columbia and Simon Fraser University.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;With the &lt;a href=&#34;http://www.phosphonet.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PhosphoNET&lt;/strong&gt;&lt;/a&gt; Evolution module, this website also provides information about cognate proteins in over 20 other species that may share these human phosphosites. This helps to define the most functionally important phosphosites as these are expected to be highly conserved in nature.&lt;/li&gt;
+&lt;li&gt;With the Kinase Predictor module, listings are provided for the top 50 human protein kinases that are likely to phosphorylate each of these phosphosites using another proprietary kinase substrate prediction algorithm developed at Kinexus.  Our kinase substrate predictions are based on deduced consensus phosphorylation site amino acid frequency scoring matrices that we have determined for each of ~500 different human protein kinases. The specificity matrices are generated directly from the primary amino acid sequences of the catalytic domains of these kinases, and when available, have proven to correlate strongly with substrate prediction matrices based on alignment of known substrates of these kinases. The higher the score, the better the prospect that a kinase will phosphorylate a given site. Over 30 million kinase-substrate phosphosite pairs are quantified in &lt;a href=&#34;http://www.phosphonet.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PhosphoNET&lt;/strong&gt;&lt;/a&gt;. Kinexus Bioinformatics Corporation has the capability to test most of these putative interactions in vitro for our clients.&lt;/li&gt;
+&lt;li&gt;With the Phosphosite Match module, we have identified those phosphosites that show the greatest amino acid identity to a selected target human phosphosite. This tool is useful to identify related phosphosites that might be targeted the same protein kinases, phosphatases and/or adapter proteins. This type of query might also help identify potential off-targets for cross-reactive proteins that are detected with phosphosite-specific antibodies that were generated to recognize target phosphosites.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

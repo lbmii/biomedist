@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cell Communication | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/cell-communication/</link>
+      <atom:link href="https://example.com/tag/cell-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cell Communication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Cell Communication</title>
+      <link>https://example.com/tag/cell-communication/</link>
+    </image>
+    
+    <item>
+      <title>Methods for inference and analysis of cell-cell communication</title>
+      <link>https://example.com/blog/2023-01-02-infer-anal-ccc/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2023-01-02-infer-anal-ccc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; is a publicly available repository of curated receptors, ligands and their interactions. Subunit architecture is included for both ligands and receptors, representing heteromeric complexes accurately. This is crucial, as cell-cell communication relies on multi-subunit protein complexes that go beyond the binary representation used in most databases and studies. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; integrates existing datasets that pertain to cellular communication and new manually reviewed information. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; utilises information from the following data bases: UniProt, Ensembl, PDB, the IMEx consortium, IUPHAR. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; can be used to search for a particular ligand/receptor or interrogate your own single-cell transcriptomics data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/34857954/&#34;&gt;Mapping the temporal and spatial dynamics of the human endometrium in vivo and in vitro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/32103204/&#34;&gt;CellPhoneDB: Inferring cell-cell communication from combined expression of multi-subunit receptor-ligand complexes&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Research into the Human Connectome has exploded since the original Human Connectome Project grants were awarded by the NIH in 2011. Over the next decade, we expect to see dozens of new projects at institutions around the world researching aspects of how age, growth, disease, and other factors can affect the ever-changing connections in the human brain. The &lt;a href=&#34;https://www.humanconnectome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connectome Coordination Facility (CCF)&lt;/a&gt; has been chartered to help coordinate these myriad research projects, harmonize their data, and facilitate the distribution and dissemination of results. The CCF has three primary aims:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Run a “data acquisition help desk,” to facilitate in the collection of HCP-style data for optimal comparability.&lt;/li&gt;
+&lt;li&gt;Maintain and expand the HCP informatics infrastructure, to host and distribute connectome data from multiple studies on &lt;a href=&#34;https://db.humanconnectome.org/app/template/Login.vm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ConnectomeDB&lt;/strong&gt;&lt;/a&gt; and Amazon Web Services.&lt;/li&gt;
+&lt;li&gt;Serve as a “harmonization center,” to make data from multiple studies and institutions as comparable as possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal of &lt;a href=&#34;https://github.com/arc85/celltalker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;celltalker&lt;/strong&gt;&lt;/a&gt; is to infer putative ligand and receptor interactions from single-cell RNAseq data. This is accomplished by evaluating known cognate ligand/receptor interactions across groups of cells. Interactions are scored by jointly weighting the expression levels of ligands and receptors, and significance is evaluated by comparing to a background distribution of scrambled ligands and receptors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iTALK&lt;/strong&gt;&lt;/a&gt; is an R toolkit for characterizing and illustrating intercellular communication, developed and maintained by &lt;a href=&#34;https://www.mdanderson.org/research/departments-labs-institutes/labs/linghua-wang-laboratory.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linghua Wang Lab&lt;/a&gt; at the University of Texas MD Anderson Cancer Center. &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iTALK&lt;/strong&gt;&lt;/a&gt; can be used to visualize the complexity, diversity and dynamics of cell-cell communication in a wide range of biological processes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/italk/&#34;&gt;iTALK: an R Package to Characterize and Illustrate Intercellular Communication&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Recent development of high throughput single-cell sequencing technologies has made it cost-effective to profile thousands of cells from a complex sample. Examining ligand and receptor expression patterns in the cell types identified from these datasets allows prediction of cell-to-cell communication at the level of niches, tissues and organism-wide. Here, we developed &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI (Network Analysis Toolkit for Multicellular Interactions)&lt;/strong&gt;&lt;/a&gt;, a Python-based toolkit for multi-cellular communication network construction and network analysis of multispecies single-cell and bulk gene expression and proteomic data. &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; uses connectomeDB2020 (the most up-to-date manually curated ligand-receptor interaction list) and user supplied gene expression tables with cell type labels to predict and visualize cell-to-cell communication networks. By interrogating the Tabula Muris cell atlas we demonstrate the utility of &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; to identify cellular communities and the key ligands and receptors involved. Notably, we confirm our previous predictions from bulk data that autocrine signalling is a major feature of cell-to-cell communication networks and for the first time ever show a substantial potential for self-signalling of individual cells through hundreds of co-expressed ligand-receptor pairs. Lastly, we identify age related changes in intercellular communication between the mammary gland of 3 and 18-month-old mice in the Tabula Muris dataset. &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; and our updated ligand-receptor lists are freely available to the research community.
+&lt;ul&gt;
+&lt;li&gt;Fast, flexible and easy-to-use command-line tool to construct cell-to-cell communication networks from user-supplied multi-omics data (single-cell and bulk) in a variety of species.&lt;/li&gt;
+&lt;li&gt;Python-based (software requirements), but no additional coding in python is required. After the analysis is finished, results can be viewed directly or imported to other software of choice such as, for example, R or excel.&lt;/li&gt;
+&lt;li&gt;Built on connectomeDB2020 (default), but users can also add and interrogate their own interactions in any species or explore existing Tabula Muris, Tabula Muris Senis and FANTOM5 cell atlas datastets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/33024107/&#34;&gt;Predicting cell-to-cell communication networks using NATMI&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cellchat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellChat Explorer&lt;/strong&gt;&lt;/a&gt; contains two major components: (a) Ligand-Receptor Interaction Explorer that allows easy exploration of our ligand-receptor interaction database, and (b) Cell-Cell Communication Atlas Explorer that allows easy exploration of the cell-cell communications for any given scRNA-seq dataset that has been processed by &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;R toolkit CellChat&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/33597522/&#34;&gt;Inference and analysis of cell-cell communication using CellChat&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is a R package to study Cell Signaling Using Single Cell RNAseq Data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/32196115/&#34;&gt;SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The goal of &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NicheNet&lt;/strong&gt;&lt;/a&gt; is to study intercellular communication from a computational perspective. &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NicheNet&lt;/strong&gt;&lt;/a&gt; uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths. This allows to predict ligand-receptor interactions that might drive gene expression changes in cells of interest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/31819264/&#34;&gt;NicheNet: modeling intercellular communication by linking ligands to target genes&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

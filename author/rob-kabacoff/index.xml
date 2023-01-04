@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rob Kabacoff | BM Sci-Tech Memento</title>
+    <link>https://example.com/author/rob-kabacoff/</link>
+      <atom:link href="https://example.com/author/rob-kabacoff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rob Kabacoff</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Rob Kabacoff</title>
+      <link>https://example.com/author/rob-kabacoff/</link>
+    </image>
+    
+    <item>
+      <title>Data Visualization with R</title>
+      <link>https://example.com/books/2020-12-01-data-vis-r/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2020-12-01-data-vis-r/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is an amazing platform for data analysis, capable of creating almost any type of graph. &lt;a href=&#34;https://rkabacoff.github.io/datavis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Data Visualization with R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the &lt;a href=&#34;%28https://ggplot2.tidyverse.org%29&#34;&gt;ggplot2&lt;/a&gt; package for graphics, but other approaches are covered as well.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

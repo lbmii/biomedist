@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbiome | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/microbiome/</link>
+      <atom:link href="https://example.com/tag/microbiome/index.xml" rel="self" type="application/rss+xml" />
+    <description>Microbiome</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Microbiome</title>
+      <link>https://example.com/tag/microbiome/</link>
+    </image>
+    
+    <item>
+      <title>Summary of microbiome databases</title>
+      <link>https://example.com/tool/2022-07-10-db-microbiome/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2022-07-10-db-microbiome/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.dsmz.de/collection/catalogue/microorganisms/special-groups-of-organisms/dzif-sammlung/maus-mikrobiomliste&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mouse intestinal Bacterial Collection (miBC)&lt;/a&gt;  is an initiative from the RTWH Aachen (Prof. Thomas Clavel) and the &lt;a href=&#34;https://www.dsmz.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leibniz-Institute DSMZ-German Collection of Microorganisms and Cell Cultures&lt;/a&gt;. It is supported by Collaborative Research Centre (CRC) 1371 and CRC1382 and by the German Federal Ministry of Science and Education through the German Center of Infection Research (DZIF). This collection includes bacterial strains isolated from the intestine of mice. They have been taxonomically described and are all publicly available. This well-curated resource was built to increase our knowledge of cultured diversity within the mouse gut microbiota and to support scientists with their own research by providing multiple strains representing a broad phylogenetic diversity to be used for functional experiments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://bio-annotation.cn/gutMDisorder/home.dhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMDisorder&lt;/a&gt; is a comprehensive resource for associations between gut microbes and phenotypes or interventions in Human and Mouse, derived from manual literature extraction and raw data reprocessing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Microbiome and its metabolites are closely associated with human health and diseases. However, it is challenging to understand the complex interplay between microbiome and metabolites. &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt; is a bioinformatics tool, aiming to identify which bacteria and how they participate in certain metabolic reactions, helping us to understand where metabolites come from: host, bacteria, or both?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; is a curated database of consistently annotated human gut metagenomes. So far &lt;a href=&#34;https://gmrepo.humangut.info/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GMrepo&lt;/a&gt; contains 71,642 human gut runs/samples from 353 projects; they are associated with 132 human phenotypes. Its main features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;extensive manual curation of meta-data of gut samples/runs,&lt;/li&gt;
+&lt;li&gt;grouping samples/runs according to their associated human phenotypes (i.e. health and diseases),&lt;/li&gt;
+&lt;li&gt;graphical selectors enabling easy and efficient access to all our collected data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Recently numerous studies have identified that the perturbations in the gut microbiome were associated with human health, including diseases and cancers, even mental health. The recent development of high-throughput sequencing based metagenomics technologies such as 16S ribosomal RNA gene amplicon-based and genome-centric approaches have burst the profiling of the landscape for gut microbiome and the identification of human health related microbes. Here, we presented the &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; database, which hosted the results of metagenomics studies. In total, 59,132 quantification events for 6,457 taxa at 7 different levels (kingdom, phylum, class, order, family, genus and species) under 776 conditions were collected and integrated in the database, and the details about the samples and experiments were also curated. Various browse and search options were provided in the database, and the detailed information was organized and visualized for queries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://bio-annotation.cn/gutmgene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; is a comprehensive database for target genes of gut microbes and microbial metabolites. Metagenomic sequencing of fecal samples has identified 3.3×10&lt;sup&gt;6&lt;/sup&gt; non-redundant microbial genes from up to 1,500 different species. One of the contributions of gut microbiota to host biology is the circulating pool of bacterially derived small-molecule metabolites. It has been estimated that 10% of metabolites found in mammalian blood are derived from the gut microbiota, where they can produce systemic effects on the host through activating or inhibiting gene expression. Currently, detailed information on target genes of gut microbes and microbial metabolites is scattered in literatures and no online repository is available for collecting these data. Here, we manually extracted microbe-metabolite, microbe-target, and metabolite-target relationships in Human and Mouse from almost 400 publications. All of these relationships were experimentally validated in vivo or in vitro and measured by RT-qPCR, high performance liquid chromatography, 16S rRNA sequence, and so on. Currently, users can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bio-annotation.cn/gutmgene/resource.dhtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt; all manually curated relationships.&lt;/li&gt;
+&lt;li&gt;Achieve relationships by &lt;em&gt;browsing&lt;/em&gt; or &lt;em&gt;searching&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Submit&lt;/em&gt; novel relationships to the &lt;a href=&#34;http://bio-annotation.cn/gutmgene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Taxonomic and functional research of microorganisms has increasingly relied upon genome-based data and methods. As the depository of the Global Catalogue of Microorganisms (GCM) 10K prokaryotic type strain sequencing project, &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Catalogue of Type Strain (gcType)&lt;/a&gt; has published 1049 type strain genomes sequenced by the GCM 10K project which are preserved in global culture collections with a valid published status. Additionally, the information provided through &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gcType&lt;/a&gt; includes &amp;gt;12 000 publicly available type strain genome sequences from GenBank incorporated using quality control criteria and standard data annotation pipelines to form a high-quality reference database. This database integrates type strain sequences with their phenotypic information to facilitate phenotypic and genotypic analyses. Multiple formats of cross-genome searches and interactive interfaces have allowed extensive exploration of the database&amp;rsquo;s resources. In this study, we describe web-based data analysis pipelines for genomic analyses and genome-based taxonomy, which could serve as a one-stop platform for the identification of prokaryotic species. The number of type strain genomes that are published will continue to increase as the GCM 10K project increases its collaboration with culture collections worldwide. Data of this project is shared with the International Nucleotide Sequence Database Collaboration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://disbiome.ugent.be/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disbiome&lt;/a&gt; is a database covering microbial composition changes in different kinds of diseases, managed by Ghent University. Disease names, detection methods or organism names can be used as search queries giving you all information related to the experiment (related disease/bacteria, abundancy subject/control, control type, detection method and related literature).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.vmh.life/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virtual Metabolic Human (VMH)&lt;/a&gt; database captures information on human and gut microbial metabolism and links this information to hundreds of diseases and nutritional data. At its core, there are hundreds of manually curated genome-scale metabolic reconstructions, which have been assembled based on genomic, biochemical, and physiological data. The &lt;a href=&#34;https://www.vmh.life/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VMH&lt;/a&gt; facilitates rapid analyses and interpretations of complex data arising from large-scale biomedical studies by enabling complex queries of its content, by providing a detailed graphical representation of human metabolism, and by distributing computational models for simulating human and microbial metabolism.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt; constitutes a novel resource of experimentally supported microbe-disease associations, currently hosting more than 7,900 entries linking 43 diseases and 1,396 microorganisms. &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt;’s content is exclusively sustained by manual curation of biomedical articles. Importantly, diseases and microorganisms are provided in a systematic, standardized manner using reference resources to create database dictionaries. Information about the experimental design, study cohorts and the applied high- or low-throughput techniques are meticulously annotated and catered to users. Extensive details regarding bacterial abundance, the groups under study (including their sex ratio and their size) and article metadata are available for each entry. A number of functionalities are provided to enhance user experience and enable ingenious use of &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt;. One or more microorganisms and/or diseases can be queried at the same time. Advanced filtering options and direct text-based filtering of results enable refinement of returned information and the conducting of tailored queries suitable to different research questions. Results can be directly downloaded as tab-separated files for local storage and downstream analyses. &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt; also provides to users’ interactive visualizations to effectively capture different aspects of its content. Via Network graphs, Chord diagrams and Hierarchy Diagrams users can browse into the available content and perform observations about microbe-disease relationships using information from the latest relevant literature. &lt;a href=&#34;https://dianalab.e-ce.uth.gr/peryton/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peryton&lt;/a&gt;’s content in numbers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2,918 gastrointestinal disease associations&lt;/li&gt;
+&lt;li&gt;4,065 cancer-related associations&lt;/li&gt;
+&lt;li&gt;869 neurodegenerative disorder associations&lt;/li&gt;
+&lt;li&gt;125 cardiovascular disease associations&lt;/li&gt;
+&lt;li&gt;1,718 entries providing information at species level or below&lt;/li&gt;
+&lt;li&gt;3,777 entries comparing a disease group against healthy individuals and 4,200 comparing disease states&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Accumulating evidence about the interaction between human microbiota and therapeutic-related substances, especially for clinical used drugs, deepens and broadens our understanding in the role of &amp;ldquo;our second genome&amp;rdquo; in human health and diseases, and opens a new window for managing/treating human healthy problems/diseases by manipulating microbiota-human interactions. A centralized and standardized database to catalog Microbiota-Active Substances Interactions (MASIs) will be very useful for related research fields, including microbiota-related pharmaceutical research, food and nutrition research, clinical pharmacy, health management studies. Here, the &lt;a href=&#34;http://www.aiddlab.com/MASI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MASI&lt;/a&gt; database is developed to cater this urgent need by providing manually curated MASIs data from scientific literature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Animal Microbiome Database (AMDB)&lt;/a&gt; is a database covering bacterial 16S rRNA gene profiles from various animal species to assess the relationship between the gut microbiota and animal hosts. We collected 2,530 samples from 34 public projects with manually curated metadata. Currently, &lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMDB&lt;/a&gt; contains 10,478 bacterial taxa from 467 animal species. Please refer to our paper for detailed analysis methods. &lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMDB&lt;/a&gt; provides four main functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taxa: It shows samples enriched with the bacterial taxon of interest.&lt;/li&gt;
+&lt;li&gt;Samples: It provides the gut microbiota composition of the sample of interest.&lt;/li&gt;
+&lt;li&gt;Projects/Hosts: It gives you summary information for the project or the host.&lt;/li&gt;
+&lt;li&gt;Visualization: It visually presents valuable information about the relationships between the samples and the gut microbiota.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of Microbiome Data with R</title>
+      <link>https://example.com/books/2019-02-02-stat-analy-microbiome-r/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-02-02-stat-analy-microbiome-r/</guid>
+      <description>&lt;p&gt;This unique book addresses the statistical modelling and analysis of microbiome data using cutting-edge R software. It includes real-world data from the authors’ research and from the public domain, and discusses the implementation of R for data analysis step by step. The data and R computer programs are publicly available, allowing readers to replicate the model development and data analysis presented in each chapter, so that these new methods can be readily applied in their own research.&lt;/p&gt;
+&lt;p&gt;The book also discusses recent developments in statistical modelling and data analysis in microbiome research, as well as the latest advances in next-generation sequencing and big data in methodological development and applications. This timely book will greatly benefit all readers involved in microbiome, ecology and microarray data analyses, as well as other fields of research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rethinking Diet to Aid Human-Microbe Symbiosis</title>
+      <link>https://example.com/review/27916707/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/27916707/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The spread of the Western lifestyle has been accompanied by microbial changes thought to underlie the emergence of chronic, nontransmissible, immune-related diseases. The past decade has seen the unprecedented development of therapies for &amp;lsquo;replenishing&amp;rsquo; the microbiota of sick individuals. However, functional and ecological solutions helping the host and the gut microbiota to cope with the ecological stressors of modern life are still lacking. In this review, we discuss how recent advances in gut microbiome science are leading to the identification of microbe-derived and health-relevant metabolites. These molecules will guide the selection of the next-generation of probiotics and dietary recommendations, which should also take the resident gut microbiota into account, to optimise efficacy. These solutions for maintaining a well-functioning gut ecosystem and promoting good health should be customised, palatable, and as widely accessible as possible.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

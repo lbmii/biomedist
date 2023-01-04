@@ -1,0 +1,1193 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Preparation Work: Before starting for re-annotation, preparatory work includes:
+Download probe annotation table from GEO (See how in Get GEO platform annotation file and import into R) Download genome annotation file from GENCODE (See how in Download genome annotation files from GENCODE) Download and unzip SeqMap Software for re-annotation Install R Install Git for Windows Follow the preparation, create a new folder and name it with an English name without space is preferred." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.7579f2ea081d74b9cb40a7d984071feb.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="BM Sci-Tech Memento" />
+  <meta property="og:url" content="https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/" />
+  <meta property="og:title" content="Gene probes re-annotation with SeqMap and R | BM Sci-Tech Memento" />
+  <meta property="og:description" content="Preparation Work: Before starting for re-annotation, preparatory work includes:
+Download probe annotation table from GEO (See how in Get GEO platform annotation file and import into R) Download genome annotation file from GENCODE (See how in Download genome annotation files from GENCODE) Download and unzip SeqMap Software for re-annotation Install R Install Git for Windows Follow the preparation, create a new folder and name it with an English name without space is preferred." /><meta property="og:image" content="https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-11-07T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-11-07T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>Gene probes re-annotation with SeqMap and R | BM Sci-Tech Memento</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="89f9ffd03df2b25787dc98ffc1842ca6" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">BM Sci-Tech Memento</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">BM Sci-Tech Memento</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tool/"><span>Tools</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/docs/"><span>Notes</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener"><span>PubMed</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://licore.netlify.app/" target="_blank" rel="noopener"><span>MII</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Gene probes re-annotation with SeqMap and R</h1>
+
+  
+  <p class="page-subtitle">Probes from ArrayChips released in GEO</p>
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Monday, 07 November 2022 
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h4 id="font-color--019858preparation-workfont"><font color = "#019858"><strong>Preparation Work:</strong></font></h4>
+<p>Before starting for re-annotation, preparatory work includes:</p>
+<ul>
+<li>Download probe annotation table from GEO (See how in <a href="/blog/2022-12-09-gpl16686/"><strong>Get GEO platform annotation file and import into R</strong></a>)</li>
+<li>Download genome annotation file from GENCODE (See how in <a href="/blog/2022-11-01-dl-genome-annot-gencode/"><strong>Download genome annotation files from GENCODE</strong></a>)</li>
+<li>Download and unzip <a href="https://jhui2014.github.io/seqmap/" target="_blank" rel="noopener">SeqMap</a> Software for re-annotation</li>
+<li>Install <a href="https://www.r-project.org" target="_blank" rel="noopener">R</a></li>
+<li>Install <a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a> for Windows</li>
+</ul>
+<p>Follow the preparation, create a new folder and <u>name it with <code>an English name without space</code> is preferred</u>. Then move <u>probe annotation table</u>, <u>genome annotation file</u> and <u>SeqMap</u> to the new-created folder.</p>
+<div class="alert alert-note">
+  <div>
+    Make sure that <u>probe annotation table</u>, <u>genome annotation file</u> and <u>SeqMap</u> are placed in the same folder.
+  </div>
+</div>
+<h4 id="font-color--019858start-for-re-annotationfont"><font color = "#019858"><strong>Start for re-annotation:</strong></font></h4>
+<p>Demo with <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558" target="_blank" rel="noopener">GPL10558</a> from GEO.</p>
+<ul>
+<li>Extract probes and probe_sequences without gene SYMBOL</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">rm</span><span class="p">(</span><span class="n">list</span> <span class="o">=</span> <span class="nf">ls</span><span class="p">())</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># load R packages</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">GEOquery</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">data.table</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">platformID</span> <span class="o">&lt;-</span> <span class="s">&#34;GPL10558&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># load GPL.Rdata (platform annotation table)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">load</span><span class="p">(</span><span class="s">&#34;GPL10558.GPL.Rdata&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">gpl</span><span class="p">)</span> <span class="c1"># OR View(gpl)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl">            <span class="n">ID</span> <span class="n">Gene.title</span> <span class="n">Gene.symbol</span> <span class="n">Gene.ID</span> <span class="n">UniGene.title</span> <span class="n">UniGene.symbol</span> <span class="n">UniGene.ID</span> <span class="n">Nucleotide.Title</span> <span class="n">GI</span> <span class="n">GenBank.Accession</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span> <span class="n">ILMN_1343048</span>                                                                                         <span class="kc">NA</span>                  
+</span></span><span class="line"><span class="cl"><span class="m">2</span> <span class="n">ILMN_1343049</span>                                                                                         <span class="kc">NA</span>                  
+</span></span><span class="line"><span class="cl"><span class="m">3</span> <span class="n">ILMN_1343050</span>                                                                                         <span class="kc">NA</span>                  
+</span></span><span class="line"><span class="cl"><span class="m">4</span> <span class="n">ILMN_1343052</span>                                                                                         <span class="kc">NA</span>                  
+</span></span><span class="line"><span class="cl"><span class="m">5</span> <span class="n">ILMN_1343059</span>                                                                                         <span class="kc">NA</span>                  
+</span></span><span class="line"><span class="cl"><span class="m">6</span> <span class="n">ILMN_1343061</span>                                                                                         <span class="kc">NA</span>                  
+</span></span><span class="line"><span class="cl">  <span class="n">Platform_CLONEID</span> <span class="n">Platform_ORF</span> <span class="n">Platform_SPOTID</span> <span class="n">Chromosome.location</span> <span class="n">Chromosome.annotation</span> <span class="n">GO.Function</span> <span class="n">GO.Process</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span>               <span class="kc">NA</span>           <span class="kc">NA</span>              <span class="kc">NA</span>                                                                 
+</span></span><span class="line"><span class="cl"><span class="m">2</span>               <span class="kc">NA</span>           <span class="kc">NA</span>              <span class="kc">NA</span>                                                                 
+</span></span><span class="line"><span class="cl"><span class="m">3</span>               <span class="kc">NA</span>           <span class="kc">NA</span>              <span class="kc">NA</span>                                                                 
+</span></span><span class="line"><span class="cl"><span class="m">4</span>               <span class="kc">NA</span>           <span class="kc">NA</span>              <span class="kc">NA</span>                                                                 
+</span></span><span class="line"><span class="cl"><span class="m">5</span>               <span class="kc">NA</span>           <span class="kc">NA</span>              <span class="kc">NA</span>                                                                 
+</span></span><span class="line"><span class="cl"><span class="m">6</span>               <span class="kc">NA</span>           <span class="kc">NA</span>              <span class="kc">NA</span>                                                                 
+</span></span><span class="line"><span class="cl">  <span class="n">GO.Component</span> <span class="n">GO.Function.ID</span> <span class="n">GO.Process.ID</span> <span class="n">GO.Component.ID</span>                                  <span class="n">Platform_SEQUENCE</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span>                                                           <span class="n">GAATAAAGAACAATCTGCTGATGATCCCTCCGTGGATCTGATTCGTGTAA</span>
+</span></span><span class="line"><span class="cl"><span class="m">2</span>                                                           <span class="n">CCATGTGATACGAGGGCGCGTAGTTTGCATTATCGTTTTTATCGTTTCAA</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span>                                                           <span class="n">CCGACAGATGTATGTAAGGCCAACGTGCTCAAATCTTCATACAGAAAGAT</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span>                                                           <span class="n">TCTGTCACTGTCAGGAAAGTGGTAAAACTGCAACTCAATTACTGCAATGC</span>
+</span></span><span class="line"><span class="cl"><span class="m">5</span>                                                           <span class="n">CTTGTGCCTGAGCTGTCAAAAGTAGAGCACGTCGCCGAGATGAAGGGCGC</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span>                                                           <span class="n">AATTAAAACGATGCACTCAGGGTTTAGCGCGTAGACGTATTGCATTATGC</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># select columns of probe_id, gene_symbol and probe_sequences</span>
+</span></span><span class="line"><span class="cl"><span class="nf">colnames</span><span class="p">(</span><span class="n">gpl</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;ID&#34;</span>                    <span class="s">&#34;Gene.title&#34;</span>            <span class="s">&#34;Gene.symbol&#34;</span>           <span class="s">&#34;Gene.ID&#34;</span>               <span class="s">&#34;UniGene.title&#34;</span>        
+</span></span><span class="line"><span class="cl"><span class="n">[6]</span> <span class="s">&#34;UniGene.symbol&#34;</span>        <span class="s">&#34;UniGene.ID&#34;</span>            <span class="s">&#34;Nucleotide.Title&#34;</span>      <span class="s">&#34;GI&#34;</span>                    <span class="s">&#34;GenBank.Accession&#34;</span>    
+</span></span><span class="line"><span class="cl"><span class="n">[11]</span> <span class="s">&#34;Platform_CLONEID&#34;</span>      <span class="s">&#34;Platform_ORF&#34;</span>          <span class="s">&#34;Platform_SPOTID&#34;</span>       <span class="s">&#34;Chromosome.location&#34;</span>   <span class="s">&#34;Chromosome.annotation&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">[16]</span> <span class="s">&#34;GO.Function&#34;</span>           <span class="s">&#34;GO.Process&#34;</span>            <span class="s">&#34;GO.Component&#34;</span>          <span class="s">&#34;GO.Function.ID&#34;</span>        <span class="s">&#34;GO.Process.ID&#34;</span>        
+</span></span><span class="line"><span class="cl"><span class="n">[21]</span> <span class="s">&#34;GO.Component.ID&#34;</span>       <span class="s">&#34;Platform_SEQUENCE&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">selected.columns</span> <span class="o">&lt;-</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;ID&#34;</span><span class="p">,</span> <span class="s">&#34;Gene.symbol&#34;</span><span class="p">,</span> <span class="s">&#34;Platform_SEQUENCE&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">sel.index</span> <span class="o">&lt;-</span> <span class="nf">colnames</span><span class="p">(</span><span class="n">gpl</span><span class="p">)</span> <span class="o">%in%</span> <span class="n">selected.columns</span>
+</span></span><span class="line"><span class="cl"><span class="n">sel.index</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span>  <span class="kc">TRUE</span> <span class="kc">FALSE</span>  <span class="kc">TRUE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span> <span class="kc">FALSE</span>
+</span></span><span class="line"><span class="cl"><span class="n">[21]</span> <span class="kc">FALSE</span>  <span class="kc">TRUE</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">gpl</span> <span class="o">&lt;-</span> <span class="n">gpl[</span><span class="p">,</span> <span class="n">sel.index]</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># delete rows with NA</span>
+</span></span><span class="line"><span class="cl"><span class="n">gpl</span> <span class="o">&lt;-</span> <span class="nf">na.omit</span><span class="p">(</span><span class="n">gpl</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># delete probes for QC if exist</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Split annotation table into 2 table for probes with and without annotation</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># extract probes with annotation</span>
+</span></span><span class="line"><span class="cl"><span class="n">probeOK</span> <span class="o">&lt;-</span> <span class="n">gpl[gpl</span><span class="o">$</span><span class="n">Gene.symbol</span> <span class="o">!=</span> <span class="s">&#34;&#34;</span><span class="p">,</span> <span class="m">1</span><span class="o">:</span><span class="m">2</span><span class="n">]</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">probeOK</span><span class="p">)</span> <span class="c1"># OR View(probeOK)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">probe_id</span>  <span class="n">symbol</span>
+</span></span><span class="line"><span class="cl"><span class="m">10</span>  <span class="n">ILMN_1343291</span>  <span class="n">EEF1A1</span>
+</span></span><span class="line"><span class="cl"><span class="m">11</span>  <span class="n">ILMN_1343295</span>   <span class="n">GAPDH</span>
+</span></span><span class="line"><span class="cl"><span class="m">783</span> <span class="n">ILMN_1651209</span> <span class="n">SLC35E2</span>
+</span></span><span class="line"><span class="cl"><span class="m">784</span> <span class="n">ILMN_1651210</span>  <span class="n">DUSP22</span>
+</span></span><span class="line"><span class="cl"><span class="m">786</span> <span class="n">ILMN_1651228</span>   <span class="n">RPS28</span>
+</span></span><span class="line"><span class="cl"><span class="m">787</span> <span class="n">ILMN_1651229</span>   <span class="n">IPO13</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">table</span><span class="p">(</span><span class="nf">duplicated</span><span class="p">(</span><span class="n">probeOK</span><span class="o">$</span><span class="n">ID</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="nf">colnames</span><span class="p">(</span><span class="n">probeOK</span><span class="p">)</span> <span class="o">&lt;-</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;probe_id&#34;</span><span class="p">,</span> <span class="s">&#34;symbol&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># save probes with annotations (gene symbols)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">write.csv</span><span class="p">(</span><span class="n">probeOK</span><span class="p">,</span> <span class="s">&#34;probe_ready_GEO.csv&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># extract probes with no annotation</span>
+</span></span><span class="line"><span class="cl"><span class="n">nosymbol.seq</span> <span class="o">&lt;-</span> <span class="n">gpl[gpl</span><span class="o">$</span><span class="n">Gene.symbol</span> <span class="o">==</span> <span class="s">&#34;&#34;</span><span class="p">,</span><span class="n">]</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">nosymbol.seq</span><span class="p">)</span> <span class="c1"># OR View(nosymbol.seq)</span>
+</span></span><span class="line"><span class="cl">            <span class="n">ID</span> <span class="n">Gene.symbol</span>                                  <span class="n">Platform_SEQUENCE</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span> <span class="n">ILMN_1343048</span>             <span class="n">GAATAAAGAACAATCTGCTGATGATCCCTCCGTGGATCTGATTCGTGTAA</span>
+</span></span><span class="line"><span class="cl"><span class="m">2</span> <span class="n">ILMN_1343049</span>             <span class="n">CCATGTGATACGAGGGCGCGTAGTTTGCATTATCGTTTTTATCGTTTCAA</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span> <span class="n">ILMN_1343050</span>             <span class="n">CCGACAGATGTATGTAAGGCCAACGTGCTCAAATCTTCATACAGAAAGAT</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span> <span class="n">ILMN_1343052</span>             <span class="n">TCTGTCACTGTCAGGAAAGTGGTAAAACTGCAACTCAATTACTGCAATGC</span>
+</span></span><span class="line"><span class="cl"><span class="m">5</span> <span class="n">ILMN_1343059</span>             <span class="n">CTTGTGCCTGAGCTGTCAAAAGTAGAGCACGTCGCCGAGATGAAGGGCGC</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span> <span class="n">ILMN_1343061</span>             <span class="n">AATTAAAACGATGCACTCAGGGTTTAGCGCGTAGACGTATTGCATTATGC</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># remove rows without sequences</span>
+</span></span><span class="line"><span class="cl"><span class="n">probe_sense</span> <span class="o">&lt;-</span> <span class="n">nosymbol.seq</span> <span class="o">%&gt;%</span> <span class="nf">filter</span><span class="p">(</span><span class="nf">nchar</span><span class="p">(</span><span class="n">Platform_SEQUENCE</span><span class="p">)</span> <span class="o">!=</span> <span class="m">0</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">probe_sense</span><span class="p">)</span> <span class="c1"># OR View(probe_sense)</span>
+</span></span></code></pre></div><ul>
+<li>Transform peobe_sequences into <code>fasta</code> format with R</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="n">probe.fas</span> <span class="o">&lt;-</span> <span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;&gt;&#34;</span><span class="p">,</span> <span class="n">probe_sense</span><span class="o">$</span><span class="n">ID</span><span class="p">,</span> <span class="s">&#34;\n&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                    <span class="n">probe_sense</span><span class="o">$</span><span class="n">Platform_SEQUENCE</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">probe.fas</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;&gt;ILMN_1343048\nGAATAAAGAACAATCTGCTGATGATCCCTCCGTGGATCTGATTCGTGTAA&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">[2]</span> <span class="s">&#34;&gt;ILMN_1343049\nCCATGTGATACGAGGGCGCGTAGTTTGCATTATCGTTTTTATCGTTTCAA&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">[3]</span> <span class="s">&#34;&gt;ILMN_1343050\nCCGACAGATGTATGTAAGGCCAACGTGCTCAAATCTTCATACAGAAAGAT&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">[4]</span> <span class="s">&#34;&gt;ILMN_1343052\nTCTGTCACTGTCAGGAAAGTGGTAAAACTGCAACTCAATTACTGCAATGC&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">[5]</span> <span class="s">&#34;&gt;ILMN_1343059\nCTTGTGCCTGAGCTGTCAAAAGTAGAGCACGTCGCCGAGATGAAGGGCGC&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">[6]</span> <span class="s">&#34;&gt;ILMN_1343061\nAATTAAAACGATGCACTCAGGGTTTAGCGCGTAGACGTATTGCATTATGC&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># save probe_sequences of fasta format into a txt file</span>
+</span></span><span class="line"><span class="cl"><span class="nf">write.table</span><span class="p">(</span><span class="n">probe.fas</span><span class="p">,</span> <span class="nf">paste0</span><span class="p">(</span><span class="n">platformID</span><span class="p">,</span> <span class="s">&#34;_probe_seq.fasta&#34;</span><span class="p">),</span>
+</span></span><span class="line"><span class="cl">            <span class="n">quote</span> <span class="o">=</span> <span class="bp">F</span><span class="p">,</span> <span class="n">row.names</span> <span class="o">=</span> <span class="bp">F</span><span class="p">,</span> <span class="n">col.names</span> <span class="o">=</span> <span class="bp">F</span><span class="p">)</span>
+</span></span></code></pre></div><div class="alert alert-note">
+  <div>
+    Make sure that <font color = "red"><em>GPL10558_probe_seq.fasta</em></font> is saved in the same folder with <u>probe annotation table</u>, <u>genome annotation file</u> and <u>SeqMap</u>.
+  </div>
+</div>
+<ul>
+<li>Re-annotate the probes with SeqMap</li>
+</ul>
+<p>Open <font color = "#5A5AAD"><strong>Git Bash</strong></font> and change directory to the folder depositing <u>GPL10558_probe_seq.fasta</u>, <u>probe annotation table</u>, <u>genome annotation file</u> and <u>SeqMap</u> with command line.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> E:
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> DataMining/RemapSeqMap/
+</span></span></code></pre></div><p>Input the following command in <font color = "#5A5AAD"><strong>Git Bash</strong></font> and press <font color = "#FF00FF"><strong>Enter</strong></font>.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">./seqmap-1.0.12-windows.exe <span class="m">0</span> ./GPL10558_probe_seq.fasta ./gencode.v42.transcripts.fa seqmap_results.txt //output_all_matches
+</span></span></code></pre></div><p>Once finished, the re-annotation results will be save as <code>seqmap_results.txt</code>.</p>
+<div class="alert alert-warning">
+  <div>
+    <ul>
+<li>All names in the command must be the same with files in the folder!</li>
+<li>Turn to SeqMap official site for more details.</li>
+</ul>
+  </div>
+</div>
+<ul>
+<li>Extract probe_id and gene SYMBOL from SeqMap results with R</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1"># import SeqMap results into R</span>
+</span></span><span class="line"><span class="cl"><span class="n">seqmap.res</span> <span class="o">&lt;-</span> <span class="n">data.table</span><span class="o">::</span><span class="nf">fread</span><span class="p">(</span><span class="s">&#34;seqmap_results.txt&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                                  <span class="n">data.table</span> <span class="o">=</span> <span class="bp">F</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">seqmap.res</span><span class="p">)</span> <span class="c1"># OR View(seqmap.res)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl">                                                                                                                               <span class="n">trans_id</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span>                                            <span class="n">ENST00000689170.1</span><span class="o">|</span><span class="n">ENSG00000231050.3</span><span class="o">|</span><span class="n">OTTHUMG00000000941.1</span><span class="o">|-|</span><span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span><span class="m">-204</span><span class="o">|</span><span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span><span class="o">|</span><span class="m">988</span><span class="o">|</span><span class="n">lncRNA</span><span class="o">|</span>
+</span></span><span class="line"><span class="cl"><span class="m">2</span>                                            <span class="n">ENST00000686550.1</span><span class="o">|</span><span class="n">ENSG00000231050.3</span><span class="o">|</span><span class="n">OTTHUMG00000000941.1</span><span class="o">|-|</span><span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span><span class="m">-203</span><span class="o">|</span><span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span><span class="o">|</span><span class="m">836</span><span class="o">|</span><span class="n">lncRNA</span><span class="o">|</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span>                                           <span class="n">ENST00000702668.1</span><span class="o">|</span><span class="n">ENSG00000231050.3</span><span class="o">|</span><span class="n">OTTHUMG00000000941.1</span><span class="o">|-|</span><span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span><span class="m">-205</span><span class="o">|</span><span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span><span class="o">|</span><span class="m">1018</span><span class="o">|</span><span class="n">lncRNA</span><span class="o">|</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span> <span class="n">ENST00000469733.5</span><span class="o">|</span><span class="n">ENSG00000162585.17</span><span class="o">|</span><span class="n">OTTHUMG00000001404.8</span><span class="o">|</span><span class="n">OTTHUMT00000004066.2</span><span class="o">|</span><span class="n">FAAP20</span><span class="m">-211</span><span class="o">|</span><span class="n">FAAP20</span><span class="o">|</span><span class="m">2280</span><span class="o">|</span><span class="n">protein_coding_CDS_not_defined</span><span class="o">|</span>
+</span></span><span class="line"><span class="cl"><span class="m">5</span>                 <span class="n">ENST00000514625.1</span><span class="o">|</span><span class="n">ENSG00000162585.17</span><span class="o">|</span><span class="n">OTTHUMG00000001404.8</span><span class="o">|</span><span class="n">OTTHUMT00000366246.1</span><span class="o">|</span><span class="n">FAAP20</span><span class="m">-215</span><span class="o">|</span><span class="n">FAAP20</span><span class="o">|</span><span class="m">703</span><span class="o">|</span><span class="n">retained_intron</span><span class="o">|</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span>             <span class="n">ENST00000442483.2</span><span class="o">|</span><span class="n">ENSG00000234396.3</span><span class="o">|</span><span class="n">OTTHUMG00000001405.2</span><span class="o">|</span><span class="n">OTTHUMT00000004068.2</span><span class="o">|</span><span class="n">ENST00000442483</span><span class="o">|</span><span class="n">ENSG00000234396</span><span class="o">|</span><span class="m">326</span><span class="o">|</span><span class="n">lncRNA</span><span class="o">|</span>
+</span></span><span class="line"><span class="cl">  <span class="n">trans_coord</span>                                         <span class="n">target_seq</span>     <span class="n">probe_id</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span>         <span class="m">874</span> <span class="n">CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT</span> <span class="n">ILMN_1859657</span>
+</span></span><span class="line"><span class="cl"><span class="m">2</span>         <span class="m">722</span> <span class="n">CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT</span> <span class="n">ILMN_1859657</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span>         <span class="m">904</span> <span class="n">CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT</span> <span class="n">ILMN_1859657</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span>         <span class="m">812</span> <span class="n">GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA</span> <span class="n">ILMN_1896703</span>
+</span></span><span class="line"><span class="cl"><span class="m">5</span>         <span class="m">613</span> <span class="n">GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA</span> <span class="n">ILMN_1896703</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span>         <span class="m">137</span> <span class="n">GAGGAGCCACAGGACACCAGAGCATCTGCTACAACCCCAGCCAAGATGGT</span> <span class="n">ILMN_1895827</span>
+</span></span><span class="line"><span class="cl">                                           <span class="n">probe_seq</span> <span class="n">num_mismatch</span> <span class="n">strand</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span> <span class="n">CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT</span>            <span class="m">0</span>      <span class="o">+</span>
+</span></span><span class="line"><span class="cl"><span class="m">2</span> <span class="n">CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT</span>            <span class="m">0</span>      <span class="o">+</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span> <span class="n">CGGGATCTGGCTCCGGATGTGCTCATTGCTACTGGGGTGTCATTGCAGCT</span>            <span class="m">0</span>      <span class="o">+</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span> <span class="n">GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA</span>            <span class="m">0</span>      <span class="o">+</span>
+</span></span><span class="line"><span class="cl"><span class="m">5</span> <span class="n">GTGCGCCACAGCAAAACTCCGTCACCACAGCAGCAGATGGCTCCGAAGAA</span>            <span class="m">0</span>      <span class="o">+</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span> <span class="n">GAGGAGCCACAGGACACCAGAGCATCTGCTACAACCCCAGCCAAGATGGT</span>            <span class="m">0</span>      <span class="o">-</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">colnames</span><span class="p">(</span><span class="n">seqmap.res</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;trans_id&#34;</span>     <span class="s">&#34;trans_coord&#34;</span>  <span class="s">&#34;target_seq&#34;</span>   <span class="s">&#34;probe_id&#34;</span>     <span class="s">&#34;probe_seq&#34;</span>    <span class="s">&#34;num_mismatch&#34;</span> <span class="s">&#34;strand&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># extract gene SYMBOL by self-defined function</span>
+</span></span><span class="line"><span class="cl"><span class="n">def.extract</span> <span class="o">&lt;-</span> <span class="nf">function</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">sep</span> <span class="o">=</span> <span class="s">&#34;//&#34;</span><span class="p">,</span> <span class="n">element.order</span> <span class="o">=</span> <span class="m">1</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">library</span><span class="p">(</span><span class="n">stringr</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">object_split</span> <span class="o">&lt;-</span> <span class="nf">str_split</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">sep</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">geneID</span> <span class="o">&lt;-</span> <span class="nf">sapply</span><span class="p">(</span><span class="n">object_split</span><span class="p">,</span> <span class="s">&#34;[&#34;</span><span class="p">,</span> <span class="n">element.order</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">return</span><span class="p">(</span><span class="n">geneID</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">geneNames</span> <span class="o">&lt;-</span> <span class="nf">def.extract</span><span class="p">(</span><span class="n">seqmap.res</span><span class="o">$</span><span class="n">trans_id</span><span class="p">,</span> <span class="s">&#34;\\|&#34;</span><span class="p">,</span> <span class="m">6</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">geneNames</span><span class="p">,</span> <span class="m">20</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;GNB1-DT&#34;</span>         <span class="s">&#34;GNB1-DT&#34;</span>         <span class="s">&#34;GNB1-DT&#34;</span>         <span class="s">&#34;FAAP20&#34;</span>          <span class="s">&#34;FAAP20&#34;</span>          <span class="s">&#34;ENSG00000234396&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">[7]</span> <span class="s">&#34;TNFRSF14-AS1&#34;</span>    <span class="s">&#34;ENSG00000233234&#34;</span> <span class="s">&#34;ENSG00000284692&#34;</span> <span class="s">&#34;ENO1-AS1&#34;</span>        <span class="s">&#34;MIR34AHG&#34;</span>        <span class="s">&#34;MIR34AHG&#34;</span>       
+</span></span><span class="line"><span class="cl"><span class="n">[13]</span> <span class="s">&#34;ENSG00000235263&#34;</span> <span class="s">&#34;LINC01784&#34;</span>       <span class="s">&#34;ENSG00000231606&#34;</span> <span class="s">&#34;ENSG00000231606&#34;</span> <span class="s">&#34;DDI2&#34;</span>            <span class="s">&#34;LINC02783&#34;</span>      
+</span></span><span class="line"><span class="cl"><span class="n">[19]</span> <span class="s">&#34;PAX7&#34;</span>            <span class="s">&#34;ENSG00000226664&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># save remapped probes as data.frame</span>
+</span></span><span class="line"><span class="cl"><span class="nf">colnames</span><span class="p">(</span><span class="n">seqmap.res</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;trans_id&#34;</span>     <span class="s">&#34;trans_coord&#34;</span>  <span class="s">&#34;target_seq&#34;</span>   <span class="s">&#34;probe_id&#34;</span>     <span class="s">&#34;probe_seq&#34;</span>    <span class="s">&#34;num_mismatch&#34;</span> <span class="s">&#34;strand&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">ids.seqmap</span> <span class="o">&lt;-</span> <span class="nf">data.frame</span><span class="p">(</span><span class="n">probe_id</span> <span class="o">=</span> <span class="n">seqmap.res</span><span class="o">$</span><span class="n">probe_id</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                           <span class="n">symbol</span> <span class="o">=</span> <span class="n">geneNames</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">ids.seqmap</span><span class="p">)</span> <span class="c1"># OR View(ids.seqmap)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl">      <span class="n">probe_id</span>          <span class="n">symbol</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span> <span class="n">ILMN_1859657</span>         <span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span>
+</span></span><span class="line"><span class="cl"><span class="m">2</span> <span class="n">ILMN_1859657</span>         <span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span> <span class="n">ILMN_1859657</span>         <span class="n">GNB1</span><span class="o">-</span><span class="n">DT</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span> <span class="n">ILMN_1896703</span>          <span class="n">FAAP20</span>
+</span></span><span class="line"><span class="cl"><span class="m">5</span> <span class="n">ILMN_1896703</span>          <span class="n">FAAP20</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span> <span class="n">ILMN_1895827</span> <span class="n">ENSG00000234396</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># remove duplicated rows</span>
+</span></span><span class="line"><span class="cl"><span class="n">ids.seqmap</span> <span class="o">&lt;-</span> <span class="nf">unique</span><span class="p">(</span><span class="n">ids.seqmap</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># save results</span>
+</span></span><span class="line"><span class="cl"><span class="nf">write.csv</span><span class="p">(</span><span class="n">ids.seqmap</span><span class="p">,</span> <span class="s">&#34;probe_reannotated_SeqMap.csv&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><ul class="cta-group">
+  
+  <li>
+    <a href="/blog/"  class="btn btn-primary px-3 py-3"><font color='white'> &lt; Back to Blog </font></a>
+  </li>
+  
+  
+  <li>
+    <a href="/" >
+      Alternative to Homepage <i class="fas fa-angle-right"></i>
+    </a>
+  </li>
+  
+</ul>
+
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/r/">R</a>
+  
+  <a class="badge badge-light" href="/tag/bioinformatics/">Bioinformatics</a>
+  
+  <a class="badge badge-light" href="/tag/programming/">Programming</a>
+  
+  <a class="badge badge-light" href="/tag/data-mining/">Data Mining</a>
+  
+  <a class="badge badge-light" href="/tag/genomics/">Genomics</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    Copyright © 2023 | Biomedist | All rights reserved.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.54dd6e4d8f2e4b1d098381b57f18dd83.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

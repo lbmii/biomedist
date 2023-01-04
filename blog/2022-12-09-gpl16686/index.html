@@ -1,0 +1,1087 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Commomly, researchers have developed many R packages for gene annotation and host them in Bioconductor. For most data series from NCBI Gene Expression Omnibus (GEO), we can find annotation packages. Yet, we may encounter with some data series without such packages, such as GSE179445." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/blog/2022-12-09-gpl16686/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.7579f2ea081d74b9cb40a7d984071feb.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://example.com/blog/2022-12-09-gpl16686/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="BM Sci-Tech Memento" />
+  <meta property="og:url" content="https://example.com/blog/2022-12-09-gpl16686/" />
+  <meta property="og:title" content="Gene annotation of GPL16686 with R | BM Sci-Tech Memento" />
+  <meta property="og:description" content="Commomly, researchers have developed many R packages for gene annotation and host them in Bioconductor. For most data series from NCBI Gene Expression Omnibus (GEO), we can find annotation packages. Yet, we may encounter with some data series without such packages, such as GSE179445." /><meta property="og:image" content="https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-12-09T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-12-09T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>Gene annotation of GPL16686 with R | BM Sci-Tech Memento</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="0d1cc5b3baf86017a414b3c24c92631f" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">BM Sci-Tech Memento</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">BM Sci-Tech Memento</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tool/"><span>Tools</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/docs/"><span>Notes</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener"><span>PubMed</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://licore.netlify.app/" target="_blank" rel="noopener"><span>MII</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Gene annotation of GPL16686 with R</h1>
+
+  
+  <p class="page-subtitle">GEO platform annotation without bioconductor package</p>
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Friday, 09 December 2022 
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Commomly, researchers have developed many R packages for gene annotation and host them in <a href="https://www.bioconductor.org/" target="_blank" rel="noopener">Bioconductor</a>. For most data series from <a href="https://www.ncbi.nlm.nih.gov/geo/" target="_blank" rel="noopener">NCBI Gene Expression Omnibus (GEO)</a>, we can find annotation packages. Yet, we may encounter with some data series without such packages, such as <font color = "#FF00FF"><strong><em>GSE179445</em></strong></font>.</p>
+<p>Previously, 4 ways to 👉<u><em><a href="/blog/2022-11-01-r-get-geo-platform/"><strong>Get GEO platform annotation file and import into R</strong></a></em></u> were introduced, which can be accessed by clicking the name underlined and in italic.</p>
+<p>Here shares are the scripts for gene annotation of data series <font color = "#FF00FF"><strong><em>GSE179445</em></strong></font> from GEO.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">rm</span><span class="p">(</span><span class="n">list</span> <span class="o">=</span> <span class="nf">ls</span><span class="p">())</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># load R packages</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">GEOquery</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">clusterProfiler</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">org.Hs.eg.db</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># load GEO platform data</span>
+</span></span><span class="line"><span class="cl"><span class="n">gseID</span> <span class="o">&lt;-</span> <span class="s">&#34;GSE179445&#34;</span> <span class="c1"># platformID &lt;- &#34;GPL16686&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nf">load</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="n">gseID</span><span class="p">,</span> <span class="s">&#34;.GPL.Rdata&#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># check gpl with View() OR head()</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># result of View() shown in Figure 1</span>
+</span></span><span class="line"><span class="cl"><span class="nf">View</span><span class="p">(</span><span class="n">gpl</span><span class="p">)</span>
+</span></span></code></pre></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-result-of-viewgpl">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Result of View(gpl)" srcset="
+               /media/res-view-gpl_hud9889e3eba6e411ac45eab06badaeb3b_248852_afad3c3a2ef6d265584fe442918961b8.webp 400w,
+               /media/res-view-gpl_hud9889e3eba6e411ac45eab06badaeb3b_248852_023c043a72d3d2b2a4974ee54530b352.webp 760w,
+               /media/res-view-gpl_hud9889e3eba6e411ac45eab06badaeb3b_248852_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/media/res-view-gpl_hud9889e3eba6e411ac45eab06badaeb3b_248852_afad3c3a2ef6d265584fe442918961b8.webp"
+               width="760"
+               height="451"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      Result of View(gpl)
+    </figcaption></figure>
+<p>look through the result table and look up gene IDs. In Figure 1, we will find gene IDs in <code>Column 6</code> named <code>GB_ACC</code>.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1"># Trandform types of gene IDs with bitr {clusterProfiler}</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># type of GB_ACC genes is defined as &#34;ACCNUM&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">gene.Entrezid</span><span class="o">&lt;-</span> <span class="nf">bitr</span><span class="p">(</span><span class="n">gpl[</span><span class="p">,</span> <span class="m">6</span><span class="n">]</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                     <span class="n">fromType</span> <span class="o">=</span> <span class="s">&#34;ACCNUM&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                     <span class="n">toType</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;SYMBOL&#34;</span><span class="p">,</span><span class="s">&#34;ENTREZID&#34;</span><span class="p">),</span>
+</span></span><span class="line"><span class="cl">                     <span class="n">OrgDb</span> <span class="o">=</span> <span class="n">org.Hs.eg.db</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="s">&#39;select()&#39;</span> <span class="n">returned</span> <span class="m">1</span><span class="o">:</span><span class="m">1</span> <span class="n">mapping</span> <span class="n">between</span> <span class="n">keys</span> <span class="n">and</span> <span class="n">columns</span>
+</span></span><span class="line"><span class="cl"><span class="n">Warning</span> <span class="n">message</span><span class="o">:</span>
+</span></span><span class="line"><span class="cl"><span class="n">In</span> <span class="nf">bitr</span><span class="p">(</span><span class="n">gpl[</span><span class="p">,</span> <span class="m">6</span><span class="n">]</span><span class="p">,</span> <span class="n">fromType</span> <span class="o">=</span> <span class="s">&#34;ACCNUM&#34;</span><span class="p">,</span> <span class="n">toType</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;SYMBOL&#34;</span><span class="p">,</span> <span class="s">&#34;ENTREZID&#34;</span><span class="p">),</span>  <span class="o">:</span>
+</span></span><span class="line"><span class="cl">  <span class="m">3.63</span>% <span class="n">of</span> <span class="n">input</span> <span class="n">gene</span> <span class="n">IDs</span> <span class="n">are</span> <span class="n">fail</span> <span class="n">to</span> <span class="n">map...</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">gene.Entrezid</span><span class="p">)</span> <span class="c1"># OR dim(gene.Entrezid)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl">     <span class="n">ACCNUM</span>    <span class="n">SYMBOL</span>  <span class="n">ENTREZID</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span> <span class="n">NR_046018</span>   <span class="n">DDX11L1</span> <span class="m">100287102</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span> <span class="n">NR_024368</span> <span class="n">LINC01000</span>    <span class="m">402483</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span> <span class="n">NR_029406</span> <span class="n">RPL23AP87</span>    <span class="m">388574</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span> <span class="n">NR_047526</span> <span class="n">LINC01128</span>    <span class="m">643837</span>
+</span></span><span class="line"><span class="cl"><span class="m">7</span> <span class="n">NM_152486</span>    <span class="n">SAMD11</span>    <span class="m">148398</span>
+</span></span><span class="line"><span class="cl"><span class="m">8</span> <span class="n">NM_198317</span>    <span class="n">KLHL17</span>    <span class="m">339451</span>
+</span></span></code></pre></div><div class="alert alert-note">
+  <div>
+    <ul>
+<li>Pay attention to the <u><strong>Warning message</strong></u> when running bitr().</li>
+<li><u><strong>3.63% of input gene IDs are fail to map&hellip;</strong></u> means probes without annotation exist.</li>
+</ul>
+  </div>
+</div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1"># delete probes without annotation</span>
+</span></span><span class="line"><span class="cl"><span class="n">probes.sense</span> <span class="o">&lt;-</span> <span class="n">gpl[gpl</span><span class="o">$</span><span class="n">GB_ACC</span> <span class="o">%in%</span> <span class="n">gene.Entrezid</span><span class="o">$</span><span class="n">ACCNUM</span><span class="p">,</span><span class="n">]</span>
+</span></span><span class="line"><span class="cl"><span class="nf">dim</span><span class="p">(</span><span class="n">probes.sense</span><span class="p">)</span> <span class="c1"># OR View(probes.sense) OR head(probes.sense)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># validate the column number of gene IDs</span>
+</span></span><span class="line"><span class="cl"><span class="nf">colnames</span><span class="p">(</span><span class="n">probes.sense</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;ID&#34;</span>           <span class="s">&#34;RANGE_STRAND&#34;</span> <span class="s">&#34;RANGE_START&#34;</span>  <span class="s">&#34;RANGE_END&#34;</span>    <span class="s">&#34;total_probes&#34;</span> <span class="s">&#34;GB_ACC&#34;</span>       <span class="s">&#34;SPOT_ID&#34;</span>      <span class="s">&#34;RANGE_GB&#34;</span> 
+</span></span></code></pre></div><p><code>&quot;ID&quot; (probe ID)</code> and <code>&quot;GB_ACC&quot; (gene ID)</code> are respectively located in <code>Column 1</code> and <code>Column 6</code>.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1"># extract probes and gene IDs</span>
+</span></span><span class="line"><span class="cl"><span class="n">probes.sense</span> <span class="o">&lt;-</span> <span class="n">probes.sense[</span><span class="p">,</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="m">6</span><span class="p">)</span><span class="n">]</span>
+</span></span><span class="line"><span class="cl"><span class="nf">colnames</span><span class="p">(</span><span class="n">probes.sense</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;ID&#34;</span>     <span class="s">&#34;GB_ACC&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">colnames</span><span class="p">(</span><span class="n">probes.sense</span><span class="p">)</span> <span class="o">&lt;-</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;probe_id&#34;</span><span class="p">,</span> <span class="s">&#34;ACCNUM&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><p>Now we have got <font color = "#01B468"><strong>genes as <u>SYMBOLs</u></strong></font>, but they are in different tables with probes. So we need to merge them together.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1"># check the data type of probes and genes</span>
+</span></span><span class="line"><span class="cl"><span class="nf">class</span><span class="p">(</span><span class="n">probes.sense</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;data.frame&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">class</span><span class="p">(</span><span class="n">gene.Entrezid</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;data.frame&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># merge two data frames of probes and genes</span>
+</span></span><span class="line"><span class="cl"><span class="n">ids</span> <span class="o">&lt;-</span> <span class="nf">merge</span><span class="p">(</span><span class="n">probes.sense</span><span class="p">,</span> <span class="n">gene.Entrezid</span><span class="p">,</span> <span class="n">by</span> <span class="o">=</span> <span class="s">&#34;ACCNUM&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nf">head</span><span class="p">(</span><span class="n">ids</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl">     <span class="n">ACCNUM</span> <span class="n">probe_id</span> <span class="n">SYMBOL</span> <span class="n">ENTREZID</span>
+</span></span><span class="line"><span class="cl"><span class="m">1</span> <span class="n">NM_000014</span> <span class="m">16761012</span>    <span class="n">A2M</span>        <span class="m">2</span>
+</span></span><span class="line"><span class="cl"><span class="m">2</span> <span class="n">NM_000015</span> <span class="m">17066197</span>   <span class="n">NAT2</span>       <span class="m">10</span>
+</span></span><span class="line"><span class="cl"><span class="m">3</span> <span class="n">NM_000019</span> <span class="m">16730819</span>  <span class="n">ACAT1</span>       <span class="m">38</span>
+</span></span><span class="line"><span class="cl"><span class="m">4</span> <span class="n">NM_000020</span> <span class="m">16751381</span> <span class="n">ACVRL1</span>       <span class="m">94</span>
+</span></span><span class="line"><span class="cl"><span class="m">5</span> <span class="n">NM_000021</span> <span class="m">16786167</span>  <span class="n">PSEN1</span>     <span class="m">5663</span>
+</span></span><span class="line"><span class="cl"><span class="m">6</span> <span class="n">NM_000022</span> <span class="m">16919466</span>    <span class="n">ADA</span>      <span class="m">100</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">dim</span><span class="p">(</span><span class="n">ids</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Result:</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="m">16936</span>     <span class="m">4</span>
+</span></span></code></pre></div><p>Finish with saving ids as <code>Rdata</code>, which can be loaded with <code>Load()</code> quickly.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">save</span><span class="p">(</span><span class="n">ids</span><span class="p">,</span> <span class="n">file</span> <span class="o">=</span> <span class="s">&#34;ids.Rdata&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><ul class="cta-group">
+  
+  <li>
+    <a href="/blog/"  class="btn btn-primary px-3 py-3"><font color='white'> &lt; Back to Blog </font></a>
+  </li>
+  
+  
+  <li>
+    <a href="/" >
+      Alternative to Homepage <i class="fas fa-angle-right"></i>
+    </a>
+  </li>
+  
+</ul>
+
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/r/">R</a>
+  
+  <a class="badge badge-light" href="/tag/bioinformatics/">Bioinformatics</a>
+  
+  <a class="badge badge-light" href="/tag/programming/">Programming</a>
+  
+  <a class="badge badge-light" href="/tag/data-mining/">Data Mining</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    Copyright © 2023 | Biomedist | All rights reserved.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.54dd6e4d8f2e4b1d098381b57f18dd83.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

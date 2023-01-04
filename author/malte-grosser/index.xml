@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malte Grosser | BM Sci-Tech Memento</title>
+    <link>https://example.com/author/malte-grosser/</link>
+      <atom:link href="https://example.com/author/malte-grosser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Malte Grosser</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Malte Grosser</title>
+      <link>https://example.com/author/malte-grosser/</link>
+    </image>
+    
+    <item>
+      <title>The R series: Advanced R Solutions</title>
+      <link>https://example.com/books/2021-08-24-adva-r-solut/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2021-08-24-adva-r-solut/</guid>
+      <description>&lt;p&gt;The website for &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; provides solutions to the exercises from Hadley Wickham’s &lt;a href=&#34;https://adv-r.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced R&lt;/a&gt;, &lt;mark&gt;2nd edition&lt;/mark&gt;. Working through the exercises and their solutions will give you a deep understanding of a variety of programming challenges, many of which are relevant to everyday work. For the &lt;mark&gt;2nd edition&lt;/mark&gt; of the book, just click on &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, while solutions to the &lt;mark&gt;1st edition&lt;/mark&gt; of &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; can be found at &lt;a href=&#34;https://advanced-r-solutions-ed1.netlify.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;netlify.com&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

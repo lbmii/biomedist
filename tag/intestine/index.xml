@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intestine | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/intestine/</link>
+      <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intestine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Intestine</title>
+      <link>https://example.com/tag/intestine/</link>
+    </image>
+    
+    <item>
+      <title>Biomarker-responsive engineered probiotic diagnoses, records, and ameliorates inflammatory bowel disease in mice</title>
+      <link>https://example.com/article/22-12-29-21-52/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22-12-29-21-52/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;i-ROBOT converts IBD information into trackable and heritable DNA alterations&lt;/li&gt;
+&lt;li&gt;i-ROBOT contains a self-tunable, thiosulfate-regulated drug release system&lt;/li&gt;
+&lt;li&gt;i-ROBOT has a replaceable biomarker-sensing element, creating a broad platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rapid advances in synthetic biology have fueled interest in engineered microorganisms that can diagnose and treat disease. However, designing bacteria that detect dynamic disease-associated biomarkers that then drive treatment remains difficult. Here, we have developed an engineered probiotic that noninvasively monitors and records inflammatory bowel disease (IBD) occurrence and progression in real time and can release treatments via a self-tunable mechanism in response to these biomarkers. These intelligent responsive bacteria for diagnosis and therapy (i-ROBOT) consists of E. coli Nissle 1917 that responds to levels of the inflammatory marker thiosulfate by activating a base-editing system to generate a heritable genomic DNA sequence as well as producing a colorimetric signal. Fluctuations in thiosulfate also drive the tunable release of the immunomodulator AvCystatin. Orally administering i-ROBOT to mice with colitis generated molecular recording signals in processed fecal and colon samples and effectively ameliorated disease. i-ROBOT provides a promising paradigm for gastrointestinal and other metabolic disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

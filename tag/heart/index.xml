@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heart | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/heart/</link>
+      <atom:link href="https://example.com/tag/heart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heart</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Heart</title>
+      <link>https://example.com/tag/heart/</link>
+    </image>
+    
+    <item>
+      <title>Interdependent Nuclear Co-Trafficking of ASPP1 and p53 Aggravates Cardiac Ischemia/Reperfusion Injury</title>
+      <link>https://example.com/article/23-01-01-10-14/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-01-10-14/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;OBJECTIVE:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ASPP1 (apoptosis stimulating of p53 protein 1) is critical in regulating cell apoptosis as a cofactor of p53 to promote its transcriptional activity in the nucleus. However, whether cytoplasmic ASPP1 affects p53 nuclear trafficking and its role in cardiac diseases remains unknown. This study aims to explore the mechanism by which ASPP1 modulates p53 nuclear trafficking and the subsequent contribution to cardiac ischemia/reperfusion (I/R) injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;METHODS AND RESULTS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The immunofluorescent staining showed that under normal condition ASPP1 and p53 colocalized in the cytoplasm of neonatal mouse ventricular cardiomyocytes, while they were both upregulated and translocated to the nuclei upon hypoxia/reoxygenation treatment. The nuclear translocation of ASPP1 and p53 was interdependent, as knockdown of either ASPP1 or p53 attenuated nuclear translocation of the other one. Inhibition of importin-β1 resulted in the cytoplasmic sequestration of both p53 and ASPP1 in neonatal mouse ventricular cardiomyocytes with hypoxia/reoxygenation stimulation. Overexpression of ASPP1 potentiated, whereas knockdown of ASPP1 inhibited the expression of Bax (Bcl2-associated X), PUMA (p53 upregulated modulator of apoptosis), and Noxa, direct apoptosis-associated targets of p53. ASPP1 was also increased in the I/R myocardium. Cardiomyocyte-specific transgenic overexpression of ASPP1 aggravated I/R injury as indicated by increased infarct size and impaired cardiac function. Conversely, knockout of ASPP1 mitigated cardiac I/R injury. The same qualitative data were observed in neonatal mouse ventricular cardiomyocytes exposed to hypoxia/reoxygenation injury. Furthermore, inhibition of p53 significantly blunted the proapoptotic activity and detrimental effects of ASPP1 both in vitro and in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONCLUSIONS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Binding of ASPP1 to p53 triggers their nuclear cotranslocation via importin-β1 that eventually exacerbates cardiac I/R injury. The findings imply that interfering the expression of ASPP1 or the interaction between ASPP1 and p53 to block their nuclear trafficking represents an important therapeutic strategy for cardiac I/R injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

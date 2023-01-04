@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virology | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/virology/</link>
+      <atom:link href="https://example.com/tag/virology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Virology</title>
+      <link>https://example.com/tag/virology/</link>
+    </image>
+    
+    <item>
+      <title>Databases for virological research</title>
+      <link>https://example.com/tool/2018-02-27-db-virol/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2018-02-27-db-virol/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.bv-brc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bacterial and Viral Bioinformatics Resource Center (BV-BRC)&lt;/strong&gt;&lt;/a&gt; is an information system designed to support the biomedical research community’s work on bacterial and viral infectious diseases via integration of vital pathogen information with rich data and analysis tools. &lt;a href=&#34;https://www.bv-brc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;BV-BRC&lt;/strong&gt;&lt;/a&gt; combines the data, technology, and extensive user communities from two long-running centers: PATRIC, the bacterial system , and IRD/ViPR, the viral systems. In addition to hundreds of thousands of bacterial genomes in PATRIC and over a million viral genomes in IRD/ViPR, the two resources host data on protein structure and function, clinical studies, drug targets and resistance, epidemiology, and other features, and provide open source tools for data analysis and genomic annotation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NCBI &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Influenza Virus Resource&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; Initiative promotes the rapid sharing of data from all influenza viruses and the coronavirus causing COVID-19. This includes genetic sequence and related clinical and epidemiological data associated with human viruses, and geographical as well as species-specific data associated with avian and other animal viruses, to help researchers understand how viruses evolve and spread during epidemics and pandemics. &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; does so by overcoming disincentive hurdles and restrictions, which discourage or prevented sharing of virological data prior to formal publication. The Initiative ensures that open access to data in &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; is provided free-of-charge to all individuals that agreed to identify themselves and agreed to uphold the &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; sharing mechanism governed through its Database Access Agreement. All bonafide users with &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt; access credentials agreed to the basic premise of upholding a scientific etiquette, by acknowledging the Originating laboratories providing the specimens, and the Submitting laboratories generating sequence and other metadata, ensuring fair exploitation of results derived from the data, and that all users agree that no restrictions shall be attached to data submitted to &lt;a href=&#34;https://gisaid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GISAID&lt;/strong&gt;&lt;/a&gt;, to promote collaboration among researchers on the basis of open sharing of data and respect for all rights and interests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FluPhenotype&lt;/strong&gt;&lt;/a&gt; is an one-stop platform for early warnings of influenza A viruses. Complete or partial genome sequences, or protein sequences of influenza A viruses could be inputted. &lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FluPhenotype&lt;/strong&gt;&lt;/a&gt; would automatically scan the genomic or protein sequences and output four kinds of information about the virus: the predicted antigenic and genetic relationship between the virus and the vaccine or reference strains,the predicted host of the virus, the mammalian virulence-related amino acids, and the drug-resistance related amino acids.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

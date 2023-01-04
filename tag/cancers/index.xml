@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancers | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/cancers/</link>
+      <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Cancers</title>
+      <link>https://example.com/tag/cancers/</link>
+    </image>
+    
+    <item>
+      <title>Lactylome analysis suggests lactylation-dependent mechanisms of metabolic adaptation in hepatocellular carcinoma</title>
+      <link>https://example.com/article/23-01-03-08-19/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-03-08-19/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enhanced glycolysis and accumulation of lactate is a common feature in various types of cancer. Intracellular lactate drives a recently described type of posttranslational modification, lysine lactylation (Kla), on core histones. However, the impact of lactylation on biological processes of tumour cells remains largely unknown. Here we show a global lactylome profiling on a prospectively collected hepatitis B virus-related hepatocellular carcinoma (HCC) cohort. Integrative lactylome and proteome analysis of the tumours and adjacent livers identifies 9,275 Kla sites, with 9,256 sites on non-histone proteins, indicating that Kla is a prevalent modification beyond histone proteins and transcriptional regulation. Notably, Kla preferentially affects enzymes involved in metabolic pathways, including the tricarboxylic acid cycle, and carbohydrate, amino acid, fatty acid and nucleotide metabolism. We further verify that lactylation at K28 inhibits the function of adenylate kinase 2, facilitating the proliferation and metastasis of HCC cells. Our study therefore reveals that Kla plays an important role in regulating cellular metabolism and may contribute to HCC progression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive databases for biomedical research</title>
+      <link>https://example.com/tool/db-biomed-res/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/db-biomed-res/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://db.cngb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;China National GeneBank DataBase (CNGBdb)&lt;/strong&gt;&lt;/a&gt; is a uniﬁed platform built for biological big data sharing and application services to the research community. Based on the big data and cloud computing technologies, it provides data services such as archive, analysis, knowledge search, management authorization, and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;National Center for Biotechnology Information (NCBI)&lt;/strong&gt;&lt;/a&gt; advances science and health by providing access to biomedical and genomic information.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;PubMed&lt;/em&gt;&lt;/a&gt; comprises more than 34 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Gene&lt;/em&gt;&lt;/a&gt; supplies gene-specific connections in the nexus of map, sequence, expression, structure, function, citation, and homology data. Unique identifiers are assigned to genes with defining sequences, genes with known map positions, and genes inferred from phenotypic information.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/nuccore/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Nucleotide&lt;/em&gt;&lt;/a&gt; deposites DNA and RNA sequences.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Gene Expression Omnibus (GEO)&lt;/em&gt;&lt;/a&gt;  is a public functional genomics data repository supporting MIAME-compliant data submissions. Array- and sequence-based data are accepted. Tools are provided to help users query and download experiments and curated gene expression profiles. Users can also analyze published data to identify genes that are differentially expressed across experimental conditions with &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/geo2r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEO2R&lt;/a&gt;, where codes and scripts are not needed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blast.ncbi.nlm.nih.gov/Blast.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Basic Local Alignment Search Tool (BLAST)&lt;/em&gt;&lt;/a&gt; finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/biostudies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;BioStudies&lt;/strong&gt;&lt;/a&gt; holds descriptions of biological studies, links to data from these studies in other databases at &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt; or outside, as well as data that do not fit in the structured archives at &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt;. The database accepts submissions via an online tool, or in a simple tab-delimited format. It also enables authors to submit supplementary information and link to it from the publication.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/biostudies/arrayexpress&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ArrayExpress&lt;/em&gt;&lt;/a&gt;, the functional genomics collection, stores data from high-throughput functional genomics experiments, and provides data for reuse to the research community. In line with community guidelines, a study typically contains metadata such as detailed sample annotations, protocols, processed data and raw data. Raw sequence reads from high-throughput sequencing studies are brokered to the European Nucleotide Archive (ENA), and links are provided to download the sequence reads from ENA. Data can be submitted to the &lt;a href=&#34;https://www.ebi.ac.uk/biostudies/arrayexpress&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ArrayExpress&lt;/em&gt;&lt;/a&gt; collection through its dedicated submission tool, Annotare.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genomes&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ensembl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ensembl&lt;/em&gt;&lt;/a&gt; is a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation and a part of the &lt;a href=&#34;https://elixir-europe.org/platforms/data/core-data-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ELIXIR Core Data Resources&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.genome.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The UCSC Genome Browser&lt;/em&gt;&lt;/a&gt; is a web-based tool serving as a multi-powered microscope that allows researchers to view all 23 chromosomes of the human genome at any scale from a full chromosome down to an individual nucleotide.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gencodegenes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GENCODE&lt;/em&gt;&lt;/a&gt; aims to identify and classify all gene features in the human and mouse genomes with high accuracy based on biological evidence, and to release these annotations for the benefit of biomedical research and genome interpretation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.noncode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NONCODE&lt;/em&gt;&lt;/a&gt; is an integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs). The source of &lt;a href=&#34;http://www.noncode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NONCODE&lt;/em&gt;&lt;/a&gt; includes literature and other public databases. &lt;a href=&#34;http://www.noncode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;NONCODE&lt;/em&gt;&lt;/a&gt; searches PubMed using key words &lt;code&gt;ncrna&lt;/code&gt;, &lt;code&gt;noncoding&lt;/code&gt;, &lt;code&gt;non-coding&lt;/code&gt;, &lt;code&gt;no code&lt;/code&gt;, &lt;code&gt;non-code&lt;/code&gt;, &lt;code&gt;lncrna&lt;/code&gt; or &lt;code&gt;lincrna&lt;/code&gt;. NONCODE retrieves the new identified lncRNAs and their annotation from the Supplementary Material or web site of these articles. Together with the newest data from &lt;a href=&#34;https://www.ensembl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensembl&lt;/a&gt;, &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/refseq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RefSeq&lt;/a&gt;, &lt;a href=&#34;http://lncrnadb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lncRNAdb&lt;/a&gt; and &lt;a href=&#34;https://www.gencodegenes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GENCODE&lt;/a&gt; were processed through a standard pipeline for each species.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.encodeproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Encyclopedia of DNA Elements (ENCODE)&lt;/em&gt;&lt;/a&gt; Consortium is an ongoing international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI). The goal of &lt;a href=&#34;https://www.encodeproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ENCODE&lt;/em&gt;&lt;/a&gt; is to build a comprehensive parts list of functional elements in the human genome, including elements that act at the protein and RNA levels, and regulatory elements that control cells and circumstances in which a gene is active.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancers&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Cancer Genome Atlas (TCGA)&lt;/em&gt;&lt;/a&gt;, a landmark cancer genomics program, molecularly characterizes over 20,000 primary cancer and matched normal samples spanning 33 cancer types. Usually, we prefer to access the Database via &lt;a href=&#34;https://portal.gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons Data Portal (GDC)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; for Cancer Genomics was originally developed at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center (MSKCC)&lt;/a&gt;. The public &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; site is hosted by the Center for &lt;a href=&#34;https://www.mskcc.org/research-programs/molecular-oncology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecular Oncology&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSKCC&lt;/a&gt;. The &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; software is now available under an open source license via &lt;a href=&#34;https://github.com/cBioPortal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; 
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; is for analyzing the RNA sequencing expression data of 9,736 tumors and 8,587 normal samples from the &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; and the &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; projects, using a standard processing pipeline. &lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; provides customizable functions such as tumor/normal differential expression analysis, profiling according to cancer types or pathological stages, patient survival analysis, similar gene detection, correlation analysis and dimensionality reduction analysis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; allows users to explore functional genomic data sets for correlations between genomic and/or phenotypic variables. It provides interactive online visualization of seminal cancer genomics datasets, including data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(TCGA)&lt;/a&gt;, &lt;a href=&#34;https://dcc.icgc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Cancer Genome Consortium (ICGC)&lt;/a&gt;, and &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons (GDC)&lt;/a&gt;. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; also visualizes the UCSC RNA-seq compendium which contains data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; tumor samples, &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; normal samples, and &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; normal samples. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; supports virtually any functional genomics data, including SNVs, INDELs, large structural variants, copy number variation, gene-, transcript-, exon-, miRNA-, LncRNA-, protein-expressions, DNA methylation, ATAC-seq signals, phenotypic/clinical annotations, and higher-level derived genomic parameters.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gdac.broadinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Broad GDAC&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Databases make cancer research easier</title>
+      <link>https://example.com/tool/2020-02-22-dtb-cancer-res/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2020-02-22-dtb-cancer-res/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Cancer Genome Atlas (TCGA)&lt;/em&gt;&lt;/a&gt;, a landmark cancer genomics program, molecularly characterizes over 20,000 primary cancer and matched normal samples spanning 33 cancer types. Usually, we prefer to access the Database via &lt;a href=&#34;https://portal.gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons Data Portal (GDC)&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; for Cancer Genomics was originally developed at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center (MSKCC)&lt;/a&gt;. The public &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; site is hosted by the Center for &lt;a href=&#34;https://www.mskcc.org/research-programs/molecular-oncology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecular Oncology&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSKCC&lt;/a&gt;. The &lt;a href=&#34;https://www.cbioportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;cBioPortal&lt;/em&gt;&lt;/a&gt; software is now available under an open source license via &lt;a href=&#34;https://github.com/cBioPortal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; 
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; is for analyzing the RNA sequencing expression data of 9,736 tumors and 8,587 normal samples from the &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; and the &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; projects, using a standard processing pipeline. &lt;a href=&#34;http://gepia2.cancer-pku.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;GEPIA&lt;/em&gt;&lt;/a&gt; provides customizable functions such as tumor/normal differential expression analysis, profiling according to cancer types or pathological stages, patient survival analysis, similar gene detection, correlation analysis and dimensionality reduction analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; allows users to explore functional genomic data sets for correlations between genomic and/or phenotypic variables. It provides interactive online visualization of seminal cancer genomics datasets, including data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(TCGA)&lt;/a&gt;, &lt;a href=&#34;https://dcc.icgc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Cancer Genome Consortium (ICGC)&lt;/a&gt;, and &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons (GDC)&lt;/a&gt;. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; also visualizes the UCSC RNA-seq compendium which contains data from &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; tumor samples, &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; normal samples, and &lt;a href=&#34;https://www.gtexportal.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTEx&lt;/a&gt; normal samples. &lt;a href=&#34;http://xena.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;UCSC Xena&lt;/em&gt;&lt;/a&gt; supports virtually any functional genomics data, including SNVs, INDELs, large structural variants, copy number variation, gene-, transcript-, exon-, miRNA-, LncRNA-, protein-expressions, DNA methylation, ATAC-seq signals, phenotypic/clinical annotations, and higher-level derived genomic parameters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gdac.broadinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Broad GDAC&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Emerging Biological Principles of Metastasis</title>
+      <link>https://example.com/review/28187288/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/28187288/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metastases account for the great majority of cancer-associated deaths, yet this complex process remains the least understood aspect of cancer biology. As the body of research concerning metastasis continues to grow at a rapid rate, the biological programs that underlie the dissemination and metastatic outgrowth of cancer cells are beginning to come into view. In this review we summarize the cellular and molecular mechanisms involved in metastasis, with a focus on carcinomas where the most is known, and we highlight the general principles of metastasis that have begun to emerge.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hippo Pathway in Organ Size Control, Tissue Homeostasis, and Cancer</title>
+      <link>https://example.com/review/26544935/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/26544935/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Two decades of studies in multiple model organisms have established the Hippo pathway as a key regulator of organ size and tissue homeostasis. By inhibiting YAP and TAZ transcription co-activators, the Hippo pathway regulates cell proliferation, apoptosis, and stemness in response to a wide range of extracellular and intracellular signals, including cell-cell contact, cell polarity, mechanical cues, ligands of G-protein-coupled receptors, and cellular energy status. Dysregulation of the Hippo pathway exerts a significant impact on cancer development. Further investigation of the functions and regulatory mechanisms of this pathway will help uncovering the mystery of organ size control and identify new targets for cancer treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular pathways: autophagy in cancer--a matter of timing and context</title>
+      <link>https://example.com/review/25165101/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/25165101/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy is an intracellular self-digestion mechanism, by which cellular components are sorted into double-membrane autophagosomes and delivered to lysosomes for degradation. Cells use autophagy to dispose of wastes and eliminate hazards, while recycling nutrients and tuning metabolism in the process. Through these functions, autophagy promotes cell fitness, genome integrity, tissue homeostasis, and cell survival and growth under stress. Both autophagy upregulation and downregulation have been found in human cancers, suggesting a complex role in tumor development. Accumulating results from autophagy-deficient mice and mouse models of human cancers have demonstrated that autophagy generally suppresses tumor initiation, but promotes tumor progression, in a manner that is dependent on timing and context and modified by specific tumorigenic events. Given the role of autophagy in facilitating tumor growth, autophagy inhibition has gained wide attention as a potential anticancer therapy. Here, we summarize relevant genetic, preclinical, and clinical studies and discuss the multifaceted role of autophagy in cancer, as well as the prospects of autophagy inhibition for cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

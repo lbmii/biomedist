@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microRNAs | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/micrornas/</link>
+      <atom:link href="https://example.com/tag/micrornas/index.xml" rel="self" type="application/rss+xml" />
+    <description>microRNAs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>microRNAs</title>
+      <link>https://example.com/tag/micrornas/</link>
+    </image>
+    
+    <item>
+      <title>Heparan sulfate proteoglycan-mediated internalization of extracellular vesicles ameliorates liver fibrosis by targeting hepatic stellate cells</title>
+      <link>https://example.com/article/2022-12-14-1024/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/2022-12-14-1024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Accumulating evidence shows that stem cell-derived extracellular vesicles (EVs) have shown great promise for tissue regeneration and are considered an alternative to cell-based therapy. However, the mechanisms by which EVs induce tissue repair have not been well demonstrated. Previous work indicates that activation of hepatic stellate cells (HSCs) may contribute to the progression of liver fibrosis. Here, we investigate the therapeutic potential of EVs derived from human placental mesenchymal stem cells (hP-MSCs) for the treatment of carbon tetrachloride (CCl4)-induced liver injury. Our data revealed that EVs derived from hP-MSCs effectively ameliorate liver injury by attenuating inflammation and fibrosis. Further data revealed that heparan sulfate proteoglycans (HSPGs) on the surface of HSCs mediate the internalization of EVs. Furthermore, EVs could inhibit the epithelial–mesenchymal transition (EMT) process in HSCs through the downregulated TGF-/Smad pathway, which was mediated by miR-744-5p in EVs. Meanwhile, glycosaminoglycans on the surface of EVs play a crucial anti-inflammatory role. In conclusion, our results provide evidence that hP-MSC-derived EVs promote the recovery of liver injury by targeting HSPGs on HSCs and inhibiting liver inflammation through glycosaminoglycans from EVs. These findings may provide a novel theoretical basis for the treatment of liver fibrosis based on EVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Online tools decoding RNA-RNA regulatory networks</title>
+      <link>https://example.com/tool/2020-11-10-rri/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2020-11-10-rri/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://circinteractome.nia.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;CircInteractome&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; predicts the miRNAs which can potentially target the circRNAs using the &lt;a href=&#34;https://www.targetscan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Targetscan&lt;/a&gt; prediction tool. This computational tool enables the prediction and mapping of binding sites for RBPs and miRNAs on reported circRNAs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights of &lt;a href=&#34;%28https://circinteractome.nia.nih.gov/%29&#34;&gt;CircInteractome&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Searches circRNAs name&lt;/li&gt;
+&lt;li&gt;Searches the genomic position and best-matching transcripts of the circRNA&lt;/li&gt;
+&lt;li&gt;Retrieves genomic and mature circRNA sequences&lt;/li&gt;
+&lt;li&gt;Searches RBPs binding to a circRNA and to sequences upstream/downstream of the circRNA&lt;/li&gt;
+&lt;li&gt;Identifies RBPs binding to the circRNA junctions&lt;/li&gt;
+&lt;li&gt;Identifies miRNAs targeting a circRNA&lt;/li&gt;
+&lt;li&gt;Designs divergent primers for circRNAs&lt;/li&gt;
+&lt;li&gt;Designs siRNAs Specific to circRNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://starbase.sysu.edu.cn/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;ENCORI (The Encyclopedia of RNA Interactomes)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is an openly licensed and state-of-the-art platform to decode the cellular interaction networks among thousands of RNA binding proteins (RBPs) and various RNAs. We have identified millions of RBP-RNA and RNA-RNA interactions through analyzing thousands of CLIP-seq and various high-throughput sequencing data by developing new software and tools, and studied their functions and mechanisms in human diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Web tools to analyse your miRNAs</title>
+      <link>https://example.com/tool/2020-08-07-web-tool-anal-mirna/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2020-08-07-web-tool-anal-mirna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tools4mirs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Tools4miRs&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a first, manually curated platform gathering at the present over 170 methods for the broadly-defined miRNA analysis. All tools in &lt;a href=&#34;https://tools4mirs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Tools4miRs&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; are classified in the four general and seven more detailed categories. In each of the aforementioned sections user can additionally filter available methods according to his research needs, capabilities and preferences. Beside basic summary seen at first glance, the user can get detailed information concerning each tool. &lt;a href=&#34;https://tools4mirs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Tools4miRs&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is also a web-based target prediction meta-server incorporating user-designated target prediction methods in the analysis of user-provided data. Results generated by described meta-server can be presented in basic and extended form, while user can can additionally filter them using Union, Intersection or Consensus method. &lt;a href=&#34;https://tools4mirs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Tools4miRs&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is free, open-access service which will be systematically updated.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.mirbase.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRBase&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; database is a searchable database of published miRNA sequences and annotation. Each entry in the &lt;a href=&#34;https://www.mirbase.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRBase&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; Sequence database represents a predicted hairpin portion of a miRNA transcript (termed mir in the database), with information on the location and sequence of the mature miRNA sequence (termed miR). Both hairpin and mature sequences are available for searching and browsing, and entries can also be retrieved by name, keyword, references and annotation. All sequence and annotation data are also available for download.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dianalab.e-ce.uth.gr/html/diana/web/index.php?r=tarbasev8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;DIANA-TarBase&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; was initially released in 2006 and it was the first database aiming to catalogue published experimentally validated miRNA:gene interactions. And it is one part of &lt;a href=&#34;http://diana.imis.athena-innovation.gr/DianaTools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DIANA&lt;/a&gt; suites. Actually, &lt;a href=&#34;http://diana.imis.athena-innovation.gr/DianaTools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DIANA&lt;/a&gt; provides several powerful tools facilitating your analysis.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mirdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRDB&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is an online database for miRNA target prediction and functional annotations. All the targets in &lt;a href=&#34;https://mirdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRDB&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; were predicted by a bioinformatics tool, MirTarget, which was developed by analyzing thousands of miRNA-target interactions from high-throughput sequencing experiments. Common features associated with miRNA binding and target downregulation have been identified and used to predict miRNA targets with machine learning methods. &lt;a href=&#34;https://mirdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRDB&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; hosts predicted miRNA targets in five species: human, mouse, rat, dog and chicken. Users may also provide their own sequences for custom target prediction using the updated prediction algorithm. In addition, through combined computational analyses and literature mining, functionally active miRNAs in humans and mice were identified. These miRNAs, as well as associated functional annotations, are presented in the FuncMir Collection in &lt;a href=&#34;https://mirdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRDB&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. As a recent update, &lt;a href=&#34;https://mirdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRDB&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; presents the expression profiles of hundreds of cell lines and the user may limit their search for miRNA targets that are expressed in a cell line of interest. To facilitate the prediction of miRNA functions, &lt;a href=&#34;https://mirdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRDB&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; presents a new web interface for integrative analysis of target prediction and Gene Ontology data.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mirwalk.umm.uni-heidelberg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRWalk&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is an improved version of the previous database (i.e. &lt;a href=&#34;http://mirwalk.umm.uni-heidelberg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRWalk&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;). The new version of &lt;a href=&#34;http://mirwalk.umm.uni-heidelberg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;miRWalk&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; stores predicted data obtained with a maschine learning algorithm including experimentally verified miRNA-target interactions. The focus lies on accuracy, simplicity, user-friendly design and mostly up to date informations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.targetscan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;TargetScan&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; predicts biological targets of miRNAs by searching for the presence of conserved 8mer, 7mer, and 6mer sites that match the seed region of each miRNA. As options, predictions with only poorly conserved sites and predictions with nonconserved miRNAs are also provided. Also identified are sites with mismatches in the seed region that are compensated by conserved 3&amp;rsquo; pairing. In mammals, predictions are ranked based on the predicted efficacy of targeting as calculated using a biochemical model of miRNA-mediated repression, which was extended to all miRNA sequences using a convolutional neural network. As an option, predictions are also ranked on the basis of targeting efficacy estimated using cumulative weighted context++ scores of the sites. As another option, predictions are ranked by their probability of conserved targeting. &lt;a href=&#34;https://www.targetscan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;TargetScanHuman&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; considers matches to human 3&amp;rsquo; UTRs and their orthologs, as defined by &lt;a href=&#34;%28http://www.genome.ucsc.edu/%29&#34;&gt;UCSC whole-genome&lt;/a&gt; alignments. Conserved targeting has also been detected within open reading frames (ORFs).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://starbase.sysu.edu.cn/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;ENCORI (The Encyclopedia of RNA Interactomes)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is an openly licensed and state-of-the-art platform to decode the cellular interaction networks among thousands of RNA binding proteins (RBPs) and various RNAs. We have identified millions of RBP-RNA and RNA-RNA interactions through analyzing thousands of CLIP-seq and various high-throughput sequencing data by developing new software and tools, and studied their functions and mechanisms in human diseases.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cuilab.cn/transmir&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;TransmiR&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a database for transcription factor (TF)-microRNA (miRNA) regulations, through which one can find regulatory relations between TFs and miRNAs. This website has been tested by using Chrome, Microsoft Edge and Firefox browsers. Microsoft IE may not work well. More interestings can be found at Cui Lab of &lt;a href=&#34;http://www.cuilab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinformatics and Systems Biology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pictar.mdc-berlin.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;PicTar&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is an algorithm for the identification of microRNA targets. This searchable website provides details (3&amp;rsquo; UTR alignments with predicted sites, links to various public databases etc) regarding:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;microRNA target predictions in vertebrates&lt;/li&gt;
+&lt;li&gt;microRNA target predictions in seven Drosophila species&lt;/li&gt;
+&lt;li&gt;microRNA targets in three nematode species&lt;/li&gt;
+&lt;li&gt;human microRNA targets that are not conserved but co-expressed (i.e. the microRNA and mRNA are expressed in the same tissue)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://dashr2.lisanwanglab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;DASHR (Database of small human non-coding RNAs)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a database developed at the University of Pennsylvania with the most comprehensive expression and processing information to date on all major classes of human small non-coding RNA (sncRNA) genes and mature sncNA annotations, expression levels, sequence and RNA processing information across 185 human tissues, cell types, and cell lines. The content of the database derives from integrating annotation data with curation, annotation, and computational analysis of 802 small-RNA (smRNA-seq) deep sequencing datasets with over 22 billion reads from &amp;gt;60 independent studies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rna.sysu.edu.cn/deepbase3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;deepBase&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a popular and openly licensed resource to facilitate the integrative and interactive display and analysis of expression, evolution, function of various ncRNAs by deeply mining thousands of high-throughput sequencing data from tissue, cancer and exosome samples. &lt;a href=&#34;https://rna.sysu.edu.cn/deepbase3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;deepBase&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; provided the most comprehensive expression analysis of sRNAs and lncRNAs, the expression patterns of tRFs and snoRNAs from thousands of cancer and normal samples, the correlations between ncRNAs and patients’ survival and the function prediction of ncRNAs in tumor tumorigenesis.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; is a program for annotating miRNA promoters in human, as well as other species. It uses deepCAGE data from the FANTOM4 Consortium and integrated cage tag counts and other promoter features, such as CpG content, conservation and TATA box affinity, to score the potential of a candidate regions to be a promoter. Given a list of genomic regions of interest, in the form of a gff file, &lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; returns the most probable promoter locations, together with the posterior probabilities calculated by the model. More informations on how to run &lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; on your regions of interest can be found in the README file inside the &lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; directory.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

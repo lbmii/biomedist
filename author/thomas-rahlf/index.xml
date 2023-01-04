@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Rahlf | BM Sci-Tech Memento</title>
+    <link>https://example.com/author/thomas-rahlf/</link>
+      <atom:link href="https://example.com/author/thomas-rahlf/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Rahlf</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Thomas Rahlf</title>
+      <link>https://example.com/author/thomas-rahlf/</link>
+    </image>
+    
+    <item>
+      <title>Data Visualisation with R: 111 Examples</title>
+      <link>https://example.com/books/2019-11-23-data-vis-r-111-examp/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-11-23-data-vis-r-111-examp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.datavisualisation-r.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Data Visualisation with R: 111 Examples (2nd Edition)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; introduces readers to the fundamentals of creating presentation graphics using &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, based on 111 detailed and complete scripts. It shows how bar and column charts, population pyramids, Lorenz curves, box plots, scatter plots, time series, radial polygons, Gantt charts, heat maps, bump charts, mosaic and balloon charts, and a series of different thematic map types can be created using R’s Base Graphics System. Every example uses real data and includes step-by-step explanations of the figures and their programming. This second edition contains additional examples for cartograms, chord-diagrams and networks, and interactive visualizations with Javascript.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

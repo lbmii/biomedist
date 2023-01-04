@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proceedings of Scientific Research | BM Sci-Tech Memento</title>
+    <link>https://example.com/article/</link>
+      <atom:link href="https://example.com/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Proceedings of Scientific Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Proceedings of Scientific Research</title>
+      <link>https://example.com/article/</link>
+    </image>
+    
+    <item>
+      <title>VSOLassoBag: a variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research</title>
+      <link>https://example.com/article/23-01-04-09-58/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-04-09-58/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic code expansion reveals aminoacylated lysine ubiquitination mediated by UBE2W</title>
+      <link>https://example.com/article/23-01-03-08-21/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-03-08-21/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protein post-translational modification (PTM) regulates nearly every aspect of cellular processes in eukaryotes. However, the identification of new protein PTMs is very challenging. Here, using genetically encoded unnatural amino acids as chemical probes, we report the identification and validation of a previously unreported form of protein PTM, aminoacylated lysine ubiquitination, in which the modification occurs on the α-amine group of aminoacylated lysine. We identify more than 2,000 ubiquitination sites on all 20 aminoacylated lysines in two human cell lines. The modifications can mediate rapid protein degradation, complementing the canonical lysine ubiquitination-mediated proteome degradation. Furthermore, we demonstrate that the ubiquitin-conjugating enzyme UBE2W acts as a writer of aminoacylated lysine ubiquitination and facilitates the ubiquitination event on proteins. More broadly, the discovery and validation of aminoacylated lysine ubiquitination paves the way for the identification and verification of new protein PTMs with the genetic code expansion strategy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lactylome analysis suggests lactylation-dependent mechanisms of metabolic adaptation in hepatocellular carcinoma</title>
+      <link>https://example.com/article/23-01-03-08-19/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-03-08-19/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enhanced glycolysis and accumulation of lactate is a common feature in various types of cancer. Intracellular lactate drives a recently described type of posttranslational modification, lysine lactylation (Kla), on core histones. However, the impact of lactylation on biological processes of tumour cells remains largely unknown. Here we show a global lactylome profiling on a prospectively collected hepatitis B virus-related hepatocellular carcinoma (HCC) cohort. Integrative lactylome and proteome analysis of the tumours and adjacent livers identifies 9,275 Kla sites, with 9,256 sites on non-histone proteins, indicating that Kla is a prevalent modification beyond histone proteins and transcriptional regulation. Notably, Kla preferentially affects enzymes involved in metabolic pathways, including the tricarboxylic acid cycle, and carbohydrate, amino acid, fatty acid and nucleotide metabolism. We further verify that lactylation at K28 inhibits the function of adenylate kinase 2, facilitating the proliferation and metastasis of HCC cells. Our study therefore reveals that Kla plays an important role in regulating cellular metabolism and may contribute to HCC progression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interdependent Nuclear Co-Trafficking of ASPP1 and p53 Aggravates Cardiac Ischemia/Reperfusion Injury</title>
+      <link>https://example.com/article/23-01-01-10-14/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-01-10-14/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;OBJECTIVE:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ASPP1 (apoptosis stimulating of p53 protein 1) is critical in regulating cell apoptosis as a cofactor of p53 to promote its transcriptional activity in the nucleus. However, whether cytoplasmic ASPP1 affects p53 nuclear trafficking and its role in cardiac diseases remains unknown. This study aims to explore the mechanism by which ASPP1 modulates p53 nuclear trafficking and the subsequent contribution to cardiac ischemia/reperfusion (I/R) injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;METHODS AND RESULTS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The immunofluorescent staining showed that under normal condition ASPP1 and p53 colocalized in the cytoplasm of neonatal mouse ventricular cardiomyocytes, while they were both upregulated and translocated to the nuclei upon hypoxia/reoxygenation treatment. The nuclear translocation of ASPP1 and p53 was interdependent, as knockdown of either ASPP1 or p53 attenuated nuclear translocation of the other one. Inhibition of importin-β1 resulted in the cytoplasmic sequestration of both p53 and ASPP1 in neonatal mouse ventricular cardiomyocytes with hypoxia/reoxygenation stimulation. Overexpression of ASPP1 potentiated, whereas knockdown of ASPP1 inhibited the expression of Bax (Bcl2-associated X), PUMA (p53 upregulated modulator of apoptosis), and Noxa, direct apoptosis-associated targets of p53. ASPP1 was also increased in the I/R myocardium. Cardiomyocyte-specific transgenic overexpression of ASPP1 aggravated I/R injury as indicated by increased infarct size and impaired cardiac function. Conversely, knockout of ASPP1 mitigated cardiac I/R injury. The same qualitative data were observed in neonatal mouse ventricular cardiomyocytes exposed to hypoxia/reoxygenation injury. Furthermore, inhibition of p53 significantly blunted the proapoptotic activity and detrimental effects of ASPP1 both in vitro and in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONCLUSIONS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Binding of ASPP1 to p53 triggers their nuclear cotranslocation via importin-β1 that eventually exacerbates cardiac I/R injury. The findings imply that interfering the expression of ASPP1 or the interaction between ASPP1 and p53 to block their nuclear trafficking represents an important therapeutic strategy for cardiac I/R injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Biomarker-responsive engineered probiotic diagnoses, records, and ameliorates inflammatory bowel disease in mice</title>
+      <link>https://example.com/article/22-12-29-21-52/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22-12-29-21-52/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;i-ROBOT converts IBD information into trackable and heritable DNA alterations&lt;/li&gt;
+&lt;li&gt;i-ROBOT contains a self-tunable, thiosulfate-regulated drug release system&lt;/li&gt;
+&lt;li&gt;i-ROBOT has a replaceable biomarker-sensing element, creating a broad platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rapid advances in synthetic biology have fueled interest in engineered microorganisms that can diagnose and treat disease. However, designing bacteria that detect dynamic disease-associated biomarkers that then drive treatment remains difficult. Here, we have developed an engineered probiotic that noninvasively monitors and records inflammatory bowel disease (IBD) occurrence and progression in real time and can release treatments via a self-tunable mechanism in response to these biomarkers. These intelligent responsive bacteria for diagnosis and therapy (i-ROBOT) consists of E. coli Nissle 1917 that responds to levels of the inflammatory marker thiosulfate by activating a base-editing system to generate a heritable genomic DNA sequence as well as producing a colorimetric signal. Fluctuations in thiosulfate also drive the tunable release of the immunomodulator AvCystatin. Orally administering i-ROBOT to mice with colitis generated molecular recording signals in processed fecal and colon samples and effectively ameliorated disease. i-ROBOT provides a promising paradigm for gastrointestinal and other metabolic disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sphingolipids accumulate in aged muscle, and their reduction counteracts sarcopenia</title>
+      <link>https://example.com/article/22-12-25-18-47/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22-12-25-18-47/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Age-related muscle dysfunction and sarcopenia are major causes of physical incapacitation in older adults and currently lack viable treatment strategies. Here we find that sphingolipids accumulate in mouse skeletal muscle upon aging and that both genetic and pharmacological inhibition of sphingolipid synthesis prevent age-related decline in muscle mass while enhancing strength and exercise capacity. Inhibition of sphingolipid synthesis confers increased myogenic potential and promotes protein synthesis. Within the sphingolipid pathway, we show that accumulation of dihydroceramides is the culprit disturbing myofibrillar homeostasis. The relevance of sphingolipid pathways in human aging is demonstrated in two cohorts, the UK Biobank and Helsinki Birth Cohort Study in which gene expression-reducing variants of &lt;em&gt;SPTLC1&lt;/em&gt; and &lt;em&gt;DEGS1&lt;/em&gt; are associated with improved and reduced fitness of older individuals, respectively. These findings identify sphingolipid synthesis inhibition as an attractive therapeutic strategy for age-related sarcopenia and co-occurring pathologies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Heparan sulfate proteoglycan-mediated internalization of extracellular vesicles ameliorates liver fibrosis by targeting hepatic stellate cells</title>
+      <link>https://example.com/article/2022-12-14-1024/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/2022-12-14-1024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Accumulating evidence shows that stem cell-derived extracellular vesicles (EVs) have shown great promise for tissue regeneration and are considered an alternative to cell-based therapy. However, the mechanisms by which EVs induce tissue repair have not been well demonstrated. Previous work indicates that activation of hepatic stellate cells (HSCs) may contribute to the progression of liver fibrosis. Here, we investigate the therapeutic potential of EVs derived from human placental mesenchymal stem cells (hP-MSCs) for the treatment of carbon tetrachloride (CCl4)-induced liver injury. Our data revealed that EVs derived from hP-MSCs effectively ameliorate liver injury by attenuating inflammation and fibrosis. Further data revealed that heparan sulfate proteoglycans (HSPGs) on the surface of HSCs mediate the internalization of EVs. Furthermore, EVs could inhibit the epithelial–mesenchymal transition (EMT) process in HSCs through the downregulated TGF-/Smad pathway, which was mediated by miR-744-5p in EVs. Meanwhile, glycosaminoglycans on the surface of EVs play a crucial anti-inflammatory role. In conclusion, our results provide evidence that hP-MSC-derived EVs promote the recovery of liver injury by targeting HSPGs on HSCs and inhibiting liver inflammation through glycosaminoglycans from EVs. These findings may provide a novel theoretical basis for the treatment of liver fibrosis based on EVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bifunctional probe-assisted hybridization chain reaction for circular RNA detection and live-cell imaging</title>
+      <link>https://example.com/article/23-01-01-10-08/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-01-10-08/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A simple and reliable biosensor has been proposed for accurate analysis of circRNA.&lt;/li&gt;
+&lt;li&gt;This biosensor can be used without interference from homologous linear RNA.&lt;/li&gt;
+&lt;li&gt;This biosensor can sensitively image low abundant target circRNA in living cells.&lt;/li&gt;
+&lt;li&gt;This biosensor can effectively detect target circRNA in a variety of biological samples.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNA (circRNA) is considered as a promising biomarker for various diseases owing to its unique functions and stable structure in biological circumstances. Nonetheless, homologous linear RNA always causes detection errors, posing a key challenge in effective circRNA assays for clinical applications. Herein, we present a novel method to directly analyze circRNA, eliminating homologous linear RNA interference. A dual-function circRNA-identifying hairpin (ih) probe is designed, which identifies target circRNA and initiates the subsequent hybridization chain reaction amplification. This method provides highly sensitive live-cell circRNA imaging capability and can directly monitor circRNA levels in biological samples, showing great promise for the analysis of low-abundant circRNA in clinical applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DeepCIP: a multimodal deep learning method for the prediction of internal ribosome entry sites of circRNAs</title>
+      <link>https://example.com/article/23-01-02-19-17/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-02-19-17/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) have been found to have the potential to code proteins. Internal ribosome entry sites (IRESs) are key RNA regulatory elements for the translation of proteins by circRNAs through a cap-independent mechanism. IRES can be identified by bicistronic assay, but the method is time-consuming and laborious. Therefore, it is important to develop computational methods for facilitating IRES identification, evaluation, and design in circRNAs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this study, we proposed DeepCIP, a multimodal deep learning approach for circRNA IRES prediction, by exploiting both sequence and structure information. As far as we know, DeepCIP is the first predictor for circRNA IRESs, which consists of an RNA processing module, an S-LSTM module, a GCN module, a feature fusion module, and an ensemble module. The comparative studies show that DeepCIP outperforms other comparative methods and justify the effectiveness of the sequence model and structure model of DeepCIP for extracting features. We found that the integration of structural information on the basis of sequence information effectively improves predictive performance. For the real circRNA IRES prediction, DeepCIP also outperforms other methods. DeepCIP may facilitate the study of the coding potential of circRNAs as well as the design of circRNA drugs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

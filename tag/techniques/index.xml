@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techniques | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/techniques/</link>
+      <atom:link href="https://example.com/tag/techniques/index.xml" rel="self" type="application/rss+xml" />
+    <description>Techniques</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Techniques</title>
+      <link>https://example.com/tag/techniques/</link>
+    </image>
+    
+    <item>
+      <title>VSOLassoBag: a variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research</title>
+      <link>https://example.com/article/23-01-04-09-58/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-04-09-58/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Methods for inference and analysis of cell-cell communication</title>
+      <link>https://example.com/blog/2023-01-02-infer-anal-ccc/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2023-01-02-infer-anal-ccc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; is a publicly available repository of curated receptors, ligands and their interactions. Subunit architecture is included for both ligands and receptors, representing heteromeric complexes accurately. This is crucial, as cell-cell communication relies on multi-subunit protein complexes that go beyond the binary representation used in most databases and studies. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; integrates existing datasets that pertain to cellular communication and new manually reviewed information. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; utilises information from the following data bases: UniProt, Ensembl, PDB, the IMEx consortium, IUPHAR. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; can be used to search for a particular ligand/receptor or interrogate your own single-cell transcriptomics data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/34857954/&#34;&gt;Mapping the temporal and spatial dynamics of the human endometrium in vivo and in vitro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/32103204/&#34;&gt;CellPhoneDB: Inferring cell-cell communication from combined expression of multi-subunit receptor-ligand complexes&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Research into the Human Connectome has exploded since the original Human Connectome Project grants were awarded by the NIH in 2011. Over the next decade, we expect to see dozens of new projects at institutions around the world researching aspects of how age, growth, disease, and other factors can affect the ever-changing connections in the human brain. The &lt;a href=&#34;https://www.humanconnectome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connectome Coordination Facility (CCF)&lt;/a&gt; has been chartered to help coordinate these myriad research projects, harmonize their data, and facilitate the distribution and dissemination of results. The CCF has three primary aims:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Run a “data acquisition help desk,” to facilitate in the collection of HCP-style data for optimal comparability.&lt;/li&gt;
+&lt;li&gt;Maintain and expand the HCP informatics infrastructure, to host and distribute connectome data from multiple studies on &lt;a href=&#34;https://db.humanconnectome.org/app/template/Login.vm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ConnectomeDB&lt;/strong&gt;&lt;/a&gt; and Amazon Web Services.&lt;/li&gt;
+&lt;li&gt;Serve as a “harmonization center,” to make data from multiple studies and institutions as comparable as possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal of &lt;a href=&#34;https://github.com/arc85/celltalker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;celltalker&lt;/strong&gt;&lt;/a&gt; is to infer putative ligand and receptor interactions from single-cell RNAseq data. This is accomplished by evaluating known cognate ligand/receptor interactions across groups of cells. Interactions are scored by jointly weighting the expression levels of ligands and receptors, and significance is evaluated by comparing to a background distribution of scrambled ligands and receptors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iTALK&lt;/strong&gt;&lt;/a&gt; is an R toolkit for characterizing and illustrating intercellular communication, developed and maintained by &lt;a href=&#34;https://www.mdanderson.org/research/departments-labs-institutes/labs/linghua-wang-laboratory.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linghua Wang Lab&lt;/a&gt; at the University of Texas MD Anderson Cancer Center. &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;iTALK&lt;/strong&gt;&lt;/a&gt; can be used to visualize the complexity, diversity and dynamics of cell-cell communication in a wide range of biological processes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/italk/&#34;&gt;iTALK: an R Package to Characterize and Illustrate Intercellular Communication&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Recent development of high throughput single-cell sequencing technologies has made it cost-effective to profile thousands of cells from a complex sample. Examining ligand and receptor expression patterns in the cell types identified from these datasets allows prediction of cell-to-cell communication at the level of niches, tissues and organism-wide. Here, we developed &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI (Network Analysis Toolkit for Multicellular Interactions)&lt;/strong&gt;&lt;/a&gt;, a Python-based toolkit for multi-cellular communication network construction and network analysis of multispecies single-cell and bulk gene expression and proteomic data. &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; uses connectomeDB2020 (the most up-to-date manually curated ligand-receptor interaction list) and user supplied gene expression tables with cell type labels to predict and visualize cell-to-cell communication networks. By interrogating the Tabula Muris cell atlas we demonstrate the utility of &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; to identify cellular communities and the key ligands and receptors involved. Notably, we confirm our previous predictions from bulk data that autocrine signalling is a major feature of cell-to-cell communication networks and for the first time ever show a substantial potential for self-signalling of individual cells through hundreds of co-expressed ligand-receptor pairs. Lastly, we identify age related changes in intercellular communication between the mammary gland of 3 and 18-month-old mice in the Tabula Muris dataset. &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; and our updated ligand-receptor lists are freely available to the research community.
+&lt;ul&gt;
+&lt;li&gt;Fast, flexible and easy-to-use command-line tool to construct cell-to-cell communication networks from user-supplied multi-omics data (single-cell and bulk) in a variety of species.&lt;/li&gt;
+&lt;li&gt;Python-based (software requirements), but no additional coding in python is required. After the analysis is finished, results can be viewed directly or imported to other software of choice such as, for example, R or excel.&lt;/li&gt;
+&lt;li&gt;Built on connectomeDB2020 (default), but users can also add and interrogate their own interactions in any species or explore existing Tabula Muris, Tabula Muris Senis and FANTOM5 cell atlas datastets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/33024107/&#34;&gt;Predicting cell-to-cell communication networks using NATMI&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cellchat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellChat Explorer&lt;/strong&gt;&lt;/a&gt; contains two major components: (a) Ligand-Receptor Interaction Explorer that allows easy exploration of our ligand-receptor interaction database, and (b) Cell-Cell Communication Atlas Explorer that allows easy exploration of the cell-cell communications for any given scRNA-seq dataset that has been processed by &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;R toolkit CellChat&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/33597522/&#34;&gt;Inference and analysis of cell-cell communication using CellChat&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is a R package to study Cell Signaling Using Single Cell RNAseq Data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/32196115/&#34;&gt;SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The goal of &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NicheNet&lt;/strong&gt;&lt;/a&gt; is to study intercellular communication from a computational perspective. &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NicheNet&lt;/strong&gt;&lt;/a&gt; uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths. This allows to predict ligand-receptor interactions that might drive gene expression changes in cells of interest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;u&gt;Reference(s):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/article/31819264/&#34;&gt;NicheNet: modeling intercellular communication by linking ligands to target genes&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PCR Primer Design</title>
+      <link>https://example.com/books/2023-01-01-primer-design-3ed/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2023-01-01-primer-design-3ed/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Section A: &lt;em&gt;Primer Design for Genotyping&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 1&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773611.pdf&#34; target=&#34;_blank&#34;&gt;The Significance of PCR Primer Design in Genetic Diversity Studies: Exemplified by Recent Research into the Genetic Structure of Marine Species&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 2&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773612.pdf&#34; target=&#34;_blank&#34;&gt;Enhancing Cohort PASA Efficiency from Lessons Assimilated by Mutant Genotyping in C. elegans&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 3&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773613.pdf&#34; target=&#34;_blank&#34;&gt;Design of Oligonucleotides for Allele-Specific Amplification Based on PCR and Isothermal Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 4&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773614.pdf&#34; target=&#34;_blank&#34;&gt;Detection of Rubella Virus by Tri-Primer RT-PCR Assay and Genotyping by Fragment RT-PCR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 5&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773615.pdf&#34; target=&#34;_blank&#34;&gt;Design of Mismatch Primers to Identify and Differentiate Closely Related (Sub)Species: Application to the Authentication of Meat Products&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 6&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773616.pdf&#34; target=&#34;_blank&#34;&gt;Primer Design for the Analysis of Closely Related Species: Application of Noncoding mtDNA and cpDNA Sequences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 7&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773617.pdf&#34; target=&#34;_blank&#34;&gt;Designing PCR Primers for the Amplification-Refractory Mutation System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section B: &lt;em&gt;Primer Design for Genome-Wide Identification of Specific Regions&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 8&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773618.pdf&#34; target=&#34;_blank&#34;&gt;Validation of Circular RNAs by PCR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 9&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773619.pdf&#34; target=&#34;_blank&#34;&gt;Primer Designing for Amplifying an AT-Rich Promoter from Arabidopsis thaliana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section C: &lt;em&gt;Primer Design for Multiplex PCR&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 10&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773620.pdf&#34; target=&#34;_blank&#34;&gt;PLASmid TAXonomic PCR (PlasTax-PCR), a Multiplex Relaxase MOB Typing to Assort Plasmids into Taxonomic Units&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 11&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773621.pdf&#34; target=&#34;_blank&#34;&gt;Multiplex PCR Design for Scalable Resequencing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section D: &lt;em&gt;Primer Design for qPCR&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 12&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773622.pdf&#34; target=&#34;_blank&#34;&gt;Identification of Gene Copy Number in the Transgenic Plants by Quantitative Polymerase Chain Reaction (qPCR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 13&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773623.pdf&#34; target=&#34;_blank&#34;&gt;qPrimerDB: A Powerful and User-Friendly Database for qPCR Primer Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section E: &lt;em&gt;Primer Design for Identification of Plant and Animal Viruses&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 14&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773624.pdf&#34; target=&#34;_blank&#34;&gt;PCR Primer Design for the Rapidly Evolving SARS-CoV-2 Genome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 15&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773625.pdf&#34; target=&#34;_blank&#34;&gt;Universal Primers for Detection of Novel Plant Capsid-Less Viruses: Papaya Umbra-like Viruses as Examp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section F: &lt;em&gt;Use of Software for Primer Design&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 16&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773626.pdf&#34; target=&#34;_blank&#34;&gt;A Guide to Using FASTPCR Software for PCR, In Silico PCR, and Oligonucleotide Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section G: &lt;em&gt;Primer Design for Newer PCR Approaches&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 17&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773627.pdf&#34; target=&#34;_blank&#34;&gt;Pyrosequencing Primer Design for Forensic Biology Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 18&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773628.pdf&#34; target=&#34;_blank&#34;&gt;Phosphate-Methylated Oligonucleotides as a Novel Primer for PCR and RT-PCR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bifunctional probe-assisted hybridization chain reaction for circular RNA detection and live-cell imaging</title>
+      <link>https://example.com/article/23-01-01-10-08/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-01-10-08/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A simple and reliable biosensor has been proposed for accurate analysis of circRNA.&lt;/li&gt;
+&lt;li&gt;This biosensor can be used without interference from homologous linear RNA.&lt;/li&gt;
+&lt;li&gt;This biosensor can sensitively image low abundant target circRNA in living cells.&lt;/li&gt;
+&lt;li&gt;This biosensor can effectively detect target circRNA in a variety of biological samples.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNA (circRNA) is considered as a promising biomarker for various diseases owing to its unique functions and stable structure in biological circumstances. Nonetheless, homologous linear RNA always causes detection errors, posing a key challenge in effective circRNA assays for clinical applications. Herein, we present a novel method to directly analyze circRNA, eliminating homologous linear RNA interference. A dual-function circRNA-identifying hairpin (ih) probe is designed, which identifies target circRNA and initiates the subsequent hybridization chain reaction amplification. This method provides highly sensitive live-cell circRNA imaging capability and can directly monitor circRNA levels in biological samples, showing great promise for the analysis of low-abundant circRNA in clinical applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hypoxia: Methods and Protocols</title>
+      <link>https://example.com/books/2022-12-05-hypoxia-2018/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2022-12-05-hypoxia-2018/</guid>
+      <description>&lt;p&gt;This volume details widely used and newer lab protocols for studying hypoxic responses in physiology and diseases. Chapters guide the reader through the application of hypoxic conditions, to the techniques of molecular biology, biochemical, cell biology, genomic,bioinformatic, metabolic, and animal studies. Written in the highly successful &lt;em&gt;Methods in Molecular Biology&lt;/em&gt; series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DeepCIP: a multimodal deep learning method for the prediction of internal ribosome entry sites of circRNAs</title>
+      <link>https://example.com/article/23-01-02-19-17/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-02-19-17/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) have been found to have the potential to code proteins. Internal ribosome entry sites (IRESs) are key RNA regulatory elements for the translation of proteins by circRNAs through a cap-independent mechanism. IRES can be identified by bicistronic assay, but the method is time-consuming and laborious. Therefore, it is important to develop computational methods for facilitating IRES identification, evaluation, and design in circRNAs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this study, we proposed DeepCIP, a multimodal deep learning approach for circRNA IRES prediction, by exploiting both sequence and structure information. As far as we know, DeepCIP is the first predictor for circRNA IRESs, which consists of an RNA processing module, an S-LSTM module, a GCN module, a feature fusion module, and an ensemble module. The comparative studies show that DeepCIP outperforms other comparative methods and justify the effectiveness of the sequence model and structure model of DeepCIP for extracting features. We found that the integration of structural information on the basis of sequence information effectively improves predictive performance. For the real circRNA IRES prediction, DeepCIP also outperforms other methods. DeepCIP may facilitate the study of the coding potential of circRNAs as well as the design of circRNA drugs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Make experiments easy and improve research reproducibility</title>
+      <link>https://example.com/blog/2021-07-02-make-exp-easy-improve-res-rep/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2021-07-02-make-exp-easy-improve-res-rep/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Website 1:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://protocolexchange.researchsquare.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;u&gt;&lt;strong&gt;Protocol Exchange&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://protocolexchange.researchsquare.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protocol Exchange&lt;/a&gt; is an open repository for sharing scientific research protocols. These protocols are posted directly on the &lt;a href=&#34;https://protocolexchange.researchsquare.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protocol Exchange&lt;/a&gt; by authors and are made freely available to the scientific community for use and comment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Click &lt;a href=&#34;https://protocolexchange.researchsquare.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protocol Exchange&lt;/a&gt; or above to go to the homepage.&lt;/li&gt;
+&lt;li&gt;Explore for protocols
+&lt;ul&gt;
+&lt;li&gt;Click &lt;mark&gt;&lt;code&gt;Browse&lt;/code&gt;&lt;/mark&gt; (Arrowed 1 in nanbar) or &lt;mark&gt;&lt;code&gt;Browse Protocols&lt;/code&gt;&lt;/mark&gt; (Arrowed 2) to find protocols you nedd.&lt;/li&gt;
+&lt;li&gt;Alternatively, user can find protocols by &lt;mark&gt;&lt;code&gt;Subjects&lt;/code&gt;&lt;/mark&gt; (Arrowed 3) more precisely and quickly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-explore-to-find-protocols&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Explore to find protocols.&#34; srcset=&#34;
+               /media/protocol-exchange-1_hu74fa34225fda2b3527b42cd3eddeafb6_507522_eb438716c8fb8a75678c44477e74ffdf.webp 400w,
+               /media/protocol-exchange-1_hu74fa34225fda2b3527b42cd3eddeafb6_507522_4a861e1621095c2cbea921c3fe765863.webp 760w,
+               /media/protocol-exchange-1_hu74fa34225fda2b3527b42cd3eddeafb6_507522_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/protocol-exchange-1_hu74fa34225fda2b3527b42cd3eddeafb6_507522_eb438716c8fb8a75678c44477e74ffdf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;479&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Explore to find protocols.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Download protocol
+&lt;ul&gt;
+&lt;li&gt;Find the protocol you need and enter bi clicking on its name (&lt;em&gt;e.g.: Generation of self-assembling heart organoids from human pluripotent stem cells&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Click &lt;mark&gt;&lt;code&gt;Download PDF&lt;/code&gt;&lt;/mark&gt; Button at the right-top of the page. And more details can be found at the left-bottom corner.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-download-protocols-as-pdf-format&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Download protocols as PDF format.&#34; srcset=&#34;
+               /media/protocol-exchange-2_hu4e36a0cfd6dd0184e06c8b080dab2622_98916_06187f89850b7dab1e4f793342747597.webp 400w,
+               /media/protocol-exchange-2_hu4e36a0cfd6dd0184e06c8b080dab2622_98916_9ca865d23938fff83911112e7e69d245.webp 760w,
+               /media/protocol-exchange-2_hu4e36a0cfd6dd0184e06c8b080dab2622_98916_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/protocol-exchange-2_hu4e36a0cfd6dd0184e06c8b080dab2622_98916_06187f89850b7dab1e4f793342747597.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;535&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Download protocols as PDF format.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Website 2:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://bio-protocol.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;u&gt;&lt;strong&gt;Bio-protocol&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Traditional methods sections of a research article are often brief and incomplete, making it difficult to replicate experiments without extensive trouble-shooting.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bio-protocol.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bio-protocol&lt;/a&gt; is an open-access journal. Launched in 2011 by a group of Stanford postdoctoral researchers, &lt;a href=&#34;https://bio-protocol.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bio-protocol&lt;/a&gt; aims to solve this issue with the &lt;a href=&#34;https://bio-protocol.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bio-protocol&lt;/a&gt; journal, an online peer-reviewed protocol journal curating and hosting high quality, free access protocols across the life sciences.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Click &lt;a href=&#34;https://bio-protocol.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bio-protocol&lt;/a&gt; or above to go to the homepage.&lt;/li&gt;
+&lt;li&gt;Search for protocols by &lt;code&gt;Keywords&lt;/code&gt;. For Chinese users, Chinese website can be accessed by clicking at the right-top.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-bio-protocol-homepage&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bio-protocol homepage.&#34; srcset=&#34;
+               /media/bio-protocol_huc36117563ea1c644548b4d15d88e4d82_594069_a459a0a974c3a9e183bb18e831949132.webp 400w,
+               /media/bio-protocol_huc36117563ea1c644548b4d15d88e4d82_594069_962cf1d0728667f6b704f026ca6e5c36.webp 760w,
+               /media/bio-protocol_huc36117563ea1c644548b4d15d88e4d82_594069_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/bio-protocol_huc36117563ea1c644548b4d15d88e4d82_594069_a459a0a974c3a9e183bb18e831949132.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;406&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Bio-protocol homepage.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Website 3:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://www.nature.com/nprot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;u&gt;&lt;strong&gt;Nature Protocols&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/nprot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Protocols&lt;/a&gt; publishes secondary research articles - predominantly &lt;u&gt;&lt;em&gt;Protocols (including Protocol Updates and Protocol Extensions)&lt;/em&gt;&lt;/u&gt;, but also techniques-related Reviews, Perspectives, Correspondences, Matters Arising, Commentaries, and Consensus Statements - all of which are based on published primary research papers. It covers new techniques and technologies, as well as established methods, used in all fields of the biological, chemical and clinical sciences.&lt;/p&gt;
+&lt;p&gt;Each Protocol contains a full list of reagents and equipment, timing information, and step-by-step procedures (instructions for performing the experiment), as well as information on designing and adapting the technique, its advantages and limitations compared to alternatives, troubleshooting, analysing data, and interpreting results. We also encourage authors to submit videos for steps that are technically challenging.&lt;/p&gt;
+&lt;p&gt;Users can search for protocols by &lt;code&gt;Keywords&lt;/code&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-nature-protocols&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Nature Protocols.&#34; srcset=&#34;
+               /media/nat-protocol_hua34ab1cd5d656f03727c13fa82517c3d_429590_2c014377d32783a7b2efae3426124ec6.webp 400w,
+               /media/nat-protocol_hua34ab1cd5d656f03727c13fa82517c3d_429590_3c5d8e89d2b1c6ef0c7940c2b6ab90be.webp 760w,
+               /media/nat-protocol_hua34ab1cd5d656f03727c13fa82517c3d_429590_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/nat-protocol_hua34ab1cd5d656f03727c13fa82517c3d_429590_2c014377d32783a7b2efae3426124ec6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;554&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Nature Protocols.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Website 4:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://www.protocols.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;u&gt;&lt;strong&gt;Protocols.io&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.protocols.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protocols.io&lt;/a&gt; is a secure platform for developing and sharing reproducible methods. In addition to searching shared protocols, users can also publish their own protocols in &lt;a href=&#34;https://www.protocols.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protocols.io&lt;/a&gt; and decide its accessibility public (for everyone to see) or priviate only. All protocols (private or public) can be annotated and discussed at the step-or protocol-level. Once users publish their own protocols in &lt;a href=&#34;https://www.protocols.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protocols.io&lt;/a&gt;, they can link their protocols to published papers.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-protocolsio&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Protocols.io.&#34; srcset=&#34;
+               /media/protocol-io_hudec8717ac022ef2b9e54dcd3f415d758_105873_b0ba68f17c0d3b6f170192364852c9a3.webp 400w,
+               /media/protocol-io_hudec8717ac022ef2b9e54dcd3f415d758_105873_2529dd15cfbaca9e734f8813692d2acf.webp 760w,
+               /media/protocol-io_hudec8717ac022ef2b9e54dcd3f415d758_105873_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/protocol-io_hudec8717ac022ef2b9e54dcd3f415d758_105873_b0ba68f17c0d3b6f170192364852c9a3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;433&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Protocols.io.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Website 5:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://currentprotocols.onlinelibrary.wiley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;u&gt;&lt;strong&gt;Current Protocols&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;First published in 1987, &lt;a href=&#34;https://currentprotocols.onlinelibrary.wiley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Current Protocols&lt;/a&gt; established the gold standard for protocol publications. With regularly updated and new protocols, this extensive collection covers the range of life sciences protocols needed for interdisciplinary research, including molecular and cell biology, bioinformatics, immunology, microbiology, genetics, neuroscience, protein science, pharmacology and toxicology, chemical biology, stem cell biology, plants, model organisms, nucleic acid chemistry, cytometry and more. Essential laboratory techniques collection ensures that undergraduates and those with little laboratory experience can quickly master key methods.&lt;/p&gt;
+&lt;p&gt;Sound and reproducible laboratory methods are the foundation of scientific discovery. Yet, all too often, nuances that are critical for an experiment’s success are not captured in the primary literature but exist only as part of a lab’s oral tradition. The aim of &lt;a href=&#34;https://currentprotocols.onlinelibrary.wiley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Current Protocols&lt;/a&gt; is to provide the clearest, most detailed, and reliable step-by-step instructions for all protocols relevant to a given scientific subject area. Written by experts in the field and extensively edited to our exacting standards, the protocols are formatted to include &lt;em&gt;&lt;u&gt;all of the information necessary to perform an experiment in the laboratory—introduction, materials lists with sourcing information, detailed step-by-step instructions with helpful annotations, recipes for reagents and solutions, illustrative figures and information-packed tables&lt;/u&gt;&lt;/em&gt;. Each article provides invaluable discussions of data analysis and interpretation, background information, applications of the methods, important assumptions, key parameters, time considerations, and tips to help avoid common pitfalls and troubleshoot experiments. &lt;a href=&#34;https://currentprotocols.onlinelibrary.wiley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Current Protocols&lt;/a&gt; also publishes overviews which provide theory, strategic planning, and practical advice on particular laboratory methodologies. &lt;a href=&#34;https://currentprotocols.onlinelibrary.wiley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Current Protocols&lt;/a&gt; content is thoughtfully curated for optimal usage and to maximize contextual knowledge. Monthly issues allow &lt;a href=&#34;https://currentprotocols.onlinelibrary.wiley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Current Protocols&lt;/a&gt; to constantly evolve to keep pace with the newest discoveries and developments.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-current-protocols&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Current Protocols&#34; srcset=&#34;
+               /media/cur-protocol_hudb8f81f27e4eadfc3a6969362d3cc371_254191_8dbaed576121b96e018430667ec5c32f.webp 400w,
+               /media/cur-protocol_hudb8f81f27e4eadfc3a6969362d3cc371_254191_25cb7e74659e2c1002282ff74c0c864d.webp 760w,
+               /media/cur-protocol_hudb8f81f27e4eadfc3a6969362d3cc371_254191_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/cur-protocol_hudb8f81f27e4eadfc3a6969362d3cc371_254191_8dbaed576121b96e018430667ec5c32f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;730&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Current Protocols
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Website 6:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://www.jove.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;u&gt;&lt;strong&gt;JoVE&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jove.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JoVE&lt;/a&gt; is the world-leading producer and provider of science videos with the mission to improve scientific research and education. Millions of scientists, educators and students at thousands of universities, colleges, hospitals and biopharmaceutical companies worldwide use JoVE for their research, teaching and learning.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-journal-of-visualized-experiments-jove&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Journal of Visualized Experiments (JoVE)&#34; srcset=&#34;
+               /media/JoVE_hu89fecd3a0c2f4e0bdbc42ede7d4029c2_734215_3795312f9ce1917a96e8efe3acfae074.webp 400w,
+               /media/JoVE_hu89fecd3a0c2f4e0bdbc42ede7d4029c2_734215_71ee160f32b875095a7a19da9d915097.webp 760w,
+               /media/JoVE_hu89fecd3a0c2f4e0bdbc42ede7d4029c2_734215_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/JoVE_hu89fecd3a0c2f4e0bdbc42ede7d4029c2_734215_3795312f9ce1917a96e8efe3acfae074.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Journal of Visualized Experiments (JoVE)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

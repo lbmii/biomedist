@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Interactions | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/molecular-interactions/</link>
+      <atom:link href="https://example.com/tag/molecular-interactions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molecular Interactions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Molecular Interactions</title>
+      <link>https://example.com/tag/molecular-interactions/</link>
+    </image>
+    
+    <item>
+      <title>Encyclopedia of transcription factor</title>
+      <link>https://example.com/tool/2021-08-06-en-tf/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2021-08-06-en-tf/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://services.healthtech.dtu.dk/service.php?Promoter-2.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Promoter2.0&lt;/strong&gt;&lt;/a&gt; predicts transcription start sites of vertebrate PolII promoters in DNA sequences. It has been developed as an evolution of simulated transcription factors that interact with sequences in promoter regions. i It builds on principles that are common to neural networks and genetic algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jaspar.genereg.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;JASPAR&lt;/strong&gt;&lt;/a&gt; is a regularly maintained open-access database storing manually curated transcription factors (TF) binding profiles as position frequency matrices (PFMs). PFMs summarize occurrences of each nucleotide at each position in a set of observed TF-DNA interactions. PFMs can be transformed to probabilistic or energistic models to construct position weight matrices (PWMs) or position-specific scoring matrices (PSSMs), which can be used to scan any DNA sequence to predict TF binding sites (TFBSs). The &lt;a href=&#34;https://jaspar.genereg.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;JASPAR&lt;/strong&gt;&lt;/a&gt; database provides TFBSs predicted using the profiles in the CORE collection.
+The motifs in &lt;a href=&#34;https://jaspar.genereg.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;JASPAR&lt;/strong&gt;&lt;/a&gt; are collected in two ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internally: de novo generated motifs, by analyzing ChIP-seq/-exo sequences using a custom motif discovery pipeline (check the code at our repository).&lt;/li&gt;
+&lt;li&gt;Externally: motifs taken directly from other publications and/or resources.
+In both cases, the selected motifs are manually curated. Specifically, our curators assess the quality of the motif and search for an orthogonal publication providing support to the motif as the bona fide motif recognized by the TF of interest (e.g., a motif found in ChIP-seq peaks looks similar to one found by SELEX-seq). The Pubmed ID associated with the orthogonal support is provided in the TF profile metadata.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://jaspar.genereg.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;JASPAR&lt;/strong&gt;&lt;/a&gt; is the only database with this scope where the data can be used with no restrictions (open source). For a comprehensive review of models and how they can be used, please see the following reviews:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25045190/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Modeling the specificity of protein-DNA interactions Quant Biol. 2013 Jun;1(2):115-130&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15131651/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Applied bioinformatics for the identification of regulatory elements Nat Rev Genet. 2004 Apr;5(4):276-87&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;http://motifmap.ics.uci.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MotifMap&lt;/strong&gt;&lt;/a&gt; system provides comprehensive maps of candidate regulatory elements encoded in the genomes of model species using databases of transcription factor binding motifs, refined genome alignments, and a comparative genomic statistical approach- Bayesian Branch Length Score. Users can filter the results by various criteria and export them to severals file formats or view them directly in the UCSC genome browser.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://gene-regulation.com/pub/databases.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;TRANSFAC&lt;/strong&gt;&lt;/a&gt; provides data on eukaryotic transcription factors, their experimentally-proven binding sites, consensus binding sequences (positional weight matrices) and regulated genes. TRANSCompel contains data on eukaryotic transcription factors experimentally proven to act together in a synergistic or antagonistic manner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;http://the_brain.bwh.harvard.edu/uniprobe/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;UniPROBE (Universal PBM Resource for Oligonucleotide Binding Evaluation)&lt;/strong&gt;&lt;/a&gt; database hosts data generated by universal protein binding microarray (PBM) technology on the in vitro DNA binding specificities of proteins. This initial release of the &lt;a href=&#34;http://the_brain.bwh.harvard.edu/uniprobe/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;UniPROBE&lt;/strong&gt;&lt;/a&gt; database provides a centralized resource for accessing comprehensive data on the preferences of proteins for all possible sequence variants (&amp;lsquo;words&amp;rsquo;) of length k (&amp;lsquo;k-mers&amp;rsquo;), as well as position weight matrix (PWM) and graphical sequence logo representations of the k-mer data. In total, the database currently hosts DNA binding data for 726 nonredundant proteins and complexes from a diverse collection of organisms, including the prokaryote Vibrio harveyi, the eukaryotic malarial parasite Plasmodium falciparum, the parasitic Apicomplexan Cryptosporidium parvum, the yeast Saccharomyces cerevisiae, the worm Caenorhabditis elegans, mouse, and human. The database&amp;rsquo;s web tools (on the right) include a text-based search, a function for assessing motif similarity between user-entered data and database PWMs, and a function for locating putative binding sites along user-entered nucleotide sequences. Please click on each tool&amp;rsquo;s &amp;ldquo;help&amp;rdquo; link for more information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&#34;http://bioinfo.wilmer.jhu.edu/PDI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Human Protein-DNA Interactome (hPDI)&lt;/strong&gt;&lt;/a&gt; database holds experimental protein-DNA interaction data for humans identified by protein microarray assays. The current release of &lt;a href=&#34;http://bioinfo.wilmer.jhu.edu/PDI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;hPDI&lt;/strong&gt;&lt;/a&gt; contains 17,718 protein-DNA interactions for 1013 human DNA-binding proteins. These DNA-binding proteins include 493 human transcription factors (TFs) and 520 unconventional DNA binding proteins (uDBPs). Here TFs are defined as proteins either are annotated as &amp;ldquo;regulation of transcription&amp;rdquo; defined by GO database or contain known DNA binding domains defined by Pfam database and, uDBPs are defined proteins that have not been previously found to binding DNA specifically.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://v1.factorbook.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Factorbook&lt;/strong&gt;&lt;/a&gt; is a transcription factor (TF)-centric web-based repository of integrative analysis associated with ENCODE ChIP-seq data. It includes de novo discovered motifs, chromatin features surrounding ChIP-seq peaks (histone modification patterns, DNase I cleavage footprints, and nucleosome positioning profiles), deep-learned models of sequence features driving TF binding, and integration with GWAS variants and the ENCODE Registry of candidate cis-regulatory elements.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://hocomoco.autosome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HOmo sapiens COmprehensive MOdel COllection (HOCOMOCO)&lt;/strong&gt;&lt;/a&gt; v11 provides transcription factor (TF) binding models for 680 human and 453 mouse TFs. Since v11, &lt;a href=&#34;https://hocomoco.autosome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HOCOMOCO&lt;/strong&gt;&lt;/a&gt; is complemented by MoLoTool, an interactive web tool to mark motif occurrences in a given set of DNA sequences. In addition to basic mononucleotide position weight matrices (PWMs), &lt;a href=&#34;https://hocomoco.autosome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HOCOMOCO&lt;/strong&gt;&lt;/a&gt; provides dinucleotide position weight matrices based on ChIP-Seq data. All the models were produced by the ChIPMunk motif discovery tool. Model quality ratings are results of a comprehensive cross-validation benchmark. ChIP-Seq data for motif discovery was extracted from GTRD database of BioUML platform, that also provides an interface for motif finding (sequence scanning) with &lt;a href=&#34;https://hocomoco.autosome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HOCOMOCO&lt;/strong&gt;&lt;/a&gt; models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; discovers novel, ungapped motifs (recurring, fixed-length patterns) in your sequences (sample output from sequences). &lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; splits variable-length patterns into two or more separate motifs. A motif is an approximate sequence pattern that occurs repeatedly in a group of related sequences. &lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; represents motifs as position-dependent letter-probability matrices that describe the probability of each possible letter at each position in the pattern. Individual &lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; motifs do not contain gaps. Patterns with variable-length gaps are split by &lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; into two or more separate motifs. &lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; takes as input a group of sequences and outputs as many motifs as requested. &lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; uses statistical modeling techniques to automatically choose the best width, number of occurrences, and description for each motif. &lt;a href=&#34;https://meme-suite.org/meme/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MEME&lt;/strong&gt;&lt;/a&gt; on the web can take a second (control) set of input sequences and then discovers motifs that are enriched in the primary set relative to the control set. This is called discriminative motif discovery.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://cistrome.org/db/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Cistrome DB&lt;/strong&gt;&lt;/a&gt; uses the standard analysis pipeline ChiLin (1) to process all chromatin profiling reads.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transcription factors (TFs) as key regulators could modulate the expression of target genes by binding to specific DNA sequences of their promoter(s) or enhancer(s). The spatiotemporal TF-target regulations play vital roles throughout the life course of organisms, especially for human beings. Thus, the identification of TF-target regulation in human is a basis for understanding the molecular regulatory mechanisms underlying biological processes including the development and pathogenesis. &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/hTFtarget#!/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;hTFtarget&lt;/strong&gt;&lt;/a&gt; has curated comprehensive TF-target regulations from large-scale of ChIP-Seq data of human TFs (7,190 experiment samples of 659 TFs) in 569 conditions (399 types of cell line, 129 classes of tissues or cells, and 141 kinds of treatments). &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/hTFtarget#!/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;hTFtarget&lt;/strong&gt;&lt;/a&gt; customized an analysis workflow to detect reliable TF-target regulations, which integrated the peak information of ChIP-Seq data with epigenomic modification status (Details in Document page). hTFtarget could help users to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Browse and investigate the target gene(s) of TF(s);&lt;/li&gt;
+&lt;li&gt;Explore which TF(s) could regulate the query gene(s);&lt;/li&gt;
+&lt;li&gt;Survey public ChIP-Seq samples for the query TF(s);&lt;/li&gt;
+&lt;li&gt;View ChIP-Seq peaks of the query TF(s) in user-defined manner;&lt;/li&gt;
+&lt;li&gt;Investigate potential co-associations between TFs in selected cell line(s);&lt;/li&gt;
+&lt;li&gt;Inquire candidate co-regulation of TFs for the query gene(s);&lt;/li&gt;
+&lt;li&gt;Predict binding sites of TF(s) on given sequence(s).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://alggen.lsi.upc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROMO&lt;/strong&gt;&lt;/a&gt; is a virtual laboratory for the identification of putative transcription factor binding sites (TFBS) in DNA sequences from a species or groups of species of interest. TFBS defined in the TRANSFAC database are used to construct specific binding site weight matrices for TFBS prediction. The user can inspect the result of the search through a graphical interface and downloadable text files.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;www.softberry.com&#34;&gt;&lt;strong&gt;Softberry&lt;/strong&gt;&lt;/a&gt;, Inc. is a leading developer of software tools for genomic research focused on computational methods of high throughput biomedical data analysis, including software to support next generation sequencing technologies, transcriptome analysis (with RNASeq data), SNP detection and selection of disease specific SNP subsets. Its research-oriented programs have been used in thousand research projects. For example, fgenesh eukaryotic gene identification program is cited in more than 3000 articles, bprom, bacterial promoter prediction is cited in ~700 research papers. Just in 2015 our software applications have been used in more then 2000 research publications. Hundreds software applications developed in &lt;a href=&#34;www.softberry.com&#34;&gt;&lt;strong&gt;Softberry&lt;/strong&gt;&lt;/a&gt; can be executed on-line at &lt;a href=&#34;www.softberry.com&#34;&gt;&lt;strong&gt;Softberry&lt;/strong&gt;&lt;/a&gt; or downloaded for free academic usage. &lt;a href=&#34;www.softberry.com&#34;&gt;&lt;strong&gt;Softberry&lt;/strong&gt;&lt;/a&gt; started its commercial activities on May 1997 and is headquartered in Mount Kisco, NY, USA, with a satellite office in Novosibirsk, Russia. It participated in a number of academic collaborations on various research projects around the world.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; is a program for annotating miRNA promoters in human, as well as other species. It uses deepCAGE data from the FANTOM4 Consortium and integrated cage tag counts and other promoter features, such as CpG content, conservation and TATA box affinity, to score the potential of a candidate regions to be a promoter. Given a list of genomic regions of interest, in the form of a gff file, &lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; returns the most probable promoter locations, together with the posterior probabilities calculated by the model. More informations on how to run &lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; on your regions of interest can be found in the README file inside the &lt;a href=&#34;http://promirna.molgen.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;PROmiRNA&lt;/strong&gt;&lt;/a&gt; directory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Online tools decoding RNA-RNA regulatory networks</title>
+      <link>https://example.com/tool/2020-11-10-rri/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2020-11-10-rri/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://circinteractome.nia.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;CircInteractome&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; predicts the miRNAs which can potentially target the circRNAs using the &lt;a href=&#34;https://www.targetscan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Targetscan&lt;/a&gt; prediction tool. This computational tool enables the prediction and mapping of binding sites for RBPs and miRNAs on reported circRNAs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights of &lt;a href=&#34;%28https://circinteractome.nia.nih.gov/%29&#34;&gt;CircInteractome&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Searches circRNAs name&lt;/li&gt;
+&lt;li&gt;Searches the genomic position and best-matching transcripts of the circRNA&lt;/li&gt;
+&lt;li&gt;Retrieves genomic and mature circRNA sequences&lt;/li&gt;
+&lt;li&gt;Searches RBPs binding to a circRNA and to sequences upstream/downstream of the circRNA&lt;/li&gt;
+&lt;li&gt;Identifies RBPs binding to the circRNA junctions&lt;/li&gt;
+&lt;li&gt;Identifies miRNAs targeting a circRNA&lt;/li&gt;
+&lt;li&gt;Designs divergent primers for circRNAs&lt;/li&gt;
+&lt;li&gt;Designs siRNAs Specific to circRNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://starbase.sysu.edu.cn/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;ENCORI (The Encyclopedia of RNA Interactomes)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is an openly licensed and state-of-the-art platform to decode the cellular interaction networks among thousands of RNA binding proteins (RBPs) and various RNAs. We have identified millions of RBP-RNA and RNA-RNA interactions through analyzing thousands of CLIP-seq and various high-throughput sequencing data by developing new software and tools, and studied their functions and mechanisms in human diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Discovery of Protein-RNA Interactions</title>
+      <link>https://example.com/tool/2019-10-25-pri/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2019-10-25-pri/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://s.tartaglialab.com/page/catrapid_group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;catRAPID&lt;/strong&gt;&lt;/a&gt; is an algorithm to estimate the binding propensity of protein-RNA pairs. By combining secondary structure, hydrogen bonding and van der Waals contributions, &lt;a href=&#34;http://s.tartaglialab.com/page/catrapid_group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;catRAPID&lt;/strong&gt;&lt;/a&gt; predicts protein-RNA associations with great accuracy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://circinteractome.nia.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;CircInteractome&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; predicts the miRNAs which can potentially target the circRNAs using the &lt;a href=&#34;https://www.targetscan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Targetscan&lt;/a&gt; prediction tool. This computational tool enables the prediction and mapping of binding sites for RBPs and miRNAs on reported circRNAs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights of &lt;a href=&#34;%28https://circinteractome.nia.nih.gov/%29&#34;&gt;CircInteractome&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Searches circRNAs name&lt;/li&gt;
+&lt;li&gt;Searches the genomic position and best-matching transcripts of the circRNA&lt;/li&gt;
+&lt;li&gt;Retrieves genomic and mature circRNA sequences&lt;/li&gt;
+&lt;li&gt;Searches RBPs binding to a circRNA and to sequences upstream/downstream of the circRNA&lt;/li&gt;
+&lt;li&gt;Identifies RBPs binding to the circRNA junctions&lt;/li&gt;
+&lt;li&gt;Identifies miRNAs targeting a circRNA&lt;/li&gt;
+&lt;li&gt;Designs divergent primers for circRNAs&lt;/li&gt;
+&lt;li&gt;Designs siRNAs Specific to circRNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://starbase.sysu.edu.cn/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;ENCORI (The Encyclopedia of RNA Interactomes)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is an openly licensed and state-of-the-art platform to decode the cellular interaction networks among thousands of RNA binding proteins (RBPs) and various RNAs. We have identified millions of RBP-RNA and RNA-RNA interactions through analyzing thousands of CLIP-seq and various high-throughput sequencing data by developing new software and tools, and studied their functions and mechanisms in human diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Explore protein-protein interaction networks with online dababases</title>
+      <link>https://example.com/tool/2018-06-12-ppi/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tool/2018-06-12-ppi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://string-db.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;STRING&lt;/strong&gt;&lt;/a&gt; is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. The &lt;a href=&#34;https://string-db.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;STRING&lt;/strong&gt;&lt;/a&gt; database currently covers 24,584,628 proteins from 5,090 organisms.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

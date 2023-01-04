@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organoid | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/organoid/</link>
+      <atom:link href="https://example.com/tag/organoid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Organoid</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Organoid</title>
+      <link>https://example.com/tag/organoid/</link>
+    </image>
+    
+    <item>
+      <title>Disease Modeling in Stem Cell-Derived 3D Organoid Systems</title>
+      <link>https://example.com/review/28341301/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/28341301/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Organoids are 3D in vitro culture systems derived from self-organizing stem cells. They can recapitulate the in vivo architecture, functionality, and genetic signature of original tissues. Thus, organoid technology has been rapidly applied to understanding stem cell biology, organogenesis, and various human pathologies. The recent development of human patient-derived organoids has enabled disease modeling with precision, highlighting their great potential in biomedical applications, translational medicine, and personalized therapy. In light of recent breakthroughs using organoids, it is only apt that we appreciate the advantages and shortcomings of this technology to exploit its full potential. We discuss recent advances in the application of organoids in studying cancer and hereditary diseases, as well as in the examination of host cell-microorganism interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

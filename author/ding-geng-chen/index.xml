@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ding-Geng Chen | BM Sci-Tech Memento</title>
+    <link>https://example.com/author/ding-geng-chen/</link>
+      <atom:link href="https://example.com/author/ding-geng-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ding-Geng Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Ding-Geng Chen</title>
+      <link>https://example.com/author/ding-geng-chen/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Analysis of Microbiome Data with R</title>
+      <link>https://example.com/books/2019-02-02-stat-analy-microbiome-r/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-02-02-stat-analy-microbiome-r/</guid>
+      <description>&lt;p&gt;This unique book addresses the statistical modelling and analysis of microbiome data using cutting-edge R software. It includes real-world data from the authors’ research and from the public domain, and discusses the implementation of R for data analysis step by step. The data and R computer programs are publicly available, allowing readers to replicate the model development and data analysis presented in each chapter, so that these new methods can be readily applied in their own research.&lt;/p&gt;
+&lt;p&gt;The book also discusses recent developments in statistical modelling and data analysis in microbiome research, as well as the latest advances in next-generation sequencing and big data in methodological development and applications. This timely book will greatly benefit all readers involved in microbiome, ecology and microarray data analyses, as well as other fields of research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

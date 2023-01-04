@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Further Reading Corner | BM Sci-Tech Memento</title>
+    <link>https://example.com/books/</link>
+      <atom:link href="https://example.com/books/index.xml" rel="self" type="application/rss+xml" />
+    <description>Further Reading Corner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Further Reading Corner</title>
+      <link>https://example.com/books/</link>
+    </image>
+    
+    <item>
+      <title>PCR Primer Design</title>
+      <link>https://example.com/books/2023-01-01-primer-design-3ed/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2023-01-01-primer-design-3ed/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Section A: &lt;em&gt;Primer Design for Genotyping&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 1&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773611.pdf&#34; target=&#34;_blank&#34;&gt;The Significance of PCR Primer Design in Genetic Diversity Studies: Exemplified by Recent Research into the Genetic Structure of Marine Species&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 2&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773612.pdf&#34; target=&#34;_blank&#34;&gt;Enhancing Cohort PASA Efficiency from Lessons Assimilated by Mutant Genotyping in C. elegans&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 3&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773613.pdf&#34; target=&#34;_blank&#34;&gt;Design of Oligonucleotides for Allele-Specific Amplification Based on PCR and Isothermal Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 4&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773614.pdf&#34; target=&#34;_blank&#34;&gt;Detection of Rubella Virus by Tri-Primer RT-PCR Assay and Genotyping by Fragment RT-PCR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 5&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773615.pdf&#34; target=&#34;_blank&#34;&gt;Design of Mismatch Primers to Identify and Differentiate Closely Related (Sub)Species: Application to the Authentication of Meat Products&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 6&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773616.pdf&#34; target=&#34;_blank&#34;&gt;Primer Design for the Analysis of Closely Related Species: Application of Noncoding mtDNA and cpDNA Sequences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 7&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773617.pdf&#34; target=&#34;_blank&#34;&gt;Designing PCR Primers for the Amplification-Refractory Mutation System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section B: &lt;em&gt;Primer Design for Genome-Wide Identification of Specific Regions&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 8&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773618.pdf&#34; target=&#34;_blank&#34;&gt;Validation of Circular RNAs by PCR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 9&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773619.pdf&#34; target=&#34;_blank&#34;&gt;Primer Designing for Amplifying an AT-Rich Promoter from Arabidopsis thaliana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section C: &lt;em&gt;Primer Design for Multiplex PCR&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 10&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773620.pdf&#34; target=&#34;_blank&#34;&gt;PLASmid TAXonomic PCR (PlasTax-PCR), a Multiplex Relaxase MOB Typing to Assort Plasmids into Taxonomic Units&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 11&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773621.pdf&#34; target=&#34;_blank&#34;&gt;Multiplex PCR Design for Scalable Resequencing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section D: &lt;em&gt;Primer Design for qPCR&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 12&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773622.pdf&#34; target=&#34;_blank&#34;&gt;Identification of Gene Copy Number in the Transgenic Plants by Quantitative Polymerase Chain Reaction (qPCR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 13&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773623.pdf&#34; target=&#34;_blank&#34;&gt;qPrimerDB: A Powerful and User-Friendly Database for qPCR Primer Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section E: &lt;em&gt;Primer Design for Identification of Plant and Animal Viruses&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 14&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773624.pdf&#34; target=&#34;_blank&#34;&gt;PCR Primer Design for the Rapidly Evolving SARS-CoV-2 Genome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 15&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773625.pdf&#34; target=&#34;_blank&#34;&gt;Universal Primers for Detection of Novel Plant Capsid-Less Viruses: Papaya Umbra-like Viruses as Examp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section F: &lt;em&gt;Use of Software for Primer Design&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 16&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773626.pdf&#34; target=&#34;_blank&#34;&gt;A Guide to Using FASTPCR Software for PCR, In Silico PCR, and Oligonucleotide Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Section G: &lt;em&gt;Primer Design for Newer PCR Approaches&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 17&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773627.pdf&#34; target=&#34;_blank&#34;&gt;Pyrosequencing Primer Design for Forensic Biology Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 18&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/34773628.pdf&#34; target=&#34;_blank&#34;&gt;Phosphate-Methylated Oligonucleotides as a Novel Primer for PCR and RT-PCR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ggplot2</title>
+      <link>https://example.com/books/2022-12-31-ggplot2-book-r-3ed/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2022-12-31-ggplot2-book-r-3ed/</guid>
+      <description>&lt;p&gt;The book &lt;a href=&#34;https://ggplot2-book.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;ggplot2: Elegant Graphics for Data Analysis&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; gives some details on the basics of &lt;a href=&#34;https://cran.r-project.org/web/packages/ggplot2/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt;, its primary focus is explaining the Grammar of Graphics that &lt;a href=&#34;https://cran.r-project.org/web/packages/ggplot2/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt; uses, and describing the full details. It is not a cookbook, and won’t necessarily help you create any specific graphic that you need. But it will help you understand the details of the underlying theory, giving you the power to tailor any plot specifically to your needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Major changes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;em&gt;Data Analysis&lt;/em&gt;, &lt;em&gt;Data Transformation&lt;/em&gt;, and &lt;em&gt;Modelling for Visualisation&lt;/em&gt; chapters have been removed so that the book can focus on visualisation. If you’re looking for general advice on doing data science in R, I recommend &lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R for Data Science&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;Toolbox&lt;/em&gt; chapter has been expanded into six chapters that cover practical applications of layers. This includes more material on maps and annotations, and a new chapter that discusses how to arrange multiple plots on one page.&lt;/li&gt;
+&lt;li&gt;Similarly, the old &lt;em&gt;Scales&lt;/em&gt;, &lt;em&gt;Axes&lt;/em&gt;, and &lt;em&gt;Legends&lt;/em&gt; chapter has been split into into four chapters. The first three cover the practical combination of scales and guides for the most common scale types, and the final chapter focusses on the underlying theory.&lt;/li&gt;
+&lt;li&gt;The old &lt;em&gt;Positioning&lt;/em&gt; chapter has been split into new &lt;em&gt;Coordinate Systems&lt;/em&gt; and &lt;em&gt;Faceting&lt;/em&gt; chapters, giving more room for details on these important topics.&lt;/li&gt;
+&lt;li&gt;New chapters describe more about the internals of &lt;a href=&#34;https://cran.r-project.org/web/packages/ggplot2/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt;, and how you can extend it in your own package.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hypoxia: Methods and Protocols</title>
+      <link>https://example.com/books/2022-12-05-hypoxia-2018/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2022-12-05-hypoxia-2018/</guid>
+      <description>&lt;p&gt;This volume details widely used and newer lab protocols for studying hypoxic responses in physiology and diseases. Chapters guide the reader through the application of hypoxic conditions, to the techniques of molecular biology, biochemical, cell biology, genomic,bioinformatic, metabolic, and animal studies. Written in the highly successful &lt;em&gt;Methods in Molecular Biology&lt;/em&gt; series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Python for Data Analysis</title>
+      <link>https://example.com/books/2022-09-20-py-data-anal/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2022-09-20-py-data-anal/</guid>
+      <description>&lt;p&gt;The 3rd edition of &lt;a href=&#34;https://wesmckinney.com/book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Python for Data Analysis&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is now available as an “Open Access” HTML version in addition to the usual print and e-book formats. This edition was initially published in August 2022 and will have errata fixed periodically over the coming months and years.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The R series: Advanced R Solutions</title>
+      <link>https://example.com/books/2021-08-24-adva-r-solut/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2021-08-24-adva-r-solut/</guid>
+      <description>&lt;p&gt;The website for &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; provides solutions to the exercises from Hadley Wickham’s &lt;a href=&#34;https://adv-r.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced R&lt;/a&gt;, &lt;mark&gt;2nd edition&lt;/mark&gt;. Working through the exercises and their solutions will give you a deep understanding of a variety of programming challenges, many of which are relevant to everyday work. For the &lt;mark&gt;2nd edition&lt;/mark&gt; of the book, just click on &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, while solutions to the &lt;mark&gt;1st edition&lt;/mark&gt; of &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; can be found at &lt;a href=&#34;https://advanced-r-solutions-ed1.netlify.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;netlify.com&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intermediate Python</title>
+      <link>https://example.com/books/2021-03-08-inter-py/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2021-03-08-inter-py/</guid>
+      <description>&lt;p&gt;Python is an amazing language with a strong and friendly community of programmers. However, there is a lack of documentation on what to learn after getting the basics of Python down your throat. Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.&lt;/p&gt;
+&lt;p&gt;The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.&lt;/p&gt;
+&lt;p&gt;If you are a beginner, intermediate or even an advanced programmer there is something for you in this book.&lt;/p&gt;
+&lt;p&gt;Please note that this book is not a tutorial and does not teach you Python. The topics are not explained in depth, instead only the minimum required information is given.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization with R</title>
+      <link>https://example.com/books/2020-12-01-data-vis-r/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2020-12-01-data-vis-r/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is an amazing platform for data analysis, capable of creating almost any type of graph. &lt;a href=&#34;https://rkabacoff.github.io/datavis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Data Visualization with R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the &lt;a href=&#34;%28https://ggplot2.tidyverse.org%29&#34;&gt;ggplot2&lt;/a&gt; package for graphics, but other approaches are covered as well.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The R Series: R Markdown Cookbook</title>
+      <link>https://example.com/books/2020-10-20-r-md-cookbook/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2020-10-20-r-md-cookbook/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;If you want to try the examples by yourself, the full source code of this book and examples are freely provided on &lt;a href=&#34;https://github.com/yihui/rmarkdown-cookbook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. If you are reading the electronic version of this book, you may also just copy and paste the examples from the pages and run them in your favorite editor.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Despite the existence of the official documentation, &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; users often seek help on Stack Overflow, a popular Q&amp;amp;A forum. Authors have received comments from our readers and publisher that it would be beneficial to provide more practical and relatively short examples to show the interesting and useful usage of &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;, because it can be daunting to find out how to achieve a certain task from the aforementioned reference book (put another way, that book is too dry to read). As a result, &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown-cookbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Markdown Cookbook&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; was born. This book is designed to provide a range of examples on how to extend the functionality of your &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; documents. As a cookbook, this guide is recommended to new and intermediate &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; users who desire to enhance the efficiency of using &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; and also explore the power of &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;. The online version of &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown-cookbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Markdown Cookbook&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is also free.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Science</title>
+      <link>https://example.com/books/2019-12-12-intro-dt-sci-dt-anal-predict/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-12-12-intro-dt-sci-dt-anal-predict/</guid>
+      <description>&lt;p&gt;The demand for skilled data science practitioners in industry, academia, and government is rapidly growing. &lt;a href=&#34;http://rafalab.dfci.harvard.edu/dsbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Introduction to Data Science: Data Analysis and Prediction Algorithms with R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown. The book is divided into six parts: R, Data Visualization, Data Wrangling, Statistics with R, Machine Learning, and Productivity Tools. Each part has several chapters meant to be presented as one lecture and includes dozens of exercises distributed across chapters.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Data Visualisation with R: 111 Examples</title>
+      <link>https://example.com/books/2019-11-23-data-vis-r-111-examp/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-11-23-data-vis-r-111-examp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.datavisualisation-r.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Data Visualisation with R: 111 Examples (2nd Edition)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; introduces readers to the fundamentals of creating presentation graphics using &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, based on 111 detailed and complete scripts. It shows how bar and column charts, population pyramids, Lorenz curves, box plots, scatter plots, time series, radial polygons, Gantt charts, heat maps, bump charts, mosaic and balloon charts, and a series of different thematic map types can be created using R’s Base Graphics System. Every example uses real data and includes step-by-step explanations of the figures and their programming. This second edition contains additional examples for cartograms, chord-diagrams and networks, and interactive visualizations with Javascript.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The R series: Advanced R</title>
+      <link>https://example.com/books/2019-06-01-adva-r/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-06-01-adva-r/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://adv-r.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a book in Chapman &amp;amp; Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why R works the way it does. Links here will direct you to the &lt;mark&gt;2nd edition&lt;/mark&gt; of &lt;a href=&#34;https://adv-r.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The code contained in this book is simultaneously available under the MIT license; this means that you are free to use it in your own packages, as long as you cite the source.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fundamentals of Data Visualization</title>
+      <link>https://example.com/books/2019-04-30-basic-data-viz/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-04-30-basic-data-viz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://clauswilke.com/dataviz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Fundamentals of Data Visualization&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional. It has grown out of experience of the author working with students and postdocs in laboratory on thousands of data visualizations. Over the years, the autor has noticed that the same issues arise over and over and have attempted to collect my accumulated knowledge from these interactions in the form of this book. The website of &lt;a href=&#34;https://clauswilke.com/dataviz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Fundamentals of Data Visualization&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; contains the complete author manuscript before final copy-editing and other quality control.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of Microbiome Data with R</title>
+      <link>https://example.com/books/2019-02-02-stat-analy-microbiome-r/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2019-02-02-stat-analy-microbiome-r/</guid>
+      <description>&lt;p&gt;This unique book addresses the statistical modelling and analysis of microbiome data using cutting-edge R software. It includes real-world data from the authors’ research and from the public domain, and discusses the implementation of R for data analysis step by step. The data and R computer programs are publicly available, allowing readers to replicate the model development and data analysis presented in each chapter, so that these new methods can be readily applied in their own research.&lt;/p&gt;
+&lt;p&gt;The book also discusses recent developments in statistical modelling and data analysis in microbiome research, as well as the latest advances in next-generation sequencing and big data in methodological development and applications. This timely book will greatly benefit all readers involved in microbiome, ecology and microarray data analyses, as well as other fields of research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R Graphics Cookbook</title>
+      <link>https://example.com/books/2018-11-30-r-graphics/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2018-11-30-r-graphics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://r-graphics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Graphics Cookbook&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R Markdown: The Definitive Guide</title>
+      <link>https://example.com/books/2018-07-27-r-markdown/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2018-07-27-r-markdown/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; is a powerful tool for combining analysis and reporting into the same document. Since the birth of the rmarkdown package in early 2014, &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; has grown substantially from a package that supports a few output formats, to an extensive and diverse ecosystem that supports the creation of books, blogs, scientific articles, websites, and even resumes.&lt;/p&gt;
+&lt;p&gt;Your data tells a story. &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; helps to turn your analyses into high quality documents, reports, presentations and dashboards. &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; documents are fully reproducible. Use a productive notebook interface to weave together narrative text and code to produce elegantly formatted output. Use multiple languages including &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, &lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;, and SQL. &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; supports dozens of static and dynamic output formats including HTML, PDF, MS Word, Beamer, HTML5 slides, Tufte-style handouts, books, dashboards, shiny applications, scientific articles, websites, and more.&lt;/p&gt;
+&lt;p&gt;There is a wealth of guidance that has been written over the past few years, and the book &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Markdown: The Definitive Guide&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; provides a detailed reference on the built-in &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; output formats of the rmarkdown package, as well as several other extension packages. This book has been published by Chapman &amp;amp; Hall/CRC and the online version of this book is free to read &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;clicking here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Byte of Python</title>
+      <link>https://example.com/books/2018-06-20-a-byte-of-py/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2018-06-20-a-byte-of-py/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://python.swaroopch.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;A Byte of Python&lt;/strong&gt;&lt;/a&gt; is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>blogdown: Creating Websites with R Markdown</title>
+      <link>https://example.com/books/2017-12-01-blogdown/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2017-12-01-blogdown/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Blogdown: Creating Websites with R Markdown&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; teaches you how to create websites using &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; and Hugo. If you have experience with creating websites, you may naturally ask what the benefits of using R Markdown are, and how blogdown is different from existing popular website platforms, such as WordPress. There are two major highlights of &lt;a href=&#34;https://cran.r-project.org/web/packages/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It produces a static website, meaning the website only consists of static files such as HTML, CSS, JavaScript, and images, &lt;em&gt;etc&lt;/em&gt;. You can host the website on any web server. The website does not require server-side scripts such as PHP or databases like WordPress does. It is just one folder of static files. More benefits of static websites are discussed at length in &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;blogdown: Creating Websites with R Markdown&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; when authors introduce the static website generator Hugo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The website is generated from &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; documents. This brings a huge amount of benefits, especially if your website is related to data analysis or (&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;) programming. Being able to use Markdown implies simplicity and more importantly, portability (e.g., you are giving yourself the chance to convert your blog posts to PDF and publish to journals or even books in the future). &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; gives you the benefits of dynamic documents — all your results, such as tables, graphics, and inline values, can be computed and rendered dynamically from R code, hence the results you present on your website are more likely to be reproducible. An additional yet important benefit of using &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; is that you will be able to write technical documents easily, due to the fact that &lt;a href=&#34;https://cran.r-project.org/web/packages/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; inherits the HTML output format from &lt;a href=&#34;https://cran.r-project.org/web/packages/bookdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bookdown&lt;/a&gt;. For example, it is possible to write LaTeX math equations, citations, and even theorems and proofs if you want.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R for Data Science</title>
+      <link>https://example.com/books/2017-01-31-r4ds/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2017-01-31-r4ds/</guid>
+      <description>&lt;p&gt;Data science is an exciting discipline that allows you to turn raw data into understanding, insight, and knowledge. The goal of &lt;a href=&#34;https://r4ds.had.co.nz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is to help you learn the most important tools in &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; that will allow you to do data science. And the website of &lt;a href=&#34;https://r4ds.had.co.nz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is and will always be free to use. After reading this book, you’ll have the tools to tackle a wide variety of data science challenges, using the best parts of &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://r4ds.had.co.nz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; teaches you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In &lt;a href=&#34;https://r4ds.had.co.nz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>bookdown: Authoring Books and Technical Documents with R Markdown</title>
+      <link>https://example.com/books/2016-12-19-bookdown/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2016-12-19-bookdown/</guid>
+      <description>&lt;p&gt;The book, &lt;a href=&#34;https://bookdown.org/yihui/bookdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;bookdown: Authoring Books and Technical Documents with R Markdown&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;, introduces an &lt;a href=&#34;https://cran.r-project.org/web/packages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R package&lt;/a&gt;, &lt;a href=&#34;https://cran.r-project.org/web/packages/bookdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bookdown&lt;/a&gt;, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details. The &lt;a href=&#34;https://cran.r-project.org/web/packages/bookdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bookdown&lt;/a&gt; package is built on top of &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;, and inherits the simplicity of the Markdown syntax, as well as the possibility of multiple types of output formats (PDF/HTML/Word/…). It has also added features like multi-page HTML output, numbering and cross-referencing figures/tables/sections/equations, inserting parts/appendices, and imported the &lt;a href=&#34;https://www.gitbook.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitBook style&lt;/a&gt; to create elegant and appealing HTML book pages. This book itself is an example of how you can produce a book from a series of &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt; documents, and both the printed version and the online version can look professional.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R Programming for Data Science</title>
+      <link>https://example.com/books/2016-04-20-adva-r-prog-dt-sci/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2016-04-20-adva-r-prog-dt-sci/</guid>
+      <description>&lt;p&gt;Data science has taken the world by storm. Every field of study and area of business has been affected as people increasingly realize the value of the incredible quantities of data being generated. But to extract value from those data, one needs to be trained in the proper data science skills. The R programming language has become the de facto programming language for data science. Its flexibility, power, sophistication, and expressiveness have made it an invaluable tool for data scientists around the world. &lt;a href=&#34;https://bookdown.org/rdpeng/rprogdatascience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Programming for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R Packages</title>
+      <link>https://example.com/books/2015-04-28-r-packages/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2015-04-28-r-packages/</guid>
+      <description>&lt;p&gt;Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this book &lt;a href=&#34;https://r-pkgs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Packages&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hands-On Programming with R</title>
+      <link>https://example.com/books/2014-08-02-cohopr/</link>
+      <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/books/2014-08-02-cohopr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rstudio-education.github.io/hopr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Hands-On Programming with R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; will teach you how to program in R, with hands-on examples. The author wrote it for non-programmers to provide a friendly introduction to the R language. You’ll learn how to load data, assemble and disassemble data objects, navigate R environment system, write your own functions, and use all of R programming tools. Throughout the book, you’ll use your newfound skills to solve practical data science problems.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
