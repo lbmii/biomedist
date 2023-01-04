@@ -1264,6 +1264,8 @@
   <url>
     <loc>https://example.com/article/34253897/</loc><lastmod>2021-07-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/34247449/</loc><lastmod>2021-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/review/34234112/</loc><lastmod>2021-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/34234122/</loc><lastmod>2021-07-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -1944,6 +1946,8 @@
   <url>
     <loc>https://example.com/article/31511697/</loc><lastmod>2019-09-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/31471107/</loc><lastmod>2019-08-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/31427815/</loc><lastmod>2019-08-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/blog/2019-08-11-r-graphics/</loc><lastmod>2019-08-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -2262,10 +2266,6 @@
   <url>
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/article/34247449/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/tag/sars-cov-2/covid19/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/review/36209190/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/article/31471107/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/review/36209190/</loc><changefreq>weekly</changefreq></url></urlset>

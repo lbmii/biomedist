@@ -388,6 +388,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Identification and Characterization of Robust Hepatocellular Carcinoma Prognostic Subtypes Based on an Integrative Metabolite-Protein Interaction Network</title>
+      <link>https://example.com/article/34247449/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34247449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metabolite-protein interactions (MPIs) play key roles in cancer metabolism. However, our current knowledge about MPIs in cancers remains limited due to the complexity of cancer cells. Herein, the authors construct an integrative MPI network and propose a MPI network based hepatocellular carcinoma (HCC) subtyping and mechanism exploration workflow. Based on the expressions of hub proteins on the MPI network, two prognosis-distinctive HCC subtypes are identified. Meanwhile, multiple interdependent features of the poor prognostic subtype are observed, including hypoxia, DNA hypermethylation of metabolic pathways, fatty acid accumulation, immune pathway up-regulation, and exhausted T-cell infiltration. Notably, the immune pathway up-regulation is probably induced by accumulated unsaturated fatty acids which are predicted to interact with multiple immune regulators like SRC and TGFB1. Moreover, based on tumor microenvironment compositions, the poor prognostic subtype is further divided into two sub-populations showing remarkable differences in metabolism. The subtyping shows a strong consistency across multiple HCC cohorts including early-stage HCC. Overall, the authors redefine robust HCC prognosis subtypes and identify potential MPIs linking metabolism to immune regulations, thus promoting understanding and clinical applications about HCC metabolism heterogeneity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>An atlas of protein-protein interactions across mouse tissues</title>
       <link>https://example.com/article/34214469/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -693,6 +718,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Targeting Degradation of the Transcription Factor C/EBPβ Reduces Lung Fibrosis by Restoring Activity of the Ubiquitin-Editing Enzyme A20 in Macrophages</title>
+      <link>https://example.com/article/31471107/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31471107/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although recent progress provides mechanistic insights into the pathogenesis of pulmonary fibrosis (PF), rare anti-PF therapeutics show definitive promise for treating this disease. Repeated lung epithelial injury results in injury-repairing response and inflammation, which drive the development of PF. Here, we report that chronic lung injury inactivated the ubiquitin-editing enzyme A20, causing progressive accumulation of the transcription factor C/EBPβ in alveolar macrophages (AMs) from PF patients and mice, which upregulated a number of immunosuppressive and profibrotic factors promoting PF development. In response to chronic lung injury, elevated glycogen synthase kinase-3β (GSK-3β) interacted with and phosphorylated A20 to suppress C/EBPβ degradation. Ectopic expression of A20 or pharmacological restoration of A20 activity by disturbing the A20-GSK-3β interaction accelerated C/EBPβ degradation and showed potent therapeutic efficacy against experimental PF. Our study indicates that a regulatory mechanism of the GSK-3β-A20-C/EBPβ axis in AMs may be a potential target for treating PF and fibroproliferative lung diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Explore protein-protein interaction networks with online dababases</title>
       <link>https://example.com/tool/2018-06-12-ppi/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
@@ -725,56 +775,6 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
 &lt;!---more---&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Genomics, epigenomics, transcriptomics, proteomics and metabolomics efforts rapidly generate a plethora of data on the activity and levels of biomolecules within mammalian cells. At the same time, curation projects that organize knowledge from the biomedical literature into online databases are expanding. Hence, there is a wealth of information about genes, proteins and their associations, with an urgent need for data integration to achieve better knowledge extraction and data reuse. For this purpose, we developed the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;: a collection of processed datasets gathered to serve and mine knowledge about genes and proteins from over 70 major online resources. We extracted, abstracted and organized data into ∼72 million functional associations between genes/proteins and their attributes. Such attributes could be physical relationships with other biomolecules, expression in cell lines and tissues, genetic associations with knockout mouse or human phenotypes, or changes in expression after drug treatment. We stored these associations in a relational database along with rich metadata for the genes/proteins, their attributes and the original resources. The freely available &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; web portal provides a graphical user interface, a web service and a mobile app for querying, browsing and downloading all of the collected data. To demonstrate the utility of the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;, we computed and visualized gene–gene and attribute–attribute similarity networks, and through unsupervised clustering, identified many unexpected relationships by combining pairs of datasets such as the association between kinase perturbations and disease signatures. We also applied supervised machine learning methods to predict novel substrates for kinases, endogenous ligands for G-protein coupled receptors, mouse phenotypes for knockout genes, and classified unannotated transmembrane proteins for likelihood of being ion channels. The &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; is a comprehensive resource of knowledge about genes and proteins, and as such, it enables researchers to discover novel relationships between biological entities, as well as form novel data-driven hypotheses for experimental validation.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Identification and Characterization of Robust Hepatocellular Carcinoma Prognostic Subtypes Based on an Integrative Metabolite-Protein Interaction Network</title>
-      <link>https://example.com/article/34247449/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/34247449/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Metabolite-protein interactions (MPIs) play key roles in cancer metabolism. However, our current knowledge about MPIs in cancers remains limited due to the complexity of cancer cells. Herein, the authors construct an integrative MPI network and propose a MPI network based hepatocellular carcinoma (HCC) subtyping and mechanism exploration workflow. Based on the expressions of hub proteins on the MPI network, two prognosis-distinctive HCC subtypes are identified. Meanwhile, multiple interdependent features of the poor prognostic subtype are observed, including hypoxia, DNA hypermethylation of metabolic pathways, fatty acid accumulation, immune pathway up-regulation, and exhausted T-cell infiltration. Notably, the immune pathway up-regulation is probably induced by accumulated unsaturated fatty acids which are predicted to interact with multiple immune regulators like SRC and TGFB1. Moreover, based on tumor microenvironment compositions, the poor prognostic subtype is further divided into two sub-populations showing remarkable differences in metabolism. The subtyping shows a strong consistency across multiple HCC cohorts including early-stage HCC. Overall, the authors redefine robust HCC prognosis subtypes and identify potential MPIs linking metabolism to immune regulations, thus promoting understanding and clinical applications about HCC metabolism heterogeneity.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Targeting Degradation of the Transcription Factor C/EBPβ Reduces Lung Fibrosis by Restoring Activity of the Ubiquitin-Editing Enzyme A20 in Macrophages</title>
-      <link>https://example.com/article/31471107/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/31471107/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Although recent progress provides mechanistic insights into the pathogenesis of pulmonary fibrosis (PF), rare anti-PF therapeutics show definitive promise for treating this disease. Repeated lung epithelial injury results in injury-repairing response and inflammation, which drive the development of PF. Here, we report that chronic lung injury inactivated the ubiquitin-editing enzyme A20, causing progressive accumulation of the transcription factor C/EBPβ in alveolar macrophages (AMs) from PF patients and mice, which upregulated a number of immunosuppressive and profibrotic factors promoting PF development. In response to chronic lung injury, elevated glycogen synthase kinase-3β (GSK-3β) interacted with and phosphorylated A20 to suppress C/EBPβ degradation. Ectopic expression of A20 or pharmacological restoration of A20 activity by disturbing the A20-GSK-3β interaction accelerated C/EBPβ degradation and showed potent therapeutic efficacy against experimental PF. Our study indicates that a regulatory mechanism of the GSK-3β-A20-C/EBPβ axis in AMs may be a potential target for treating PF and fibroproliferative lung diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
