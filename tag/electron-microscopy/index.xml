@@ -5,12 +5,37 @@
     <link>https://example.com/tag/electron-microscopy/</link>
       <atom:link href="https://example.com/tag/electron-microscopy/index.xml" rel="self" type="application/rss+xml" />
     <description>Electron Microscopy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Electron Microscopy</title>
       <link>https://example.com/tag/electron-microscopy/</link>
     </image>
+    
+    <item>
+      <title>A Structure-Based Model for the Complete Transcription Cycle of Influenza Polymerase</title>
+      <link>https://example.com/article/32304664/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32304664/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza polymerase uses unique mechanisms to synthesize capped and polyadenylated mRNAs from the genomic viral RNA (vRNA) template, which is packaged inside ribonucleoprotein particles (vRNPs). Here, we visualize by cryoelectron microscopy the conformational dynamics of the polymerase during the complete transcription cycle from pre-initiation to termination, focusing on the template trajectory. After exiting the active site cavity, the template 3&amp;rsquo; extremity rebinds into a specific site on the polymerase surface. Here, it remains sequestered during all subsequent transcription steps, forcing the template to loop out as it further translocates. At termination, the strained connection between the bound template 5&amp;rsquo; end and the active site results in polyadenylation by stuttering at uridine 17. Upon product dissociation, further conformational changes release the trapped template, allowing recycling back into the pre-initiation state. Influenza polymerase thus performs transcription while tightly binding to and protecting both template ends, allowing efficient production of multiple mRNAs from a single vRNP.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Tools facilitating determination of molecular structures (2)</title>

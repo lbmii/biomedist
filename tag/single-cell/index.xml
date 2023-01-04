@@ -98,6 +98,81 @@
     </item>
     
     <item>
+      <title>Deciphering human macrophage development at single-cell resolution</title>
+      <link>https://example.com/article/32499656/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32499656/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Macrophages are the first cells of the nascent immune system to emerge during embryonic development. In mice, embryonic macrophages infiltrate developing organs, where they differentiate symbiotically into tissue-resident macrophages (TRMs). However, our understanding of the origins and specialization of macrophages in human embryos is limited. Here we isolated CD45&lt;sup&gt;+&lt;/sup&gt; haematopoietic cells from human embryos at Carnegie stages 11 to 23 and subjected them to transcriptomic profiling by single-cell RNA sequencing, followed by functional characterization of a population of CD45&lt;sup&gt;+&lt;/sup&gt;CD34&lt;sup&gt;+&lt;/sup&gt;CD44&lt;sup&gt;+&lt;/sup&gt; yolk sac-derived myeloid-biased progenitors (YSMPs) by single-cell culture. We also mapped macrophage heterogeneity across multiple anatomical sites and identified diverse subsets, including various types of embryonic TRM (in the head, liver, lung and skin). We further traced the specification trajectories of TRMs from either yolk sac-derived primitive macrophages or YSMP-derived embryonic liver monocytes using both transcriptomic and developmental staging information, with a focus on microglia. Finally, we evaluated the molecular similarities between embryonic TRMs and their adult counterparts. Our data represent a comprehensive characterization of the spatiotemporal dynamics of early macrophage development during human embryogenesis, providing a reference for future studies of the development and function of human TRMs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrative differential expression and gene set enrichment analysis using summary statistics for scRNA-seq studies</title>
+      <link>https://example.com/article/32221292/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32221292/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Differential expression (DE) analysis and gene set enrichment (GSE) analysis are commonly applied in single cell RNA sequencing (scRNA-seq) studies. Here, we develop an integrative and scalable computational method, iDEA, to perform joint DE and GSE analysis through a hierarchical Bayesian framework. By integrating DE and GSE analyses, iDEA can improve the power and consistency of DE analysis and the accuracy of GSE analysis. Importantly, iDEA uses only DE summary statistics as input, enabling effective data modeling through complementing and pairing with various existing DE methods. We illustrate the benefits of iDEA with extensive simulations. We also apply iDEA to analyze three scRNA-seq data sets, where iDEA achieves up to five-fold power gain over existing GSE methods and up to 64% power gain over existing DE methods. The power gain brought by iDEA allows us to identify many pathways that would not be identified by existing approaches in these data.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Defining Epidermal Basal Cell States during Skin Homeostasis and Wound Healing Using Single-Cell Transcriptomics</title>
+      <link>https://example.com/article/32187560/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32187560/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our knowledge of transcriptional heterogeneities in epithelial stem and progenitor cell compartments is limited. Epidermal basal cells sustain cutaneous tissue maintenance and drive wound healing. Previous studies have probed basal cell heterogeneity in stem and progenitor potential, but a comprehensive dissection of basal cell dynamics during differentiation is lacking. Using single-cell RNA sequencing coupled with RNAScope and fluorescence lifetime imaging, we identify three non-proliferative and one proliferative basal cell state in homeostatic skin that differ in metabolic preference and become spatially partitioned during wound re-epithelialization. Pseudotemporal trajectory and RNA velocity analyses predict a quasi-linear differentiation hierarchy where basal cells progress from Col17a1&lt;sup&gt;Hi&lt;/sup&gt;/Trp63&lt;sup&gt;Hi&lt;/sup&gt; state to early-response state, proliferate at the juncture of these two states, or become growth arrested before differentiating into spinous cells. Wound healing induces plasticity manifested by dynamic basal-spinous interconversions at multiple basal transcriptional states. Our study provides a systematic view of epidermal cellular dynamics, supporting a revised &amp;ldquo;hierarchical-lineage&amp;rdquo; model of homeostasis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>SpatialDB: a database for spatially resolved transcriptomes</title>
       <link>https://example.com/article/31713629/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>

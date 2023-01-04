@@ -140,6 +140,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>A reference map of the human binary protein interactome</title>
+      <link>https://example.com/article/32296183/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32296183/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Global insights into cellular organization and genome function require comprehensive understanding of the interactome networks that mediate genotype-phenotype relationships. Here we present a human &amp;lsquo;all-by-all&amp;rsquo; reference interactome map of human binary protein interactions, or &amp;lsquo;HuRI&amp;rsquo;. With approximately 53,000 protein-protein interactions, HuRI has approximately four times as many such interactions as there are high-quality curated interactions from small-scale studies. The integration of HuRI with genome, transcriptome and proteome data enables cellular function to be studied within most physiological or pathological cellular contexts. We demonstrate the utility of HuRI in identifying the specific subcellular roles of protein-protein interactions. Inferred tissue-specific networks reveal general principles for the formation of cellular context-specific functions and elucidate potential molecular mechanisms that might underlie tissue-specific phenotypes of Mendelian diseases. HuRI is a systematic proteome-wide reference that links genomic variation to phenotypic outcomes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Discovery of Protein-RNA Interactions</title>
       <link>https://example.com/tool/2019-10-25-pri/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>

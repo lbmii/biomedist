@@ -5,12 +5,62 @@
     <link>https://example.com/tag/metagenome/</link>
       <atom:link href="https://example.com/tag/metagenome/index.xml" rel="self" type="application/rss+xml" />
     <description>Metagenome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Metagenome</title>
       <link>https://example.com/tag/metagenome/</link>
     </image>
+    
+    <item>
+      <title>gutMEGA: a database of the human gut MEtaGenome Atlas</title>
+      <link>https://example.com/article/32496513/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32496513/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The gut microbiota plays important roles in human health through regulating both physiological homeostasis and disease emergence. The accumulation of metagenomic sequencing studies enables us to better understand the temporal and spatial variations of the gut microbiota under different physiological and pathological conditions. However, it is inconvenient for scientists to query and retrieve published data; thus, a comprehensive resource for the quantitative gut metagenome is urgently needed. In this study, we developed &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gut MEtaGenome Atlas (gutMEGA)&lt;/a&gt;, a well-annotated comprehensive database, to curate and host published quantitative gut microbiota datasets from Homo sapiens. By carefully curating the gut microbiota composition, phenotypes and experimental information, &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; finally integrated 59 132 quantification events for 6457 taxa at seven different levels (kingdom, phylum, class, order, family, genus and species) under 776 conditions. Moreover, with various browsing and search functions, &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; provides a fast and simple way for users to obtain the relative abundances of intestinal microbes among phenotypes. Overall, &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; is a convenient and comprehensive resource for gut metagenome research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Giant virus diversity and host interactions through global metagenomics</title>
+      <link>https://example.com/article/31968354/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31968354/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our current knowledge about nucleocytoplasmic large DNA viruses (NCLDVs) is largely derived from viral isolates that are co-cultivated with protists and algae. Here we reconstructed 2,074 NCLDV genomes from sampling sites across the globe by building on the rapidly increasing amount of publicly available metagenome data. This led to an 11-fold increase in phylogenetic diversity and a parallel 10-fold expansion in functional diversity. Analysis of 58,023 major capsid proteins from large and giant viruses using metagenomic data revealed the global distribution patterns and cosmopolitan nature of these viruses. The discovered viral genomes encoded a wide range of proteins with putative roles in photosynthesis and diverse substrate transport processes, indicating that host reprogramming is probably a common strategy in the NCLDVs. Furthermore, inferences of horizontal gene transfer connected viral lineages to diverse eukaryotic hosts. We anticipate that the global diversity of NCLDVs that we describe here will establish giant viruses-which are associated with most major eukaryotic lineages-as important players in ecosystems across Earth&amp;rsquo;s biomes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>GMrepo: a database of curated and consistently annotated human gut metagenomes</title>

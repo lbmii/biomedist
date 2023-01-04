@@ -5,12 +5,37 @@
     <link>https://example.com/tag/apoptosis/</link>
       <atom:link href="https://example.com/tag/apoptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Apoptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Apoptosis</title>
       <link>https://example.com/tag/apoptosis/</link>
     </image>
+    
+    <item>
+      <title>Identification of the PANoptosome: A Molecular Platform Triggering Pyroptosis, Apoptosis, and Necroptosis (PANoptosis)</title>
+      <link>https://example.com/article/32547960/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32547960/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Programmed cell death plays crucial roles in organismal development and host defense. Recent studies have highlighted mechanistic overlaps and extensive, multifaceted crosstalk between pyroptosis, apoptosis, and necroptosis, three programmed cell death pathways traditionally considered autonomous. The growing body of evidence, in conjunction with the identification of molecules controlling the concomitant activation of all three pathways by pathological triggers, has led to the development of the concept of PANoptosis. During PANoptosis, inflammatory cell death occurs through the collective activation of pyroptosis, apoptosis, and necroptosis, which can circumvent pathogen-mediated inhibition of individual death pathways. Many of the molecular details of this emerging pathway are unclear. Here, we describe the activation of PANoptosis by bacterial and viral triggers and report protein interactions that reveal the formation of a PANoptosome complex. Infection of macrophages with influenza A virus, vesicular stomatitis virus, Listeria monocytogenes, or Salmonella enterica serovar Typhimurium resulted in robust cell death and the hallmarks of PANoptosis activation. Combined deletion of the PANoptotic components caspase-1 (CASP1), CASP11, receptor-interacting serine/threonine-protein kinase 3 (RIPK3), and CASP8 largely protected macrophages from cell death induced by these pathogens, while deletion of individual components provided reduced or no protection. Further, molecules from the pyroptotic, apoptotic, and necroptotic cell death pathways interacted to form a single molecular complex that we have termed the PANoptosome. Overall, our study identifies pathogens capable of activating PANoptosis and the formation of a PANoptosome complex.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Caspase-8 is the molecular switch for apoptosis, necroptosis and pyroptosis</title>

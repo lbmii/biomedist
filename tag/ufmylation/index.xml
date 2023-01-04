@@ -5,12 +5,62 @@
     <link>https://example.com/tag/ufmylation/</link>
       <atom:link href="https://example.com/tag/ufmylation/index.xml" rel="self" type="application/rss+xml" />
     <description>UFMylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>UFMylation</title>
       <link>https://example.com/tag/ufmylation/</link>
     </image>
+    
+    <item>
+      <title>STK38 promotes ATM activation by acting as a reader of histone H4 ufmylation</title>
+      <link>https://example.com/article/32537488/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32537488/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ATM (ataxia-telangiectasia mutated) kinase is rapidly activated following DNA damage and phosphorylates its downstream targets to launch DDR signaling. Recently, we and others showed that UFM1 signaling promotes ATM activation. We further discovered that monoufmylation of histone H4 at Lys31 by UFM1-specific ligase 1 (UFL1) is an important step in the amplification of ATM activation. However, how monoufmylated H4 enhances ATM activation is still unknown. Here, we report STK38, a kinase in the Hippo pathway, serves as a reader for histone H4 ufmylation to promote ATM activation in a kinase-independent manner. STK38 contains a potential UFM1 binding motif which recognizes ufmylated H4 and recruits the SUV39H1 to the double-strand breaks, resulting in H3K9 trimethylation and Tip60 activation to promote ATM activation. Together, STK38 is a previously unknown player in DNA damage signaling and functions as a reader of monoufmylated H4 at Lys31 to promote ATM activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Genome-wide ER-phagy Screen Highlights Key Roles of Mitochondrial Metabolism and ER-Resident UFMylation</title>
+      <link>https://example.com/article/32160526/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32160526/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Selective autophagy of organelles is critical for cellular differentiation, homeostasis, and organismal health. Autophagy of the ER (ER-phagy) is implicated in human neuropathy but is poorly understood beyond a few autophagosomal receptors and remodelers. By using an ER-phagy reporter and genome-wide CRISPRi screening, we identified 200 high-confidence human ER-phagy factors. Two pathways were unexpectedly required for ER-phagy. First, reduced mitochondrial metabolism represses ER-phagy, which is opposite of general autophagy and is independent of AMPK. Second, ER-localized UFMylation is required for ER-phagy to repress the unfolded protein response via IRE1α. The UFL1 ligase is brought to the ER surface by DDRGK1 to UFMylate RPN1 and RPL26 and preferentially targets ER sheets for degradation, analogous to PINK1-Parkin regulation during mitophagy. Our data provide insight into the cellular logic of ER-phagy, reveal parallels between organelle autophagies, and provide an entry point to the relatively unexplored process of degrading the ER network.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>UFMylation of RPL26 links translocation-associated quality control to endoplasmic reticulum protein homeostasis</title>

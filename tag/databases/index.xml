@@ -407,6 +407,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>gutMEGA: a database of the human gut MEtaGenome Atlas</title>
+      <link>https://example.com/article/32496513/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32496513/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The gut microbiota plays important roles in human health through regulating both physiological homeostasis and disease emergence. The accumulation of metagenomic sequencing studies enables us to better understand the temporal and spatial variations of the gut microbiota under different physiological and pathological conditions. However, it is inconvenient for scientists to query and retrieve published data; thus, a comprehensive resource for the quantitative gut metagenome is urgently needed. In this study, we developed &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gut MEtaGenome Atlas (gutMEGA)&lt;/a&gt;, a well-annotated comprehensive database, to curate and host published quantitative gut microbiota datasets from Homo sapiens. By carefully curating the gut microbiota composition, phenotypes and experimental information, &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; finally integrated 59 132 quantification events for 6457 taxa at seven different levels (kingdom, phylum, class, order, family, genus and species) under 776 conditions. Moreover, with various browsing and search functions, &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; provides a fast and simple way for users to obtain the relative abundances of intestinal microbes among phenotypes. Overall, &lt;a href=&#34;http://gutmega.omicsbio.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMEGA&lt;/a&gt; is a convenient and comprehensive resource for gut metagenome research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Databases make long non-coding RNAs closer</title>
       <link>https://example.com/tool/2021-03-12-db-lnc-rna/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
@@ -601,6 +626,34 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>FluPhenotype-a one-stop platform for early warnings of the influenza A virus</title>
+      <link>https://example.com/article/32049310/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32049310/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FluPhenotype&lt;/a&gt; is an one-stop platform for early warnings of influenza A viruses. Complete or partial genome sequences, or protein sequences of influenza A viruses could be inputted. &lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FluPhenotype&lt;/a&gt; would automatically scan the genomic or protein sequences and output four kinds of information about the virus: the predicted antigenic and genetic relationship between the virus and the vaccine or reference strains,the predicted host of the virus, the mammalian virulence-related amino acids, and the drug-resistance related amino acids.&lt;/p&gt;
+&lt;!---more---&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation:&lt;/em&gt; Newly emerging influenza viruses keep challenging global public health. To evaluate the potential risk of the viruses, it is critical to rapidly determine the phenotypes of the viruses, including the antigenicity, host, virulence and drug resistance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here, we built &lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FluPhenotype&lt;/a&gt;, a one-stop platform to rapidly determinate the phenotypes of the influenza A viruses. The input of &lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FluPhenotype&lt;/a&gt; is the complete or partial genomic/protein sequences of the influenza A viruses. The output presents five types of information about the viruses: (i) sequence annotation including the gene and protein names as well as the open reading frames, (ii) potential hosts and human-adaptation-associated amino acid markers, (iii) antigenic and genetic relationships with the vaccine strains of different HA subtypes, (iv) mammalian virulence-related amino acid markers and (v) drug resistance-related amino acid markers. &lt;a href=&#34;http://www.computationalbiology.cn:18888/IVEW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FluPhenotype&lt;/a&gt; will be a useful bioinformatic tool for surveillance and early warnings of the newly emerging influenza A viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

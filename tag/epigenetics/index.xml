@@ -5,12 +5,37 @@
     <link>https://example.com/tag/epigenetics/</link>
       <atom:link href="https://example.com/tag/epigenetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Epigenetics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Epigenetics</title>
       <link>https://example.com/tag/epigenetics/</link>
     </image>
+    
+    <item>
+      <title>Transcriptomic and epigenetic mechanisms underlying myeloid diversity in the lung</title>
+      <link>https://example.com/article/31959980/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31959980/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The lung is inhabited by resident alveolar and interstitial macrophages as well as monocytic cells that survey lung tissues. Each cell type plays distinct functional roles under homeostatic and inflammatory conditions, but mechanisms establishing their molecular identities and functional potential remain poorly understood. In the present study, systematic evaluation of transcriptomes and open chromatin of alveolar macrophages (AMs), interstitial macrophages (IMs) and lung monocytes from two mouse strains enabled inference of common and cell-specific transcriptional regulators. We provide evidence that these factors drive selection of regulatory landscapes that specify distinct phenotypes of AMs and IMs and entrain qualitatively different responses to toll-like receptor 4 signaling in vivo. These studies reveal a striking divergence in a fundamental innate immune response pathway in AMs and establish a framework for further understanding macrophage diversity in the lung.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>LncRNA PTPRE-AS1 modulates M2 macrophage activation and inflammatory diseases by epigenetic promotion of PTPRE</title>

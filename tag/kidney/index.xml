@@ -5,12 +5,37 @@
     <link>https://example.com/tag/kidney/</link>
       <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Kidney</title>
       <link>https://example.com/tag/kidney/</link>
     </image>
+    
+    <item>
+      <title>Nuclear receptor PXR targets AKR1B7 to protect mitochondrial metabolism and renal function in AKI</title>
+      <link>https://example.com/article/32404507/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32404507/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute kidney injury (AKI) is a worldwide public health problem with no specific and satisfactory therapies in clinic. The nuclear pregnane X receptor (PXR) is involved in the progression of multiple diseases, including metabolic diseases, atherosclerosis, hypertension, liver injury, etc. However, its role in kidney injury remains to be understood. In this study, we have investigated the role of PXR in AKI and underlying mechanism(s) involved in its function. PXR was robustly down-regulated and negatively correlated with renal dysfunction in human and animal kidneys with AKI. Silencing PXR in rats enhanced cisplatin-induced AKI and induced severe mitochondrial abnormalities, whereas activating PXR protected against AKI. Using luciferase reporter assays, genomic manipulation, and proteomics data analysis on the kidneys of PXR&lt;sup&gt;-/-&lt;/sup&gt; rats, we determined that PXR targeted Aldo-keto reductase family 1, member B7 (AKR1B7) to improve mitochondrial function, thereby ameliorating AKI. We confirmed the protective role of PXR against kidney injury using genomic and pharmacologic approaches in an ischemia/reperfusion model of AKI. These findings demonstrate that disabling the PXR/AKR1B7/mitochondrial metabolism axis is an important factor that can contribute to AKI, whereas reestablishing this axis can be useful for treating AKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Single-cell transcriptomics of the mouse kidney reveals potential cellular targets of kidney disease</title>

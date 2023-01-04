@@ -5,12 +5,69 @@
     <link>https://example.com/tag/gasdermins/</link>
       <atom:link href="https://example.com/tag/gasdermins/index.xml" rel="self" type="application/rss+xml" />
     <description>Gasdermins</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gasdermins</title>
       <link>https://example.com/tag/gasdermins/</link>
     </image>
+    
+    <item>
+      <title>Granzyme A from cytotoxic lymphocytes cleaves GSDMB to trigger pyroptosis in target cells</title>
+      <link>https://example.com/article/32299851/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32299851/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In cellular immunity, cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells use perforin to deliver serine protease granzymes into target cells to kill them. Gasdermins are pore-forming proteins that execute pyroptosis, a form of proinflammatory cell death. Gasdermin D (GSDMD) is cleaved by caspase-1/4/5/11 upon inflammasome activation, releasing the pore-forming domain for plasma membrane disruption. Gasdermin E (GSDME) is similarly cleaved by caspase-3, converting apoptosis to pyroptosis. The functional mechanism for other gasdermins is unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rationale&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The view that granzymes induce target-cell apoptosis was proposed two decades ago, when apoptosis was thought to be the dominant form of programmed cell death and assays to ascertain apoptosis were insufficiently accurate. Furthermore, granzyme cytotoxicity was only assessed in a few cell types. Discovery of the gasdermin family, which are true cell death executors, has altered our understanding of programmed cell death. In this work, we explored whether members of the gasdermin family might respond to granzymes and induce pyroptosis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The expression of gasdermin B (GSDMB) but no other gasdermins in human embryonic kidney (HEK) 293T cells induced pyroptotic killing by NK cells, accompanied by an interdomain cleavage of GSDMB. These processes were blocked by inhibiting the perforin–granzyme pathway. In vitro profiling of all five human granzymes identified granzyme A (GZMA), which readily cleaved GSDMB, predominantly at Lys&lt;sup&gt;244&lt;/sup&gt; within the interdomain linker. This cleavage unmasked the pore-forming activity of GSDMB. GZMA, delivered into GSDMB-reconstituted cells by electroporation or perforin, induced extensive pyroptosis with interdomain cleavage of GSDMB. These effects were diminished by a K229A/K244A (KK/A) mutation of GSDMB. In cells normally undergoing apoptosis upon GZMA delivery, the additional expression of GZMA-cleavable GSDMB converted apoptosis into pyroptosis. Pyroptotic killing by NK cells was blocked by both the KK/AA mutation and a knockdown of &lt;em&gt;GZMA&lt;/em&gt; expression. Among 39 cell lines, three, including the esophageal carcinoma (OE19 cells), expressed GSDMB and underwent pyroptosis upon GZMA delivery. Knockout experiments revealed that pyroptosis in OE19 cells required the interdomain cleavage of GSDMB. Furthermore, GSDMB expression was up-regulated by interferon-γ (IFN-γ). Approximately one-third of GSDMB-negative cell lines showed IFN-γ–induced GSDMB expression. IFN-γ promoted GZMA- or NK cell–induced pyroptosis in several target cells. Primary T cells, including anti-CD19 chimeric-antigen receptor (CAR) T cells and NY-ESO-1–specific T cell receptor (TCR)–engineered T cells (TCR T cells), also induced pyroptosis in GSDMB-reconstituted cells through cleavage of GSDMB by GZMA. Introducing GZMA-cleavable GSDMB into mouse cancer cells promoted tumor clearance in mice. &lt;em&gt;GSDMB&lt;/em&gt; was highly expressed in certain tissues, particularly digestive tract epithelia, including the derived tumors. GSDMB appeared to be silenced in gastric and esophageal cancers. The Cancer Genome Atlas database recorded a strong positive correlation between &lt;em&gt;GSDMB&lt;/em&gt; expression and patient survival for bladder carcinoma and skin cutaneous melanoma.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GZMA from cytotoxic lymphocytes cleaves and activates GSDMB to induce target cell pyroptosis. This immune effector mechanism promotes CTL-mediated tumor clearance in mice. High GSDMB expression in the digestive system suggests the importance of GSDMB-mediated immunity in these tissues and will guide immunotherapy for related cancers. Our findings suggest that substrates such as gasdermins, rather than their upstream proteases, determine the nature of cell death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Structural Mechanism for GSDMD Targeting by Autoprocessed Caspases in Pyroptosis</title>
+      <link>https://example.com/article/32109412/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32109412/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The pyroptosis execution protein GSDMD is cleaved by inflammasome-activated caspase-1 and LPS-activated caspase-11/4/5. The cleavage unmasks the pore-forming domain from GSDMD-C-terminal domain. How the caspases recognize GSDMD and its connection with caspase activation are unknown. Here, we show site-specific caspase-4/11 autoprocessing, generating a p10 product, is required and sufficient for cleaving GSDMD and inducing pyroptosis. The p10-form autoprocessed caspase-4/11 binds the GSDMD-C domain with a high affinity. Structural comparison of autoprocessed and unprocessed capase-11 identifies a β sheet induced by the autoprocessing. In caspase-4/11-GSDMD-C complex crystal structures, the β sheet organizes a hydrophobic GSDMD-binding interface that is only possible for p10-form caspase-4/11. The binding promotes dimerization-mediated caspase activation, rendering a cleavage independently of the cleavage-site tetrapeptide sequence. Crystal structure of caspase-1-GSDMD-C complex shows a similar GSDMD-recognition mode. Our study reveals an unprecedented substrate-targeting mechanism for caspases. The hydrophobic interface suggests an additional space for developing inhibitors specific for pyroptotic caspases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Bacterial Endotoxin Activates the Coagulation Cascade through Gasdermin D-Dependent Phosphatidylserine Exposure</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>A Genome-wide ER-phagy Screen Highlights Key Roles of Mitochondrial Metabolism and ER-Resident UFMylation</title>
+      <link>https://example.com/article/32160526/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32160526/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Selective autophagy of organelles is critical for cellular differentiation, homeostasis, and organismal health. Autophagy of the ER (ER-phagy) is implicated in human neuropathy but is poorly understood beyond a few autophagosomal receptors and remodelers. By using an ER-phagy reporter and genome-wide CRISPRi screening, we identified 200 high-confidence human ER-phagy factors. Two pathways were unexpectedly required for ER-phagy. First, reduced mitochondrial metabolism represses ER-phagy, which is opposite of general autophagy and is independent of AMPK. Second, ER-localized UFMylation is required for ER-phagy to repress the unfolded protein response via IRE1α. The UFL1 ligase is brought to the ER surface by DDRGK1 to UFMylate RPN1 and RPL26 and preferentially targets ER sheets for degradation, analogous to PINK1-Parkin regulation during mitophagy. Our data provide insight into the cellular logic of ER-phagy, reveal parallels between organelle autophagies, and provide an entry point to the relatively unexplored process of degrading the ER network.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A bacteriophage nucleus-like compartment shields DNA from CRISPR nucleases</title>

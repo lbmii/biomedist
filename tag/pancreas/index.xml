@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pancreas | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/pancreas/</link>
+      <atom:link href="https://example.com/tag/pancreas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pancreas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Pancreas</title>
+      <link>https://example.com/tag/pancreas/</link>
+    </image>
+    
+    <item>
+      <title>Autophagy promotes immune evasion of pancreatic cancer by degrading MHC-I</title>
+      <link>https://example.com/article/32376951/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32376951/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immune evasion is a major obstacle for cancer treatment. Common mechanisms of evasion include impaired antigen presentation caused by mutations or loss of heterozygosity of the major histocompatibility complex class I (MHC-I), which has been implicated in resistance to immune checkpoint blockade (ICB) therapy. However, in pancreatic ductal adenocarcinoma (PDAC), which is resistant to most therapies including ICB, mutations that cause loss of MHC-I are rarely found despite the frequent downregulation of MHC-I expression. Here we show that, in PDAC, MHC-I molecules are selectively targeted for lysosomal degradation by an autophagy-dependent mechanism that involves the autophagy cargo receptor NBR1. PDAC cells display reduced expression of MHC-I at the cell surface and instead demonstrate predominant localization within autophagosomes and lysosomes. Notably, inhibition of autophagy restores surface levels of MHC-I and leads to improved antigen presentation, enhanced anti-tumour T cell responses and reduced tumour growth in syngeneic host mice. Accordingly, the anti-tumour effects of autophagy inhibition are reversed by depleting CD8&lt;sup&gt;+&lt;/sup&gt; T cells or reducing surface expression of MHC-I. Inhibition of autophagy, either genetically or pharmacologically with chloroquine, synergizes with dual ICB therapy (anti-PD1 and anti-CTLA4 antibodies), and leads to an enhanced anti-tumour immune response. Our findings demonstrate a role for enhanced autophagy or lysosome function in immune evasion by selective targeting of MHC-I molecules for degradation, and provide a rationale for the combination of autophagy inhibition and dual ICB therapy as a therapeutic strategy against PDAC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

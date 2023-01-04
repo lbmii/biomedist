@@ -295,6 +295,56 @@
     </item>
     
     <item>
+      <title>CellPhoneDB: inferring cell-cell communication from combined expression of multi-subunit ligand-receptor complexes</title>
+      <link>https://example.com/article/32103204/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32103204/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cell-cell communication mediated by ligand-receptor complexes is critical to coordinating diverse biological processes, such as development, differentiation and inflammation. To investigate how the context-dependent crosstalk of different cell types enables physiological processes to proceed, we developed &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt;, a novel repository of ligands, receptors and their interactions. In contrast to other repositories, our database takes into account the subunit architecture of both ligands and receptors, representing heteromeric complexes accurately. We integrated our resource with a statistical framework that predicts enriched cellular interactions between two cell types from single-cell transcriptomics data. Here, we outline the structure and content of our repository, provide procedures for inferring cell-cell communication networks from single-cell RNA sequencing data and present a practical step-by-step guide to help implement the protocol. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; v.2.0 is an updated version of our resource that incorporates additional functionalities to enable users to introduce new interacting molecules and reduces the time and resources needed to interrogate large datasets. &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; v.2.0 is publicly available, both as code and as a user-friendly web interface; it can be used by both experts and researchers with little experience in computational genomics. In our protocol, we demonstrate how to evaluate meaningful biological interactions with &lt;a href=&#34;https://www.cellphonedb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CellPhoneDB&lt;/strong&gt;&lt;/a&gt; v.2.0 using published datasets. This protocol typically takes ~2 h to complete, from installation to statistical analysis and visualization, for a dataset of ~10 GB, 10,000 cells and 19 cell types, and using five threads.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Using MicrobiomeAnalyst for comprehensive statistical, functional, and meta-analysis of microbiome data</title>
+      <link>https://example.com/article/31942082/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31942082/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.microbiomeanalyst.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MicrobiomeAnalyst&lt;/a&gt; is an easy-to-use, web-based platform for comprehensive analysis of common data outputs generated from current microbiome studies. It enables researchers and clinicians with little or no bioinformatics training to explore a wide variety of well-established methods for microbiome data processing, statistical analysis, functional profiling and comparison with public datasets or known microbial signatures. &lt;a href=&#34;https://www.microbiomeanalyst.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MicrobiomeAnalyst&lt;/a&gt; currently contains four modules: Marker-gene Data Profiling (MDP), Shotgun Data Profiling (SDP), Projection with Public Data (PPD), and Taxon Set Enrichment Analysis (TSEA). This protocol will first introduce the MDP module by providing a step-wise description of how to prepare, process and normalize data; perform community profiling; identify important features; and conduct correlation and classification analysis. We will then demonstrate how to perform predictive functional profiling and introduce several unique features of the SDP module for functional analysis. The last two sections will describe the key steps involved in using the PPD and TSEA modules for meta-analysis and visual exploration of the results. In summary, &lt;a href=&#34;https://www.microbiomeanalyst.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MicrobiomeAnalyst&lt;/a&gt; offers a one-stop shop that enables microbiome researchers to thoroughly explore their preprocessed microbiome data via intuitive web interfaces. The complete protocol can be executed in ~70 min.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>NicheNet: modeling intercellular communication by linking ligands to target genes</title>
       <link>https://example.com/article/31819264/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
@@ -486,6 +536,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
+      <link>https://example.com/article/32196115/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32196115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
