@@ -854,6 +854,84 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Integrated Protein-Protein Interaction and Weighted Gene Co-expression Network Analysis Uncover Three Key Genes in Hepatoblastoma</title>
+      <link>https://example.com/article/33718368/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33718368/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatoblastoma (HB) is the most common liver tumor in the pediatric population, with typically poor outcomes for advanced-stage or chemotherapy-refractory HB patients. The objective of this study was to identify genes involved in HB pathogenesis via microarray analysis and subsequent experimental validation. We identified 856 differentially expressed genes (DEGs) between HB and normal liver tissue based on two publicly available microarray datasets (GSE131329 and GSE75271) after data merging and batch effect correction. Protein-protein interaction (PPI) analysis and weighted gene co-expression network analysis (WGCNA) were conducted to explore HB-related critical modules and hub genes. Subsequently, Gene Ontology (GO) analysis was used to reveal critical biological functions in the initiation and progression of HB. Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis showed that genes involved in cell cycle phase transition and the PI3K/AKT signaling were associated with HB. The intersection of hub genes identified by both PPI and WGCNA analyses revealed five potential candidate genes. Based on receiver operating characteristic (ROC) curve analysis and reports in the literature, we selected CCNA2, CDK1, and CDC20 as key genes of interest to validate experimentally. CCNA2, CDK1, or CDC20 small interfering RNA (siRNA) knockdown inhibited aggressive biological properties of both HepG2 and HuH-6 cell lines in vitro. In conclusion, we identified CCNA2, CDK1, and CDC20 as new potential therapeutic biomarkers for HB, providing novel insights into important and viable targets in future HB treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification and Validation of Autophagy-Related Genes in Chronic Obstructive Pulmonary Disease</title>
+      <link>https://example.com/article/33469280/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33469280/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; Autophagy plays essential roles in the development of COPD. We aim to identify and validate the potential autophagy-related genes of COPD through bioinformatics analysis and experiment validation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The mRNA expression profile dataset GSE38974 was obtained from GEO database. The potential differentially expressed autophagy-related genes of COPD were screened by R software. Then, protein–protein interactions (PPI), correlation analysis, gene-ontology (GO) enrichment analysis and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis were applied for the differentially expressed autophagy-related genes. Finally, RNA expression of top five differentially expressed autophagy-related genes was validated in blood samples from COPD patients and healthy controls by qRT-PCR.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A total of 40 differentially expressed autophagy-related genes (14 up-regulated genes and 26 down-regulated genes) were identified between 23 COPD patients and 9 healthy controls. The PPI results demonstrated that these autophagy-related genes interacted with each other. The GO and KEGG enrichment analysis of differentially expressed autophagy-related genes indicated several enriched terms related to autophagy and mitophagy. The results of qRT-PCR showed that the expression levels of &lt;em&gt;HIF1A&lt;/em&gt;, &lt;em&gt;CDKN1A&lt;/em&gt;, &lt;em&gt;BAG3&lt;/em&gt;, &lt;em&gt;ERBB2&lt;/em&gt; and &lt;em&gt;ATG16L1&lt;/em&gt; in COPD patients and healthy controls were consistent with the bioinformatics analysis results from mRNA microarray.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We identified 40 potential autophagy-related genes of COPD through bioinformatics analysis. &lt;em&gt;HIF1A&lt;/em&gt;, &lt;em&gt;CDKN1A&lt;/em&gt;, &lt;em&gt;BAG3&lt;/em&gt;, &lt;em&gt;ERBB2&lt;/em&gt; and &lt;em&gt;ATG16L1&lt;/em&gt; may affect the development of COPD by regulating autophagy. These results may expand our understanding of COPD and might be useful in the treatment of COPD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>gcType: a high-quality type strain genome database for microbial phylogenetic and functional research</title>
+      <link>https://example.com/article/33119759/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33119759/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Taxonomic and functional research of microorganisms has increasingly relied upon genome-based data and methods. As the depository of the Global Catalogue of Microorganisms (GCM) 10K prokaryotic type strain sequencing project, &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Catalogue of Type Strain (gcType)&lt;/a&gt; has published 1049 type strain genomes sequenced by the GCM 10K project which are preserved in global culture collections with a valid published status. Additionally, the information provided through &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gcType&lt;/a&gt; includes &amp;gt;12 000 publicly available type strain genome sequences from GenBank incorporated using quality control criteria and standard data annotation pipelines to form a high-quality reference database. This database integrates type strain sequences with their phenotypic information to facilitate phenotypic and genotypic analyses. Multiple formats of cross-genome searches and interactive interfaces have allowed extensive exploration of the database&amp;rsquo;s resources. In this study, we describe web-based data analysis pipelines for genomic analyses and genome-based taxonomy, which could serve as a one-stop platform for the identification of prokaryotic species. The number of type strain genomes that are published will continue to increase as the GCM 10K project increases its collaboration with culture collections worldwide. Data of this project is shared with the International Nucleotide Sequence Database Collaboration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Comprehensive databases for biomedical research</title>
       <link>https://example.com/tool/db-biomed-res/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Omics | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/multi-omics/</link>
+      <atom:link href="https://example.com/tag/multi-omics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Omics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-Omics</title>
+      <link>https://example.com/tag/multi-omics/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal Multi-omics Reveals Subset-Specific Mechanisms Underlying Irritable Bowel Syndrome</title>
+      <link>https://example.com/article/32916129/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32916129/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.cell.com/cell/fulltext/S0092-8674%2820%2931447-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Longitudinal Multi-omics Reveals Subset-Specific Mechanisms Underlying Irritable Bowel Syndrome&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The gut microbiome has been implicated in multiple human chronic gastrointestinal (GI) disorders. Determining its mechanistic role in disease has been difficult due to apparent disconnects between animal and human studies and lack of an integrated multi-omics view of disease-specific physiological changes. We integrated longitudinal multi-omics data from the gut microbiome, metabolome, host epigenome, and transcriptome in the context of irritable bowel syndrome (IBS) host physiology. We identified IBS subtype-specific and symptom-related variation in microbial composition and function. A subset of identified changes in microbial metabolites correspond to host physiological mechanisms that are relevant to IBS. By integrating multiple data layers, we identified purine metabolism as a novel host-microbial metabolic pathway in IBS with translational potential. Our study highlights the importance of longitudinal sampling and integrating complementary multi-omics data to identify functional mechanisms that can serve as therapeutic targets in a comprehensive treatment strategy for chronic GI diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

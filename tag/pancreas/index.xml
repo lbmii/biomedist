@@ -5,12 +5,69 @@
     <link>https://example.com/tag/pancreas/</link>
       <atom:link href="https://example.com/tag/pancreas/index.xml" rel="self" type="application/rss+xml" />
     <description>Pancreas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Pancreas</title>
       <link>https://example.com/tag/pancreas/</link>
     </image>
+    
+    <item>
+      <title>TSPAN1 promotes autophagy flux and mediates cooperation between WNT-CTNNB1 signaling and autophagy via the MIR454-FAM83A-TSPAN1 axis in pancreatic cancer</title>
+      <link>https://example.com/article/32972302/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32972302/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pancreatic cancer is one of the most aggressive tumors associated with a poor clinical prognosis, weakly effective therapeutic options. Therefore, there is a strong impetus to discover new therapeutic targets in pancreatic cancer. In the present study, we first demonstrated that TSPAN1 is upregulated in pancreatic cancer and that TSPAN1 depletion decreases pancreatic cancer cell proliferation in vitro and in vivo. TSPAN1 expression was correlated with poor overall survival of pancreatic cancer patients. Moreover, we demonstrated that TSPAN1 is a novel positive regulator of macroautophagy/autophagy characterized by decreased LC3-II and SQSTM1/p62 expressions, inhibited puncta formation of GFP-LC3 and autophagic vacuoles. We also demonstrated that tspan1 mutation impaired autophagy in the zebrafish model. Furthermore, we showed that TSPAN1 promoted autophagy maturation via direct binding to LC3 by two conserved LIR motifs. Mutations in the LIR motifs of TSPAN1 resulted in a loss of the ability to induce autophagy and promote pancreatic cancer proliferation. Second, we discovered two conservative TCF/LEF binding elements present in the promoter region of the TSPAN1 gene, which was further verified through luciferase activity and ChIP assays. Furthermore, TSPAN1 was upregulated by FAM83A through the canonical WNT-CTNNB1 signaling pathway. We further demonstrated that both TSPAN1 and FAM83A are both direct targets of MIR454 (microRNA 454). Additionally, we revealed the role of MIR454-FAM83A-TSPAN1 in the proliferation of pancreatic cancer cells in vitro and in vivo. Our findings suggest that components of the MIR454-FAM83A-TSPAN1 axis may be valuable prognosis markers or therapeutic targets for pancreatic cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA PVT1 promotes gemcitabine resistance of pancreatic cancer via activating Wnt/β-catenin and autophagy pathway through modulating the miR-619-5p/Pygo2 and miR-619-5p/ATG14 axes</title>
+      <link>https://example.com/article/32727463/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32727463/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Pancreatic cancer is one of the most lethal malignancies and has an extremely poor diagnosis and prognosis. The development of resistance to gemcitabine is still a major challenge. The long noncoding RNA PVT1 was reported to be involved in carcinogenesis and chemoresistance; however, the mechanism by which PVT1 regulates the sensitivity of pancreatic cancer to gemcitabine remains poorly understood.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The viability of pancreatic cancer cells was assessed by MTT assay in vitro and xenograft tumor formation assay in vivo. The expression levels of PVT1 and miR-619-5p were detected by quantitative real-time polymerase chain reaction (qRT-PCR). Western blotting analysis and qRT-PCR were performed to assess the protein and mRNA levels of Pygo2 and ATG14, respectively. Autophagy was explored via autophagic flux detection under confocal microscopy and autophagic vacuole investigation under transmission electron microscopy (TEM). The functional role and mechanism of PVT1 were further investigated by gain- and loss-of-function assays in vitro.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In the present study, we demonstrated that PVT1 was up-regulated in gemcitabine-resistant pancreatic cancer cell lines. Gain- and loss-of-function assays revealed that PVT1 impaired sensitivity to gemcitabine in vitro and in vivo. We further found that PVT1 up-regulated the expression of both Pygo2 and ATG14 and thus regulated Wnt/β-catenin signaling and autophagic activity to overcome gemcitabine resistance through sponging miR-619-5p. Moreover, we discovered three TCF/LEF binding elements (TBEs) in the promoter region of PVT1, and activation of Wnt/β-catenin signaling mediated by the up-regulation of Pygo2 increased PVT1 expression by direct binding to the TBE region. Furthermore, PVT1 was discovered to interact with ATG14, thus promoting assembly of the autophagy specific complex I (PtdIns3K-C1) and ATG14-dependent class III PtdIns3K activity.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;These data indicate that PVT1 plays a critical role in the sensitivity of pancreatic cancer to gemcitabine and highlight its potential as a valuable target for pancreatic cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Autophagy promotes immune evasion of pancreatic cancer by degrading MHC-I</title>

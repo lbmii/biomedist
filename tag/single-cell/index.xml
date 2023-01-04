@@ -98,6 +98,134 @@
     </item>
     
     <item>
+      <title>Spatiotemporal dissection of the cell cycle with single-cell proteogenomics</title>
+      <link>https://example.com/article/33627808/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33627808/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The cell cycle, over which cells grow and divide, is a fundamental process of life. Its dysregulation has devastating consequences, including cancer. The cell cycle is driven by precise regulation of proteins in time and space, which creates variability between individual proliferating cells. To our knowledge, no systematic investigations of such cell-to-cell proteomic variability exist. Here we present a comprehensive, spatiotemporal map of human proteomic heterogeneity by integrating proteomics at subcellular resolution with single-cell transcriptomics and precise temporal measurements of individual cells in the cell cycle. We show that around one-fifth of the human proteome displays cell-to-cell variability, identify hundreds of proteins with previously unknown associations with mitosis and the cell cycle, and provide evidence that several of these proteins have oncogenic functions. Our results show that cell cycle progression explains less than half of all cell-to-cell variability, and that most cycling proteins are regulated post-translationally, rather than by transcriptomic cycling. These proteins are disproportionately phosphorylated by kinases that regulate cell fate, whereas non-cycling proteins that vary between cells are more likely to be modified by kinases that regulate metabolism. This spatially resolved proteomic map of the cell cycle is integrated into the Human Protein Atlas and will serve as a resource for accelerating molecular studies of the human cell cycle and cell proliferation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>scGMAI: a Gaussian mixture model for clustering single-cell RNA-Seq data based on deep autoencoder</title>
+      <link>https://example.com/article/33300547/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33300547/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The rapid development of single-cell RNA sequencing (scRNA-Seq) technology provides strong technical support for accurate and efficient analyzing single-cell gene expression data. However, the analysis of scRNA-Seq is accompanied by many obstacles, including dropout events and the curse of dimensionality. Here, we propose the scGMAI, which is a new single-cell Gaussian mixture clustering method based on autoencoder networks and the fast independent component analysis (FastICA). Specifically, scGMAI utilizes autoencoder networks to reconstruct gene expression values from scRNA-Seq data and FastICA is used to reduce the dimensions of reconstructed data. The integration of these computational techniques in scGMAI leads to outperforming results compared to existing tools, including Seurat, in clustering cells from 17 public scRNA-Seq datasets. In summary, scGMAI is an effective tool for accurately clustering and identifying cell types from scRNA-Seq data and shows the great potential of its applicative power in scRNA-Seq data analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A molecular cell atlas of the human lung from single-cell RNA sequencing</title>
+      <link>https://example.com/article/33208946/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33208946/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although single-cell RNA sequencing studies have begun to provide compendia of cell expression profiles, it has been difficult to systematically identify and localize all molecular cell types in individual organs to create a full molecular cell atlas. Here, using droplet- and plate-based single-cell RNA sequencing of approximately 75,000 human cells across all lung tissue compartments and circulating blood, combined with a multi-pronged cell annotation approach, we create an extensive cell atlas of the human lung. We define the gene expression profiles and anatomical locations of 58 cell populations in the human lung, including 41 out of 45 previously known cell types and 14 previously unknown ones. This comprehensive molecular atlas identifies the biochemical functions of lung cells and the transcription factors and markers for making and monitoring them; defines the cell targets of circulating hormones and predicts local signalling interactions and immune cell homing; and identifies cell types that are directly affected by lung disease genes and respiratory viruses. By comparing human and mouse data, we identified 17 molecular cell types that have been gained or lost during lung evolution and others with substantially altered expression profiles, revealing extensive plasticity of cell types and cell-type-specific gene expression during organ evolution including expression switches between cell types. This atlas provides the molecular foundation for investigating how lung cell identities, functions and interactions are achieved in development and tissue engineering and altered in disease and evolution.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mesenchymal stem cells alleviate LPS-induced acute lung injury by inhibiting the proinflammatory function of Ly6C&#43; CD8&#43; T cells</title>
+      <link>https://example.com/article/33024074/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33024074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Systemic inflammatory processes, including alveolar injury, cytokine induction, and neutrophil accumulation, play key roles in the pathophysiology of acute lung injury (ALI). The immunomodulatory effects of mesenchymal stem cells (MSCs) can contribute to the treatment of inflammatory disorders. In previous studies, the focus was on innate immune cells and the effects of MSCs on ALI through CD8&lt;sup&gt;+&lt;/sup&gt; T cells remain unclear. In the present study, lipopolysaccharide (LPS) was used to induce ALI in mice. ALI mice were treated with MSCs via intratracheal instillation. Survival rate, histopathological changes, protein levels, total cell count, cytokine levels, and chemokine levels in alveolar lavage fluid were used to determine the efficacy of MSCs. Mass cytometry and single-cell RNA sequencing (scRNA-seq) were used to characterize the CD8&lt;sup&gt;+&lt;/sup&gt; T cells in the lungs. Ly6C&lt;sup&gt;-&lt;/sup&gt; CD8&lt;sup&gt;+&lt;/sup&gt; T cells are prevalent in normal mice, whereas a specialized effector phenotype expressing a high level of Ly6C is predominant in advanced disease. MSCs significantly mitigated ALI and improved survival. MSCs decreased the infiltration of CD8&lt;sup&gt;+&lt;/sup&gt; T cells, especially Ly6C&lt;sup&gt;+&lt;/sup&gt; CD8&lt;sup&gt;+&lt;/sup&gt; T cells into the lungs. Mass cytometry revealed that CD8&lt;sup&gt;+&lt;/sup&gt; T cells expressing high Ly6C and CXCR3 levels caused tissue damage in the lungs of ALI mice, which was alleviated by MSCs. The scRNA-seq showed that Ly6C&lt;sup&gt;+&lt;/sup&gt; CD8&lt;sup&gt;+&lt;/sup&gt; T cells exhibited a more activated phenotype and decreased expression of proinflammatory factors that were enriched the most in immune chemotaxis after treatment with MSCs. We showed that CD8&lt;sup&gt;+&lt;/sup&gt; T cells play an important role in MSC-mediated ALI remission, and both infiltration quantity and proinflammatory function were inhibited by MSCs, indicating a potential mechanism for therapeutic intervention.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive effects of mesenchymal stem cells on lung B cell gene expression in LPS-induced acute lung injury</title>
+      <link>https://example.com/article/32977837/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32977837/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Immune system disorders play important roles in acute lung injury (ALI), and mesenchymal stem cell (MSC) treatment can reduce inflammation during ALI. In this study, we compared the changes in lung B cells during MSC treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We investigated the effects of MSCs on lung B cells in a mouse model of lipopolysaccharide (LPS)-induced ALI. MSCs were administered intratracheally 4 h after LPS. As vehicle-treated controls, mice were treated with phosphate-buffered saline (PBS) containing 2% C57BL/6 (PBS group). Histopathological changes, survival rate, inflammatory factor levels, and the number of neutrophils in bronchoalveolar lavage fluid (BALF) were determined. Single-cell RNA sequencing (scRNA-Seq) analysis was performed to evaluate the transcriptional changes in lung B cells between the PBS, LPS, and LPS/MSC groups on days 3 and 7.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; MSC treatment ameliorated LPS-induced ALI, as indicated by the reductions in mortality, the levels of chemokines and cytokines in BALF, and the severity of lung tissue histopathology in ALI mice. Lung B cells in the PBS group remained undifferentiated and had an inhibitory phenotype. Based on our scRNA-Seq results, the differentially expressed genes (DEGs) in lung B cells in both the PBS group and LPS group were involved in chemotaxis processes and some proinflammatory pathways. MSC treatment inhibited the expression of chemokine genes that were upregulated by LPS and were related to the recruitment of neutrophils into lung tissues. Immunoglobulin-related gene expression was decreased in lung B cells of mice treated with LPS/MSC for 7 days. The DEGs regulated by MSCs were enriched in biological processes, including humoral immune response and apoptotic signaling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Lung B cells played an important role in the effects of treatment of ALI with MSCs. These observations provide new insights into the mechanisms underlying the effects of MSC treatment for ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Deciphering human macrophage development at single-cell resolution</title>
       <link>https://example.com/article/32499656/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
@@ -412,6 +540,34 @@
       <guid>https://example.com/article/24658644/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Defining the transcriptional dynamics of a temporal process such as cell differentiation is challenging owing to the high variability in gene expression between individual cells. Time-series gene expression analyses of bulk cells have difficulty distinguishing early and late phases of a transcriptional cascade or identifying rare subpopulations of cells, and single-cell proteomic methods rely on a priori knowledge of key distinguishing markers. Here we describe Monocle, an unsupervised algorithm that increases the temporal resolution of transcriptome dynamics using single-cell RNA-Seq data collected at multiple time points. Applied to the differentiation of primary human myoblasts, Monocle revealed switch-like changes in expression of key regulatory factors, sequential waves of gene regulation, and expression of regulators that were not known to act in differentiation. We validated some of these predicted regulators in a loss-of function screen. Monocle can in principle be used to recover single-cell gene expression kinetics from a wide array of cellular processes, including differentiation, proliferation and oncogenic transformation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mesenchymal stem cell-mediated immunomodulation of recruited mononuclear phagocytes during acute lung injury: a high-dimensional analysis study</title>
+      <link>https://example.com/article/33500722/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33500722/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Acute lung injury (ALI)-recruited mononuclear phagocytes play a pivotal role in lung injury and repair. This study investigated the types of recruited mononuclear phagocytes and the immunotherapeutic effects of allograft mesenchymal stem cells (MSCs) in a mouse model of lipopolysaccharide (LPS)-induced ALI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; C57BL/6 mice were orotracheally instilled with LPS (20 mg/kg). Compact bone-derived MSCs were administered orotracheally 4 h after LPS inhalation. Mononuclear phagocytes recruited in the lung tissues were characterized at different timepoints by high-dimensional analysis including flow cytometry, mass cytometry, and single-cell RNA sequencing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Eight mononuclear phagocyte subsets recruited to LPS-challenged lungs were precisely identified. On day 3 after LPS administration, both Ly6C&lt;sup&gt;hi&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; and Ly6C&lt;sup&gt;low&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes were recruited into acutely injured lungs, which was associated with increased secretion of neutrophil chemokines. Ly6C&lt;sup&gt;hi&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes differentiated into M1 macrophages on day 3, and subsequently differentiated into CD38&lt;sup&gt;+&lt;/sup&gt; monocyte-derived dendritic cells (mo-DCs) on day 7, while Ly6C&lt;sup&gt;low&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes differentiated into CD11b&lt;sup&gt;+&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; DCs on day 7. When ALI mice were treated with MSCs, the mortality significantly reduced. Notably, MSCs reduced the amount of M1 macrophages and reduced the secretion of neutrophil chemokines on day 3. Furthermore, MSCs reduced the number of CD38&lt;sup&gt;+&lt;/sup&gt; mo-DCs and CD11b&lt;sup&gt;+&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; DCs on day 7, suppressing the antigen presentation process. Recruited mononuclear phagocyte subsets with a high level of CD38 exhibited an activated phenotype and could secrete higher levels of cytokines and chemokines.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This study characterized the dynamic functions and phenotypes of recruited mononuclear phagocytes in ALI mice and MSC-treated ALI mice.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

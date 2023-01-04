@@ -5,12 +5,96 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>A genome-wide CRISPR screen identifies UFMylation and TRAMP-like complexes as host factors required for hepatitis A virus infection</title>
+      <link>https://example.com/article/33730579/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33730579/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A genome-wide CRISPR screen identifies host factors important for hepatitis A virus&lt;/li&gt;
+&lt;li&gt;UFMylation of the ribosomal protein RPL26 enhances viral translation&lt;/li&gt;
+&lt;li&gt;PAPD5/7-ZCCHC14 TRAMP-like complexes are important for hepatitis A virus&lt;/li&gt;
+&lt;li&gt;Pharmacological inhibition of PAPD5/7 reduces hepatitis A virus replication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatitis A virus (HAV) is a positive-sense RNA virus causing acute inflammation of the liver. Here, using a genome-scale CRISPR screen, we provide a comprehensive picture of the cellular factors that are exploited by HAV. We identify genes involved in sialic acid/ganglioside biosynthesis and members of the eukaryotic translation initiation factor complex, corroborating their putative roles for HAV. Additionally, we uncover all components of the cellular machinery for UFMylation, a ubiquitin-like protein modification. We show that HAV translation specifically depends on UFM1 conjugation of the ribosomal protein RPL26. Furthermore, we find that components related to the yeast Trf4/5-Air1/2-Mtr4 polyadenylation (TRAMP) complex are required for viral translation independent of controlling viral poly(A) tails or RNA stability. Finally, we demonstrate that pharmacological inhibition of the TRAMP-like complex decreases HAV replication in hepatocyte cells and human liver organoids, thus providing a strategy for host-directed therapy of HAV infection&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>High-throughput functional variant screens via in vivo production of single-stranded DNA</title>
+      <link>https://example.com/article/33906944/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33906944/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Creating and characterizing individual genetic variants remains limited in scale, compared to the tremendous variation both existing in nature and envisioned by genome engineers. Here we introduce retron library recombineering (RLR), a methodology for high-throughput functional screens that surpasses the scale and specificity of CRISPR-Cas methods. We use the targeted reverse-transcription activity of retrons to produce single-stranded DNA (ssDNA) in vivo, incorporating edits at &amp;gt;90% efficiency and enabling multiplexed applications. RLR simultaneously introduces many genomic variants, producing pooled and barcoded variant libraries addressable by targeted deep sequencing. We use RLR for pooled phenotyping of synthesized antibiotic resistance alleles, demonstrating quantitative measurement of relative growth rates. We also perform RLR using the sheared genomic DNA of an evolved bacterium, experimentally querying millions of sequences for causal variants, demonstrating that RLR is uniquely suited to utilize large pools of natural variation. Using ssDNA produced in vivo for pooled experiments presents avenues for exploring variation across the genome.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We report a methodology for the pooled construction of mutants bearing precise genomic sequence variations and multiplex phenotypic characterization of these mutants using next-generation sequencing (NGS). Unlike existing techniques depending on CRISPR-Cas–directed genomic breaks for genome editing, this strategy instead uses single-stranded DNA produced by a retron element for recombineering. This enables libraries of millions of elements to be constructed and offers relaxed design constraints which permit natural DNA or random variation to be used as inputs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Screening for functional circular RNAs using the CRISPR-Cas13 system</title>
+      <link>https://example.com/article/33288960/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33288960/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) produced from back-spliced exons are widely expressed, but individual circRNA functions remain poorly understood owing to the lack of adequate methods for distinguishing circRNAs from cognate messenger RNAs with overlapping exons. Here, we report that CRISPR-RfxCas13d can effectively discriminate circRNAs from mRNAs by using guide RNAs targeting sequences spanning back-splicing junction (BSJ) sites featured in RNA circles. Using a lentiviral library that targets sequences across BSJ sites of highly expressed human circRNAs, we show that a group of circRNAs are important for cell growth mostly in a cell-type-specific manner and that a common oncogenic circRNA, circFAM120A, promotes cell proliferation by preventing the mRNA for family with sequence similarity 120A (FAM120A) from binding the translation inhibitor IGF2BP2. Further application of RfxCas13d-BSJ-gRNA screening has uncovered circMan1a2, which has regulatory potential in mouse embryo preimplantation development. Together, these results establish CRISPR-RfxCas13d as a useful tool for the discovery and functional study of circRNAs at both individual and large-scale levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A Genome-wide ER-phagy Screen Highlights Key Roles of Mitochondrial Metabolism and ER-Resident UFMylation</title>

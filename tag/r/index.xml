@@ -815,6 +815,56 @@
     </item>
     
     <item>
+      <title>Inference and analysis of cell-cell communication using CellChat</title>
+      <link>https://example.com/article/33597522/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33597522/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Understanding global communications among cells requires accurate representation of cell-cell signaling links and effective systems-level analyses of those links. We construct a database of interactions among ligands, receptors and their cofactors that accurately represent known heteromeric molecular complexes. We then develop &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt;, a tool that is able to quantitatively infer and analyze intercellular communication networks from single-cell RNA-sequencing (scRNA-seq) data. &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; predicts major signaling inputs and outputs for cells and how those cells and signals coordinate for functions using network analysis and pattern recognition approaches. Through manifold learning and quantitative contrasts, &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; classifies signaling pathways and delineates conserved and context-specific pathways across different datasets. Applying &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; to mouse and human skin datasets shows its ability to extract complex signaling patterns. Our versatile and easy-to-use toolkit &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; and &lt;a href=&#34;http://www.cellchat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;a web-based Explorer&lt;/strong&gt;&lt;/a&gt; will help discover novel intercellular communications and build cell-cell communication atlases in diverse tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>scGMAI: a Gaussian mixture model for clustering single-cell RNA-Seq data based on deep autoencoder</title>
+      <link>https://example.com/article/33300547/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33300547/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The rapid development of single-cell RNA sequencing (scRNA-Seq) technology provides strong technical support for accurate and efficient analyzing single-cell gene expression data. However, the analysis of scRNA-Seq is accompanied by many obstacles, including dropout events and the curse of dimensionality. Here, we propose the scGMAI, which is a new single-cell Gaussian mixture clustering method based on autoencoder networks and the fast independent component analysis (FastICA). Specifically, scGMAI utilizes autoencoder networks to reconstruct gene expression values from scRNA-Seq data and FastICA is used to reduce the dimensions of reconstructed data. The integration of these computational techniques in scGMAI leads to outperforming results compared to existing tools, including Seurat, in clustering cells from 17 public scRNA-Seq datasets. In summary, scGMAI is an effective tool for accurately clustering and identifying cell types from scRNA-Seq data and shows the great potential of its applicative power in scRNA-Seq data analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Data Visualization with R</title>
       <link>https://example.com/books/2020-12-01-data-vis-r/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>

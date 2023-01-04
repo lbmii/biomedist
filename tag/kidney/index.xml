@@ -5,12 +5,37 @@
     <link>https://example.com/tag/kidney/</link>
       <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Kidney</title>
       <link>https://example.com/tag/kidney/</link>
     </image>
+    
+    <item>
+      <title>The PINK1/PARK2/optineurin pathway of mitophagy is activated for protection in septic acute kidney injury</title>
+      <link>https://example.com/article/33137712/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33137712/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sepsis is the major cause of acute kidney injury (AKI) associated with high mortality rates. Mitochondrial dysfunction contributes to the pathophysiology of septic AKI. Mitophagy is an important mitochondrial quality control mechanism that selectively eliminates damaged mitochondria, but its role and regulation in septic AKI remain largely unknown. Here, we demonstrate the induction of mitophagy in mouse models of septic AKI induced by lipopolysaccharide (LPS) treatment or by cecal ligation and puncture. Mitophagy was also induced in cultured proximal tubular epithelial cells exposed to LPS. Induction of mitophagy under these experimental setting was suppressed by pink1 or park2 knockout, indicating the role of the PINK1/PARK2 pathway of mitophagy in septic AKI. In addition, sepsis induced more severe kidney injury and cell apoptosis in pink1 or park2 knockout mice than in wild-type mice, suggesting a beneficial role of mitophagy in septic AKI. Furthermore, in cultured renal tubular cells treated with LPS, knockdown of pink1 or park2 inhibited mitochondrial accumulation of the autophagy adaptor optineurin (OPTN) and silencing Optn inhibited LPS-induced mitophagy. Taken together, these findings suggest that the PINK1/PARK2 pathway of mitophagy plays an important role in mitochondrial quality control, tubular cell survival, and renal function in septic AKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Nuclear receptor PXR targets AKR1B7 to protect mitochondrial metabolism and renal function in AKI</title>

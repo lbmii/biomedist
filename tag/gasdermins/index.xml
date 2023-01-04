@@ -5,12 +5,37 @@
     <link>https://example.com/tag/gasdermins/</link>
       <atom:link href="https://example.com/tag/gasdermins/index.xml" rel="self" type="application/rss+xml" />
     <description>Gasdermins</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gasdermins</title>
       <link>https://example.com/tag/gasdermins/</link>
     </image>
+    
+    <item>
+      <title>Intracellular immune sensing promotes inflammation via gasdermin D-driven release of a lectin alarmin</title>
+      <link>https://example.com/article/33398185/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33398185/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammatory caspase sensing of cytosolic lipopolysaccharide (LPS) triggers pyroptosis and the concurrent release of damage-associated molecular patterns (DAMPs). Collectively, DAMPs are key determinants that shape the aftermath of inflammatory cell death. However, the identity and function of the individual DAMPs released are poorly defined. Our proteomics study revealed that cytosolic LPS sensing triggered the release of galectin-1, a β-galactoside-binding lectin. Galectin-1 release is a common feature of inflammatory cell death, including necroptosis. In vivo studies using galectin-1-deficient mice, recombinant galectin-1 and galectin-1-neutralizing antibody showed that galectin-1 promotes inflammation and plays a detrimental role in LPS-induced lethality. Mechanistically, galectin-1 inhibition of CD45 (&lt;em&gt;Ptprc&lt;/em&gt;) underlies its unfavorable role in endotoxin shock. Finally, we found increased galectin-1 in sera from human patients with sepsis. Overall, we uncovered galectin-1 as a bona fide DAMP released as a consequence of cytosolic LPS sensing, identifying a new outcome of inflammatory cell death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Granzyme A from cytotoxic lymphocytes cleaves GSDMB to trigger pyroptosis in target cells</title>

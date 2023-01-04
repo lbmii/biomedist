@@ -5,12 +5,65 @@
     <link>https://example.com/tag/stem-cell/</link>
       <atom:link href="https://example.com/tag/stem-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Stem Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Stem Cell</title>
       <link>https://example.com/tag/stem-cell/</link>
     </image>
+    
+    <item>
+      <title>Mesenchymal stem cells alleviate LPS-induced acute lung injury by inhibiting the proinflammatory function of Ly6C&#43; CD8&#43; T cells</title>
+      <link>https://example.com/article/33024074/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33024074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Systemic inflammatory processes, including alveolar injury, cytokine induction, and neutrophil accumulation, play key roles in the pathophysiology of acute lung injury (ALI). The immunomodulatory effects of mesenchymal stem cells (MSCs) can contribute to the treatment of inflammatory disorders. In previous studies, the focus was on innate immune cells and the effects of MSCs on ALI through CD8&lt;sup&gt;+&lt;/sup&gt; T cells remain unclear. In the present study, lipopolysaccharide (LPS) was used to induce ALI in mice. ALI mice were treated with MSCs via intratracheal instillation. Survival rate, histopathological changes, protein levels, total cell count, cytokine levels, and chemokine levels in alveolar lavage fluid were used to determine the efficacy of MSCs. Mass cytometry and single-cell RNA sequencing (scRNA-seq) were used to characterize the CD8&lt;sup&gt;+&lt;/sup&gt; T cells in the lungs. Ly6C&lt;sup&gt;-&lt;/sup&gt; CD8&lt;sup&gt;+&lt;/sup&gt; T cells are prevalent in normal mice, whereas a specialized effector phenotype expressing a high level of Ly6C is predominant in advanced disease. MSCs significantly mitigated ALI and improved survival. MSCs decreased the infiltration of CD8&lt;sup&gt;+&lt;/sup&gt; T cells, especially Ly6C&lt;sup&gt;+&lt;/sup&gt; CD8&lt;sup&gt;+&lt;/sup&gt; T cells into the lungs. Mass cytometry revealed that CD8&lt;sup&gt;+&lt;/sup&gt; T cells expressing high Ly6C and CXCR3 levels caused tissue damage in the lungs of ALI mice, which was alleviated by MSCs. The scRNA-seq showed that Ly6C&lt;sup&gt;+&lt;/sup&gt; CD8&lt;sup&gt;+&lt;/sup&gt; T cells exhibited a more activated phenotype and decreased expression of proinflammatory factors that were enriched the most in immune chemotaxis after treatment with MSCs. We showed that CD8&lt;sup&gt;+&lt;/sup&gt; T cells play an important role in MSC-mediated ALI remission, and both infiltration quantity and proinflammatory function were inhibited by MSCs, indicating a potential mechanism for therapeutic intervention.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive effects of mesenchymal stem cells on lung B cell gene expression in LPS-induced acute lung injury</title>
+      <link>https://example.com/article/32977837/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32977837/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Immune system disorders play important roles in acute lung injury (ALI), and mesenchymal stem cell (MSC) treatment can reduce inflammation during ALI. In this study, we compared the changes in lung B cells during MSC treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We investigated the effects of MSCs on lung B cells in a mouse model of lipopolysaccharide (LPS)-induced ALI. MSCs were administered intratracheally 4 h after LPS. As vehicle-treated controls, mice were treated with phosphate-buffered saline (PBS) containing 2% C57BL/6 (PBS group). Histopathological changes, survival rate, inflammatory factor levels, and the number of neutrophils in bronchoalveolar lavage fluid (BALF) were determined. Single-cell RNA sequencing (scRNA-Seq) analysis was performed to evaluate the transcriptional changes in lung B cells between the PBS, LPS, and LPS/MSC groups on days 3 and 7.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; MSC treatment ameliorated LPS-induced ALI, as indicated by the reductions in mortality, the levels of chemokines and cytokines in BALF, and the severity of lung tissue histopathology in ALI mice. Lung B cells in the PBS group remained undifferentiated and had an inhibitory phenotype. Based on our scRNA-Seq results, the differentially expressed genes (DEGs) in lung B cells in both the PBS group and LPS group were involved in chemotaxis processes and some proinflammatory pathways. MSC treatment inhibited the expression of chemokine genes that were upregulated by LPS and were related to the recruitment of neutrophils into lung tissues. Immunoglobulin-related gene expression was decreased in lung B cells of mice treated with LPS/MSC for 7 days. The DEGs regulated by MSCs were enriched in biological processes, including humoral immune response and apoptotic signaling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Lung B cells played an important role in the effects of treatment of ALI with MSCs. These observations provide new insights into the mechanisms underlying the effects of MSC treatment for ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Long-Term Culture Captures Injury-Repair Cycles of Colonic Stem Cells</title>
@@ -19,6 +72,34 @@
       <guid>https://example.com/article/31708126/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The colonic epithelium can undergo multiple rounds of damage and repair, often in response to excessive inflammation. The responsive stem cell that mediates this process is unclear, in part because of a lack of in vitro models that recapitulate key epithelial changes that occur in vivo during damage and repair. Here, we identify a Hopx&lt;sup&gt;+&lt;/sup&gt; colitis-associated regenerative stem cell (CARSC) population that functionally contributes to mucosal repair in mouse models of colitis. Hopx&lt;sup&gt;+&lt;/sup&gt; CARSCs, enriched for fetal-like markers, transiently arose from hypertrophic crypts known to facilitate regeneration. Importantly, we established a long-term, self-organizing two-dimensional (2D) epithelial monolayer system to model the regenerative properties and responses of Hopx&lt;sup&gt;+&lt;/sup&gt; CARSCs. This system can reenact the &amp;ldquo;homeostasis-injury-regeneration&amp;rdquo; cycles of epithelial alterations that occur in vivo. Using this system, we found that hypoxia and endoplasmic reticulum stress, insults commonly present in inflammatory bowel diseases, mediated the cyclic switch of cellular status in this process.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mesenchymal stem cell-mediated immunomodulation of recruited mononuclear phagocytes during acute lung injury: a high-dimensional analysis study</title>
+      <link>https://example.com/article/33500722/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33500722/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Acute lung injury (ALI)-recruited mononuclear phagocytes play a pivotal role in lung injury and repair. This study investigated the types of recruited mononuclear phagocytes and the immunotherapeutic effects of allograft mesenchymal stem cells (MSCs) in a mouse model of lipopolysaccharide (LPS)-induced ALI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; C57BL/6 mice were orotracheally instilled with LPS (20 mg/kg). Compact bone-derived MSCs were administered orotracheally 4 h after LPS inhalation. Mononuclear phagocytes recruited in the lung tissues were characterized at different timepoints by high-dimensional analysis including flow cytometry, mass cytometry, and single-cell RNA sequencing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Eight mononuclear phagocyte subsets recruited to LPS-challenged lungs were precisely identified. On day 3 after LPS administration, both Ly6C&lt;sup&gt;hi&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; and Ly6C&lt;sup&gt;low&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes were recruited into acutely injured lungs, which was associated with increased secretion of neutrophil chemokines. Ly6C&lt;sup&gt;hi&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes differentiated into M1 macrophages on day 3, and subsequently differentiated into CD38&lt;sup&gt;+&lt;/sup&gt; monocyte-derived dendritic cells (mo-DCs) on day 7, while Ly6C&lt;sup&gt;low&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; monocytes differentiated into CD11b&lt;sup&gt;+&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; DCs on day 7. When ALI mice were treated with MSCs, the mortality significantly reduced. Notably, MSCs reduced the amount of M1 macrophages and reduced the secretion of neutrophil chemokines on day 3. Furthermore, MSCs reduced the number of CD38&lt;sup&gt;+&lt;/sup&gt; mo-DCs and CD11b&lt;sup&gt;+&lt;/sup&gt;CD38&lt;sup&gt;+&lt;/sup&gt; DCs on day 7, suppressing the antigen presentation process. Recruited mononuclear phagocyte subsets with a high level of CD38 exhibited an activated phenotype and could secrete higher levels of cytokines and chemokines.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This study characterized the dynamic functions and phenotypes of recruited mononuclear phagocytes in ALI mice and MSC-treated ALI mice.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

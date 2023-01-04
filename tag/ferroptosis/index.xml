@@ -5,12 +5,37 @@
     <link>https://example.com/tag/ferroptosis/</link>
       <atom:link href="https://example.com/tag/ferroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Ferroptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Ferroptosis</title>
       <link>https://example.com/tag/ferroptosis/</link>
     </image>
+    
+    <item>
+      <title>A gene expression signature of TREM2hi macrophages and γδ T cells predicts immunotherapy response</title>
+      <link>https://example.com/article/33033253/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33033253/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Identifying factors underlying resistance to immune checkpoint therapy (ICT) is still challenging. Most cancer patients do not respond to ICT and the availability of the predictive biomarkers is limited. Here, we re-analyze a publicly available single-cell RNA sequencing (scRNA-seq) dataset of melanoma samples of patients subjected to ICT and identify a subset of macrophages overexpressing TREM2 and a subset of gammadelta T cells that are both overrepresented in the non-responding tumors. In addition, the percentage of a B cell subset is significantly lower in the non-responders. The presence of these immune cell subtypes is corroborated in other publicly available scRNA-seq datasets. The analyses of bulk RNA-seq datasets of the melanoma samples identify and validate a signature - ImmuneCells.Sig - enriched with the genes characteristic of the above immune cell subsets to predict response to immunotherapy. ImmuneCells.Sig could represent a valuable tool for clinical decision making in patients receiving immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Hepatic transferrin plays a role in systemic iron homeostasis and liver ferroptosis</title>

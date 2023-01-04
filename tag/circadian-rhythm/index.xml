@@ -5,12 +5,37 @@
     <link>https://example.com/tag/circadian-rhythm/</link>
       <atom:link href="https://example.com/tag/circadian-rhythm/index.xml" rel="self" type="application/rss+xml" />
     <description>Circadian Rhythm</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Circadian Rhythm</title>
       <link>https://example.com/tag/circadian-rhythm/</link>
     </image>
+    
+    <item>
+      <title>Paraventricular hypothalamus mediates diurnal rhythm of metabolism</title>
+      <link>https://example.com/article/32732906/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32732906/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Defective rhythmic metabolism is associated with high-fat high-caloric diet (HFD) feeding, ageing and obesity; however, the neural basis underlying HFD effects on diurnal metabolism remains elusive. Here we show that deletion of BMAL1, a core clock gene, in paraventricular hypothalamic (PVH) neurons reduces diurnal rhythmicity in metabolism, causes obesity and diminishes PVH neuron activation in response to fast-refeeding. Animal models mimicking deficiency in PVH neuron responsiveness, achieved through clamping PVH neuron activity at high or low levels, both show obesity and reduced diurnal rhythmicity in metabolism. Interestingly, the PVH exhibits BMAL1-controlled rhythmic expression of GABA-A receptor γ2 subunit, and dampening rhythmicity of GABAergic input to the PVH reduces diurnal rhythmicity in metabolism and causes obesity. Finally, BMAL1 deletion blunts PVH neuron responses to external stressors, an effect mimicked by HFD feeding. Thus, BMAL1-driven PVH neuron responsiveness in dynamic activity changes involving rhythmic GABAergic neurotransmission mediates diurnal rhythmicity in metabolism and is implicated in diet-induced obesity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Chronic circadian disruption modulates breast cancer stemness and immune microenvironment to drive metastasis in mice</title>

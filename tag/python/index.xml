@@ -177,6 +177,56 @@
     </item>
     
     <item>
+      <title>scGMAI: a Gaussian mixture model for clustering single-cell RNA-Seq data based on deep autoencoder</title>
+      <link>https://example.com/article/33300547/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33300547/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The rapid development of single-cell RNA sequencing (scRNA-Seq) technology provides strong technical support for accurate and efficient analyzing single-cell gene expression data. However, the analysis of scRNA-Seq is accompanied by many obstacles, including dropout events and the curse of dimensionality. Here, we propose the scGMAI, which is a new single-cell Gaussian mixture clustering method based on autoencoder networks and the fast independent component analysis (FastICA). Specifically, scGMAI utilizes autoencoder networks to reconstruct gene expression values from scRNA-Seq data and FastICA is used to reduce the dimensions of reconstructed data. The integration of these computational techniques in scGMAI leads to outperforming results compared to existing tools, including Seurat, in clustering cells from 17 public scRNA-Seq datasets. In summary, scGMAI is an effective tool for accurately clustering and identifying cell types from scRNA-Seq data and shows the great potential of its applicative power in scRNA-Seq data analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting cell-to-cell communication networks using NATMI</title>
+      <link>https://example.com/article/33024107/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33024107/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Development of high throughput single-cell sequencing technologies has made it cost-effective to profile thousands of cells from diverse samples containing multiple cell types. To study how these different cell types work together, here we develop &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI (Network Analysis Toolkit for Multicellular Interactions)&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; uses &lt;a href=&#34;https://www.humanconnectome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;connectomeDB2020&lt;/a&gt; (a database of 2293 manually curated ligand-receptor pairs with literature support) to predict and visualise cell-to-cell communication networks from single-cell (or bulk) expression data. Using multiple published single-cell datasets we demonstrate how &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; can be used to identify (i) the cell-type pairs that are communicating the most (or most specifically) within a network, (ii) the most active (or specific) ligand-receptor pairs active within a network, (iii) putative highly-communicating cellular communities and (iv) differences in intercellular communication when profiling given cell types under different conditions. Furthermore, analysis of the Tabula Muris (organism-wide) atlas confirms our previous prediction that autocrine signalling is a major feature of cell-to-cell communication networks, while also revealing that hundreds of ligands and their cognate receptors are co-expressed in individual cells suggesting a substantial potential for self-signalling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A Byte of Python</title>
       <link>https://example.com/books/2018-06-20-a-byte-of-py/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>

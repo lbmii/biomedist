@@ -104,6 +104,59 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Integrated Protein-Protein Interaction and Weighted Gene Co-expression Network Analysis Uncover Three Key Genes in Hepatoblastoma</title>
+      <link>https://example.com/article/33718368/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33718368/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatoblastoma (HB) is the most common liver tumor in the pediatric population, with typically poor outcomes for advanced-stage or chemotherapy-refractory HB patients. The objective of this study was to identify genes involved in HB pathogenesis via microarray analysis and subsequent experimental validation. We identified 856 differentially expressed genes (DEGs) between HB and normal liver tissue based on two publicly available microarray datasets (GSE131329 and GSE75271) after data merging and batch effect correction. Protein-protein interaction (PPI) analysis and weighted gene co-expression network analysis (WGCNA) were conducted to explore HB-related critical modules and hub genes. Subsequently, Gene Ontology (GO) analysis was used to reveal critical biological functions in the initiation and progression of HB. Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis showed that genes involved in cell cycle phase transition and the PI3K/AKT signaling were associated with HB. The intersection of hub genes identified by both PPI and WGCNA analyses revealed five potential candidate genes. Based on receiver operating characteristic (ROC) curve analysis and reports in the literature, we selected CCNA2, CDK1, and CDC20 as key genes of interest to validate experimentally. CCNA2, CDK1, or CDC20 small interfering RNA (siRNA) knockdown inhibited aggressive biological properties of both HepG2 and HuH-6 cell lines in vitro. In conclusion, we identified CCNA2, CDK1, and CDC20 as new potential therapeutic biomarkers for HB, providing novel insights into important and viable targets in future HB treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Transcriptome-wide profiles of circular RNA and RNA-binding protein interactions reveal effects on circular RNA biogenesis and cancer pathway expression</title>
+      <link>https://example.com/article/33287884/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33287884/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Circular RNAs (circRNAs) are stable, often highly expressed RNA transcripts with potential to modulate other regulatory RNAs. A few circRNAs have been shown to bind RNA-binding proteins (RBPs); however, little is known about the prevalence and distribution of these interactions in different biological contexts.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We conduct an extensive screen of circRNA-RBP interactions in the ENCODE cell lines HepG2 and K562. We profile circRNAs in deep-sequenced total RNA samples and analyze circRNA-RBP interactions using a large set of eCLIP data with binding sites of 150 RBPs. We validate interactions for select circRNAs and RBPs by performing RNA immunoprecipitation and functionally characterize our most interesting candidates by conducting knockdown studies followed by RNA-Seq.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We generate a comprehensive catalog of circRNA-RBP interactions in HepG2 and K562 cells. We show that KHSRP binding sites are enriched in flanking introns of circRNAs and that KHSRP depletion affects circRNA biogenesis. We identify circRNAs that are highly covered by RBP binding sites and experimentally validate individual circRNA-RBP interactions. We show that circCDYL, a highly expressed circRNA with clinical and functional implications in bladder cancer, is almost completely covered with GRWD1 binding sites in HepG2 cells, and that circCDYL depletion counteracts the effect of GRWD1 depletion. Furthermore, we confirm interactions between circCDYL and RBPs in bladder cancer cells and demonstrate that circCDYL depletion affects hallmarks of cancer and perturbs the expression of key cancer genes, e.g., TP53. Finally, we show that elevated levels of circCDYL are associated with overall survival of bladder cancer patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study demonstrates transcriptome-wide and cell-type-specific circRNA-RBP interactions that could play important regulatory roles in tumorigenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Prediction of kinase-specific phosphorylation sites in proteins</title>
       <link>https://example.com/tool/2020-04-12-pkspsp/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>

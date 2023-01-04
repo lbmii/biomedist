@@ -5,12 +5,37 @@
     <link>https://example.com/tag/influenza-virus/</link>
       <atom:link href="https://example.com/tag/influenza-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Influenza Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Influenza Virus</title>
       <link>https://example.com/tag/influenza-virus/</link>
     </image>
+    
+    <item>
+      <title>Selective usage of ANP32 proteins by influenza B virus polymerase: Implications in determination of host range</title>
+      <link>https://example.com/article/33045004/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33045004/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The influenza B virus (IBV) causes seasonal influenza and has accounted for an increasing proportion of influenza outbreaks. IBV mainly causes human infections and has not been found to spread in poultry. The replication mechanism and the determinants of interspecies transmission of IBV are largely unknown. In this study, we found that the host ANP32 proteins are required for the function of the IBV polymerase. Human ANP32A/B strongly supports IBV replication, while ANP32E has a limited role. Unlike human ANP32A/B, chicken ANP32A has low support activity to IBV polymerase because of a unique 33-amino-acid insert, which, in contrast, exhibits species specific support to avian influenza A virus (IAV) replication. Chicken ANP32B and ANP32E have even lower activity compared with human ANP32B/E due to specific amino acid substitutions at sites 129-130. We further revealed that the sites 129-130 affect the binding ability of ANP32B/E to IBV polymerase, while the 33-amino-acid insert of chicken ANP32A reduces its binding stability and affinity. Taken together, the features of avian ANP32 proteins limited their abilities to support IBV polymerase, which could prevent efficient replication of IBV in chicken cells. Our results illustrate roles of ANP32 proteins in supporting IBV replication and may help to understand the ineffective replication of IBV in birds.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>FluPhenotype-a one-stop platform for early warnings of the influenza A virus</title>

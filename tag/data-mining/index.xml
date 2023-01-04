@@ -689,6 +689,34 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>Identification and Validation of Autophagy-Related Genes in Chronic Obstructive Pulmonary Disease</title>
+      <link>https://example.com/article/33469280/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33469280/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; Autophagy plays essential roles in the development of COPD. We aim to identify and validate the potential autophagy-related genes of COPD through bioinformatics analysis and experiment validation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The mRNA expression profile dataset GSE38974 was obtained from GEO database. The potential differentially expressed autophagy-related genes of COPD were screened by R software. Then, protein–protein interactions (PPI), correlation analysis, gene-ontology (GO) enrichment analysis and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis were applied for the differentially expressed autophagy-related genes. Finally, RNA expression of top five differentially expressed autophagy-related genes was validated in blood samples from COPD patients and healthy controls by qRT-PCR.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A total of 40 differentially expressed autophagy-related genes (14 up-regulated genes and 26 down-regulated genes) were identified between 23 COPD patients and 9 healthy controls. The PPI results demonstrated that these autophagy-related genes interacted with each other. The GO and KEGG enrichment analysis of differentially expressed autophagy-related genes indicated several enriched terms related to autophagy and mitophagy. The results of qRT-PCR showed that the expression levels of &lt;em&gt;HIF1A&lt;/em&gt;, &lt;em&gt;CDKN1A&lt;/em&gt;, &lt;em&gt;BAG3&lt;/em&gt;, &lt;em&gt;ERBB2&lt;/em&gt; and &lt;em&gt;ATG16L1&lt;/em&gt; in COPD patients and healthy controls were consistent with the bioinformatics analysis results from mRNA microarray.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We identified 40 potential autophagy-related genes of COPD through bioinformatics analysis. &lt;em&gt;HIF1A&lt;/em&gt;, &lt;em&gt;CDKN1A&lt;/em&gt;, &lt;em&gt;BAG3&lt;/em&gt;, &lt;em&gt;ERBB2&lt;/em&gt; and &lt;em&gt;ATG16L1&lt;/em&gt; may affect the development of COPD by regulating autophagy. These results may expand our understanding of COPD and might be useful in the treatment of COPD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Online tools decoding RNA-RNA regulatory networks</title>
       <link>https://example.com/tool/2020-11-10-rri/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>

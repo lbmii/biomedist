@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>piRNA | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/pirna/</link>
+      <atom:link href="https://example.com/tag/pirna/index.xml" rel="self" type="application/rss+xml" />
+    <description>piRNA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>piRNA</title>
+      <link>https://example.com/tag/pirna/</link>
+    </image>
+    
+    <item>
+      <title>PIWIL1 promotes gastric cancer via a piRNA-independent mechanism</title>
+      <link>https://example.com/article/32848063/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32848063/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Correction for Shi &lt;em&gt;et al.&lt;/em&gt;, &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.2019929117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;PIWIL1 promotes gastric cancer via a piRNA-independent mechanism&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Targeted cancer therapy aims to achieve specific elimination of cancerous but not normal cells. Recently, PIWI proteins, a subfamily of the PAZ-PIWI domain (PPD) protein family, have emerged as promising candidates for targeted cancer therapy. PPD proteins are essential for small noncoding RNA pathways. The Argonaute subfamily partners with microRNA and small interfering RNA, whereas the PIWI subfamily partners with PIWI-interacting RNA (piRNA). Both PIWI proteins and piRNA are mostly expressed in the germline and best known for their function in transposon silencing, with no detectable function in mammalian somatic tissues. However, PIWI proteins become aberrantly expressed in multiple types of somatic cancers, thus gaining interest in targeted therapy. Despite this, little is known about the regulatory mechanism of PIWI proteins in cancer. Here we report that one of the four PIWI proteins in humans, PIWIL1, is highly expressed in gastric cancer tissues and cell lines. Knocking out the PIWIL1 gene (&lt;em&gt;PIWIL1-KO&lt;/em&gt;) drastically reduces gastric cancer cell proliferation, migration, metastasis, and tumorigenesis. RNA deep sequencing of gastric cancer cell line SNU-1 reveals that KO significantly changes the transcriptome, causing the up-regulation of most of its associated transcripts. Surprisingly, few bona fide piRNAs exist in gastric cancer cells. Furthermore, abolishing the piRNA-binding activity of PIWIL1 does not affect its oncogenic function. Thus, PIWIL1 function in gastric cancer cells is independent of piRNA. This piRNA-independent regulation involves interaction with the UPF1-mediated nonsense-mediated mRNA decay (NMD) mechanism. Altogether, our findings reveal a piRNA-independent function of PIWIL1 in promoting gastric cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

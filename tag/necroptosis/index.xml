@@ -5,12 +5,37 @@
     <link>https://example.com/tag/necroptosis/</link>
       <atom:link href="https://example.com/tag/necroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Necroptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Necroptosis</title>
       <link>https://example.com/tag/necroptosis/</link>
     </image>
+    
+    <item>
+      <title>E3 ligase TRIM25 ubiquitinates RIP3 to inhibit TNF induced cell necrosis</title>
+      <link>https://example.com/article/33953350/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33953350/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Receptor interacting protein kinase 3 (RIP3 or RIPK3), the critical executor of cell programmed necrosis, plays essential roles in maintaining immune responses and appropriate tissue homeostasis. Although the E3 ligases CHIP and PELI1 are reported to promote RIP3 degradation, however, how post-translational modification regulates RIP3 activity and stability is poorly understood. Here, we identify the tripartite motif protein TRIM25 as a negative regulator of RIP3-dependent necrosis. TRIM25 directly interacts with RIP3 through its SPRY domain and mediates the K48-linked polyubiquitination of RIP3 on residue K501. The RING domain of TRIM25 facilitates the polyubiquitination chain on RIP3, thereby promoting proteasomal degradation of RIP3. Also, TRIM25 deficiency inhibited the ubiquitination of RIP3, thus promoting TNF-induced cell necrosis. Our current finding reveals the regulating mechanism of polyubiquitination on RIP3, which might be a potential therapeutic target for the intervention of RIP3-dependent necrosis-related diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Identification of the PANoptosome: A Molecular Platform Triggering Pyroptosis, Apoptosis, and Necroptosis (PANoptosis)</title>

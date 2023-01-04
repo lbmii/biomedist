@@ -5,12 +5,87 @@
     <link>https://example.com/tag/regeneration/</link>
       <atom:link href="https://example.com/tag/regeneration/index.xml" rel="self" type="application/rss+xml" />
     <description>Regeneration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Regeneration</title>
       <link>https://example.com/tag/regeneration/</link>
     </image>
+    
+    <item>
+      <title>Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring</title>
+      <link>https://example.com/article/33888614/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33888614/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skin scarring, the end result of adult wound healing, is detrimental to tissue form and function. &lt;em&gt;Engrailed-1&lt;/em&gt; lineage-positive fibroblasts (EPFs) are known to function in scarring, but &lt;em&gt;Engrailed-1&lt;/em&gt; lineage-negative fibroblasts (ENFs) remain poorly characterized. Using cell transplantation and transgenic mouse models, we identified a dermal ENF subpopulation that gives rise to postnatally derived EPFs by activating &lt;em&gt;Engrailed-1&lt;/em&gt; expression during adult wound healing. By studying ENF responses to substrate mechanics, we found that mechanical tension drives &lt;em&gt;Engrailed-1&lt;/em&gt; activation via canonical mechanotransduction signaling. Finally, we showed that blocking mechanotransduction signaling with either verteporfin, an inhibitor of Yes-associated protein (YAP), or fibroblast-specific transgenic YAP knockout prevents &lt;em&gt;Engrailed-1&lt;/em&gt; activation and promotes wound regeneration by ENFs, with recovery of skin appendages, ultrastructure, and mechanical strength. This finding suggests that there are two possible outcomes to postnatal wound healing: a fibrotic response (EPF-mediated) and a regenerative response (ENF-mediated).&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interaction of the NRF2 and p63 transcription factors promotes keratinocyte proliferation in the epidermis</title>
+      <link>https://example.com/article/33764436/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33764436/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epigenetic regulation of cell and tissue function requires the coordinated action of transcription factors. However, their combinatorial activities during regeneration remain largely unexplored. Here, we discover an unexpected interaction between the cytoprotective transcription factor NRF2 and p63- a key player in epithelial morphogenesis. Chromatin immunoprecipitation combined with sequencing and reporter assays identifies enhancers and promoters that are simultaneously activated by NRF2 and p63 in human keratinocytes. Modeling of p63 and NRF2 binding to nucleosomal DNA suggests their chromatin-assisted interaction. Pharmacological and genetic activation of NRF2 increases NRF2-p63 binding to enhancers and promotes keratinocyte proliferation, which involves the common NRF2-p63 target cyclin-dependent kinase 12. These results unravel a collaborative function of NRF2 and p63 in the control of epidermal renewal and suggest their combined activation as a strategy to promote repair of human skin and other stratified epithelia.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Inflammatory Signals Induce AT2 Cell-Derived Damage-Associated Transient Progenitors that Mediate Alveolar Regeneration</title>
+      <link>https://example.com/article/32750316/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32750316/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tissue regeneration is a multi-step process mediated by diverse cellular hierarchies and states that are also implicated in tissue dysfunction and pathogenesis. Here we leveraged single-cell RNA sequencing in combination with in vivo lineage tracing and organoid models to finely map the trajectories of alveolar-lineage cells during injury repair and lung regeneration. We identified a distinct AT2-lineage population, damage-associated transient progenitors (DATPs), that arises during alveolar regeneration. We found that interstitial macrophage-derived IL-1β primes a subset of AT2 cells expressing Il1r1 for conversion into DATPs via a HIF1α-mediated glycolysis pathway, which is required for mature AT1 cell differentiation. Importantly, chronic inflammation mediated by IL-1β prevents AT1 differentiation, leading to aberrant accumulation of DATPs and impaired alveolar regeneration. Together, this stepwise mapping to cell fate transitions shows how an inflammatory niche controls alveolar regeneration by controlling stem cell fate and behavior.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Defining Epidermal Basal Cell States during Skin Homeostasis and Wound Healing Using Single-Cell Transcriptomics</title>

@@ -5,12 +5,62 @@
     <link>https://example.com/tag/phosphorylation/</link>
       <atom:link href="https://example.com/tag/phosphorylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Phosphorylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Phosphorylation</title>
       <link>https://example.com/tag/phosphorylation/</link>
     </image>
+    
+    <item>
+      <title>Atg1 kinase in fission yeast is activated by Atg11-mediated dimerization and cis-autophosphorylation</title>
+      <link>https://example.com/article/32909946/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32909946/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy is a proteolytic pathway that is conserved from yeasts to mammals. Atg1 kinase is essential for autophagy, but how its activity is controlled remains insufficiently understood. Here, we show that, in the fission yeast &lt;em&gt;Schizosaccharomyces pombe&lt;/em&gt;, Atg1 kinase activity requires Atg11, the ortholog of mammalian FIP200/RB1CC1, but does not require Atg13, Atg17, or Atg101. Remarkably, a 62 amino acid region of Atg11 is sufficient for the autophagy function of Atg11 and for supporting the Atg1 kinase activity. This region harbors an Atg1-binding domain and a homodimerization domain. Dimerizing Atg1 is the main role of Atg11, as it can be bypassed by artificially dimerizing Atg1. In an Atg1 dimer, only one Atg1 molecule needs to be catalytically active, suggesting that Atg1 activation can be achieved through cis-autophosphorylation. We propose that mediating Atg1 oligomerization and activation may be a conserved function of Atg11/FIP200 family proteins and cis-autophosphorylation may be a general mechanism of Atg1 activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Autophagy regulates fatty acid availability for oxidative phosphorylation through mitochondria-endoplasmic reticulum contact sites</title>
+      <link>https://example.com/article/32792483/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32792483/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy has been associated with oncogenesis with one of its emerging key functions being its contribution to the metabolism of tumors. Therefore, deciphering the mechanisms of how autophagy supports tumor cell metabolism is essential. Here, we demonstrate that the inhibition of autophagy induces an accumulation of lipid droplets (LD) due to a decrease in fatty acid β-oxidation, that leads to a reduction of oxidative phosphorylation (OxPHOS) in acute myeloid leukemia (AML), but not in normal cells. Thus, the autophagic process participates in lipid catabolism that supports OxPHOS in AML cells. Interestingly, the inhibition of OxPHOS leads to LD accumulation with the concomitant inhibition of autophagy. Mechanistically, we show that the disruption of mitochondria-endoplasmic reticulum (ER) contact sites (MERCs) phenocopies OxPHOS inhibition. Altogether, our data establish that mitochondria, through the regulation of MERCs, controls autophagy that, in turn finely tunes lipid degradation to fuel OxPHOS supporting proliferation and growth in leukemia.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Prediction of kinase-specific phosphorylation sites in proteins</title>

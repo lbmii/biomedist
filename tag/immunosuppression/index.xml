@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immunosuppression | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/immunosuppression/</link>
+      <atom:link href="https://example.com/tag/immunosuppression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Immunosuppression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Immunosuppression</title>
+      <link>https://example.com/tag/immunosuppression/</link>
+    </image>
+    
+    <item>
+      <title>Immunosuppressive effects of mesenchymal stem cells on lung B cell gene expression in LPS-induced acute lung injury</title>
+      <link>https://example.com/article/32977837/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32977837/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Immune system disorders play important roles in acute lung injury (ALI), and mesenchymal stem cell (MSC) treatment can reduce inflammation during ALI. In this study, we compared the changes in lung B cells during MSC treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We investigated the effects of MSCs on lung B cells in a mouse model of lipopolysaccharide (LPS)-induced ALI. MSCs were administered intratracheally 4 h after LPS. As vehicle-treated controls, mice were treated with phosphate-buffered saline (PBS) containing 2% C57BL/6 (PBS group). Histopathological changes, survival rate, inflammatory factor levels, and the number of neutrophils in bronchoalveolar lavage fluid (BALF) were determined. Single-cell RNA sequencing (scRNA-Seq) analysis was performed to evaluate the transcriptional changes in lung B cells between the PBS, LPS, and LPS/MSC groups on days 3 and 7.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; MSC treatment ameliorated LPS-induced ALI, as indicated by the reductions in mortality, the levels of chemokines and cytokines in BALF, and the severity of lung tissue histopathology in ALI mice. Lung B cells in the PBS group remained undifferentiated and had an inhibitory phenotype. Based on our scRNA-Seq results, the differentially expressed genes (DEGs) in lung B cells in both the PBS group and LPS group were involved in chemotaxis processes and some proinflammatory pathways. MSC treatment inhibited the expression of chemokine genes that were upregulated by LPS and were related to the recruitment of neutrophils into lung tissues. Immunoglobulin-related gene expression was decreased in lung B cells of mice treated with LPS/MSC for 7 days. The DEGs regulated by MSCs were enriched in biological processes, including humoral immune response and apoptotic signaling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Lung B cells played an important role in the effects of treatment of ALI with MSCs. These observations provide new insights into the mechanisms underlying the effects of MSC treatment for ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

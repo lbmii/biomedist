@@ -5,12 +5,37 @@
     <link>https://example.com/tag/structural-biology/</link>
       <atom:link href="https://example.com/tag/structural-biology/index.xml" rel="self" type="application/rss+xml" />
     <description>Structural Biology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Structural Biology</title>
       <link>https://example.com/tag/structural-biology/</link>
     </image>
+    
+    <item>
+      <title>Structural insight into the molecular mechanism of p53-mediated mitochondrial apoptosis</title>
+      <link>https://example.com/article/33863900/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33863900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The tumor suppressor p53 is mutated in approximately half of all human cancers. p53 can induce apoptosis through mitochondrial membrane permeabilization by interacting with and antagonizing the anti-apoptotic proteins BCL-xL and BCL-2. However, the mechanisms by which p53 induces mitochondrial apoptosis remain elusive. Here, we report a 2.5 Å crystal structure of human p53/BCL-xL complex. In this structure, two p53 molecules interact as a homodimer, and bind one BCL-xL molecule to form a ternary complex with a 2:1 stoichiometry. Mutations at the p53 dimer interface or p53/BCL-xL interface disrupt p53/BCL-xL interaction and p53-mediated apoptosis. Overall, our current findings of the bona fide structure of p53/BCL-xL complex reveal the molecular basis of the interaction between p53 and BCL-xL, and provide insight into p53-mediated mitochondrial apoptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Structural and Proteomic Characterization of the Initiation of Giant Virus Infection</title>

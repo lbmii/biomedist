@@ -604,6 +604,131 @@
     </item>
     
     <item>
+      <title>Inference and analysis of cell-cell communication using CellChat</title>
+      <link>https://example.com/article/33597522/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33597522/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Understanding global communications among cells requires accurate representation of cell-cell signaling links and effective systems-level analyses of those links. We construct a database of interactions among ligands, receptors and their cofactors that accurately represent known heteromeric molecular complexes. We then develop &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt;, a tool that is able to quantitatively infer and analyze intercellular communication networks from single-cell RNA-sequencing (scRNA-seq) data. &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; predicts major signaling inputs and outputs for cells and how those cells and signals coordinate for functions using network analysis and pattern recognition approaches. Through manifold learning and quantitative contrasts, &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; classifies signaling pathways and delineates conserved and context-specific pathways across different datasets. Applying &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; to mouse and human skin datasets shows its ability to extract complex signaling patterns. Our versatile and easy-to-use toolkit &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; and &lt;a href=&#34;http://www.cellchat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;a web-based Explorer&lt;/strong&gt;&lt;/a&gt; will help discover novel intercellular communications and build cell-cell communication atlases in diverse tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Decoding personal biotic and abiotic airborne exposome</title>
+      <link>https://example.com/article/33437065/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33437065/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The complexity and dynamics of human diseases are driven by the interactions between internal molecular activities and external environmental exposures. Although advances in omics technology have dramatically broadened the understanding of internal molecular and cellular mechanisms, understanding of the external environmental exposures, especially at the personal level, is still rudimentary in comparison. This is largely owing to our limited ability to efficiently collect the personal environmental exposome (PEE) and extract the nucleic acids and chemicals from PEE. Here we describe a protocol that integrates hardware and experimental pipelines to collect and decode biotic and abiotic external exposome at the individual level. The described protocol has several advantages over conventional approaches, such as exposome monitoring at the personal level, decontamination steps to increase sensitivity and simultaneous capture and high-throughput profiling of biotic and abiotic exposures. The protocol takes ~18 h of bench time over 2-3 d to prepare samples for high-throughput profiling and up to a couple of weeks of instrumental time to analyze, depending on the number of samples. Hundreds to thousands of species and organic compounds could be detected in the airborne particulate samples using this protocol. The composition and complexity of the biotic and abiotic substances are heavily influenced by the sampling spatiotemporal factors. Basic skillsets in molecular biology and analytical chemistry are required to carry out this protocol. This protocol could be modified to decode biotic and abiotic substances in other types of low or ultra-low input samples.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Screening for functional circular RNAs using the CRISPR-Cas13 system</title>
+      <link>https://example.com/article/33288960/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33288960/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) produced from back-spliced exons are widely expressed, but individual circRNA functions remain poorly understood owing to the lack of adequate methods for distinguishing circRNAs from cognate messenger RNAs with overlapping exons. Here, we report that CRISPR-RfxCas13d can effectively discriminate circRNAs from mRNAs by using guide RNAs targeting sequences spanning back-splicing junction (BSJ) sites featured in RNA circles. Using a lentiviral library that targets sequences across BSJ sites of highly expressed human circRNAs, we show that a group of circRNAs are important for cell growth mostly in a cell-type-specific manner and that a common oncogenic circRNA, circFAM120A, promotes cell proliferation by preventing the mRNA for family with sequence similarity 120A (FAM120A) from binding the translation inhibitor IGF2BP2. Further application of RfxCas13d-BSJ-gRNA screening has uncovered circMan1a2, which has regulatory potential in mouse embryo preimplantation development. Together, these results establish CRISPR-RfxCas13d as a useful tool for the discovery and functional study of circRNAs at both individual and large-scale levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting cell-to-cell communication networks using NATMI</title>
+      <link>https://example.com/article/33024107/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33024107/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Development of high throughput single-cell sequencing technologies has made it cost-effective to profile thousands of cells from diverse samples containing multiple cell types. To study how these different cell types work together, here we develop &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI (Network Analysis Toolkit for Multicellular Interactions)&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; uses &lt;a href=&#34;https://www.humanconnectome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;connectomeDB2020&lt;/a&gt; (a database of 2293 manually curated ligand-receptor pairs with literature support) to predict and visualise cell-to-cell communication networks from single-cell (or bulk) expression data. Using multiple published single-cell datasets we demonstrate how &lt;a href=&#34;https://github.com/forrest-lab/NATMI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NATMI&lt;/strong&gt;&lt;/a&gt; can be used to identify (i) the cell-type pairs that are communicating the most (or most specifically) within a network, (ii) the most active (or specific) ligand-receptor pairs active within a network, (iii) putative highly-communicating cellular communities and (iv) differences in intercellular communication when profiling given cell types under different conditions. Furthermore, analysis of the Tabula Muris (organism-wide) atlas confirms our previous prediction that autocrine signalling is a major feature of cell-to-cell communication networks, while also revealing that hundreds of ligands and their cognate receptors are co-expressed in individual cells suggesting a substantial potential for self-signalling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An in vivo strategy for knockdown of circular RNAs</title>
+      <link>https://example.com/article/32818061/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32818061/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exonic circular RNAs (circRNAs) are highly abundant RNAs generated mostly from exons of protein-coding genes. Assaying the functions of circRNAs is not straightforward as common approaches for circRNA depletion tend to also alter the levels of mRNAs generated from the hosting gene. Here we describe a methodology for specific knockdown of circRNAs in vivo with tissue and cell resolution. We also describe an experimental and computational platform for determining the potential off-target effects as well as for verifying the obtained phenotypes. Briefly, we utilize shRNAs targeted to the circRNA-specific back-splice junction to specifically downregulate the circRNA. We utilized this methodology to downregulate five circRNAs that are highly expressed in Drosophila. There were no effects on the levels of their linear counterparts or any RNA with complementarity to the expressed shRNA. Interestingly, downregulation of circCtrip resulted in developmental lethality that was recapitulated with a second shRNA. Moreover, downregulation of individual circRNAs caused specific changes in the fly head transcriptome, suggesting roles for these circRNAs in the fly nervous system. Together, our results provide a methodological approach that enables the comprehensive study of circRNAs at the organismal and cellular levels and generated for the first time flies in which specific circRNAs are downregulated.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Visualizing and Modulating Mitophagy for Therapeutic Studies of Neurodegeneration</title>
       <link>https://example.com/article/32437660/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>

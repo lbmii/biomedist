@@ -5,12 +5,37 @@
     <link>https://example.com/tag/immune-evasion/</link>
       <atom:link href="https://example.com/tag/immune-evasion/index.xml" rel="self" type="application/rss+xml" />
     <description>Immune Evasion</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immune Evasion</title>
       <link>https://example.com/tag/immune-evasion/</link>
     </image>
+    
+    <item>
+      <title>Activation and evasion of type I interferon responses by SARS-CoV-2</title>
+      <link>https://example.com/article/32733001/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32733001/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The pandemic of COVID-19 has posed an unprecedented threat to global public health. However, the interplay between the viral pathogen of COVID-19, SARS-CoV-2, and host innate immunity is poorly understood. Here we show that SARS-CoV-2 induces overt but delayed type-I interferon (IFN) responses. By screening 23 viral proteins, we find that SARS-CoV-2 NSP1, NSP3, NSP12, NSP13, NSP14, ORF3, ORF6 and M protein inhibit Sendai virus-induced IFN-β promoter activation, whereas NSP2 and S protein exert opposite effects. Further analyses suggest that ORF6 inhibits both type I IFN production and downstream signaling, and that the C-terminus region of ORF6 is critical for its antagonistic effect. Finally, we find that IFN-β treatment effectively blocks SARS-CoV-2 replication. In summary, our study shows that SARS-CoV-2 perturbs host innate immune response via both its structural and nonstructural proteins, and thus provides insights into the pathogenesis of SARS-CoV-2.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Autophagy promotes immune evasion of pancreatic cancer by degrading MHC-I</title>
