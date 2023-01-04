@@ -5,12 +5,137 @@
     <link>https://example.com/tag/ufmylation/</link>
       <atom:link href="https://example.com/tag/ufmylation/index.xml" rel="self" type="application/rss+xml" />
     <description>UFMylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>UFMylation</title>
       <link>https://example.com/tag/ufmylation/</link>
     </image>
+    
+    <item>
+      <title>MRE11 UFMylation promotes ATM activation</title>
+      <link>https://example.com/article/30783677/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30783677/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A proper DNA damage response (DDR) is essential to maintain genome integrity and prevent tumorigenesis. DNA double-strand breaks (DSBs) are the most toxic DNA lesion and their repair is orchestrated by the ATM kinase. ATM is activated via the MRE11-RAD50-NBS1 (MRN) complex along with its autophosphorylation at S1981 and acetylation at K3106. Activated ATM rapidly phosphorylates a vast number of substrates in local chromatin, providing a scaffold for the assembly of higher-order complexes that can repair damaged DNA. While reversible ubiquitination has an important role in the DSB response, modification of the newly identified ubiquitin-like protein ubiquitin-fold modifier 1 and the function of UFMylation in the DDR is largely unknown. Here, we found that MRE11 is UFMylated on K282 and this UFMylation is required for the MRN complex formation under unperturbed conditions and DSB-induced optimal ATM activation, homologous recombination-mediated repair and genome integrity. A pathogenic mutation MRE11(G285C) identified in uterine endometrioid carcinoma exhibited a similar cellular phenotype as the UFMylation-defective mutant MRE11(K282R). Taken together, MRE11 UFMylation promotes ATM activation, DSB repair and genome stability, and potentially serves as a therapeutic target.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>UFL1 promotes histone H4 ufmylation and ATM activation</title>
+      <link>https://example.com/article/30886146/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30886146/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ataxia-telangiectasia mutated (ATM) kinase, an upstream kinase of the DNA damage response (DDR), is rapidly activated following DNA damage, and phosphorylates its downstream targets to launch DDR signaling. However, the mechanism of ATM activation is still not completely understood. Here we report that UFM1 specific ligase 1 (UFL1), an ufmylation E3 ligase, is important for ATM activation. UFL1 is recruited to double strand breaks by the MRE11/RAD50/NBS1 complex, and monoufmylates histone H4 following DNA damage. Monoufmylated histone H4 is important for Suv39h1 and Tip60 recruitment. Furthermore, ATM phosphorylates UFL1 at serine 462, enhancing UFL1 E3 ligase activity and promoting ATM activation in a positive feedback loop. These findings reveal that ufmylation of histone H4 by UFL1 is an important step for amplification of ATM activation and maintenance of genomic integrity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ufbp1 promotes plasma cell development and ER expansion by modulating distinct branches of UPR</title>
+      <link>https://example.com/article/30842412/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30842412/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The IRE1α/XBP1 branch of unfolded protein response (UPR) pathway has a critical function in endoplasmic reticulum (ER) expansion in plasma cells via unknown mechanisms; interestingly, another UPR branch, PERK, is suppressed during plasma cell development. Here we show that Ufbp1, a target and cofactor of the ufmylation pathway, promotes plasma cell development by suppressing the activation of PERK. By contrast, the IRE1α/XBP1 axis upregulates the expression of Ufbp1 and ufmylation pathway genes in plasma cells, while Ufbp1 deficiency impairs ER expansion in plasma cells and retards immunoglobulin production. Structure and function analysis suggests that lysine 267 of Ufbp1, the main lysine in Ufbp1 that undergoes ufmylation, is dispensable for the development of plasmablasts, but is required for immunoglobulin production and stimulation of ER expansion in IRE1α-deficient plasmablasts. Thus, Ufbp1 distinctly regulates different branches of UPR pathway to promote plasma cell development and function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ribosomal protein RPL26 is the principal target of UFMylation</title>
+      <link>https://example.com/article/30626644/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30626644/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ubiquitin fold modifier 1 (UFM1) is a small, metazoan-specific, ubiquitin-like protein modifier that is essential for embryonic development. Although loss-of-function mutations in UFM1 conjugation are linked to endoplasmic reticulum (ER) stress, neither the biological function nor the relevant cellular targets of this protein modifier are known. Here, we show that a largely uncharacterized ribosomal protein, RPL26, is the principal target of UFM1 conjugation. RPL26 UFMylation and de-UFMylation is catalyzed by enzyme complexes tethered to the cytoplasmic surface of the ER and UFMylated RPL26 is highly enriched on ER membrane-bound ribosomes and polysomes. Biochemical analysis and structural modeling establish that UFMylated RPL26 and the UFMylation machinery are in close proximity to the SEC61 translocon, suggesting that this modification plays a direct role in cotranslational protein translocation into the ER. These data suggest that UFMylation is a ribosomal modification specialized to facilitate metazoan-specific protein biogenesis at the ER.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Biallelic UFM1 and UFC1 mutations expand the essential role of ufmylation in brain development</title>
+      <link>https://example.com/article/29868776/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29868776/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post-translational modification of proteins through the addition of UFM1, also known as ufmylation, plays a critical developmental role as revealed by studies in animal models. The recent finding that biallelic mutations in UBA5 (the E1-like enzyme for ufmylation) cause severe early-onset encephalopathy with progressive microcephaly implicates ufmylation in human brain development. More recently, a homozygous UFM1 variant was proposed as a candidate aetiology of severe early-onset encephalopathy with progressive microcephaly. Here, we establish a locus for severe early-onset encephalopathy with progressive microcephaly based on two families, and map the phenotype to a novel homozygous UFM1 mutation. This mutation has a significantly diminished capacity to form thioester intermediates with UBA5 and with UFC1 (the E2-like enzyme for ufmylation), with resulting impaired ufmylation of cellular proteins. Remarkably, in four additional families where eight children have severe early-onset encephalopathy with progressive microcephaly, we identified two biallelic UFC1 mutations, which impair UFM1-UFC1 intermediate formation with resulting widespread reduction of cellular ufmylation, a pattern similar to that observed with UFM1 mutation. The striking resemblance between UFM1- and UFC1-related clinical phenotype and biochemical derangements strongly argues for an essential role for ufmylation in human brain development. The hypomorphic nature of UFM1 and UFC1 mutations and the conspicuous depletion of biallelic null mutations in the components of this pathway in human genome databases suggest that it is necessary for embryonic survival, which is consistent with the embryonic lethal nature of knockout models for the orthologous genes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Proteomic and Biochemical Analyses Reveal a Novel Mechanism for Promoting Protein Ubiquitination and Degradation by UFBP1, a Key Component of Ufmylation</title>

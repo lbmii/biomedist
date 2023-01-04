@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cytomegalovirus/</link>
       <atom:link href="https://example.com/tag/cytomegalovirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Cytomegalovirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cytomegalovirus</title>
       <link>https://example.com/tag/cytomegalovirus/</link>
     </image>
+    
+    <item>
+      <title>High-Definition Analysis of Host Protein Stability during Human Cytomegalovirus Infection Reveals Antiviral Factors and Viral Evasion Mechanisms</title>
+      <link>https://example.com/article/30122656/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30122656/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human cytomegalovirus (HCMV) is an important pathogen with multiple immune evasion strategies, including virally facilitated degradation of host antiviral restriction factors. Here, we describe a multiplexed approach to discover proteins with innate immune function on the basis of active degradation by the proteasome or lysosome during early-phase HCMV infection. Using three orthogonal proteomic/transcriptomic screens to quantify protein degradation, with high confidence we identified 35 proteins enriched in antiviral restriction factors. A final screen employed a comprehensive panel of viral mutants to predict viral genes that target &amp;gt;250 human proteins. This approach revealed that helicase-like transcription factor (HLTF), a DNA helicase important in DNA repair, potently inhibits early viral gene expression but is rapidly degraded during infection. The functionally unknown HCMV protein UL145 facilitates HLTF degradation by recruiting the Cullin4 E3 ligase complex. Our approach and data will enable further identifications of innate pathways targeted by HCMV and other viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A Cytomegalovirus Peptide-Specific Antibody Alters Natural Killer Cell Homeostasis and Is Shared in Several Autoimmune Diseases</title>

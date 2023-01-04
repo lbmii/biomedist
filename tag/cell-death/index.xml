@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cell-death/</link>
       <atom:link href="https://example.com/tag/cell-death/index.xml" rel="self" type="application/rss+xml" />
     <description>Cell Death</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cell Death</title>
       <link>https://example.com/tag/cell-death/</link>
     </image>
+    
+    <item>
+      <title>A high-throughput screen identifies the long non-coding RNA DRAIC as a regulator of autophagy</title>
+      <link>https://example.com/article/30872794/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30872794/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy is a conserved degradation process that occurs in all eukaryotic cells and its dysfunction has been associated with various diseases including cancer. While a number of large-scale attempts have recently identified new molecular players in autophagy regulation, including proteins and microRNAs, little is known regarding the function of long non-coding RNAs (lncRNAs) in the regulation of this process. To identify new long non-coding RNAs with functional implications in autophagy, we performed a high-throughput RNAi screen targeting more than 600 lncRNA transcripts and monitored their effects on autophagy in MCF-7 cells. We identified 63 lncRNAs that affected GFP-LC3B puncta numbers significantly. We validated the strongest hit, the lncRNA DRAIC previously shown to impact cell proliferation, and revealed a novel role for this lncRNA in the regulation of autophagic flux. Interestingly, we find DRAIC&amp;rsquo;s pro-proliferative effects to be autophagy-independent. This study serves as a valuable resource for researchers from both the lncRNA and autophagy fields as it advances the current understanding of autophagy regulation by non-coding RNAs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The role of STAT3 in autophagy</title>

@@ -5,12 +5,217 @@
     <link>https://example.com/tag/virology/</link>
       <atom:link href="https://example.com/tag/virology/index.xml" rel="self" type="application/rss+xml" />
     <description>Virology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Virology</title>
       <link>https://example.com/tag/virology/</link>
     </image>
+    
+    <item>
+      <title>Apoptotic Caspases Suppress Type I Interferon Production via the Cleavage of cGAS, MAVS, and IRF3</title>
+      <link>https://example.com/article/30878284/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30878284/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Viral infection triggers host defenses through pattern-recognition receptor-mediated cytokine production, inflammasome activation, and apoptosis of the infected cells. Inflammasome-activated caspases are known to cleave cyclic GMP-AMP synthase (cGAS). Here, we found that apoptotic caspases are critically involved in regulating both DNA and RNA virus-triggered host defenses, in which activated caspase-3 cleaved cGAS, MAVS, and IRF3 to prevent cytokine overproduction. Caspase-3 was exclusively required in human cells, whereas caspase-7 was involved only in murine cells to inactivate cGAS, reflecting distinct regulatory mechanisms in different species. Caspase-mediated cGAS cleavage was enhanced in the presence of dsDNA. Alternative MAVS cleavage sites were used to ensure the inactivation of this critical protein. Elevated type I IFNs were detected in caspase-3-deficient cells without any infection. Casp3-/- mice consistently showed increased resistance to viral infection and experimental autoimmune encephalomyelitis. Our results demonstrate that apoptotic caspases control innate immunity and maintain immune homeostasis against viral infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative Flavivirus-Host Protein Interaction Mapping Reveals Mechanisms of Dengue and Zika Virus Pathogenesis</title>
+      <link>https://example.com/article/30550790/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30550790/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mosquito-borne flaviviruses, including dengue virus (DENV) and Zika virus (ZIKV), are a growing public health concern. Systems-level analysis of how flaviviruses hijack cellular processes through virus-host protein-protein interactions (PPIs) provides information about their replication and pathogenic mechanisms. We used affinity purification-mass spectrometry (AP-MS) to compare flavivirus-host interactions for two viruses (DENV and ZIKV) in two hosts (human and mosquito). Conserved virus-host PPIs revealed that the flavivirus NS5 protein suppresses interferon stimulated genes by inhibiting recruitment of the transcription complex PAF1C and that chemical modulation of SEC61 inhibits DENV and ZIKV replication in human and mosquito cells. Finally, we identified a ZIKV-specific interaction between NS4A and ANKLE2, a gene linked to hereditary microcephaly, and showed that ZIKV NS4A causes microcephaly in Drosophila in an ANKLE2-dependent manner. Thus, comparative flavivirus-host PPI mapping provides biological insights and, when coupled with in vivo models, can be used to unravel pathogenic mechanisms.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An oncolytic herpesvirus expressing E-cadherin improves survival in mouse models of glioblastoma</title>
+      <link>https://example.com/article/30475349/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30475349/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The efficacy of oncolytic herpes simplex virus (oHSV) is limited by rapid viral clearance by innate immune effector cells and poor intratumoral viral spread. We combine two approaches to overcome these barriers: inhibition of natural killer (NK) cells and enhancement of intratumoral viral spread. We engineered an oHSV to express CDH1, encoding E-cadherin, an adherent molecule and a ligand for KLRG1, an inhibitory receptor expressed on NK cells. In vitro, infection with this engineered virus, named OV-CDH1, induced high surface E-cadherin expression on infected glioblastoma (GBM) cells, which typically lack endogenous E-cadherin. Ectopically expressed E-cadherin enhanced the spread of OV-CDH1 by facilitating cell-to-cell infection and viral entry and reduced viral clearance by selectively protecting OV-CDH1-infected cells from KLRG1+ NK cell killing. In vivo, OV-CDH1 treatment substantially prolonged the survival in GBM-bearing mouse models, primarily because of improved viral spread rather than inhibition of NK cell activity. Thus, virus-induced overexpression of E-cadherin may be a generalizable strategy for improving cancer virotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Low-Fidelity Assembly of Influenza A Virus Promotes Escape from Host Cells</title>
+      <link>https://example.com/article/30503209/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30503209/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Correction 1: Low-Fidelity Assembly of &lt;a href=&#34;https://www.cell.com/cell/fulltext/S0092-8674%2819%2930042-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Influenza A Virus Promotes Escape from Host Cells&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Correction 2: Low-Fidelity Assembly of &lt;a href=&#34;https://www.cell.com/cell/fulltext/S0092-8674%2819%2931390-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Influenza A Virus Promotes Escape from Host Cells&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza viruses inhabit a wide range of host environments using a limited repertoire of protein components. Unlike viruses with stereotyped shapes, influenza produces virions with significant morphological variability even within clonal populations. Whether this tendency to form pleiomorphic virions is coupled to compositional heterogeneity and whether it affects replicative fitness remains unclear. Here, we address these questions by developing a strain of influenza A virus amenable to rapid compositional characterization through quantitative, site-specific labeling of viral proteins. Using this strain, we find that influenza A produces virions with broad variations in size and composition from even single infected cells. This phenotypic variability contributes to virus survival during environmental challenges, including exposure to antivirals. Complementing genetic adaptations that act over larger populations and longer times, this “low-fidelity” assembly of influenza A virus allows small populations to survive environments that fluctuate over individual replication cycles.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Universal protection against influenza infection by a multidomain antibody to influenza hemagglutinin</title>
+      <link>https://example.com/article/30385580/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30385580/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Broadly neutralizing antibodies against highly variable pathogens have stimulated the design of vaccines and therapeutics. We report the use of diverse camelid single-domain antibodies to influenza virus hemagglutinin to generate multidomain antibodies with impressive breadth and potency. Multidomain antibody MD3606 protects mice against influenza A and B infection when administered intravenously or expressed locally from a recombinant adeno-associated virus vector. Crystal and single-particle electron microscopy structures of these antibodies with hemagglutinins from influenza A and B viruses reveal binding to highly conserved epitopes. Collectively, our findings demonstrate that multidomain antibodies targeting multiple epitopes exhibit enhanced virus cross-reactivity and potency. In combination with adeno-associated virus-mediated gene delivery, they may provide an effective strategy to prevent infection with influenza virus and other highly variable pathogens.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Infection-Induced Peroxisome Biogenesis Is a Metabolic Strategy for Herpesvirus Replication</title>
+      <link>https://example.com/article/30269970/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30269970/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Viral proteins have evolved to target cellular organelles and usurp their functions for virus replication. Despite the knowledge of these critical functions for several organelles, little is known about peroxisomes during infection. Peroxisomes are primarily metabolic organelles with important functions in lipid metabolism. Here, we discovered that the enveloped viruses human cytomegalovirus (HCMV) and herpes simplex virus type 1 (HSV-1) induce the biogenesis of and unique morphological changes to peroxisomes to support their replication. Targeted proteomic quantification revealed a global virus-induced upregulation of peroxisomal proteins. Mathematical modeling and microscopy structural analysis show that infection triggers peroxisome growth and fission, leading to increased peroxisome numbers and irregular disc-like structures. HCMV-induced peroxisome biogenesis increased the phospholipid plasmalogen, thereby enhancing virus production. Peroxisome regulation and dependence were not observed for the non-enveloped adenovirus. Our findings uncover a role of peroxisomes in viral pathogenesis, with likely implications for multiple enveloped viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An orthogonal proteomic survey uncovers novel Zika virus host factors</title>
+      <link>https://example.com/article/30177828/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30177828/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zika virus (ZIKV) has recently emerged as a global health concern owing to its widespread diffusion and its association with severe neurological symptoms and microcephaly in newborns. However, the molecular mechanisms that are responsible for the pathogenicity of ZIKV remain largely unknown. Here we use human neural progenitor cells and the neuronal cell line SK-N-BE2 in an integrated proteomics approach to characterize the cellular responses to viral infection at the proteome and phosphoproteome level, and use affinity proteomics to identify cellular targets of ZIKV proteins. Using this approach, we identify 386 ZIKV-interacting proteins, ZIKV-specific and pan-flaviviral activities as well as host factors with known functions in neuronal development, retinal defects and infertility. Moreover, our analysis identified 1,216 phosphorylation sites that are specifically up- or downregulated after ZIKV infection, indicating profound modulation of fundamental signalling pathways such as AKT, MAPK-ERK and ATM-ATR and thereby providing mechanistic insights into the proliferation arrest elicited by ZIKV infection. Functionally, our integrative study identifies ZIKV host-dependency factors and provides a comprehensive framework for a system-level understanding of ZIKV-induced perturbations at the levels of proteins and cellular pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>High-Definition Analysis of Host Protein Stability during Human Cytomegalovirus Infection Reveals Antiviral Factors and Viral Evasion Mechanisms</title>
+      <link>https://example.com/article/30122656/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30122656/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human cytomegalovirus (HCMV) is an important pathogen with multiple immune evasion strategies, including virally facilitated degradation of host antiviral restriction factors. Here, we describe a multiplexed approach to discover proteins with innate immune function on the basis of active degradation by the proteasome or lysosome during early-phase HCMV infection. Using three orthogonal proteomic/transcriptomic screens to quantify protein degradation, with high confidence we identified 35 proteins enriched in antiviral restriction factors. A final screen employed a comprehensive panel of viral mutants to predict viral genes that target &amp;gt;250 human proteins. This approach revealed that helicase-like transcription factor (HLTF), a DNA helicase important in DNA repair, potently inhibits early viral gene expression but is rapidly degraded during infection. The functionally unknown HCMV protein UL145 facilitates HLTF degradation by recruiting the Cullin4 E3 ligase complex. Our approach and data will enable further identifications of innate pathways targeted by HCMV and other viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Self-Recognition of an Inducible Host lncRNA by RIG-I Feedback Restricts Innate Immune Response</title>
