@@ -5,12 +5,37 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>CRISPR screens for functional interrogation of immunity</title>
+      <link>https://example.com/review/36481809/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36481809/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR-based technologies represent a major breakthrough in biomedical science as they offer a powerful platform for unbiased screening and functional genomics in various fields, including immunology. Pooled and arrayed CRISPR screens have uncovered previously unknown intracellular drivers in innate and adaptive immune cells for immune regulation as well as intercellular regulators mediating cell-cell interactions. Recent single-cell CRISPR screening platforms expand the readouts to the transcriptome and enable the inference of gene regulatory networks for better mechanistic insights. CRISPR screens also allow for mapping of genetic interactions to identify genes that synergize or alleviate complex immune phenotypes. Here, we review the progress in and emerging adaptation of CRISPR technologies to advance our fundamental immunological knowledge and identify novel disease targets for immunotherapy of infection, inflammation and cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Generation and multiomic profiling of a TP53/CDKN2A double-knockout gastroesophageal junction organoid model</title>

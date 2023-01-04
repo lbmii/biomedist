@@ -5,12 +5,37 @@
     <link>https://example.com/tag/gene-editing/</link>
       <atom:link href="https://example.com/tag/gene-editing/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene Editing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gene Editing</title>
       <link>https://example.com/tag/gene-editing/</link>
     </image>
+    
+    <item>
+      <title>CRISPR screens for functional interrogation of immunity</title>
+      <link>https://example.com/review/36481809/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36481809/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR-based technologies represent a major breakthrough in biomedical science as they offer a powerful platform for unbiased screening and functional genomics in various fields, including immunology. Pooled and arrayed CRISPR screens have uncovered previously unknown intracellular drivers in innate and adaptive immune cells for immune regulation as well as intercellular regulators mediating cell-cell interactions. Recent single-cell CRISPR screening platforms expand the readouts to the transcriptome and enable the inference of gene regulatory networks for better mechanistic insights. CRISPR screens also allow for mapping of genetic interactions to identify genes that synergize or alleviate complex immune phenotypes. Here, we review the progress in and emerging adaptation of CRISPR technologies to advance our fundamental immunological knowledge and identify novel disease targets for immunotherapy of infection, inflammation and cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Diverse virus-encoded CRISPR-Cas systems include streamlined genome editors</title>
@@ -178,6 +203,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Therapeutic in vivo delivery of gene editing agents</title>
+      <link>https://example.com/review/35798006/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35798006/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy is an intracellular self-digestion mechanism, by which cellular components are sorted into double-membrane autophagosomes and delivered to lysosomes for degradation. Cells use autophagy to dispose of wastes and eliminate hazards, while recycling nutrients and tuning metabolism in the process. Through these functions, autophagy promotes cell fitness, genome integrity, tissue homeostasis, and cell survival and growth under stress. Both autophagy upregulation and downregulation have been found in human cancers, suggesting a complex role in tumor development. Accumulating results from autophagy-deficient mice and mouse models of human cancers have demonstrated that autophagy generally suppresses tumor initiation, but promotes tumor progression, in a manner that is dependent on timing and context and modified by specific tumorigenic events. Given the role of autophagy in facilitating tumor growth, autophagy inhibition has gained wide attention as a potential anticancer therapy. Here, we summarize relevant genetic, preclinical, and clinical studies and discuss the multifaceted role of autophagy in cancer, as well as the prospects of autophagy inhibition for cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
