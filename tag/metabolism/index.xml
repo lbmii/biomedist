@@ -38,6 +38,138 @@
     </item>
     
     <item>
+      <title>gutMGene: a comprehensive database for target genes of gut microbes and microbial metabolites</title>
+      <link>https://example.com/article/34500458/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34500458/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt;, a manually curated database, aims at providing a comprehensive resource of target genes of gut microbes and microbial metabolites in humans and mice. Metagenomic sequencing of fecal samples has identified 3.3 × 106 non-redundant microbial genes from up to 1500 different species. One of the contributions of gut microbiota to host biology is the circulating pool of bacterially derived small-molecule metabolites. It has been estimated that 10% of metabolites found in mammalian blood are derived from the gut microbiota, where they can produce systemic effects on the host through activating or inhibiting gene expression. The current version of &lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; documents 1331 curated relationships between 332 gut microbes, 207 microbial metabolites and 223 genes in humans, and 2349 curated relationships between 209 gut microbes, 149 microbial metabolites and 544 genes in mice. Each entry in the &lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; contains detailed information on a relationship between gut microbe, microbial metabolite and target gene, a brief description of the relationship, experiment technology and platform, literature reference and so on. &lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; provides a user-friendly interface to browse and retrieve each entry using gut microbes, disorders and intervention measures. It also offers the option to download all the entries and submit new experimentally validated associations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A graph neural network model to estimate cell-wise metabolic flux using single-cell RNA-seq data</title>
+      <link>https://example.com/article/34301623/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34301623/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The metabolic heterogeneity and metabolic interplay between cells are known as significant contributors to disease treatment resistance. However, with the lack of a mature high-throughput single-cell metabolomics technology, we are yet to establish systematic understanding of the intra-tissue metabolic heterogeneity and cooperative mechanisms. To mitigate this knowledge gap, we developed a novel computational method, namely, single-cell flux estimation analysis (scFEA), to infer the cell-wise fluxome from single-cell RNA-sequencing (scRNA-seq) data. scFEA is empowered by a systematically reconstructed human metabolic map as a factor graph, a novel probabilistic model to leverage the flux balance constraints on scRNA-seq data, and a novel graph neural network-based optimization solver. The intricate information cascade from transcriptome to metabolome was captured using multilayer neural networks to capitulate the nonlinear dependency between enzymatic gene expressions and reaction rates. We experimentally validated scFEA by generating an scRNA-seq data set with matched metabolomics data on cells of perturbed oxygen and genetic conditions. Application of scFEA on this data set showed the consistency between predicted flux and the observed variation of metabolite abundance in the matched metabolomics data. We also applied scFEA on five publicly available scRNA-seq and spatial transcriptomics data sets and identified context- and cell group-specific metabolic variations. The cell-wise fluxome predicted by scFEA empowers a series of downstream analyses including identification of metabolic modules or cell groups that share common metabolic variations, sensitivity evaluation of enzymes with regards to their impact on the whole metabolic flux, and inference of cell-tissue and cell-cell metabolic communications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic modeling of single Th17 cells reveals regulators of autoimmunity</title>
+      <link>https://example.com/article/34216539/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34216539/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compass enables studying cellular metabolism based on single-cell transcriptomes&lt;/li&gt;
+&lt;li&gt;Compass links the pathogenic potential of Th17 cells with their metabolic programs&lt;/li&gt;
+&lt;li&gt;Th17 pathogenicity is associated with a switch between glycolysis and beta oxidation&lt;/li&gt;
+&lt;li&gt;The polyamine pathway is required for Th17 induction and restriction of a Treg profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metabolism is a major regulator of immune cell function, but it remains difficult to study the metabolic status of individual cells. Here, we present Compass, an algorithm to characterize cellular metabolic states based on single-cell RNA sequencing and flux balance analysis. We applied Compass to associate metabolic states with T helper 17 (Th17) functional variability (pathogenic potential) and recovered a metabolic switch between glycolysis and fatty acid oxidation, akin to known Th17/regulatory T cell (Treg) differences, which we validated by metabolic assays. Compass also predicted that Th17 pathogenicity was associated with arginine and downstream polyamine metabolism. Indeed, polyamine-related enzyme expression was enhanced in pathogenic Th17 and suppressed in Treg cells. Chemical and genetic perturbation of polyamine metabolism inhibited Th17 cytokines, promoted Foxp3 expression, and remodeled the transcriptome and epigenome of Th17 cells toward a Treg-like state. In vivo perturbations of the polyamine pathway altered the phenotype of encephalitogenic T cells and attenuated tissue inflammation in CNS autoimmunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intestinal MYC modulates obesity-related metabolic dysfunction</title>
+      <link>https://example.com/article/34211180/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34211180/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MYC is a transcription factor with broad biological functions, notably in the control of cell proliferation. Here, we show that intestinal MYC regulates systemic metabolism. We find that MYC expression is increased in ileum biopsies from individuals with obesity and positively correlates with body mass index. Intestine-specific reduction of MYC in mice improves high-fat-diet-induced obesity, insulin resistance, hepatic steatosis and steatohepatitis. Mechanistically, reduced expression of MYC in the intestine promotes glucagon-like peptide-1 (GLP-1) production and secretion. Moreover, we identify Cers4, encoding ceramide synthase 4, catalysing de novo ceramide synthesis, as a MYC target gene. Finally, we show that administration of the MYC inhibitor 10058-F4 has beneficial effects on high-fat-diet-induced metabolic disorders, and is accompanied by increased GLP-1 and reduced ceramide levels in serum. This study positions intestinal MYC as a putative drug target against metabolic diseases, including non-alcoholic fatty liver disease and non-alcoholic steatohepatitis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The metabolite α-KG induces GSDMC-dependent pyroptosis through death receptor 6-activated caspase-8</title>
+      <link>https://example.com/article/34012073/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34012073/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pyroptosis is a form of regulated cell death mediated by gasdermin family members, among which the function of GSDMC has not been clearly described. Herein, we demonstrate that the metabolite α-ketoglutarate (α-KG) induces pyroptosis through caspase-8-mediated cleavage of GSDMC. Treatment with DM-αKG, a cell-permeable derivative of α-KG, elevates ROS levels, which leads to oxidation of the plasma membrane-localized death receptor DR6. Oxidation of DR6 triggers its endocytosis, and then recruits both pro-caspase-8 and GSDMC to a DR6 receptosome through protein-protein interactions. The DR6 receptosome herein provides a platform for the cleavage of GSDMC by active caspase-8, thereby leading to pyroptosis. Moreover, this α-KG-induced pyroptosis could inhibit tumor growth and metastasis in mouse models. Interestingly, the efficiency of α-KG in inducing pyroptosis relies on an acidic environment in which α-KG is reduced by MDH1 and converted to L-2HG that further boosts ROS levels. Treatment with lactic acid, the end product of glycolysis, builds an improved acidic environment to facilitate more production of L-2HG, which makes the originally pyroptosis-resistant cancer cells more susceptible to α-KG-induced pyroptosis. This study not only illustrates a pyroptotic pathway linked with metabolites but also identifies an unreported principal axis extending from ROS-initiated DR6 endocytosis to caspase-8-mediated cleavage of GSDMC for potential clinical application in tumor therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Serine metabolism antagonizes antiviral innate immunity by preventing ATP6V0d2-mediated YAP lysosomal degradation</title>
       <link>https://example.com/article/33798471/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -348,6 +480,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification and Characterization of Robust Hepatocellular Carcinoma Prognostic Subtypes Based on an Integrative Metabolite-Protein Interaction Network</title>
+      <link>https://example.com/article/34247449/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34247449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metabolite-protein interactions (MPIs) play key roles in cancer metabolism. However, our current knowledge about MPIs in cancers remains limited due to the complexity of cancer cells. Herein, the authors construct an integrative MPI network and propose a MPI network based hepatocellular carcinoma (HCC) subtyping and mechanism exploration workflow. Based on the expressions of hub proteins on the MPI network, two prognosis-distinctive HCC subtypes are identified. Meanwhile, multiple interdependent features of the poor prognostic subtype are observed, including hypoxia, DNA hypermethylation of metabolic pathways, fatty acid accumulation, immune pathway up-regulation, and exhausted T-cell infiltration. Notably, the immune pathway up-regulation is probably induced by accumulated unsaturated fatty acids which are predicted to interact with multiple immune regulators like SRC and TGFB1. Moreover, based on tumor microenvironment compositions, the poor prognostic subtype is further divided into two sub-populations showing remarkable differences in metabolism. The subtyping shows a strong consistency across multiple HCC cohorts including early-stage HCC. Overall, the authors redefine robust HCC prognosis subtypes and identify potential MPIs linking metabolism to immune regulations, thus promoting understanding and clinical applications about HCC metabolism heterogeneity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

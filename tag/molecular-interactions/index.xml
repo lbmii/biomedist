@@ -104,6 +104,60 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>An atlas of protein-protein interactions across mouse tissues</title>
+      <link>https://example.com/article/34214469/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34214469/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cellular processes arise from the dynamic organization of proteins in networks of physical interactions. Mapping the interactome has therefore been a central objective of high-throughput biology. However, the dynamics of protein interactions across physiological contexts remain poorly understood. Here, we develop a quantitative proteomic approach combining protein correlation profiling with stable isotope labeling of mammals (PCP-SILAM) to map the interactomes of seven mouse tissues. The resulting maps provide a proteome-scale survey of interactome rewiring across mammalian tissues, revealing more than 125,000 unique interactions at a quality comparable to the highest-quality human screens. We identify systematic suppression of cross-talk between the evolutionarily ancient housekeeping interactome and younger, tissue-specific modules. Rewired proteins are tightly regulated by multiple cellular mechanisms and are implicated in disease. Our study opens up new avenues to uncover regulatory mechanisms that shape in vivo interactome responses to physiological and pathophysiological stimuli in mammalian systems.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Global in situ profiling of RNA-RNA spatial interactions with RIC-seq</title>
+      <link>https://example.com/article/34021296/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34021296/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;To learn more about the technique, following article published in Nature may teach you a lot:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cai, Z. et al. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32499643/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIC-seq for global in situ profiling of RNA-RNA spatial interactions&lt;/a&gt;. &lt;a href=&#34;https://www.nature.com/articles/s41586-020-2249-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature&lt;/a&gt; 582, 432–437 (2020).&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emerging evidence has demonstrated that RNA-RNA interactions are vital in controlling diverse biological processes, including transcription, RNA splicing and protein translation. RNA in situ conformation sequencing (RIC-seq) is a technique for capturing protein-mediated RNA-RNA proximal interactions globally in living cells at single-base resolution. Cells are first treated with formaldehyde to fix all the protein-mediated RNA-RNA interactions in situ. After cell permeabilization and micrococcal nuclease digestion, the proximally interacting RNAs are 3&amp;rsquo; end-labeled with pCp-biotin and subsequently ligated using T4 RNA ligase. The chimeric RNAs are then enriched and converted into libraries for paired-end sequencing. After deep sequencing, computational analysis yields interaction strength scores for every base on proximally interacting RNAs in the starting populations. The whole experimental procedure is designed to be completed within 6 d, followed by an additional 8 d for computational analysis. RIC-seq technology can unbiasedly detect intra- and intermolecular RNA-RNA interactions, thereby rendering it useful for reconstructing RNA higher-order structures and identifying direct noncoding RNA targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Interaction of the NRF2 and p63 transcription factors promotes keratinocyte proliferation in the epidermis</title>
       <link>https://example.com/article/33764436/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
@@ -312,6 +366,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
 &lt;!---more---&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Genomics, epigenomics, transcriptomics, proteomics and metabolomics efforts rapidly generate a plethora of data on the activity and levels of biomolecules within mammalian cells. At the same time, curation projects that organize knowledge from the biomedical literature into online databases are expanding. Hence, there is a wealth of information about genes, proteins and their associations, with an urgent need for data integration to achieve better knowledge extraction and data reuse. For this purpose, we developed the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;: a collection of processed datasets gathered to serve and mine knowledge about genes and proteins from over 70 major online resources. We extracted, abstracted and organized data into ∼72 million functional associations between genes/proteins and their attributes. Such attributes could be physical relationships with other biomolecules, expression in cell lines and tissues, genetic associations with knockout mouse or human phenotypes, or changes in expression after drug treatment. We stored these associations in a relational database along with rich metadata for the genes/proteins, their attributes and the original resources. The freely available &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; web portal provides a graphical user interface, a web service and a mobile app for querying, browsing and downloading all of the collected data. To demonstrate the utility of the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;, we computed and visualized gene–gene and attribute–attribute similarity networks, and through unsupervised clustering, identified many unexpected relationships by combining pairs of datasets such as the association between kinase perturbations and disease signatures. We also applied supervised machine learning methods to predict novel substrates for kinases, endogenous ligands for G-protein coupled receptors, mouse phenotypes for knockout genes, and classified unannotated transmembrane proteins for likelihood of being ion channels. The &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; is a comprehensive resource of knowledge about genes and proteins, and as such, it enables researchers to discover novel relationships between biological entities, as well as form novel data-driven hypotheses for experimental validation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification and Characterization of Robust Hepatocellular Carcinoma Prognostic Subtypes Based on an Integrative Metabolite-Protein Interaction Network</title>
+      <link>https://example.com/article/34247449/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34247449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metabolite-protein interactions (MPIs) play key roles in cancer metabolism. However, our current knowledge about MPIs in cancers remains limited due to the complexity of cancer cells. Herein, the authors construct an integrative MPI network and propose a MPI network based hepatocellular carcinoma (HCC) subtyping and mechanism exploration workflow. Based on the expressions of hub proteins on the MPI network, two prognosis-distinctive HCC subtypes are identified. Meanwhile, multiple interdependent features of the poor prognostic subtype are observed, including hypoxia, DNA hypermethylation of metabolic pathways, fatty acid accumulation, immune pathway up-regulation, and exhausted T-cell infiltration. Notably, the immune pathway up-regulation is probably induced by accumulated unsaturated fatty acids which are predicted to interact with multiple immune regulators like SRC and TGFB1. Moreover, based on tumor microenvironment compositions, the poor prognostic subtype is further divided into two sub-populations showing remarkable differences in metabolism. The subtyping shows a strong consistency across multiple HCC cohorts including early-stage HCC. Overall, the authors redefine robust HCC prognosis subtypes and identify potential MPIs linking metabolism to immune regulations, thus promoting understanding and clinical applications about HCC metabolism heterogeneity.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

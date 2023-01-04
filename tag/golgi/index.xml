@@ -5,12 +5,37 @@
     <link>https://example.com/tag/golgi/</link>
       <atom:link href="https://example.com/tag/golgi/index.xml" rel="self" type="application/rss+xml" />
     <description>Golgi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Golgi</title>
       <link>https://example.com/tag/golgi/</link>
     </image>
+    
+    <item>
+      <title>A Golgi-derived vesicle potentiates PtdIns4P to PtdIns3P conversion for endosome fission</title>
+      <link>https://example.com/article/34183801/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34183801/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Endosome fission is essential for cargo sorting and targeting in the endosomal system. However, whether organelles other than the endoplasmic reticulum (ER) participate in endosome fission through membrane contacts is unknown. Here, we characterize a Golgi-derived vesicle, the SEC14L2 compartment, that plays a unique role in facilitating endosome fission through ternary contacts with endosomes and the ER. Localized to the ER-mediated endosome fission site, the phosphatidylinositol transfer protein SEC14L2 promotes phosphatidylinositol 4-phosphate (PtdIns4P) to phosphatidylinositol 3-phosphate (PtdIns3P) conversion before endosome fission. In the absence of SEC14L2, endosome fission is attenuated and more enlarged endosomes arise due to endosomal accumulation of PtdIns4P and reduction in PtdIns3P. Collectively, our data suggest roles of the Golgi network in ER-associated endosome fission and a mechanism involving ER-endosome contacts in the regulation of endosomal phosphoinositide conversion.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Proteomics reveals distinct mechanisms regulating the release of cytokines and alarmins during pyroptosis</title>

@@ -98,6 +98,31 @@
     </item>
     
     <item>
+      <title>scMethBank: a database for single-cell whole genome DNA methylation maps</title>
+      <link>https://example.com/article/34570235/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34570235/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell bisulfite sequencing methods are widely used to assess epigenomic heterogeneity in cell states. Over the past few years, large amounts of data have been generated and facilitated deeper understanding of the epigenetic regulation of many key biological processes including early embryonic development, cell differentiation and tumor progression. It is an urgent need to build a functional resource platform with the massive amount of data. Here, we present scMethBank, the first open access and comprehensive database dedicated to the collection, integration, analysis and visualization of single-cell DNA methylation data and metadata. Current release of scMethBank includes processed single-cell bisulfite sequencing data and curated metadata of 8328 samples derived from 15 public single-cell datasets, involving two species (human and mouse), 29 cell types and two diseases. In summary, scMethBank aims to assist researchers who are interested in cell heterogeneity to explore and utilize whole genome methylation data at single-cell level by providing browse, search, visualization, download functions and user-friendly online tools.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Spatiotemporal dissection of the cell cycle with single-cell proteogenomics</title>
       <link>https://example.com/article/33627808/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>

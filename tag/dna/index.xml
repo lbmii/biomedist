@@ -58,6 +58,31 @@
     </item>
     
     <item>
+      <title>scMethBank: a database for single-cell whole genome DNA methylation maps</title>
+      <link>https://example.com/article/34570235/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34570235/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell bisulfite sequencing methods are widely used to assess epigenomic heterogeneity in cell states. Over the past few years, large amounts of data have been generated and facilitated deeper understanding of the epigenetic regulation of many key biological processes including early embryonic development, cell differentiation and tumor progression. It is an urgent need to build a functional resource platform with the massive amount of data. Here, we present scMethBank, the first open access and comprehensive database dedicated to the collection, integration, analysis and visualization of single-cell DNA methylation data and metadata. Current release of scMethBank includes processed single-cell bisulfite sequencing data and curated metadata of 8328 samples derived from 15 public single-cell datasets, involving two species (human and mouse), 29 cell types and two diseases. In summary, scMethBank aims to assist researchers who are interested in cell heterogeneity to explore and utilize whole genome methylation data at single-cell level by providing browse, search, visualization, download functions and user-friendly online tools.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Encyclopedia of transcription factor</title>
       <link>https://example.com/tool/2021-08-06-en-tf/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
@@ -140,6 +165,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long noncoding RNA BS-DRL1 modulates the DNA damage response and genome stability by interacting with HMGB1 in neurons</title>
+      <link>https://example.com/article/34210972/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34210972/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long noncoding RNAs (lncRNAs) are known to regulate DNA damage response (DDR) and genome stability in proliferative cells. However, it remains unknown whether lncRNAs are involved in these vital biological processes in post-mitotic neurons. Here, we report and characterize a lncRNA, termed Brain Specific DNA-damage Related lncRNA1 (BS-DRL1), in the central nervous system. BS-DRL1 is a brain-specific lncRNA and depletion of BS-DRL1 in neurons leads to impaired DDR upon etoposide treatment in vitro. Mechanistically, BS-DRL1 interacts with HMGB1, a chromatin protein that is important for genome stability, and is essential for the assembly of HMGB1 on chromatin. BS-DRL1 mediated DDR exhibits cell-type specificity in the cortex and cerebellum in gamma-irradiated mice and BS-DRL1 knockout mice show impaired motor function and concomitant purkinje cell degeneration. Our study extends the understanding of lncRNAs in DDR and genome stability and implies a protective role of lncRNA against neurodegeneration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

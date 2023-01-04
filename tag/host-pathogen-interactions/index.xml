@@ -5,12 +5,664 @@
     <link>https://example.com/tag/host-pathogen-interactions/</link>
       <atom:link href="https://example.com/tag/host-pathogen-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Host-Pathogen Interactions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Host-Pathogen Interactions</title>
       <link>https://example.com/tag/host-pathogen-interactions/</link>
     </image>
+    
+    <item>
+      <title>MVIP: multi-omics portal of viral infection</title>
+      <link>https://example.com/article/34718748/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34718748/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Virus infections are huge threats to living organisms and cause many diseases, such as COVID-19 caused by SARS-CoV-2, which has led to millions of deaths. To develop effective strategies to control viral infection, we need to understand its molecular events in host cells. Virus related functional genomic datasets are growing rapidly, however, an integrative platform for systematically investigating host responses to viruses is missing. Here, we developed a user-friendly multi-omics portal of viral infection named as &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt;. We manually collected available high-throughput sequencing data under viral infection, and unified their detailed metadata including virus, host species, infection time, assay, and target, etc. We processed multi-layered omics data of more than 4900 viral infected samples from 77 viruses and 33 host species with standard pipelines, including RNA-seq, ChIP-seq, and CLIP-seq, etc. In addition, we integrated these genome-wide signals into customized genome browsers, and developed multiple dynamic charts to exhibit the information, such as time-course dynamic and differential gene expression profiles, alternative splicing changes and enriched GO/KEGG terms. Furthermore, we implemented several tools for efficiently mining the virus-host interactions by virus, host and genes. &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt; would help users to retrieve large-scale functional information and promote the understanding of virus-host interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IRF3-binding lncRNA-ISIR strengthens interferon production in viral infection and autoinflammation</title>
+      <link>https://example.com/article/34731629/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34731629/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interferon regulatory factor 3 (IRF3) is an essential transductor for initiation of many immune responses. Here, we show that lncRNA-ISIR directly binds IRF3 to promote its phosphorylation, dimerization, and nuclear translocation, along with enhanced target gene productions. In vivo lncRNA-ISIR deficiency results in reduced IFN production, uncontrolled viral replication, and increased mortality. The human homolog, AK131315, also binds IRF3 and promotes its activation. More important, AK131315 expression is positively correlated with type I interferon (IFN-I) level and severity in patients with lupus. Mechanistically, in resting cells, IRF3 is bound to suppressor protein Flightless-1 (Fli-1), which keeps its inactive state. Upon infection, IFN-I-induced lncRNA-ISIR binds IRF3 at DNA-binding domain in cytoplasm and removes Fli-1&amp;rsquo;s association from IRF3, consequently facilitating IRF3 activation. Our results demonstrate that IFN-I-inducible lncRNA-ISIR feedback strengthens IRF3 activation by removing suppressive Fli-1 in immune responses, revealing a method of lncRNA-mediated modulation of transcription factor (TF) activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 promotes RIPK1 activation to facilitate viral propagation</title>
+      <link>https://example.com/article/34663909/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34663909/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is the ongoing global pandemic that poses substantial challenges to public health worldwide. A subset of COVID-19 patients experience systemic inflammatory response, known as cytokine storm, which may lead to death. Receptor-interacting serine/threonine-protein kinase 1 (RIPK1) is an important mediator of inflammation and cell death. Here, we examined the interaction of RIPK1-mediated innate immunity with SARS-CoV-2 infection. We found evidence of RIPK1 activation in human COVID-19 lung pathological samples, and cultured human lung organoids and ACE2 transgenic mice infected by SARS-CoV-2. Inhibition of RIPK1 using multiple small-molecule inhibitors reduced the viral load of SARS-CoV-2 in human lung organoids. Furthermore, therapeutic dosing of the RIPK1 inhibitor Nec-1s reduced mortality and lung viral load, and blocked the CNS manifestation of SARS-CoV-2 in ACE2 transgenic mice. Mechanistically, we found that the RNA-dependent RNA polymerase of SARS-CoV-2, NSP12, a highly conserved central component of coronaviral replication and transcription machinery, promoted the activation of RIPK1. Furthermore, NSP12 323L variant, encoded by the SARS-CoV-2 C14408T variant first detected in Lombardy, Italy, that carries a Pro323Leu amino acid substitution in NSP12, showed increased ability to activate RIPK1. Inhibition of RIPK1 downregulated the transcriptional induction of proinflammatory cytokines and host factors including ACE2 and EGFR that promote viral entry into cells. Our results suggest that SARS-CoV-2 may have an unexpected and unusual ability to hijack the RIPK1-mediated host defense response to promote its own propagation and that inhibition of RIPK1 may provide a therapeutic option for the treatment of COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cis-acting lnc-Cxcl2 restrains neutrophil-mediated lung inflammation by inhibiting epithelial cell CXCL2 expression in virus infection</title>
+      <link>https://example.com/article/34607953/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34607953/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chemokine production by epithelial cells is important for neutrophil recruitment during viral infection, the appropriate regulation of which is critical for restraining inflammation and attenuating subsequent tissue damage. Epithelial cell expression of long noncoding RNAs (lncRNAs), RNA-binding proteins, and their functional interactions during viral infection and inflammation remain to be fully understood. Here, we identified an inducible lncRNA in the &lt;em&gt;Cxcl2&lt;/em&gt; gene locus, lnc-Cxcl2, which could selectively inhibit &lt;em&gt;Cxcl2&lt;/em&gt; expression in mouse lung epithelial cells but not in macrophages. lnc-Cxcl2-deficient mice exhibited increased &lt;em&gt;Cxcl2&lt;/em&gt; expression, enhanced neutrophils recruitment, and more severe inflammation in the lung after influenza virus infection. Mechanistically, nucleus-localized lnc-Cxcl2 bound to &lt;em&gt;Cxcl2&lt;/em&gt; promoter, recruited a ribonucleoprotein La, which inhibited the chromatin accessibility of chemokine promoters, and consequently inhibited &lt;em&gt;Cxcl2&lt;/em&gt; transcription in cis However, unlike mouse lnc-Cxcl2, human lnc-CXCL2-4-1 inhibited multiple immune cytokine expressions including chemokines in human lung epithelial cells. Together, our results demonstrate a self-protecting mechanism within epithelial cells to restrain chemokine and neutrophil-mediated inflammation, providing clues for better understanding chemokine regulation and epithelial cell function in lung viral infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CLpro substrate degradome</title>
+      <link>https://example.com/article/34672947/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34672947/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An atlas of 101 human cell substrates of SARS-CoV-2 3CL&lt;sup&gt;pro&lt;/sup&gt; and 58 candidate substrates is presented&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SARS-CoV-2 3CL&lt;sup&gt;pro&lt;/sup&gt; redundantly targets the hippo and antiviral xenophagy pathways&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Galectin-8 binds as an intracellular sensor for CoV-2 spike protein that 3CL&lt;sup&gt;pro&lt;/sup&gt; cuts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cytosolic translocation of PTBP1 from the nucleus follows proteolytic removal of an NLS&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The main viral protease (3CL&lt;sup&gt;pro&lt;/sup&gt;) is indispensable for SARS-CoV-2 replication. We delineate the human protein substrate landscape of 3CL&lt;sup&gt;pro&lt;/sup&gt; by TAILS substrate-targeted N-terminomics. We identify more than 100 substrates in human lung and kidney cells supported by analyses of SARS-CoV-2-infected cells. Enzyme kinetics and molecular docking simulations of 3CL&lt;sup&gt;pro&lt;/sup&gt; engaging substrates reveal how noncanonical cleavage sites, which diverge from SARS-CoV, guide substrate specificity. Cleaving the interactors of essential effector proteins, effectively stranding them from their binding partners, amplifies the consequences of proteolysis. We show that 3CL&lt;sup&gt;pro&lt;/sup&gt; targets the Hippo pathway, including inactivation of MAP4K5, and key effectors of transcription, mRNA processing, and translation. We demonstrate that Spike glycoprotein directly binds galectin-8, with galectin-8 cleavage disengaging CALCOCO2/NDP52 to decouple antiviral-autophagy. Indeed, in post-mortem COVID-19 lung samples, NDP52 rarely colocalizes with galectin-8, unlike in healthy lungs. The 3CL&lt;sup&gt;pro&lt;/sup&gt; substrate degradome establishes a foundational substrate atlas to accelerate exploration of SARS-CoV-2 pathology and drug design.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Virus-induced senescence is a driver and therapeutic target in COVID-19</title>
+      <link>https://example.com/article/34517409/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34517409/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Derailed cytokine and immune cell networks account for the organ damage and the clinical severity of COVID-19. Here we show that SARS-CoV-2, like other viruses, evokes cellular senescence as a primary stress response in infected cells. Virus-induced senescence (VIS) is indistinguishable from other forms of cellular senescence and is accompanied by a senescence-associated secretory phenotype (SASP), which comprises pro-inflammatory cytokines, extracellular-matrix-active factors and pro-coagulatory mediators. Patients with COVID-19 displayed markers of senescence in their airway mucosa in situ and increased serum levels of SASP factors. In vitro assays demonstrated macrophage activation with SASP-reminiscent secretion, complement lysis and SASP-amplifying secondary senescence of endothelial cells, which mirrored hallmark features of COVID-19 such as macrophage and neutrophil infiltration, endothelial damage and widespread thrombosis in affected lung tissue. Moreover, supernatant from VIS cells, including SARS-CoV-2-induced senescence, induced neutrophil extracellular trap formation and activation of platelets and the clotting cascade. Senolytics such as navitoclax and a combination of dasatinib plus quercetin selectively eliminated VIS cells, mitigated COVID-19-reminiscent lung disease and reduced inflammation in SARS-CoV-2-infected hamsters and mice. Our findings mark VIS as a pathogenic trigger of COVID-19-related cytokine escalation and organ damage, and suggest that senolytic targeting of virus-infected cells is a treatment option against SARS-CoV-2 and perhaps other viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Biosafety Level 2 Mouse Model for Studying Betacoronavirus-Induced Acute Lung Damage and Systemic Manifestations</title>
+      <link>https://example.com/article/34495692/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34495692/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The emergence of life-threatening zoonotic diseases caused by betacoronaviruses, including the ongoing coronavirus disease 19 (COVID-19) pandemic, has highlighted the need for developing preclinical models mirroring respiratory and systemic pathophysiological manifestations seen in infected humans. Here, we showed that C57BL/6J wild-type mice intranasally inoculated with the murine betacoronavirus murine hepatitis coronavirus 3 (MHV-3) develop a robust inflammatory response leading to acute lung injuries, including alveolar edema, hemorrhage, and fibrin thrombi. Although such histopathological changes seemed to resolve as the infection advanced, they efficiently impaired respiratory function, as the infected mice displayed restricted lung distention and increased respiratory frequency and ventilation. Following respiratory manifestation, the MHV-3 infection became systemic, and a high virus burden could be detected in multiple organs along with morphological changes. The systemic manifestation of MHV-3 infection was also marked by a sharp drop in the number of circulating platelets and lymphocytes, besides the augmented concentration of the proinflammatory cytokines interleukin 1 beta (IL-1β), IL-6, IL-12, gamma interferon (IFN-γ), and tumor necrosis factor (TNF), thereby mirroring some clinical features observed in moderate and severe cases of COVID-19. Importantly, both respiratory and systemic changes triggered by MHV-3 infection were greatly prevented by blocking TNF signaling, either via genetic or pharmacologic approaches. In line with this, TNF blockage also diminished the infection-mediated release of proinflammatory cytokines and virus replication of human epithelial lung cells infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Collectively, results show that MHV-3 respiratory infection leads to a large range of clinical manifestations in mice and may constitute an attractive, lower-cost, biosafety level 2 (BSL2) in vivo platform for evaluating the respiratory and multiorgan involvement of betacoronavirus infections.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mouse models have long been used as valuable in vivo platforms to investigate the pathogenesis of viral infections and effective countermeasures. The natural resistance of mice to the novel betacoronavirus SARS-CoV-2, the causative agent of COVID-19, has launched a race toward the characterization of SARS-CoV-2 infection in other animals (e.g., hamsters, cats, ferrets, bats, and monkeys), as well as adaptation of the mouse model, by modifying either the host or the virus. In the present study, we utilized a natural pathogen of mice, MHV, as a prototype to model betacoronavirus-induced acute lung injure and multiorgan involvement under biosafety level 2 conditions. We showed that C57BL/6J mice intranasally inoculated with MHV-3 develops severe disease, which includes acute lung damage and respiratory distress that precede systemic inflammation and death. Accordingly, the proposed animal model may provide a useful tool for studies regarding betacoronavirus respiratory infection and related diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Degradation of WTAP blocks antiviral responses by reducing the m6A levels of IRF3 and IFNAR1 mRNA</title>
+      <link>https://example.com/article/34467630/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34467630/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A) is a chemical modification present in multiple RNA species and is most abundant in mRNAs. Studies on m&lt;sup&gt;6&lt;/sup&gt;A reveal its comprehensive roles in almost every aspect of mRNA metabolism, as well as in a variety of physiological processes. Although some recent discoveries indicate that m&lt;sup&gt;6&lt;/sup&gt;A can affect the life cycles of numerous viruses as well as the cellular antiviral immune response, the roles of m&lt;sup&gt;6&lt;/sup&gt;A modification in type I interferon (IFN-I) signaling are still largely unknown. Here, we reveal that WT1-associated protein (WTAP), one of the m&lt;sup&gt;6&lt;/sup&gt;A &amp;ldquo;writers&amp;rdquo;, is degraded via the ubiquitination-proteasome pathway upon activation of IFN-I signaling. With the degradation of WTAP, the m&lt;sup&gt;6&lt;/sup&gt;A levels of IFN-regulatory factor 3 (IRF3) and interferon alpha/beta receptor subunit 1 (IFNAR1) mRNAs are reduced, leading to translational suppression of IRF3 and instability of IFNAR1 mRNA. Thus, the WTAP-IRF3/IFNAR1 axis may serve as negative feedback pathway to fine-tune the activation of IFN-I signaling, which highlights the roles of m&lt;sup&gt;6&lt;/sup&gt;A in the antiviral response by dictating the fate of mRNAs associated with IFN-I signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>African Swine Fever Virus E120R Protein Inhibits Interferon Beta Production by Interacting with IRF3 To Block Its Activation</title>
+      <link>https://example.com/article/34190598/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34190598/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;African swine fever is a devastating disease of swine caused by African swine fever virus (ASFV). The pathogenesis of the disease remains largely unknown, leaving the spread of the disease uncontrolled in many countries and regions. Here, we identified E120R, a structural protein of ASFV, as a key virulence factor and late-phase-expressed protein of the virus. E120R revealed an activity to suppress the host antiviral response through blocking beta interferon (IFN-β) production, and the amino acids (aa) at sites 72 and 73 (amino acids 72-73) in the C-terminal domain were essential for this function. E120R interacted with interferon regulatory factor 3 (IRF3) and interfered with the recruitment of IRF3 to TANK-binding kinase 1 (TBK1), which in turn suppressed IRF3 phosphorylation, decreasing interferon production. A recombinant mutant ASFV was further constructed to confirm the claimed mechanism. The ASFV lacking the complete E120R region could not be rescued, whereas the virus could tolerate the deletion of the 72nd and 73rd residues in E120R (ASFV E120R-Δ72-73aa). ASFV E120R with the two-amino-acid deletion failed to interact with IRF3 during ASFV E120R-Δ72-73aa infection, and the viral infection activated IRF3 phosphorylation highly and induced more robust type I interferon production than its parental ASFV. An unbiased transcriptome-wide analysis of gene expression also confirmed that considerably more IFN-stimulated genes (ISGs) were detected in ASFV E120R-Δ72-73aa-infected porcine alveolar macrophages (PAMs) than in wild-type ASFV-infected PAMs. Together, our findings have identified a novel mechanism evolved by ASFV to inhibit the host antiviral response, and they provide a new target for guiding the development of ASFV live-attenuated vaccine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;African swine fever is a highly contagious animal disease affecting the pig industry worldwide, which has brought enormous economic losses. Infection by the causative agent, African swine fever virus (ASFV), causes severe immunosuppression during viral infection, contributing to serious clinical manifestations. Therefore, identification of the viral proteins involved in immunosuppression is critical for ASFV vaccine design and development. Here, for the first time, we demonstrated that E120R protein, a structural protein of ASFV, played an important role in suppression of interferon regulatory factor 3 (IRF3) phosphorylation and type I interferon production by binding to IRF3 and blocking the recruitment of IRF3 to TANK-binding kinase 1 (TBK1). Deletion of the crucial binding sites in E120R critically increased the interferon response during ASFV infection. This study explored a novel antagonistic mechanism of ASFV, which is critical for guiding the development of ASFV live-attenuated vaccines.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HIF-1α promotes SARS-CoV-2 infection and aggravates inflammatory responses to COVID-19</title>
+      <link>https://example.com/article/34408131/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34408131/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cytokine storm induced by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is a major pathological feature of Coronavirus Disease 2019 (COVID-19) and a crucial determinant in COVID-19 prognosis. Understanding the mechanism underlying the SARS-CoV-2-induced cytokine storm is critical for COVID-19 control. Here, we identify that SARS-CoV-2 ORF3a and host hypoxia-inducible factor-1α (HIF-1α) play key roles in the virus infection and pro-inflammatory responses. RNA sequencing shows that HIF-1α signaling, immune response, and metabolism pathways are dysregulated in COVID-19 patients. Clinical analyses indicate that HIF-1α production, inflammatory responses, and high mortalities occurr in elderly patients. HIF-1α and pro-inflammatory cytokines are elicited in patients and infected cells. Interestingly, SARS-CoV-2 ORF3a induces mitochondrial damage and Mito-ROS production to promote HIF-1α expression, which subsequently facilitates SARS-CoV-2 infection and cytokines production. Notably, HIF-1α also broadly promotes the infection of other viruses. Collectively, during SARS-CoV-2 infection, ORF3a induces HIF-1α, which in turn aggravates viral infection and inflammatory responses. Therefore, HIF-1α plays an important role in promoting SARS-CoV-2 infection and inducing pro-inflammatory responses to COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MARCH8 inhibits influenza A virus infection by targeting viral M2 protein for ubiquitination-dependent degradation in lysosomes</title>
+      <link>https://example.com/article/34285233/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34285233/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The membrane-associated RING-CH (MARCH) proteins are E3 ligases that regulate the stability of various cellular membrane proteins. MARCH8 has been reported to inhibit the infection of HIV-1 and a few other viruses, thus plays an important role in host antiviral defense. However, the antiviral spectrum and the underlying mechanisms of MARCH8 are incompletely defined. Here, we demonstrate that MARCH8 profoundly inhibits influenza A virus (IAV) replication both in vitro and in mice. Mechanistically, MARCH8 suppresses IAV release through redirecting viral M2 protein from the plasma membrane to lysosomes for degradation. Specifically, MARCH8 catalyzes the K63-linked polyubiquitination of M2 at lysine residue 78 (K78). A recombinant A/Puerto Rico/8/34 virus carrying the K78R M2 protein shows greater replication and more severe pathogenicity in cells and mice. More importantly, we found that the M2 protein of the H1N1 IAV has evolved to acquire non-lysine amino acids at positions 78/79 to resist MARCH8-mediated ubiquitination and degradation. Together, our data support the important role of MARCH8 in host anti-IAV intrinsic immune defense by targeting M2, and suggest the inhibitory pressure of MARCH8 on H1N1 IAV transmission in the human population.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Protective Zika vaccines engineered to eliminate enhancement of dengue infection via immunodominance switch</title>
+      <link>https://example.com/article/34267374/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34267374/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antibody-dependent enhancement (ADE) is an important safety concern for vaccine development against dengue virus (DENV) and its antigenically related Zika virus (ZIKV) because vaccine may prime deleterious antibodies to enhance natural infections. Cross-reactive antibodies targeting the conserved fusion loop epitope (FLE) are known as the main sources of ADE. We design ZIKV immunogens engineered to change the FLE conformation but preserve neutralizing epitopes. Single vaccination conferred sterilizing immunity against ZIKV without ADE of DENV-serotype 1-4 infections and abrogated maternal-neonatal transmission in mice. Unlike the wild-type-based vaccine inducing predominately cross-reactive ADE-prone antibodies, B cell profiling revealed that the engineered vaccines switched immunodominance to dispersed patterns without DENV enhancement. The crystal structure of the engineered immunogen showed the dimeric conformation of the envelope protein with FLE disruption. We provide vaccine candidates that will prevent both ZIKV infection and infection-/vaccination-induced DENV ADE.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Whole-genome profiling of nasopharyngeal carcinoma reveals viral-host co-operation in inflammatory NF-κB activation and immune escape</title>
+      <link>https://example.com/article/34234122/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34234122/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Author Correction: &lt;a href=&#34;https://www.nature.com/articles/s41467-022-32156-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whole-genome profiling of nasopharyngeal carcinoma reveals viral-host co-operation in inflammatory NF-κB activation and immune escape&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interplay between EBV infection and acquired genetic alterations during nasopharyngeal carcinoma (NPC) development remains vague. Here we report a comprehensive genomic analysis of 70 NPCs, combining whole-genome sequencing (WGS) of microdissected tumor cells with EBV oncogene expression to reveal multiple aspects of cellular-viral co-operation in tumorigenesis. Genomic aberrations along with EBV-encoded LMP1 expression underpin constitutive NF-κB activation in 90% of NPCs. A similar spectrum of somatic aberrations and viral gene expression undermine innate immunity in 79% of cases and adaptive immunity in 47% of cases; mechanisms by which NPC may evade immune surveillance despite its pro-inflammatory phenotype. Additionally, genomic changes impairing TGFBR2 promote oncogenesis and stabilize EBV infection in tumor cells. Fine-mapping of CDKN2A/CDKN2B deletion breakpoints reveals homozygous MTAP deletions in 32-34% of NPCs that confer marked sensitivity to MAT2A inhibition. Our work concludes that NPC is a homogeneously NF-κB-driven and immune-protected, yet potentially druggable, cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Arginine monomethylation by PRMT7 controls MAVS-mediated antiviral innate immunity</title>
+      <link>https://example.com/article/34171297/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34171297/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Accurate control of innate immune responses is required to eliminate invading pathogens and simultaneously avoid autoinflammation and autoimmune diseases. Here, we demonstrate that arginine monomethylation precisely regulates the mitochondrial antiviral-signaling protein (MAVS)-mediated antiviral response. Protein arginine methyltransferase 7 (PRMT7) forms aggregates to catalyze MAVS monomethylation at arginine residue 52 (R52), attenuating its binding to TRIM31 and RIG-I, which leads to the suppression of MAVS aggregation and subsequent activation. Upon virus infection, aggregated PRMT7 is disabled in a timely manner due to automethylation at arginine residue 32 (R32), and SMURF1 is recruited to PRMT7 by MAVS to induce proteasomal degradation of PRMT7, resulting in the relief of PRMT7 suppression of MAVS activation. Therefore, we not only reveal that arginine monomethylation by PRMT7 negatively regulates MAVS-mediated antiviral signaling in vitro and in vivo but also uncover a mechanism by which PRMT7 is tightly controlled to ensure the timely activation of antiviral defense.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Endogenous retroviruses promote homeostatic and inflammatory responses to the microbiota</title>
+      <link>https://example.com/article/34166614/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34166614/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The microbiota plays a fundamental role in regulating host immunity. However, the processes involved in the initiation and regulation of immunity to the microbiota remain largely unknown. Here, we show that the skin microbiota promotes the discrete expression of defined endogenous retroviruses (ERVs). Keratinocyte-intrinsic responses to ERVs depended on cyclic GMP-AMP synthase (cGAS)/stimulator of interferon genes protein (STING) signaling and promoted the induction of commensal-specific T cells. Inhibition of ERV reverse transcription significantly impacted these responses, resulting in impaired immunity to the microbiota and its associated tissue repair function. Conversely, a lipid-enriched diet primed the skin for heightened ERV- expression in response to commensal colonization, leading to increased immune responses and tissue inflammation. Together, our results support the idea that the host may have co-opted its endogenous virome as a means to communicate with the exogenous microbiota, resulting in a multi-kingdom dialog that controls both tissue homeostasis and inflammation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RNA-binding protein RBM47 stabilizes IFNAR1 mRNA to potentiate host antiviral activity</title>
+      <link>https://example.com/article/34160127/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34160127/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The type I interferon (IFN-I, IFN-α/β)-mediated immune response is the first line of host defense against invading viruses. IFN-α/β binds to IFN-α/β receptors (IFNARs) and triggers the expression of IFN-stimulated genes (ISGs). Thus, stabilization of IFNARs is important for prolonging antiviral activity. Here, we report the induction of an RNA-binding motif-containing protein, RBM47, upon viral infection or interferon stimulation. Using multiple virus infection models, we demonstrate that RBM47 has broad-spectrum antiviral activity in vitro and in vivo. RBM47 has no noticeable impact on IFN production, but significantly activates the IFN-stimulated response element (ISRE) and enhances the expression of interferon-stimulated genes (ISGs). Mechanistically, RBM47 binds to the 3&amp;rsquo;UTR of IFNAR1 mRNA, increases mRNA stability, and retards the degradation of IFNAR1. In summary, this study suggests that RBM47 is an interferon-inducible RNA-binding protein that plays an essential role in enhancing host IFN downstream signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RUNX1-mediated alphaherpesvirus-host trans-species chromatin interaction promotes viral transcription</title>
+      <link>https://example.com/article/34162542/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34162542/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Like most DNA viruses, herpesviruses precisely deliver their genomes into the sophisticatedly organized nuclei of the infected host cells to initiate subsequent transcription and replication. However, it remains elusive how the viral genome specifically interacts with the host genome and hijacks host transcription machinery. Using pseudorabies virus (PRV) as model virus, we performed chromosome conformation capture assays to demonstrate a genome-wide specific trans-species chromatin interaction between the virus and host. Our data show that the PRV genome is delivered by the host DNA binding protein RUNX1 into the open chromatin and active transcription zone. This facilitates virus hijacking host RNAPII to efficiently transcribe viral genes, which is significantly inhibited by either a RUNX1 inhibitor or RNA interference. Together, these findings provide insights into the chromatin interaction between viral and host genomes and identify new areas of research to advance the understanding of herpesvirus genome transcription.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A multi-omics investigation of the composition and function of extracellular vesicles along the temporal trajectory of COVID-19</title>
+      <link>https://example.com/article/34158670/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34158670/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The type I interferon (IFN-I, IFN-α/β)-mediated immune response is the first line of host defense against invading viruses. IFN-α/β binds to IFN-α/β receptors (IFNARs) and triggers the expression of IFN-stimulated genes (ISGs). Thus, stabilization of IFNARs is important for prolonging antiviral activity. Here, we report the induction of an RNA-binding motif-containing protein, RBM47, upon viral infection or interferon stimulation. Using multiple virus infection models, we demonstrate that RBM47 has broad-spectrum antiviral activity in vitro and in vivo. RBM47 has no noticeable impact on IFN production, but significantly activates the IFN-stimulated response element (ISRE) and enhances the expression of interferon-stimulated genes (ISGs). Mechanistically, RBM47 binds to the 3&amp;rsquo;UTR of IFNAR1 mRNA, increases mRNA stability, and retards the degradation of IFNAR1. In summary, this study suggests that RBM47 is an interferon-inducible RNA-binding protein that plays an essential role in enhancing host IFN downstream signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DHX15 is required to control RNA virus-induced intestinal inflammation</title>
+      <link>https://example.com/article/34161762/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34161762/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA helicases play critical roles in various biological processes, including serving as viral RNA sensors in innate immunity. Here, we find that RNA helicase DEAH-box helicase 15 (DHX15) is essential for type I interferon (IFN-I, IFN-β), type III IFN (IFN-λ3), and inflammasome-derived cytokine IL-18 production by intestinal epithelial cells (IECs) in response to poly I:C and RNA viruses with preference of enteric RNA viruses, but not DNA virus. Importantly, we generate IEC-specific Dhx15-knockout mice and demonstrate that DHX15 is required for controlling intestinal inflammation induced by enteric RNA virus rotavirus in suckling mice and reovirus in adult mice in vivo, which owes to impaired IFN-β, IFN-λ3, and IL-18 production in IECs from Dhx15-deficient mice. Mechanistically, DHX15 interacts with NLRP6 to trigger NLRP6 inflammasome assembly and activation for inducing IL-18 secretion in IECs. Collectively, our report reveals critical roles for DHX15 in sensing enteric RNA viruses in IECs and controlling intestinal inflammation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Caspase-Dependent Cleavage of DDX21 Suppresses Host Innate Immunity</title>
+      <link>https://example.com/article/34125604/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34125604/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DEAD (Glu-Asp-Ala-Glu) box RNA helicases have been proven to contribute to antiviral innate immunity. The DDX21 RNA helicase was identified as a nuclear protein involved in rRNA processing and RNA unwinding. DDX21 was also proven to be the scaffold protein in the complex of DDX1-DDX21-DHX36, which senses double-strand RNA and initiates downstream innate immunity. Here, we identified that DDX21 undergoes caspase-dependent cleavage after virus infection and treatment with RNA/DNA ligands, especially for RNA virus and ligands. Caspase-3/6 cleaves DDX21 at D126 and promotes its translocation from the nucleus to the cytoplasm in response to virus infection. The cytoplasmic cleaved DDX21 negatively regulates the interferon beta (IFN-β) signaling pathway by suppressing the formation of the DDX1-DDX21-DHX36 complex. Thus, our data identify DDX21 as a regulator of immune balance and most importantly uncover a potential role of DDX21 cleavage in the innate immune response to virus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Innate immunity serves as the first barrier against virus infection. DEAD (Glu-Asp-Ala-Glu) box RNA helicases, originally considered to be involved in RNA processing and RNA unwinding, have been shown to play an important role in antiviral innate immunity. The precise regulation of innate immunity is critical for the host because the aberrant production of cytokines leads to unexpected pathological consequences. Here, we identified that DDX21 was cleaved at D126 by virus infection and treatment with RNA/DNA ligands via the caspase-3/6-dependent pathway. The cytoplasmic cleaved DDX21 negatively regulates the IFN-β signaling pathway by suppressing the formation of the DDX1-DDX21-DHX36 complex. In sum, our data identify DDX21 as a regulator of immune balance and most importantly uncover a potential role of DDX21 cleavage in the innate immune response to virus.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The ORF8 protein of SARS-CoV-2 mediates immune evasion through down-regulating MHC-Ι</title>
+      <link>https://example.com/article/34021074/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34021074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become a global pandemic and has claimed over 2 million lives worldwide. Although the genetic sequences of SARS-CoV and SARS-CoV-2 have high homology, the clinical and pathological characteristics of COVID-19 differ significantly from those of SARS. How and whether SARS-CoV-2 evades (cellular) immune surveillance requires further elucidation. In this study, we show that SARS-CoV-2 infection leads to major histocompability complex class Ι (MHC-Ι) down-regulation both in vitro and in vivo. The viral protein encoded by open reading frame 8 (ORF8) of SARS-CoV-2, which shares the least homology with SARS-CoV among all viral proteins, directly interacts with MHC-Ι molecules and mediates their down-regulation. In ORF8-expressing cells, MHC-Ι molecules are selectively targeted for lysosomal degradation via autophagy. Thus, SARS-CoV-2-infected cells are much less sensitive to lysis by cytotoxic T lymphocytes. Because ORF8 protein impairs the antigen presentation system, inhibition of ORF8 could be a strategy to improve immune surveillance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fe-S cofactors in the SARS-CoV-2 RNA-dependent RNA polymerase are potential antiviral targets</title>
+      <link>https://example.com/article/34083449/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34083449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causal agent of COVID-19, uses an RNA-dependent RNA polymerase (RdRp) for the replication of its genome and the transcription of its genes. We found that the catalytic subunit of the RdRp, nsp12, ligates two iron-sulfur metal cofactors in sites that were modeled as zinc centers in the available cryo-electron microscopy structures of the RdRp complex. These metal binding sites are essential for replication and for interaction with the viral helicase. Oxidation of the clusters by the stable nitroxide TEMPOL caused their disassembly, potently inhibited the RdRp, and blocked SARS-CoV-2 replication in cell culture. These iron-sulfur clusters thus serve as cofactors for the SARS-CoV-2 RdRp and are targets for therapy of COVID-19.&lt;/p&gt;
+&lt;p&gt;The mirror site can be freely accessed by &lt;a href=&#34;http://bioinfo.org/kobas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis C virus modulates signal peptide peptidase to alter host protein processing</title>
+      <link>https://example.com/article/34035171/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34035171/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immunoevasins are viral proteins that prevent antigen presentation on major histocompatibility complex (MHC) class I, thus evading host immune recognition. Hepatitis C virus (HCV) evades immune surveillance to induce chronic infection; however, how HCV-infected hepatocytes affect immune cells and evade immune recognition remains unclear. Herein, we demonstrate that HCV core protein functions as an immunoevasin. Its expression interfered with the maturation of MHC class I molecules catalyzed by the signal peptide peptidase (SPP) and induced their degradation via HMG-CoA reductase degradation 1 homolog, thereby impairing antigen presentation to CD8&lt;sup&gt;+&lt;/sup&gt; T cells. The expression of MHC class I in the livers of HCV core transgenic mice and chronic hepatitis C patients was impaired but was restored in patients achieving sustained virological response. Finally, we show that the human cytomegalovirus US2 protein, possessing a transmembrane region structurally similar to the HCV core protein, targets SPP to impair MHC class I molecule expression. Thus, SPP represents a potential target for the impairment of MHC class I molecules by DNA and RNA viruses.&lt;/p&gt;
+&lt;p&gt;The mirror site can be freely accessed by &lt;a href=&#34;http://bioinfo.org/kobas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An infectivity-enhancing site on the SARS-CoV-2 spike protein targeted by antibodies</title>
+      <link>https://example.com/article/34139176/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34139176/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antibodies against the receptor-binding domain (RBD) of the SARS-CoV-2 spike protein prevent SARS-CoV-2 infection. However, the effects of antibodies against other spike protein domains are largely unknown. Here, we screened a series of anti-spike monoclonal antibodies from coronavirus disease 2019 (COVID-19) patients and found that some of antibodies against the N-terminal domain (NTD) induced the open conformation of RBD and thus enhanced the binding capacity of the spike protein to ACE2 and infectivity of SARS-CoV-2. Mutational analysis revealed that all of the infectivity-enhancing antibodies recognized a specific site on the NTD. Structural analysis demonstrated that all infectivity-enhancing antibodies bound to NTD in a similar manner. The antibodies against this infectivity-enhancing site were detected at high levels in severe patients. Moreover, we identified antibodies against the infectivity-enhancing site in uninfected donors, albeit at a lower frequency. These findings demonstrate that not only neutralizing antibodies but also enhancing antibodies are produced during SARS-CoV-2 infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Viral tegument proteins restrict cGAS-DNA phase separation to mediate immune evasion</title>
+      <link>https://example.com/article/34015248/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34015248/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DNA-induced liquid-liquid phase separation of cyclic GMP-AMP synthase (cGAS) triggers a potent response to detect pathogen infection and promote innate immune signaling. Whether and how pathogens manipulate cGAS-DNA condensation to mediate immune evasion is unknown. We report the identification of a structurally related viral tegument protein family, represented by ORF52 and VP22 from gamma- and alpha-herpesvirinae, respectively, that employs a conserved mechanism to restrict cGAS-DNA phase separation. ORF52/VP22 proteins accumulate into, and effectively disrupt, the pre-formed cGAS-DNA condensation both in vitro and in cells. The inhibition process is dependent on DNA-induced liquid-liquid phase separation of the viral protein rather than a direct interaction with cGAS. Moreover, highly abundant ORF52 proteins carried within viral particles are able to target cGAS-DNA phase separation in early infection stage. Our results define ORF52/VP22-type tegument proteins as a family of inhibitors targeting cGAS-DNA phase separation and demonstrate a mechanism for how viruses overcome innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A genome-wide CRISPR screen identifies UFMylation and TRAMP-like complexes as host factors required for hepatitis A virus infection</title>
@@ -26,6 +678,56 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hepatitis A virus (HAV) is a positive-sense RNA virus causing acute inflammation of the liver. Here, using a genome-scale CRISPR screen, we provide a comprehensive picture of the cellular factors that are exploited by HAV. We identify genes involved in sialic acid/ganglioside biosynthesis and members of the eukaryotic translation initiation factor complex, corroborating their putative roles for HAV. Additionally, we uncover all components of the cellular machinery for UFMylation, a ubiquitin-like protein modification. We show that HAV translation specifically depends on UFM1 conjugation of the ribosomal protein RPL26. Furthermore, we find that components related to the yeast Trf4/5-Air1/2-Mtr4 polyadenylation (TRAMP) complex are required for viral translation independent of controlling viral poly(A) tails or RNA stability. Finally, we demonstrate that pharmacological inhibition of the TRAMP-like complex decreases HAV replication in hepatocyte cells and human liver organoids, thus providing a strategy for host-directed therapy of HAV infection&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IFI16 directly senses viral RNA and enhances RIG-I transcription and activation to restrict influenza virus infection</title>
+      <link>https://example.com/article/33986530/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33986530/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The retinoic acid-inducible gene I (RIG-I) receptor senses cytoplasmic viral RNA and activates type I interferons (IFN-I) and downstream antiviral immune responses. How RIG-I binds to viral RNA and how its activation is regulated remains unclear. Here, using IFI16 knockout cells and p204-deficient mice, we demonstrate that the DNA sensor IFI16 enhances IFN-I production to inhibit influenza A virus (IAV) replication. IFI16 positively upregulates RIG-I transcription through direct binding to and recruitment of RNA polymerase II to the RIG-I promoter. IFI16 also binds to influenza viral RNA via its HINa domain and to RIG-I protein with its PYRIN domain, thus promoting IAV-induced K63-linked polyubiquitination and RIG-I activation. Our work demonstrates that IFI16 is a positive regulator of RIG-I signalling during influenza virus infection, highlighting its role in the RIG-I-like-receptor-mediated innate immune response to IAV and other RNA viruses, and suggesting its possible exploitation to modulate the antiviral response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Infection of humanized mice with a novel phlebovirus presented pathogenic features of severe fever with thrombocytopenia syndrome</title>
+      <link>https://example.com/article/33974679/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33974679/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe fever with thrombocytopenia syndrome virus (SFTSV) is a tick-borne emerging phlebovirus with high mortality rates of 6.0 to 30%. SFTSV infection is characterized by high fever, thrombocytopenia, leukopenia, hemorrhage and multiple organ failures. Currently, specific therapies and vaccines remain elusive. Suitable small animal models are urgently needed to elucidate the pathogenesis and evaluate the potential drug and vaccine for SFTSV infection. Previous models presented only mild or no pathogenesis of SFTS, limiting their applications in SFTSV infection. Therefore, it is an urgent need to develop a small animal model for the investigation of SFTSV pathogenesis and evaluation of therapeutics. In the current report, we developed a SFTSV infection model based on the HuPBL-NCG mice that recapitulates many pathological characteristics of SFTSV infection in humans. Virus-induced histopathological changes were identified in spleen, lung, kidney, and liver. SFTSV was colocalized with macrophages in the spleen and liver, suggesting that the macrophages in the spleen and liver could be the principle target cells of SFTSV. In addition, histological analysis showed that the vascular endothelium integrity was severely disrupted upon viral infection along with depletion of platelets. In vitro cellular assays further revealed that SFTSV infection increased the vascular permeability of endothelial cells by promoting tyrosine phosphorylation and internalization of the adhesion molecule vascular endothelial (VE)-cadherin, a critical component of endothelial integrity. In addition, we found that both virus infection and pathogen-induced exuberant cytokine release dramatically contributed to the vascular endothelial injury. We elucidated the pathogenic mechanisms of hemorrhage syndrome and developed a humanized mouse model for SFTSV infection, which should be helpful for anti-SFTSV therapy and pathogenesis study.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

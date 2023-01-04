@@ -5,12 +5,87 @@
     <link>https://example.com/tag/influenza-virus/</link>
       <atom:link href="https://example.com/tag/influenza-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Influenza Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Influenza Virus</title>
       <link>https://example.com/tag/influenza-virus/</link>
     </image>
+    
+    <item>
+      <title>Cis-acting lnc-Cxcl2 restrains neutrophil-mediated lung inflammation by inhibiting epithelial cell CXCL2 expression in virus infection</title>
+      <link>https://example.com/article/34607953/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34607953/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chemokine production by epithelial cells is important for neutrophil recruitment during viral infection, the appropriate regulation of which is critical for restraining inflammation and attenuating subsequent tissue damage. Epithelial cell expression of long noncoding RNAs (lncRNAs), RNA-binding proteins, and their functional interactions during viral infection and inflammation remain to be fully understood. Here, we identified an inducible lncRNA in the &lt;em&gt;Cxcl2&lt;/em&gt; gene locus, lnc-Cxcl2, which could selectively inhibit &lt;em&gt;Cxcl2&lt;/em&gt; expression in mouse lung epithelial cells but not in macrophages. lnc-Cxcl2-deficient mice exhibited increased &lt;em&gt;Cxcl2&lt;/em&gt; expression, enhanced neutrophils recruitment, and more severe inflammation in the lung after influenza virus infection. Mechanistically, nucleus-localized lnc-Cxcl2 bound to &lt;em&gt;Cxcl2&lt;/em&gt; promoter, recruited a ribonucleoprotein La, which inhibited the chromatin accessibility of chemokine promoters, and consequently inhibited &lt;em&gt;Cxcl2&lt;/em&gt; transcription in cis However, unlike mouse lnc-Cxcl2, human lnc-CXCL2-4-1 inhibited multiple immune cytokine expressions including chemokines in human lung epithelial cells. Together, our results demonstrate a self-protecting mechanism within epithelial cells to restrain chemokine and neutrophil-mediated inflammation, providing clues for better understanding chemokine regulation and epithelial cell function in lung viral infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MARCH8 inhibits influenza A virus infection by targeting viral M2 protein for ubiquitination-dependent degradation in lysosomes</title>
+      <link>https://example.com/article/34285233/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34285233/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The membrane-associated RING-CH (MARCH) proteins are E3 ligases that regulate the stability of various cellular membrane proteins. MARCH8 has been reported to inhibit the infection of HIV-1 and a few other viruses, thus plays an important role in host antiviral defense. However, the antiviral spectrum and the underlying mechanisms of MARCH8 are incompletely defined. Here, we demonstrate that MARCH8 profoundly inhibits influenza A virus (IAV) replication both in vitro and in mice. Mechanistically, MARCH8 suppresses IAV release through redirecting viral M2 protein from the plasma membrane to lysosomes for degradation. Specifically, MARCH8 catalyzes the K63-linked polyubiquitination of M2 at lysine residue 78 (K78). A recombinant A/Puerto Rico/8/34 virus carrying the K78R M2 protein shows greater replication and more severe pathogenicity in cells and mice. More importantly, we found that the M2 protein of the H1N1 IAV has evolved to acquire non-lysine amino acids at positions 78/79 to resist MARCH8-mediated ubiquitination and degradation. Together, our data support the important role of MARCH8 in host anti-IAV intrinsic immune defense by targeting M2, and suggest the inhibitory pressure of MARCH8 on H1N1 IAV transmission in the human population.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IFI16 directly senses viral RNA and enhances RIG-I transcription and activation to restrict influenza virus infection</title>
+      <link>https://example.com/article/33986530/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33986530/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The retinoic acid-inducible gene I (RIG-I) receptor senses cytoplasmic viral RNA and activates type I interferons (IFN-I) and downstream antiviral immune responses. How RIG-I binds to viral RNA and how its activation is regulated remains unclear. Here, using IFI16 knockout cells and p204-deficient mice, we demonstrate that the DNA sensor IFI16 enhances IFN-I production to inhibit influenza A virus (IAV) replication. IFI16 positively upregulates RIG-I transcription through direct binding to and recruitment of RNA polymerase II to the RIG-I promoter. IFI16 also binds to influenza viral RNA via its HINa domain and to RIG-I protein with its PYRIN domain, thus promoting IAV-induced K63-linked polyubiquitination and RIG-I activation. Our work demonstrates that IFI16 is a positive regulator of RIG-I signalling during influenza virus infection, highlighting its role in the RIG-I-like-receptor-mediated innate immune response to IAV and other RNA viruses, and suggesting its possible exploitation to modulate the antiviral response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Selective usage of ANP32 proteins by influenza B virus polymerase: Implications in determination of host range</title>

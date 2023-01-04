@@ -207,6 +207,32 @@
     </item>
     
     <item>
+      <title>circMine: a comprehensive database to integrate, analyze and visualize human disease-related circRNA transcriptome</title>
+      <link>https://example.com/article/34530446/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34530446/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many circRNA transcriptome data were deposited in public resources, but these data show great heterogeneity. Researchers without bioinformatics skills have difficulty in investigating these invaluable data or their own data. Here, we specifically designed &lt;a href=&#34;http://hpcc.siat.ac.cn/circmine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circMine&lt;/a&gt; that provides 1 821 448 entries formed by 136 871 circRNAs, 87 diseases and 120 circRNA transcriptome datasets of 1107 samples across 31 human body sites. &lt;a href=&#34;http://hpcc.siat.ac.cn/circmine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circMine&lt;/a&gt; further provides 13 online analytical functions to comprehensively investigate these datasets to evaluate the clinical and biological significance of circRNA. To improve the data applicability, each dataset was standardized and annotated with relevant clinical information. All of the 13 analytic functions allow users to group samples based on their clinical data and assign different parameters for different analyses, and enable them to perform these analyses using their own circRNA transcriptomes. Moreover, three additional tools were developed in &lt;a href=&#34;http://hpcc.siat.ac.cn/circmine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circMine&lt;/a&gt; to systematically discover the circRNA-miRNA interaction and circRNA translatability. For example, we systematically discovered five potential translatable circRNAs associated with prostate cancer progression using &lt;a href=&#34;http://hpcc.siat.ac.cn/circmine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circMine&lt;/a&gt;. In summary, &lt;a href=&#34;http://hpcc.siat.ac.cn/circmine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circMine&lt;/a&gt; provides user-friendly web interfaces to browse, search, analyze and download data freely, and submit new data for further integration, and it can be an important resource to discover significant circRNA in different diseases.&lt;/p&gt;
+&lt;p&gt;Also, &lt;a href=&#34;http://hpcc.siat.ac.cn/circmine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circMine&lt;/a&gt; can be alternatively accessed by &lt;a href=&#34;http://www.biomedical-web.com/circmine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Web resources for functional studies of circular RNAs</title>
       <link>https://example.com/tool/2022-01-01-web-res-fun-circ-rna/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -246,6 +272,56 @@
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Linking circular intronic RNA degradation and function in transcription by RNase H1</title>
+      <link>https://example.com/article/34453665/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34453665/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular intronic RNAs (ciRNAs) escaping from DBR1 debranching of intron lariats are co-transcriptionally produced from pre-mRNA splicing, but their turnover and mechanism of action have remained elusive. We report that RNase H1 degrades a subgroup of ciRNAs in human cells. Many ciRNAs contain high GC% and tend to form DNA:RNA hybrids (R-loops) for RNase H1 cleavage, a process that appears to promote Pol II transcriptional elongation at ciRNA-producing loci. One ciRNA, ciankrd52, shows a stronger ability of R-loop formation than that of its cognate pre-mRNA by maintaining a locally open RNA structure in vitro. This allows the release of pre-mRNA from R-loops by ci-ankrd52 replacement and subsequent ciRNA removal via RNase H1 for efficient transcriptional elongation. We propose that such an R-loop dependent ciRNA degradation likely represents a mechanism that on one hand limits ciRNA accumulation by recruiting RNase H1 and on the other hand resolves R-loops for transcriptional elongation at some GC-rich ciRNA-producing loci.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circular RNA AFF4 modulates osteogenic differentiation in BM-MSCs by activating SMAD1/5 pathway through miR-135a-5p/FNDC5/Irisin axis</title>
+      <link>https://example.com/article/34145212/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34145212/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bone marrow-derived mesenchymal stem cells (BM-MSCs), the common progenitor cells of adipocytes and osteoblasts, have been recognized as the key mediator during bone formation. Herein, our study aim to investigate molecular mechanisms underlying circular RNA (circRNA) AFF4 (circ_AFF4)-regulated BM-MSCs osteogenesis. BM-MSCs were characterized by FACS, ARS, and ALP staining. Expression patterns of circ_AFF4, miR-135a-5p, FNDC5/Irisin, SMAD1/5, and osteogenesis markers, including ALP, BMP4, RUNX2, Spp1, and Colla1 were detected by qRT-PCR, western blot, or immunofluorescence staining, respectively. Interactions between circ_AFF4 and miR-135a-5p, FNDC5, and miR-135a-5p were analyzed using web tools including TargetScan, miRanda, and miRDB, and further confirmed by luciferase reporter assay and RNA pull-down. Complex formation between Irisin and Integrin αV was verified by Co-immunoprecipitation. To further verify the functional role of circ_AFF4 in vivo during bone formation, we conducted animal experiments harboring circ_AFF4 knockdown, and born samples were evaluated by immunohistochemistry, hematoxylin and eosin, and Masson staining. Circ_AFF4 was upregulated upon osteogenic differentiation induction in BM-MSCs, and miR-135a-5p expression declined as differentiation proceeds. Circ_AFF4 knockdown significantly inhibited osteogenesis potential in BM-MSCs. Circ_AFF4 stimulated FNDC5/Irisin expression through complementary binding to its downstream target molecule miR-135a-5p. Irisin formed an intermolecular complex with Integrin αV and activated the SMAD1/5 pathway during osteogenic differentiation. Our work revealed that circ_AFF4, acting as a sponge of miR-135a-5p, triggers the promotion of FNDC5/Irisin via activating the SMAD1/5 pathway to induce osteogenic differentiation in BM-MSCs. These findings gained a deeper insight into the circRNA-miRNA regulatory system in the bone marrow microenvironment and may improve our understanding of bone formation-related diseases at physiological and pathological levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

@@ -5,12 +5,38 @@
     <link>https://example.com/tag/hepatitis-virus/</link>
       <atom:link href="https://example.com/tag/hepatitis-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Hepatitis Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Hepatitis Virus</title>
       <link>https://example.com/tag/hepatitis-virus/</link>
     </image>
+    
+    <item>
+      <title>Hepatitis C virus modulates signal peptide peptidase to alter host protein processing</title>
+      <link>https://example.com/article/34035171/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34035171/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immunoevasins are viral proteins that prevent antigen presentation on major histocompatibility complex (MHC) class I, thus evading host immune recognition. Hepatitis C virus (HCV) evades immune surveillance to induce chronic infection; however, how HCV-infected hepatocytes affect immune cells and evade immune recognition remains unclear. Herein, we demonstrate that HCV core protein functions as an immunoevasin. Its expression interfered with the maturation of MHC class I molecules catalyzed by the signal peptide peptidase (SPP) and induced their degradation via HMG-CoA reductase degradation 1 homolog, thereby impairing antigen presentation to CD8&lt;sup&gt;+&lt;/sup&gt; T cells. The expression of MHC class I in the livers of HCV core transgenic mice and chronic hepatitis C patients was impaired but was restored in patients achieving sustained virological response. Finally, we show that the human cytomegalovirus US2 protein, possessing a transmembrane region structurally similar to the HCV core protein, targets SPP to impair MHC class I molecule expression. Thus, SPP represents a potential target for the impairment of MHC class I molecules by DNA and RNA viruses.&lt;/p&gt;
+&lt;p&gt;The mirror site can be freely accessed by &lt;a href=&#34;http://bioinfo.org/kobas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A genome-wide CRISPR screen identifies UFMylation and TRAMP-like complexes as host factors required for hepatitis A virus infection</title>

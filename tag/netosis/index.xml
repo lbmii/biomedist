@@ -5,12 +5,40 @@
     <link>https://example.com/tag/netosis/</link>
       <atom:link href="https://example.com/tag/netosis/index.xml" rel="self" type="application/rss+xml" />
     <description>NETosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>NETosis</title>
       <link>https://example.com/tag/netosis/</link>
     </image>
+    
+    <item>
+      <title>Oxidized Phospholipids Promote NETosis and Arterial Thrombosis in LNK(SH2B3) Deficiency</title>
+      <link>https://example.com/article/34846914/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34846914/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; LNK/SH2B3 inhibits Janus kinase/signal transducer and activator of transcription (JAK/STAT) signaling by hematopoietic cytokine receptors. Genome-wide association studies have shown association of a common single nucleotide polymorphism in &lt;em&gt;LNK&lt;/em&gt; (R262W, T allele) with neutrophilia, thrombocytosis, and coronary artery disease. We have shown that &lt;em&gt;LNK(TT)&lt;/em&gt; reduces LNK function and that LNK-deficient mice display prominent platelet-neutrophil aggregates, accelerated atherosclerosis, and thrombosis. Platelet-neutrophil interactions can promote neutrophil extracellular trap (NET) formation. The goals of this study were to assess the role of NETs in atherosclerosis and thrombosis in mice with hematopoietic &lt;em&gt;Lnk&lt;/em&gt; deficiency.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We bred mice with combined deficiency of &lt;em&gt;Lnk&lt;/em&gt; and the NETosis-essential enzyme PAD4 (peptidyl arginine deiminase 4) and transplanted their bone marrow into &lt;em&gt;Ldlr&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice. We evaluated the role of LNK in atherothrombosis in humans and mice bearing a gain of function variant in JAK2 (JAK2&lt;sup&gt;V617F&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Lnk-deficient mice displayed accelerated carotid artery thrombosis with prominent NETosis that was completely reversed by PAD4 deficiency. Thrombin-activated &lt;em&gt;Lnk&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; platelets promoted increased NETosis when incubated with &lt;em&gt;Lnk&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; neutrophils compared with wild-type platelets or wild-type neutrophils. This involved increased surface exposure and release of oxidized phospholipids (OxPL) from &lt;em&gt;Lnk&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; platelets, as well as increased priming and response of &lt;em&gt;Lnk&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; neutrophils to OxPL. To counteract the effects of OxPL, we introduced a transgene expressing the single-chain variable fragment of E06 (E06-scFv). E06-scFv reversed accelerated NETosis, atherosclerosis, and thrombosis in Lnk-/- mice. We also showed increased NETosis when human induced pluripotent stem cell-derived &lt;em&gt;LNK(TT)&lt;/em&gt; neutrophils were incubated with &lt;em&gt;LNK(TT)&lt;/em&gt; platelet/megakaryocytes, but not in isogenic &lt;em&gt;LNK(CC)&lt;/em&gt; controls, confirming human relevance. Using data from the UK Biobank, we found that individuals with the JAK2&lt;sup&gt;VF&lt;/sup&gt; mutation only showed increased risk of coronary artery disease when also carrying the LNK R262W allele. Mice with hematopoietic &lt;em&gt;Lnk&lt;sup&gt;+/-&lt;/sup&gt;&lt;/em&gt; and &lt;em&gt;Jak2&lt;sup&gt;VF&lt;/sup&gt;&lt;/em&gt; clonal hematopoiesis showed accelerated arterial thrombosis but not atherosclerosis compared with &lt;em&gt;Jak2&lt;sup&gt;VF&lt;/sup&gt;Lnk&lt;sup&gt;+/+&lt;/sup&gt;&lt;/em&gt; controls.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Hematopoietic &lt;em&gt;Lnk&lt;/em&gt; deficiency promotes NETosis and arterial thrombosis in an OxPL-dependent fashion. LNK(R262W) reduces LNK function in human platelets and neutrophils, promoting NETosis, and increases coronary artery disease risk in humans carrying &lt;em&gt;Jak2&lt;sup&gt;VF&lt;/sup&gt;&lt;/em&gt; mutations. Therapies targeting OxPL may be beneficial for coronary artery disease in genetically defined human populations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Complement and tissue factor-enriched neutrophil extracellular traps are key drivers in COVID-19 immunothrombosis</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/acetylation/</link>
       <atom:link href="https://example.com/tag/acetylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Acetylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Acetylation</title>
       <link>https://example.com/tag/acetylation/</link>
     </image>
+    
+    <item>
+      <title>HIPK2 phosphorylates HDAC3 for NF-κB acetylation to ameliorate colitis-associated colorectal carcinoma and sepsis</title>
+      <link>https://example.com/article/34244427/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34244427/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although inflammation is critical for the clearance of pathogens, uncontrolled inflammation also contributes to the development of multiple diseases such as cancer and sepsis. Since NF-κB-mediated transactivation in the nucleus is pivotal downstream of various stimuli to induce inflammation, searching the nuclear-localized targets specifically regulating NF-κB activation will provide important therapeutic application. Here, we have identified that homeodomain-interacting protein kinase 2 (HIPK2), a nuclear serine/threonine kinase, increases its expression in inflammatory macrophages. Importantly, HIPK2 deficiency or overexpression could enhance or inhibit inflammatory responses in LPS-stimulated macrophages, respectively. HIPK2-deficient mice were more susceptible to LPS-induced endotoxemia and CLP-induced sepsis. Adoptive transfer of &lt;em&gt;Hipk2&lt;sup&gt;+/-&lt;/sup&gt;&lt;/em&gt; bone marrow cells (BMs) also aggravated AOM/DSS-induced colorectal cancer. Mechanistically, HIPK2 bound and phosphorylated histone deacetylase 3 (HDAC3) at serine 374 to inhibit its enzymatic activity, thus reducing the deacetylation of p65 at lysine 218 to suppress NF-κB activation. Notably, the HDAC3 inhibitors protected wild-type or &lt;em&gt;Hipk2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; BMs-reconstituted mice from LPS-induced endotoxemia. Our findings suggest that the HIPK2-HDAC3-p65 module in macrophages restrains excessive inflammation, which may represent a new layer of therapeutic mechanism for colitis-associated colorectal cancer and sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>SIRT3-mediated deacetylation of NLRC4 promotes inflammasome activation</title>

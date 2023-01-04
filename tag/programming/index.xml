@@ -867,6 +867,90 @@
     </item>
     
     <item>
+      <title>Spatiotemporal Immune Landscape of Colorectal Cancer Liver Metastasis at Single-Cell Level</title>
+      <link>https://example.com/article/34417225/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34417225/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Liver metastasis, the leading cause of colorectal cancer mortality, exhibits a highly heterogeneous and suppressive immune microenvironment. Here, we sequenced 97 matched samples by using single-cell RNA sequencing and spatial transcriptomics. Strikingly, the metastatic microenvironment underwent remarkable spatial reprogramming of immunosuppressive cells such as &lt;em&gt;MRC1&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; &lt;em&gt;CCL18&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; M2-like macrophages. We further developed scMetabolism, a computational pipeline for quantifying single-cell metabolism, and observed that those macrophages harbored enhanced metabolic activity. Interestingly, neoadjuvant chemotherapy could block this status and restore the antitumor immune balance in responsive patients, whereas the nonresponsive patients deteriorated into a more suppressive one. Our work described the immune evolution of metastasis and uncovered the black box of how tumors respond to neoadjuvant chemotherapy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We present a single-cell and spatial atlas of colorectal liver metastasis and found the highly metabolically activated &lt;em&gt;MRC1&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; &lt;em&gt;CCL18&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; M2-like macrophages in metastatic sites. Efficient neoadjuvant chemotherapy can slow down such metabolic activation, raising the possibility to target metabolism pathways in metastasis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A graph neural network model to estimate cell-wise metabolic flux using single-cell RNA-seq data</title>
+      <link>https://example.com/article/34301623/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34301623/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The metabolic heterogeneity and metabolic interplay between cells are known as significant contributors to disease treatment resistance. However, with the lack of a mature high-throughput single-cell metabolomics technology, we are yet to establish systematic understanding of the intra-tissue metabolic heterogeneity and cooperative mechanisms. To mitigate this knowledge gap, we developed a novel computational method, namely, single-cell flux estimation analysis (scFEA), to infer the cell-wise fluxome from single-cell RNA-sequencing (scRNA-seq) data. scFEA is empowered by a systematically reconstructed human metabolic map as a factor graph, a novel probabilistic model to leverage the flux balance constraints on scRNA-seq data, and a novel graph neural network-based optimization solver. The intricate information cascade from transcriptome to metabolome was captured using multilayer neural networks to capitulate the nonlinear dependency between enzymatic gene expressions and reaction rates. We experimentally validated scFEA by generating an scRNA-seq data set with matched metabolomics data on cells of perturbed oxygen and genetic conditions. Application of scFEA on this data set showed the consistency between predicted flux and the observed variation of metabolite abundance in the matched metabolomics data. We also applied scFEA on five publicly available scRNA-seq and spatial transcriptomics data sets and identified context- and cell group-specific metabolic variations. The cell-wise fluxome predicted by scFEA empowers a series of downstream analyses including identification of metabolic modules or cell groups that share common metabolic variations, sensitivity evaluation of enzymes with regards to their impact on the whole metabolic flux, and inference of cell-tissue and cell-cell metabolic communications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic modeling of single Th17 cells reveals regulators of autoimmunity</title>
+      <link>https://example.com/article/34216539/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34216539/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compass enables studying cellular metabolism based on single-cell transcriptomes&lt;/li&gt;
+&lt;li&gt;Compass links the pathogenic potential of Th17 cells with their metabolic programs&lt;/li&gt;
+&lt;li&gt;Th17 pathogenicity is associated with a switch between glycolysis and beta oxidation&lt;/li&gt;
+&lt;li&gt;The polyamine pathway is required for Th17 induction and restriction of a Treg profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metabolism is a major regulator of immune cell function, but it remains difficult to study the metabolic status of individual cells. Here, we present Compass, an algorithm to characterize cellular metabolic states based on single-cell RNA sequencing and flux balance analysis. We applied Compass to associate metabolic states with T helper 17 (Th17) functional variability (pathogenic potential) and recovered a metabolic switch between glycolysis and fatty acid oxidation, akin to known Th17/regulatory T cell (Treg) differences, which we validated by metabolic assays. Compass also predicted that Th17 pathogenicity was associated with arginine and downstream polyamine metabolism. Indeed, polyamine-related enzyme expression was enhanced in pathogenic Th17 and suppressed in Treg cells. Chemical and genetic perturbation of polyamine metabolism inhibited Th17 cytokines, promoted Foxp3 expression, and remodeled the transcriptome and epigenome of Th17 cells toward a Treg-like state. In vivo perturbations of the polyamine pathway altered the phenotype of encephalitogenic T cells and attenuated tissue inflammation in CNS autoimmunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Intermediate Python</title>
       <link>https://example.com/books/2021-03-08-inter-py/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>

@@ -815,6 +815,33 @@
     </item>
     
     <item>
+      <title>Spatiotemporal Immune Landscape of Colorectal Cancer Liver Metastasis at Single-Cell Level</title>
+      <link>https://example.com/article/34417225/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34417225/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Liver metastasis, the leading cause of colorectal cancer mortality, exhibits a highly heterogeneous and suppressive immune microenvironment. Here, we sequenced 97 matched samples by using single-cell RNA sequencing and spatial transcriptomics. Strikingly, the metastatic microenvironment underwent remarkable spatial reprogramming of immunosuppressive cells such as &lt;em&gt;MRC1&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; &lt;em&gt;CCL18&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; M2-like macrophages. We further developed scMetabolism, a computational pipeline for quantifying single-cell metabolism, and observed that those macrophages harbored enhanced metabolic activity. Interestingly, neoadjuvant chemotherapy could block this status and restore the antitumor immune balance in responsive patients, whereas the nonresponsive patients deteriorated into a more suppressive one. Our work described the immune evolution of metastasis and uncovered the black box of how tumors respond to neoadjuvant chemotherapy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We present a single-cell and spatial atlas of colorectal liver metastasis and found the highly metabolically activated &lt;em&gt;MRC1&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; &lt;em&gt;CCL18&lt;sup&gt;+&lt;/sup&gt;&lt;/em&gt; M2-like macrophages in metastatic sites. Efficient neoadjuvant chemotherapy can slow down such metabolic activation, raising the possibility to target metabolism pathways in metastasis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Inference and analysis of cell-cell communication using CellChat</title>
       <link>https://example.com/article/33597522/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>

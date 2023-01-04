@@ -5,12 +5,359 @@
     <link>https://example.com/tag/coronavirus/</link>
       <atom:link href="https://example.com/tag/coronavirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Coronavirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Coronavirus</title>
       <link>https://example.com/tag/coronavirus/</link>
     </image>
+    
+    <item>
+      <title>MVIP: multi-omics portal of viral infection</title>
+      <link>https://example.com/article/34718748/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34718748/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Virus infections are huge threats to living organisms and cause many diseases, such as COVID-19 caused by SARS-CoV-2, which has led to millions of deaths. To develop effective strategies to control viral infection, we need to understand its molecular events in host cells. Virus related functional genomic datasets are growing rapidly, however, an integrative platform for systematically investigating host responses to viruses is missing. Here, we developed a user-friendly multi-omics portal of viral infection named as &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt;. We manually collected available high-throughput sequencing data under viral infection, and unified their detailed metadata including virus, host species, infection time, assay, and target, etc. We processed multi-layered omics data of more than 4900 viral infected samples from 77 viruses and 33 host species with standard pipelines, including RNA-seq, ChIP-seq, and CLIP-seq, etc. In addition, we integrated these genome-wide signals into customized genome browsers, and developed multiple dynamic charts to exhibit the information, such as time-course dynamic and differential gene expression profiles, alternative splicing changes and enriched GO/KEGG terms. Furthermore, we implemented several tools for efficiently mining the virus-host interactions by virus, host and genes. &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt; would help users to retrieve large-scale functional information and promote the understanding of virus-host interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 promotes RIPK1 activation to facilitate viral propagation</title>
+      <link>https://example.com/article/34663909/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34663909/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is the ongoing global pandemic that poses substantial challenges to public health worldwide. A subset of COVID-19 patients experience systemic inflammatory response, known as cytokine storm, which may lead to death. Receptor-interacting serine/threonine-protein kinase 1 (RIPK1) is an important mediator of inflammation and cell death. Here, we examined the interaction of RIPK1-mediated innate immunity with SARS-CoV-2 infection. We found evidence of RIPK1 activation in human COVID-19 lung pathological samples, and cultured human lung organoids and ACE2 transgenic mice infected by SARS-CoV-2. Inhibition of RIPK1 using multiple small-molecule inhibitors reduced the viral load of SARS-CoV-2 in human lung organoids. Furthermore, therapeutic dosing of the RIPK1 inhibitor Nec-1s reduced mortality and lung viral load, and blocked the CNS manifestation of SARS-CoV-2 in ACE2 transgenic mice. Mechanistically, we found that the RNA-dependent RNA polymerase of SARS-CoV-2, NSP12, a highly conserved central component of coronaviral replication and transcription machinery, promoted the activation of RIPK1. Furthermore, NSP12 323L variant, encoded by the SARS-CoV-2 C14408T variant first detected in Lombardy, Italy, that carries a Pro323Leu amino acid substitution in NSP12, showed increased ability to activate RIPK1. Inhibition of RIPK1 downregulated the transcriptional induction of proinflammatory cytokines and host factors including ACE2 and EGFR that promote viral entry into cells. Our results suggest that SARS-CoV-2 may have an unexpected and unusual ability to hijack the RIPK1-mediated host defense response to promote its own propagation and that inhibition of RIPK1 may provide a therapeutic option for the treatment of COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CLpro substrate degradome</title>
+      <link>https://example.com/article/34672947/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34672947/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An atlas of 101 human cell substrates of SARS-CoV-2 3CL&lt;sup&gt;pro&lt;/sup&gt; and 58 candidate substrates is presented&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SARS-CoV-2 3CL&lt;sup&gt;pro&lt;/sup&gt; redundantly targets the hippo and antiviral xenophagy pathways&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Galectin-8 binds as an intracellular sensor for CoV-2 spike protein that 3CL&lt;sup&gt;pro&lt;/sup&gt; cuts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cytosolic translocation of PTBP1 from the nucleus follows proteolytic removal of an NLS&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The main viral protease (3CL&lt;sup&gt;pro&lt;/sup&gt;) is indispensable for SARS-CoV-2 replication. We delineate the human protein substrate landscape of 3CL&lt;sup&gt;pro&lt;/sup&gt; by TAILS substrate-targeted N-terminomics. We identify more than 100 substrates in human lung and kidney cells supported by analyses of SARS-CoV-2-infected cells. Enzyme kinetics and molecular docking simulations of 3CL&lt;sup&gt;pro&lt;/sup&gt; engaging substrates reveal how noncanonical cleavage sites, which diverge from SARS-CoV, guide substrate specificity. Cleaving the interactors of essential effector proteins, effectively stranding them from their binding partners, amplifies the consequences of proteolysis. We show that 3CL&lt;sup&gt;pro&lt;/sup&gt; targets the Hippo pathway, including inactivation of MAP4K5, and key effectors of transcription, mRNA processing, and translation. We demonstrate that Spike glycoprotein directly binds galectin-8, with galectin-8 cleavage disengaging CALCOCO2/NDP52 to decouple antiviral-autophagy. Indeed, in post-mortem COVID-19 lung samples, NDP52 rarely colocalizes with galectin-8, unlike in healthy lungs. The 3CL&lt;sup&gt;pro&lt;/sup&gt; substrate degradome establishes a foundational substrate atlas to accelerate exploration of SARS-CoV-2 pathology and drug design.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Virus-induced senescence is a driver and therapeutic target in COVID-19</title>
+      <link>https://example.com/article/34517409/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34517409/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Derailed cytokine and immune cell networks account for the organ damage and the clinical severity of COVID-19. Here we show that SARS-CoV-2, like other viruses, evokes cellular senescence as a primary stress response in infected cells. Virus-induced senescence (VIS) is indistinguishable from other forms of cellular senescence and is accompanied by a senescence-associated secretory phenotype (SASP), which comprises pro-inflammatory cytokines, extracellular-matrix-active factors and pro-coagulatory mediators. Patients with COVID-19 displayed markers of senescence in their airway mucosa in situ and increased serum levels of SASP factors. In vitro assays demonstrated macrophage activation with SASP-reminiscent secretion, complement lysis and SASP-amplifying secondary senescence of endothelial cells, which mirrored hallmark features of COVID-19 such as macrophage and neutrophil infiltration, endothelial damage and widespread thrombosis in affected lung tissue. Moreover, supernatant from VIS cells, including SARS-CoV-2-induced senescence, induced neutrophil extracellular trap formation and activation of platelets and the clotting cascade. Senolytics such as navitoclax and a combination of dasatinib plus quercetin selectively eliminated VIS cells, mitigated COVID-19-reminiscent lung disease and reduced inflammation in SARS-CoV-2-infected hamsters and mice. Our findings mark VIS as a pathogenic trigger of COVID-19-related cytokine escalation and organ damage, and suggest that senolytic targeting of virus-infected cells is a treatment option against SARS-CoV-2 and perhaps other viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Biosafety Level 2 Mouse Model for Studying Betacoronavirus-Induced Acute Lung Damage and Systemic Manifestations</title>
+      <link>https://example.com/article/34495692/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34495692/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The emergence of life-threatening zoonotic diseases caused by betacoronaviruses, including the ongoing coronavirus disease 19 (COVID-19) pandemic, has highlighted the need for developing preclinical models mirroring respiratory and systemic pathophysiological manifestations seen in infected humans. Here, we showed that C57BL/6J wild-type mice intranasally inoculated with the murine betacoronavirus murine hepatitis coronavirus 3 (MHV-3) develop a robust inflammatory response leading to acute lung injuries, including alveolar edema, hemorrhage, and fibrin thrombi. Although such histopathological changes seemed to resolve as the infection advanced, they efficiently impaired respiratory function, as the infected mice displayed restricted lung distention and increased respiratory frequency and ventilation. Following respiratory manifestation, the MHV-3 infection became systemic, and a high virus burden could be detected in multiple organs along with morphological changes. The systemic manifestation of MHV-3 infection was also marked by a sharp drop in the number of circulating platelets and lymphocytes, besides the augmented concentration of the proinflammatory cytokines interleukin 1 beta (IL-1β), IL-6, IL-12, gamma interferon (IFN-γ), and tumor necrosis factor (TNF), thereby mirroring some clinical features observed in moderate and severe cases of COVID-19. Importantly, both respiratory and systemic changes triggered by MHV-3 infection were greatly prevented by blocking TNF signaling, either via genetic or pharmacologic approaches. In line with this, TNF blockage also diminished the infection-mediated release of proinflammatory cytokines and virus replication of human epithelial lung cells infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Collectively, results show that MHV-3 respiratory infection leads to a large range of clinical manifestations in mice and may constitute an attractive, lower-cost, biosafety level 2 (BSL2) in vivo platform for evaluating the respiratory and multiorgan involvement of betacoronavirus infections.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mouse models have long been used as valuable in vivo platforms to investigate the pathogenesis of viral infections and effective countermeasures. The natural resistance of mice to the novel betacoronavirus SARS-CoV-2, the causative agent of COVID-19, has launched a race toward the characterization of SARS-CoV-2 infection in other animals (e.g., hamsters, cats, ferrets, bats, and monkeys), as well as adaptation of the mouse model, by modifying either the host or the virus. In the present study, we utilized a natural pathogen of mice, MHV, as a prototype to model betacoronavirus-induced acute lung injure and multiorgan involvement under biosafety level 2 conditions. We showed that C57BL/6J mice intranasally inoculated with MHV-3 develops severe disease, which includes acute lung damage and respiratory distress that precede systemic inflammation and death. Accordingly, the proposed animal model may provide a useful tool for studies regarding betacoronavirus respiratory infection and related diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HIF-1α promotes SARS-CoV-2 infection and aggravates inflammatory responses to COVID-19</title>
+      <link>https://example.com/article/34408131/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34408131/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cytokine storm induced by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is a major pathological feature of Coronavirus Disease 2019 (COVID-19) and a crucial determinant in COVID-19 prognosis. Understanding the mechanism underlying the SARS-CoV-2-induced cytokine storm is critical for COVID-19 control. Here, we identify that SARS-CoV-2 ORF3a and host hypoxia-inducible factor-1α (HIF-1α) play key roles in the virus infection and pro-inflammatory responses. RNA sequencing shows that HIF-1α signaling, immune response, and metabolism pathways are dysregulated in COVID-19 patients. Clinical analyses indicate that HIF-1α production, inflammatory responses, and high mortalities occurr in elderly patients. HIF-1α and pro-inflammatory cytokines are elicited in patients and infected cells. Interestingly, SARS-CoV-2 ORF3a induces mitochondrial damage and Mito-ROS production to promote HIF-1α expression, which subsequently facilitates SARS-CoV-2 infection and cytokines production. Notably, HIF-1α also broadly promotes the infection of other viruses. Collectively, during SARS-CoV-2 infection, ORF3a induces HIF-1α, which in turn aggravates viral infection and inflammatory responses. Therefore, HIF-1α plays an important role in promoting SARS-CoV-2 infection and inducing pro-inflammatory responses to COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 N protein promotes NLRP3 inflammasome activation to induce hyperinflammation</title>
+      <link>https://example.com/article/34341353/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34341353/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Author Correction: &lt;a href=&#34;https://www.nature.com/articles/s41467-021-25629-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SARS-CoV-2 N protein promotes NLRP3 inflammasome activation to induce hyperinflammation&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Excessive inflammatory responses induced upon SARS-CoV-2 infection are associated with severe symptoms of COVID-19. Inflammasomes activated in response to SARS-CoV-2 infection are also associated with COVID-19 severity. Here, we show a distinct mechanism by which SARS-CoV-2 N protein promotes NLRP3 inflammasome activation to induce hyperinflammation. N protein facilitates maturation of proinflammatory cytokines and induces proinflammatory responses in cultured cells and mice. Mechanistically, N protein interacts directly with NLRP3 protein, promotes the binding of NLRP3 with ASC, and facilitates NLRP3 inflammasome assembly. More importantly, N protein aggravates lung injury, accelerates death in sepsis and acute inflammation mouse models, and promotes IL-1β and IL-6 activation in mice. Notably, N-induced lung injury and cytokine production are blocked by MCC950 (a specific inhibitor of NLRP3) and Ac-YVAD-cmk (an inhibitor of caspase-1). Therefore, this study reveals a distinct mechanism by which SARS-CoV-2 N protein promotes NLRP3 inflammasome activation and induces excessive inflammatory responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A multi-omics investigation of the composition and function of extracellular vesicles along the temporal trajectory of COVID-19</title>
+      <link>https://example.com/article/34158670/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34158670/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The type I interferon (IFN-I, IFN-α/β)-mediated immune response is the first line of host defense against invading viruses. IFN-α/β binds to IFN-α/β receptors (IFNARs) and triggers the expression of IFN-stimulated genes (ISGs). Thus, stabilization of IFNARs is important for prolonging antiviral activity. Here, we report the induction of an RNA-binding motif-containing protein, RBM47, upon viral infection or interferon stimulation. Using multiple virus infection models, we demonstrate that RBM47 has broad-spectrum antiviral activity in vitro and in vivo. RBM47 has no noticeable impact on IFN production, but significantly activates the IFN-stimulated response element (ISRE) and enhances the expression of interferon-stimulated genes (ISGs). Mechanistically, RBM47 binds to the 3&amp;rsquo;UTR of IFNAR1 mRNA, increases mRNA stability, and retards the degradation of IFNAR1. In summary, this study suggests that RBM47 is an interferon-inducible RNA-binding protein that plays an essential role in enhancing host IFN downstream signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The ORF8 protein of SARS-CoV-2 mediates immune evasion through down-regulating MHC-Ι</title>
+      <link>https://example.com/article/34021074/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34021074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become a global pandemic and has claimed over 2 million lives worldwide. Although the genetic sequences of SARS-CoV and SARS-CoV-2 have high homology, the clinical and pathological characteristics of COVID-19 differ significantly from those of SARS. How and whether SARS-CoV-2 evades (cellular) immune surveillance requires further elucidation. In this study, we show that SARS-CoV-2 infection leads to major histocompability complex class Ι (MHC-Ι) down-regulation both in vitro and in vivo. The viral protein encoded by open reading frame 8 (ORF8) of SARS-CoV-2, which shares the least homology with SARS-CoV among all viral proteins, directly interacts with MHC-Ι molecules and mediates their down-regulation. In ORF8-expressing cells, MHC-Ι molecules are selectively targeted for lysosomal degradation via autophagy. Thus, SARS-CoV-2-infected cells are much less sensitive to lysis by cytotoxic T lymphocytes. Because ORF8 protein impairs the antigen presentation system, inhibition of ORF8 could be a strategy to improve immune surveillance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fe-S cofactors in the SARS-CoV-2 RNA-dependent RNA polymerase are potential antiviral targets</title>
+      <link>https://example.com/article/34083449/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34083449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causal agent of COVID-19, uses an RNA-dependent RNA polymerase (RdRp) for the replication of its genome and the transcription of its genes. We found that the catalytic subunit of the RdRp, nsp12, ligates two iron-sulfur metal cofactors in sites that were modeled as zinc centers in the available cryo-electron microscopy structures of the RdRp complex. These metal binding sites are essential for replication and for interaction with the viral helicase. Oxidation of the clusters by the stable nitroxide TEMPOL caused their disassembly, potently inhibited the RdRp, and blocked SARS-CoV-2 replication in cell culture. These iron-sulfur clusters thus serve as cofactors for the SARS-CoV-2 RdRp and are targets for therapy of COVID-19.&lt;/p&gt;
+&lt;p&gt;The mirror site can be freely accessed by &lt;a href=&#34;http://bioinfo.org/kobas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Reverse-transcribed SARS-CoV-2 RNA can integrate into the genome of cultured human cells and can be expressed in patient-derived tissues</title>
+      <link>https://example.com/article/33958444/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33958444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prolonged detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA and recurrence of PCR-positive tests have been widely reported in patients after recovery from COVID-19, but some of these patients do not appear to shed infectious virus. We investigated the possibility that SARS-CoV-2 RNAs can be reverse-transcribed and integrated into the DNA of human cells in culture and that transcription of the integrated sequences might account for some of the positive PCR tests seen in patients. In support of this hypothesis, we found that DNA copies of SARS-CoV-2 sequences can be integrated into the genome of infected human cells. We found target site duplications flanking the viral sequences and consensus LINE1 endonuclease recognition sequences at the integration sites, consistent with a LINE1 retrotransposon-mediated, target-primed reverse transcription and retroposition mechanism. We also found, in some patient-derived tissues, evidence suggesting that a large fraction of the viral sequences is transcribed from integrated DNA copies of viral sequences, generating viral-host chimeric transcripts. The integration and transcription of viral sequences may thus contribute to the detection of viral RNA by PCR in patients after infection and clinical recovery. Because we have detected only subgenomic sequences derived mainly from the 3&amp;rsquo; end of the viral genome integrated into the DNA of the host cell, infectious virus cannot be produced from the integrated subgenomic SARS-CoV-2 sequences.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An infectivity-enhancing site on the SARS-CoV-2 spike protein targeted by antibodies</title>
+      <link>https://example.com/article/34139176/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34139176/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antibodies against the receptor-binding domain (RBD) of the SARS-CoV-2 spike protein prevent SARS-CoV-2 infection. However, the effects of antibodies against other spike protein domains are largely unknown. Here, we screened a series of anti-spike monoclonal antibodies from coronavirus disease 2019 (COVID-19) patients and found that some of antibodies against the N-terminal domain (NTD) induced the open conformation of RBD and thus enhanced the binding capacity of the spike protein to ACE2 and infectivity of SARS-CoV-2. Mutational analysis revealed that all of the infectivity-enhancing antibodies recognized a specific site on the NTD. Structural analysis demonstrated that all infectivity-enhancing antibodies bound to NTD in a similar manner. The antibodies against this infectivity-enhancing site were detected at high levels in severe patients. Moreover, we identified antibodies against the infectivity-enhancing site in uninfected donors, albeit at a lower frequency. These findings demonstrate that not only neutralizing antibodies but also enhancing antibodies are produced during SARS-CoV-2 infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Neutralizing antibody vaccine for pandemic and pre-emergent coronaviruses</title>
+      <link>https://example.com/article/33971664/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33971664/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Betacoronaviruses caused the outbreaks of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome, as well as the current pandemic of SARS coronavirus 2 (SARS-CoV-2). Vaccines that elicit protective immunity against SARS-CoV-2 and betacoronaviruses that circulate in animals have the potential to prevent future pandemics. Here we show that the immunization of macaques with nanoparticles conjugated with the receptor-binding domain of SARS-CoV-2, and adjuvanted with 3M-052 and alum, elicits cross-neutralizing antibody responses against bat coronaviruses, SARS-CoV and SARS-CoV-2 (including the B.1.1.7, P.1 and B.1.351 variants). Vaccination of macaques with these nanoparticles resulted in a 50% inhibitory reciprocal serum dilution (ID50) neutralization titre of 47,216 (geometric mean) for SARS-CoV-2, as well as in protection against SARS-CoV-2 in the upper and lower respiratory tracts. Nucleoside-modified mRNAs that encode a stabilized transmembrane spike or monomeric receptor-binding domain also induced cross-neutralizing antibody responses against SARS-CoV and bat coronaviruses, albeit at lower titres than achieved with the nanoparticles. These results demonstrate that current mRNA-based vaccines may provide some protection from future outbreaks of zoonotic betacoronaviruses, and provide a multimeric protein platform for the further development of vaccines against multiple (or all) betacoronaviruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Temporal landscape of human gut RNA and DNA virome in SARS-CoV-2 infection and severity</title>

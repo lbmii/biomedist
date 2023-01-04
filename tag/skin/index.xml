@@ -5,12 +5,37 @@
     <link>https://example.com/tag/skin/</link>
       <atom:link href="https://example.com/tag/skin/index.xml" rel="self" type="application/rss+xml" />
     <description>Skin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Skin</title>
       <link>https://example.com/tag/skin/</link>
     </image>
+    
+    <item>
+      <title>GPR34-mediated sensing of lysophosphatidylserine released by apoptotic neutrophils activates type 3 innate lymphoid cells to mediate tissue repair</title>
+      <link>https://example.com/article/34107271/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34107271/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophils migrate rapidly to damaged tissue and play critical roles in host defense and tissue homeostasis. Here we investigated the mechanisms whereby neutrophils participate in tissue repair. In an intestinal epithelia injury model, neutrophil depletion exacerbated colitis and associated with reduced interleukin (IL)-22 and limited activation of type 3 innate lymphoid cells (ILC3s). Co-culture with neutrophils activated ILC3s in a manner dependent on neutrophil apoptosis. Metabolomic analyses revealed that lysophosphatidylserine (LysoPS) from apoptotic neutrophils directly stimulated ILC3 activation. ILC3-specific deletion of Gpr34, encoding the LysoPS receptor GPR34, or inhibition of downstream PI3K-AKT or ERK suppressed IL-22 production in response to apoptotic neutrophils. Gpr34&lt;sup&gt;-/-&lt;/sup&gt; mice exhibited compromised ILC3 activation and tissue repair during colon injury, and neutrophil depletion abrogated these defects. GPR34 deficiency in ILC3s limited IL-22 production and tissue repair in vivo in settings of colon and skin injury. Thus, GPR34 is an ILC3-expressed damage-sensing receptor that triggers tissue repair upon recognition of dying neutrophils.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring</title>

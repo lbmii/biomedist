@@ -5,12 +5,37 @@
     <link>https://example.com/tag/glycosylation/</link>
       <atom:link href="https://example.com/tag/glycosylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Glycosylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Glycosylation</title>
       <link>https://example.com/tag/glycosylation/</link>
     </image>
+    
+    <item>
+      <title>Small RNAs are modified with N-glycans and displayed on the surface of living cells</title>
+      <link>https://example.com/article/34004145/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34004145/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Glycans modify lipids and proteins to mediate inter- and intramolecular interactions across all domains of life. RNA is not thought to be a major target of glycosylation. Here, we challenge this view with evidence that mammals use RNA as a third scaffold for glycosylation. Using a battery of chemical and biochemical approaches, we found that conserved small noncoding RNAs bear sialylated glycans. These &amp;ldquo;glycoRNAs&amp;rdquo; were present in multiple cell types and mammalian species, in cultured cells, and in vivo. GlycoRNA assembly depends on canonical N-glycan biosynthetic machinery and results in structures enriched in sialic acid and fucose. Analysis of living cells revealed that the majority of glycoRNAs were present on the cell surface and can interact with anti-dsRNA antibodies and members of the Siglec receptor family. Collectively, these findings suggest the existence of a direct interface between RNA biology and glycobiology, and an expanded role for RNA in extracellular biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>O-GlcNAc transferase promotes influenza A virus-induced cytokine storm by targeting interferon regulatory factor-5</title>

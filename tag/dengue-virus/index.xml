@@ -5,12 +5,37 @@
     <link>https://example.com/tag/dengue-virus/</link>
       <atom:link href="https://example.com/tag/dengue-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Dengue Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Dengue Virus</title>
       <link>https://example.com/tag/dengue-virus/</link>
     </image>
+    
+    <item>
+      <title>Protective Zika vaccines engineered to eliminate enhancement of dengue infection via immunodominance switch</title>
+      <link>https://example.com/article/34267374/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34267374/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antibody-dependent enhancement (ADE) is an important safety concern for vaccine development against dengue virus (DENV) and its antigenically related Zika virus (ZIKV) because vaccine may prime deleterious antibodies to enhance natural infections. Cross-reactive antibodies targeting the conserved fusion loop epitope (FLE) are known as the main sources of ADE. We design ZIKV immunogens engineered to change the FLE conformation but preserve neutralizing epitopes. Single vaccination conferred sterilizing immunity against ZIKV without ADE of DENV-serotype 1-4 infections and abrogated maternal-neonatal transmission in mice. Unlike the wild-type-based vaccine inducing predominately cross-reactive ADE-prone antibodies, B cell profiling revealed that the engineered vaccines switched immunodominance to dispersed patterns without DENV enhancement. The crystal structure of the engineered immunogen showed the dimeric conformation of the envelope protein with FLE disruption. We provide vaccine candidates that will prevent both ZIKV infection and infection-/vaccination-induced DENV ADE.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Comparative Flavivirus-Host Protein Interaction Mapping Reveals Mechanisms of Dengue and Zika Virus Pathogenesis</title>

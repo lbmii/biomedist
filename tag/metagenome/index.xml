@@ -5,12 +5,37 @@
     <link>https://example.com/tag/metagenome/</link>
       <atom:link href="https://example.com/tag/metagenome/index.xml" rel="self" type="application/rss+xml" />
     <description>Metagenome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Metagenome</title>
       <link>https://example.com/tag/metagenome/</link>
     </image>
+    
+    <item>
+      <title>A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases</title>
+      <link>https://example.com/article/34083435/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34083435/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite remarkable strides in microbiome research, the viral component of the microbiome has generally presented a more challenging target than the bacteriome. This gap persists, even though many thousands of shotgun sequencing runs from human metagenomic samples exist in public databases, and all of them encompass large amounts of viral sequence data. The lack of a comprehensive database for human-associated viruses has historically stymied efforts to interrogate the impact of the virome on human health. This study probes thousands of datasets to uncover sequences from over 45,000 unique virus taxa, with historically high per-genome completeness. Large publicly available case-control studies are reanalyzed, and over 2,200 strong virus-disease associations are found.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>gutMEGA: a database of the human gut MEtaGenome Atlas</title>

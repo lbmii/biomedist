@@ -5,12 +5,44 @@
     <link>https://example.com/tag/breast/</link>
       <atom:link href="https://example.com/tag/breast/index.xml" rel="self" type="application/rss+xml" />
     <description>Breast</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Breast</title>
       <link>https://example.com/tag/breast/</link>
     </image>
+    
+    <item>
+      <title>Metformin induces Ferroptosis by inhibiting UFMylation of SLC7A11 in breast cancer</title>
+      <link>https://example.com/article/34162423/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34162423/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a newly defined form of regulated cell death characterized by the iron-dependent accumulation of lipid peroxidation and is involved in various pathophysiological conditions, including cancer. Targeting ferroptosis is considered to be a novel anti-cancer strategy. The identification of FDA-approved drugs as ferroptosis inducers is proposed to be a new promising approach for cancer treatment. Despite a growing body of evidence indicating the potential efficacy of the anti-diabetic metformin as an anti-cancer agent, the exact mechanism underlying this efficacy has not yet been fully elucidated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The UFMylation of SLC7A11 is detected by immunoprecipitation and the expression of UFM1 and SLC7A11 in tumor tissues was detected by immunohistochemical staining. The level of ferroptosis is determined by the level of free iron, total/lipid Ros and GSH in the cells and the morphological changes of mitochondria are observed by transmission electron microscope. The mechanism in vivo was verified by in situ implantation tumor model in nude mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Metformin induces ferroptosis in an AMPK-independent manner to suppress tumor growth. Mechanistically, we demonstrate that metformin increases the intracellular Fe2+ and lipid ROS levels. Specifically, metformin reduces the protein stability of SLC7A11, which is a critical ferroptosis regulator, by inhibiting its UFMylation process. Furthermore, metformin combined with sulfasalazine, the system xc− inhibitor, can work in a synergistic manner to induce ferroptosis and inhibit the proliferation of breast cancer cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This study is the first to demonstrate that the ability of metformin to induce ferroptosis may be a novel mechanism underlying its anti-cancer effect. In addition, we identified SLC7A11 as a new UFMylation substrate and found that targeting the UFM1/SLC7A11 pathway could be a promising cancer treatment strategy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Chronic circadian disruption modulates breast cancer stemness and immune microenvironment to drive metastasis in mice</title>

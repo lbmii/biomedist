@@ -5,12 +5,37 @@
     <link>https://example.com/tag/biomaterials/</link>
       <atom:link href="https://example.com/tag/biomaterials/index.xml" rel="self" type="application/rss+xml" />
     <description>Biomaterials</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Biomaterials</title>
       <link>https://example.com/tag/biomaterials/</link>
     </image>
+    
+    <item>
+      <title>Mesenchymal Stem Cell-Derived Extracellular Vesicles with High PD-L1 Expression for Autoimmune Diseases Treatment</title>
+      <link>https://example.com/article/34613627/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34613627/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autoimmune diseases are the third most common disease influencing the quality of life of many patients. Here, a programmed cell death-ligand 1 + (PD-L1) mesenchymal stem cell (MSC) derived extracellular vesicles (MSC-sEVs-PD-L1) using lentivirus-mediated gene transfection technology is developed for reconfiguration of the local immune microenvironment of affected tissue in autoimmune diseases. MSC-sEVs-PD-L1 exhibits an impressive ability to regulate various activated immune cells to an immunosuppressed state in vitro. More importantly, in dextran sulfate sodium-induced ulcerative colitis (UC) and imiquimod-induced psoriasis mouse models, a significantly high accumulation of MSC-sEVs-PD-L1 is observed in the inflamed tissues compared to the PD-L1+ MSCs. Therapeutic efficiency in both UC and psoriasis mouse disease models is demonstrated using MSC-sEVs-PD-L1 to reshape the inflammatory ecosystem in the local immune context. A technology is developed using MSC-sEVs-PD-L1 as a natural delivery platform for autoimmune diseases treatment with high clinical potential.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>In situ gas foaming based on magnesium particle degradation: A novel approach to fabricate injectable macroporous hydrogels</title>

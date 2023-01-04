@@ -5,12 +5,44 @@
     <link>https://example.com/tag/pirna/</link>
       <atom:link href="https://example.com/tag/pirna/index.xml" rel="self" type="application/rss+xml" />
     <description>piRNA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>piRNA</title>
       <link>https://example.com/tag/pirna/</link>
     </image>
+    
+    <item>
+      <title>Terminal modification, sequence, length, and PIWI-protein identity determine piRNA stability</title>
+      <link>https://example.com/article/34626567/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34626567/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2′-O-methylation protects mouse and fly piRNAs from complementarity-dependent decay&lt;/li&gt;
+&lt;li&gt;Distinct pathways decay mouse piRNAs with triggers complementary to a piRNA 5′ or 3′ end&lt;/li&gt;
+&lt;li&gt;Mouse pre-piRNAs with U- or G-rich tracts decay faster in testis lysate and in vivo&lt;/li&gt;
+&lt;li&gt;MIWI-bound pre-piRNAs decay faster than MILI-bound pre-piRNAs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In animals, PIWI-interacting RNAs (piRNAs) silence transposons, fight viral infections, and regulate gene expression. piRNA biogenesis concludes with 3′ terminal trimming and 2′-O-methylation. Both trimming and methylation influence piRNA stability. Our biochemical data show that multiple mechanisms destabilize unmethylated mouse piRNAs, depending on whether the piRNA 5′ or 3′ sequence is complementary to a trigger RNA. Unlike target-directed degradation of microRNAs, complementarity-dependent destabilization of piRNAs in mice and flies is blocked by 3′ terminal 2′-O-methylation and does not require base pairing to both the piRNA seed and the 3′ sequence. In flies, 2′-O-methylation also protects small interfering RNAs (siRNAs) from complementarity-dependent destruction. By contrast, pre-piRNA trimming protects mouse piRNAs from a degradation pathway unaffected by trigger complementarity. In testis lysate and &lt;em&gt;in vivo&lt;/em&gt;, internal or 3′ terminal uridine- or guanine-rich tracts accelerate pre-piRNA decay. Loss of both trimming and 2′-O-methylation causes the mouse piRNA pathway to collapse, demonstrating that these modifications collaborate to stabilize piRNAs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PIWIL1 promotes gastric cancer via a piRNA-independent mechanism</title>

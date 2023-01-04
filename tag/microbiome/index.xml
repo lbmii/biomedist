@@ -98,6 +98,131 @@
     </item>
     
     <item>
+      <title>AMDB: a database of animal gut microbial communities with manually curated metadata</title>
+      <link>https://example.com/article/34747470/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34747470/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Variations in gut microbiota can be explained by animal host characteristics, including host phylogeny and diet. However, there are currently no databases that allow for easy exploration of the relationship between gut microbiota and diverse animal hosts. The &lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Animal Microbiome Database (AMDB)&lt;/a&gt; is the first database to provide taxonomic profiles of the gut microbiota in various animal species. &lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMDB&lt;/a&gt; contains 2530 amplicon data from 34 projects with manually curated metadata. The total data represent 467 animal species and contain 10 478 bacterial taxa. This novel database provides information regarding gut microbiota structures and the distribution of gut bacteria in animals, with an easy-to-use interface. Interactive visualizations are also available, enabling effective investigation of the relationship between the gut microbiota and animal hosts. &lt;a href=&#34;http://leb.snu.ac.kr/amdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMDB&lt;/a&gt; will contribute to a better understanding of the gut microbiota of animals.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>gutMGene: a comprehensive database for target genes of gut microbes and microbial metabolites</title>
+      <link>https://example.com/article/34500458/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34500458/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt;, a manually curated database, aims at providing a comprehensive resource of target genes of gut microbes and microbial metabolites in humans and mice. Metagenomic sequencing of fecal samples has identified 3.3 × 106 non-redundant microbial genes from up to 1500 different species. One of the contributions of gut microbiota to host biology is the circulating pool of bacterially derived small-molecule metabolites. It has been estimated that 10% of metabolites found in mammalian blood are derived from the gut microbiota, where they can produce systemic effects on the host through activating or inhibiting gene expression. The current version of &lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; documents 1331 curated relationships between 332 gut microbes, 207 microbial metabolites and 223 genes in humans, and 2349 curated relationships between 209 gut microbes, 149 microbial metabolites and 544 genes in mice. Each entry in the &lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; contains detailed information on a relationship between gut microbe, microbial metabolite and target gene, a brief description of the relationship, experiment technology and platform, literature reference and so on. &lt;a href=&#34;http://bio-annotation.cn/gutmgene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gutMGene&lt;/a&gt; provides a user-friendly interface to browse and retrieve each entry using gut microbes, disorders and intervention measures. It also offers the option to download all the entries and submit new experimentally validated associations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metagenomic compendium of 189,680 DNA viruses from the human gut microbiome</title>
+      <link>https://example.com/article/34168315/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34168315/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bacteriophages have important roles in the ecology of the human gut microbiome but are under-represented in reference databases. To address this problem, we assembled the Metagenomic Gut Virus catalogue that comprises 189,680 viral genomes from 11,810 publicly available human stool metagenomes. Over 75% of genomes represent double-stranded DNA phages that infect members of the Bacteroidia and Clostridia classes. Based on sequence clustering we identified 54,118 candidate viral species, 92% of which were not found in existing databases. The Metagenomic Gut Virus catalogue improves detection of viruses in stool metagenomes and accounts for nearly 40% of CRISPR spacers found in human gut Bacteria and Archaea. We also produced a catalogue of 459,375 viral protein clusters to explore the functional potential of the gut virome. This revealed tens of thousands of diversity-generating retroelements, which use error-prone reverse transcription to mutate target genes and may be involved in the molecular arms race between phages and their bacterial hosts.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Endogenous retroviruses promote homeostatic and inflammatory responses to the microbiota</title>
+      <link>https://example.com/article/34166614/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34166614/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The microbiota plays a fundamental role in regulating host immunity. However, the processes involved in the initiation and regulation of immunity to the microbiota remain largely unknown. Here, we show that the skin microbiota promotes the discrete expression of defined endogenous retroviruses (ERVs). Keratinocyte-intrinsic responses to ERVs depended on cyclic GMP-AMP synthase (cGAS)/stimulator of interferon genes protein (STING) signaling and promoted the induction of commensal-specific T cells. Inhibition of ERV reverse transcription significantly impacted these responses, resulting in impaired immunity to the microbiota and its associated tissue repair function. Conversely, a lipid-enriched diet primed the skin for heightened ERV- expression in response to commensal colonization, leading to increased immune responses and tissue inflammation. Together, our results support the idea that the host may have co-opted its endogenous virome as a means to communicate with the exogenous microbiota, resulting in a multi-kingdom dialog that controls both tissue homeostasis and inflammation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases</title>
+      <link>https://example.com/article/34083435/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34083435/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite remarkable strides in microbiome research, the viral component of the microbiome has generally presented a more challenging target than the bacteriome. This gap persists, even though many thousands of shotgun sequencing runs from human metagenomic samples exist in public databases, and all of them encompass large amounts of viral sequence data. The lack of a comprehensive database for human-associated viruses has historically stymied efforts to interrogate the impact of the virome on human health. This study probes thousands of datasets to uncover sequences from over 45,000 unique virus taxa, with historically high per-genome completeness. Large publicly available case-control studies are reanalyzed, and over 2,200 strong virus-disease associations are found.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>gutMEGA: a database of the human gut MEtaGenome Atlas</title>
       <link>https://example.com/article/32496513/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>

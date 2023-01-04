@@ -5,12 +5,37 @@
     <link>https://example.com/tag/pseudorabies-virus/</link>
       <atom:link href="https://example.com/tag/pseudorabies-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Pseudorabies Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Pseudorabies Virus</title>
       <link>https://example.com/tag/pseudorabies-virus/</link>
     </image>
+    
+    <item>
+      <title>RUNX1-mediated alphaherpesvirus-host trans-species chromatin interaction promotes viral transcription</title>
+      <link>https://example.com/article/34162542/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34162542/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Like most DNA viruses, herpesviruses precisely deliver their genomes into the sophisticatedly organized nuclei of the infected host cells to initiate subsequent transcription and replication. However, it remains elusive how the viral genome specifically interacts with the host genome and hijacks host transcription machinery. Using pseudorabies virus (PRV) as model virus, we performed chromosome conformation capture assays to demonstrate a genome-wide specific trans-species chromatin interaction between the virus and host. Our data show that the PRV genome is delivered by the host DNA binding protein RUNX1 into the open chromatin and active transcription zone. This facilitates virus hijacking host RNAPII to efficiently transcribe viral genes, which is significantly inhibited by either a RUNX1 inhibitor or RNA interference. Together, these findings provide insights into the chromatin interaction between viral and host genomes and identify new areas of research to advance the understanding of herpesvirus genome transcription.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>BRD4 inhibition exerts anti-viral activity through DNA damage-dependent innate immune responses</title>

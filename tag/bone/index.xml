@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bone | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/bone/</link>
+      <atom:link href="https://example.com/tag/bone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bone</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Bone</title>
+      <link>https://example.com/tag/bone/</link>
+    </image>
+    
+    <item>
+      <title>Circular RNA AFF4 modulates osteogenic differentiation in BM-MSCs by activating SMAD1/5 pathway through miR-135a-5p/FNDC5/Irisin axis</title>
+      <link>https://example.com/article/34145212/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34145212/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bone marrow-derived mesenchymal stem cells (BM-MSCs), the common progenitor cells of adipocytes and osteoblasts, have been recognized as the key mediator during bone formation. Herein, our study aim to investigate molecular mechanisms underlying circular RNA (circRNA) AFF4 (circ_AFF4)-regulated BM-MSCs osteogenesis. BM-MSCs were characterized by FACS, ARS, and ALP staining. Expression patterns of circ_AFF4, miR-135a-5p, FNDC5/Irisin, SMAD1/5, and osteogenesis markers, including ALP, BMP4, RUNX2, Spp1, and Colla1 were detected by qRT-PCR, western blot, or immunofluorescence staining, respectively. Interactions between circ_AFF4 and miR-135a-5p, FNDC5, and miR-135a-5p were analyzed using web tools including TargetScan, miRanda, and miRDB, and further confirmed by luciferase reporter assay and RNA pull-down. Complex formation between Irisin and Integrin αV was verified by Co-immunoprecipitation. To further verify the functional role of circ_AFF4 in vivo during bone formation, we conducted animal experiments harboring circ_AFF4 knockdown, and born samples were evaluated by immunohistochemistry, hematoxylin and eosin, and Masson staining. Circ_AFF4 was upregulated upon osteogenic differentiation induction in BM-MSCs, and miR-135a-5p expression declined as differentiation proceeds. Circ_AFF4 knockdown significantly inhibited osteogenesis potential in BM-MSCs. Circ_AFF4 stimulated FNDC5/Irisin expression through complementary binding to its downstream target molecule miR-135a-5p. Irisin formed an intermolecular complex with Integrin αV and activated the SMAD1/5 pathway during osteogenic differentiation. Our work revealed that circ_AFF4, acting as a sponge of miR-135a-5p, triggers the promotion of FNDC5/Irisin via activating the SMAD1/5 pathway to induce osteogenic differentiation in BM-MSCs. These findings gained a deeper insight into the circRNA-miRNA regulatory system in the bone marrow microenvironment and may improve our understanding of bone formation-related diseases at physiological and pathological levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

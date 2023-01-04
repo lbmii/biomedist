@@ -5,12 +5,88 @@
     <link>https://example.com/tag/nervous-system/</link>
       <atom:link href="https://example.com/tag/nervous-system/index.xml" rel="self" type="application/rss+xml" />
     <description>Nervous System</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Nervous System</title>
       <link>https://example.com/tag/nervous-system/</link>
     </image>
+    
+    <item>
+      <title>Multi-omics of human plasma reveals molecular features of dysregulated inflammation and accelerated aging in schizophrenia</title>
+      <link>https://example.com/article/34741130/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34741130/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long noncoding RNA BS-DRL1 modulates the DNA damage response and genome stability by interacting with HMGB1 in neurons</title>
+      <link>https://example.com/article/34210972/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34210972/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long noncoding RNAs (lncRNAs) are known to regulate DNA damage response (DDR) and genome stability in proliferative cells. However, it remains unknown whether lncRNAs are involved in these vital biological processes in post-mitotic neurons. Here, we report and characterize a lncRNA, termed Brain Specific DNA-damage Related lncRNA1 (BS-DRL1), in the central nervous system. BS-DRL1 is a brain-specific lncRNA and depletion of BS-DRL1 in neurons leads to impaired DDR upon etoposide treatment in vitro. Mechanistically, BS-DRL1 interacts with HMGB1, a chromatin protein that is important for genome stability, and is essential for the assembly of HMGB1 on chromatin. BS-DRL1 mediated DDR exhibits cell-type specificity in the cortex and cerebellum in gamma-irradiated mice and BS-DRL1 knockout mice show impaired motor function and concomitant purkinje cell degeneration. Our study extends the understanding of lncRNAs in DDR and genome stability and implies a protective role of lncRNA against neurodegeneration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide CRISPRi/a screens in human neurons link lysosomal failure to ferroptosis</title>
+      <link>https://example.com/article/34031600/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34031600/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics provide a systematic map of gene expression in different human cell types. The next challenge is to systematically understand cell-type-specific gene function. The integration of CRISPR-based functional genomics and stem cell technology enables the scalable interrogation of gene function in differentiated human cells. Here we present the first genome-wide CRISPR interference and CRISPR activation screens in human neurons. We uncover pathways controlling neuronal response to chronic oxidative stress, which is implicated in neurodegenerative diseases. Unexpectedly, knockdown of the lysosomal protein prosaposin strongly sensitizes neurons, but not other cell types, to oxidative stress by triggering the formation of lipofuscin, a hallmark of aging, which traps iron, generating reactive oxygen species and triggering ferroptosis. We also determine transcriptomic changes in neurons after perturbation of genes linked to neurodegenerative diseases. To enable the systematic comparison of gene function across different human cell types, we establish a data commons named &lt;a href=&#34;https://crisprbrain.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRISPRbrain&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://crisprbrain.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRISPRbrain&lt;/a&gt; is a data commons organizing results from genetic screens for different phenotypes in different human cell types, by different research groups.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Aagab acts as a novel regulator of NEDD4-1-mediated Pten nuclear translocation to promote neurological recovery following hypoxic-ischemic brain damage</title>
