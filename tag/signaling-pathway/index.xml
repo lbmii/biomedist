@@ -5,12 +5,37 @@
     <link>https://example.com/tag/signaling-pathway/</link>
       <atom:link href="https://example.com/tag/signaling-pathway/index.xml" rel="self" type="application/rss+xml" />
     <description>Signaling Pathway</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Signaling Pathway</title>
       <link>https://example.com/tag/signaling-pathway/</link>
     </image>
+    
+    <item>
+      <title>Neutrophil Extracellular Traps Delay Diabetic Wound Healing by Inducing Endothelial-to-Mesenchymal Transition via the Hippo pathway</title>
+      <link>https://example.com/article/36594092/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36594092/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diabetic foot ulcers (DFUs) are among the most frequent complications of diabetes with significant morbidity and mortality. Diabetes can trigger neutrophils to undergo histone citrullination by protein arginine deiminase 4 (encoded by Padi4 in mice) and release neutrophil extracellular traps (NETs). The specific mechanism of NETs-mediated wound healing impairment in diabetes remains unknown. In this study, we show neutrophils are more susceptible to NETosis in diabetic wound environments. Via in vitro experiments and in vivo models of wound healing using wide-type and Padi4 -/- mice, we demonstrate NETs can induce the activation of PAK2 via the membrane receptor TLR-9. Then PAK2 phosphorylates the intracellular protein Merlin/NF2 to inhibit the Hippo-YAP pathway. YAP binds to transcription factor SMAD2 and translocates from the cytoplasm into the nucleus to promote endothelial-to-mesenchymal transition (EndMT), which ultimately impedes angiogenesis and delays wound healing. Suppression of the Merlin/YAP/SMAD2 pathway can attenuate NET-induced EndMT. Inhibition of NETosis accelerates wound healing by reducing EndMT and promoting angiogenesis. Cumulatively, these data suggest NETosis delays diabetic wound healing by inducing EndMT via the Hippo-YAP pathway. Increased understanding of the molecular mechanism that regulates NETosis and EndMT will be of considerable value for providing cellular targets amenable to therapeutic intervention for DFUs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Methylene-bridge tryptophan fatty acylation regulates PI3K-AKT signaling and glucose uptake</title>

@@ -5,12 +5,44 @@
     <link>https://example.com/tag/necroptosis/</link>
       <atom:link href="https://example.com/tag/necroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Necroptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Necroptosis</title>
       <link>https://example.com/tag/necroptosis/</link>
     </image>
+    
+    <item>
+      <title>Role of necroptosis in kidney health and disease</title>
+      <link>https://example.com/review/36596919/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36596919/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Key points&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Necroptosis is a form of programmed cell death that leads to cell lysis and an inflammatory response in neighbouring tissues; dysregulation of the pathway is widely implicated in kidney diseases.&lt;/li&gt;
+&lt;li&gt;The core regulators of the necroptosis pathway are the kinases, RIPK1 and RIPK3, and the executioner pseudokinase, MLKL; each of these proteins is regulated by diverse interactions and modifications.&lt;/li&gt;
+&lt;li&gt;Most experimental studies of necroptosis in kidney diseases have been performed in rodent models of disease; further studies are therefore essential to define the contribution of this cell death mode to human kidney diseases.&lt;/li&gt;
+&lt;li&gt;RIPK1 inhibitors are currently being explored in clinical trials to treat neuronal and inflammatory diseases, but so far, the results have not been convincing; future trials are required to establish the viability of targeting necroptosis in kidney diseases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cell death, particularly that of tubule epithelial cells, contributes critically to the pathophysiology of kidney disease. A body of evidence accumulated over the past 15 years has ascribed a central pathophysiological role to a particular form of regulated necrosis, termed necroptosis, to acute tubular necrosis, nephron loss and maladaptive renal fibrogenesis. Unlike apoptosis, which is a non-immunogenic process, necroptosis results in the release of cellular contents and cytokines, which triggers an inflammatory response in neighbouring tissue. This necroinflammatory environment can lead to severe organ dysfunction and cause lasting tissue injury in the kidney. Despite evidence of a link between necroptosis and various kidney diseases, there are no available therapeutic options to target this process. Greater understanding of the molecular mechanisms, triggers and regulators of necroptosis in acute and chronic kidney diseases may identify shortcomings in current approaches to therapeutically target necroptosis regulators and lead to the development of innovative therapeutic approaches.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PANoptosis-like cell death in ischemia/reperfusion injury of retinal neurons</title>

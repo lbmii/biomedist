@@ -5,12 +5,40 @@
     <link>https://example.com/tag/stem-cell/</link>
       <atom:link href="https://example.com/tag/stem-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Stem Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Stem Cell</title>
       <link>https://example.com/tag/stem-cell/</link>
     </image>
+    
+    <item>
+      <title>RUNX2 stabilization by long non-coding RNAs contributes to hypertrophic changes in human chondrocytes</title>
+      <link>https://example.com/article/36594090/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36594090/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Chondrocyte hypertrophy has been implicated in endochondral ossification and osteoarthritis (OA). In OA, hypertrophic chondrocytes contribute to the destruction and focal calcification of the joint cartilage. Although studies in this field have remarkably developed the modulation of joint inflammation using gene therapy and regeneration of damaged articular cartilage using cell therapy, studies that can modulate or prevent hypertrophic changes in articular chondrocytes are still lacking.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; &lt;em&gt;In vitro&lt;/em&gt; hypertrophic differentiation and inflammation assays were conducted using human normal chondrocyte cell lines, TC28a2 cells. Human cartilage tissues and primary articular chondrocytes were obtained from OA patients undergoing total knee arthroplasty. Long non-coding RNAs (lncRNAs), LINC02035 and LOC100130207, were selected through RNA-sequencing analysis using RNAs extracted from TC28a2 cells cultured in hypertrophic medium. The regulatory mechanism was evaluated using western blotting, real-time quantitative polymerase chain reaction, osteocalcin reporter assay, RNA-immunoprecipitation (RNA-IP), RNA-&lt;em&gt;in situ&lt;/em&gt; hybridization, and IP.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LncRNAs are crucial regulators of various biological processes. In this study, we identified two important lncRNAs, LINC02035 and LOC100130207, which play important roles in hypertrophic changes in normal chondrocytes, through RNA sequencing. Interestingly, the expression level of RUNX2, a master regulator of chondrocyte hypertrophy, was regulated at the post-translational level during hypertrophic differentiation of the normal human chondrocyte cell line, TC28a2. RNA-immunoprecipitation proved the potential interaction between RUNX2 protein and both lncRNAs. Knockdown (KD) of LINC02035 or LOC100130207 promoted ubiquitin-mediated proteasomal degradation of RUNX2 and prevented hypertrophic differentiation of normal chondrocyte cell lines, whereas overexpression of both lncRNAs stabilized RUNX2 protein and generated hypertrophic changes. Furthermore, the KD of the two lncRNAs mitigated the destruction of important cartilage matrix proteins, COL2A1 and ACAN, by hypertrophic differentiation or inflammatory conditions. We also confirmed that the phenotypic changes raised by the two lncRNAs could be rescued by modulating &lt;em&gt;RUNX2&lt;/em&gt; expression. In addition, the KD of these two lncRNAs suppressed hypertrophic changes during chondrogenic differentiation of mesenchymal stem cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Therefore, this study suggests that LINC02035 and LOC100130207 contribute to hypertrophic changes in normal chondrocytes by regulating RUNX2, suggesting that these two novel lncRNAs could be potential therapeutic targets for delaying or preventing OA development, especially for preventing chondrocyte hypertrophy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Nuclear localization of mitochondrial TCA cycle enzymes modulates pluripotency via histone acetylation</title>

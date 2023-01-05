@@ -5,12 +5,40 @@
     <link>https://example.com/tag/efferocytosis/</link>
       <atom:link href="https://example.com/tag/efferocytosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Efferocytosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Efferocytosis</title>
       <link>https://example.com/tag/efferocytosis/</link>
     </image>
+    
+    <item>
+      <title>SIRT6-regulated macrophage efferocytosis epigenetically controls inflammation resolution of diabetic periodontitis</title>
+      <link>https://example.com/article/36593966/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36593966/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Diabetes exacerbates the prevalence and severity of periodontitis, leading to severe periodontal destruction and ultimately tooth loss. Delayed resolution of inflammation is a major contributor to diabetic periodontitis (DP) pathogenesis, but the underlying mechanisms of this imbalanced immune homeostasis remain unclear.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We collected periodontium from periodontitis with or without diabetes to confirm the dysfunctional neutrophils and macrophages in aggravated inflammatory damage and impaired inflammation resolution. Our in vitro experiments confirmed that SIRT6 inhibited macrophage efferocytosis by restraining miR-216a-5p-216b-5p-217 cluster maturation through &amp;lsquo;&amp;rsquo;non-canonical&amp;rsquo;&amp;rsquo; microprocessor complex (RNA pulldown, RIP, immunostaining, CHIP, Luciferase assays, and FISH). Moreover, we constructed m6SKO mice that underwent LIP-induced periodontitis to explore the in vitro and in vivo effect of SIRT6 on macrophage efferocytosis. Finally, antagomiR-217, a miRNA antagonism, was delivered into the periodontium to treat LIP-induced diabetic periodontitis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We discovered that insufficient SIRT6 as a histone deacetylase in macrophages led to unresolved inflammation and aggravated periodontitis in both human and mouse DP with accumulated apoptotic neutrophil (AN) and higher generation of neutrophil extracellular traps. Mechanistically, we validated that macrophage underwent high glucose stimulation resulting in disturbance of the SIRT6-miR-216/217 axis that triggered impeded efferocytosis of AN through targeting the DEL-1/CD36 axis directly. Furthermore, we demonstrated the inhibitory role of SIRT6 for MIR217HG transcription and identified a non-canonical action of microprocessor that SIRT6 epigenetically hindered the splicing of the primary miR-216/217 via the complex of hnRNPA2B1, DGCR8, and Drosha. Notably, by constructing myeloid-specific deletion of SIRT6 mice and locally delivering antagomir-217 in DP models, we strengthened the in vivo effect of this axis in regulating macrophage efferocytosis and inflammation resolution in DP.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings delineated the emerging role of SIRT6 in mediating metabolic dysfunction-associated inflammation, and therapeutically targeting this regulatory axis might be a promising strategy for treating diabetes-associated inflammatory diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>First we eat, then we do everything else: The dynamic metabolic regulation of efferocytosis</title>
