@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lipid/</link>
       <atom:link href="https://example.com/tag/lipid/index.xml" rel="self" type="application/rss+xml" />
     <description>Lipid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lipid</title>
       <link>https://example.com/tag/lipid/</link>
     </image>
+    
+    <item>
+      <title>Interactions of Inhaled Liposome with Macrophages and Neutrophils Determine Particle Biofate and Anti-Inflammatory Effect in Acute Lung Inflammation</title>
+      <link>https://example.com/article/36583377/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36583377/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since most current studies have focused on exploring how phagocyte internalization of drug-loaded nanovesicles by macrophages would affect the function and therapeutic effects of infiltrated neutrophils or monocytes, research has evaluated the specificity of the inhaled nanovesicles for targeting various phagocytes subpopulations. In this study, liposomes with various charges (including neutral (L1), anionic (L2), and cationic at inflammatory sites (L3)) were constructed to investigate how particle charge determined their interactions with key phagocytes (including macrophages and neutrophils) in acute lung injury (ALI) models and to establish correlations with their biofate and overall anti-inflammatory effect. Our results clearly indicated that neutrophils were capable of rapidly sequestering L3 with a 3.2-fold increase in the cellular liposome distribution, compared to that in AMs, while 70.5% of L2 were preferentially uptaken by alveolar macrophages (AMs). Furthermore, both AMs and the infiltrated neutrophils performed as the potential vesicles for the inhaled liposomes to prolong their lung retention in ALI models, whereas AMs function as sweepers to recognize and process liposomes in the healthy lung. Finally, inhaled roflumilast-loaded macrophage or neutrophil preferential liposomes (L2 or L3) exhibited optimal anti-inflammatory effect because of the decreased AMs phagocytic capacity or the prolonged circulation times of neutrophils. Such findings will be beneficial in exploiting a potential pathway to specifically manipulate lung phagocyte functions in lung inflammatory diseases where these cells play crucial roles.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The lipid flippase SLC47A1 blocks metabolic vulnerability to ferroptosis</title>

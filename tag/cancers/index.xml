@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cancers/</link>
       <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cancers</title>
       <link>https://example.com/tag/cancers/</link>
     </image>
+    
+    <item>
+      <title>HERC3 promotes YAP/TAZ stability and tumorigenesis independently of its ubiquitin ligase activity</title>
+      <link>https://example.com/article/36598329/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36598329/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;YAP/TAZ transcriptional co-activators play pivotal roles in tumorigenesis. In the Hippo pathway, diverse signals activate the MST-LATS kinase cascade that leads to YAP/TAZ phosphorylation, and subsequent ubiquitination and proteasomal degradation by SCFβ-TrCP. When the MST-LATS kinase cascade is inactive, unphosphorylated or dephosphorylated YAP/TAZ translocate into the nucleus to mediate TEAD-dependent gene transcription. Hippo signaling-independent YAP/TAZ activation in human malignancies has also been observed, yet the mechanism remains largely elusive. Here, we report that the ubiquitin E3 ligase HERC3 can promote YAP/TAZ activation independently of its enzymatic activity. HERC3 directly binds to β-TrCP, blocks its interaction with YAP/TAZ, and thus prevents YAP/TAZ ubiquitination and degradation. Expression levels of HERC3 correlate with YAP/TAZ protein levels and expression of YAP/TAZ target genes in breast tumor cells and tissues. Accordingly, knockdown of HERC3 expression ameliorates tumorigenesis of breast cancer cells. Our results establish HERC3 as a critical regulator of the YAP/TAZ stability and a potential therapeutic target for breast cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Lactylome analysis suggests lactylation-dependent mechanisms of metabolic adaptation in hepatocellular carcinoma</title>
@@ -19,6 +44,31 @@
       <guid>https://example.com/article/36593272/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Enhanced glycolysis and accumulation of lactate is a common feature in various types of cancer. Intracellular lactate drives a recently described type of posttranslational modification, lysine lactylation (Kla), on core histones. However, the impact of lactylation on biological processes of tumour cells remains largely unknown. Here we show a global lactylome profiling on a prospectively collected hepatitis B virus-related hepatocellular carcinoma (HCC) cohort. Integrative lactylome and proteome analysis of the tumours and adjacent livers identifies 9,275 Kla sites, with 9,256 sites on non-histone proteins, indicating that Kla is a prevalent modification beyond histone proteins and transcriptional regulation. Notably, Kla preferentially affects enzymes involved in metabolic pathways, including the tricarboxylic acid cycle, and carbohydrate, amino acid, fatty acid and nucleotide metabolism. We further verify that lactylation at K28 inhibits the function of adenylate kinase 2, facilitating the proliferation and metastasis of HCC cells. Our study therefore reveals that Kla plays an important role in regulating cellular metabolism and may contribute to HCC progression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>miRNome profiling of lung cancer metastases revealed a key role for miRNA-PD-L1 axis in the modulation of chemotherapy response</title>
+      <link>https://example.com/article/36587234/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36587234/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Locally advanced non-small cell lung cancer (NSCLC) is frequent at diagnosis and requires multimodal treatment approaches. Neoadjuvant chemotherapy (NACT) followed by surgery is the treatment of choice for operable locally advanced NSCLC (Stage IIIA). However, the majority of patients are NACT-resistant and show persistent lymph nodal metastases (LNmets) and an adverse outcome. Therefore, the identification of mechanisms and biomarkers of NACT resistance is paramount for ameliorating the prognosis of patients with Stage IIIA NSCLC. Here, we investigated the miRNome and transcriptome of chemo-naïve LNmets collected from patients with Stage IIIA NSCLC (N = 64). We found that a microRNA signature accurately predicts NACT response. Mechanistically, we discovered a miR-455-5p/PD-L1 regulatory axis which drives chemotherapy resistance, hallmarks metastases with active IFN-γ response pathway (an inducer of PD-L1 expression), and impacts T cells viability and relative abundances in tumor microenvironment (TME). Our data provide new biomarkers to predict NACT response and add molecular insights relevant for improving the management of patients with locally advanced NSCLC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -47,6 +97,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; SOST expression in 442 breast cancer tissues was characterized by immunohistochemistry and statistically analyzed for the association with breast cancer bone metastases. Bone metastatic breast cancer SCP2 cells were induced for SOST silencing or overexpression and their bone metastatic behaviors were tested in vitro and in vivo. To identify potential therapeutics, we screened inhibitors of the interaction of SOST with STAT3 from a small chemical molecule library and tested the inhibitory effects of one inhibitor on breast cancer growth and bone metastasis in vitro and in vivo.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We found that up-regulated SOST expression was associated with breast cancer bone metastases and worse survival of breast cancer patients. SOST silencing significantly reduced the bone metastatic capacity of SCP2 cells. SOST interacted with STAT3 to enhance the TGF-β/KRAS signaling, increasing both tumor growth and bone metastasis. Treatment with one lead candidate, S6, significantly inhibited the growth of breast-cancer organoids and bone metastasis in mice.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings highlight a new class of potential therapeutics for treatment of bone metastasis in breast cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>UBE2J1 inhibits colorectal cancer progression by promoting ubiquitination and degradation of RPS3</title>
+      <link>https://example.com/article/36567344/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36567344/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ubiquitin-conjugating enzyme E2 J1 (UBE2J1) has been proven to participate in the ubiquitination of multiple substrate proteins. However, the underlying mechanisms of UBE2J1 as a ubiquitin-conjugating enzyme participating in cancer development and progression remain largely unknown. Here, we identified that UBE2J1 is downregulated in colorectal cancer (CRC) tissues and cell lines which are mediated by DNA hypermethylation of its promoter, and decreased UBE2J1 is associated with poor prognosis. Functionally, UBE2J1 serving as a suppressor gene inhibits the proliferation and metastasis of CRC cells. Mechanistically, UBE2J1-TRIM25, forming an E2-E3 complex, physically interacts with and targets RPS3 for ubiquitination and degradation at the K214 residue. The downregulated RPS3 caused by UBE2J1 overexpression restrains NF-κB translocation into the nucleus and therefore inactivates the NF-κB signaling pathway. Our study revealed a novel role of UBE2J1-mediated RPS3 poly-ubiquitination and degradation in disrupting the NF-κB signaling pathway, which may serve as a novel and promising biomarker and therapeutic target for CRC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

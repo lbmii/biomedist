@@ -5,12 +5,37 @@
     <link>https://example.com/tag/micrornas/</link>
       <atom:link href="https://example.com/tag/micrornas/index.xml" rel="self" type="application/rss+xml" />
     <description>microRNAs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>microRNAs</title>
       <link>https://example.com/tag/micrornas/</link>
     </image>
+    
+    <item>
+      <title>miRNome profiling of lung cancer metastases revealed a key role for miRNA-PD-L1 axis in the modulation of chemotherapy response</title>
+      <link>https://example.com/article/36587234/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36587234/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Locally advanced non-small cell lung cancer (NSCLC) is frequent at diagnosis and requires multimodal treatment approaches. Neoadjuvant chemotherapy (NACT) followed by surgery is the treatment of choice for operable locally advanced NSCLC (Stage IIIA). However, the majority of patients are NACT-resistant and show persistent lymph nodal metastases (LNmets) and an adverse outcome. Therefore, the identification of mechanisms and biomarkers of NACT resistance is paramount for ameliorating the prognosis of patients with Stage IIIA NSCLC. Here, we investigated the miRNome and transcriptome of chemo-naïve LNmets collected from patients with Stage IIIA NSCLC (N = 64). We found that a microRNA signature accurately predicts NACT response. Mechanistically, we discovered a miR-455-5p/PD-L1 regulatory axis which drives chemotherapy resistance, hallmarks metastases with active IFN-γ response pathway (an inducer of PD-L1 expression), and impacts T cells viability and relative abundances in tumor microenvironment (TME). Our data provide new biomarkers to predict NACT response and add molecular insights relevant for improving the management of patients with locally advanced NSCLC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Heparan sulfate proteoglycan-mediated internalization of extracellular vesicles ameliorates liver fibrosis by targeting hepatic stellate cells</title>
