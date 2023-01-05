@@ -479,9 +479,9 @@
     
     <item>
       <title>DeepCIP: a multimodal deep learning method for the prediction of internal ribosome entry sites of circRNAs</title>
-      <link>https://example.com/article/23-01-02-19-17/</link>
+      <link>https://example.com/article/deepcip/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-02-19-17/</guid>
+      <guid>https://example.com/article/deepcip/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Motivation&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Circular RNAs (circRNAs) have been found to have the potential to code proteins. Internal ribosome entry sites (IRESs) are key RNA regulatory elements for the translation of proteins by circRNAs through a cap-independent mechanism. IRES can be identified by bicistronic assay, but the method is time-consuming and laborious. Therefore, it is important to develop computational methods for facilitating IRES identification, evaluation, and design in circRNAs.&lt;/p&gt;
