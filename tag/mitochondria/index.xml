@@ -5,12 +5,44 @@
     <link>https://example.com/tag/mitochondria/</link>
       <atom:link href="https://example.com/tag/mitochondria/index.xml" rel="self" type="application/rss+xml" />
     <description>Mitochondria</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Mitochondria</title>
       <link>https://example.com/tag/mitochondria/</link>
     </image>
+    
+    <item>
+      <title>TMBIM6 prevents VDAC1 multimerization and improves mitochondrial quality control to reduce sepsis-related myocardial injury</title>
+      <link>https://example.com/article/23-01-05-10-06/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-05-10-06/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The regulatory mechanisms involved in mitochondrial quality control (MQC) dysfunction during septic cardiomyopathy (SCM) remain incompletely characterized. Transmembrane BAX inhibitor motif containing 6 (TMBIM6) is an endoplasmic reticulum protein with Ca2+ leak activity that modulates cellular responses to various cellular stressors.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this study, we evaluated the role of TMBIM6 in SCM using cardiomyocyte-specific TMBIM6 knockout (TMBIM6CKO) and TMBIM6 transgenic (TMBIM6TG) mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Myocardial TMBIM6 transcription and expression were significantly downregulated in wild-type mice upon LPS exposure, along with characteristic alterations in myocardial systolic/diastolic function, cardiac inflammation, and cardiomyocyte death. Notably, these alterations were further exacerbated in LPS-treated TMBIM6CKO mice, and largely absent in TMBIM6TG mice. In LPS-treated primary cardiomyocytes, TMBIM6 deficiency further impaired mitochondrial respiration and ATP production, while defective MQC was suggested by enhanced mitochondrial fission, impaired mitophagy, and disrupted mitochondrial biogenesis. Structural protein analysis, Co-IP, mutant TMBIM6 plasmid transfection, and molecular docking assays subsequently indicated that TMBIM6 exerts cardioprotection against LPS-induced sepsis by interacting with and preventing the oligomerization of voltage-dependent anion channel-1 (VDAC1), the major route of mitochondrial Ca2+ uptake.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We conclude that the TMBIM6-VDAC1 interaction prevents VDAC1 oligomerization and thus sustains mitochondrial Ca2+ homeostasis as well as MQC, contributing to improved myocardial function in SCM.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Mitochondria-localized lncRNA HITT inhibits fusion by attenuating formation of mitofusin-2 homo- or heterotypic complexes</title>

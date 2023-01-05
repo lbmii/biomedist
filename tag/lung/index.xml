@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lung/</link>
       <atom:link href="https://example.com/tag/lung/index.xml" rel="self" type="application/rss+xml" />
     <description>Lung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lung</title>
       <link>https://example.com/tag/lung/</link>
     </image>
+    
+    <item>
+      <title>c-JUN-mediated transcriptional responses in lymphatic endothelial cells are required for lung fluid clearance at birth</title>
+      <link>https://example.com/article/36595691/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36595691/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fluid clearance mediated by lymphatic vessels is known to be essential for lung inflation and gas-exchange function during the transition from prenatal to postnatal life, yet the molecular mechanisms that regulate lymphatic function remain unclear. Here, we profiled the molecular features of lymphatic endothelial cells (LECs) in embryonic and postnatal day (P) 0 lungs by single-cell RNA-sequencing analysis. We identified that the expression of c-JUN is transiently upregulated in P0 LECs. Conditional knockout of Jun in LECs impairs the opening of lung lymphatic vessels at birth, leading to fluid retention in the lungs and neonatal death. We further demonstrated that increased mechanical pressure induces the expression of c-JUN in LECs. c-JUN regulates the opening of lymphatic vessels by modulating the remodeling of the actin cytoskeleton in LECs. Our study established the essential regulatory function of c-JUN-mediated transcriptional responses in facilitating lung lymphatic fluid clearance at birth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Tripterin liposome relieves severe acute respiratory syndrome as a potent COVID-19 treatment</title>

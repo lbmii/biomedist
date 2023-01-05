@@ -5,12 +5,37 @@
     <link>https://example.com/tag/inflammation/</link>
       <atom:link href="https://example.com/tag/inflammation/index.xml" rel="self" type="application/rss+xml" />
     <description>Inflammation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Inflammation</title>
       <link>https://example.com/tag/inflammation/</link>
     </image>
+    
+    <item>
+      <title>The nucleoprotein of influenza A virus inhibits the innate immune response by inducing mitophagy</title>
+      <link>https://example.com/article/36588386/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36588386/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitophagy is a form of autophagy that plays a key role in maintaining the homeostasis of functional mitochondria in the cell. Viruses have evolved various strategies to manipulate mitophagy to escape host immune responses and promote virus replication. In this study, the nucleoprotein (NP) of H1N1 virus (PR8 strain) was identified as a regulator of mitophagy. We revealed that NP-mediated mitophagy leads to the degradation of the mitochondria-anchored protein MAVS, thereby blocking MAVS-mediated antiviral signaling and promoting virus replication. The NP-mediated mitophagy is dependent on the interaction of NP with MAVS and the cargo receptor TOLLIP. Moreover, Y313 of NP is a key residue for the MAVS-NP interaction and NP-mediated mitophagy. The NPY313F mutation significantly attenuates the virus-induced mitophagy and the virus replication in vitro and in vivo. Taken together, our findings uncover a novel mechanism by which the NP of influenza virus induces mitophagy to attenuate innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Palmitoylation prevents sustained inflammation by limiting NLRP3 inflammasome activation through chaperone-mediated autophagy</title>
@@ -156,7 +181,7 @@
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36544021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;p&gt;R-loops are RNA–DNA-hybrid-containing nucleic acids with important cellular roles. Deregulation of R-loop dynamics can lead to DNA damage and genome instability, which has been linked to the action of endonucleases such as XPG. However, the mechanisms and cellular consequences of such processing have remained unclear. Here we identify a new population of RNA–DNA hybrids in the cytoplasm that are R-loop-processing products. When nuclear R-loops were perturbed by depleting the RNA–DNA helicase senataxin (SETX) or the breast cancer gene BRCA1, we observed XPG- and XPF-dependent cytoplasmic hybrid formation. We identify their source as a subset of stable, overlapping nuclear hybrids with a specific nucleotide signature. Cytoplasmic hybrids bind to the pattern recognition receptors cGAS and TLR3, activating IRF3 and inducing apoptosis. Excised hybrids and an R-loop-induced innate immune response were also observed in SETX-mutated cells from patients with ataxia oculomotor apraxia type 2 and in BRCA1-mutated cancer cells. These findings establish RNA–DNA hybrids as immunogenic species that aberrantly accumulate in the cytoplasm after R-loop processing, linking R-loop accumulation to cell death through the innate immune response. Aberrant R-loop processing and subsequent innate immune activation may contribute to many diseases, such as neurodegeneration and cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

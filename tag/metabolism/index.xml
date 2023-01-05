@@ -5,12 +5,44 @@
     <link>https://example.com/tag/metabolism/</link>
       <atom:link href="https://example.com/tag/metabolism/index.xml" rel="self" type="application/rss+xml" />
     <description>Metabolism</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Metabolism</title>
       <link>https://example.com/tag/metabolism/</link>
     </image>
+    
+    <item>
+      <title>Diurnal transcriptome landscape of a multi-tissue response to time-restricted feeding in mammals</title>
+      <link>https://example.com/article/23-01-05-10-21/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-05-10-21/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;80% of genes are differentially expressed or rhythmic under TRF in at least one tissue&lt;/li&gt;
+&lt;li&gt;TRF decreases genes involved in inflammatory signaling and glycerolipid metabolism&lt;/li&gt;
+&lt;li&gt;TRF increases genes involved in RNA processing, protein folding, and autophagy&lt;/li&gt;
+&lt;li&gt;TRF causes multi-tissue rewiring of BCAA, glucose, and lipid metabolism&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Time-restricted feeding (TRF) is an emerging behavioral nutrition intervention that involves a daily cycle of feeding and fasting. In both animals and humans, TRF has pleiotropic health benefits that arise from multiple organ systems, yet the molecular basis of TRF-mediated benefits is not well understood. Here, we subjected mice to isocaloric &lt;em&gt;ad libitum&lt;/em&gt; feeding (ALF) or TRF of a western diet and examined gene expression changes in samples taken from 22 organs and brain regions collected every 2 h over a 24-h period. We discovered that TRF profoundly impacts gene expression. Nearly 80% of all genes show differential expression or rhythmicity under TRF in at least one tissue. Functional annotation of these changes revealed tissue- and pathway-specific impacts of TRF. These findings and resources provide a critical foundation for future mechanistic studies and will help to guide human time-restricted eating (TRE) interventions to treat various disease conditions with or without pharmacotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Lactylome analysis suggests lactylation-dependent mechanisms of metabolic adaptation in hepatocellular carcinoma</title>

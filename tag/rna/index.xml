@@ -68,7 +68,7 @@
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36544021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;p&gt;R-loops are RNA–DNA-hybrid-containing nucleic acids with important cellular roles. Deregulation of R-loop dynamics can lead to DNA damage and genome instability, which has been linked to the action of endonucleases such as XPG. However, the mechanisms and cellular consequences of such processing have remained unclear. Here we identify a new population of RNA–DNA hybrids in the cytoplasm that are R-loop-processing products. When nuclear R-loops were perturbed by depleting the RNA–DNA helicase senataxin (SETX) or the breast cancer gene BRCA1, we observed XPG- and XPF-dependent cytoplasmic hybrid formation. We identify their source as a subset of stable, overlapping nuclear hybrids with a specific nucleotide signature. Cytoplasmic hybrids bind to the pattern recognition receptors cGAS and TLR3, activating IRF3 and inducing apoptosis. Excised hybrids and an R-loop-induced innate immune response were also observed in SETX-mutated cells from patients with ataxia oculomotor apraxia type 2 and in BRCA1-mutated cancer cells. These findings establish RNA–DNA hybrids as immunogenic species that aberrantly accumulate in the cytoplasm after R-loop processing, linking R-loop accumulation to cell death through the innate immune response. Aberrant R-loop processing and subsequent innate immune activation may contribute to many diseases, such as neurodegeneration and cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -849,6 +849,31 @@
 &lt;p&gt;We successfully increased the stability of the RNA vaccine by circularizing the linear RNA molecules to form highly stable circRNA molecules which exhibited durable protein expression ability. By encapsulating the antigen-coding circRNA in LNP enabling in vivo expression, we established a novel circRNA vaccine platform, which was capable of triggering robust innate and adaptive immune activation and showed superior anti-tumor efficacy in multiple mouse tumor models.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Overall, our circRNA vaccine platform provides a novel prospect for the development of cancer RNA vaccines in a wide range of hard-to-treat malignancies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long noncoding RNA LINC00239 inhibits ferroptosis in colorectal cancer by binding to Keap1 to stabilize Nrf2</title>
+      <link>https://example.com/article/36038548/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36038548/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis, a novel regulated cell death induced by iron-dependent lipid peroxidation, plays an important role in tumor development and drug resistance. Long noncoding RNAs (lncRNAs) are associated with various types of cancer. However, the precise roles of many lncRNAs in tumorigenesis remain elusive. Here we explored the transcriptomic profiles of lncRNAs in primary CRC tissues and corresponding paired adjacent non-tumor tissues by RNA-seq and found that LINC00239 was significantly overexpressed in colorectal cancer tissues. Abnormally high expression of LINC00239 predicts poorer survival and prognosis in colorectal cancer patients. Concurrently, we elucidated the role of LINC00239 as a tumor-promoting factor in CRC through in vitro functional studies and in vivo tumor xenograft models. Importantly, overexpression of LINC00239 decreased the anti-tumor activity of erastin and RSL3 by inhibiting ferroptosis. Collectively, these data suggest that LINC00239 plays a novel and indispensable role in ferroptosis by nucleotides 1-315 of LINC00239 to interact with the Kelch domain (Nrf2-binding site) of Keap1, inhibiting Nrf2 ubiquitination and increasing Nrf2 protein stability. Considering the recurrence and chemoresistance constitute the leading cause of death in colorectal cancer (CRC), ferroptosis induction may be a promising therapeutic strategy for CRC patients with low LINC00239 expression.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/microbiology/</link>
       <atom:link href="https://example.com/tag/microbiology/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiology</title>
       <link>https://example.com/tag/microbiology/</link>
     </image>
+    
+    <item>
+      <title>The nucleoprotein of influenza A virus inhibits the innate immune response by inducing mitophagy</title>
+      <link>https://example.com/article/36588386/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36588386/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitophagy is a form of autophagy that plays a key role in maintaining the homeostasis of functional mitochondria in the cell. Viruses have evolved various strategies to manipulate mitophagy to escape host immune responses and promote virus replication. In this study, the nucleoprotein (NP) of H1N1 virus (PR8 strain) was identified as a regulator of mitophagy. We revealed that NP-mediated mitophagy leads to the degradation of the mitochondria-anchored protein MAVS, thereby blocking MAVS-mediated antiviral signaling and promoting virus replication. The NP-mediated mitophagy is dependent on the interaction of NP with MAVS and the cargo receptor TOLLIP. Moreover, Y313 of NP is a key residue for the MAVS-NP interaction and NP-mediated mitophagy. The NPY313F mutation significantly attenuates the virus-induced mitophagy and the virus replication in vitro and in vivo. Taken together, our findings uncover a novel mechanism by which the NP of influenza virus induces mitophagy to attenuate innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Discovery of a first-in-class orally available HBV cccDNA inhibitor</title>
@@ -1470,6 +1495,33 @@
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Construction of a Porcine Reproductive and Respiratory Syndrome Virus with Nanoluc Luciferase Reporter: a Stable and Highly Efficient Tool for Viral Quantification Both In Vitro and In Vivo</title>
+      <link>https://example.com/article/35758677/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35758677/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Porcine reproductive and respiratory syndrome virus (PRRSV) is one of the most economically important pathogens for the global pork industry, characterized for its genetic variation and unsatisfied heterological protection from vaccines. A high-throughput screening platform for developing anti-PRRSV therapies is urgently needed. Here, an 11-amino-acid subunit HiBiT derived from NanoLuc luciferase was inserted into the PRRSV genome at four loci of the Nsp2 coding region or as an additional TRS2 driven open reading frame (ORF) between the ORF7 and 3&amp;rsquo;-untranscribed region (3&amp;rsquo;-UTR), respectively, and five recombinant viruses with luciferase activity were successfully rescued. The virological characteristics of the representative virus RvJX-Nsp2&lt;sub&gt;325&lt;/sub&gt;-HiBiT were investigated. &lt;em&gt;In vitro&lt;/em&gt;, it displayed similar growth kinetics as the parental virus and keeps the luciferase activity and genetic stability after eight rounds of serial passages. The concept-proof test confirmed that RvJX-Nsp2&lt;sub&gt;325&lt;/sub&gt;-HiBiT can be easily used to evaluate the efficacy of antiviral reagents by detecting the reduction of luciferase activity, showing a consistent trend with infectious titers, as well as to set a novel convenient virus neutralization assay based on the intensity of luciferase activity. Last, the viral proliferation, virulence, validity, and HiBiT stability were further investigated in pig inoculation study, showing that the luciferase activity can be directly detected in the tissue samples or indirectly from the MARC-145 cells inoculated with sera from RvJX-Nsp2&lt;sub&gt;325&lt;/sub&gt;-HiBiT-inoculated pigs. Taken together, the results indicate that the HiBiT-tagged virus is a convenient and stable tool for evaluating viral propagation both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;, which can provide a high-efficient platform for screening and evaluating anti-PRRSV therapies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Luciferase reporter tagged virus is crucial to viral quantification in the study of viral replication, pathogenesis and exploring antiviral reagents. It is urgently needed for PRRSV academia to construct a stable, fast, and high-throughput reporting system, which can be used both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;. Here, an 11-amino-acid luciferase subunit was successfully inserted into the PRRSV genome; the feasibility, genetic stability, and efficiency for viral quantification both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; were characterized; and the results demonstrated it has greatly improved the convenience and efficiency for screening the anti-PRRSV reagents. Furthermore, a novel luciferase-based virus neutralization assay was successfully set, which can eliminate the step of sample gradient dilution and greatly improve the convenience and throughput of neutralizing antibody testing. Predictably, it will greatly facilitate the screening and evaluating anti-PRRSV therapies, as well as the mechanistic study of its replication and pathogenesis in the future.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

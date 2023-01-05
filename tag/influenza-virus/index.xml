@@ -5,12 +5,37 @@
     <link>https://example.com/tag/influenza-virus/</link>
       <atom:link href="https://example.com/tag/influenza-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Influenza Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Influenza Virus</title>
       <link>https://example.com/tag/influenza-virus/</link>
     </image>
+    
+    <item>
+      <title>The nucleoprotein of influenza A virus inhibits the innate immune response by inducing mitophagy</title>
+      <link>https://example.com/article/36588386/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36588386/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitophagy is a form of autophagy that plays a key role in maintaining the homeostasis of functional mitochondria in the cell. Viruses have evolved various strategies to manipulate mitophagy to escape host immune responses and promote virus replication. In this study, the nucleoprotein (NP) of H1N1 virus (PR8 strain) was identified as a regulator of mitophagy. We revealed that NP-mediated mitophagy leads to the degradation of the mitochondria-anchored protein MAVS, thereby blocking MAVS-mediated antiviral signaling and promoting virus replication. The NP-mediated mitophagy is dependent on the interaction of NP with MAVS and the cargo receptor TOLLIP. Moreover, Y313 of NP is a key residue for the MAVS-NP interaction and NP-mediated mitophagy. The NPY313F mutation significantly attenuates the virus-induced mitophagy and the virus replication in vitro and in vivo. Taken together, our findings uncover a novel mechanism by which the NP of influenza virus induces mitophagy to attenuate innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A multivalent nucleoside-modified mRNA vaccine against all known influenza virus subtypes</title>

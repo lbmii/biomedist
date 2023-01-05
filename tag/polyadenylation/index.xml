@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polyadenylation | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/polyadenylation/</link>
+      <atom:link href="https://example.com/tag/polyadenylation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Polyadenylation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Polyadenylation</title>
+      <link>https://example.com/tag/polyadenylation/</link>
+    </image>
+    
+    <item>
+      <title>scAPAdb: a comprehensive database of alternative polyadenylation at single-cell resolution</title>
+      <link>https://example.com/article/34508354/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34508354/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alternative polyadenylation (APA) is a widespread regulatory mechanism of transcript diversification in eukaryotes, which is increasingly recognized as an important layer for eukaryotic gene expression. Recent studies based on single-cell RNA-seq (scRNA-seq) have revealed cell-to-cell heterogeneity in APA usage and APA dynamics across different cell types in various tissues, biological processes and diseases. However, currently available APA databases were all collected from bulk 3′-seq and/or RNA-seq data, and no existing database has provided APA information at single-cell resolution. Here, we present a user-friendly database called &lt;a href=&#34;http://www.bmibig.cn/scAPAdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;scAPAdb&lt;/strong&gt;&lt;/a&gt;, which provides a comprehensive and manually curated atlas of poly(A) sites, APA events and poly(A) signals at the single-cell level. Currently, &lt;a href=&#34;http://www.bmibig.cn/scAPAdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;scAPAdb&lt;/strong&gt;&lt;/a&gt; collects APA information from &amp;gt; 360 scRNA-seq experiments, covering six species including human, mouse and several other plant species. &lt;a href=&#34;http://www.bmibig.cn/scAPAdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;scAPAdb&lt;/strong&gt;&lt;/a&gt; also provides batch download of data, and users can query the database through a variety of keywords such as gene identifier, gene function and accession number. &lt;a href=&#34;http://www.bmibig.cn/scAPAdb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;scAPAdb&lt;/strong&gt;&lt;/a&gt; would be a valuable and extendable resource for the study of cell-to-cell heterogeneity in APA isoform usages and APA-mediated gene regulation at the single-cell level under diverse cell types, tissues and species.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
