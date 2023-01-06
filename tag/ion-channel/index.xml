@@ -5,12 +5,62 @@
     <link>https://example.com/tag/ion-channel/</link>
       <atom:link href="https://example.com/tag/ion-channel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ion Channel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Ion Channel</title>
       <link>https://example.com/tag/ion-channel/</link>
     </image>
+    
+    <item>
+      <title>The sodium channel subunit SCNN1B suppresses colorectal cancer via suppression of active c-Raf and MAPK signaling cascade</title>
+      <link>https://example.com/article/36564468/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36564468/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The incidence of colorectal cancer (CRC) is rising worldwide. Here, we identified SCNN1B as an outlier down-regulated in CRC and it functions as a tumor suppressor. SCNN1B mRNA and protein expression were down-regulated in primary CRC and CRC cells. In a tissue microarray cohort (N = 153), SCNN1B protein was an independent prognostic factor for favorable outcomes in CRC. Ectopic expression of SCNN1B in CRC cell lines suppressed cell proliferation, induced apoptosis, and cell cycle arrest, and suppressed cell migration in vitro. Xenograft models validated tumor suppressive function of SCNN1B in vivo. Mechanistically, Gene Set Enrichment Analysis (GSEA) showed that SCNN1B correlates with KRAS signaling. Consistently, MAPK qPCR and kinase arrays revealed that SCNN1B suppressed MAPK signaling. In particular, SCNN1B overexpression suppressed p-MEK/p-ERK expression and SRE-mediated transcription activities, confirming blockade of Ras-Raf-MEK-ERK cascade. Mechanistically, SCNN1B did not affect KRAS activation, instead impairing activation of c-Raf by inducing its inhibitory phosphorylation and targeting active c-Raf for degradation. The ectopic expression of c-Raf fully rescued cell proliferation and colony formation in SCNN1B-overexpressing CRC cells, confirming c-Raf as the principal molecular target of SCNN1B. In summary, we identified SCNN1B as a tumor suppressor by functioning as a c-Raf antagonist, which in turn suppressed oncogenic MEK-ERK signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Emerging roles of mechanosensitive ion channels in acute lung injury/acute respiratory distress syndrome</title>
+      <link>https://example.com/review/36539808/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36539808/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury/acute respiratory distress syndrome (ALI/ARDS) is a devastating respiratory disorder with high rates of mortality and morbidity, but the detailed underlying mechanisms of ALI/ARDS remain largely unknown. Mechanosensitive ion channels (MSCs), including epithelial sodium channel (ENaC), Piezo channels, transient receptor potential channels (TRPs), and two-pore domain potassium ion (K2P) channels, are highly expressed in lung tissues, and the activity of these MSCs can be modulated by mechanical forces (e.g., mechanical ventilation) and other stimuli (e.g., LPS, hyperoxia). Dysfunction of MSCs has been found in various types of ALI/ARDS, and MSCs play a key role in regulating alveolar fluid clearance, alveolar epithelial/endothelial barrier function, the inflammatory response and surfactant secretion in ALI/ARDS lungs. Targeting MSCs exerts therapeutic effects in the treatment of ALI/ARDS. In this review, we summarize the structure and functions of several well-recognized MSCs, the role of MSCs in the pathogenesis of ALI/ARDS and recent advances in the pharmacological and molecular modulation of MSCs in the treatment of ALI/ARDS. According to the current literature, targeting MSCs might be a very promising therapeutic approach against ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Suppression of PD-L1 release from small extracellular vesicles promotes systemic anti-tumor immunity by targeting ORAI1 calcium channels</title>

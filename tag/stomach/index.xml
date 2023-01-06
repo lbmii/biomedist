@@ -5,12 +5,37 @@
     <link>https://example.com/tag/stomach/</link>
       <atom:link href="https://example.com/tag/stomach/index.xml" rel="self" type="application/rss+xml" />
     <description>Stomach</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Stomach</title>
       <link>https://example.com/tag/stomach/</link>
     </image>
+    
+    <item>
+      <title>CircPDIA4 induces gastric cancer progression by promoting ERK1/2 activation and enhancing biogenesis of oncogenic circRNAs</title>
+      <link>https://example.com/article/36562654/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36562654/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are a group of non-coding, covalently uninterrupted loop transcripts, most of which remain to be functionally characterized. Here, we identified circPDIA4 as an oncogenic circRNA in gastric cancer. Clinically, circPDIA4 was significantly upregulated in malignant tissues and associated with poor survival of gastric cancer patients. The biogenesis of circPDIA4 was mediated by the RNA binding protein Quaking, which bound intron 2 and 4 of PDIA4 pre-mRNA to promote backsplicing of exons 3 and 4. Elevated expression of circPDIA4 promoted distant metastasis in various mouse xenograft models in vivo and accelerated cancer cell invasion in vitro. CircPDIA4 functioned through distinct oncogenic mechanisms in the cytoplasm and the nucleus. Cytoplasmic circPDIA4 bound to ERK1/2 and sustained hyper-activation of the MAPK pathway by preventing DUSP6-mediated ERK1/2 dephosphorylation. Notably, circPDIA4 depletion enhanced the sensitivity of gastric cancer cells to ERK inhibitors. In the nucleus, circPDIA4 interacted with DHX9 as a decoy and repressed its inhibitory functions on circRNA biogenesis to boost expression of multiple oncogenic circRNAs, which promoted gastric cancer progression. These findings reveal a dual tumor-promoting mechanism for circPDIA4 by regulating oncogenic circRNA biogenesis and increasing MAPK activity. CircPDIA4 should be investigated further as a potential prognostic biomarker and therapeutic target in gastric cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PIWIL1 promotes gastric cancer via a piRNA-independent mechanism</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/muscle/</link>
       <atom:link href="https://example.com/tag/muscle/index.xml" rel="self" type="application/rss+xml" />
     <description>Muscle</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Muscle</title>
       <link>https://example.com/tag/muscle/</link>
     </image>
+    
+    <item>
+      <title>Methyltransferase-like 3 suppresses phenotypic switching of vascular smooth muscle cells by activating autophagosome formation</title>
+      <link>https://example.com/article/36564367/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36564367/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prevention of neointima formation is the key to improving long-term outcomes after stenting or coronary artery bypass grafting. RNA N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A) methylation has been reported to be involved in the development of various cardiovascular diseases, but whether it has a regulatory effect on neointima formation is unknown. Herein, we revealed that methyltransferase-like 3 (METTL3), the major methyltransferase of m&lt;sup&gt;6&lt;/sup&gt;A methylation, was downregulated during vascular smooth muscle cell (VSMC) proliferation and neointima formation. Knockdown of METTL3 facilitated, while overexpression of METTL3 suppressed the proliferation of human aortic smooth muscle cells (HASMCs) by arresting HASMCs at G2/M checkpoint and the phosphorylation of CDC2 (p-CDC2) was inactivated by METTL3. On the other hand, the migration and synthetic phenotype of HASMCs were enhanced by METTL3 knockdown, but inhibited by METTL3 overexpression. The protein levels of matrix metalloproteinase 2 (MMP2), MMP7 and MMP9 were reduced, while the expression level of tissue inhibitor of metalloproteinase 3 was increased in HASMCs with METTL3 overexpression. Moreover, METTL3 promoted the autophagosome formation by upregulating the expression of ATG5 (autophagy-related 5) and ATG7. Knockdown of either ATG5 or ATG7 largely reversed the regulatory effects of METTL3 overexpression on phenotypic switching of HASMCs, as evidenced by increased proliferation and migration, and predisposed to synthetic phenotype. These results indicate that METTL3 inhibits the phenotypic switching of VSMCs by positively regulating ATG5-mediated and ATG7-mediated autophagosome formation. Thus, enhancing the level of RNA m&lt;sup&gt;6&lt;/sup&gt;A or the formation of autophagosomes is the promising strategy to delay neointima formation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Sphingolipids accumulate in aged muscle, and their reduction counteracts sarcopenia</title>
