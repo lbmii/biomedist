@@ -5,12 +5,39 @@
     <link>https://example.com/tag/zika-virus/</link>
       <atom:link href="https://example.com/tag/zika-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Zika Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Zika Virus</title>
       <link>https://example.com/tag/zika-virus/</link>
     </image>
+    
+    <item>
+      <title>The RNA polymerase of cytoplasmically replicating Zika virus binds with chromatin DNA in nuclei and regulates host gene transcription</title>
+      <link>https://example.com/article/36442102/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36442102/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All positive-sense single-stranded RNA viruses, such as Zika virus (ZIKV), replicate in the cytoplasm of host cells, but they can regulate host gene expression in the nucleus. Here, we report that the ZIKV NS5, the viral RNA-dependent RNA polymerase (RdRp) and essential for the viral replication in the cytoplasm, can directly bind with chromatin DNA in the nuclei. In human neural progenitor cells, NS5 inhibits the transcription of numerous neural genes by binding onto their gene body and blocking PAF1C-mediated transcription elongation. The expression of ZIKV NS5 disrupts neurogenesis in developing mouse brain. Our findings reveal a role of ZIKV RdRp as a DNA binding protein to regulate host gene transcription and provide insights into abnormal neurodevelopment and ZIKV infection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zika virus (ZIKV) targets the neural progenitor cells (NPCs) in brain during intrauterine infections and consequently causes severe neurological disorders, such as microcephaly in neonates. Although replicating in the cytoplasm, ZIKV dysregulates the expression of thousands of host genes, yet the detailed mechanism remains elusive. Herein, we report that ZIKV encodes a unique DNA-binding protein to regulate host gene transcription in the nucleus. We found that ZIKV NS5, the viral RNA polymerase, associates tightly with host chromatin DNA through its methyltransferase domain and this interaction could be specifically blocked by GTP. Further study showed that expression of ZIKV NS5 in human NPCs markedly suppressed the transcription of its target genes, especially the genes involved in neurogenesis. Mechanistically, ZIKV NS5 binds onto the gene body of its target genes and then blocks their transcriptional elongation. The utero electroporation in pregnant mice showed that NS5 expression significantly disrupts the neurogenesis by reducing the number of Sox2- and Tbr2-positive cells in the fetal cortex. Together, our findings demonstrate a molecular clue linking to the abnormal neurodevelopment caused by ZIKV infection and also provide intriguing insights into the interaction between the host cell and the pathogenic RNA virus, where the cytoplasmic RNA virus encodes a DNA-binding protein to control the transcription of host cell in the nuclei.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Protective Zika vaccines engineered to eliminate enhancement of dengue infection via immunodominance switch</title>
