@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Printing | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/3d-printing/</link>
+      <atom:link href="https://example.com/tag/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D Printing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>3D Printing</title>
+      <link>https://example.com/tag/3d-printing/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous isolation of proximal and distal lung progenitor cells from individual mice using a 3D printed guide reduces proximal cell contamination of distal lung epithelial cell isolations</title>
+      <link>https://example.com/article/36460000/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36460000/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3DLD reproducibly separates lung lobes and extrapulmonary airways (bronchi/trachea)&lt;/li&gt;
+&lt;li&gt;3DLD cell isolation yields consistent isolation of distal epithelial cells (DECs)&lt;/li&gt;
+&lt;li&gt;Contamination of proximal cells in classic DEC isolations may alter &lt;em&gt;in vitro&lt;/em&gt; results&lt;/li&gt;
+&lt;li&gt;3DLD allows simultaneous isolation of proximal and DECs from single animals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The respiratory epithelium consists of multiple, functionally distinct cell types and is maintained by regionally specific progenitor populations that repair the epithelium following injury. Several &lt;em&gt;in vitro&lt;/em&gt; methods exist for studying lung epithelial repair using primary murine lung cells, but isolation methods are hampered by a lack of surface markers distinguishing epithelial progenitors along the respiratory epithelium. Here, we developed a 3D printed lobe divider (3DLD) to aid in simultaneous isolation of proximal versus distal lung epithelial progenitors from individual mice that give rise to differentiated epithelia in multiple &lt;em&gt;in vitro&lt;/em&gt; assays. In contrast to 3DLD-isolated distal progenitor cells, commonly used manual tracheal ligation methods followed by lobe removal resulted in co-isolation of rare proximal cells with distal cells, which altered the transcriptional landscape and size distribution of distal organoids. The 3DLD aids in reproducible isolation of distal versus proximal progenitor populations and minimizes the potential for contaminating populations to confound &lt;em&gt;in vitro&lt;/em&gt; assays.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
