@@ -5,12 +5,40 @@
     <link>https://example.com/tag/microbiome/</link>
       <atom:link href="https://example.com/tag/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiome</title>
       <link>https://example.com/tag/microbiome/</link>
     </image>
+    
+    <item>
+      <title>Gut commensal Parabacteroides distasonis alleviates inflammatory arthritis</title>
+      <link>https://example.com/article/36604114/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604114/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Gut microbiota dysbiosis is closely linked to the pathogenesis of rheumatoid arthritis (RA). We aimed to identify potential probiotic gut microbes that can ameliorate the development of RA.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design:&lt;/em&gt; Microbiota profiling in patients with RA and healthy individuals was investigated via 16S rDNA bacterial gene sequencing and shotgun metagenomics. Collagen-induced arthritic mice and TNF-α transgenic mice were used to evaluate the roles of the gut commensal &lt;em&gt;Parabacteroides distasonis&lt;/em&gt; in RA. The effects of &lt;em&gt;P. distasonis&lt;/em&gt;-derived microbial metabolites on the differentiation of CD4&lt;sup&gt;+&lt;/sup&gt; T cells and macrophage polarisation were also investigated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The relative abundance of &lt;em&gt;P. distasonis&lt;/em&gt; in new-onset patients with RA and patients with RA with history of the disease was downregulated and this decrease was negatively correlated with Disease Activity Score-28 (DAS28). Oral treatment of arthritic mice with live &lt;em&gt;P. distasonis&lt;/em&gt; (LPD) considerably ameliorated RA pathogenesis. LPD-derived lithocholic acid (LCA), deoxycholic acid (DCA), isolithocholic acid (isoLCA) and 3-oxolithocholic acid (3-oxoLCA) had similar and synergistic effects on the treatment of RA. In addition to directly inhibiting the differentiation of Th17 cells, 3-oxoLCA and isoLCA were identified as TGR5 agonists that promoted the M2 polarisation of macrophages. A specific synthetic inhibitor of bile salt hydrolase attenuated the antiarthritic effects of LPD by reducing the production of these four bile acids. The natural product ginsenoside Rg2 exhibited its anti-RA effects by promoting the growth of &lt;em&gt;P. distasonis&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; &lt;em&gt;P. distasonis&lt;/em&gt; and ginsenoside Rg2 might represent probiotic and prebiotic agents in the treatment of RA.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Gut microbiota modulates lung fibrosis severity following acute lung injury in mice</title>
@@ -201,6 +229,31 @@
 &lt;p&gt;Ecological communities are complex, and their dynamics are difficult to predict. Hu et al. used experimental bacteria communities to show that species richness and the strength of species interactions drive community dynamics (see the Perspective by Huelsmann and Ackermann), as predicted by theory. By manipulating species pool size and nutrient availability (which affects species interactions), the authors found that more complex communities were less stable over time. Furthermore, communities showed distinct phases, shifting from full species coexistence to partial coexistence to dynamic fluctuations as species pool size or interaction strength increased. Communities that fluctuated maintained higher species richness, suggesting that diversity and stability promote one another.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;From tropical forests to gut microbiomes, ecological communities host notably high numbers of coexisting species. Beyond high biodiversity, communities exhibit a range of complex dynamics that are difficult to explain under a unified framework. Using bacterial microcosms, we performed a direct test of theory predicting that simple community-level features dictate emergent behaviors of communities. As either the number of species or the strength of interactions increases, we show that microbial ecosystems transition between three distinct dynamical phases, from a stable equilibrium in which all species coexist to partial coexistence to emergence of persistent fluctuations in species abundances, in the order predicted by theory. Under fixed conditions, high biodiversity and fluctuations reinforce each other. Our results demonstrate predictable emergent patterns of diversity and dynamics in ecological communities.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tonsillar Microbiome-Derived Lantibiotics Induce Structural Changes of IL-6 and IL-21 Receptors and Modulate Host Immunity</title>
+      <link>https://example.com/article/36031409/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36031409/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emerging evidence emphasizes the functional impacts of host microbiome on the etiopathogenesis of autoimmune diseases, including rheumatoid arthritis (RA). However, there are limited mechanistic insights into the contribution of microbial biomolecules especially microbial peptides toward modulating immune homeostasis. Here, by mining the metagenomics data of tonsillar microbiome, a deficiency of the encoding genes of lantibiotic peptides salivaricins in RA patients is identified, which shows strong correlation with circulating immune cells. Evidence is provided that the salivaricins exert immunomodulatory effects in inhibiting T follicular helper (Tfh) cell differentiation and interleukin-21 (IL-21) production. Mechanically, salivaricins directly bind to and induce conformational changes of IL-6 and IL-21 receptors, thereby inhibiting the bindings of IL-6 and IL-21 to their receptors and suppressing the downstream signaling pathway. Finally, salivaricin administration exerts both prophylactic and therapeutic effects against experimental arthritis in a murine model of RA. Together, these results provide a mechanism link of microbial peptides-mediated immunomodulation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -443,6 +496,31 @@
       <guid>https://example.com/article/imt2.10/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The interactions between the gut microbiome and metabolome play an important role in human health and diseases. Current studies mainly apply statistical correlation analysis between the gut microbiome and all the identified metabolites to explore their relationship. However, it remains challenging to identify the specific metabolic functions of microbes without in vitro culture experiments for validation. Discriminating the microbial metabolites from others (e.g., host, food, or environment) and exploring their metabolic functions and correlations with microbiome specifically may improve the efficiency and accuracy of biomarker discovery. So far, there have been no such bioinformatics tools available. Herein, we developed &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt;, an interactive web server that discriminates metabolites originating from the microbiome, performs the origin-based metabolic pathway enrichment analysis, and integrates the statistical correlations and biological relationships in the database using Sankey network visualization. &lt;a href=&#34;http://metorigin.met-bioinformatics.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MetOrigin&lt;/a&gt; not only enables the quick identification of microbial metabolites and their metabolic functions but also facilitates the discovery of specific bacterial species that are closely associated with metabolites statistically and biologically.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intestinal butyrate-metabolizing species contribute to autoantibody production and bone erosion in rheumatoid arthritis</title>
+      <link>https://example.com/article/35148177/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35148177/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The imbalance between pathogenic and beneficial species of the intestinal microbiome and metabolism in rheumatoid arthritis (RA) remains unclarified. Here, using shotgun-based metagenome sequencing for a treatment-naïve patient cohort and a &amp;ldquo;quasi-paired cohort&amp;rdquo; method, we observed a deficiency of butyrate-producing species and an overwhelming number of butyrate consumers in RA patients. These outcomes mainly occurred in patients with positive ACPA, with a mean AUC of 0.94. This panel was also validated in established RA with an AUC of 0.986 in those with joint deformity. In addition, we showed that butyrate promoted T&lt;sub&gt;regs&lt;/sub&gt;, while suppressing T&lt;sub&gt;convs&lt;/sub&gt; and osteoclasts, due to potentiation of the reduction in HDAC expression and down-regulation of proinflammatory cytokine genes. Dietary butyrate supplementation conferred anti-inflammatory benefits in a mouse model by rebalancing T&lt;sub&gt;FH&lt;/sub&gt; cells and T&lt;sub&gt;regs&lt;/sub&gt;, as well as reducing antibody production. These findings reveal the critical role of butyrate-metabolizing species and suggest the potential of butyrate-based therapies for RA patients.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
