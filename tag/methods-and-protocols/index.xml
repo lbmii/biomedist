@@ -5,12 +5,62 @@
     <link>https://example.com/tag/methods-and-protocols/</link>
       <atom:link href="https://example.com/tag/methods-and-protocols/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods and Protocols</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Methods and Protocols</title>
       <link>https://example.com/tag/methods-and-protocols/</link>
     </image>
+    
+    <item>
+      <title>Metagenomic sequencing combined with flow cytometry facilitated a novel microbial risk assessment framework for bacterial pathogens in municipal wastewater without cultivation</title>
+      <link>https://example.com/article/imt2.77/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/imt2.77/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;No abstract available.&lt;/em&gt;&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of astrocyte regulators by nucleic acid cytometry</title>
+      <link>https://example.com/article/36599367/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36599367/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Multiple sclerosis (MS) is a chronic inflammatory disease of the central nervous system (CNS). Astrocytes are heterogeneous CNS-resident glial cells that participate in the pathogenesis of MS and its model experimental autoimmune encephalomyelitis (EAE). However, few unique surface markers are available for the isolation of astrocyte subsets, preventing their analysis and the identification of candidate therapeutic targets; these limitations are further amplified by the rarity of pathogenic astrocytes. To address these challenges, we developed FIND-seq (&lt;u&gt;F&lt;/u&gt;ocused &lt;u&gt;I&lt;/u&gt;nterrogation of cells by &lt;u&gt;N&lt;/u&gt;ucleic acid &lt;u&gt;D&lt;/u&gt;etection and &lt;u&gt;Seq&lt;/u&gt;uencing), a high-throughput microfluidic cytometry method that combines encapsulation of cells in droplets, PCR-based detection of target nucleic acids, and droplet sorting to enable in-depth transcriptomic analyses of cells of interest at single-cell resolution. We applied FIND-seq to study the regulation of astrocytes characterized by the splicing-driven activation of the transcription factor XBP1, which promotes disease pathology in MS and EAE. Using FIND-seq in combination with conditional knock-out mice, in vivo CRISPR/Cas9-driven genetic perturbation studies, and bulk and single-cell RNA-seq analyses of mouse EAE and human MS samples, we identified a new role for the nuclear receptor NR3C2 and its corepressor NCOR2 in limiting XBP1-driven pathogenic astrocyte responses. In summary, FIND-seq enabled the identification of a therapeutically targetable mechanism that limits XBP1-driven pathogenic astrocyte responses. FIND-seq allows the investigation of previously inaccessible cells, including rare cell subsets defined by unique gene expression signatures or other nucleic acid markers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>VSOLassoBag: a variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research</title>

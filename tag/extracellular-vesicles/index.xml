@@ -876,6 +876,33 @@
     </item>
     
     <item>
+      <title>Ischaemic tissue released microvesicles induce monocyte reprogramming and increase tissue repair by a tissue factor-dependent mechanism</title>
+      <link>https://example.com/article/34406379/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34406379/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Despite increasing evidence that monocytes may acquire endothelial features, it remains unclear how monocytes participate in angiogenesis after ischaemic damage. We investigated whether ischaemic cells can release microvesicles (MVs) and promote neovascularization in a model of peripheral artery disease (PAD).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods and results:&lt;/em&gt; To model PAD, we used an in vivo experimental model of hind-limb ischaemia (HLI) in mice. MVs were isolated from the ischaemic muscle and from peripheral blood at different times after unilateral femoral artery ligation. MVs were phenotypically characterized to identify cell origin. HLI in mice induced the release of MVs with a much higher content of tissue factor (TF) than non-HLI control mice both in the MVs isolated from the affected limb muscle area and from blood. MVs were mainly released from endothelial cells (ECs) and induced Mo differentiation to endothelial cell-like (ECL) cells. Differentiation to ECL cells encompassed highly strict hierarchical transcription factor activation, initiated by ETS1 activation. MVs secreted by microvascular ECs over-expressing TF (upTF-EMVs), were injected in the ischaemic hind-limb in parallel with control EMVs (from random siRNA-treated cells) or EMVs released by silenced TF ECs. In animals treated with upTF-EMVs in the ischaemic zone, there was a highly significant increase in functional new vessels formation (seen by magnetic resonance angiography), a concomitant increase in the pool of circulating Ly6Clow Mo expressing vascular EC markers, and a significantly higher number of Mo/macrophages surrounding and integrating the newly formed collaterals.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Ischaemia-activated ECs release EMVs rich in TF that induce monocyte differentiation into ECL cells and the formation of new vessels in the ischaemic zone. TF by this mechanism of formation of new blood microvessels can contribute to ischaemic tissue repair.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Extracellular vesicles as an emerging drug delivery system for cancer treatment: Current strategies and recent advances</title>
       <link>https://example.com/review/36076581/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
@@ -979,12 +1006,187 @@
     </item>
     
     <item>
+      <title>Bottom-up assembly of biomedical relevant fully synthetic extracellular vesicles</title>
+      <link>https://example.com/article/34516902/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34516902/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular vesicles (EVs) are fundamental for intercellular communication and influence nearly every process in cell physiology. However, because of their intricate molecular complexity, quantitative knowledge on their signaling mechanisms is missing, particularly impeding their therapeutic application. We used a complementary and quantitative engineering approach based on sequential synthetic bottom-up assembly of fully functional EVs with precisely controlled lipid, protein, and RNA composition. We show that the functionalities of synthetic EVs are analogous to natural EVs and demonstrate their programmable therapeutic administration for wound healing and neovascularization therapy. We apply transcriptome profiling to systematically decode synergistic effects between individual EV constituents, enabling analytical dissection and a fundamental understanding of EV signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>EVAtlas: a comprehensive database for ncRNA expression in human extracellular vesicles</title>
+      <link>https://example.com/article/34387689/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34387689/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular vesicles (EVs) packing various molecules play vital roles in intercellular communication. Non-coding RNAs (ncRNAs) are important functional molecules and biomarkers in EVs. A comprehensive investigation of ncRNAs expression in EVs under different conditions is a fundamental step for functional discovery and application of EVs. Here, we curated 2030 small RNA-seq datasets for human EVs (1506 sEV and 524 lEV) in 24 conditions and over 40 diseases. We performed a unified reads dynamic assignment algorithm (RDAA) considering mismatch and multi-mapping reads to quantify the expression profiles of seven ncRNA types (miRNA, snoRNA, piRNA, snRNA, rRNA, tRNA and Y RNA). We constructed &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/EVAtlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EVAtlas&lt;/a&gt;, a comprehensive database for ncRNA expression in EVs with four functional modules: (i) browse and compare the distribution of ncRNAs in EVs from 24 conditions and eight sources (plasma, serum, saliva, urine, sperm, breast milk, primary cell and cell line); (ii) prioritize candidate ncRNAs in condition related tissues based on their expression; (iii) explore the specifically expressed ncRNAs in EVs from 24 conditions; (iv) investigate ncRNA functions, related drugs, target genes and EVs isolation methods. &lt;a href=&#34;http://bioinfo.life.hust.edu.cn/EVAtlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EVAtlas&lt;/a&gt; contains the most comprehensive ncRNA expression in EVs and will be a key resource in this field.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Extracellular vesicles as delivery systems at nano-/micro-scale</title>
+      <link>https://example.com/review/34358539/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34358539/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular vesicles (EVs) have shown significant promises as nano-/micro-size carriers in drug delivery and bioimaging. With more characteristics of EVs explored through tremendous research efforts, their unmatched physicochemical properties, biological features, and mechanical aspects make them unique vehicles, owning exceptional pharmacokinetics, circulatory metabolism and biodistribution pattern when delivering theranostic cargoes. In this review we firstly analyzed pros and cons of the EVs as a delivery platform. Secondly, compared to engineered nanoparticle delivery systems, such as biocompatible di-block co-polymers, rational design to improve EVs (exosomes in particular) were elaborated. Lastly, different pharmaceutical loading approaches into EVs were compared, reaching a conclusion on how to construct a clinically available and effective nano-/micro-carrier for a satisfactory medical mission.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Quantification of protein cargo loading into engineered extracellular vesicles at single-vesicle and single-molecule resolution</title>
+      <link>https://example.com/article/34377376/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34377376/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular Vesicles (EVs) have been intensively explored for therapeutic delivery of proteins. However, methods to quantify cargo proteins loaded into engineered EVs are lacking. Here, we describe a workflow for EV analysis at the single-vesicle and single-molecule level to accurately quantify the efficiency of different EV-sorting proteins in promoting cargo loading into EVs. Expi293F cells were engineered to express EV-sorting proteins fused to green fluorescent protein (GFP). High levels of GFP loading into secreted EVs was confirmed by Western blotting for specific EV-sorting domains, but quantitative single-vesicle analysis by Nanoflow cytometry detected GFP in less than half of the particles analysed, reflecting EV heterogeneity. Anti-tetraspanin EV immunostaining in ExoView confirmed a heterogeneous GFP distribution in distinct subpopulations of CD63+, CD81+, or CD9+ EVs. Loading of GFP into individual vesicles was quantified by Single-Molecule Localization Microscopy. The combined results demonstrated TSPAN14, CD63 and CD63/CD81 fused to the PDGFRβ transmembrane domain as the most efficient EV-sorting proteins, accumulating on average 50-170 single GFP molecules per vesicle. In conclusion, we validated a set of complementary techniques suitable for high-resolution analysis of EV preparations that reliably capture their heterogeneity, and propose highly efficient EV-sorting proteins to be used in EV engineering applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Specificities of exosome versus small ectosome secretion revealed by live intracellular tracking of CD63 and CD9</title>
       <link>https://example.com/article/34282141/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/34282141/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Despite their roles in intercellular communications, the different populations of extracellular vesicles (EVs) and their secretion mechanisms are not fully characterized: how and to what extent EVs form as intraluminal vesicles of endocytic compartments (exosomes), or at the plasma membrane (PM) (ectosomes) remains unclear. Here we follow intracellular trafficking of the EV markers CD9 and CD63 from the endoplasmic reticulum to their residency compartment, respectively PM and late endosomes. We observe transient co-localization at both places, before they finally segregate. CD9 and a mutant CD63 stabilized at the PM are more abundantly released in EVs than CD63. Thus, in HeLa cells, ectosomes are more prominent than exosomes. By comparative proteomic analysis and differential response to neutralization of endosomal pH, we identify a few surface proteins likely specific of either exosomes (LAMP1) or ectosomes (BSG, SLC3A2). Our work sets the path for molecular and functional discrimination of exosomes and small ectosomes in any cell type.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>CD63 is regulated by iron via the IRE-IRP system and is important for ferritin secretion by extracellular vesicles</title>
+      <link>https://example.com/article/34265052/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34265052/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular vesicles (EVs) transfer functional molecules between cells. CD63 is a widely recognized EV marker that contributes to EV secretion from cells. However, the regulation of its expression remains largely unknown. Ferritin is a cellular iron storage protein that can also be secreted by the exosome pathway, and serum ferritin levels classically reflect body iron stores. Iron metabolism-associated proteins such as ferritin are intricately regulated by cellular iron levels via the iron responsive element-iron regulatory protein (IRE-IRP) system. Herein, we present a novel mechanism demonstrating that the expression of the EV-associated protein CD63 is under the regulation of the IRE-IRP system. We discovered a canonical IRE in the 5&amp;rsquo; untranslated region of CD63 messenger RNA that is responsible for regulating its expression in response to increased iron. Cellular iron loading caused a marked increase in CD63 expression and the secretion of CD63&lt;sup&gt;+&lt;/sup&gt; EVs from cells, which were shown to contain ferritin-H and ferritin-L. Our results demonstrate that under iron loading, intracellular ferritin is transferred via nuclear receptor coactivator 4 (NCOA4) to CD63&lt;sup&gt;+&lt;/sup&gt; EVs that are then secreted. Such iron-regulated secretion of the major iron storage protein ferritin via CD63&lt;sup&gt;+&lt;/sup&gt; EVs, is significant for understanding the local cell-to-cell exchange of ferritin and iron.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA-encoded microproteins: A new form of cargo in cell culture-derived and circulating extracellular vesicles</title>
+      <link>https://example.com/article/34276900/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34276900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Advancements in omics-based technologies over the past few years have led to the discovery of numerous biologically relevant peptides encoded by small open reading frames (smORFs) embedded in long noncoding RNA (lncRNA) transcripts (referred to as microproteins here) in a variety of species. However, the mechanisms and modes of action that underlie the roles of microproteins have yet to be fully characterized. Herein, we provide the first experimental evidence of abundant microproteins in extracellular vesicles (EVs) derived from glioma cancer cells, indicating that the EV-mediated transfer of microproteins may represent a novel mechanism for intercellular communication. Intriguingly, when examining human plasma, 48, 11 and 3 microproteins were identified from purified EVs, whole plasma and EV-free plasma, respectively, suggesting that circulating microproteins are primarily enriched in EVs. Most importantly, the preliminary data showed that the expression profile of EV microproteins in glioma patient diverged from the health donors, suggesting that the circulating microproteins in EVs might have potential diagnostic application in identifying patients with glioma.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hypoxia adipose stem cell-derived exosomes promote high-quality healing of diabetic wound involves activation of PI3K/Akt pathways</title>
+      <link>https://example.com/article/34233694/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34233694/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refractory diabetic wounds can cause persistent inflammation and delayed healing due to hypoxia. Currently, no optimal solution is available. Exosomes of adipose stem cells (ADSCs-exo) may promote skin wound healing, however, molecular mechanisms remains mysterious. We found significantly enhanced survival and proliferation of adipose stem cells after hypoxia induction compared to normoxia. Here, we aimed to investigate if hypoxic adipose stem cells exosomes (HypADSCs-exo) participate in hypoxia adaptability and accelerate diabetic wound healing. Based on high-throughput sequencing, 215 microRNAs (miRNAs) were upregulated and 369 miRNAs downregulated in HypADSCs-exo compared to ADSCs-exo. Up-regulated miR-21-3p, miR-126-5p, miR-31-5p whereas down-regulated gene miR-99b and miR-146-a correlated with wound healing. According to Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG), miRNAs might regulate cell metabolism, differentiation and Transforming growth factor-β (TGF-β) function. Consistently, HpyADSCs-exo could promote diabetic wounds healing and inhibit inflammation through PI3K/AKT signaling pathway. Collectively, HpyADSCs-exo can promote diabetic wound healing as an alternative strategy to improve wound healing.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1035,6 +1237,56 @@
       <guid>https://example.com/article/34158670/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The type I interferon (IFN-I, IFN-α/β)-mediated immune response is the first line of host defense against invading viruses. IFN-α/β binds to IFN-α/β receptors (IFNARs) and triggers the expression of IFN-stimulated genes (ISGs). Thus, stabilization of IFNARs is important for prolonging antiviral activity. Here, we report the induction of an RNA-binding motif-containing protein, RBM47, upon viral infection or interferon stimulation. Using multiple virus infection models, we demonstrate that RBM47 has broad-spectrum antiviral activity in vitro and in vivo. RBM47 has no noticeable impact on IFN production, but significantly activates the IFN-stimulated response element (ISRE) and enhances the expression of interferon-stimulated genes (ISGs). Mechanistically, RBM47 binds to the 3&amp;rsquo;UTR of IFNAR1 mRNA, increases mRNA stability, and retards the degradation of IFNAR1. In summary, this study suggests that RBM47 is an interferon-inducible RNA-binding protein that plays an essential role in enhancing host IFN downstream signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Holistic Review of the State-of-the-Art Microfluidics for Exosome Separation: An Overview of the Current Status, Existing Obstacles, and Future Outlook</title>
+      <link>https://example.com/review/34047052/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34047052/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exosomes, a class of small extracellular vesicles (30-150 nm), are secreted by almost all types of cells into virtually all body fluids. These small vesicles are attracting increasing research attention owing to their potential for disease diagnosis and therapy. However, their inherent heterogeneity and the complexity of bio-fluids pose significant challenges for their isolation. Even the &amp;ldquo;gold standard,&amp;rdquo; differential centrifugation, suffers from poor yields and is time-consuming. In this context, recent developments in microfluidic technologies have provided an ideal system for exosome extraction and these devices exhibit some fascinating properties such as high speeds, good portability, and low sample volumes. In this review, the focus is on the state-of-the-art microfluidic technologies for exosome isolation and highlight potential directions for future research and development by analyzing the challenges faced by the current strategies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Delivering Antisense Oligonucleotides across the Blood-Brain Barrier by Tumor Cell-Derived Small Apoptotic Bodies</title>
+      <link>https://example.com/article/34258157/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34258157/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The blood-brain barrier (BBB) is the most restrictive and complicated barrier that keeps most biomolecules and drugs from the brain. An efficient brain delivery strategy is urgently needed for the treatment of brain diseases. Based on the studies of brain-targeting extracellular vesicles (EVs), the potential of using small apoptotic bodies (sABs) from brain metastatic cancer cells for brain-targeting drug delivery is explored. It is found that anti-TNF-α antisense oligonucleotide (ASO) combined with cationic konjac glucomannan (cKGM) can be successfully loaded into sABs via a transfection/apoptosis induction process and that the sABs generated by B16F10 cells have an extraordinarily high brain delivery efficiency. Further studies suggest that ASO-loaded sABs (sCABs) are transcytosed by b. End3 (brain microvascular endothelial cells, BMECs) to penetrate the BBB, which is mediated by CD44v6, and eventually taken up by microglial cells in the brain. In a Parkinson&amp;rsquo;s disease (PD) mouse model, sCABs dramatically ameliorate PD symptoms via the anti-inflammatory effect of ASO. This study suggests that sABs from brain metastatic cancer cells are excellent carriers for brain-targeted delivery, as they have not only an extraordinary delivery efficiency but also a much higher scale-up production potential than other EVs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
