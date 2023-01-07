@@ -5,12 +5,37 @@
     <link>https://example.com/tag/interactome/</link>
       <atom:link href="https://example.com/tag/interactome/index.xml" rel="self" type="application/rss+xml" />
     <description>Interactome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Interactome</title>
       <link>https://example.com/tag/interactome/</link>
     </image>
+    
+    <item>
+      <title>OASL phase condensation induces amyloid-like fibrillation of RIPK3 to promote virus-induced necroptosis</title>
+      <link>https://example.com/article/36604592/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604592/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RIPK3-ZBP1-MLKL-mediated necroptosis is a proinflammatory cell death process that is crucial for antiviral host defence. RIPK3 self-oligomerization and autophosphorylation are prerequisites for executing necroptosis, yet the underlying mechanism of virus-induced RIPK3 activation remains elusive. Interferon-inducible 2&amp;rsquo;-5&amp;rsquo; oligoadenylate synthetase-like (OASL) protein is devoid of enzymatic function but displays potent antiviral activity. Here we describe a role of OASL as a virus-induced necroptosis promoter that scaffolds the RIPK3-ZBP1 non-canonical necrosome via liquid-like phase condensation. This liquid-like platform of OASL recruits RIPK3 and ZBP1 via protein-protein interactions to provide spatial segregation for RIPK3 nucleation. This process facilitates the amyloid-like fibril formation and activation of RIPK3 and thereby MLKL phosphorylation for necroptosis. Mice deficient in Oasl1 exhibit severely impaired necroptosis and attenuated inflammation after viral infection, resulting in uncontrolled viral dissemination and lethality. Our study demonstrates an interferon-induced innate response whereby OASL scaffolds RIPK3-ZBP1 assembly via its phase-separated liquid droplets to facilitate necroptosis-mediated antiviral immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The Maresin 1-LGR6 axis decreases respiratory syncytial virus-induced lung inflammation</title>
@@ -4617,6 +4642,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/32196115/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tegument protein UL21 of alpha-herpesvirus inhibits the innate immunity by triggering CGAS degradation through TOLLIP-mediated selective autophagy</title>
+      <link>https://example.com/article/36343628/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36343628/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpha-herpesvirus causes lifelong infections and serious diseases in a wide range of hosts and has developed multiple strategies to counteract the host defense. Here, we demonstrate that the tegument protein UL21 (unique long region 21) in pseudorabies virus (PRV) dampens type I interferon signaling by triggering the degradation of CGAS (cyclic GMP-AMP synthase) through the macroautophagy/autophagy-lysosome pathway. Mechanistically, the UL21 protein scaffolds the E3 ligase UBE3C (ubiquitin protein ligase E3C) to catalyze the K27-linked ubiquitination of CGAS at Lys384, which is recognized by the cargo receptor TOLLIP (toll interacting protein) and degraded in the lysosome. Additionally, we show that the N terminus of UL21 in PRV is dominant in destabilizing CGAS-mediated innate immunity. Moreover, viral tegument protein UL21 in herpes simplex virus type 1 (HSV-1) also displays the conserved inhibitory mechanisms. Furthermore, by using PRV, we demonstrate the roles of UL21 in degrading CGAS to promote viral infection in vivo. Altogether, these findings describe a distinct pathway where alpha-herpesvirus exploits TOLLIP-mediated selective autophagy to evade host antiviral immunity, highlighting a new interface of interplay between the host and DNA virus.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

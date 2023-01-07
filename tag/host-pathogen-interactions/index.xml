@@ -5,12 +5,37 @@
     <link>https://example.com/tag/host-pathogen-interactions/</link>
       <atom:link href="https://example.com/tag/host-pathogen-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Host-Pathogen Interactions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Host-Pathogen Interactions</title>
       <link>https://example.com/tag/host-pathogen-interactions/</link>
     </image>
+    
+    <item>
+      <title>OASL phase condensation induces amyloid-like fibrillation of RIPK3 to promote virus-induced necroptosis</title>
+      <link>https://example.com/article/36604592/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604592/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RIPK3-ZBP1-MLKL-mediated necroptosis is a proinflammatory cell death process that is crucial for antiviral host defence. RIPK3 self-oligomerization and autophosphorylation are prerequisites for executing necroptosis, yet the underlying mechanism of virus-induced RIPK3 activation remains elusive. Interferon-inducible 2&amp;rsquo;-5&amp;rsquo; oligoadenylate synthetase-like (OASL) protein is devoid of enzymatic function but displays potent antiviral activity. Here we describe a role of OASL as a virus-induced necroptosis promoter that scaffolds the RIPK3-ZBP1 non-canonical necrosome via liquid-like phase condensation. This liquid-like platform of OASL recruits RIPK3 and ZBP1 via protein-protein interactions to provide spatial segregation for RIPK3 nucleation. This process facilitates the amyloid-like fibril formation and activation of RIPK3 and thereby MLKL phosphorylation for necroptosis. Mice deficient in Oasl1 exhibit severely impaired necroptosis and attenuated inflammation after viral infection, resulting in uncontrolled viral dissemination and lethality. Our study demonstrates an interferon-induced innate response whereby OASL scaffolds RIPK3-ZBP1 assembly via its phase-separated liquid droplets to facilitate necroptosis-mediated antiviral immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The Maresin 1-LGR6 axis decreases respiratory syncytial virus-induced lung inflammation</title>

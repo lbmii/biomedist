@@ -5,12 +5,37 @@
     <link>https://example.com/tag/prostate/</link>
       <atom:link href="https://example.com/tag/prostate/index.xml" rel="self" type="application/rss+xml" />
     <description>Prostate</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Prostate</title>
       <link>https://example.com/tag/prostate/</link>
     </image>
+    
+    <item>
+      <title>The transcriptional terminator XRN2 and the RNA-binding protein Sam68 link alternative polyadenylation to cell cycle progression in prostate cancer</title>
+      <link>https://example.com/article/36344846/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36344846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alternative polyadenylation (APA) yields transcripts differing in their 3′-end, and its regulation is altered in cancer, including prostate cancer. Here we have uncovered a mechanism of APA regulation impinging on the interaction between the exonuclease XRN2 and the RNA-binding protein Sam68, whose increased expression in prostate cancer is promoted by the transcription factor MYC. Genome-wide transcriptome profiling revealed a widespread impact of the Sam68/XRN2 complex on APA. XRN2 promotes recruitment of Sam68 to its target transcripts, where it competes with the cleavage and polyadenylation specificity factor for binding to strong polyadenylation signals at distal ends of genes, thus promoting usage of suboptimal proximal polyadenylation signals. This mechanism leads to 3′ untranslated region shortening and translation of transcripts encoding proteins involved in G1/S progression and proliferation. Thus, our findings indicate that the APA program driven by Sam68/XRN2 promotes cell cycle progression and may represent an actionable target for therapeutic intervention.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>CircCEMIP promotes anoikis-resistance by enhancing protective autophagy in prostate cancer cells</title>

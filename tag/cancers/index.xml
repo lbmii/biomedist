@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cancers/</link>
       <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cancers</title>
       <link>https://example.com/tag/cancers/</link>
     </image>
+    
+    <item>
+      <title>Identification of faecal extracellular vesicles as novel biomarkers for the non-invasive diagnosis and prognosis of colorectal cancer</title>
+      <link>https://example.com/article/36604402/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604402/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colorectal cancer (CRC) is one of the most common malignancies that is usually detected late in the clinic. The currently available diagnostic tools for CRC are either invasive or insensitive to early lesions due to the dearth of reliable biomarkers. In this study, we discovered that the extracellular vesicles (EVs) in the faeces of CRC patients can act as a potent biomarker for the non-invasive diagnosis and prognosis of CRC. This finding is based on the identification of two transmembrane proteins-CD147 and A33-on faeces-derived EVs (fEVs) that are intrinsically associated with CRC. The detection results show that the levels of CD147 and A33 on fEVs were upregulated in the CRC patients (n = 48), dramatically distinguishing them from the healthy donors (n = 16). The CD147/A33-enriched EVs offer a clinical sensitivity of 89%, much higher than that (40%) of carcinoembryonic antigen (CEA), a clinically-established serum biomarker for CRC diagnosis. In addition, the analysis of longitudinal faeces samples (n = 29) demonstrated that the CD147/A33-enriched fEVs can be utilized to track the prognosis of CRC. Due to the high compliance of faeces-based detection, the CD147/A33-enriched fEVs could serve as new-generation CRC biomarkers for large-scale, non-invasive CRC screening as well as real-time monitoring of patient outcomes during clinical interventions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>HERC3 promotes YAP/TAZ stability and tumorigenesis independently of its ubiquitin ligase activity</title>
@@ -711,6 +736,31 @@
     </item>
     
     <item>
+      <title>3D bioprinted colorectal cancer models based on hyaluronic acid and signalling glycans</title>
+      <link>https://example.com/article/36604073/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604073/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In cancer microenvironment, aberrant glycosylation events of ECM proteins and cell surface receptors occur. We developed a protocol to generate 3D bioprinted models of colorectal cancer (CRC) crosslinking hyaluronic acid and gelatin functionalized with three signalling glycans characterized in CRC, 3&amp;rsquo;-Sialylgalactose, 6&amp;rsquo;-Sialylgalactose and 2&amp;rsquo;-Fucosylgalactose. The crosslinking, performed exploiting azide functionalized gelatin and hyaluronic acid and 4arm-PEG-dibenzocyclooctyne, resulted in biocompatible hydrogels that were 3D bioprinted with commercial CRC cells HT-29 and patient derived CRC tumoroids. The glycosylated hydrogels showed good 3D printability, biocompatibility and stability over the time. SEM and synchrotron radiation SAXS/WAXS analysis revealed the influence of glycosylation in the construct morphology, whereas MALDI-MS imaging showed that protein profiles of tumoroid cells vary with glycosylation, indicating that sialylation and fucosylation of ECM proteins induce diverse alterations to the proteome of the tumoroid and surrounding cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Generation and multiomic profiling of a TP53/CDKN2A double-knockout gastroesophageal junction organoid model</title>
       <link>https://example.com/article/36449602/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
@@ -1128,6 +1178,31 @@
     </item>
     
     <item>
+      <title>The transcriptional terminator XRN2 and the RNA-binding protein Sam68 link alternative polyadenylation to cell cycle progression in prostate cancer</title>
+      <link>https://example.com/article/36344846/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36344846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alternative polyadenylation (APA) yields transcripts differing in their 3′-end, and its regulation is altered in cancer, including prostate cancer. Here we have uncovered a mechanism of APA regulation impinging on the interaction between the exonuclease XRN2 and the RNA-binding protein Sam68, whose increased expression in prostate cancer is promoted by the transcription factor MYC. Genome-wide transcriptome profiling revealed a widespread impact of the Sam68/XRN2 complex on APA. XRN2 promotes recruitment of Sam68 to its target transcripts, where it competes with the cleavage and polyadenylation specificity factor for binding to strong polyadenylation signals at distal ends of genes, thus promoting usage of suboptimal proximal polyadenylation signals. This mechanism leads to 3′ untranslated region shortening and translation of transcripts encoding proteins involved in G1/S progression and proliferation. Thus, our findings indicate that the APA program driven by Sam68/XRN2 promotes cell cycle progression and may represent an actionable target for therapeutic intervention.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>ASCancer Atlas: a comprehensive knowledgebase of alternative splicing in human cancers</title>
       <link>https://example.com/article/36318242/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
@@ -1479,6 +1554,34 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; High-throughput sequencing was performed on 3 pairs of HCC and matched normal tissues to determine the upregulated circRNAs. The expression level of circPAK1 was detected by qRT-PCR in HCC and paired with normal liver tissue samples. The effects of circPAK1 on proliferation, invasion, metastasis and apoptosis of HCC cells were evaluated by in vitro and in vivo experiments. We also constructed Chitosan/si-circPAK1 (CS/si-circPAK1) nanocomplexes using Chitosan material to evaluate its in vivo therapeutic effect on HCC. High-throughput sequencing, RNA-sequencing, RNA probe pull-down, RNA immunoprecipitation and Co-Immunoprecipitation assays were performed to explore the relationship between circPAK1, 14-3-3ζ, p-LATS1 and YAP. Exosomes isolated from lenvatinib-resistant HCC cell lines were used to evaluate the relationship between exosomal circPAK1 and lenvatinib resistance.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; CircPAK1, a novel circRNA, is highly expressed in HCC tumor tissues and cell lines as well as correlated with poor outcomes in HCC patients. Functionally, circPAK1 knockdown inhibited HCC cell proliferation, migration, invasion and angiogenesis while circPAK1 overexpression promoted HCC progression. The tumor-promoting phenotypes of circPAK1 on HCC were also confirmed by animal experiments. Importantly, the application of CS/si-circPAK1 nanocomplexes showed a better therapeutic effect on tumor growth and metastasis. Mechanistically, circPAK1 enhanced HCC progression by inactivating the Hippo signaling pathway, and this kind of inactivation is based on its competitively binding of 14-3-3 ζ with YAP, which weakens the recruitment and cytoplasmic fixation of 14-3-3 ζ to YAP, thus promoting YAP nucleus localization. Additionally, circPAK1 could be transported by exosomes from lenvatinib-resistant cells to sensitive cells and induce lenvatinib resistance of receipt cells.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; CircPAK1 exerts its oncogenic function by competitively binding 14-3-3 ζ with YAP, thus promoting YAP nucleus localization, leading to the inactivation of a Hippo signaling pathway. Exosomal circPAK1 may drive resistance to lenvatinib, providing a potential therapeutic target for HCC patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Global burden of colorectal cancer in 2020 and 2040: incidence and mortality estimates from GLOBOCAN</title>
+      <link>https://example.com/article/36604116/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604116/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Colorectal cancer (CRC) is the third most common cancer worldwide. The geographical and temporal burden of this cancer provides insights into risk factor prevalence and progress in cancer control strategies. We examine the current and future burden of CRC in 185 countries in 2020 and 2040.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Data on CRC cases and deaths were extracted from the GLOBOCAN database for the year 2020. Age-standardised incidence and mortality rates were calculated by sex, country, world region and Human Development Index (HDI) for 185 countries. Age-specific rates were also estimated. The predicted number of cases and deaths in 2040 were calculated based on global demographic projections by HDI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Over 1.9 million new CRC cases and 930 000 deaths were estimated in 2020. Incidence rates were highest in Australia/ New Zealand and European regions (40.6 per 100 000, males) and lowest in several African regions and Southern Asia (4.4 per 100 000, females). Similar patterns were observed for mortality rates, with the highest observed in Eastern Europe (20.2 per 100 000, males) and the lowest in Southern Asia (2.5 per 100 000, females). The burden of CRC is projected to increase to 3.2 million new cases and 1.6 million deaths by 2040 with most cases predicted to occur in high or very high HDI countries.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; CRC is a highly frequent cancer worldwide, and largely preventable through changes in modifiable risk factors, alongside the detection and removal of precancerous lesions. With increasing rates in transitioning countries and younger adults, there is a pressing need to better understand and act on findings to avert future cases and deaths from the disease.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cell-death/</link>
       <atom:link href="https://example.com/tag/cell-death/index.xml" rel="self" type="application/rss+xml" />
     <description>Cell Death</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cell Death</title>
       <link>https://example.com/tag/cell-death/</link>
     </image>
+    
+    <item>
+      <title>OASL phase condensation induces amyloid-like fibrillation of RIPK3 to promote virus-induced necroptosis</title>
+      <link>https://example.com/article/36604592/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604592/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RIPK3-ZBP1-MLKL-mediated necroptosis is a proinflammatory cell death process that is crucial for antiviral host defence. RIPK3 self-oligomerization and autophosphorylation are prerequisites for executing necroptosis, yet the underlying mechanism of virus-induced RIPK3 activation remains elusive. Interferon-inducible 2&amp;rsquo;-5&amp;rsquo; oligoadenylate synthetase-like (OASL) protein is devoid of enzymatic function but displays potent antiviral activity. Here we describe a role of OASL as a virus-induced necroptosis promoter that scaffolds the RIPK3-ZBP1 non-canonical necrosome via liquid-like phase condensation. This liquid-like platform of OASL recruits RIPK3 and ZBP1 via protein-protein interactions to provide spatial segregation for RIPK3 nucleation. This process facilitates the amyloid-like fibril formation and activation of RIPK3 and thereby MLKL phosphorylation for necroptosis. Mice deficient in Oasl1 exhibit severely impaired necroptosis and attenuated inflammation after viral infection, resulting in uncontrolled viral dissemination and lethality. Our study demonstrates an interferon-induced innate response whereby OASL scaffolds RIPK3-ZBP1 assembly via its phase-separated liquid droplets to facilitate necroptosis-mediated antiviral immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Gasdermins and pyroptosis in the kidney</title>
@@ -4198,6 +4223,31 @@
       <guid>https://example.com/article/17568748/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tegument protein UL21 of alpha-herpesvirus inhibits the innate immunity by triggering CGAS degradation through TOLLIP-mediated selective autophagy</title>
+      <link>https://example.com/article/36343628/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36343628/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpha-herpesvirus causes lifelong infections and serious diseases in a wide range of hosts and has developed multiple strategies to counteract the host defense. Here, we demonstrate that the tegument protein UL21 (unique long region 21) in pseudorabies virus (PRV) dampens type I interferon signaling by triggering the degradation of CGAS (cyclic GMP-AMP synthase) through the macroautophagy/autophagy-lysosome pathway. Mechanistically, the UL21 protein scaffolds the E3 ligase UBE3C (ubiquitin protein ligase E3C) to catalyze the K27-linked ubiquitination of CGAS at Lys384, which is recognized by the cargo receptor TOLLIP (toll interacting protein) and degraded in the lysosome. Additionally, we show that the N terminus of UL21 in PRV is dominant in destabilizing CGAS-mediated innate immunity. Moreover, viral tegument protein UL21 in herpes simplex virus type 1 (HSV-1) also displays the conserved inhibitory mechanisms. Furthermore, by using PRV, we demonstrate the roles of UL21 in degrading CGAS to promote viral infection in vivo. Altogether, these findings describe a distinct pathway where alpha-herpesvirus exploits TOLLIP-mediated selective autophagy to evade host antiviral immunity, highlighting a new interface of interplay between the host and DNA virus.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
