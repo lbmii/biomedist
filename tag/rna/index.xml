@@ -643,6 +643,31 @@
     </item>
     
     <item>
+      <title>An RNA G-Quadruplex Structure within the ADAR 5&#39;UTR Interacts with DHX36 Helicase to Regulate Translation</title>
+      <link>https://example.com/article/36300875/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36300875/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA G-quadruplex (rG4) structures in the 5&amp;rsquo; untranslated region (5&amp;rsquo;UTR) play crucial roles in fundamental cellular processes. ADAR is an important enzyme that binds to double-strand RNA and accounts for the conversion of Adenosine to Inosine in RNA editing. However, so far there is no report on the formation and regulatory role of rG4 on ADAR expression. Here, we identify and characterize a thermostable rG4 structure within the 5&amp;rsquo;UTR of the ADAR1 mRNA and demonstrate its formation and inhibitory role on translation in reporter gene and native gene constructs. We reveal rG4-specific helicase DHX36 interacts with this rG4 in vitro and in cells under knockdown and knockout conditions by GTFH (G-quadruplex-triggered fluorogenic hybridization) probes and modulates translation in an rG4-dependent manner. Our results further substantiate the rG4 structure-DHX36 protein interaction in cells and highlight rG4 to be a key player in controlling ADAR1 translation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>GPSAdb: a comprehensive web resource for interactive exploration of genetic perturbation RNA-seq datasets</title>
       <link>https://example.com/article/36416261/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
@@ -1076,6 +1101,38 @@
     </item>
     
     <item>
+      <title>Integrator endonuclease drives promoter-proximal termination at all RNA polymerase II-transcribed loci</title>
+      <link>https://example.com/article/36309014/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36309014/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapid degradation of INTS11 globally increases early elongation complexes&lt;/li&gt;
+&lt;li&gt;In the absence of INTS11, RNAPII released into genes is deficient in elongation&lt;/li&gt;
+&lt;li&gt;Loss of INTS11 endonuclease does not disrupt Integrator-PP2A phosphatase function&lt;/li&gt;
+&lt;li&gt;Predominantly short genes and non-coding RNAs are upregulated upon INTS11 degradation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA polymerase II (RNAPII) pausing in early elongation is critical for gene regulation. Paused RNAPII can be released into productive elongation by the kinase P-TEFb or targeted for premature termination by the Integrator complex. Integrator comprises endonuclease and phosphatase activities, driving termination by cleavage of nascent RNA and removal of stimulatory phosphorylation. We generated a degron system for rapid Integrator endonuclease (INTS11) depletion to probe the direct consequences of Integrator-mediated RNA cleavage. Degradation of INTS11 elicits nearly universal increases in active early elongation complexes. However, these RNAPII complexes fail to achieve optimal elongation rates and exhibit persistent Integrator phosphatase activity. Thus, only short transcripts are significantly upregulated following INTS11 loss, including transcription factors, signaling regulators, and non-coding RNAs. We propose a uniform molecular function for INTS11 across all RNAPII-transcribed loci, with differential effects on particular genes, pathways, or RNA biotypes reflective of transcript lengths rather than specificity of Integrator activity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>LncRNA H19 via miR-29a-3p is involved in lung inflammation and pulmonary fibrosis induced by neodymium oxide</title>
       <link>https://example.com/article/36326553/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
@@ -1133,6 +1190,31 @@
     </item>
     
     <item>
+      <title>ReadZS detects cell type-specific and developmentally regulated RNA processing programs in single-cell RNA-seq</title>
+      <link>https://example.com/article/36284317/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36284317/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA processing, including splicing and alternative polyadenylation, is crucial to gene function and regulation, but methods to detect RNA processing from single-cell RNA sequencing data are limited by reliance on pre-existing annotations, peak calling heuristics, and collapsing measurements by cell type. We introduce ReadZS, an annotation-free statistical approach to identify regulated RNA processing in single cells. ReadZS discovers cell type-specific RNA processing in human lung and conserved, developmentally regulated RNA processing in mammalian spermatogenesis-including global 3&amp;rsquo; UTR shortening in human spermatogenesis. ReadZS also discovers global 3&amp;rsquo; UTR lengthening in Arabidopsis development, highlighting the usefulness of this method in under-annotated transcriptomes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Circular RNAs: Emerging regulators of glucose metabolism in cancer</title>
       <link>https://example.com/review/36283584/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
@@ -1143,6 +1225,146 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Alternative cleavage and polyadenylation generates downstream uncapped RNA isoforms with translation potential</title>
+      <link>https://example.com/article/36270248/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36270248/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The human transcriptome contains thousands of uncapped poly(A) RNA transcripts (5′ UPTs)&lt;/li&gt;
+&lt;li&gt;Alternative cleavage and polyadenylation (APA) is a major driver of 5′ UPTs biogenesis&lt;/li&gt;
+&lt;li&gt;5′ ends of 5′ UPTs are characterized by structured RNA and m6A modification&lt;/li&gt;
+&lt;li&gt;5′ UPTs CAP-independent translation alters the proteome and immunopeptidome repertoire&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The use of alternative promoters, splicing, and cleavage and polyadenylation (APA) generates mRNA isoforms that expand the diversity and complexity of the transcriptome. Here, we uncovered thousands of previously undescribed 5&amp;rsquo; uncapped and polyadenylated transcripts (5&amp;rsquo; UPTs). We show that these transcripts resist exonucleases due to a highly structured RNA and N6-methyladenosine modification at their 5&amp;rsquo; termini. 5&amp;rsquo; UPTs appear downstream of APA sites within their host genes and are induced upon APA activation. Strong enrichment in polysomal RNA fractions indicates 5&amp;rsquo; UPT translational potential. Indeed, APA promotes downstream translation initiation, non-canonical protein output, and consistent changes to peptide presentation at the cell surface. Lastly, we demonstrate the biological importance of 5&amp;rsquo; UPTs using Bcl2, a prominent anti-apoptotic gene whose entire coding sequence is a 5&amp;rsquo; UPT generated from 5&amp;rsquo; UTR-embedded APA sites. Thus, APA is not only accountable for terminating transcripts, but also for generating downstream uncapped RNAs with translation potential and biological impact.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive lncRNA LINC00624 promotes tumor progression and therapy resistance through ADAR1 stabilization</title>
+      <link>https://example.com/article/36252997/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36252997/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Despite the success of HER2-targeted therapy in achieving prolonged survival in approximately 50% of treated individuals, treatment resistance is still an important challenge for HER2+ breast cancer (BC) patients. The influence of both adaptive and innate immune responses on the therapeutic outcomes of HER2+BC patients has been extensively demonstrated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Long non-coding RNAs expressed in non-pathological complete response (pCR) HER2 positive BC were screened and validated by RNA-seq. Survival analysis were made by Kaplan-Meier method. Cell death assay and proliferation assay were performed to confirm the phenotype of LINC00624. RT-qPCR and western blot were used to assay the IFN response. Xenograft mouse model were used for in vivo confirmation of anti-neu treatment resistance. RNA pull-down and immunoblot were used to confirm the interaction of ADAR1 and LINC00624. ADAR1 recombinant protein were purified from baculovirus expression system. B16-OVA cells were used to study antigen presentation both in vitro and in vivo. Flow cytometry was used to determine the tumor infiltrated immune cells of xenograft model. Antisense oligonucleotides (ASOs) were used for in vivo treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In this study, we found that LINC00624 blocked the antitumor effect of HER2- targeted therapy both in vitro and in vivo by inhibiting type I interferon (IFN) pathway activation. The double-stranded RNA-like structure of LINC00624 can bind and be edited by the adenosine (A) to inosine (I) RNA-editing enzyme adenosine deaminase RNA specific 1 (ADAR1), and this editing has been shown to release the growth inhibition and attenuate the innate immune response caused by the IFN response. Notably, LINC00624 promoted the stabilization of ADAR1 by inhibiting its ubiquitination-induced degradation triggered by β-TrCP. In contrast, LINC00624 inhibited major histocompatibility complex (MHC) class I antigen presentation and limited CD8+T cell infiltration in the cancer microenvironment, resulting in immune checkpoint blockade inhibition and anti-HER2 treatment resistance mediated through ADAR1.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; In summary, these results suggest that LINC00624 is a cancer immunosuppressive lncRNA and targeting LINC00624 through ASOs in tumors expressing high levels of LINC00624 has great therapeutic potential in future clinical applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A functional SNP regulates E-cadherin expression by dynamically remodeling the 3D structure of a promoter-associated non-coding RNA transcript</title>
+      <link>https://example.com/article/36243981/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36243981/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transcription of E-cadherin, a tumor suppressor that plays critical roles in cell adhesion and the epithelial-mesenchymal transition, is regulated by a promoter-associated non-coding RNA (paRNA). The sense-oriented paRNA (S-paRNA) includes a functional C/A single nucleotide polymorphism (SNP rs16260). The A-allele leads to decreased transcriptional activity and increased prostate cancer risk. The polymorphic site is known to affect binding of a microRNA-guided Argonaute 1 (AGO1) complex and recruitment of chromatin-modifying enzymes to silence the promoter. Yet the SNP is distant from the microRNA-AGO1 binding domain in both primary sequence and secondary structure, raising the question of how regulation occurs. Here we report the 3D NMR structure of the 104-nucleotide domain of the S-paRNA that encompasses the SNP and the microRNA-binding site. We show that the A to C change alters the locally dynamic and metastable structure of the S-paRNA, revealing how the single nucleotide mutation regulates the E-cadherin promoter through its effect on the non-coding RNA structure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>5-methylcytosine (m5C) RNA modification controls the innate immune response to virus infection by regulating type I interferons</title>
+      <link>https://example.com/article/36240321/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36240321/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5-methylcytosine (m&lt;sup&gt;5&lt;/sup&gt;C) is a common RNA methylation. However, its biological functions remain a mystery. Here, we discover that depletion of NSUN2, an m&lt;sup&gt;5&lt;/sup&gt;C methyltransferase, leads to an enhanced type I interferon (IFN) response, which significantly inhibits replication of a wide range of RNA and DNA viruses in vitro. Notably, this m&lt;sup&gt;5&lt;/sup&gt;C-mediated antiviral innate immunity is also conserved in an in vivo mouse model. Mechanistically, depletion of the m&lt;sup&gt;5&lt;/sup&gt;C methyltransferase decreases the host RNA m&lt;sup&gt;5&lt;/sup&gt;C methylome and enhances polymerase III–transcribed noncoding RNAs that are recognized by RIG-I to trigger enhanced type I IFN signaling. Our study reveals a role of m&lt;sup&gt;5&lt;/sup&gt;C in regulating innate immunity and highlights m&lt;sup&gt;5&lt;/sup&gt;C as a new target for development of broad-spectrum antiviral therapeutics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5-methylcytosine (m&lt;sup&gt;5&lt;/sup&gt;C) is one of the most prevalent modifications of RNA, playing important roles in RNA metabolism, nuclear export, and translation. However, the potential role of RNA m&lt;sup&gt;5&lt;/sup&gt;C methylation in innate immunity remains elusive. Here, we show that depletion of NSUN2, an m&lt;sup&gt;5&lt;/sup&gt;C methyltransferase, significantly inhibits the replication and gene expression of a wide range of RNA and DNA viruses. Notably, we found that this antiviral effect is largely driven by an enhanced type I interferon (IFN) response. The antiviral signaling pathway is dependent on the cytosolic RNA sensor RIG-I but not MDA5. Transcriptome-wide mapping of m&lt;sup&gt;5&lt;/sup&gt;C following NSUN2 depletion in human A549 cells revealed a marked reduction in the m&lt;sup&gt;5&lt;/sup&gt;C methylation of several abundant noncoding RNAs (ncRNAs). However, m&lt;sup&gt;5&lt;/sup&gt;C methylation of viral RNA was not noticeably altered by NSUN2 depletion. In NSUN2-depleted cells, the host RNA polymerase (Pol) III transcribed ncRNAs, in particular RPPH1 and 7SL RNAs, were substantially up-regulated, leading to an increase of unshielded 7SL RNA in cytoplasm, which served as a direct ligand for the RIG-I-mediated IFN response. In NSUN2-depleted cells, inhibition of Pol III transcription or silencing of RPPH1 and 7SL RNA dampened IFN signaling, partially rescuing viral replication and gene expression. Finally, depletion of NSUN2 in an ex vivo human lung model and a mouse model inhibits viral replication and reduces pathogenesis, which is accompanied by enhanced type I IFN responses. Collectively, our data demonstrate that RNA m&lt;sup&gt;5&lt;/sup&gt;C methylation controls antiviral innate immunity through modulating the m&lt;sup&gt;5&lt;/sup&gt;C methylome of ncRNAs and their expression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiR-1249 on Endothelial Extracellular Vesicles Mediates Cigarette Smoke-Induced Pulmonary Hypertension by Inhibiting HDAC10 (Histone Deacetylase 10)-NFκB (Nuclear Factor κB)-CaSR (Calcium-Sensing Receptor) Cascade</title>
+      <link>https://example.com/article/36252137/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36252137/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Overproduction of endothelial extracellular vesicles (eEVs) is correlated with pulmonary hypertension progression, but the precise mechanism remains largely unclear.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; MicroRNA-chip and real-time polymerase chain reaction were conducted to screen and validate microRNA profiles in blood plasma eEVs of rats and human with or without cigarette smoking. Pulmonary artery smooth muscle cells were cultured to study signaling pathways. Pulmonary hypertension phenotypes were evaluated in wild-type and calcium-sensing receptor knockout rats to identify the pathophysiological significance of the microRNA pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; MicroR-1249 was predominant highly expressed in eEVs from plasma of rats exposed to cigarette smoking, and confirmed in eEVs from plasma of human smokers as well as in eEVs from cigarette smoke extract-treated pulmonary artery endothelial cells, but not in cigarette smoke extract-treated pulmonary artery smooth muscle cells. In cultured pulmonary artery smooth muscle cells, microR-1249 downregulated the expression of histone deacetylase 10, which in turn enhanced the acetylated form of NFκB (nuclear factor κB) level and its nuclear translocation leading to increased expression of calcium-sensing receptor. In rats, the repression of microR-1249 in eEVs by microR-1249 inhibitor, histone deacetylase 10 overexpression, or calcium-sensing receptor knockout profoundly inhibited the proliferative capacities and diminished apoptosis-resistance of pulmonary artery smooth muscle cells and pulmonary hypertension development in rats intravenously administrated with eEVs preparation from cigarette smoke extract-treated pulmonary artery endothelial cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Cigarette smoke-enriched microR-1249 in endothelial extracellular vesicles facilitates the hyperproliferative and antiapoptotic status of pulmonary artery smooth muscle cells promoting pulmonary hypertension evolution through the inhibition of histone deacetylase 10-NFκB-calcium-sensing receptor cascade.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -3711,6 +3933,31 @@
       <guid>https://example.com/article/28281539/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Extensive pre-mRNA back-splicing generates numerous circular RNAs (circRNAs) in human transcriptome. However, the biological functions of these circRNAs remain largely unclear. Here we report that N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A), the most abundant base modification of RNA, promotes efficient initiation of protein translation from circRNAs in human cells. We discover that consensus m&lt;sup&gt;6&lt;/sup&gt;A motifs are enriched in circRNAs and a single m&lt;sup&gt;6&lt;/sup&gt;A site is sufficient to drive translation initiation. This m&lt;sup&gt;6&lt;/sup&gt;A-driven translation requires initiation factor eIF4G2 and m&lt;sup&gt;6&lt;/sup&gt;A reader YTHDF3, and is enhanced by methyltransferase METTL3/14, inhibited by demethylase FTO, and upregulated upon heat shock. Further analyses through polysome profiling, computational prediction and mass spectrometry reveal that m&lt;sup&gt;6&lt;/sup&gt;A-driven translation of circRNAs is widespread, with hundreds of endogenous circRNAs having translation potential. Our study expands the coding landscape of human transcriptome, and suggests a role of circRNA-derived proteins in cellular responses to environmental stress.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel protein RASON encoded by a lncRNA controls oncogenic RAS signaling in KRAS mutant cancers</title>
+      <link>https://example.com/article/36241718/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36241718/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mutations of the RAS oncogene are found in around 30% of all human cancers yet direct targeting of RAS is still considered clinically impractical except for the KRAS&lt;sup&gt;G12C&lt;/sup&gt; mutant. Here we report that RAS-ON (RASON), a novel protein encoded by the long intergenic non-protein coding RNA 00673 (&lt;em&gt;LINC00673&lt;/em&gt;), is a positive regulator of oncogenic RAS signaling. RASON is aberrantly overexpressed in pancreatic ductal adenocarcinoma (PDAC) patients, and it promotes proliferation of human PDAC cell lines &lt;em&gt;in vitro&lt;/em&gt; and tumor growth &lt;em&gt;in vivo&lt;/em&gt;. CRISPR/Cas9-mediated knockout of &lt;em&gt;Rason&lt;/em&gt; in mouse embryonic fibroblasts inhibits KRAS-mediated tumor transformation. Genetic deletion of &lt;em&gt;Rason&lt;/em&gt; abolishes oncogenic KRAS-driven pancreatic and lung cancer tumorigenesis in &lt;em&gt;LSL-Kras&lt;sup&gt;G12D&lt;/sup&gt;&lt;/em&gt;; &lt;em&gt;Trp53&lt;sup&gt;R172H/+&lt;/sup&gt;&lt;/em&gt; mice. Mechanistically, RASON directly binds to KRAS&lt;sup&gt;G12D/V&lt;/sup&gt; and inhibits both intrinsic and GTPase activating protein (GAP)-mediated GTP hydrolysis, thus sustaining KRAS&lt;sup&gt;G12D/V&lt;/sup&gt; in the GTP-bound hyperactive state. Therapeutically, deprivation of RASON sensitizes KRAS mutant pancreatic cancer cells and patient-derived organoids to EGFR inhibitors. Our findings identify RASON as a critical regulator of oncogenic KRAS signaling and a promising therapeutic target for KRAS mutant cancers.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

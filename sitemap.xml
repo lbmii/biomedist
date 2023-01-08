@@ -46,8 +46,6 @@
   <url>
     <loc>https://example.com/tag/tissue-injury/</loc><lastmod>2023-01-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/bone/</loc><lastmod>2023-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/tag/cancers/</loc><lastmod>2023-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/cell-death/</loc><lastmod>2023-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -365,8 +363,6 @@
     <loc>https://example.com/tag/oncolytic-virus/</loc><lastmod>2022-12-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36563667/</loc><lastmod>2022-12-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/stat3/</loc><lastmod>2022-12-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36543915/</loc><lastmod>2022-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -782,6 +778,8 @@
   <url>
     <loc>https://example.com/article/36417505/</loc><lastmod>2022-11-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36300875/</loc><lastmod>2022-11-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/review/36414625/</loc><lastmod>2022-11-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36423580/</loc><lastmod>2022-11-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -852,7 +850,11 @@
   <url>
     <loc>https://example.com/review/36373730/</loc><lastmod>2022-11-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36278420/</loc><lastmod>2022-11-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36373614/</loc><lastmod>2022-11-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/stat3/</loc><lastmod>2022-11-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36430427/</loc><lastmod>2022-11-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -905,6 +907,8 @@
     <loc>https://example.com/article/36344775/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/prostate/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36300783/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36343258/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -960,6 +964,8 @@
   <url>
     <loc>https://example.com/review/36316787/</loc><lastmod>2022-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/review/36253067/</loc><lastmod>2022-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/parthanatos/</loc><lastmod>2022-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/review/36389728/</loc><lastmod>2022-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -967,6 +973,8 @@
     <loc>https://example.com/article/36438474/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36316334/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36239312/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36316320/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -980,23 +988,41 @@
   <url>
     <loc>https://example.com/article/36307579/</loc><lastmod>2022-10-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36309014/</loc><lastmod>2022-10-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36326553/</loc><lastmod>2022-10-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36309190/</loc><lastmod>2022-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/34705508/</loc><lastmod>2022-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36302906/</loc><lastmod>2022-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36285810/</loc><lastmod>2022-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36309200/</loc><lastmod>2022-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/immune-escape/</loc><lastmod>2022-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36359989/</loc><lastmod>2022-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36309093/</loc><lastmod>2022-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/34693625/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36284093/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36306867/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36205355/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36284317/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36283801/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36284099/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36283811/</loc><lastmod>2022-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/review/36302705/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1012,43 +1038,103 @@
   <url>
     <loc>https://example.com/article/36334381/</loc><lastmod>2022-10-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/review/36270292/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36294525/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36269835/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/epigenomics/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36268709/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36269761/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36263591/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36279970/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36272405/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36271046/</loc><lastmod>2022-10-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36270248/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36272670/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36263713/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36266581/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36272262/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36265513/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36341363/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36260707/</loc><lastmod>2022-10-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36261523/</loc><lastmod>2022-10-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36272263/</loc><lastmod>2022-10-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36272503/</loc><lastmod>2022-10-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36261549/</loc><lastmod>2022-10-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/review/36272423/</loc><lastmod>2022-10-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/review/36260671/</loc><lastmod>2022-10-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36302319/</loc><lastmod>2022-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36255715/</loc><lastmod>2022-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/review/36353677/</loc><lastmod>2022-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36257906/</loc><lastmod>2022-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/immunosuppression/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36252997/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36253133/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36243981/</loc><lastmod>2022-10-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36243958/</loc><lastmod>2022-10-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36240321/</loc><lastmod>2022-10-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36227980/</loc><lastmod>2022-10-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36252699/</loc><lastmod>2022-10-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36265491/</loc><lastmod>2022-10-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36242005/</loc><lastmod>2022-10-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36243012/</loc><lastmod>2022-10-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36252489/</loc><lastmod>2022-10-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36313362/</loc><lastmod>2022-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36244408/</loc><lastmod>2022-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36227993/</loc><lastmod>2022-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36252137/</loc><lastmod>2022-10-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/myristylation/</loc><lastmod>2022-10-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36270224/</loc><lastmod>2022-10-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36224181/</loc><lastmod>2022-10-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36224588/</loc><lastmod>2022-10-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36238768/</loc><lastmod>2022-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36223726/</loc><lastmod>2022-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1059,6 +1145,10 @@
     <loc>https://example.com/article/36215029/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/isgylation/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/review/36299482/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36299904/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36220068/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1082,7 +1172,11 @@
   <url>
     <loc>https://example.com/article/36198789/</loc><lastmod>2022-10-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36267283/</loc><lastmod>2022-10-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36198318/</loc><lastmod>2022-10-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36263130/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/anoikis/</loc><lastmod>2022-09-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1102,7 +1196,11 @@
   <url>
     <loc>https://example.com/article/36170834/</loc><lastmod>2022-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36175177/</loc><lastmod>2022-09-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36151395/</loc><lastmod>2022-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36238896/</loc><lastmod>2022-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/antibody-design/</loc><lastmod>2022-09-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1123,6 +1221,8 @@
     <loc>https://example.com/author/wes-mckinney/</loc><lastmod>2022-09-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36121123/</loc><lastmod>2022-09-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36125351/</loc><lastmod>2022-09-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36113429/</loc><lastmod>2022-09-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1735,8 +1835,6 @@
     <loc>https://example.com/article/33976130/</loc><lastmod>2021-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/33976210/</loc><lastmod>2021-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/immunosuppression/</loc><lastmod>2021-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/33974679/</loc><lastmod>2021-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -2590,7 +2688,11 @@
   <url>
     <loc>https://example.com/article/18355723/</loc><lastmod>2008-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/article/36241718/</loc><lastmod>2007-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/cholesterylation/</loc><lastmod>2007-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/article/36302024/</loc><lastmod>2007-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36544271/</loc><lastmod>2007-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -2623,6 +2725,8 @@
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/cgas/sting/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/jak1/stat/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/pi3k/akt/</loc><changefreq>weekly</changefreq></url>
   <url>

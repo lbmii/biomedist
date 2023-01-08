@@ -63,6 +63,63 @@
     </item>
     
     <item>
+      <title>ReadZS detects cell type-specific and developmentally regulated RNA processing programs in single-cell RNA-seq</title>
+      <link>https://example.com/article/36284317/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36284317/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA processing, including splicing and alternative polyadenylation, is crucial to gene function and regulation, but methods to detect RNA processing from single-cell RNA sequencing data are limited by reliance on pre-existing annotations, peak calling heuristics, and collapsing measurements by cell type. We introduce ReadZS, an annotation-free statistical approach to identify regulated RNA processing in single cells. ReadZS discovers cell type-specific RNA processing in human lung and conserved, developmentally regulated RNA processing in mammalian spermatogenesis-including global 3&amp;rsquo; UTR shortening in human spermatogenesis. ReadZS also discovers global 3&amp;rsquo; UTR lengthening in Arabidopsis development, highlighting the usefulness of this method in under-annotated transcriptomes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Alternative cleavage and polyadenylation generates downstream uncapped RNA isoforms with translation potential</title>
+      <link>https://example.com/article/36270248/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36270248/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The human transcriptome contains thousands of uncapped poly(A) RNA transcripts (5′ UPTs)&lt;/li&gt;
+&lt;li&gt;Alternative cleavage and polyadenylation (APA) is a major driver of 5′ UPTs biogenesis&lt;/li&gt;
+&lt;li&gt;5′ ends of 5′ UPTs are characterized by structured RNA and m6A modification&lt;/li&gt;
+&lt;li&gt;5′ UPTs CAP-independent translation alters the proteome and immunopeptidome repertoire&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The use of alternative promoters, splicing, and cleavage and polyadenylation (APA) generates mRNA isoforms that expand the diversity and complexity of the transcriptome. Here, we uncovered thousands of previously undescribed 5&amp;rsquo; uncapped and polyadenylated transcripts (5&amp;rsquo; UPTs). We show that these transcripts resist exonucleases due to a highly structured RNA and N6-methyladenosine modification at their 5&amp;rsquo; termini. 5&amp;rsquo; UPTs appear downstream of APA sites within their host genes and are induced upon APA activation. Strong enrichment in polysomal RNA fractions indicates 5&amp;rsquo; UPT translational potential. Indeed, APA promotes downstream translation initiation, non-canonical protein output, and consistent changes to peptide presentation at the cell surface. Lastly, we demonstrate the biological importance of 5&amp;rsquo; UPTs using Bcl2, a prominent anti-apoptotic gene whose entire coding sequence is a 5&amp;rsquo; UPT generated from 5&amp;rsquo; UTR-embedded APA sites. Thus, APA is not only accountable for terminating transcripts, but also for generating downstream uncapped RNAs with translation potential and biological impact.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>scAPAdb: a comprehensive database of alternative polyadenylation at single-cell resolution</title>
       <link>https://example.com/article/34508354/</link>
       <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
