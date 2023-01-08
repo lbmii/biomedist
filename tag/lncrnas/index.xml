@@ -393,6 +393,31 @@
     </item>
     
     <item>
+      <title>DeepLncPro: an interpretable convolutional neural network model for identifying long non-coding RNA promoters</title>
+      <link>https://example.com/article/36209437/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36209437/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNA (lncRNA) plays important roles in a series of biological processes. The transcription of lncRNA is regulated by its promoter. Hence, accurate identification of lncRNA promoter will be helpful to understand its regulatory mechanisms. Since experimental techniques remain time consuming for gnome-wide promoter identification, developing computational tools to identify promoters are necessary. However, only few computational methods have been proposed for lncRNA promoter prediction and their performances still have room to be improved. In the present work, a convolutional neural network based model, called &lt;a href=&#34;https://github.com/zhangtian-yang/DeepLncPro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepLncPro&lt;/a&gt;, was proposed to identify lncRNA promoters in human and mouse. Comparative results demonstrated that &lt;a href=&#34;https://github.com/zhangtian-yang/DeepLncPro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepLncPro&lt;/a&gt; was superior to both state-of-the-art machine learning methods and existing models for identifying lncRNA promoters. Furthermore, &lt;a href=&#34;https://github.com/zhangtian-yang/DeepLncPro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepLncPro&lt;/a&gt; has the ability to extract and analyze transcription factor binding motifs from lncRNAs, which made it become an interpretable model. These results indicate that the &lt;a href=&#34;https://github.com/zhangtian-yang/DeepLncPro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepLncPro&lt;/a&gt; can server as a powerful tool for identifying lncRNA promoters.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Long noncoding RNA LINC00239 inhibits ferroptosis in colorectal cancer by binding to Keap1 to stabilize Nrf2</title>
       <link>https://example.com/article/36038548/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
