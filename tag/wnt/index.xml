@@ -5,12 +5,37 @@
     <link>https://example.com/tag/wnt/</link>
       <atom:link href="https://example.com/tag/wnt/index.xml" rel="self" type="application/rss+xml" />
     <description>Wnt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Wnt</title>
       <link>https://example.com/tag/wnt/</link>
     </image>
+    
+    <item>
+      <title>Wnt5a/β-catenin axis is involved in the downregulation of AT2 lineage by PAI-1</title>
+      <link>https://example.com/article/36098461/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36098461/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Failure to regenerate injured alveoli functionally and promptly causes a high incidence of fatality in coronavirus disease 2019 (COVID-19). How elevated plasminogen activator inhibitor-1 (PAI-1) regulates the lineage of alveolar type 2 (AT2) cells for re-alveolarization has not been studied. This study aimed to examine the role of PAI-1-Wnt5a-β catenin cascades in AT2 fate. Dramatic reduction in AT2 yield was observed in &lt;em&gt;Serpine1&lt;sup&gt;Tg&lt;/sup&gt;&lt;/em&gt; mice. Elevated PAI-1 level suppressed organoid number, development efficiency, and total surface area in vitro. Anti-PAI-1 neutralizing antibody restored organoid number, proliferation and differentiation of AT2 cells, and β-catenin level in organoids. Both Wnt family member 5A (Wnt5a) and Wnt5a-derived N-butyloxycarbonyl hexapeptide (Box5) altered the lineage of AT2 cells. This study demonstrates that elevated PAI-1 regulates AT2 proliferation and differentiation via the Wnt5a/β catenin cascades. PAI-1 could serve as autocrine signaling for lung injury repair.
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Wnt/β-catenin signaling mediates both heart and kidney injury in type 2 cardiorenal syndrome</title>

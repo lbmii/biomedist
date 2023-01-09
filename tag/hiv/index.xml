@@ -37,5 +37,37 @@
 </description>
     </item>
     
+    <item>
+      <title>An in situ analysis pipeline for initial host-pathogen interactions reveals signatures of human colorectal HIV transmission</title>
+      <link>https://example.com/article/36130503/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36130503/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;In situ&lt;/em&gt; quantification pipeline of early host-pathogen interactions in human tissue&lt;/li&gt;
+&lt;li&gt;Initial HIV enrichment in mucosal DCs and submucosal macrophages, but not CD4&lt;sup&gt;+&lt;/sup&gt; T cells&lt;/li&gt;
+&lt;li&gt;HIV preferentially localizes to lymphoid aggregates, mediating submucosal virus entry&lt;/li&gt;
+&lt;li&gt;HIV rapidly alters cellular spatial organization to maximize uptake and infection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The initial immune response to HIV determines transmission. However, due to technical limitations we still do not have a comparative map of early mucosal transmission events. By combining RNAscope, cyclic immunofluorescence, and image analysis tools, we quantify HIV transmission signatures in intact human colorectal explants within 2 h of topical exposure. We map HIV enrichment to mucosal dendritic cells (DCs) and submucosal macrophages, but not CD4&lt;sup&gt;+&lt;/sup&gt; T cells, the primary targets of downstream infection. HIV&lt;sup&gt;+&lt;/sup&gt; DCs accumulate near and within lymphoid aggregates, which act as early sanctuaries of high viral titers while facilitating HIV passage to the submucosa. Finally, HIV entry induces recruitment and clustering of target cells, facilitating DC- and macrophage-mediated HIV transfer and enhanced infection of CD4&lt;sup&gt;+&lt;/sup&gt; T cells. These data demonstrate a rapid response to HIV structured to maximize the likelihood of mucosal infection and provide a framework for in situ studies of host-pathogen interactions and immune-mediated pathologies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

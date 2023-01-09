@@ -5,12 +5,37 @@
     <link>https://example.com/tag/dengue-virus/</link>
       <atom:link href="https://example.com/tag/dengue-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Dengue Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Dengue Virus</title>
       <link>https://example.com/tag/dengue-virus/</link>
     </image>
+    
+    <item>
+      <title>NLRC5 restricts dengue virus infection by promoting the autophagic degradation of viral NS3 through E3 ligase CUL2 (cullin 2)</title>
+      <link>https://example.com/article/36126167/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36126167/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NLRC5 has been reported to be involved in antiviral immunity; however, the underlying mechanism remains poorly understood. Here, we investigated the functional role of NLRC5 in the infection of a flavivirus, dengue virus (DENV). We found that the expression of NLRC5 was strongly induced by virus infection and IFNB or IFNG stimulation in different cell lines. Overexpression of NLRC5 remarkably suppressed DENV infection, whereas knockout of NLRC5 led to a significant increase in DENV infection. Mechanistic study revealed that NLRC5 interacted with the viral nonstructural protein 3 (NS3) protease domain and mediated degradation of NS3 through a ubiquitin-dependent selective macroautophagy/autophagy pathway. We demonstrated that NLRC5 recruited the E3 ubiquitin ligase CUL2 (cullin 2) to catalyze K48-linked poly-ubiquitination of the NS3 protease domain, which subsequently served as a recognition signal for cargo receptor TOLLIP-mediated selective autophagic degradation. Together, we have demonstrated that NLRC5 exerted an antiviral effect by mediating the degradation of a multifunctional protein of DENV, providing a novel antiviral signal axis of NLRC5-CUL2-NS3-TOLLIP. This study expands our understanding of the regulatory network of NLRC5 in the host defense against virus infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Protective Zika vaccines engineered to eliminate enhancement of dengue infection via immunodominance switch</title>
