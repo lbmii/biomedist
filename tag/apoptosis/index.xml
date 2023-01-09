@@ -20,12 +20,12 @@
       <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Design of chimeric receptors for efferocytosis (CHEF) to enhance efferocytosis&lt;/li&gt;
-&lt;li&gt;Boosting efferocytosis via CHEF attenuates multiple inflammatory insults in vivo&lt;/li&gt;
-&lt;li&gt;rotein folding and misfolded protein degradation are rate-limiting steps in efferocytosis&lt;/li&gt;
-&lt;li&gt;HEF expression can improve outcomes in ongoing disease&lt;/li&gt;
+&lt;li&gt;Boosting efferocytosis via CHEF attenuates multiple inflammatory insults &lt;em&gt;in vivo&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Protein folding and misfolded protein degradation are rate-limiting steps in efferocytosis&lt;/li&gt;
+&lt;li&gt;CHEF expression can improve outcomes in ongoing disease&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Our bodies turn over billions of cells daily via apoptosis and are in turn cleared by phagocytes via the process of “efferocytosis.” Defects in efferocytosis are now linked to various inflammatory diseases. Here, we designed a strategy to boost efferocytosis, denoted “chimeric receptor for efferocytosis” (CHEF). We fused a specific signaling domain within the cytoplasmic adapter protein ELMO1 to the extracellular phosphatidylserine recognition domains of the efferocytic receptors BAI1 or TIM4, generating BELMO and TELMO, respectively. CHEF-expressing phagocytes display a striking increase in efferocytosis. In mouse models of inflammation, BELMO expression attenuates colitis, hepatotoxicity, and nephrotoxicity. In mechanistic studies, BELMO increases ER-resident enzymes and chaperones to overcome protein-folding-associated toxicity, which was further validated in a model of ER-stress-induced renal ischemia-reperfusion injury. Finally, TELMO introduction after onset of kidney injury significantly reduced fibrosis. Collectively, these data advance a concept of chimeric efferocytic receptors to boost efferocytosis and dampen inflammation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our bodies turn over billions of cells daily via apoptosis and are in turn cleared by phagocytes via the process of &amp;ldquo;efferocytosis.&amp;rdquo; Defects in efferocytosis are now linked to various inflammatory diseases. Here, we designed a strategy to boost efferocytosis, denoted &amp;ldquo;chimeric receptor for efferocytosis&amp;rdquo; (CHEF). We fused a specific signaling domain within the cytoplasmic adapter protein ELMO1 to the extracellular phosphatidylserine recognition domains of the efferocytic receptors BAI1 or TIM4, generating BELMO and TELMO, respectively. CHEF-expressing phagocytes display a striking increase in efferocytosis. In mouse models of inflammation, BELMO expression attenuates colitis, hepatotoxicity, and nephrotoxicity. In mechanistic studies, BELMO increases ER-resident enzymes and chaperones to overcome protein-folding-associated toxicity, which was further validated in a model of ER-stress-induced renal ischemia-reperfusion injury. Finally, TELMO introduction after onset of kidney injury significantly reduced fibrosis. Collectively, these data advance a concept of chimeric efferocytic receptors to boost efferocytosis and dampen inflammation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -387,6 +387,59 @@
     </item>
     
     <item>
+      <title>Regulator of calcineurin 1 deletion attenuates mitochondrial dysfunction and apoptosis in acute kidney injury through JNK/Mff signaling pathway</title>
+      <link>https://example.com/article/36071051/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36071051/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ischemia-reperfusion (I/R) induced acute kidney injury (AKI), characterized by excessive mitochondrial damage and cell apoptosis, remains a clinical challenge. Recent studies suggest that regulator of calcineurin 1 (RCAN1) regulates mitochondrial function in different cell types, but the underlying mechanisms require further investigation. Herein, we aim to explore whether RCAN1 involves in mitochondrial dysfunction in AKI and the exact mechanism. In present study, AKI was induced by I/R and cisplatin in RCAN1flox/flox mice and mice with renal tubular epithelial cells (TECs)-specific deletion of RCAN1. The role of RCAN1 in hypoxia-reoxygenation (HR) and cisplatin-induced injury in human renal proximal tubule epithelial cell line HK-2 was also examined by overexpression and knockdown of RCAN1. Mitochondrial function was assessed by transmission electron microscopy, JC-1 staining, MitoSOX staining, ATP production, mitochondrial fission and mitophagy. Apoptosis was detected by TUNEL assay, Annexin V-FITC staining and Western blotting analysis of apoptosis-related proteins. It was found that protein expression of RCAN1 was markedly upregulated in I/R- or cisplatin-induced AKI mouse models, as well as in HR models in HK-2 cells. RCAN1 deficiency significantly reduced kidney damage, mitochondrial dysfunction, and cell apoptosis, whereas RCAN1 overexpression led to the opposite phenotypes. Our in-depth mechanistic exploration demonstrated that RCAN1 increases the phosphorylation of mitochondrial fission factor (Mff) by binding to downstream c-Jun N-terminal kinase (JNK), then promotes dynamin related protein 1 (Drp1) migration to mitochondria, ultimately leads to excessive mitochondrial fission of renal TECs. In conclusion, our study suggests that RCAN1 could induce mitochondrial dysfunction and apoptosis by activating the downstream JNK/Mff signaling pathway. RCAN1 may be a potential therapeutic target for conferring protection against I/R- or cisplatin-AKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Diacerein attenuate LPS-induced acute lung injury via inhibiting ER stress and apoptosis: Impact on the crosstalk between SphK1/S1P, TLR4/NFκB/STAT3, and NLRP3/IL-1β signaling pathways</title>
+      <link>https://example.com/article/36055546/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36055546/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Acute lung injury (ALI) is a life-threatening clinical problem with high mortality rate and limited treatments or preventive options that represents a major challenge for clinicians. Diacerein (DIA) is a multi-target anthraquinone derivative with potent anti-inflammatory action. The aim of this study is to assess the protective effect of DIA and its potential molecular targets against lipopolysaccharide (LPS)-induced ALI in rats.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materials and methods:&lt;/em&gt; Adult male Sprague-Dawley rats were orally administrated DIA (50 mg/kg) for 5 consecutive days followed by a single intraperitoneal injection of LPS (5mg/kg).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Key findings:&lt;/em&gt; DIA mitigated oxidative lung injury in LPS-challenged rats via significantly decreasing lung wet/dry (W/D) ratio, inflammatory cells infiltration, and lipid peroxidation, with concomitant elevation in enzymatic and non-enzymatic antioxidant levels in lung tissue. Likewise, DIA alleviated endoplasmic reticulum stress and markedly halted inflammation triggered by LPS challenge in pulmonary tissue by suppressing NLRP3/IL-1β and TLR4/NF-κB signaling with parallel decrease in proinflammatory cytokine levels. Interestingly, DIA down regulated Sphk1/S1P axis, reduced GSK-3β and STAT3 proteins expression, and markedly decreased caspase-3 besides increasing Bcl-2 levels in lung tissue of LPS-challenged animals. These biochemical findings was simultaneously associated with marked improvement in histological alterations of lung tissue.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Significance:&lt;/em&gt; These findings verify the protective effect of DIA against LPS-induced ALI through targeting oxidative stress, endoplasmic reticulum stress, and apoptosis. Importantly, DIA halted the hyperinflammatory state triggered by LPS via multi-faceted inhibitory effect on different signaling pathways, hence DIA could potentially reduce mortality in patients with ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Anti-Fibrotic Effect of SDF-1β Overexpression in Bleomycin-Injured Rat Lung</title>
       <link>https://example.com/article/36145551/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
@@ -415,12 +468,96 @@
     </item>
     
     <item>
+      <title>Lentinan-functionalized selenium nanoparticles induce apoptosis and cell cycle arrest in human colon carcinoma HCT-116 cells</title>
+      <link>https://example.com/article/36082027/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36082027/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Selenium nanoparticles (SeNPs) have gained extensive attention for their excellent biological activity and low toxicity. However, SeNPs are extremely liable to aggregate into non-bioactive or gray elemental selenium, which limits their application in the biomedicine field. This study aimed to prepare stable SeNPs by using lentinan (LNT) as a template and evaluate its anti-colon cancer activity. The average particle diameter of obtained lentinan-selenium nanoparticles (LNT-SeNPs) was approximately 59 nm and presented zero-valent, amorphous, and spherical structures. The monodisperse SeNPs were stabilized by LNT through hydrogen bonding interactions. LNT-SeNPs solution remained highly stable at 4°C for at least 8 weeks. The stability of LNT-SeNPs solution sharply decreased under high temperature and strong acidic conditions. LNT-SeNPs showed no obvious cytotoxic effect on normal cells (IEC-6) but significantly inhibited the proliferation of five colon cancer cells (HCT-116, HT-29, Caco-2, SW620, and CT26). Among them, LNT-SeNPs exhibited the highest sensitivity toward HCT-116 cells with an IC50 value of 7.65 μM. Also, LNT-SeNPs displayed better cancer cell selectivity than sodium selenite and selenomethionine. Moreover, LNT-SeNPs promoted apoptosis of HCT-116 cells through activating mitochondria-mediated apoptotic pathway. Meanwhile, LNT-SeNPs induced cell cycle arrest at G0/G1 phase in HCT-116 cells via modulation of cell cycle regulatory proteins. The results of this study indicated that LNT-SeNPs possessed strong potential application in the treatment of colorectal cancer (CRC).&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>UBXD8 mediates mitochondria-associated degradation to restrain apoptosis and mitophagy</title>
       <link>https://example.com/article/35979733/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35979733/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The hexameric AAA-ATPase valosin-containing protein (VCP) is essential for mitochondrial protein quality control. How VCP is recruited to mammalian mitochondria remains obscure. Here we report that UBXD8, an ER- and lipid droplet-localized VCP adaptor, also localizes to mitochondria and locally recruits VCP. UBXD8 associates with mitochondrial and ER ubiquitin E3 ligases and targets their substrates for degradation. Remarkably, both mitochondria- and ER-localized UBXD8 can degrade mitochondrial and ER substrates in cis and in trans. UBXD8 also associates with the TOM complex but is dispensable for translocation-associated degradation. UBXD8 knockout impairs the degradation of the pro-survival protein Mcl1 but surprisingly sensitizes cells to apoptosis and mitochondrial stresses. UBXD8 knockout also hyperactivates mitophagy. We identify pro-apoptotic BH3-only proteins Noxa, Bik, and Bnip3 as novel UBXD8 substrates and determine that UBXD8 inhibits apoptosis via degrading Noxa and restrains mitophagy via degrading Bnip3. Collectively, our characterizations reveal UBXD8 as the major mitochondrial adaptor of VCP and unveil its role in apoptosis and mitophagy regulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cangma Huadu granules attenuate H1N1 virus-induced severe lung injury correlated with repressed apoptosis and altered gut microbiome</title>
+      <link>https://example.com/article/36090063/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36090063/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe influenza A virus infection leads to overwhelming inflammatory responses and cellular apoptosis, which causes lung injury and contributes to high mortality and morbidity. The gut microbiome altered in response to the infection might influence the disease progression and the treatment outcome. Cangma Huadu (CMHD) granules, an in-hospital preparation of traditional Chinese medicine, have been shown to be favorable in the clinical treatment of influenza. However, the effects and mechanisms of CMHD granules on severe influenza pneumonia and its mechanisms are not well-known. In this study, a lethal influenza A (H1N1) A/Puerto Rico/8/34 virus (PR8)-infected mice model was established, and the 16S ribosomal RNA (16S rRNA) V3-V4 region sequencing of the intestinal microbiome was conducted. We revealed that the oral administration of CMHD granules protects mice against higher mortality, enhanced weight loss, overwhelmed interferon-γ concentration, lung viral titers, and severe lung pathological injury in PR8-infected mice. CMHD granules&amp;rsquo; administration downregulated the levels of interleukin (IL)-1β, tumor necrosis factor-α, and malondialdehyde, while it upregulated the levels of IL-10, superoxide dismutase, and glutathione peroxidase. Subsequently, it decreased the protein ratio of B-cell lymphoma-2/Bcl-2-associated X and the expression of cleaved caspase-3. The diversity and compositions of the gut microbes were altered profoundly after the administration of CMHD granules in PR8-infected mice. A higher abundance of &lt;em&gt;Bifidobacterium&lt;/em&gt;, &lt;em&gt;Parasutterella&lt;/em&gt;, &lt;em&gt;Bacteroides&lt;/em&gt;, and &lt;em&gt;Faecalibaculum&lt;/em&gt; was observed in the CMHD group, and a higher abundance of &lt;em&gt;Lactobacillus&lt;/em&gt; and &lt;em&gt;Turicibacter&lt;/em&gt; was observed in the positive drug Ribavirin group. The linear discriminant analysis effect size also revealed a higher proportion of &lt;em&gt;Bacteroides&lt;/em&gt; and &lt;em&gt;Bifidobacterium_pseudolongum&lt;/em&gt; characterized in the CMHD group. These results demonstrated that CMHD granules are a promising strategy for managing severe influenza and attenuating severe lung damage via reducing viral titer, inflammatory responses, and oxidative stress. The mechanisms are involved in repressed Bcl-2-regulated apoptosis and altered composition and diversity of the gut microbiome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Colchicine improves severe acute pancreatitis-induced acute lung injury by suppressing inflammation, apoptosis and oxidative stress in rats</title>
+      <link>https://example.com/article/36076491/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36076491/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inflammation, apoptosis and oxidative stress play critical roles in severe acute pancreatitis (SAP).&lt;/li&gt;
+&lt;li&gt;Colchicine (COL) mitigates severe acute pancreatitis-associated lung injury (SAP-ALI) in rats model.&lt;/li&gt;
+&lt;li&gt;Colchicine limits inflammation, apoptosis and oxidative stress in SAP-ALI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Inflammation, apoptosis and oxidative stress contribute to the development of severe acute pancreatitis-associated acute lung injury (SAP-ALI). Currently, there is no curative treatment for SAP-ALI in the clinic. This study investigated the potential therapeutic role and mechanisms of colchicine in a rat model of SAP-ALI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Male Sprague-Dawley rats were randomized and administrated intragastrically with vehicle saline or colchicine (0.5 mg/kg/day) for seven days, followed by injecting sodium taurocholate to induce SAP-ALI. Together with a healthy control group of rats, their pancreatic and lung tissues and plasma samples were collected for histology, enzyme-linked immunosorbent assay (ELISA), immunoblot, immunohistochemistry, and immunofluorescence.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Compared with the sham controls, the SAP group of rats with vehicle saline treatment displayed severe damages, inflammation with many neutrophil and macrophage infiltrates in pancreatic and lung tissues, accompanied by elevated levels of plasma interleukin-1β (IL-1β), IL-6 and tumor necrosis factor (TNF)-α, which were significantly mitigated in colchicine-treated SAP + COL group of rats. Furthermore, colchicine treatment significantly attenuated nuclear factor kappa-B (NF-κB)-p65, signal transducer and activator of transcription 3 (STAT3) and protein kinase B (AKT) phosphorylation, reduced inducible nitric oxide synthase (iNOS) and 4-Hydroxynonenal expression, ROS production and cell apoptosis by decreasing caspase-3 cleavage, Bax expression, but increasing Bcl-2, nuclear factor erythroid 2-related factor 2 (Nrf2) and heme oxygenase-1 (HO-1) expression in pancreatic and lung tissues, relative to the SAP group of rats.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Colchicine treatment significantly mitigated the severity of SAP-ALI by inhibiting inflammation, oxidative stress and cell apoptosis in rats.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
