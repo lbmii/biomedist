@@ -5,12 +5,37 @@
     <link>https://example.com/tag/wnt/</link>
       <atom:link href="https://example.com/tag/wnt/index.xml" rel="self" type="application/rss+xml" />
     <description>Wnt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Wnt</title>
       <link>https://example.com/tag/wnt/</link>
     </image>
+    
+    <item>
+      <title>TRIM27 maintains gut homeostasis by promoting intestinal stem cell self-renewal</title>
+      <link>https://example.com/article/36596873/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36596873/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysregulation of gut homeostasis is associated with irritable bowel syndrome (IBS), a chronic functional gastrointestinal disorder affecting approximately 11.2% of the global population. The poorly understood pathogenesis of IBS has impeded its treatment. Here, we report that the E3 ubiquitin ligase tripartite motif-containing 27 (TRIM27) is weakly expressed in IBS but highly expressed in inflammatory bowel disease (IBD), a frequent chronic organic gastrointestinal disorder. Accordingly, knockout of &lt;em&gt;Trim27&lt;/em&gt; in mice causes spontaneously occurring IBS-like symptoms, including increased visceral hyperalgesia and abnormal stool features, as observed in IBS patients. Mechanistically, TRIM27 stabilizes β-catenin and thus activates Wnt/β-catenin signaling to promote intestinal stem cell (ISC) self-renewal. Consistent with these findings, &lt;em&gt;Trim27&lt;/em&gt; deficiency disrupts organoid formation, which is rescued by reintroducing TRIM27 or β-catenin. Furthermore, Wnt/β-catenin signaling activator treatment ameliorates IBS symptoms by promoting ISC self-renewal. Taken together, these data indicate that TRIM27 is critical for maintaining gut homeostasis, suggesting that targeting the TRIM27/Wnt/β-catenin axis could be a potential treatment strategy for IBS. Our study also indicates that TRIM27 might serve as a potential biomarker for differentiating IBS from IBD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Wnt5a/β-catenin axis is involved in the downregulation of AT2 lineage by PAI-1</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/single-cell/</link>
       <atom:link href="https://example.com/tag/single-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Single Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Single Cell</title>
       <link>https://example.com/tag/single-cell/</link>
     </image>
+    
+    <item>
+      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
+      <link>https://example.com/article/23-01-10-13-33/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A single-cell transcriptomic atlas of exercise-induced anti-inflammatory and geroprotective effects across the body</title>
@@ -186,6 +211,38 @@
       <guid>https://example.com/article/36536148/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Probing histone modifications at a single-cell level in thousands of cells has been enabled by technologies such as single-cell CUT&amp;amp;Tag. Here we describe nano-CUT&amp;amp;Tag (nano-CT), which allows simultaneous mapping of up to three epigenomic modalities at single-cell resolution using nanobody-Tn5 fusion proteins. Multimodal nano-CT is compatible with starting materials as low as 25,000-200,000 cells and has significantly higher sensitivity and number of fragments per cell than single-cell CUT&amp;amp;Tag. We use nano-CT to simultaneously profile chromatin accessibility, H3K27ac, and H3K27me3 in juvenile mouse brain, allowing for discrimination of more cell types and states than unimodal single-cell CUT&amp;amp;Tag. We also infer chromatin velocity between assay for transposase-accessible chromatin (ATAC) and H3K27ac in the oligodendrocyte lineage and deconvolute H3K27me3 repressive states, finding two sequential waves of H3K27me3 repression at distinct gene modules during oligodendrocyte lineage progression. Given its high resolution, versatility, and multimodal features, nano-CT allows unique insights in epigenetic landscapes in complex biological systems at the single-cell level.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineered cell entry links receptor biology with single-cell genomics</title>
+      <link>https://example.com/article/36516854/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36516854/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ENTER displays ligands, delivers payloads, and records receptor specificity&lt;/li&gt;
+&lt;li&gt;ENTER enables antigen-specific expansion or depletion of T or B cells&lt;/li&gt;
+&lt;li&gt;ENTER-seq maps TCR specificity, clonality, and cell state in single cells&lt;/li&gt;
+&lt;li&gt;ENTER-seq of patient sample decodes antiviral T cell memory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cells communicate with each other via receptor-ligand interactions. Here, we describe lentiviral-mediated cell entry by engineered receptor-ligand interaction (ENTER) to display ligand proteins, deliver payloads, and record receptor specificity. We optimize ENTER to decode interactions between T cell receptor (TCR)-MHC peptides, antibody-antigen, and other receptor-ligand pairs. A viral presentation strategy allows ENTER to capture interactions between B cell receptor and any antigen. We engineer ENTER to deliver genetic payloads to antigen-specific T or B cells to selectively modulate cellular behavior in mixed populations. Single-cell readout of ENTER by RNA sequencing (ENTER-seq) enables multiplexed enumeration of antigen specificities, TCR clonality, cell type, and states of individual T cells. ENTER-seq of CMV-seropositive patient blood samples reveals the viral epitopes that drive effector memory T cell differentiation and inter-clonal vs. intra-clonal phenotypic diversity targeting the same epitope. ENTER technology enables systematic discovery of receptor specificity, linkage to cell fates, and antigen-specific cargo delivery.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

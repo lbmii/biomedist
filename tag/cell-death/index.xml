@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cell-death/</link>
       <atom:link href="https://example.com/tag/cell-death/index.xml" rel="self" type="application/rss+xml" />
     <description>Cell Death</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cell Death</title>
       <link>https://example.com/tag/cell-death/</link>
     </image>
+    
+    <item>
+      <title>WWOX activates autophagy to alleviate lipopolysaccharide-induced acute lung injury by regulating mTOR</title>
+      <link>https://example.com/article/36621327/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36621327/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is characterized by acute systemic inflammatory responses that may lead to severe acute respiratory distress syndrome (ARDS). The clinical course of ALI/ARDS is variable; however, it has been reported that lipopolysaccharides (LPS) play a role in its development. The fragile chromosomal site gene WWOX is highly sensitive to genotoxic stress induced by environmental exposure and is an important candidate gene for exposure-related lung disease research. However, the expression of WWOX and its role in LPS-induced ALI still remain unidentified. This study investigated the expression of WWOX in mouse lung and epithelial cells and explored the role of WWOX in LPS-induced ALI model in vitro and in vivo. In addition, we explored one of the possible mechanisms by which WWOX alleviates ALI from the perspective of autophagy. Here, we observed that LPS stimulation reduced the expression of WWOX and the autophagy marker microtubule-associated protein 1 light chain 3β-II (MAP1LC3B/LC3B) in mouse lung epithelial and human epithelial (H292) cells. Overexpression of WWOX led to the activation of autophagy and inhibited inflammatory responses in LPS-induced ALI cells and mouse model. More importantly, we found that WWOX interacts with mechanistic target of rapamycin [serine/threonine kinase] (mTOR) and regulates mTOR and ULK-1 signaling-mediated autophagy. Thus, reduced WWOX levels were associated with LPS-induced ALI. WWOX can activate autophagy in lung epithelial cells and protect against LPS-induced ALI, which is partly related to the mTOR-ULK1 signaling pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>CD44-targeting Drug Delivery System of Exosomes Loading Forsythiaside A Combats Liver Fibrosis via Regulating NLRP3-mediated Pyroptosis</title>
@@ -2477,6 +2502,31 @@
     </item>
     
     <item>
+      <title>Neutrophil extracellular traps-triggered impaired autophagic flux via METTL3 underlies sepsis-associated acute lung injury</title>
+      <link>https://example.com/article/36030287/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36030287/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) assist pathogen clearance, while excessive NETs formation is associated with exacerbated inflammatory responses and tissue injury in acute lung injury (ALI)/acute respiratory distress syndrome (ARDS). Autophagy is generally considered to be a protective process, but autophagy dysfunction is harmful. Whether and how NETs affect autophagic flux during sepsis-induced ALI are currently unknown. Here, we confirmed that the level of NETs was increased in ARDS patients and mice models, which led to impairment of autophagic flux and deterioration of the disease. Mechanistically, NETs activated METTL3 mediated m&lt;sup&gt;6&lt;/sup&gt;A methylation of Sirt1 mRNA in alveolar epithelial cells, resulting in abnormal autophagy. These findings provide new insights into how NETs contribute to the development of sepsis-associated ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Identification and validation of an anoikis-associated gene signature to predict clinical character, stemness, IDH mutation, and immune filtration in glioblastoma</title>
       <link>https://example.com/article/36091049/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
@@ -2486,6 +2536,56 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The non-negative matrix factorization algorithm was used for effective dimension reduction for integrated datasets. Differences in the tumor microenvironment (TME), stemness indices, and clinical characteristics between the two clusters were analyzed. Difference analysis, weighted gene coexpression network analysis (WGCNA), univariate Cox regression, and least absolute shrinkage and selection operator regression were leveraged to screen prognosis-related genes and construct a risk score model. Immunohistochemistry was performed to evaluate the expression of representative genes in clinical specimens. The relationship between the risk score and the TME, stemness, clinical traits, and immunotherapy response was assessed in GBM and pancancer.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Two definite clusters were identified on the basis of anoikis-related gene expression. Patients with GBM assigned to C1 were characterized by shortened overall survival, higher suppressive immune infiltration levels, and lower stemness indices. We further constructed a risk scoring model to quantify the regulatory patterns of anoikis-related genes. The higher risk score group was characterized by a poor prognosis, the infiltration of suppressive immune cells and a differentiated phenotype, whereas the lower risk score group exhibited the opposite effects. In addition, patients in the lower risk score group exhibited a higher frequency of isocitrate dehydrogenase (IDH) mutations and a more sensitive response to immunotherapy. Drug sensitivity analysis was performed, revealing that the higher risk group may benefit more from drugs targeting the PI3K/mTOR signaling pathway.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We revealed potential relationships between anoikis-related genes and clinical features, TME, stemness, IDH mutation, and immunotherapy and elucidated their therapeutic value.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pyrogallol enhances therapeutic effect of human umbilical cord mesenchymal stem cells against LPS-mediated inflammation and lung injury via activation of Nrf2/HO-1 signaling</title>
+      <link>https://example.com/article/36028178/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028178/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The main challenges in clinical applications of mesenchymal stem cells (MSCs) are attributed to their heterogeneity. It is believed that preconditioning of MSCs with active compounds may enhance the expression of potentially therapeutic molecules and thus achieve stable and effective therapeutic outcomes. In the present study, we investigated the mechanism by which pyrogallol increased the therapeutic efficacy of human umbilical cord mesenchymal stem cells (hUCMSCs) against LPS-induced acute lung injury (ALI). hUCMSCs with pyrogallol treatment increased expression of HO-1 at both mRNA and protein levels, accompanied by Kelch-Like ECH-Associated Protein 1 (Keap1) degradation, and upregulation of the Nrf2 protein levels as well as nuclear translocation of Nrf2. Moreover, the modulation of Keap1 and Nrf2 as well as HO-1 upregulation by pyrogallol was reversed by pretreatment with N-acetylcysteine (NAC) and a P38 kinase inhibitor (SB203580). Whereas, NAC pretreatment abrogated pyrogallol-mediated activation of P38 kinase, indicating that pyrogallol-derived ROS led to P38 kinase activation, thus promoting Nrf2/HO-1 signaling. Additionally, we found that the induction of p62 by the pyrogallol-mediated ROS/P38/Nrf2 axis interacted with Keap1 and resulted in autophagic degradation of Keap1, which created a positive feedback loop to further release of Nrf2. Furthermore, the increased expression of HO-1 in pyrogallol-pretreated hUCMSCs led to enhanced inhibitory effects on LPS-mediated TLR4/P-P65 signaling in BEAS-2B cells, resulting in increasing suppression of LPS-indued expression of a series of pro-inflammatory mediators. Compared to untreated hUCMSCs, Sprague-Dawley (SD) rats with pyrogallol-primed hUCMSCs transplantation showed enhanced improvements in LPS-mediated lung pathological alterations, the increased lung index (lung/body ratio), apoptosis of epithelial cells, the activation of TLR4/NF-κB signaling as well as the release of pro-inflammatory mediators. Together, these results suggested that hUCMSCs with pyrogallol pretreatment enhanced the therapeutic efficacy of hUCMSCs, which may provide a promising therapeutic strategy to maximize the therapeutic efficacy of hUCMSC-based therapy for treating LPS-associated ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rhabdomyolysis-induced acute kidney injury and concomitant apoptosis induction via ROS-mediated ER stress is efficaciously counteracted by epigallocatechin gallate</title>
+      <link>https://example.com/article/36028100/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028100/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rhabdomyolysis induced acute kidney injury (RIAKI) is a life-threatening condition responsible for approximately 19-58% of AKI cases worldwide. We performed an intramuscular injection of glycerol (10 mL/kg) in male wistar rats to induce AKI. Epigallocatechin gallate (EGCG) was administered for 3 consecutive days to evaluate its protective effects. We observed significant downregulation in serum creatinine, blood urea nitrogen (BUN) and LDH at different time points on EGCG treatment groups in a dose-dependent manner. Similarly, H&amp;amp;E staining also revealed that EGCG was able to reduce the formation of damaged tubules and tubular necrosis which was prominently spread throughout the kidney tissue of glycerol treatment group. Concomitantly, we observed upregulated inflammation, ER stress and elevated oxidative stress in the glycerol treated group only, which was significantly normalized upon EGCG treatment in both in vitro and in vivo studies. The occurrence of apoptosis in kidney tubules was found to be relatively higher in glycerol treated group and H2O2 treated HEK-293 cells. The results obtained after EGCG treatment revealed a significant decrease in apoptotic cell population, which was further validated by immunofluorescence staining against p53 and comet assay in HEK-293 cells and p53 IHC in kidney tissues. Western blotting also revealed a systemic downregulation of intrinsic mitochondrial apoptotic pathway markers such as bax, bcl-2, pro and cleaved caspase 3, caspase 9 and PARP1. Additionally, the results for flow cytometry analysis and TUNEL assay corroborated apoptotic equilibrium. Conclusively, we reckon EGCG as a multi-therapeutic natural product that can be used the for treatment of AKI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2782,6 +2882,34 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The 150 male C57 mice underwent middle cerebral artery occlusion (MCAO) for 1 h and reperfusion for 24 h, Among them, 50 MCAO mice were further treated with Mitochondrial division inhibitor 1 (Mdivi-1) and 50 MCAO mice were further treated with N-acetylcysteine (NAC). SH-SY5Y cells were cultured in a low-glucose culture medium for 4 h under hypoxic conditions and then transferred to normal conditions for 12 h. Then, cerebral blood flow, mitochondrial structure, mitochondrial DNA (mtDNA) copy number, intracellular and mitochondrial reactive oxygen species (ROS), autophagic flux, aggresome and exosome expression profiles, cardiac tissue structure, mitochondrial length and cristae density, mtDNA and ROS content, as well as the expression of Drp1-Ser616/Drp1, RIP1/RIP3, LC3 II/LC3 I, TNF-α, IL-1β, etc., were detected under normal or Drp1 interference conditions.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The mtDNA content, ROS levels, and Drp1-Ser616/Drp1 were elevated by 2.2, 1.7 and 2.7 times after CIRI (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). However, the high cytoplasmic LC3 II/I ratio and increased aggregation of p62 could be reversed by 44% and 88% by Drp1 short hairpin RNA (shRNA) (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). The low fluorescence intensity of autophagic flux and the increased phosphorylation of RIP3 induced by CIRI could be attenuated by ROS scavenger, NAC (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). RIP1/RIP3 inhibitor Necrostatin-1 (Nec-1) restored 75% to a low LC3 II/LC3 I ratio and enhanced 2 times to a high RFP-LC3 after Drp1 activation (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). In addition, although CIRI-induced ROS production caused no considerable accumulation of autophagosomes (&lt;em&gt;P&lt;/em&gt; &amp;gt; 0.05), it increased the packaging and extracellular secretion of exosomes containing p62 by 4 - 5 times, which could be decreased by Mdivi-1, Drp1 shRNA, and Nec-1 (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). Furthermore, TNF-α and IL-1β increased in CIRI-derived exosomes could increase RIP3 phosphorylation in normal or oxygen-glucose deprivation/reoxygenation (OGD/R) conditions (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; CIRI activated Drp1 and accelerated the p62-mediated formation of autophagosomes while inhibiting the transition of autophagosomes to autolysosomes via the RIP1/RIP3 pathway activation. Undegraded autophagosomes were secreted extracellularly in the form of exosomes, leading to inflammatory cascades that further damaged mitochondria, resulting in excessive ROS generation and the blockage of autophagosome degradation, triggering a vicious cycle.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Down-regulated miR-146a expression with increased neutrophil extracellular traps and apoptosis formation in autoimmune-mediated diffuse alveolar hemorrhage</title>
+      <link>https://example.com/article/36028828/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028828/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Increasing evidences have suggested an important role of microRNAs (miRNAs) in regulating cell death processes including NETosis and apoptosis. Dysregulated expression of miRNAs and increased formation of neutrophil extracellular traps (NETs) and apoptosis participate in autoimmune-mediated diffuse alveolar hemorrhage (DAH), mostly associated with pulmonary capillaritis in systemic lupus erythematosus (SLE) patients. In particular, besides the inhibition of apoptosis, miR-146a can control innate and acquired immune responses, and regulate the toll-like receptor pathway through targeting TRAF6 to reduce the expression of pro-inflammatory cytokines/chemokines like IL-8, a NETosis inducer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Expression of miR-146a, TRAF6 and NETs were examined in peripheral blood neutrophils (PBNs) and lung tissues from SLE-associated DAH patients, and in neutrophils and pristane-induced DAH lung tissues from C57BL/6 mice. To assess NETs formation, we examined NETosis-related DNAs morphology and crucial mediators including protein arginine deiminase 4 and citrullinated Histone 3. Expression of miR-146a and its endogenous RNA SNHG16 were studied in HL-60 promyelocytic cells and MLE-12 alveolar cells during NETosis and apoptosis processes, respectively. MiR-146a-overexpressed and CRISPR-Cas13d-mediated SNHG16-silenced HL-60 cells were investigated for NETosis. MiR-146a-overexpressed MLE-12 cells were analyzed for apoptosis. Pristane-injected mice received intra-pulmonary miR-146a delivery to evaluate therapeutic efficacy in DAH.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In DAH patients, there were down-regulated miR-146a levels with increased TRAF6 expression and PMA/LPS-induced NETosis in PBNs, and down-regulated miR-146a levels with increased TRAF6, high-mobility group box 1 (HMGB1), IL-8, NETs and apoptosis expression in lung tissues. HMGB1-stimulated mouse neutrophils had down-regulated miR-146a levels with increased TRAF6, IL-8 and NETs expression. PMA-stimulated HL-60 cells had down-regulated miR-146a levels with enhanced NETosis. MiR-146a-overexpressed or SNHG16-silenced HL-60 cells showed reduced NETosis. Apoptotic MLE-12 cells had down-regulated miR-146a expression and increased HMGB1 release, while miR-146a-overexpressed MLE-12 cells showed reduced apoptosis and HMGB1 production. There were down-regulated miR-146a levels with increased TRAF6, HMGB1, IL-8, NETs and apoptosis expression in mouse DAH lung tissues. Intra-pulmonary miR-146a delivery could suppress DAH by reducing TRAF6, IL-8, NETs and apoptosis expression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our results demonstrate firstly down-regulated pulmonary miR-146a levels with increased TRAF6 and IL-8 expression and NETs and apoptosis formation in autoimmune-mediated DAH, and implicate a therapeutic potential of intra-pulmonary miR-146a delivery.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3587,6 +3715,31 @@
       <guid>https://example.com/article/34107271/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Neutrophils migrate rapidly to damaged tissue and play critical roles in host defense and tissue homeostasis. Here we investigated the mechanisms whereby neutrophils participate in tissue repair. In an intestinal epithelia injury model, neutrophil depletion exacerbated colitis and associated with reduced interleukin (IL)-22 and limited activation of type 3 innate lymphoid cells (ILC3s). Co-culture with neutrophils activated ILC3s in a manner dependent on neutrophil apoptosis. Metabolomic analyses revealed that lysophosphatidylserine (LysoPS) from apoptotic neutrophils directly stimulated ILC3 activation. ILC3-specific deletion of Gpr34, encoding the LysoPS receptor GPR34, or inhibition of downstream PI3K-AKT or ERK suppressed IL-22 production in response to apoptotic neutrophils. Gpr34&lt;sup&gt;-/-&lt;/sup&gt; mice exhibited compromised ILC3 activation and tissue repair during colon injury, and neutrophil depletion abrogated these defects. GPR34 deficiency in ILC3s limited IL-22 production and tissue repair in vivo in settings of colon and skin injury. Thus, GPR34 is an ILC3-expressed damage-sensing receptor that triggers tissue repair upon recognition of dying neutrophils.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Polyethylenimine-Modified Mesoporous Silica Nanoparticles Induce a Survival Mechanism in Vascular Endothelial Cells via Microvesicle-Mediated Autophagosome Release</title>
+      <link>https://example.com/article/34080832/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34080832/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Surface-modified mesoporous silica nanoparticles (MSNs) have attracted more and more attention as promising materials for biomolecule delivery. However, the lack of detailed evaluation relevant to the potential cytotoxicity of these MSNs is still a major obstacle for their applications. Unlike the bare MSNs and amino- or liposome-modified MSNs, we found that polyethylenimine-modified MSNs (MSNs-PEI) had no obvious toxicity to human umbilical vein endothelial cells (HUVECs) at the concentrations up to 100 μg/mL. However, MSNs-PEI induced autophagosomes accumulation by blocking their fusion with lysosomes, an essential mechanism for the cytotoxicity of many nanoparticles (NPs). Thus, we predicted that an alternative pathway for autophagosome clearance exists in HUVECs to relieve autophagic stress induced by MSNs-PEI. We found that MSNs-PEI prevented STX17 loading onto autophagosomes instead of influencing lysosomal pH or proteolytic activity. MSNs-PEI induced the structural alternation of the cytoskeleton but did not cause endoplasmic reticulum stress. The accumulated autophagosomes were released to the extracellular space via microvesicles (MVs) when the autophagic degradation was blocked by MSNs-PEI. More importantly, blockade of either autophagosome formation or release caused the accumulation of damaged mitochondria and excessive ROS production in the MSNs-PEI-treated HUVECs, which in turn led to cell death. Thus, we propose here that the MV-mediated autophagosome release, a compensation mechanism, allows the vascular endothelial cell survival when the degradation of autophagosomes is blocked by MSNs-PEI. Accordingly, promoting the release of accumulated autophagosomes may be a protective strategy against the endothelial toxicity of NPs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

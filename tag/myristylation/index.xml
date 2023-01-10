@@ -5,12 +5,37 @@
     <link>https://example.com/tag/myristylation/</link>
       <atom:link href="https://example.com/tag/myristylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Myristylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Myristylation</title>
       <link>https://example.com/tag/myristylation/</link>
     </image>
+    
+    <item>
+      <title>Blockade of NMT1 enzymatic activity inhibits N-myristoylation of VILIP3 protein and suppresses liver cancer progression</title>
+      <link>https://example.com/article/36617552/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36617552/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatocellular carcinoma (HCC) is one of the most common malignant tumors. Identification of the underlying mechanism of HCC progression and exploration of new therapeutic drugs are urgently needed. Here, a compound library consisting of 419 FDA-approved drugs was taken to screen potential anticancer drugs. A series of functional assays showed that desloratadine, an antiallergic drug, can repress proliferation in HCC cell lines, cell-derived xenograft (CDX), patient-derived organoid (PDO) and patient-derived xenograft (PDX) models. N-myristoyl transferase 1 (NMT1) was identified as a target protein of desloratadine by drug affinity responsive target stability (DARTS) and surface plasmon resonance (SPR) assays. Upregulation of NMT1 expression enhanced but NMT1 knockdown suppressed tumor growth in vitro and in vivo. Metabolic labeling and mass spectrometry analyses revealed that Visinin-like protein 3 (VILIP3) was a new substrate of NMT1 in protein N-myristoylation modification, and high NMT1 or VILIP3 expression was associated with advanced stages and poor survival in HCC. Mechanistically, desloratadine binds to Asn-246 in NMT1 and inhibits its enzymatic activity, disrupting the NMT1-mediated myristoylation of the VILIP3 protein and subsequent NFκB/Bcl-2 signaling. Conclusively, this study demonstrates that desloratadine may be a novel anticancer drug and that NMT1-mediated myristoylation contributes to HCC progression and is a potential biomarker and therapeutic target in HCC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Targeting EGFR-dependent tumors by disrupting an ARF6-mediated sorting system</title>

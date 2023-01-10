@@ -5,12 +5,87 @@
     <link>https://example.com/tag/machine-learning/</link>
       <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://example.com/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Multistain deep learning for prediction of prognosis and therapy response in colorectal cancer</title>
+      <link>https://example.com/article/36624314/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36624314/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although it has long been known that the immune cell composition has a strong prognostic and predictive value in colorectal cancer (CRC), scoring systems such as the immunoscore (IS) or quantification of intraepithelial lymphocytes are only slowly being adopted into clinical routine use and have their limitations. To address this we established and evaluated a multistain deep learning model (MSDLM) utilizing artificial intelligence (AI) to determine the AImmunoscore (AIS) in more than 1,000 patients with CRC. Our model had high prognostic capabilities and outperformed other clinical, molecular and immune cell-based parameters. It could also be used to predict the response to neoadjuvant therapy in patients with rectal cancer. Using an explainable AI approach, we confirmed that the MSDLM&amp;rsquo;s decisions were based on established cellular patterns of anti-tumor immunity. Hence, the AIS could provide clinicians with a valuable decision-making tool based on the tumor immune microenvironment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
+      <link>https://example.com/article/23-01-10-13-33/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Development of a 32-gene signature using machine learning for accurate prediction of inflammatory bowel disease</title>
+      <link>https://example.com/article/36600111/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36600111/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammatory bowel disease (IBD) is a chronic inflammatory condition caused by multiple genetic and environmental factors. Numerous genes are implicated in the etiology of IBD, but the diagnosis of IBD is challenging. Here, XGBoost, a machine learning prediction model, has been used to distinguish IBD from healthy cases following elaborative feature selection. Using combined unsupervised clustering analysis and the XGBoost feature selection method, we successfully identified a 32-gene signature that can predict IBD occurrence in new cohorts with 0.8651 accuracy. The signature shows enrichment in neutrophil extracellular trap formation and cytokine signaling in the immune system. The probability threshold of the XGBoost-based classification model can be adjusted to fit personalized lifestyle and health status. Therefore, this study reveals potential IBD-related biomarkers that facilitate an effective personalized diagnosis of IBD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Co-evolution-based prediction of metal-binding sites in proteomes by machine learning</title>

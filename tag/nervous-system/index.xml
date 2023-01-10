@@ -5,12 +5,62 @@
     <link>https://example.com/tag/nervous-system/</link>
       <atom:link href="https://example.com/tag/nervous-system/index.xml" rel="self" type="application/rss+xml" />
     <description>Nervous System</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Nervous System</title>
       <link>https://example.com/tag/nervous-system/</link>
     </image>
+    
+    <item>
+      <title>Activation of innate immune cGAS-STING pathway contributes to Alzheimer’s pathogenesis in 5×FAD mice</title>
+      <link>https://example.com/article/23-01-10-13-36/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-36/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;cGAS senses microbial and host-derived double-stranded DNA in cytoplasm to trigger cellular innate immune response in a STING-dependent manner; however, it remains unknown whether the cGAS-STING pathway in innate immunity contributes to Alzheimer’s disease (AD). Here we demonstrated the detectable binding of the cGAS double-stranded DNA in cytoplasm and the activation of the microglial cGAS-STING pathway in brains of human AD and aged mice. &lt;em&gt;Cgas&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt;; 5×FAD mice were largely protected from cognitive impairment, amyloid-β pathology, neuroinflammation and other sequelae associated with AD. Furthermore, &lt;em&gt;Cgas&lt;/em&gt; deficiency in microglia inhibited a neurotoxic A1 astrocytic phenotype and thus alleviated oligomeric amyloid-β peptide-induced neurotoxicity. Finally, administration of STING inhibitor H-151 potently suppressed the activation of the cGAS-STING pathway and ameliorated AD pathogenesis in 5×FAD mice. In conclusion, our present study has identified a critical molecular link between innate immunity and AD and suggests that therapeutic targeting of the cGAS-STING pathway activity might effectively interfere with the progression of AD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Video-based pooled screening yields improved far-red genetically encoded voltage indicators</title>
+      <link>https://example.com/article/23-01-10-13-02/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-02/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Microglia drive transient insult-induced brain injury by chemotactic recruitment of CD8&#43; T lymphocytes</title>
@@ -340,6 +390,31 @@
       <guid>https://example.com/article/36460775/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Caspase-8 is a cysteine protease that plays an essential role in apoptosis. Consistently with its canonical proapoptotic function, cancer cells may genetically or epigenetically downregulate its expression. Unexpectedly, Caspase-8 is often retained in cancer, suggesting the presence of alternative mechanisms that may be exploited by cancer cells to their own benefit. In this regard, we reported that Src tyrosine kinase, which is aberrantly activated in many tumors, promotes Caspase-8 phosphorylation on Tyrosine 380 (Y380) preventing its full activation. Here, we investigated the significance of Caspase-8 expression and of its phosphorylation on Y380 in glioblastoma, a brain tumor where both Caspase-8 expression and Src activity are often aberrantly upregulated. Transcriptomic analyses identified inflammatory response as a major target of Caspase-8, and in particular, NFκB signaling as one of the most affected pathways. More importantly, we could show that Src-dependent phosphorylation of Caspase-8 on Y380 drives the assembly of a multiprotein complex that triggers NFκB activation, thereby inducing the expression of inflammatory and pro-angiogenic factors. Remarkably, phosphorylation on Y380 sustains neoangiogenesis and resistance to radiotherapy. In summary, our work identifies a novel interplay between Src kinase and Caspase-8 that allows cancer cells to hijack Caspase-8 to sustain tumor growth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
+      <link>https://example.com/article/22120467/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22120467/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between -150 mV and +150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio &amp;gt;10. Arch(D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch(D95N) also resolved individual action potentials. Microbial rhodopsin-based voltage indicators promise to enable optical interrogation of complex neural circuits and electrophysiology in systems for which electrode-based techniques are challenging.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -690,6 +765,31 @@
     </item>
     
     <item>
+      <title>Morphological, cellular, and molecular basis of brain infection in COVID-19 patients</title>
+      <link>https://example.com/article/35951647/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35951647/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although increasing evidence confirms neuropsychiatric manifestations associated mainly with severe COVID-19 infection, long-term neuropsychiatric dysfunction (recently characterized as part of &amp;ldquo;long COVID-19&amp;rdquo; syndrome) has been frequently observed after mild infection. We show the spectrum of cerebral impact of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, ranging from long-term alterations in mildly infected individuals (orbitofrontal cortical atrophy, neurocognitive impairment, excessive fatigue and anxiety symptoms) to severe acute damage confirmed in brain tissue samples extracted from the orbitofrontal region (via endonasal transethmoidal access) from individuals who died of COVID-19. In an independent cohort of 26 individuals who died of COVID-19, we used histopathological signs of brain damage as a guide for possible SARS-CoV-2 brain infection and found that among the 5 individuals who exhibited those signs, all of them had genetic material of the virus in the brain. Brain tissue samples from these five patients also exhibited foci of SARS-CoV-2 infection and replication, particularly in astrocytes. Supporting the hypothesis of astrocyte infection, neural stem cell-derived human astrocytes in vitro are susceptible to SARS-CoV-2 infection through a noncanonical mechanism that involves spike-NRP1 interaction. SARS-CoV-2-infected astrocytes manifested changes in energy metabolism and in key proteins and metabolites used to fuel neurons, as well as in the biogenesis of neurotransmitters. Moreover, human astrocyte infection elicits a secretory phenotype that reduces neuronal viability. Our data support the model in which SARS-CoV-2 reaches the brain, infects astrocytes, and consequently, leads to neuronal death or dysfunction. These deregulated processes could contribute to the structural and functional alterations seen in the brains of COVID-19 patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A novel circular RNA, circIgfbp2, links neural plasticity and anxiety through targeting mitochondrial dysfunction and oxidative stress-induced synapse dysfunction after traumatic brain injury</title>
       <link>https://example.com/article/35918398/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
@@ -906,6 +1006,31 @@
       <guid>https://example.com/article/35571675/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Endothelial cells have a crucial role in nervous system function, and mounting evidence points to endothelial impairment as a major contributor to a wide range of neurological diseases. However, tools to genetically interrogate these cells in vivo remain limited. Here, we describe AAV-BI30, a capsid that specifically and efficiently transduces endothelial cells throughout the central nervous system. At relatively low systemic doses, this vector transduces the majority of arterial, capillary, and venous endothelial cells in the brain, retina, and spinal cord vasculature of adult C57BL/6 mice. Furthermore, we show that AAV-BI30 robustly transduces endothelial cells in multiple mouse strains and rats in vivo and human brain microvascular endothelial cells in vitro. Finally, we demonstrate AAV-BI30&amp;rsquo;s capacity to achieve efficient and endothelial-specific Cre-mediated gene manipulation in the central nervous system. This combination of attributes makes AAV-BI30 uniquely well-suited to address outstanding research questions in neurovascular biology and aid the development of therapeutics to remediate endothelial dysfunction in disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dendritic branch structure compartmentalizes voltage-dependent calcium influx in cortical layer 2/3 pyramidal cells</title>
+      <link>https://example.com/article/35319464/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35319464/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Back-propagating action potentials (bAPs) regulate synaptic plasticity by evoking voltage-dependent calcium influx throughout dendrites. Attenuation of bAP amplitude in distal dendritic compartments alters plasticity in a location-specific manner by reducing bAP-dependent calcium influx. However, it is not known if neurons exhibit branch-specific variability in bAP-dependent calcium signals, independent of distance-dependent attenuation. Here, we reveal that bAPs fail to evoke calcium influx through voltage-gated calcium channels (VGCCs) in a specific population of dendritic branches in mouse cortical layer 2/3 pyramidal cells, despite evoking substantial VGCC-mediated calcium influx in sister branches. These branches contain VGCCs and successfully propagate bAPs in the absence of synaptic input; nevertheless, they fail to exhibit bAP-evoked calcium influx due to a branch-specific reduction in bAP amplitude. We demonstrate that these branches have more elaborate branch structure compared to sister branches, which causes a local reduction in electrotonic impedance and bAP amplitude. Finally, we show that bAPs still amplify synaptically-mediated calcium influx in these branches because of differences in the voltage-dependence and kinetics of VGCCs and NMDA-type glutamate receptors. Branch-specific compartmentalization of bAP-dependent calcium signals may provide a mechanism for neurons to diversify synaptic tuning across the dendritic tree.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1295,6 +1420,31 @@
     </item>
     
     <item>
+      <title>Voltage imaging and optogenetics reveal behaviour-dependent changes in hippocampal dynamics</title>
+      <link>https://example.com/article/31043747/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31043747/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A technology that simultaneously records membrane potential from multiple neurons in behaving animals will have a transformative effect on neuroscience research. Genetically encoded voltage indicators are a promising tool for these purposes; however, these have so far been limited to single-cell recordings with a marginal signal-to-noise ratio in vivo. Here we developed improved near-infrared voltage indicators, high-speed microscopes and targeted gene expression schemes that enabled simultaneous in vivo recordings of supra- and subthreshold voltage dynamics in multiple neurons in the hippocampus of behaving mice. The reporters revealed subcellular details of back-propagating action potentials and correlations in subthreshold voltage between multiple cells. In combination with stimulation using optogenetics, the reporters revealed changes in neuronal excitability that were dependent on the behavioural state, reflecting the interplay of excitatory and inhibitory synaptic inputs. These tools open the possibility for detailed explorations of network dynamics in the context of behaviour.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Developmental Heterogeneity of Microglia and Brain Myeloid Cells Revealed by Deep Single-Cell RNA Sequencing</title>
       <link>https://example.com/article/30606613/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
@@ -1420,6 +1570,35 @@
     </item>
     
     <item>
+      <title>A robotic multidimensional directed evolution approach applied to fluorescent voltage reporters</title>
+      <link>https://example.com/article/29483642/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29483642/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Publisher Correction: &lt;a href=&#34;https://www.nature.com/articles/s41589-018-0023-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;A robotic multidimensional directed evolution approach applied to fluorescent voltage reporters&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We developed a new way to engineer complex proteins toward multidimensional specifications using a simple, yet scalable, directed evolution strategy. By robotically picking mammalian cells that were identified, under a microscope, as expressing proteins that simultaneously exhibit several specific properties, we can screen hundreds of thousands of proteins in a library in just a few hours, evaluating each along multiple performance axes. To demonstrate the power of this approach, we created a genetically encoded fluorescent voltage indicator, simultaneously optimizing its brightness and membrane localization using our microscopy-guided cell-picking strategy. We produced the high-performance opsin-based fluorescent voltage reporter Archon1 and demonstrated its utility by imaging spiking and millivolt-scale subthreshold and synaptic activity in acute mouse brain slices and in larval zebrafish in vivo. We also measured postsynaptic responses downstream of optogenetically controlled neurons in C. elegans.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Optogenetic and chemogenetic techniques for neurogastroenterology</title>
       <link>https://example.com/review/29184183/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
@@ -1464,6 +1643,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>All-optical electrophysiology in mammalian neurons using engineered microbial rhodopsins</title>
+      <link>https://example.com/article/24952910/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/24952910/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All-optical electrophysiology-spatially resolved simultaneous optical perturbation and measurement of membrane voltage-would open new vistas in neuroscience research. We evolved two archaerhodopsin-based voltage indicators, QuasAr1 and QuasAr2, which show improved brightness and voltage sensitivity, have microsecond response times and produce no photocurrent. We engineered a channelrhodopsin actuator, CheRiff, which shows high light sensitivity and rapid kinetics and is spectrally orthogonal to the QuasArs. A coexpression vector, Optopatch, enabled cross-talk-free genetically targeted all-optical electrophysiology. In cultured rat neurons, we combined Optopatch with patterned optical excitation to probe back-propagating action potentials (APs) in dendritic spines, synaptic transmission, subcellular microsecond-timescale details of AP propagation, and simultaneous firing of many neurons in a network. Optopatch measurements revealed homeostatic tuning of intrinsic excitability in human stem cell-derived neurons. In rat brain slices, Optopatch induced and reported APs and subthreshold events with high signal-to-noise ratios. The Optopatch platform enables high-throughput, spatially resolved electrophysiology without the use of conventional electrodes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

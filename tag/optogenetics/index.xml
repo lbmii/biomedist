@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optogenetics | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/optogenetics/</link>
+      <atom:link href="https://example.com/tag/optogenetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optogenetics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Optogenetics</title>
+      <link>https://example.com/tag/optogenetics/</link>
+    </image>
+    
+    <item>
+      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
+      <link>https://example.com/article/22120467/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22120467/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between -150 mV and +150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio &amp;gt;10. Arch(D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch(D95N) also resolved individual action potentials. Microbial rhodopsin-based voltage indicators promise to enable optical interrogation of complex neural circuits and electrophysiology in systems for which electrode-based techniques are challenging.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dendritic branch structure compartmentalizes voltage-dependent calcium influx in cortical layer 2/3 pyramidal cells</title>
+      <link>https://example.com/article/35319464/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35319464/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Back-propagating action potentials (bAPs) regulate synaptic plasticity by evoking voltage-dependent calcium influx throughout dendrites. Attenuation of bAP amplitude in distal dendritic compartments alters plasticity in a location-specific manner by reducing bAP-dependent calcium influx. However, it is not known if neurons exhibit branch-specific variability in bAP-dependent calcium signals, independent of distance-dependent attenuation. Here, we reveal that bAPs fail to evoke calcium influx through voltage-gated calcium channels (VGCCs) in a specific population of dendritic branches in mouse cortical layer 2/3 pyramidal cells, despite evoking substantial VGCC-mediated calcium influx in sister branches. These branches contain VGCCs and successfully propagate bAPs in the absence of synaptic input; nevertheless, they fail to exhibit bAP-evoked calcium influx due to a branch-specific reduction in bAP amplitude. We demonstrate that these branches have more elaborate branch structure compared to sister branches, which causes a local reduction in electrotonic impedance and bAP amplitude. Finally, we show that bAPs still amplify synaptically-mediated calcium influx in these branches because of differences in the voltage-dependence and kinetics of VGCCs and NMDA-type glutamate receptors. Branch-specific compartmentalization of bAP-dependent calcium signals may provide a mechanism for neurons to diversify synaptic tuning across the dendritic tree.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Voltage imaging and optogenetics reveal behaviour-dependent changes in hippocampal dynamics</title>
+      <link>https://example.com/article/31043747/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31043747/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A technology that simultaneously records membrane potential from multiple neurons in behaving animals will have a transformative effect on neuroscience research. Genetically encoded voltage indicators are a promising tool for these purposes; however, these have so far been limited to single-cell recordings with a marginal signal-to-noise ratio in vivo. Here we developed improved near-infrared voltage indicators, high-speed microscopes and targeted gene expression schemes that enabled simultaneous in vivo recordings of supra- and subthreshold voltage dynamics in multiple neurons in the hippocampus of behaving mice. The reporters revealed subcellular details of back-propagating action potentials and correlations in subthreshold voltage between multiple cells. In combination with stimulation using optogenetics, the reporters revealed changes in neuronal excitability that were dependent on the behavioural state, reflecting the interplay of excitatory and inhibitory synaptic inputs. These tools open the possibility for detailed explorations of network dynamics in the context of behaviour.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A robotic multidimensional directed evolution approach applied to fluorescent voltage reporters</title>
+      <link>https://example.com/article/29483642/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29483642/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Publisher Correction: &lt;a href=&#34;https://www.nature.com/articles/s41589-018-0023-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;A robotic multidimensional directed evolution approach applied to fluorescent voltage reporters&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We developed a new way to engineer complex proteins toward multidimensional specifications using a simple, yet scalable, directed evolution strategy. By robotically picking mammalian cells that were identified, under a microscope, as expressing proteins that simultaneously exhibit several specific properties, we can screen hundreds of thousands of proteins in a library in just a few hours, evaluating each along multiple performance axes. To demonstrate the power of this approach, we created a genetically encoded fluorescent voltage indicator, simultaneously optimizing its brightness and membrane localization using our microscopy-guided cell-picking strategy. We produced the high-performance opsin-based fluorescent voltage reporter Archon1 and demonstrated its utility by imaging spiking and millivolt-scale subthreshold and synaptic activity in acute mouse brain slices and in larval zebrafish in vivo. We also measured postsynaptic responses downstream of optogenetically controlled neurons in C. elegans.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Directed evolution of a far-red fluorescent rhodopsin</title>
+      <link>https://example.com/article/25157169/</link>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/25157169/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microbial rhodopsins are a diverse group of photoactive transmembrane proteins found in all three domains of life. A member of this protein family, Archaerhodopsin-3 (Arch) of halobacterium Halorubrum sodomense, was recently shown to function as a fluorescent indicator of membrane potential when expressed in mammalian neurons. Arch fluorescence, however, is very dim and is not optimal for applications in live-cell imaging. We used directed evolution to identify mutations that dramatically improve the absolute brightness of Arch, as confirmed biochemically and with live-cell imaging (in Escherichia coli and human embryonic kidney 293 cells). In some fluorescent Arch variants, the pK(a) of the protonated Schiff-base linkage to retinal is near neutral pH, a useful feature for voltage-sensing applications. These bright Arch variants enable labeling of biological membranes in the far-red/infrared and exhibit the furthest red-shifted fluorescence emission thus far reported for a fluorescent protein (maximal excitation/emission at ∼ 620 nm/730 nm).&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>All-optical electrophysiology in mammalian neurons using engineered microbial rhodopsins</title>
+      <link>https://example.com/article/24952910/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/24952910/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All-optical electrophysiology-spatially resolved simultaneous optical perturbation and measurement of membrane voltage-would open new vistas in neuroscience research. We evolved two archaerhodopsin-based voltage indicators, QuasAr1 and QuasAr2, which show improved brightness and voltage sensitivity, have microsecond response times and produce no photocurrent. We engineered a channelrhodopsin actuator, CheRiff, which shows high light sensitivity and rapid kinetics and is spectrally orthogonal to the QuasArs. A coexpression vector, Optopatch, enabled cross-talk-free genetically targeted all-optical electrophysiology. In cultured rat neurons, we combined Optopatch with patterned optical excitation to probe back-propagating action potentials (APs) in dendritic spines, synaptic transmission, subcellular microsecond-timescale details of AP propagation, and simultaneous firing of many neurons in a network. Optopatch measurements revealed homeostatic tuning of intrinsic excitability in human stem cell-derived neurons. In rat brain slices, Optopatch induced and reported APs and subthreshold events with high signal-to-noise ratios. The Optopatch platform enables high-throughput, spatially resolved electrophysiology without the use of conventional electrodes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Screening fluorescent voltage indicators with spontaneously spiking HEK cells</title>
+      <link>https://example.com/article/24391999/</link>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/24391999/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Development of improved fluorescent voltage indicators is a key challenge in neuroscience, but progress has been hampered by the low throughput of patch-clamp characterization. We introduce a line of non-fluorescent HEK cells that stably express NaV 1.3 and KIR 2.1 and generate spontaneous electrical action potentials. These cells enable rapid, electrode-free screening of speed and sensitivity of voltage sensitive dyes or fluorescent proteins on a standard fluorescence microscope. We screened a small library of mutants of archaerhodopsin 3 (Arch) in spiking HEK cells and identified two mutants with greater voltage-sensitivity than found in previously published Arch voltage indicators.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

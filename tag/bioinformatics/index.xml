@@ -5,12 +5,37 @@
     <link>https://example.com/tag/bioinformatics/</link>
       <atom:link href="https://example.com/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bioinformatics</title>
       <link>https://example.com/tag/bioinformatics/</link>
     </image>
+    
+    <item>
+      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
+      <link>https://example.com/article/23-01-10-13-33/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Identification of astrocyte regulators by nucleic acid cytometry</title>
@@ -1012,6 +1037,34 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The non-negative matrix factorization algorithm was used for effective dimension reduction for integrated datasets. Differences in the tumor microenvironment (TME), stemness indices, and clinical characteristics between the two clusters were analyzed. Difference analysis, weighted gene coexpression network analysis (WGCNA), univariate Cox regression, and least absolute shrinkage and selection operator regression were leveraged to screen prognosis-related genes and construct a risk score model. Immunohistochemistry was performed to evaluate the expression of representative genes in clinical specimens. The relationship between the risk score and the TME, stemness, clinical traits, and immunotherapy response was assessed in GBM and pancancer.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Two definite clusters were identified on the basis of anoikis-related gene expression. Patients with GBM assigned to C1 were characterized by shortened overall survival, higher suppressive immune infiltration levels, and lower stemness indices. We further constructed a risk scoring model to quantify the regulatory patterns of anoikis-related genes. The higher risk score group was characterized by a poor prognosis, the infiltration of suppressive immune cells and a differentiated phenotype, whereas the lower risk score group exhibited the opposite effects. In addition, patients in the lower risk score group exhibited a higher frequency of isocitrate dehydrogenase (IDH) mutations and a more sensitive response to immunotherapy. Drug sensitivity analysis was performed, revealing that the higher risk group may benefit more from drugs targeting the PI3K/mTOR signaling pathway.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We revealed potential relationships between anoikis-related genes and clinical features, TME, stemness, IDH mutation, and immunotherapy and elucidated their therapeutic value.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing the Global Impact on the Mouse Kidney After Traumatic Brain Injury: A Transcriptomic Study</title>
+      <link>https://example.com/article/36042866/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36042866/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; In this study, we use animal models combined with bioinformatics strategies to investigate the potential changes in overall renal transcriptional expression after traumatic brain injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Microarray analysis was performed after kidney acquisition using unilateral controlled cortical impact as the primary mouse TBI model. Multi-oriented gene set enrichment analysis was performed for differentially expressed genes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The results showed that TBI affected the gene set associated with mitochondria function in kidney cells, and a negative enrichment of gene sets associated with immune cell migration and epidermal development was also observed. Analysis of the disease phenotype gene set revealed that differential expression of mitochondria-related genes was associated with lactate metabolism. Alternatively, activation and adhesion of immune cells associated with the complement system may promote autoinflammation in kidney tissue. The simulated immune cell infiltration analysis showed an increase in the proportion of activated memory CD4 T cells and a decrease in the proportion of resting memory CD4 T cells, suggesting that activated memory CD4 T cell infiltration may be involved in the inflammation of renal tissue and cause damage to renal cells, such as principal cells, mesangial cells and loops of Henle cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; This study is the first to reveal the effects of brain trauma on the kidney. TBI may affect the expression of mitochondria function-related gene sets in renal cells by increasing lactate. It may also affect renal mesangial cells by inducing increased infiltration of immune cells through mechanisms related to complement system activation or autoimmune antibodies.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

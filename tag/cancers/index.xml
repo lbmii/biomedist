@@ -5,12 +5,62 @@
     <link>https://example.com/tag/cancers/</link>
       <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cancers</title>
       <link>https://example.com/tag/cancers/</link>
     </image>
+    
+    <item>
+      <title>Blockade of NMT1 enzymatic activity inhibits N-myristoylation of VILIP3 protein and suppresses liver cancer progression</title>
+      <link>https://example.com/article/36617552/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36617552/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatocellular carcinoma (HCC) is one of the most common malignant tumors. Identification of the underlying mechanism of HCC progression and exploration of new therapeutic drugs are urgently needed. Here, a compound library consisting of 419 FDA-approved drugs was taken to screen potential anticancer drugs. A series of functional assays showed that desloratadine, an antiallergic drug, can repress proliferation in HCC cell lines, cell-derived xenograft (CDX), patient-derived organoid (PDO) and patient-derived xenograft (PDX) models. N-myristoyl transferase 1 (NMT1) was identified as a target protein of desloratadine by drug affinity responsive target stability (DARTS) and surface plasmon resonance (SPR) assays. Upregulation of NMT1 expression enhanced but NMT1 knockdown suppressed tumor growth in vitro and in vivo. Metabolic labeling and mass spectrometry analyses revealed that Visinin-like protein 3 (VILIP3) was a new substrate of NMT1 in protein N-myristoylation modification, and high NMT1 or VILIP3 expression was associated with advanced stages and poor survival in HCC. Mechanistically, desloratadine binds to Asn-246 in NMT1 and inhibits its enzymatic activity, disrupting the NMT1-mediated myristoylation of the VILIP3 protein and subsequent NFκB/Bcl-2 signaling. Conclusively, this study demonstrates that desloratadine may be a novel anticancer drug and that NMT1-mediated myristoylation contributes to HCC progression and is a potential biomarker and therapeutic target in HCC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multistain deep learning for prediction of prognosis and therapy response in colorectal cancer</title>
+      <link>https://example.com/article/36624314/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36624314/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although it has long been known that the immune cell composition has a strong prognostic and predictive value in colorectal cancer (CRC), scoring systems such as the immunoscore (IS) or quantification of intraepithelial lymphocytes are only slowly being adopted into clinical routine use and have their limitations. To address this we established and evaluated a multistain deep learning model (MSDLM) utilizing artificial intelligence (AI) to determine the AImmunoscore (AIS) in more than 1,000 patients with CRC. Our model had high prognostic capabilities and outperformed other clinical, molecular and immune cell-based parameters. It could also be used to predict the response to neoadjuvant therapy in patients with rectal cancer. Using an explainable AI approach, we confirmed that the MSDLM&amp;rsquo;s decisions were based on established cellular patterns of anti-tumor immunity. Hence, the AIS could provide clinicians with a valuable decision-making tool based on the tumor immune microenvironment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Identification of faecal extracellular vesicles as novel biomarkers for the non-invasive diagnosis and prognosis of colorectal cancer</title>
@@ -44,6 +94,33 @@
       <guid>https://example.com/article/36598329/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;YAP/TAZ transcriptional co-activators play pivotal roles in tumorigenesis. In the Hippo pathway, diverse signals activate the MST-LATS kinase cascade that leads to YAP/TAZ phosphorylation, and subsequent ubiquitination and proteasomal degradation by SCFβ-TrCP. When the MST-LATS kinase cascade is inactive, unphosphorylated or dephosphorylated YAP/TAZ translocate into the nucleus to mediate TEAD-dependent gene transcription. Hippo signaling-independent YAP/TAZ activation in human malignancies has also been observed, yet the mechanism remains largely elusive. Here, we report that the ubiquitin E3 ligase HERC3 can promote YAP/TAZ activation independently of its enzymatic activity. HERC3 directly binds to β-TrCP, blocks its interaction with YAP/TAZ, and thus prevents YAP/TAZ ubiquitination and degradation. Expression levels of HERC3 correlate with YAP/TAZ protein levels and expression of YAP/TAZ target genes in breast tumor cells and tissues. Accordingly, knockdown of HERC3 expression ameliorates tumorigenesis of breast cancer cells. Our results establish HERC3 as a critical regulator of the YAP/TAZ stability and a potential therapeutic target for breast cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A double-switch pHLIP system enables selective enrichment of circulating tumor microenvironment-derived extracellular vesicles</title>
+      <link>https://example.com/article/36595702/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36595702/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circulating tumor environment-derived extracellular vesicles (cTME-EVs) are a small portion of EVs in blood co-existing with those derived from other tissues; the accurate identification of cTME-EVs could facilitate both fundamental research and clinical liquid biopsy of cancer. In this work, we report the double-switch pH-low insertion peptide (D-S pHLIP) system, which allows selective enrichment of cTME-EVs from blood serum for comprehensive transcriptomic analysis. Plentiful differentially expressed genes and hub genes were identified, demonstrating the high performance of this technology. This work contributes to the design of pHLIP variants for specific functions and the discovery of tumor diagnostic biomarkers and therapeutic targets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circulating tumor microenvironment-derived extracellular vesicles (cTME-EVs) are gaining considerable traction in cancer research and liquid biopsy. However, the study of cTME-EVs is largely limited by the dearth of a general isolation technique to selectively enrich cTME-EVs from biological fluids for downstream analysis. In this work, we broke through this dilemma by presenting a double-switch pH-low insertion peptide (D-S pHLIP) system to exclusively harvest cTME-EVs from the blood serum of tumor mouse models. This D-S pHLIP system consists of a highly sensitive pH-driven conformational switch (pKa ≈ 6.8) that allows specific installation of D-S pHLIP on the EV membranes in TME (pH 6.5 to 6.8) and a unique hook-like switch to &amp;ldquo;lock&amp;rdquo; the peptide securely on the cTME-EVs during the systemic circulation. The D-S pHLIP-anchored cTME-EVs were magnetically enriched and then analyzed with high-resolution messenger RNA sequencing, by which more than 18 times the number of TME-related differentially expressed genes and 10 times the number of hub genes were identified, compared with those achieved by the gold-standard ultracentrifugation. This work could revolutionize basic TME research as well as clinical liquid biopsy for cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1948,6 +2025,31 @@
     </item>
     
     <item>
+      <title>Nucleolar protein NOC4L inhibits tumorigenesis and progression by attenuating SIRT1-mediated p53 deacetylation</title>
+      <link>https://example.com/article/36030331/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36030331/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SIRT1 is an NAD&lt;sup&gt;+&lt;/sup&gt;-dependent deacetylase and plays an important role in the deacetylation of both histone and non-histone proteins. Many studies revealed that SIRT1 is upregulated in a variety of tumors and tightly associated with tumorigenesis and cancer progression, but the detailed underlying mechanism of the biological processes remains unclarified. In the present study, we found a nucleolar protein NOC4L, human ortholog of yeast Noc4p, which is essential for the nuclear export of the ribosomal 40S subunit and could bind to SIRT1 to inhibit SIRT1 mediated deacetylation of p53. NOC4L interacts with SIRT1 in variety of cells under nucleolar stress and directly interacts with SIRT1 in vitro. Furthermore, we determined the C-terminal of NOC4L and the catalytic domain of SIRT1 were required for their interaction. Overexpression of NOC4L did not change the protein levels of SIRT1 or p53, but increased the acetylation of p53 and promoted cell apoptosis. Additionally, NOC4L inhibited tumor cell proliferation in a p53-dependent manner and restrained tumor growth in a nude mice xenograft model. Clinically, colorectal cancer patients with the high expression of NOC4L had a better prognosis as &lt;em&gt;TP53&lt;/em&gt; was normally expressed, but no significant difference was observed in survival with mutant &lt;em&gt;TP53&lt;/em&gt;. Taken together, our results identified a novel SIRT1 regulatory protein and broaden our understanding of the molecular mechanism of how nucleolar protein NOC4L regulates p53 under nucleolar stress. This research provides an insight into tumorigenesis and cell self-protection in the early stage of DNA damage.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Identification and validation of an anoikis-associated gene signature to predict clinical character, stemness, IDH mutation, and immune filtration in glioblastoma</title>
       <link>https://example.com/article/36091049/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
@@ -1986,6 +2088,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nanoparticles: Attractive tools to treat colorectal cancer</title>
+      <link>https://example.com/review/36028154/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36028154/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colorectal Cancer (CRC) is one of the leading causes of cancer-related deaths worldwide. Despite the notable advances achieved over the last few decades, CRC remains a hard-to-treat deadly disease in many patients. This is attributed mainly to chemo- and immuno-resistance, which frequently emerge soon after treatment with conventional therapeutics. Systemic treatments are also constrained by their many undesired and serious side effects. More recently, nanomedicine has emerged as an attractive modality that can overcome issues of therapeutic resistance, improper delivery, or suboptimal targeting of tumor cells. Many nanomaterials, having already been examined in pre-clinical and clinical studies, are now considered biocompatible and relatively safe. Indeed, around 50 nano-formulations have so far been approved as diagnostic and therapeutic agents in humans. Here, in this review, we describe a set of imperative nanoparticles (NPs) involved in diagnosing and treating CRC. In particular, we discuss the theragnostic roles of quantum dots, iron oxide NPs, Polylactide-co-glycolic acid (PLGA) NPs, dendrimer NPs, carbon nanotubes, liposomes, and gold NPs. We dissect the molecular and clinical evidence supporting the use of these NPs in CRC. We also highlight their implications in targeted drug delivery as well as their anti-tumorigenic properties and effects on the cardinal hallmarks of CRC. We conclude by highlighting the notion that nanomedicine is emerging as an attractive approach to address the unmet needs in managing several diseases, including CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -3072,6 +3199,31 @@
     </item>
     
     <item>
+      <title>Gene-engineered exosomes-thermosensitive liposomes hybrid nanovesicles by the blockade of CD47 signal for combined photothermal therapy and cancer immunotherapy</title>
+      <link>https://example.com/article/34147721/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34147721/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CD47, overexpressed on kinds of tumor cells, activates a &amp;ldquo;don&amp;rsquo;t eat me&amp;rdquo; signal through binding to signal regulatory protein α (SIRPα), leading to immune escape from the mononuclear phagocyte system (MPS). It is also a huge challenge to deliver therapeutic drugs to the tumor sites due to the short retention time in blood, poor targeting of tumor cells and accelerated clearance by MPS. Herein, we designed a hybrid therapeutic nanovesicles, named as hGLV, by fusing gene-engineered exosomes with drug-loaded thermosensitive liposomes. We demonstrated that the CD47-overexpressed hGLV exhibited the long blood circulation and improved the macrophages-mediated the phagocytosis of tumor cells by blocking CD47 signal. Moreover, the resulted hGLV could remarkably target the homologous tumor in mice, achieving the preferential accumulation at the tumor sites. Importantly, hGLV loading the photothermal agent could achieve the excellent photothermal therapy (PTT) under laser irradiation after the intravenous injection, completely eliminating the tumors, leading to immunogenic cell death and generating substantial tumor-associated antigens, which could promote the maturation of immature dendritic cells with the help of the co-encapsulated immune adjuvant to trigger strong immune responses. Generally, the hybrid nanovesicles based on CD47 immune check point blockade can be a promising platform for the drug delivery in cancer treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The PP2A-Integrator-CDK9 axis fine-tunes transcription and can be targeted therapeutically in cancer</title>
       <link>https://example.com/article/34004147/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -3253,6 +3405,34 @@
       <guid>https://example.com/article/34258157/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The blood-brain barrier (BBB) is the most restrictive and complicated barrier that keeps most biomolecules and drugs from the brain. An efficient brain delivery strategy is urgently needed for the treatment of brain diseases. Based on the studies of brain-targeting extracellular vesicles (EVs), the potential of using small apoptotic bodies (sABs) from brain metastatic cancer cells for brain-targeting drug delivery is explored. It is found that anti-TNF-α antisense oligonucleotide (ASO) combined with cationic konjac glucomannan (cKGM) can be successfully loaded into sABs via a transfection/apoptosis induction process and that the sABs generated by B16F10 cells have an extraordinarily high brain delivery efficiency. Further studies suggest that ASO-loaded sABs (sCABs) are transcytosed by b. End3 (brain microvascular endothelial cells, BMECs) to penetrate the BBB, which is mediated by CD44v6, and eventually taken up by microglial cells in the brain. In a Parkinson&amp;rsquo;s disease (PD) mouse model, sCABs dramatically ameliorate PD symptoms via the anti-inflammatory effect of ASO. This study suggests that sABs from brain metastatic cancer cells are excellent carriers for brain-targeted delivery, as they have not only an extraordinary delivery efficiency but also a much higher scale-up production potential than other EVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cancer-derived exosomal miR-138-5p modulates polarization of tumor-associated macrophages through inhibition of KDM6B</title>
+      <link>https://example.com/article/34093857/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34093857/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Differential activation of macrophages correlates closely with tumor progression, and the epigenetic factor lysine demethylase 6B (KDM6B, previously named JMJD3) mediates the regulation of macrophage polarization through an unknown mechanism.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We developed a suspension coculture system comprising breast cancer cells and macrophages and used RT-qPCR and western blotting to measure &lt;em&gt;KDM6B&lt;/em&gt; expression. Bioinformatics and luciferase reporter assays were used to identify candidate microRNAs of cancer cells responsible for the downregulation of KDM6B. To determine if exosomes mediated the transfer of miR-138-5p between cancer cells to macrophages, we treated macrophages with exosomes collected from the conditioned medium of cancer cells. The effects of exosomal miR-138-5p on macrophage polarization were measured using RT-qPCR, flow cytometry, and chromatin immunoprecipitation assays. We employed a mouse model of breast cancer, metastatic to the lung, to evaluate the effects on tumor metastasis of macrophages treated with miR-138-5p-enriched exosomes. To develop a diagnostic evaluation index, the levels of exosomal miR-138-5p in samples from patients with breast cancer were compared to those of controls.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Coculture of breast cancer cells led to downregulation of &lt;em&gt;KDM6B&lt;/em&gt; expression in macrophages. Cancer cell-derived exosomal miR-138-5p inhibited M1 polarization and promoted M2 polarization through inhibition of &lt;em&gt;KDM6B&lt;/em&gt; expression in macrophages. Macrophages treated with exosomal miR-138-5p promoted lung metastasis, and the level of circulating exosomal miR-138-5p positively correlated with the progression of breast cancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our data suggest that miR-138-5p was delivered from breast cancer cells to tumor-associated macrophages via exosomes to downregulate &lt;em&gt;KDM6B&lt;/em&gt; expression, inhibit M1 polarization, and stimulate M2 polarization. Therefore, exosomal miR-138-5p represents a promising prognostic marker and target for the treatment of breast cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

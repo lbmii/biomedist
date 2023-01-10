@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biophysics | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/biophysics/</link>
+      <atom:link href="https://example.com/tag/biophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biophysics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Biophysics</title>
+      <link>https://example.com/tag/biophysics/</link>
+    </image>
+    
+    <item>
+      <title>Dendritic branch structure compartmentalizes voltage-dependent calcium influx in cortical layer 2/3 pyramidal cells</title>
+      <link>https://example.com/article/35319464/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35319464/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Back-propagating action potentials (bAPs) regulate synaptic plasticity by evoking voltage-dependent calcium influx throughout dendrites. Attenuation of bAP amplitude in distal dendritic compartments alters plasticity in a location-specific manner by reducing bAP-dependent calcium influx. However, it is not known if neurons exhibit branch-specific variability in bAP-dependent calcium signals, independent of distance-dependent attenuation. Here, we reveal that bAPs fail to evoke calcium influx through voltage-gated calcium channels (VGCCs) in a specific population of dendritic branches in mouse cortical layer 2/3 pyramidal cells, despite evoking substantial VGCC-mediated calcium influx in sister branches. These branches contain VGCCs and successfully propagate bAPs in the absence of synaptic input; nevertheless, they fail to exhibit bAP-evoked calcium influx due to a branch-specific reduction in bAP amplitude. We demonstrate that these branches have more elaborate branch structure compared to sister branches, which causes a local reduction in electrotonic impedance and bAP amplitude. Finally, we show that bAPs still amplify synaptically-mediated calcium influx in these branches because of differences in the voltage-dependence and kinetics of VGCCs and NMDA-type glutamate receptors. Branch-specific compartmentalization of bAP-dependent calcium signals may provide a mechanism for neurons to diversify synaptic tuning across the dendritic tree.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/databases/</link>
       <atom:link href="https://example.com/tag/databases/index.xml" rel="self" type="application/rss+xml" />
     <description>Databases</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Databases</title>
       <link>https://example.com/tag/databases/</link>
     </image>
+    
+    <item>
+      <title>ipaQTL-atlas: an atlas of intronic polyadenylation quantitative trait loci across human tissues</title>
+      <link>https://example.com/article/36043442/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36043442/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Functional interpretation of disease-associated non-coding variants remains a significant challenge in the post-GWAS era. Our recent study has identified 3&amp;rsquo;UTR alternative polyadenylation (APA) quantitative trait loci (3&amp;rsquo;aQTLs) and connects APA events with QTLs as a major driver of human traits and diseases. Besides 3&amp;rsquo;UTR, APA events can also occur in intron regions, and increasing evidence has connected intronic polyadenylation with disease risk. However, systematic investigation of the roles of intronic polyadenylation in human diseases remained challenging due to the lack of a comprehensive database across a variety of human tissues. Here, we developed &lt;a href=&#34;http://bioinfo.szbl.ac.cn/ipaQTL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ipaQTL-atlas&lt;/a&gt; as the first comprehensive portal for intronic polyadenylation. The &lt;a href=&#34;http://bioinfo.szbl.ac.cn/ipaQTL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ipaQTL-atlas&lt;/a&gt; is based on the analysis of 15 170 RNA-seq data from 838 individuals across 49 Genotype-Tissue Expression (GTEx v8) tissues and contains ∼0.98 million SNPs associated with intronic APA events. It provides an interface for ipaQTLs search, genome browser, boxplots, and data download, as well as the visualization of GWAS and ipaQTL colocalization results. &lt;a href=&#34;http://bioinfo.szbl.ac.cn/ipaQTL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ipaQTL-atlas&lt;/a&gt; provides a one-stop portal to access intronic polyadenylation information and could significantly advance the discovery of APA-associated disease susceptibility genes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Methods for inference and analysis of cell-cell communication</title>

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/inflammation/</link>
       <atom:link href="https://example.com/tag/inflammation/index.xml" rel="self" type="application/rss+xml" />
     <description>Inflammation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Inflammation</title>
       <link>https://example.com/tag/inflammation/</link>
     </image>
+    
+    <item>
+      <title>Activation of innate immune cGAS-STING pathway contributes to Alzheimer’s pathogenesis in 5×FAD mice</title>
+      <link>https://example.com/article/23-01-10-13-36/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-36/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;cGAS senses microbial and host-derived double-stranded DNA in cytoplasm to trigger cellular innate immune response in a STING-dependent manner; however, it remains unknown whether the cGAS-STING pathway in innate immunity contributes to Alzheimer’s disease (AD). Here we demonstrated the detectable binding of the cGAS double-stranded DNA in cytoplasm and the activation of the microglial cGAS-STING pathway in brains of human AD and aged mice. &lt;em&gt;Cgas&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt;; 5×FAD mice were largely protected from cognitive impairment, amyloid-β pathology, neuroinflammation and other sequelae associated with AD. Furthermore, &lt;em&gt;Cgas&lt;/em&gt; deficiency in microglia inhibited a neurotoxic A1 astrocytic phenotype and thus alleviated oligomeric amyloid-β peptide-induced neurotoxicity. Finally, administration of STING inhibitor H-151 potently suppressed the activation of the cGAS-STING pathway and ameliorated AD pathogenesis in 5×FAD mice. In conclusion, our present study has identified a critical molecular link between innate immunity and AD and suggests that therapeutic targeting of the cGAS-STING pathway activity might effectively interfere with the progression of AD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A single-cell transcriptomic atlas of exercise-induced anti-inflammatory and geroprotective effects across the body</title>
@@ -69,6 +94,31 @@
       <guid>https://example.com/article/36603210/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Liver fibrosis is a progressive pathological process induced by various stimuli and may progress to liver cirrhosis and cancer. Forsythiaside A (FA) is an active ingredient extracted from traditional Chinese medicine Forsythiae Fructus and has prominent hepatoprotective activities. However, the unsatisfactory pharmacokinetic properties restrict its clinical application. In this study, the nanocarrier of CD44-specific ligand Hyaluronic acid (HA)-modified milk-derived exosomes (mExo) encapsulated with FA (HA-mExo-FA) is developed. As a result, HA modification could deliver drug-loaded exosomes to the target cells and form a specific ligand-receptor interaction with CD44, thus improving the anti-liver fibrosis effect of FA. In vitro findings indicate that HA-mExo-FA could inhibit TGF-β1-induced LX2 cell proliferation, reduce α-SMA and collagen gene and protein levels, and promote the apoptosis of activated LX2 cells. In vivo results demonstrate that HA-mExo-FA could improve liver morphology and function changes in zebrafish larvae. The anti-liver fibrosis mechanism of HA-mExo-FA may be attributed to the inhibition of NLRP3-mediated pyroptosis. In addition, the effect of HA-mExo-FA on TAA-induced increase in NLRP3 production is attenuated by NLRP3 inhibitor MCC950. Collectively, this study demonstrates the promising application of HA-mExo-FA in drug delivery with high specificity and provides a powerful and novel delivery platform for liver fibrosis therapy. This article is protected by copyright.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Development of a 32-gene signature using machine learning for accurate prediction of inflammatory bowel disease</title>
+      <link>https://example.com/article/36600111/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36600111/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammatory bowel disease (IBD) is a chronic inflammatory condition caused by multiple genetic and environmental factors. Numerous genes are implicated in the etiology of IBD, but the diagnosis of IBD is challenging. Here, XGBoost, a machine learning prediction model, has been used to distinguish IBD from healthy cases following elaborative feature selection. Using combined unsupervised clustering analysis and the XGBoost feature selection method, we successfully identified a 32-gene signature that can predict IBD occurrence in new cohorts with 0.8651 accuracy. The signature shows enrichment in neutrophil extracellular trap formation and cytokine signaling in the immune system. The probability threshold of the XGBoost-based classification model can be adjusted to fit personalized lifestyle and health status. Therefore, this study reveals potential IBD-related biomarkers that facilitate an effective personalized diagnosis of IBD.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -310,6 +360,31 @@
       <guid>https://example.com/article/36593730/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Adult T-cell leukemia/lymphoma (ATLL) is an aggressive malignancy of CD4+ T lymphocytes caused by human T lymphotropic virus type-1 (HTLV-1) infection. HTLV-1 was brought to the World Health Organization (WHO) and researchers to address its impact on global public health, oncogenicity, and deterioration of the host immune system toward autoimmunity. In a minority of the infected population (3-5%), it can induce inflammatory networks toward HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP), or hijacking the infected CD4+ T lymphocytes into T regulatory subpopulation, stimulating anti-inflammatory signaling networks, and prompting ATLL development. This review critically discusses the complex signaling networks in ATLL pathogenesis during virus-host interactions for better interpretation of oncogenicity and introduces the main candidates in the pathogenesis of ATLL. At least two viral factors, HTLV-1 trans-activator protein (TAX) and HTLV-1 basic leucine zipper factor (HBZ), are implicated in ATLL manifestation, interacting with host responses and deregulating cell signaling in favor of infected cell survival and virus dissemination. Such molecules can be used as potential novel biomarkers for ATLL prognosis or targets for therapy. Moreover, the challenging aspects of HTLV-1 oncogenesis introduced in this review could open new venues for further studies on acute leukemia pathogenesis. These features can aid in the discovery of effective immunotherapies when reversing the gene expression profile toward appropriate immune responses gradually becomes attainable.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Staphylococcal virulence factor HlgB targets the endoplasmic-reticulum-resident E3 ubiquitin ligase AMFR to promote pneumonia</title>
+      <link>https://example.com/article/36593296/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36593296/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Staphylococcus aureus&lt;/em&gt; invades cells and persists intracellularly, causing persistent inflammation that is notoriously difficult to treat. Here we investigated host-pathogen interactions underlying intracellular &lt;em&gt;S. aureus&lt;/em&gt; infection in macrophages and discovered that the endoplasmic reticulum (ER) is an important cellular compartment for intracellular &lt;em&gt;S. aureus&lt;/em&gt; infection. Using CRISPR-Cas9 guide RNA library screening, we determined that the autocrine motility factor receptor (AMFR), an ER-resident E3 ubiquitin ligase, played an essential role in mediating intracellular &lt;em&gt;S. aureus&lt;/em&gt;-induced inflammation. AMFR directly interacted with TAK1-binding protein 3 (TAB3) in the ER, inducing K27-linked polyubiquitination of TAB3 on lysine 649 and promoting TAK1 activation. Moreover, the virulence factor γ-haemolysin B (HIgB) of &lt;em&gt;S. aureus&lt;/em&gt; bound to the AMFR and regulated TAB3. Our findings highlight an unknown role of AMFR in intracellular &lt;em&gt;S. aureus&lt;/em&gt; infection-induced pneumonia and suggest that pharmacological interruption of AMFR-mediated TAB3 signalling cascades and HIgB targeting may prevent invasive staphylococci-mediated pneumonia.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -810,6 +885,31 @@
       <guid>https://example.com/article/36549394/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Influenza A virus infection causes considerable morbidity and mortality each year globally, and secondary bacterial infection further exacerbates the severity and fatality of the initial viral infection. Mast cells have substantial roles in protecting the respiratory tract mucosa, while their role in viral and bacterial co-infection remains unclear. The present study revealed that secondary Staphylococcus aureus infection significantly aggravated the activation of mast cells during the initial H1N1 infection both in vivo and in vitro, which was closely related to the increased inflammatory lung injury and mortality. Meanwhile, the secondary S. aureus infection suppressed autophagy and promoted inflammatory mediators released by mast cells through activating the PI3K/Akt signaling pathway. Blocking PI3K/Akt pathway by LY294002, an inhibitor of Akt phosphorylation, could rescue autophagy and inhibit the release of inflammatory mediators. Furthermore, based on the influenza A viral and secondary bacterial infected mice model, we showed that the combination of LY294002 and antiviral drug oseltamivir could effectively reduce the inflammatory damage and pro-inflammatory cytokines releasing in lungs, recovering body weight loss and improving the survival rate from the co-infections. In conclusion, secondary bacterial infection can inhibit autophagy and stimulate mast cell activation through the PI3K/Akt pathway, which might explain why secondary bacterial infection would cause severe and fatal consequences following an initial influenza A viral infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Polystyrene microplastics significantly facilitate influenza A virus infection of host cells</title>
+      <link>https://example.com/article/36623344/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36623344/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microplastics (MPs) are emerging pollutants which exist in various environments and pose a potential threat to human health. However, the effect of MP on respiratory pathogens-infected organisms is unknown. In order to explore the effect of MP on respiratory pathogen infection, we studied the effect of polystyrene microplastics (PS) on influenza A virus (IAV)-infected A549 cells. Western blot, qPCR, and viral plaque assay demonstrated that PS could promote IAV infection. Further study by bioluminescence imaging showed that a large number of IAV could be enriched on PS and entered cells through endocytosis. Meanwhile, the expression of IFITM3 in cells was significantly reduced. In addition, our results showed that PS down-regulated IRF3 and its active form P-IRF3 by down-regulating RIG-I and inhibiting TBK1 phosphorylation activation, which then significantly reduced IFN-β expression and affected the cellular innate antiviral immune system. Taken together, our results indicate the potential threat of MPs to respiratory diseases caused by IAV and provide new insights into human health protection.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4370,6 +4470,61 @@
     </item>
     
     <item>
+      <title>Novel Requirement for Staphylococcal Cell Wall-Anchored Protein SasD in Pulmonary Infection</title>
+      <link>https://example.com/article/36040164/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36040164/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Staphylococcus aureus&lt;/em&gt; can complicate preceding viral infections, including influenza virus. A bacterial infection combined with a preceding viral infection, known as superinfection, leads to worse outcomes than a single infection. Most of the pulmonary infection literature focuses on the changes in immune responses to bacteria between homeostatic and virally infected lungs. However, it is unclear how much of an influence bacterial virulence factors have in single or superinfection. Staphylococcal species express a broad range of cell wall-anchored proteins (CWAs) that have roles in host adhesion, nutrient acquisition, and immune evasion. We screened the importance of these CWAs using mutants lacking individual CWAs in vivo in both bacterial pneumonia and influenza superinfection. In bacterial pneumonia, the lack of individual CWAs leads to various decreases in bacterial burden, lung damage, and immune infiltration into the lung. However, the presence of a preceding influenza infection partially abrogates the requirement for CWAs. In the screen, we found that the uncharacterized CWA &lt;em&gt;S. aureus&lt;/em&gt; surface protein D (SasD) induced changes in both inflammatory and homeostatic lung markers. We further characterized a SasD mutant (sasD A50.1) in the context of pneumonia. Mice infected with sasD A50.1 have decreased bacterial burden, inflammatory responses, and mortality compared to wild-type &lt;em&gt;S. aureus&lt;/em&gt;. Mice also have reduced levels of interleukin-1β (IL-1β), likely derived from macrophages. Reductions in IL-1β transcript levels as well as increased macrophage viability point at differences in cell death pathways. These data identify a novel virulence factor for &lt;em&gt;S. aureus&lt;/em&gt; that influences inflammatory signaling within the lung.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Staphylococcus aureus&lt;/em&gt; is a common commensal bacterium that can cause severe infections, such as pneumonia. In the lung, viral infections increase the risk of staphylococcal pneumonia, leading to combined infections known as superinfections. The most common virus associated with &lt;em&gt;S. aureus&lt;/em&gt; pneumonia is influenza, and superinfections lead to worse patient outcomes than either infection alone. While there is much known about how the immune system differs between healthy and virally infected lungs, the role of bacterial virulence factors in single and superinfection is less understood. The significance of our research is identifying bacterial components that play a role in the initiation of lung injury, which could lead to future therapies to prevent pulmonary single or superinfection with &lt;em&gt;S. aureus&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiR-217-5p inhibits smog (PM2.5)-induced inflammation and oxidative stress response of mouse lung tissues and macrophages through targeting STAT1</title>
+      <link>https://example.com/article/36040387/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36040387/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; To explore the roles of macrophages&amp;rsquo; miR-217-5p in the process of PM2.5 induced acute lung injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; GEO database and KEGG pathway enrichment analysis as well as GSEA were used to predicted the miRNA and associated target signals. And then mice and RAW246.7 macrophages treated with PM2.5 to imitate PM2.5 induced acute lung injury environment and then transfected with miR-217-5p NC or miR-217-5p mimic. The levels of inflammatory factors TNF-α and anti-inflammatory factor IL-10 of mice serum were tested by ELISA. And the pathological changes and ROS level of mouse lung tissues were stained by HE and DHE staining. The proteins expression of phosphorylated-STAT1, total-STAT1, TNF-α, IFN-γ as well as p47, gp91, NOX4 in mice or RAW264.7 cells were tested by western blot or immunofluorescence of RAW264.7 cell slides.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The results of bioinformatics analysis indicated the miR-217 as well as STAT1 were involved PM2.5 associated lung injury. After exposure to PM2.5, the decreased levels of serum TNF-α but not IL-10, consistent with reduced macrophages&amp;rsquo; accumulation as well as decreased ROS levels in lung tissues in miR-217-5p mimic group vs miR-217-5p NC group mice, and moreover, the protein expression levels of phosphorylated&amp;ndash;STAT1, total-STAT1, TNF-α, IFN-γ, p47, gp91 and NOX4 in mouse lung tissues and RTAW246.7 macrophages cells were all significantly reduced with miR-217-5p mimic administration. The above phenomena were reversed by specific STAT1-inhibitor HY-N8107.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; miR-217-5p suppressed the activated STAT1-signal induced inflammation and oxidative stress trigged by PM2.5 in macrophages and resulted in the decreased lung injure caused by PM2.5.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Vitamin D protects silica particles induced lung injury by promoting macrophage polarization in a KLF4-STAT6 manner</title>
       <link>https://example.com/article/36049670/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
@@ -4426,6 +4581,134 @@
       <guid>https://example.com/article/36091002/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fatal influenza (flu) virus infection often activates excessive inflammatory signals, leading to multi-organ failure and death, also referred to as cytokine storm. PPARγ (Peroxisome proliferator-activated receptor gamma) agonists are well-known candidates for cytokine storm modulation. The present study identified that influenza infection reduced PPARγ expression and decreased PPARγ transcription activity in human alveolar macrophages (AMs) from different donors. Treatment with PPARγ agonist Troglitazone ameliorated virus-induced proinflammatory cytokine secretion but did not interfere with the IFN-induced antiviral pathway in human AMs. In contrast, PPARγ antagonist and knockdown of PPARγ in human AMs further enhanced virus-stimulated proinflammatory response. In a mouse model of influenza infection, flu virus dose-dependently reduced PPARγ transcriptional activity and decreased expression of PPARγ. Moreover, PPARγ agonist troglitazone significantly reduced high doses of influenza infection-induced lung pathology. In addition, flu infection reduced PPARγ expression in all mouse macrophages, including AMs, interstitial macrophages, and bone-marrow-derived macrophages but not in alveolar epithelial cells. Our results indicate that the influenza virus specifically targets the PPARγ pathway in macrophages to cause acute injury to the lung.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing the Global Impact on the Mouse Kidney After Traumatic Brain Injury: A Transcriptomic Study</title>
+      <link>https://example.com/article/36042866/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36042866/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; In this study, we use animal models combined with bioinformatics strategies to investigate the potential changes in overall renal transcriptional expression after traumatic brain injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Microarray analysis was performed after kidney acquisition using unilateral controlled cortical impact as the primary mouse TBI model. Multi-oriented gene set enrichment analysis was performed for differentially expressed genes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The results showed that TBI affected the gene set associated with mitochondria function in kidney cells, and a negative enrichment of gene sets associated with immune cell migration and epidermal development was also observed. Analysis of the disease phenotype gene set revealed that differential expression of mitochondria-related genes was associated with lactate metabolism. Alternatively, activation and adhesion of immune cells associated with the complement system may promote autoinflammation in kidney tissue. The simulated immune cell infiltration analysis showed an increase in the proportion of activated memory CD4 T cells and a decrease in the proportion of resting memory CD4 T cells, suggesting that activated memory CD4 T cell infiltration may be involved in the inflammation of renal tissue and cause damage to renal cells, such as principal cells, mesangial cells and loops of Henle cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; This study is the first to reveal the effects of brain trauma on the kidney. TBI may affect the expression of mitochondria function-related gene sets in renal cells by increasing lactate. It may also affect renal mesangial cells by inducing increased infiltration of immune cells through mechanisms related to complement system activation or autoimmune antibodies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intermittent fasting attenuates lipopolysaccharide-induced acute lung injury in mice by modulating macrophage polarization</title>
+      <link>https://example.com/article/36028098/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028098/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is a spectrum of acute and life-threatening pulmonary inflammatory conditions. Treatment of ALI remains a clinical challenge. Recently, intermittent fasting (IF) has been shown to improve health and alleviate many diseases. In this study, we tested whether IF attenuated ALI and investigated the mechanism underlying this process. &lt;em&gt;In vivo&lt;/em&gt;, the effects of IF on ALI were evaluated in a lipopolysaccharide (LPS)-induced murine ALI model. We found that two times of 24-h fasting in a week before ALI efficiently ameliorated LPS-induced lung injury in mice, characterized by alleviated lung lesions, wet-to-dry weight ratio, myeloperoxidase activity, malondialdehyde content, and lower levels of tumor necrosis factor-α, interleukin-6, and interleukin-1β. &lt;em&gt;In vitro&lt;/em&gt;, functional assays were conducted to assess IF on the inflammatory response and macrophage polarization of bone marrow-derived macrophages (BMDMs) treated with LPS or IL-4. And PPARγ antagonist GW9662 and AMPK siRNA were used to test the role of PPARγ and AMPK in the IF-mediated improvement of ALI. The results showed that IF (serum deprivation) suppressed macrophage M1 activation and promoted M2 activation in LPS-treated BMDMs. While, IF also augmented macrophage M2 polarization in IL-4-treated BMDMs. Further mechanistic studies showed that the promotive effect of IF on M2 polarization was related to the activation of the PPARγ and AMPK pathways. In conclusion, this study suggests that IF enhances M2 polarization by activating the AMPK and PPARγ pathways, thus facilitating anti-inflammatory response and ameliorating ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Obesity reprograms the pulmonary polyunsaturated fatty acid-derived lipidome, transcriptome, and gene-oxylipin networks</title>
+      <link>https://example.com/article/36028048/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028048/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obesity exacerbates inflammation upon lung injury; however, the mechanisms by which obesity primes pulmonary dysregulation prior to external injury are not well studied. Herein, we tested the hypothesis that obesity dysregulates pulmonary PUFA metabolism that is central to inflammation initiation and resolution. We first show that a high-fat diet (HFD) administered to C57BL/6J mice increased the relative abundance of pulmonary PUFA-containing triglycerides and the concentration of PUFA-derived oxylipins (particularly prostaglandins and hydroxyeicosatetraenoic acids), independent of an increase in total pulmonary PUFAs, prior to onset of pulmonary inflammation. Experiments with a genetic model of obesity (ob/ob) generally recapitulated the effects of the HFD on the pulmonary oxylipin signature. Subsequent pulmonary next-generation RNA sequencing identified complex and unique transcriptional regulation with the HFD. We found the HFD increased pathways related to glycerophospholipid metabolism and immunity, including a unique elevation in B cell differentiation and signaling. Furthermore, we conducted computational integration of lipidomic with transcriptomic data. These analyses identified novel HFD-driven networks between glycerophospholipid metabolism and B cell receptor signaling with specific PUFA-derived pulmonary oxylipins. Finally, we confirmed the hypothesis by demonstrating that the concentration of pulmonary oxylipins, in addition to inflammatory markers, were generally increased in mice consuming a HFD upon ozone-induced acute lung injury. Collectively, these data show that a HFD dysregulates pulmonary PUFA metabolism prior to external lung injury, which may be a mechanism by which obesity primes the lungs to respond poorly to infectious and/or inflammatory challenges.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pyrogallol enhances therapeutic effect of human umbilical cord mesenchymal stem cells against LPS-mediated inflammation and lung injury via activation of Nrf2/HO-1 signaling</title>
+      <link>https://example.com/article/36028178/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028178/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The main challenges in clinical applications of mesenchymal stem cells (MSCs) are attributed to their heterogeneity. It is believed that preconditioning of MSCs with active compounds may enhance the expression of potentially therapeutic molecules and thus achieve stable and effective therapeutic outcomes. In the present study, we investigated the mechanism by which pyrogallol increased the therapeutic efficacy of human umbilical cord mesenchymal stem cells (hUCMSCs) against LPS-induced acute lung injury (ALI). hUCMSCs with pyrogallol treatment increased expression of HO-1 at both mRNA and protein levels, accompanied by Kelch-Like ECH-Associated Protein 1 (Keap1) degradation, and upregulation of the Nrf2 protein levels as well as nuclear translocation of Nrf2. Moreover, the modulation of Keap1 and Nrf2 as well as HO-1 upregulation by pyrogallol was reversed by pretreatment with N-acetylcysteine (NAC) and a P38 kinase inhibitor (SB203580). Whereas, NAC pretreatment abrogated pyrogallol-mediated activation of P38 kinase, indicating that pyrogallol-derived ROS led to P38 kinase activation, thus promoting Nrf2/HO-1 signaling. Additionally, we found that the induction of p62 by the pyrogallol-mediated ROS/P38/Nrf2 axis interacted with Keap1 and resulted in autophagic degradation of Keap1, which created a positive feedback loop to further release of Nrf2. Furthermore, the increased expression of HO-1 in pyrogallol-pretreated hUCMSCs led to enhanced inhibitory effects on LPS-mediated TLR4/P-P65 signaling in BEAS-2B cells, resulting in increasing suppression of LPS-indued expression of a series of pro-inflammatory mediators. Compared to untreated hUCMSCs, Sprague-Dawley (SD) rats with pyrogallol-primed hUCMSCs transplantation showed enhanced improvements in LPS-mediated lung pathological alterations, the increased lung index (lung/body ratio), apoptosis of epithelial cells, the activation of TLR4/NF-κB signaling as well as the release of pro-inflammatory mediators. Together, these results suggested that hUCMSCs with pyrogallol pretreatment enhanced the therapeutic efficacy of hUCMSCs, which may provide a promising therapeutic strategy to maximize the therapeutic efficacy of hUCMSC-based therapy for treating LPS-associated ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rhabdomyolysis-induced acute kidney injury and concomitant apoptosis induction via ROS-mediated ER stress is efficaciously counteracted by epigallocatechin gallate</title>
+      <link>https://example.com/article/36028100/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028100/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rhabdomyolysis induced acute kidney injury (RIAKI) is a life-threatening condition responsible for approximately 19-58% of AKI cases worldwide. We performed an intramuscular injection of glycerol (10 mL/kg) in male wistar rats to induce AKI. Epigallocatechin gallate (EGCG) was administered for 3 consecutive days to evaluate its protective effects. We observed significant downregulation in serum creatinine, blood urea nitrogen (BUN) and LDH at different time points on EGCG treatment groups in a dose-dependent manner. Similarly, H&amp;amp;E staining also revealed that EGCG was able to reduce the formation of damaged tubules and tubular necrosis which was prominently spread throughout the kidney tissue of glycerol treatment group. Concomitantly, we observed upregulated inflammation, ER stress and elevated oxidative stress in the glycerol treated group only, which was significantly normalized upon EGCG treatment in both in vitro and in vivo studies. The occurrence of apoptosis in kidney tubules was found to be relatively higher in glycerol treated group and H2O2 treated HEK-293 cells. The results obtained after EGCG treatment revealed a significant decrease in apoptotic cell population, which was further validated by immunofluorescence staining against p53 and comet assay in HEK-293 cells and p53 IHC in kidney tissues. Western blotting also revealed a systemic downregulation of intrinsic mitochondrial apoptotic pathway markers such as bax, bcl-2, pro and cleaved caspase 3, caspase 9 and PARP1. Additionally, the results for flow cytometry analysis and TUNEL assay corroborated apoptotic equilibrium. Conclusively, we reckon EGCG as a multi-therapeutic natural product that can be used the for treatment of AKI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4678,6 +4961,34 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The 150 male C57 mice underwent middle cerebral artery occlusion (MCAO) for 1 h and reperfusion for 24 h, Among them, 50 MCAO mice were further treated with Mitochondrial division inhibitor 1 (Mdivi-1) and 50 MCAO mice were further treated with N-acetylcysteine (NAC). SH-SY5Y cells were cultured in a low-glucose culture medium for 4 h under hypoxic conditions and then transferred to normal conditions for 12 h. Then, cerebral blood flow, mitochondrial structure, mitochondrial DNA (mtDNA) copy number, intracellular and mitochondrial reactive oxygen species (ROS), autophagic flux, aggresome and exosome expression profiles, cardiac tissue structure, mitochondrial length and cristae density, mtDNA and ROS content, as well as the expression of Drp1-Ser616/Drp1, RIP1/RIP3, LC3 II/LC3 I, TNF-α, IL-1β, etc., were detected under normal or Drp1 interference conditions.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The mtDNA content, ROS levels, and Drp1-Ser616/Drp1 were elevated by 2.2, 1.7 and 2.7 times after CIRI (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). However, the high cytoplasmic LC3 II/I ratio and increased aggregation of p62 could be reversed by 44% and 88% by Drp1 short hairpin RNA (shRNA) (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). The low fluorescence intensity of autophagic flux and the increased phosphorylation of RIP3 induced by CIRI could be attenuated by ROS scavenger, NAC (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). RIP1/RIP3 inhibitor Necrostatin-1 (Nec-1) restored 75% to a low LC3 II/LC3 I ratio and enhanced 2 times to a high RFP-LC3 after Drp1 activation (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). In addition, although CIRI-induced ROS production caused no considerable accumulation of autophagosomes (&lt;em&gt;P&lt;/em&gt; &amp;gt; 0.05), it increased the packaging and extracellular secretion of exosomes containing p62 by 4 - 5 times, which could be decreased by Mdivi-1, Drp1 shRNA, and Nec-1 (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05). Furthermore, TNF-α and IL-1β increased in CIRI-derived exosomes could increase RIP3 phosphorylation in normal or oxygen-glucose deprivation/reoxygenation (OGD/R) conditions (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; CIRI activated Drp1 and accelerated the p62-mediated formation of autophagosomes while inhibiting the transition of autophagosomes to autolysosomes via the RIP1/RIP3 pathway activation. Undegraded autophagosomes were secreted extracellularly in the form of exosomes, leading to inflammatory cascades that further damaged mitochondria, resulting in excessive ROS generation and the blockage of autophagosome degradation, triggering a vicious cycle.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Down-regulated miR-146a expression with increased neutrophil extracellular traps and apoptosis formation in autoimmune-mediated diffuse alveolar hemorrhage</title>
+      <link>https://example.com/article/36028828/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028828/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Increasing evidences have suggested an important role of microRNAs (miRNAs) in regulating cell death processes including NETosis and apoptosis. Dysregulated expression of miRNAs and increased formation of neutrophil extracellular traps (NETs) and apoptosis participate in autoimmune-mediated diffuse alveolar hemorrhage (DAH), mostly associated with pulmonary capillaritis in systemic lupus erythematosus (SLE) patients. In particular, besides the inhibition of apoptosis, miR-146a can control innate and acquired immune responses, and regulate the toll-like receptor pathway through targeting TRAF6 to reduce the expression of pro-inflammatory cytokines/chemokines like IL-8, a NETosis inducer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Expression of miR-146a, TRAF6 and NETs were examined in peripheral blood neutrophils (PBNs) and lung tissues from SLE-associated DAH patients, and in neutrophils and pristane-induced DAH lung tissues from C57BL/6 mice. To assess NETs formation, we examined NETosis-related DNAs morphology and crucial mediators including protein arginine deiminase 4 and citrullinated Histone 3. Expression of miR-146a and its endogenous RNA SNHG16 were studied in HL-60 promyelocytic cells and MLE-12 alveolar cells during NETosis and apoptosis processes, respectively. MiR-146a-overexpressed and CRISPR-Cas13d-mediated SNHG16-silenced HL-60 cells were investigated for NETosis. MiR-146a-overexpressed MLE-12 cells were analyzed for apoptosis. Pristane-injected mice received intra-pulmonary miR-146a delivery to evaluate therapeutic efficacy in DAH.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In DAH patients, there were down-regulated miR-146a levels with increased TRAF6 expression and PMA/LPS-induced NETosis in PBNs, and down-regulated miR-146a levels with increased TRAF6, high-mobility group box 1 (HMGB1), IL-8, NETs and apoptosis expression in lung tissues. HMGB1-stimulated mouse neutrophils had down-regulated miR-146a levels with increased TRAF6, IL-8 and NETs expression. PMA-stimulated HL-60 cells had down-regulated miR-146a levels with enhanced NETosis. MiR-146a-overexpressed or SNHG16-silenced HL-60 cells showed reduced NETosis. Apoptotic MLE-12 cells had down-regulated miR-146a expression and increased HMGB1 release, while miR-146a-overexpressed MLE-12 cells showed reduced apoptosis and HMGB1 production. There were down-regulated miR-146a levels with increased TRAF6, HMGB1, IL-8, NETs and apoptosis expression in mouse DAH lung tissues. Intra-pulmonary miR-146a delivery could suppress DAH by reducing TRAF6, IL-8, NETs and apoptosis expression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our results demonstrate firstly down-regulated pulmonary miR-146a levels with increased TRAF6 and IL-8 expression and NETs and apoptosis formation in autoimmune-mediated DAH, and implicate a therapeutic potential of intra-pulmonary miR-146a delivery.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -5521,6 +5832,31 @@
     </item>
     
     <item>
+      <title>Extracellular vesicle- and particle-mediated communication shapes innate and adaptive immune responses</title>
+      <link>https://example.com/review/34180950/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34180950/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intercellular communication among immune cells is vital for the coordination of proper immune responses. Extracellular vesicles and particles (EVPs) act as messengers in intercellular communication, with important consequences for target cell and organ physiology in both health and disease. Under normal physiological conditions, immune cell-derived EVPs participate in immune responses by regulating innate and adaptive immune responses. EVPs play a major role in antigen presentation and immune activation. On the other hand, immune cell-derived EVPs exert immunosuppressive and regulatory effects. Consequently, EVPs may contribute to pathological conditions, such as autoimmune and inflammatory diseases, graft rejection, and cancer progression and metastasis. Here, we provide an overview of the role of EVPs in immune homeostasis and pathophysiology, with a particular focus on their contribution to innate and adaptive immunity and their potential use for immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Arginine monomethylation by PRMT7 controls MAVS-mediated antiviral innate immunity</title>
       <link>https://example.com/article/34171297/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
@@ -5759,6 +6095,34 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cancer-derived exosomal miR-138-5p modulates polarization of tumor-associated macrophages through inhibition of KDM6B</title>
+      <link>https://example.com/article/34093857/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34093857/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Differential activation of macrophages correlates closely with tumor progression, and the epigenetic factor lysine demethylase 6B (KDM6B, previously named JMJD3) mediates the regulation of macrophage polarization through an unknown mechanism.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We developed a suspension coculture system comprising breast cancer cells and macrophages and used RT-qPCR and western blotting to measure &lt;em&gt;KDM6B&lt;/em&gt; expression. Bioinformatics and luciferase reporter assays were used to identify candidate microRNAs of cancer cells responsible for the downregulation of KDM6B. To determine if exosomes mediated the transfer of miR-138-5p between cancer cells to macrophages, we treated macrophages with exosomes collected from the conditioned medium of cancer cells. The effects of exosomal miR-138-5p on macrophage polarization were measured using RT-qPCR, flow cytometry, and chromatin immunoprecipitation assays. We employed a mouse model of breast cancer, metastatic to the lung, to evaluate the effects on tumor metastasis of macrophages treated with miR-138-5p-enriched exosomes. To develop a diagnostic evaluation index, the levels of exosomal miR-138-5p in samples from patients with breast cancer were compared to those of controls.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Coculture of breast cancer cells led to downregulation of &lt;em&gt;KDM6B&lt;/em&gt; expression in macrophages. Cancer cell-derived exosomal miR-138-5p inhibited M1 polarization and promoted M2 polarization through inhibition of &lt;em&gt;KDM6B&lt;/em&gt; expression in macrophages. Macrophages treated with exosomal miR-138-5p promoted lung metastasis, and the level of circulating exosomal miR-138-5p positively correlated with the progression of breast cancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our data suggest that miR-138-5p was delivered from breast cancer cells to tumor-associated macrophages via exosomes to downregulate &lt;em&gt;KDM6B&lt;/em&gt; expression, inhibit M1 polarization, and stimulate M2 polarization. Therefore, exosomal miR-138-5p represents a promising prognostic marker and target for the treatment of breast cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

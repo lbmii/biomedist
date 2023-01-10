@@ -5,12 +5,62 @@
     <link>https://example.com/tag/techniques/</link>
       <atom:link href="https://example.com/tag/techniques/index.xml" rel="self" type="application/rss+xml" />
     <description>Techniques</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Techniques</title>
       <link>https://example.com/tag/techniques/</link>
     </image>
+    
+    <item>
+      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
+      <link>https://example.com/article/23-01-10-13-33/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Video-based pooled screening yields improved far-red genetically encoded voltage indicators</title>
+      <link>https://example.com/article/23-01-10-13-02/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-10-13-02/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Metagenomic sequencing combined with flow cytometry facilitated a novel microbial risk assessment framework for bacterial pathogens in municipal wastewater without cultivation</title>
@@ -78,6 +128,33 @@
       <guid>https://example.com/article/36599367/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Multiple sclerosis (MS) is a chronic inflammatory disease of the central nervous system (CNS). Astrocytes are heterogeneous CNS-resident glial cells that participate in the pathogenesis of MS and its model experimental autoimmune encephalomyelitis (EAE). However, few unique surface markers are available for the isolation of astrocyte subsets, preventing their analysis and the identification of candidate therapeutic targets; these limitations are further amplified by the rarity of pathogenic astrocytes. To address these challenges, we developed FIND-seq (&lt;u&gt;F&lt;/u&gt;ocused &lt;u&gt;I&lt;/u&gt;nterrogation of cells by &lt;u&gt;N&lt;/u&gt;ucleic acid &lt;u&gt;D&lt;/u&gt;etection and &lt;u&gt;Seq&lt;/u&gt;uencing), a high-throughput microfluidic cytometry method that combines encapsulation of cells in droplets, PCR-based detection of target nucleic acids, and droplet sorting to enable in-depth transcriptomic analyses of cells of interest at single-cell resolution. We applied FIND-seq to study the regulation of astrocytes characterized by the splicing-driven activation of the transcription factor XBP1, which promotes disease pathology in MS and EAE. Using FIND-seq in combination with conditional knock-out mice, in vivo CRISPR/Cas9-driven genetic perturbation studies, and bulk and single-cell RNA-seq analyses of mouse EAE and human MS samples, we identified a new role for the nuclear receptor NR3C2 and its corepressor NCOR2 in limiting XBP1-driven pathogenic astrocyte responses. In summary, FIND-seq enabled the identification of a therapeutically targetable mechanism that limits XBP1-driven pathogenic astrocyte responses. FIND-seq allows the investigation of previously inaccessible cells, including rare cell subsets defined by unique gene expression signatures or other nucleic acid markers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A double-switch pHLIP system enables selective enrichment of circulating tumor microenvironment-derived extracellular vesicles</title>
+      <link>https://example.com/article/36595702/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36595702/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circulating tumor environment-derived extracellular vesicles (cTME-EVs) are a small portion of EVs in blood co-existing with those derived from other tissues; the accurate identification of cTME-EVs could facilitate both fundamental research and clinical liquid biopsy of cancer. In this work, we report the double-switch pH-low insertion peptide (D-S pHLIP) system, which allows selective enrichment of cTME-EVs from blood serum for comprehensive transcriptomic analysis. Plentiful differentially expressed genes and hub genes were identified, demonstrating the high performance of this technology. This work contributes to the design of pHLIP variants for specific functions and the discovery of tumor diagnostic biomarkers and therapeutic targets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circulating tumor microenvironment-derived extracellular vesicles (cTME-EVs) are gaining considerable traction in cancer research and liquid biopsy. However, the study of cTME-EVs is largely limited by the dearth of a general isolation technique to selectively enrich cTME-EVs from biological fluids for downstream analysis. In this work, we broke through this dilemma by presenting a double-switch pH-low insertion peptide (D-S pHLIP) system to exclusively harvest cTME-EVs from the blood serum of tumor mouse models. This D-S pHLIP system consists of a highly sensitive pH-driven conformational switch (pKa ≈ 6.8) that allows specific installation of D-S pHLIP on the EV membranes in TME (pH 6.5 to 6.8) and a unique hook-like switch to &amp;ldquo;lock&amp;rdquo; the peptide securely on the cTME-EVs during the systemic circulation. The D-S pHLIP-anchored cTME-EVs were magnetically enriched and then analyzed with high-resolution messenger RNA sequencing, by which more than 18 times the number of TME-related differentially expressed genes and 10 times the number of hub genes were identified, compared with those achieved by the gold-standard ultracentrifugation. This work could revolutionize basic TME research as well as clinical liquid biopsy for cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -466,6 +543,31 @@
     </item>
     
     <item>
+      <title>Genetic dissection of intercellular interactions in vivo by membrane-permeable protein</title>
+      <link>https://example.com/article/36574652/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36574652/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unraveling cell-cell interaction is fundamental to understanding many biological processes. To date, genetic tools for labeling neighboring cells in mammals are not available. Here, we developed a labeling strategy based on the Cre-induced intercellular labeling protein (CILP). Cre-expressing donor cells release a lipid-soluble and membrane-permeable fluorescent protein that is then taken up by recipient cells, enabling fluorescent labeling of neighboring cells. Using CILP, we specifically labeled endothelial cells surrounding a special population of hepatocytes in adult mice and revealed their distinct gene signatures. Our results highlight the potential of CILP as a platform to reveal cell-cell interactions and communications &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Spatial proteomics in three-dimensional intact specimens</title>
       <link>https://example.com/article/36563667/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
@@ -497,6 +599,38 @@
       <guid>https://example.com/article/36536148/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Probing histone modifications at a single-cell level in thousands of cells has been enabled by technologies such as single-cell CUT&amp;amp;Tag. Here we describe nano-CUT&amp;amp;Tag (nano-CT), which allows simultaneous mapping of up to three epigenomic modalities at single-cell resolution using nanobody-Tn5 fusion proteins. Multimodal nano-CT is compatible with starting materials as low as 25,000-200,000 cells and has significantly higher sensitivity and number of fragments per cell than single-cell CUT&amp;amp;Tag. We use nano-CT to simultaneously profile chromatin accessibility, H3K27ac, and H3K27me3 in juvenile mouse brain, allowing for discrimination of more cell types and states than unimodal single-cell CUT&amp;amp;Tag. We also infer chromatin velocity between assay for transposase-accessible chromatin (ATAC) and H3K27ac in the oligodendrocyte lineage and deconvolute H3K27me3 repressive states, finding two sequential waves of H3K27me3 repression at distinct gene modules during oligodendrocyte lineage progression. Given its high resolution, versatility, and multimodal features, nano-CT allows unique insights in epigenetic landscapes in complex biological systems at the single-cell level.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineered cell entry links receptor biology with single-cell genomics</title>
+      <link>https://example.com/article/36516854/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36516854/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ENTER displays ligands, delivers payloads, and records receptor specificity&lt;/li&gt;
+&lt;li&gt;ENTER enables antigen-specific expansion or depletion of T or B cells&lt;/li&gt;
+&lt;li&gt;ENTER-seq maps TCR specificity, clonality, and cell state in single cells&lt;/li&gt;
+&lt;li&gt;ENTER-seq of patient sample decodes antiviral T cell memory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cells communicate with each other via receptor-ligand interactions. Here, we describe lentiviral-mediated cell entry by engineered receptor-ligand interaction (ENTER) to display ligand proteins, deliver payloads, and record receptor specificity. We optimize ENTER to decode interactions between T cell receptor (TCR)-MHC peptides, antibody-antigen, and other receptor-ligand pairs. A viral presentation strategy allows ENTER to capture interactions between B cell receptor and any antigen. We engineer ENTER to deliver genetic payloads to antigen-specific T or B cells to selectively modulate cellular behavior in mixed populations. Single-cell readout of ENTER by RNA sequencing (ENTER-seq) enables multiplexed enumeration of antigen specificities, TCR clonality, cell type, and states of individual T cells. ENTER-seq of CMV-seropositive patient blood samples reveals the viral epitopes that drive effector memory T cell differentiation and inter-clonal vs. intra-clonal phenotypic diversity targeting the same epitope. ENTER technology enables systematic discovery of receptor specificity, linkage to cell fates, and antigen-specific cargo delivery.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -728,6 +862,31 @@
       <guid>https://example.com/article/36446858/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hepatocytes are very difficult to expand in vitro. A few studies have demonstrated that chemical cocktails with growth factors or Wnt ligands can support long-term expansion of hepatocytes via dedifferentiation. However, the culture conditions are complex, and clonal expansion of hepatic progenitors with full differentiation capacity are rarely reported. Here, we discover IL6, combined with EGF and HGF, promotes long-term expansion (&amp;gt;30 passages in ~150 days with theoretical expansion of ~1035 times) of primary mouse hepatocytes in vitro in simple 2D culture, by converting hepatocytes into induced hepatic progenitor cells (iHPCs), which maintain the capacity of differentiation into hepatocytes. IL6 also supports the establishment of single hepatocyte-derived iHPC clones. The summation of the downstream STAT3, ERK and AKT pathways induces a number of transcription factors which support rapid growth. This physiological and simple way may provide ideas for culturing previously difficult-to-culture cell types and support their future applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
+      <link>https://example.com/article/22120467/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22120467/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between -150 mV and +150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio &amp;gt;10. Arch(D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch(D95N) also resolved individual action potentials. Microbial rhodopsin-based voltage indicators promise to enable optical interrogation of complex neural circuits and electrophysiology in systems for which electrode-based techniques are challenging.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1121,6 +1280,31 @@
     </item>
     
     <item>
+      <title>Generation of Plvap-CreER and Car4-CreER for genetic targeting of distinct lung capillary populations</title>
+      <link>https://example.com/article/36028133/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028133/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It has been reported recently that there are two distinct subpopulations of capillary endothelial cells in the mammalian lungs: gCap (general capillary) and aCap (aerocyte). They are identified by two unique markers, respectively: plasmalemmal vesicle-associated protein (PLVAP) and carbonic anhydrase IV (CAR4). Here, we report two novel knock-in mouse lines Plvap-CreER and Car4-CreER, which genetically target gCap and aCap, respectively. Induced by tamoxifen, the Plvap-CreER and Car4-CreER alleles mediate specific and efficient Cre-loxP recombinations in PLVAP&lt;sup&gt;+&lt;/sup&gt; gCap and CAR4&lt;sup&gt;+&lt;/sup&gt; aCap, respectively, in the lungs. These two mouse lines are useful genetic tools to investigate cell fates and functions of PLVAP&lt;sup&gt;+&lt;/sup&gt; and CAR4&lt;sup&gt;+&lt;/sup&gt; cells in lung homeostasis, injury and repair.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>RAS-RAF-MEK-dependent oxidative cell death involving voltage-dependent anion channels</title>
       <link>https://example.com/article/35851375/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
@@ -1308,6 +1492,31 @@
       <guid>https://example.com/article/34935962/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;There is considerable interest in creating a precise and sensitive strategy for in situ visualizing and profiling intracellular miRNA. Present here is a novel photocaged amplified FRET nanoflare (PAFN), which spatiotemporal controls of mRNA-powered nanomachine for precise and sensitive miRNA imaging in live cells. The PAFN could be activated remotely by light, be triggered by specific low-abundance miRNA and fueled by high-abundance mRNA. It offers high spatiotemporal control over the initial activity of nanomachine at desirable time and site, and a &amp;lsquo;one-to-more&amp;rsquo; ratiometric signal amplification model. The PAFN, an unprecedented design, is quiescent during the delivery process. However, upon reaching the interest tumor site, it can be selectively activated by light, and then be triggered by specific miRNA, avoiding undesirable early activation and reducing nonspecific signals, allowing precise and sensitive detection of specific miRNA in live cells. This strategy may open new avenues for creating spatiotemporally controllable and endogenous molecule-powered nanomachine, facilitating application at biological and medical imaging.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dendritic branch structure compartmentalizes voltage-dependent calcium influx in cortical layer 2/3 pyramidal cells</title>
+      <link>https://example.com/article/35319464/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35319464/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Back-propagating action potentials (bAPs) regulate synaptic plasticity by evoking voltage-dependent calcium influx throughout dendrites. Attenuation of bAP amplitude in distal dendritic compartments alters plasticity in a location-specific manner by reducing bAP-dependent calcium influx. However, it is not known if neurons exhibit branch-specific variability in bAP-dependent calcium signals, independent of distance-dependent attenuation. Here, we reveal that bAPs fail to evoke calcium influx through voltage-gated calcium channels (VGCCs) in a specific population of dendritic branches in mouse cortical layer 2/3 pyramidal cells, despite evoking substantial VGCC-mediated calcium influx in sister branches. These branches contain VGCCs and successfully propagate bAPs in the absence of synaptic input; nevertheless, they fail to exhibit bAP-evoked calcium influx due to a branch-specific reduction in bAP amplitude. We demonstrate that these branches have more elaborate branch structure compared to sister branches, which causes a local reduction in electrotonic impedance and bAP amplitude. Finally, we show that bAPs still amplify synaptically-mediated calcium influx in these branches because of differences in the voltage-dependence and kinetics of VGCCs and NMDA-type glutamate receptors. Branch-specific compartmentalization of bAP-dependent calcium signals may provide a mechanism for neurons to diversify synaptic tuning across the dendritic tree.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1677,6 +1886,56 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Using single-vesicle technologies to unravel the heterogeneity of extracellular vesicles</title>
+      <link>https://example.com/review/34135505/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34135505/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular vesicles (EVs) are heterogeneous lipid containers with a complex molecular cargo comprising several populations with unique roles in biological processes. These vesicles are closely associated with specific physiological features, which makes them invaluable in the detection and monitoring of various diseases. EVs play a key role in pathophysiological processes by actively triggering genetic or metabolic responses. However, the heterogeneity of their structure and composition hinders their application in medical diagnosis and therapies. This diversity makes it difficult to establish their exact physiological roles, and the functions and composition of different EV (sub)populations. Ensemble averaging approaches currently employed for EV characterization, such as western blotting or &amp;lsquo;omics&amp;rsquo; technologies, tend to obscure rather than reveal these heterogeneities. Recent developments in single-vesicle analysis have made it possible to overcome these limitations and have facilitated the development of practical clinical applications. In this review, we discuss the benefits and challenges inherent to the current methods for the analysis of single vesicles and review the contribution of these approaches to the understanding of EV biology. We describe the contributions of these recent technological advances to the characterization and phenotyping of EVs, examination of the role of EVs in cell-to-cell communication pathways and the identification and validation of EVs as disease biomarkers. Finally, we discuss the potential of innovative single-vesicle imaging and analysis methodologies using microfluidic devices, which promise to deliver rapid and effective basic and practical applications for minimally invasive prognosis systems.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Gene-engineered exosomes-thermosensitive liposomes hybrid nanovesicles by the blockade of CD47 signal for combined photothermal therapy and cancer immunotherapy</title>
+      <link>https://example.com/article/34147721/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34147721/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CD47, overexpressed on kinds of tumor cells, activates a &amp;ldquo;don&amp;rsquo;t eat me&amp;rdquo; signal through binding to signal regulatory protein α (SIRPα), leading to immune escape from the mononuclear phagocyte system (MPS). It is also a huge challenge to deliver therapeutic drugs to the tumor sites due to the short retention time in blood, poor targeting of tumor cells and accelerated clearance by MPS. Herein, we designed a hybrid therapeutic nanovesicles, named as hGLV, by fusing gene-engineered exosomes with drug-loaded thermosensitive liposomes. We demonstrated that the CD47-overexpressed hGLV exhibited the long blood circulation and improved the macrophages-mediated the phagocytosis of tumor cells by blocking CD47 signal. Moreover, the resulted hGLV could remarkably target the homologous tumor in mice, achieving the preferential accumulation at the tumor sites. Importantly, hGLV loading the photothermal agent could achieve the excellent photothermal therapy (PTT) under laser irradiation after the intravenous injection, completely eliminating the tumors, leading to immunogenic cell death and generating substantial tumor-associated antigens, which could promote the maturation of immature dendritic cells with the help of the co-encapsulated immune adjuvant to trigger strong immune responses. Generally, the hybrid nanovesicles based on CD47 immune check point blockade can be a promising platform for the drug delivery in cancer treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -2196,6 +2455,35 @@
     </item>
     
     <item>
+      <title>A robotic multidimensional directed evolution approach applied to fluorescent voltage reporters</title>
+      <link>https://example.com/article/29483642/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29483642/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Publisher Correction: &lt;a href=&#34;https://www.nature.com/articles/s41589-018-0023-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;A robotic multidimensional directed evolution approach applied to fluorescent voltage reporters&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We developed a new way to engineer complex proteins toward multidimensional specifications using a simple, yet scalable, directed evolution strategy. By robotically picking mammalian cells that were identified, under a microscope, as expressing proteins that simultaneously exhibit several specific properties, we can screen hundreds of thousands of proteins in a library in just a few hours, evaluating each along multiple performance axes. To demonstrate the power of this approach, we created a genetically encoded fluorescent voltage indicator, simultaneously optimizing its brightness and membrane localization using our microscopy-guided cell-picking strategy. We produced the high-performance opsin-based fluorescent voltage reporter Archon1 and demonstrated its utility by imaging spiking and millivolt-scale subthreshold and synaptic activity in acute mouse brain slices and in larval zebrafish in vivo. We also measured postsynaptic responses downstream of optogenetically controlled neurons in C. elegans.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Optogenetic and chemogenetic techniques for neurogastroenterology</title>
       <link>https://example.com/review/29184183/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
@@ -2227,6 +2515,81 @@
       <guid>https://example.com/article/28137864/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Rotaviruses (RVs) are highly important pathogens that cause severe diarrhea among infants and young children worldwide. The understanding of the molecular mechanisms underlying RV replication and pathogenesis has been hampered by the lack of an entirely plasmid-based reverse genetics system. In this study, we describe the recovery of recombinant RVs entirely from cloned cDNAs. The strategy requires coexpression of a small transmembrane protein that accelerates cell-to-cell fusion and vaccinia virus capping enzyme. We used this system to obtain insights into the process by which RV nonstructural protein NSP1 subverts host innate immune responses. By insertion into the NSP1 gene segment, we recovered recombinant viruses that encode split-green fluorescent protein-tagged NSP1 and NanoLuc luciferase. This technology will provide opportunities for studying RV biology and foster development of RV vaccines and therapeutics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Directed evolution of a far-red fluorescent rhodopsin</title>
+      <link>https://example.com/article/25157169/</link>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/25157169/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microbial rhodopsins are a diverse group of photoactive transmembrane proteins found in all three domains of life. A member of this protein family, Archaerhodopsin-3 (Arch) of halobacterium Halorubrum sodomense, was recently shown to function as a fluorescent indicator of membrane potential when expressed in mammalian neurons. Arch fluorescence, however, is very dim and is not optimal for applications in live-cell imaging. We used directed evolution to identify mutations that dramatically improve the absolute brightness of Arch, as confirmed biochemically and with live-cell imaging (in Escherichia coli and human embryonic kidney 293 cells). In some fluorescent Arch variants, the pK(a) of the protonated Schiff-base linkage to retinal is near neutral pH, a useful feature for voltage-sensing applications. These bright Arch variants enable labeling of biological membranes in the far-red/infrared and exhibit the furthest red-shifted fluorescence emission thus far reported for a fluorescent protein (maximal excitation/emission at ∼ 620 nm/730 nm).&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>All-optical electrophysiology in mammalian neurons using engineered microbial rhodopsins</title>
+      <link>https://example.com/article/24952910/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/24952910/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All-optical electrophysiology-spatially resolved simultaneous optical perturbation and measurement of membrane voltage-would open new vistas in neuroscience research. We evolved two archaerhodopsin-based voltage indicators, QuasAr1 and QuasAr2, which show improved brightness and voltage sensitivity, have microsecond response times and produce no photocurrent. We engineered a channelrhodopsin actuator, CheRiff, which shows high light sensitivity and rapid kinetics and is spectrally orthogonal to the QuasArs. A coexpression vector, Optopatch, enabled cross-talk-free genetically targeted all-optical electrophysiology. In cultured rat neurons, we combined Optopatch with patterned optical excitation to probe back-propagating action potentials (APs) in dendritic spines, synaptic transmission, subcellular microsecond-timescale details of AP propagation, and simultaneous firing of many neurons in a network. Optopatch measurements revealed homeostatic tuning of intrinsic excitability in human stem cell-derived neurons. In rat brain slices, Optopatch induced and reported APs and subthreshold events with high signal-to-noise ratios. The Optopatch platform enables high-throughput, spatially resolved electrophysiology without the use of conventional electrodes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Screening fluorescent voltage indicators with spontaneously spiking HEK cells</title>
+      <link>https://example.com/article/24391999/</link>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/24391999/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Development of improved fluorescent voltage indicators is a key challenge in neuroscience, but progress has been hampered by the low throughput of patch-clamp characterization. We introduce a line of non-fluorescent HEK cells that stably express NaV 1.3 and KIR 2.1 and generate spontaneous electrical action potentials. These cells enable rapid, electrode-free screening of speed and sensitivity of voltage sensitive dyes or fluorescent proteins on a standard fluorescence microscope. We screened a small library of mutants of archaerhodopsin 3 (Arch) in spiking HEK cells and identified two mutants with greater voltage-sensitivity than found in previously published Arch voltage indicators.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

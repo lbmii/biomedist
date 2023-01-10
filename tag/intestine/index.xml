@@ -5,12 +5,62 @@
     <link>https://example.com/tag/intestine/</link>
       <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
     <description>Intestine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Intestine</title>
       <link>https://example.com/tag/intestine/</link>
     </image>
+    
+    <item>
+      <title>Multistain deep learning for prediction of prognosis and therapy response in colorectal cancer</title>
+      <link>https://example.com/article/36624314/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36624314/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although it has long been known that the immune cell composition has a strong prognostic and predictive value in colorectal cancer (CRC), scoring systems such as the immunoscore (IS) or quantification of intraepithelial lymphocytes are only slowly being adopted into clinical routine use and have their limitations. To address this we established and evaluated a multistain deep learning model (MSDLM) utilizing artificial intelligence (AI) to determine the AImmunoscore (AIS) in more than 1,000 patients with CRC. Our model had high prognostic capabilities and outperformed other clinical, molecular and immune cell-based parameters. It could also be used to predict the response to neoadjuvant therapy in patients with rectal cancer. Using an explainable AI approach, we confirmed that the MSDLM&amp;rsquo;s decisions were based on established cellular patterns of anti-tumor immunity. Hence, the AIS could provide clinicians with a valuable decision-making tool based on the tumor immune microenvironment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Development of a 32-gene signature using machine learning for accurate prediction of inflammatory bowel disease</title>
+      <link>https://example.com/article/36600111/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36600111/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammatory bowel disease (IBD) is a chronic inflammatory condition caused by multiple genetic and environmental factors. Numerous genes are implicated in the etiology of IBD, but the diagnosis of IBD is challenging. Here, XGBoost, a machine learning prediction model, has been used to distinguish IBD from healthy cases following elaborative feature selection. Using combined unsupervised clustering analysis and the XGBoost feature selection method, we successfully identified a 32-gene signature that can predict IBD occurrence in new cohorts with 0.8651 accuracy. The signature shows enrichment in neutrophil extracellular trap formation and cytokine signaling in the immune system. The probability threshold of the XGBoost-based classification model can be adjusted to fit personalized lifestyle and health status. Therefore, this study reveals potential IBD-related biomarkers that facilitate an effective personalized diagnosis of IBD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Identification of faecal extracellular vesicles as novel biomarkers for the non-invasive diagnosis and prognosis of colorectal cancer</title>
@@ -19,6 +69,31 @@
       <guid>https://example.com/article/36604402/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Colorectal cancer (CRC) is one of the most common malignancies that is usually detected late in the clinic. The currently available diagnostic tools for CRC are either invasive or insensitive to early lesions due to the dearth of reliable biomarkers. In this study, we discovered that the extracellular vesicles (EVs) in the faeces of CRC patients can act as a potent biomarker for the non-invasive diagnosis and prognosis of CRC. This finding is based on the identification of two transmembrane proteins-CD147 and A33-on faeces-derived EVs (fEVs) that are intrinsically associated with CRC. The detection results show that the levels of CD147 and A33 on fEVs were upregulated in the CRC patients (n = 48), dramatically distinguishing them from the healthy donors (n = 16). The CD147/A33-enriched EVs offer a clinical sensitivity of 89%, much higher than that (40%) of carcinoembryonic antigen (CEA), a clinically-established serum biomarker for CRC diagnosis. In addition, the analysis of longitudinal faeces samples (n = 29) demonstrated that the CD147/A33-enriched fEVs can be utilized to track the prognosis of CRC. Due to the high compliance of faeces-based detection, the CD147/A33-enriched fEVs could serve as new-generation CRC biomarkers for large-scale, non-invasive CRC screening as well as real-time monitoring of patient outcomes during clinical interventions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>TRIM27 maintains gut homeostasis by promoting intestinal stem cell self-renewal</title>
+      <link>https://example.com/article/36596873/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36596873/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysregulation of gut homeostasis is associated with irritable bowel syndrome (IBS), a chronic functional gastrointestinal disorder affecting approximately 11.2% of the global population. The poorly understood pathogenesis of IBS has impeded its treatment. Here, we report that the E3 ubiquitin ligase tripartite motif-containing 27 (TRIM27) is weakly expressed in IBS but highly expressed in inflammatory bowel disease (IBD), a frequent chronic organic gastrointestinal disorder. Accordingly, knockout of &lt;em&gt;Trim27&lt;/em&gt; in mice causes spontaneously occurring IBS-like symptoms, including increased visceral hyperalgesia and abnormal stool features, as observed in IBS patients. Mechanistically, TRIM27 stabilizes β-catenin and thus activates Wnt/β-catenin signaling to promote intestinal stem cell (ISC) self-renewal. Consistent with these findings, &lt;em&gt;Trim27&lt;/em&gt; deficiency disrupts organoid formation, which is rescued by reintroducing TRIM27 or β-catenin. Furthermore, Wnt/β-catenin signaling activator treatment ameliorates IBS symptoms by promoting ISC self-renewal. Taken together, these data indicate that TRIM27 is critical for maintaining gut homeostasis, suggesting that targeting the TRIM27/Wnt/β-catenin axis could be a potential treatment strategy for IBS. Our study also indicates that TRIM27 might serve as a potential biomarker for differentiating IBS from IBD.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1243,6 +1318,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nanoparticles: Attractive tools to treat colorectal cancer</title>
+      <link>https://example.com/review/36028154/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36028154/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colorectal Cancer (CRC) is one of the leading causes of cancer-related deaths worldwide. Despite the notable advances achieved over the last few decades, CRC remains a hard-to-treat deadly disease in many patients. This is attributed mainly to chemo- and immuno-resistance, which frequently emerge soon after treatment with conventional therapeutics. Systemic treatments are also constrained by their many undesired and serious side effects. More recently, nanomedicine has emerged as an attractive modality that can overcome issues of therapeutic resistance, improper delivery, or suboptimal targeting of tumor cells. Many nanomaterials, having already been examined in pre-clinical and clinical studies, are now considered biocompatible and relatively safe. Indeed, around 50 nano-formulations have so far been approved as diagnostic and therapeutic agents in humans. Here, in this review, we describe a set of imperative nanoparticles (NPs) involved in diagnosing and treating CRC. In particular, we discuss the theragnostic roles of quantum dots, iron oxide NPs, Polylactide-co-glycolic acid (PLGA) NPs, dendrimer NPs, carbon nanotubes, liposomes, and gold NPs. We dissect the molecular and clinical evidence supporting the use of these NPs in CRC. We also highlight their implications in targeted drug delivery as well as their anti-tumorigenic properties and effects on the cardinal hallmarks of CRC. We conclude by highlighting the notion that nanomedicine is emerging as an attractive approach to address the unmet needs in managing several diseases, including CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
