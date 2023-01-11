@@ -5,12 +5,37 @@
     <link>https://example.com/tag/matrix/</link>
       <atom:link href="https://example.com/tag/matrix/index.xml" rel="self" type="application/rss+xml" />
     <description>Matrix</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Matrix</title>
       <link>https://example.com/tag/matrix/</link>
     </image>
+    
+    <item>
+      <title>Increased expression and accumulation of GDF15 in IPF extracellular matrix contribute to fibrosis</title>
+      <link>https://example.com/article/35993367/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35993367/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Idiopathic pulmonary fibrosis (IPF) is a chronic disease of unmet medical need. It is characterized by formation of scar tissue leading to a progressive and irreversible decline in lung function. IPF is associated with repeated injury, which may alter the composition of the extracellular matrix (ECM). Here, we demonstrate that IPF patient-derived pulmonary ECM drives profibrotic response in normal human lung fibroblasts (NHLF) in a 3D spheroid assay. Next, we reveal distinct alterations in composition of the diseased ECM, identifying potentially novel associations with IPF. Growth differentiation factor 15 (GDF15) was identified among the most significantly upregulated proteins in the IPF lung-derived ECM. In vivo, GDF15 neutralization in a bleomycin-induced lung fibrosis model led to significantly less fibrosis. In vitro, recombinant GDF15 (rGDF15) stimulated α smooth muscle actin (αSMA) expression in NHLF, and this was mediated by the activin receptor-like kinase 5 (ALK5) receptor. Furthermore, in the presence of rGDF15, the migration of NHLF in collagen gel was reduced. In addition, we observed a cell type-dependent effect of GDF15 on the expression of cell senescence markers. Our data suggest that GDF15 mediates lung fibrosis through fibroblast activation and differentiation, implicating a potential direct role of this matrix-associated cytokine in promoting aberrant cell responses in disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Highway to heal: Influence of altered extracellular matrix on infiltrating immune cells during acute and chronic lung diseases</title>

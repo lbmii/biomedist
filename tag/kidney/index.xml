@@ -5,12 +5,40 @@
     <link>https://example.com/tag/kidney/</link>
       <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Kidney</title>
       <link>https://example.com/tag/kidney/</link>
     </image>
+    
+    <item>
+      <title>Single-cell transcriptomics reveals a mechanosensitive injury signaling pathway in early diabetic nephropathy</title>
+      <link>https://example.com/article/36627643/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36627643/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Diabetic nephropathy (DN) is the leading cause of end-stage renal disease, and histopathologic glomerular lesions are among the earliest structural alterations of DN. However, the signaling pathways that initiate these glomerular alterations are incompletely understood.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; To delineate the cellular and molecular basis for DN initiation, we performed single-cell and bulk RNA sequencing of renal cells from type 2 diabetes mice (BTBR ob/ob) at the early stage of DN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Analysis of differentially expressed genes revealed glucose-independent responses in glomerular cell types. The gene regulatory network upstream of glomerular cell programs suggested the activation of mechanosensitive transcriptional pathway MRTF-SRF predominantly taking place in mesangial cells. Importantly, activation of MRTF-SRF transcriptional pathway was also identified in DN glomeruli in independent patient cohort datasets. Furthermore, ex vivo kidney perfusion suggested that the regulation of MRTF-SRF is a common mechanism in response to glomerular hyperfiltration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Overall, our study presents a comprehensive single-cell transcriptomic landscape of early DN, highlighting mechanosensitive signaling pathways as novel targets of diabetic glomerulopathy.Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Gasdermins and pyroptosis in the kidney</title>
@@ -1262,6 +1290,33 @@
       <guid>https://example.com/article/36028100/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Rhabdomyolysis induced acute kidney injury (RIAKI) is a life-threatening condition responsible for approximately 19-58% of AKI cases worldwide. We performed an intramuscular injection of glycerol (10 mL/kg) in male wistar rats to induce AKI. Epigallocatechin gallate (EGCG) was administered for 3 consecutive days to evaluate its protective effects. We observed significant downregulation in serum creatinine, blood urea nitrogen (BUN) and LDH at different time points on EGCG treatment groups in a dose-dependent manner. Similarly, H&amp;amp;E staining also revealed that EGCG was able to reduce the formation of damaged tubules and tubular necrosis which was prominently spread throughout the kidney tissue of glycerol treatment group. Concomitantly, we observed upregulated inflammation, ER stress and elevated oxidative stress in the glycerol treated group only, which was significantly normalized upon EGCG treatment in both in vitro and in vivo studies. The occurrence of apoptosis in kidney tubules was found to be relatively higher in glycerol treated group and H2O2 treated HEK-293 cells. The results obtained after EGCG treatment revealed a significant decrease in apoptotic cell population, which was further validated by immunofluorescence staining against p53 and comet assay in HEK-293 cells and p53 IHC in kidney tissues. Western blotting also revealed a systemic downregulation of intrinsic mitochondrial apoptotic pathway markers such as bax, bcl-2, pro and cleaved caspase 3, caspase 9 and PARP1. Additionally, the results for flow cytometry analysis and TUNEL assay corroborated apoptotic equilibrium. Conclusively, we reckon EGCG as a multi-therapeutic natural product that can be used the for treatment of AKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Blocking CHOP-dependent TXNIP shuttling to mitochondria attenuates albuminuria and mitigates kidney injury in nephrotic syndrome</title>
+      <link>https://example.com/article/35994650/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35994650/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Albuminuria is the hallmark of nephrotic syndrome (NS), a leading cause of chronic kidney disease affecting 500 million people worldwide. Thus, there is a clear need to discover novel drug targets to treat proteinuric kidney disease. We demonstrate that thioredoxin-interacting protein (TXNIP), a redox protein that forms the complex with antioxidant oxidoreductase thioredoxin (Trx), relocates from nucleus to mitochondria when C/EBP homologous protein (CHOP), a major endoplasmic reticulum (ER) stress-associated transcription factor, is induced by albuminuria. TXNIP shuttling to mitochondria is essential for mitochondrial reactive oxygen species (ROS) production, which oxidizes mitochondrial-specific Trx2 and disrupts the association between Trx2-TXNIP and Trx2-ASK1 in mitochondria, leading to NLRP3 inflammasome activation and mitochondria-dependent apoptosis. Thus, TXNIP is a potential target to treat NS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Albuminuria is a hallmark of glomerular disease of various etiologies. It is not only a symptom of glomerular disease but also a cause leading to glomerulosclerosis, interstitial fibrosis, and eventually, a decline in kidney function. The molecular mechanism underlying albuminuria-induced kidney injury remains poorly defined. In our genetic model of nephrotic syndrome (NS), we have identified CHOP (C/EBP homologous protein)-TXNIP (thioredoxin-interacting protein) as critical molecular linkers between albuminuria-induced ER dysfunction and mitochondria dyshomeostasis. TXNIP is a ubiquitously expressed redox protein that binds to and inhibits antioxidant enzyme, cytosolic thioredoxin 1 (Trx1), and mitochondrial Trx2. However, very little is known about the regulation and function of TXNIP in NS. By utilizing &lt;em&gt;Chop&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; and &lt;em&gt;Txnip&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice as well as &lt;sup&gt;68&lt;/sup&gt;Ga-Galuminox, our molecular imaging probe for detection of mitochondrial reactive oxygen species (ROS) in vivo, we demonstrate that CHOP up-regulation induced by albuminuria drives TXNIP shuttling from nucleus to mitochondria, where it is required for the induction of mitochondrial ROS. The increased ROS accumulation in mitochondria oxidizes Trx2, thus liberating TXNIP to associate with mitochondrial nod-like receptor protein 3 (NLRP3) to activate inflammasome, as well as releasing mitochondrial apoptosis signal-regulating kinase 1 (ASK1) to induce mitochondria-dependent apoptosis. Importantly, inhibition of TXNIP translocation and mitochondrial ROS overproduction by CHOP deletion suppresses NLRP3 inflammasome activation and p-ASK1-dependent mitochondria apoptosis in NS. Thus, targeting TXNIP represents a promising therapeutic strategy for the treatment of NS.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
