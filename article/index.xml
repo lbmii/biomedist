@@ -5,12 +5,37 @@
     <link>https://example.com/article/</link>
       <atom:link href="https://example.com/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Proceedings of Scientific Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Proceedings of Scientific Research</title>
       <link>https://example.com/article/</link>
     </image>
+    
+    <item>
+      <title>Oxidative stress-triggered Wnt signaling perturbation characterizes the tipping point of lung adeno-to-squamous transdifferentiation</title>
+      <link>https://example.com/article/36627278/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36627278/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Lkb1&lt;/em&gt; deficiency confers the Kras-mutant lung cancer with strong plasticity and the potential for adeno-to-squamous transdifferentiation (AST). However, it remains largely unknown how &lt;em&gt;Lkb1&lt;/em&gt; deficiency dynamically regulates AST. Using the classical AST mouse model (&lt;em&gt;Kras&lt;sup&gt;LSL-G12D/+&lt;/sup&gt;&lt;/em&gt;;&lt;em&gt;Lkb1&lt;sup&gt;flox/flox&lt;/sup&gt;&lt;/em&gt;, KL), we here comprehensively analyze the temporal transcriptomic dynamics of lung tumors at different stages by dynamic network biomarker (DNB) and identify the tipping point at which the Wnt signaling is abruptly suppressed by the excessive accumulation of reactive oxygen species (ROS) through its downstream effector FOXO3A. Bidirectional genetic perturbation of the Wnt pathway using two different &lt;em&gt;Ctnnb1&lt;/em&gt; conditional knockout mouse strains confirms its essential role in the negative regulation of AST. Importantly, pharmacological activation of the Wnt pathway before but not after the tipping point inhibits squamous transdifferentiation, highlighting the irreversibility of AST after crossing the tipping point. Through comparative transcriptomic analyses of mouse and human tumors, we find that the lineage-specific transcription factors (TFs) of adenocarcinoma and squamous cell carcinoma form a &amp;ldquo;Yin-Yang&amp;rdquo; counteracting network. Interestingly, inactivation of the Wnt pathway preferentially suppresses the adenomatous lineage TF network and thus disrupts the &amp;ldquo;Yin-Yang&amp;rdquo; homeostasis to lean towards the squamous lineage, whereas ectopic expression of NKX2-1, an adenomatous lineage TF, significantly dampens such phenotypic transition accelerated by the Wnt pathway inactivation. The negative correlation between the Wnt pathway and AST is further observed in a large cohort of human lung adenosquamous carcinoma. Collectively, our study identifies the tipping point of AST and highlights an essential role of the ROS-Wnt axis in dynamically orchestrating the homeostasis between adeno- and squamous-specific TF networks at the AST tipping point.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Hypercapnia alters stromal-derived Wnt production limiting β-catenin signaling and proliferation in alveolar type 2 cells</title>
@@ -295,10 +320,35 @@
     </item>
     
     <item>
-      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
-      <link>https://example.com/article/23-01-10-13-33/</link>
+      <title>Programmable A-to-Y base editing by fusing an adenine base editor with an N-methylpurine DNA glycosylase</title>
+      <link>https://example.com/article/36624150/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <guid>https://example.com/article/36624150/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here we developed an adenine transversion base editor, AYBE, for A-to-C and A-to-T transversion editing in mammalian cells by fusing an adenine base editor (ABE) with hypoxanthine excision protein N-methylpurine DNA glycosylase (MPG). We also engineered AYBE variants enabling targeted editing at genomic loci with higher transversion editing activity (up to 72% for A-to-C or A-to-T editing).&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
+      <link>https://example.com/article/36624346/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36624346/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -321,9 +371,9 @@
     
     <item>
       <title>Video-based pooled screening yields improved far-red genetically encoded voltage indicators</title>
-      <link>https://example.com/article/23-01-10-13-02/</link>
+      <link>https://example.com/article/36624211/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-10-13-02/</guid>
+      <guid>https://example.com/article/36624211/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -1017,6 +1067,31 @@
       <guid>https://example.com/article/36586671/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Extracellular vesicles (EVs) are nano-sized carriers that reflect the parent cell&amp;rsquo;s information and are known to mediate cell-cell communication. In order to overcome the disadvantages of mesenchymal stem cells (MSCs) in cell therapy, such as unexpected differentiation leading to tumorization, immune rejection, and other side effects, EVs derived from MSCs (MSC-EVs) with the tissue regenerative function have been studied as new cell-free therapeutics. However, therapeutic applications of EVs require overcoming several challenges. First, the production efficiency of MSC-EVs should be increased at least as much as the quantity of them are required to their clinical application; second, MSC-EVs needs to show various functionality further, thereby increasing tissue regeneration efficiency. In this study, we treated tauroursodeoxycholic acid (TUDCA), a biological derivative known to regulate cholesterol, to MSCs and investigated whether TUDCA treatment would be able to increase EV production efficiency and tissue regenerative capacity of EVs. Indeed, it appears that TUDCA priming to MSC increases the yield of MSC-EVs &amp;gt;2 times by reducing the cellular cholesterol level in MSCs and increasing the exocytosis-related CAV1 expression. Interestingly, it was found that the EVs derived from TUDCA-primed MSCs (T-EV) contained higher amounts of anti-inflammatory cytokines (IL1RN, IL6, IL10, and IL11) and osteogenic proteins (ALP, RUNX2, BMP2, BMPR1, and BMPR2) than those in control MSC-EVs (C-EV). Besides, it was shown that T-EV not only regulated M1/M2 macrophages differentiation of monocytes, also effectively increased the osteogenic differentiation of MSCs as well as bone tissue regeneration in a bone defect rat model. Based on these results, it is concluded that TUDCA treatment to MSC as a new approach endows EV with high-yield production and functionality. Thus, we strongly believe T-EV would be a powerful therapeutic material for bone tissue regeneration and potentially could be expanded to other types of tissue regeneration for clinical applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Gut microbiome dysregulation drives bone damage in broiler tibial dyschondroplasia by disrupting glucose homeostasis</title>
+      <link>https://example.com/article/36596826/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36596826/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tibial dyschondroplasia (TD) with multiple incentives is a metabolic skeletal disease that occurs in fast-growing broilers. Perturbations in the gut microbiota (GM) have been shown to affect bone homoeostasis, but the mechanisms by which GM modulates bone metabolism in TD broilers remain unknown. Here, using a broiler model of TD, we noted elevated blood glucose (GLU) levels in TD broilers, accompanied by alterations in the pancreatic structure and secretory function and damaged intestinal barrier function. Importantly, faecal microbiota transplantation (FMT) of gut microbes from normal donors rehabilitated the GM and decreased the elevated GLU levels in TD broilers. A high GLU level is a predisposing factor to bone disease, suggesting that GM dysbiosis-mediated hyperglycaemia might be involved in bone regulation. 16S rRNA gene sequencing and short-chain fatty acid analysis revealed that the significantly increased level of the metabolite butyric acid derived from the genera &lt;em&gt;Blautia&lt;/em&gt; and &lt;em&gt;Coprococcus&lt;/em&gt; regulated GLU levels in TD broilers by binding to GPR109A in the pancreas. Tibial studies showed reduced expression of vascular regulatory factors (including PI3K, AKT and VEFGA) based on transcriptomics analysis and reduced vascular distribution, contributing to nonvascularization of cartilage in the proximal tibial growth plate of TD broilers with elevated GLU levels. Additionally, treatment with the total flavonoids from Rhizoma drynariae further validated the improvement in bone homoeostasis in TD broilers by regulating GLU levels through the regulation of GM to subsequently improve intestinal and pancreatic function. These findings clarify the critical role of GM-mediated changes in GLU levels via the gut–pancreas axis in bone homoeostasis in TD chickens.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2086,6 +2161,31 @@
     </item>
     
     <item>
+      <title>NetAct: a computational platform to construct core transcription factor regulatory networks using gene activity</title>
+      <link>https://example.com/article/36575445/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36575445/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A major question in systems biology is how to identify the core gene regulatory circuit that governs the decision-making of a biological process. Here, we develop a computational platform, named NetAct, for constructing core transcription factor regulatory networks using both transcriptomics data and literature-based transcription factor-target databases. NetAct robustly infers regulators&amp;rsquo; activity using target expression, constructs networks based on transcriptional activity, and integrates mathematical modeling for validation. Our in silico benchmark test shows that NetAct outperforms existing algorithms in inferring transcriptional activity and gene networks. We illustrate the application of NetAct to model networks driving TGF-β-induced epithelial-mesenchymal transition and macrophage polarization.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Oral Delivery of siRNA Using Fluorinated, Small-Sized Nanocapsules Toward Anti-Inflammation Treatment</title>
       <link>https://example.com/article/36574636/</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
@@ -2699,6 +2799,38 @@
     </item>
     
     <item>
+      <title>Metabolic adaptation supports enhanced macrophage efferocytosis in limited-oxygen environments</title>
+      <link>https://example.com/article/36584675/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36584675/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chronic physiological hypoxia enhances macrophage apoptotic cell uptake and degradation&lt;/li&gt;
+&lt;li&gt;Chronic physiological hypoxia induces both primed and poised states in macrophages&lt;/li&gt;
+&lt;li&gt;Both primed and poised state programs directly support enhanced continual efferocytosis&lt;/li&gt;
+&lt;li&gt;A noncanonical PPP loop supports enhanced efferocytosis and maintains redox homeostasis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Apoptotic cell (AC) clearance (efferocytosis) is performed by phagocytes, such as macrophages, that inhabit harsh physiological environments. Here, we find that macrophages display enhanced efferocytosis under prolonged (chronic) physiological hypoxia, characterized by increased internalization and accelerated degradation of ACs. Transcriptional and translational analyses revealed that chronic physiological hypoxia induces two distinct but complimentary states. The first, &amp;ldquo;primed&amp;rdquo; state, consists of concomitant transcription and translation of metabolic programs in AC-naive macrophages that persist during efferocytosis. The second, &amp;ldquo;poised&amp;rdquo; state, consists of transcription, but not translation, of phagocyte function programs in AC-naive macrophages that are translated during efferocytosis. Mechanistically, macrophages efficiently flux glucose into a noncanonical pentose phosphate pathway (PPP) loop to enhance NADPH production. PPP-derived NADPH directly supports enhanced efferocytosis under physiological hypoxia by ensuring phagolysosomal maturation and redox homeostasis. Thus, macrophages residing under physiological hypoxia adopt states that support cell fitness and ensure performance of essential homeostatic functions rapidly and safely.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Neural-Cell-Intrinsic NF-κB Signaling Enhances Reovirus Virulence</title>
       <link>https://example.com/article/36541803/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
@@ -2992,6 +3124,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Inadequate potassium (K&lt;sup&gt;+&lt;/sup&gt;) consumption correlates with increased mortality and poor cardiovascular outcomes. Potassium effects on blood pressure have been described previously; however, whether or not low K&lt;sup&gt;+&lt;/sup&gt; independently affects kidney disease progression remains unclear. Here, we demonstrate that dietary K&lt;sup&gt;+&lt;/sup&gt; deficiency causes direct kidney injury. Effects depend on reduced blood K&lt;sup&gt;+&lt;/sup&gt; and are kidney specific. In response to reduced K&lt;sup&gt;+&lt;/sup&gt;, the channel Kir4.2 mediates altered proximal tubule (PT) basolateral K&lt;sup&gt;+&lt;/sup&gt; flux, causing intracellular acidosis and activation of the enzyme glutaminase and the ammoniagenesis pathway. Deletion of either Kir4.2 or glutaminase protects from low-K&lt;sup&gt;+&lt;/sup&gt; injury. Reduced K&lt;sup&gt;+&lt;/sup&gt;also mediates injury and fibrosis in a model of aldosteronism. These results demonstrate that the PT epithelium, like the distal nephron, is K&lt;sup&gt;+&lt;/sup&gt; sensitive, with reduced blood K&lt;sup&gt;+&lt;/sup&gt; causing direct PT injury. Kir4.2 and glutaminase are essential mediators of this injury process, and we identify their potential for future targeting in the treatment of chronic kidney disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-dependent suppression of biological pacemaker activity induced by TBX18</title>
+      <link>https://example.com/article/36543116/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36543116/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chemically modified mRNA (CMmRNA) with selectively altered nucleotides are used to deliver transgenes, but translation efficiency is variable. We have transfected CMmRNA encoding human T-box transcription factor 18 (CMmTBX18) into heart cells or the left ventricle of rats with atrioventricular block. TBX18 protein expression from CMmTBX18 is weak and transient, but Acriflavine, an Argonaute 2 inhibitor, boosts TBX18 levels. Small RNA sequencing identified two upregulated microRNAs (miRs) in CMmTBX18-transfected cells. Co-administration of miR-1-3p and miR-1b antagomiRs with CMmTBX18 prolongs TBX18 expression in vitro and in vivo and is sufficient to generate electrical stimuli capable of pacing the heart. Different suppressive miRs likewise limit the expression of VEGF-A CMmRNA. Cells therefore resist translation of CMmRNA therapeutic transgenes by upregulating suppressive miRs. Blockade of suppressive miRs enhances CMmRNA expression of genes driving biological pacing or angiogenesis. Such counterstrategies constitute an approach to boost the efficacy and efficiency of CMmRNA therapies.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -9299,6 +9456,31 @@
     </item>
     
     <item>
+      <title>Splicing factor BUD31 promotes ovarian cancer progression through sustaining the expression of anti-apoptotic BCL2L12</title>
+      <link>https://example.com/article/36271053/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36271053/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysregulated expression of splicing factors has important roles in cancer development and progression. However, it remains a challenge to identify the cancer-specific splicing variants. Here we demonstrate that spliceosome component BUD31 is increased in ovarian cancer, and its higher expression predicts worse prognosis. We characterize the BUD31-binding motif and find that BUD31 preferentially binds exon-intron regions near splicing sites. Further analysis reveals that BUD31 inhibition results in extensive exon skipping and a reduced production of long isoforms containing full coding sequence. In particular, we identify &lt;em&gt;BCL2L12&lt;/em&gt;, an anti-apoptotic BCL2 family member, as one of the functional splicing targets of BUD31. BUD31 stimulates the inclusion of exon 3 to generate full-length &lt;em&gt;BCL2L12&lt;/em&gt; and promotes ovarian cancer progression. Knockdown of BUD31 or splice-switching antisense oligonucleotide treatment promotes exon 3 skipping and results in a truncated isoform of &lt;em&gt;BCL2L12&lt;/em&gt; that undergoes nonsense-mediated mRNA decay, and the cells subsequently undergo apoptosis. Our findings reveal BUD31-regulated exon inclusion as a critical factor for ovarian cancer cell survival and cancer progression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The influenza virus PB2 protein evades antiviral innate immunity by inhibiting JAK1/STAT signalling</title>
       <link>https://example.com/article/36271046/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
@@ -12002,6 +12184,31 @@
     </item>
     
     <item>
+      <title>Chitinase 3 like 1 contributes to the development of pulmonary vascular remodeling in pulmonary hypertension</title>
+      <link>https://example.com/article/35951428/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35951428/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chitinase 3 like 1 (CHI3L1) is the prototypic chitinase-like protein mediating inflammation, cell proliferation, and tissue remodeling. Limited data suggest CHI3L1 is elevated in human pulmonary arterial hypertension (PAH) and is associated with disease severity. Despite its importance as a regulator of injury/repair responses, the relationship between CHI3L1 and pulmonary vascular remodeling is not well understood. We hypothesize that CHI3L1 and its signaling pathways contribute to the vascular remodeling responses that occur in pulmonary hypertension (PH). We examined the relationship of plasma CHI3L1 levels and severity of PH in patients with various forms of PH, including group 1 PAH and group 3 PH, and found that circulating levels of serum CHI3L1 were associated with worse hemodynamics and correlated directly with mean pulmonary artery pressure and pulmonary vascular resistance. We also used transgenic mice with constitutive knockout and inducible overexpression of CHI3L1 to examine its role in hypoxia-, monocrotaline-, and bleomycin-induced models of pulmonary vascular disease. In all 3 mouse models of pulmonary vascular disease, pulmonary hypertensive responses were mitigated in CHI3L1-null mice and accentuated in transgenic mice that overexpress CHI3L1. Finally, CHI3L1 alone was sufficient to induce pulmonary arterial smooth muscle cell proliferation, inhibit pulmonary vascular endothelial cell apoptosis, induce the loss of endothelial barrier function, and induce endothelial-mesenchymal transition. These findings demonstrate that CHI3L1 and its receptors play an integral role in pulmonary vascular disease pathobiology and may offer a target for the treatment of PAH and PH associated with fibrotic lung disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CircPAK1 promotes the progression of hepatocellular carcinoma via modulation of YAP nucleus localization by interacting with 14-3-3ζ</title>
       <link>https://example.com/article/36131287/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
@@ -12061,6 +12268,31 @@
       <guid>https://example.com/article/36137043/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tissue-tissue communication by endocrine factors is a vital mechanism for physiologic homeostasis. A systems genetics analysis of transcriptomic and functional data from a cohort of diverse, inbred strains of mice predicted that coagulation factor XI (FXI), a liver-derived protein, protects against diastolic dysfunction, a key trait of heart failure with preserved ejection fraction. This was confirmed using gain- and loss-of-function studies, and FXI was found to activate the bone morphogenetic protein (BMP)-SMAD1/5 pathway in the heart. The proteolytic activity of FXI is required for the cleavage and activation of extracellular matrix-associated BMP7 in the heart, thus inhibiting genes involved in inflammation and fibrosis. Our results reveal a protective role of FXI in heart injury that is distinct from its role in coagulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Selenium-enriched soybean peptides pretreatment attenuates lung injury in mice induced by fine particulate matters (PM2.5) through inhibition of TLR4/NF-κB/IκBα signaling pathway and inflammasome generation</title>
+      <link>https://example.com/article/35979800/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35979800/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study aimed to identify and prepare peptides from selenium (Se)-enriched soybeans and determine whether dietary Se-enriched soybean peptides (Se-SPep) could inhibit lung injury in mice induced by fine particulate matter 2.5 (PM2.5). BALB/c mice were randomly divided into six groups. The mice in the prevention groups were pretreated with 378 mg kg-1 of Se-SPep, soybean peptides (SPep), and Se-enriched soybean protein (Se-SPro), respectively, for four weeks. The mice in the PM2.5 exposure group received concentrated PM2.5 (15 μg per day mice) for 1 h daily from the third week for two weeks. The results showed that the leukocyte and cytokine (IL-1β, IL-6, TNF-α) levels in the bronchoalveolar lavage fluid (BALF) of the PM2.5 exposure group were higher than those in the control group. Se-SPep pretreatment decreased the IL-1β, IL-6, and TNF-α levels compared with the PM2.5 exposure group. Additionally, Se-SPep pretreatment inhibited TLR4/NF-κB/IκBα and NLRP3/ASC/caspase-1 protein expression in the lungs. In conclusion, Se-SPep pretreatment may protect the lungs of the mice against PM2.5-induced inflammation, suggesting that Se-SPep represents a potential preventative agent to inhibit PM2.5-induced lung injury.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -15307,6 +15539,31 @@
     </item>
     
     <item>
+      <title>Bioengineered immunomodulatory organelle targeted nanozymes for photodynamic immunometabolic therapy</title>
+      <link>https://example.com/article/35987351/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35987351/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intelligent nanomedicines integrated with stimuli-responsive components enable on-demand customizable treatment options which would improve therapeutic outcome and reduce systemic toxicity. In this work, we explore the synergistic therapeutic potential of photodynamic therapy and immunometabolic modulation to achieve tumour regression and to trigger an adaptive immunity to prevent tumour recurrence. The therapeutic potential of the fabricated Bioengineered Immunomodulatory Organelle targeted Nanozymes (BIONs) was tested on 3D printed mini-brains which could effectively recapitulate the biologically relevant interactions between glioblastoma cells and macrophages. In the presence of glioblastoma organotypic brain slices, activated BIONs upregulated the cell surface expression of CD86, a costimulatory molecule and CD83, maturation marker, on monocyte derived dendritic cells, suggesting its ability to elicit a strong immune response. Furthermore, the antigen pulsed dendritic cells by chemotaxis and transendothelial migration readily relocate into the draining lymph node where they present the antigenic cargo to enable the proliferation of T lymphocytes. The stealth and tunable catalytic activity of BIONs prevent ROS mediated diseases such as acute kidney injury by providing environment dependent protection without compromising on its promising anti-cancer activity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Blocking CHOP-dependent TXNIP shuttling to mitochondria attenuates albuminuria and mitigates kidney injury in nephrotic syndrome</title>
       <link>https://example.com/article/35994650/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
@@ -15559,6 +15816,31 @@
     </item>
     
     <item>
+      <title>Transposon-activated POU5F1B promotes colorectal cancer growth and metastasis</title>
+      <link>https://example.com/article/35987910/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35987910/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The treatment of colorectal cancer (CRC) is an unmet medical need in absence of early diagnosis. Here, upon characterizing cancer-specific transposable element-driven transpochimeric gene transcripts (TcGTs) produced by this tumor in the SYSCOL cohort, we find that expression of the hominid-restricted retrogene POU5F1B through aberrant activation of a primate-specific endogenous retroviral promoter is a strong negative prognostic biomarker. Correlating this observation, we demonstrate that POU5F1B fosters the proliferation and metastatic potential of CRC cells. We further determine that POU5F1B, in spite of its phylogenetic relationship with the POU5F1/OCT4 transcription factor, is a membrane-enriched protein that associates with protein kinases and known targets or interactors as well as with cytoskeleton-related molecules, and induces intracellular signaling events and the release of trans-acting factors involved in cell growth and cell adhesion. As POU5F1B is an apparently non-essential gene only lowly expressed in normal tissues, and as POU5F1B-containing TcGTs are detected in other tumors besides CRC, our data provide interesting leads for the development of cancer therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Acteoside attenuates RSV-induced lung injury by suppressing necroptosis and regulating metabolism</title>
       <link>https://example.com/article/36059973/</link>
       <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
@@ -15600,6 +15882,86 @@
 &lt;p&gt;In this article, a novel circular RNA, circFIRRE (hsa_circ_0001944) was screened out and identified from RNA-sequencing, and was upregulated in both osteosarcoma cell lines and tissues. Clinically, aberrantly upregulated circFIRRE portended higher metastatic risk and worse prognosis in osteosarcoma patients. Functionally, in vitro, ex vivo and in vivo experiments demonstrated that circFIRRE could drive primary osteosarcoma progression and lung metastasis by inducing both tumor cells and blood vessels, we call as “tumorigenic-angiogenic coupling”. Mechanistically, upregulated circFIRRE was induced by transcription factor YY1, and partially boosted the mRNA and protein level of LUZP1 by sponging miR-486-3p and miR-1225-5p.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We identified circFIRRE as a master regulator in the tumorigenesis and angiogenesis of osteosarcoma, which could be purposed as a novel prognostic biomarker and therapeutic target for refractory osteosarcoma.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hypoxia-induced lncRNA STEAP3-AS1 activates Wnt/β-catenin signaling to promote colorectal cancer progression by preventing m6A-mediated degradation of STEAP3 mRNA</title>
+      <link>https://example.com/article/35986274/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35986274/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Hypoxia, a typical hallmark of solid tumors, exhibits an essential role in the progression of colorectal cancer (CRC), in which the dysregulation of long non-coding RNAs (lncRNAs) is frequently observed. However, the underlying mechanisms are not clearly defined.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The TCGA database was analyzed to identify differential lncRNA expression involved in hypoxia-induced CRC progression. qRT-PCR was conducted to validate the upregulation of lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt; in CRC cell lines and tumor-bearing mouse and zebrafish models under hypoxia. ChIP-qRT-PCR was used to detect the transcriptional activation of STEAP3-AS1 mediated by HIF-1α. RNA-seq, fluorescent in situ hybridization, RNA pulldown, RNA immunoprecipitation, co-immunoprecipitation, immunofluorescence and immunoblot experiments were used to ascertain the involved mechanisms. Functional assays were performed in both in vitro and in vivo models to investigate the regulatory role of &lt;em&gt;STEAP3-AS1&lt;/em&gt;/STEAP3/Wnt/β-catenin axis in CRC proliferation and metastasis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here, we identified a hypoxia-induced antisense lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt; that was highly expressed in clinical CRC tissues and positively correlated with poor prognosis of CRC patients. Upregulation of lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt;, which was induced by HIF-1α-mediated transcriptional activation, facilitated the proliferation and metastasis of CRC cells both in vitro and in vivo. Mechanistically, &lt;em&gt;STEAP3-AS1&lt;/em&gt; interacted competitively with the YTH domain-containing family protein 2 (YTHDF2), a N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A) reader, leading to the disassociation of YTHDF2 with &lt;em&gt;STEAP3&lt;/em&gt; mRNA. This effect protected &lt;em&gt;STEAP3&lt;/em&gt; mRNA from m6A-mediated degradation, enabling the high expression of STEAP3 protein and subsequent production of cellular ferrous iron (Fe&lt;sup&gt;2+&lt;/sup&gt;). Increased Fe&lt;sup&gt;2+&lt;/sup&gt; levels elevated Ser 9 phosphorylation of glycogen synthase kinase 3 beta (GSK3β) and inhibited its kinase activity, thus releasing β-catenin for nuclear translocation and subsequent activation of Wnt signaling to support CRC progression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Taken together, our study highlights the mechanisms of lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt; in facilitating CRC progression involving the &lt;em&gt;STEAP3-AS1&lt;/em&gt;/STEAP3/Wnt/β-catenin axis, which may provide novel diagnostic biomarkers or therapeutic targets to benefit CRC treatment. Hypoxia-induced HIF-1α transcriptionally upregulates the expression of lncRNA STEAP3-AS1, which interacts competitively with YTHDF2, thus upregulating mRNA stability of STEAP3 and consequent STEAP3 protein expression. The enhanced STEAP3 expression results in production of cellular ferrous iron (Fe&lt;sup&gt;2+&lt;/sup&gt;), which induces the Ser 9 phosphorylation and inactivation of GSK3β, releasing β-catenin for nuclear translocation and contributing to subsequent activation of Wnt signaling to promote CRC progression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immune-mediated tubule atrophy promotes acute kidney injury to chronic kidney disease transition</title>
+      <link>https://example.com/article/35986026/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35986026/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Incomplete repair after acute kidney injury can lead to development of chronic kidney disease. To define the mechanism of this response, we compared mice subjected to identical unilateral ischemia-reperfusion kidney injury with either contralateral nephrectomy (where tubule repair predominates) or contralateral kidney intact (where tubule atrophy predominates). By day 14, the kidneys undergoing atrophy had more macrophages with higher expression of chemokines, correlating with a second wave of proinflammatory neutrophil and T cell recruitment accompanied by increased expression of tubular injury genes and a decreased proportion of differentiated tubules. Depletion of neutrophils and T cells after day 5 reduced tubular cell loss and associated kidney atrophy. In kidney biopsies from patients with acute kidney injury, T cell and neutrophil numbers negatively correlated with recovery of estimated glomerular filtration rate. Together, our findings demonstrate that macrophage persistence after injury promotes a T cell- and neutrophil-mediated proinflammatory milieu and progressive tubule damage.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Inhibition of the cardiac fibroblast-enriched histone methyltransferase Dot1L prevents cardiac fibrosis and cardiac dysfunction</title>
+      <link>https://example.com/article/35986422/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35986422/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Cardiac fibrosis is characterized by excessive extracellular matrix deposition that contributes to compromised cardiac function and potentially heart failure. Disruptor of telomeric silencing 1-like (Dot1L) is the catalytic enzyme required for histone H3K79 methylation which has been demonstrated to play a role in transcriptional activation. However, the functions of Dot1L in the process of cardiac fibrosis still remain unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In the present study, we found that endogenous Dot1L is upregulated in cardiac fibroblasts (CFs) treated with angiotensin II (Ang II) or transforming growth factor (TGF)-β1, along with elevated extracellular matrix (ECM) such as fibronectin, collagen I and III. Silencing or inhibiting Dot1L mitigated Ang II-induced myofibroblast generation and fibrogenesis. We identified the transcription factor-forkhead box O (FoxO) 3a as a novel substrate of Dot1L, the transcriptional activating mark H3K79me3 level on the promoter of FoxO3a was increase in activated-CFs, and inhibition of Dot1L markedly decreased FoxO3a transcription accompanied by a significant decrease in the expression of fibrogenic gene. Knockdown of FoxO3a could alleviate ECM deposition induced by Ang II, on the contrary, overexpression FoxO3a resulting in CFs activation. Consistently, in vivo Dot1L ablation rescued myocardial ischemia-induced cardiac fibrosis and improved cardiac function.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings conclude that upregulation of Dot1L results in activation of the cardiac fibroblasts to promote profibrotic gene, eventually causes cardiac fibrosis. Pharmacological targeting for Dot1L might represent a promising therapeutic approach for the treatment of human cardiac fibrosis and other fibrotic diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -15700,6 +16062,31 @@
     </item>
     
     <item>
+      <title>HER2 drives lung fibrosis by activating a metastatic cancer signature in invasive lung fibroblasts</title>
+      <link>https://example.com/article/35980387/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35980387/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Progressive tissue fibrosis, including idiopathic pulmonary fibrosis (IPF), is characterized by excessive recruitment of fibroblasts to sites of tissue injury and unremitting extracellular matrix deposition associated with severe morbidity and mortality. However, the molecular mechanisms that control progressive IPF have yet to be fully determined. Previous studies suggested that invasive fibroblasts drive disease progression in IPF. Here, we report profiling of invasive and noninvasive fibroblasts from IPF patients and healthy donors. Pathway analysis revealed that the activated signatures of the invasive fibroblasts, the top of which was ERBB2 (HER2), showed great similarities to those of metastatic lung adenocarcinoma cancer cells. Activation of HER2 in normal lung fibroblasts led to a more invasive genetic program and worsened fibroblast invasion and lung fibrosis, while antagonizing HER2 signaling blunted fibroblast invasion and ameliorated lung fibrosis. These findings suggest that HER2 signaling may be a key driver of fibroblast invasion and serve as an attractive target for therapeutic intervention in IPF.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Ischaemic tissue released microvesicles induce monocyte reprogramming and increase tissue repair by a tissue factor-dependent mechanism</title>
       <link>https://example.com/article/34406379/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
@@ -15723,6 +16110,110 @@
   
 &lt;/ul&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>LINC00941 promotes pancreatic cancer malignancy by interacting with ANXA2 and suppressing NEDD4L-mediated degradation of ANXA2</title>
+      <link>https://example.com/article/35977942/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35977942/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recently, long non-coding RNAs (lncRNA) have been proven to regulate pancreatic cancer (PC) progression. We aimed to explore the pathogenesis of LINC00941 in PC regarding protein binding. By using PCR analysis, we found that LINC00941 was overexpressed in PC tissues and was higher in patients with liver metastasis than in patients without liver metastasis. In addition, high LINC00941 expression was associated with a poor prognosis. Functional experiments and mice models were respectively used to evaluate PC cell proliferation and migration in vitro and in vivo. The results suggested that LINC00941 overexpression promoted PC proliferation and metastasis. Subsequently, RNA pull-down, mass spectrometry (MS), and RNA-binding protein immunoprecipitation (RIP) were performed to identify LINC00941-interacting proteins. The results suggested that ANXA2 was the potential LINC00941-interacting protein. Nucleotides 500-1390 of LINC00941 could bind to the Annexin 1 domain of ANXA2. LINC00941-mediated malignant phenotype of PC was reversed by ANXA2 depletion. Co-immunoprecipitation (Co-IP) followed by MS was conducted to determine the potential interacting protein of LINC00941. The results illustrated that NEDD4L, an E3 ligase involved in ubiquitin-mediated protein degradation, bound to the Annexin 1 domain of ANXA2 and promoted its degradation. Mechanically, LINC00941 functioned as a decoy to bind to ANXA2 and suppressed its degradation by enclosing the domain that binds to NEDD4L. Eventually, LINC00941 upregulated ANXA2 and activated FAK/AKT signaling, increasing PC cell proliferation and metastasis. This study indicates that LINC00941 promotes PC proliferation and metastasis by binding ANXA2 and potentiating its stability, leading to the activation of FAK/AKT signaling. Our data demonstrate that LINC00941 may serve as a novel target for prognosis and therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Oxypeucedanin relieves LPS-induced acute lung injury by inhibiting the inflammation and maintaining the integrity of the lung air-blood barrier</title>
+      <link>https://example.com/article/35985771/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35985771/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Introduction:&lt;/em&gt; Acute lung injury (ALI) is commonly accompanied by a severe inflammatory reaction process, and effectively managing inflammatory reactions is an important therapeutic approach for alleviating ALI. Macrophages play an important role in the inflammatory response, and this role is proinflammatory in the early stages of inflammation and anti-inflammatory in the late stages. Oxypeucedanin is a natural product with a wide range of pharmacological functions. This study aimed to determine the effect of oxypeucedanin on lipopolysaccharide (LPS)-induced ALI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods and results:&lt;/em&gt; In this study, the following experiments were performed based on LPS-induced models &lt;em&gt;in vivo&lt;/em&gt; and &lt;em&gt;in vitro&lt;/em&gt;. Using myeloperoxidase activity measurement, ELISA, qRT-PCR, and Western blotting, we found that oxypeucedanin modulated the activity of myeloperoxidase and decreased the expression levels of inflammatory mediators such as TNF-α, IL-6, IL-1β, MPO, COX-2 and iNOS in LPS-induced inflammation models. Meanwhile, oxypeucedanin inhibited the activation of PI3K/AKT and its downstream NF-κB and MAPK signaling pathways. In addition, oxypeucedanin significantly decreased the pulmonary vascular permeability, which was induced by LPSs, and the enhanced expression of tight junction proteins (Occludin and Claudin 3).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; In conclusion, this study demonstrated that the anti-inflammatory mechanism of oxypeucedanin is associated with the inhibition of the activation of PI3K/AKT/NF-κB and MAPK signaling pathways and the maintenance of the integrity of the lung air-blood barrier.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Puerarin ameliorates acute lung injury by modulating NLRP3 inflammasome-induced pyroptosis</title>
+      <link>https://example.com/article/35977927/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35977927/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We commenced to analyze putative anti-pyroptosis effects of puerarin (PU) as mediated by the PP2A-HDAC1-NLRP3 pathway in acute lung injury (ALI). ALI animal and cell models were constructed, followed by treatment of PU. Then, the effect of HDAC1, PP2A, and NLRP3 on cell inflammation and pyroptosis was explored. The interaction between HDAC1 and PP2A as well as between PP2A and NLRP3 was analyzed. Our findings suggested that PU downregulated HDAC1 expression to alleviate symptoms of ALI. HDAC1 overexpression promoted inflammation induced by LPS, which reversed the inhibitory effect of PU on ALI. HDAC1 overexpression also decreased PP2A expression, suggesting that PP2A was involved in the effects of HDAC1 on LPS-induced inflammation. PP2A exerted inhibitory effects on NLRP3. Meanwhile, PU hindered the progression of ALI by silencing HDAC1 or overexpressing PP2A both in vivo and in vitro. Taken together, PU restrained pyroptosis of cells induced by NLRP3 inflammasome to abate ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tumor Progression Locus 2 Protects against Acute Respiratory Distress Syndrome in Influenza A Virus-Infected Mice</title>
+      <link>https://example.com/article/35980186/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35980186/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Excessive inflammation in patients with severe influenza disease may lead to acute lung injury that results in acute respiratory distress syndrome (ARDS). ARDS is associated with alveolar damage and pulmonary edema that severely impair gas exchange, leading to hypoxia. With no existing FDA-approved treatment for ARDS, it is important to understand the factors that lead to virus-induced ARDS development to improve prevention, diagnosis, and treatment. We have previously shown that mice deficient in the serine-threonine mitogen-activated protein kinase, Tpl2 (MAP3K8 or COT), succumb to infection with a typically low-pathogenicity strain of influenza A virus (IAV; HKX31, H3N2 [x31]). The goal of the current study was to evaluate influenza A virus-infected &lt;em&gt;Tpl2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice clinically and histopathologically to gain insight into the disease mechanism. We hypothesized that &lt;em&gt;Tpl2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice succumb to IAV infection due to development of ARDS-like disease and pulmonary dysfunction. We observed prominent signs of alveolar septal necrosis, hyaline membranes, pleuritis, edema, and higher lactate dehydrogenase (LDH) levels in the lungs of IAV-infected &lt;em&gt;Tpl2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice compared to wild-type (WT) mice from 7 to 9 days postinfection (dpi). Notably, WT mice showed signs of regenerating epithelium, indicative of repair and recovery, that were reduced in &lt;em&gt;Tpl2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice. Furthermore, biomarkers associated with human ARDS cases were upregulated in &lt;em&gt;Tpl2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice at 7 dpi, demonstrating an ARDS-like phenotype in &lt;em&gt;Tpl2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice in response to IAV infection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study demonstrates the protective role of the serine-threonine mitogen-activated protein kinase, Tpl2, in influenza virus pathogenesis and reveals that host Tpl2 deficiency is sufficient to convert a low-pathogenicity influenza A virus infection into severe influenza disease that resembles ARDS, both histopathologically and transcriptionally. The IAV-infected &lt;em&gt;Tpl2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mouse thereby represents a novel murine model for studying ARDS-like disease that could improve our understanding of this aggressive disease and assist in the design of better diagnostics and treatments.
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -15777,6 +16268,88 @@
     </item>
     
     <item>
+      <title>A novel long noncoding RNA SP100-AS1 induces radioresistance of colorectal cancer via sponging miR-622 and stabilizing ATG3</title>
+      <link>https://example.com/article/35978049/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35978049/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although radiotherapy is an essential modality in the treatment of colorectal cancer (CRC), the incidence of radioresistance remains high clinically. Long noncoding RNAs (lncRNAs) reportedly play critical roles in CRC radioresistance by regulating genes or proteins at the transcriptional or post-translational levels. This study aimed to identify novel lncRNAs involved in radioresistance. We found that SP100-AS1 (lncRNA targeting antisense sequence of SP100 gene) was upregulated in radioresistant CRC patient tissues using RNA-seq analysis. Importantly, knockdown of SP100-AS1 significantly reduced radioresistance, cell proliferation, and tumor formation in vitro and in vivo. Mechanistically, mass spectrometry and bioinformatics analyses were used to identify the interacting proteins and microRNAs of SP100-AS1, respectively. Moreover, SP100-AS1 was found to interact with and stabilize ATG3 protein through the ubiquitination-dependent proteasome pathway. In addition, it could serve as a sponge for miR-622, which targeted ATG3 mRNA and affected autophagic activity. Thus, lncRNA SP100-AS1 could act as a radioresistance factor in CRC patients via RNA sponging and protein stabilizing mechanisms. In conclusion, the present study indicates that SP100-AS1/miR-622/ATG3 axis contributes to radioresistance and autophagic activity in CRC patients, suggesting it has huge prospects as a therapeutic target for improving CRC response to radiation therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Acadesine alleviates acute pancreatitis-related lung injury by mediating the barrier protective function of pulmonary microvascular endothelial cells</title>
+      <link>https://example.com/article/35987144/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35987144/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pretreatment with acadesine shows therapeutic potential SAP-ALI in vivo and vitro.&lt;/li&gt;
+&lt;li&gt;Endothelial injury is critical for the initiation and progression of severe acute pancreatitis-related acute lung injury.&lt;/li&gt;
+&lt;li&gt;The beneficial effects of acadesine may involve reducing ROS accumulation and inhibiting apoptosis.&lt;/li&gt;
+&lt;li&gt;Acadesine inhibits the impairment of SAP-ALI by activating the AMPK/Nrf2 pathway.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute pancreatitis (SAP) is a condition characterized by highly fatal acute inflammation and is usually associated with multiple organ dysfunction syndrome. Acute lung injury (ALI) is the most common complications of SAP, which is the accelerator of other organ dysfunction caused by SAP and the primary cause of early death due to SAP. Acadesine, an adenosine analog and an AMPK activator, has been discovered to modulate glucose and lipid metabolism, and inhibit the production of pro-inflammatory cytokines and iNOS. However, its role in SAP-ALI and its mechanism remains unclear and need to be explored. Herein, we discovered that acadesine mitigated the generation of reactive oxygen species (ROS) in human pulmonary microvascular endothelial cells (HPMECs), alleviated apoptosis and recovered barrier integrity, thereby contributing to anti-inflammatory effects in vitro and in vivo. Moreover, Nrf2 deficiency partially eliminated the effects of acadesine-induced antioxidant effects and thus weakened the protective effects on cells and Nrf2-knockout (Nrf2&lt;Sup&gt;-/-&lt;/Sup&gt;) mice. This study demonstrates that acadesine attenuated SAP-ALI associated inflammation and tissue damage by modulating the Nrf2-dependent antioxidant pathway by triggering AMPK. These findings are of great significance for the treatment of SAP-related lung injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Adipocyte-Derived Exosomal MTTP Suppresses Ferroptosis and Promotes Chemoresistance in Colorectal Cancer</title>
+      <link>https://example.com/article/35978266/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35978266/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obesity is closely related to a poor prognosis in patients with advanced colorectal cancer (CRC), but the mechanisms remain unclear. Ferroptosis is a form of nonapoptotic cell death characterized by lipid reactive oxygen species (ROS) accumulation and iron dependency and is associated with the chemoresistance of tumors. Here, it is shown that adipose-derived exosomes reduce ferroptosis susceptibility in CRC, thus promoting chemoresistance to oxaliplatin. It is found that microsomal triglyceride transfer protein (MTTP) expression is increased in the plasma exosomes of CRC patients with a high body fat ratio, serving as an inhibitor of ferroptosis and reducing sensitivity to chemotherapy. Mechanistically, the MTTP/proline-rich acidic protein 1 (PRAP1) complex inhibited zinc finger E-box binding homeobox 1 expression and upregulated glutathione peroxidase 4 and xCT, leading to a decreased polyunsaturated fatty acids ratio and lipid ROS levels. Moreover, experiments are carried out in organoids, and a tumor implantation model is established in obese mice, demonstrating that the inhibition of MTTP increases the sensitivity to chemotherapy. The results reveal a novel intracellular signaling pathway mediated by adipose-derived exosomes and suggest that treatments targeting secreted MTTP might reverse oxaliplatin resistance in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Discovery and evaluation of phenacrylanilide derivatives as novel potential anti-liver fibrosis agents</title>
       <link>https://example.com/article/36037790/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
@@ -15790,6 +16363,137 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Liver fibrosis is characterized by the excessive deposition of extracellular matrix components and results from chronic liver injury. At present, there is no approved drug for the treatment of liver fibrosis by the Food and Drug Administration. Here, we have reported a series of novel compounds with phenacrylanilide scaffolds that potently inhibit the transfer growth factor β1 (TGF-β1)-induced activation of LX-2, a hepatic stellate cell (HSC) line. Among them, compound 42 suppressed TGF-β1-induced upregulation of fibrotic markers (α-SMA and fibronectin) and showed excellent safety in vitro. Furthermore, in a carbon tetrachloride (CCl4) -induced liver fibrosis model, 42 at a dose of 30 mg/kg/day through oral administration for 3 weeks effectively improved liver function, restored damaged liver structures, and reduced collagen deposition, with a greater effect than Tranilast. In addition, epithelial-mesenchymal transition (EMT) is inhibited by compound 42 in the process of fibrosis. Meanwhile, the imbalanced immune microenvironment could also be effectively reversed. More interestingly, compound 42 prolongs the survival of CCl4 mice and ameliorates CCl4-induced injury to spleen, kidney, lung and heart. Altogether, these results suggest that 42 could be a potential drug candidate for the treatment of liver fibrosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>In vivo single-molecule analysis reveals COOLAIR RNA structural diversity</title>
+      <link>https://example.com/article/35978193/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35978193/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cellular RNAs are heterogeneous with respect to their alternative processing and secondary structures, but the functional importance of this complexity is still poorly understood. A set of alternatively processed antisense non-coding transcripts, which are collectively called COOLAIR, are generated at the Arabidopsis floral-repressor locus FLOWERING LOCUS C (FLC)1. Different isoforms of COOLAIR influence FLC transcriptional output in warm and cold conditions2-7. Here, to further investigate the function of COOLAIR, we developed an RNA structure-profiling method to determine the in vivo structure of single RNA molecules rather than the RNA population average. This revealed that individual isoforms of the COOLAIR transcript adopt multiple structures with different conformational dynamics. The major distally polyadenylated COOLAIR isoform in warm conditions adopts three predominant structural conformations, the proportions and conformations of which change after cold exposure. An alternatively spliced, strongly cold-upregulated distal COOLAIR isoform6 shows high structural diversity, in contrast to proximally polyadenylated COOLAIR. A hyper-variable COOLAIR structural element was identified that was complementary to the FLC transcription start site. Mutations altering the structure of this region changed FLC expression and flowering time, consistent with an important regulatory role of the COOLAIR structure in FLC transcription. Our work demonstrates that isoforms of non-coding RNA transcripts adopt multiple distinct and functionally relevant structural conformations, which change in abundance and shape in response to external conditions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sphingosine 1-phosphate signaling in perivascular cells enhances inflammation and fibrosis in the kidney</title>
+      <link>https://example.com/article/35976996/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35976996/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chronic kidney disease (CKD), characterized by sustained inflammation and progressive fibrosis, is highly prevalent and can eventually progress to end-stage kidney disease. However, current treatments to slow CKD progression are limited. Sphingosine 1-phosphate (S1P), a product of sphingolipid catabolism, is a pleiotropic mediator involved in many cellular functions, and drugs targeting S1P signaling have previously been studied particularly for autoimmune diseases. The primary mechanism of most of these drugs is functional antagonism of S1P receptor-1 (S1P1) expressed on lymphocytes and the resultant immunosuppressive effect. Here, we documented the role of local S1P signaling in perivascular cells in the progression of kidney fibrosis using primary kidney perivascular cells and several conditional mouse models. S1P was predominantly produced by sphingosine kinase 2 in kidney perivascular cells and exported via spinster homolog 2 (Spns2). It bound to S1P1 expressed in perivascular cells to enhance production of proinflammatory cytokines/chemokines upon injury, leading to immune cell infiltration and subsequent fibrosis. A small-molecule Spns2 inhibitor blocked S1P transport, resulting in suppression of inflammatory signaling in human and mouse kidney perivascular cells in vitro and amelioration of kidney fibrosis in mice. Our study provides insight into the regulation of inflammation and fibrosis by S1P and demonstrates the potential of Spns2 inhibition as a treatment for CKD and potentially other inflammatory and fibrotic diseases that avoids the adverse events associated with systemic modulation of S1P receptors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Antibiotic-induced microbiome depletion improves LPS-induced acute lung injury via gut-lung axis</title>
+      <link>https://example.com/article/35981631/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35981631/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Acute lung injury (ALI) is an acute inflammatory disorder. However, the precise mechanisms underlying the pathology of ALI remain elusive. An increasing evidence suggests the role of the gut-microbiota axis in the pathology of lung injury. This study aimed to investigate whether antibiotic-induced microbiome depletion could affect ALI in mice after lipopolysaccharide (LPS) administration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Main methods:&lt;/em&gt; The effects of antibiotic cocktail (ABX) on ALI in the mice after intratracheally administration of LPS (5 mg/kg) were examined. Furthermore, 16s rRNA analysis and measurement of short-chain fatty acids in feces samples and metabolomics analysis of blood samples were performed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Key findings:&lt;/em&gt; LPS significantly increased the interleukin-6 (IL-6) levels in the bronchoalveolar lavage fluid (BALF) of water-treated mice. Interestingly, an ABX significantly attenuated the LPS-induced increase in IL-6 in BALF and lung injury scores. Furthermore, ABX and/or LPS treatment markedly altered the α- and β-diversity of the gut microbiota. There were significant differences in the α- and β-diversity of the water + LPS group and ABX + LPS group. LEfSe analysis identified &lt;em&gt;Enterococusfaecalis&lt;/em&gt;, &lt;em&gt;Clostriumtertium&lt;/em&gt;, and &lt;em&gt;Bacteroidescaecimyris&lt;/em&gt; as potential microbial markers for ABX + LPS group. Untargeted metabolomics analysis identified several plasma metabolites responsible for discriminating water + LPS group from ABX + LPS group. There were correlations between the relative abundance of the microbiome and plasma metabolites. Integrative network analysis showed correlations between IL-6 levels in BALF and several gut microbes (or plasma metabolites).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Significance:&lt;/em&gt; These data suggest that ABX-induced microbiome depletion could protect against LPS-induced ALI via the gut-microbiota-lung axis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Markers of Kidney Tubular Secretion and Risk of Adverse Events in SPRINT Participants with CKD</title>
+      <link>https://example.com/article/35973732/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35973732/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Kidney tubular secretion is an essential mechanism for clearing many common antihypertensive drugs and other metabolites and toxins. It is unknown whether novel measures of tubular secretion are associated with adverse events (AEs) during hypertension treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Among 2089 SPRINT (Systolic Blood Pressure Intervention Trial) participants with baseline eGFR &amp;lt;60 ml/min per 1.73 m2, we created a summary secretion score by averaging across the standardized spot urine-to-plasma ratios of ten novel endogenous tubular secretion measures, with lower urine-to-plasma ratios reflecting worse tubular secretion. Multivariable Cox proportional hazards models were used to evaluate associations between the secretion score and risk of a composite of prespecified serious AEs (hypotension, syncope, bradycardia, AKI, electrolyte abnormalities, and injurious falls). The follow-up protocol for SPRINT routinely assessed two laboratory monitoring AEs (hyperkalemia and hypokalemia).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Overall, 30% of participants experienced at least one AE during a median follow-up of 3.0 years. In multivariable models adjusted for eGFR and albuminuria, lower (worse) secretion scores at baseline were associated with greater risk of the composite AE outcome (hazard ratio per 1-SD lower secretion score, 1.16; 95% confidence interval, 1.04 to 1.27). In analyses of the individual AEs, lower secretion score was associated with significantly greater risk of AKI, serious electrolyte abnormalities, and ambulatory hyperkalemia. Associations were similar across randomized treatment assignment groups.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Among SPRINT participants with CKD, worse tubular secretion was associated with greater risk of AEs, independent of eGFR and albuminuria.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>miR-141 exacerbates lung ischemia-reperfusion injury by targeting EGFR/β-catenin axis-mediated autophagy</title>
+      <link>https://example.com/article/35972910/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35972910/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some microRNAs (miRNAs) play important roles in lung ischemia-reperfusion injury (LIRI) injury. Here, this study aimed to examine whether miR-141 was related to lung ischemia-reperfusion injury (IRI) via regulating autophagy and the epidermal growth factor receptor (EGFR), and to explore the underlying signal transduction pathways. To this end, we constructed the LIRI cell model and mouse models, separately. According to RT-qPCR and Western blotting (WB) analysis results, miR-141 up-regulation together with β-catenin and EGFR down-regulation within mouse pulmonary microvascular endothelial cells (PMVECs) or lung tissues was related to lung IRI. Besides, we conducted dual-luciferase reporter assay, which suggested the binding of EGFR to miR-141. In addition, we carried out TUNEL staining, HE staining, and flow cytometric analysis to assess the apoptosis of PMVECs and the injury to mouse lung tissues. Furthermore, we performed light-chain immunofluorescence assay to examine autophagosomes within PMVECs. According to our results, miR-141 suppressed β-catenin level through reducing EGFR level. Besides, the miR-141/EGFR/β-catenin axis enhanced autophagy to aggravate LIRI. To sum up, miR-141 suppresses EGFR expression to inhibit β-catenin level, which subsequently aggravates autophagy and complicates LIRI. The above results offer the candidate therapeutic target for the treatment of lung IRI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -15865,6 +16569,88 @@
       <guid>https://example.com/article/36035204/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Acute respiratory infections (ARIs) are a common public safety threat with high morbidity and mortality in pediatric patients worldwide. Qinbaohong Zhike oral liquid (QBH), a marketed traditional Chinese medicine product, has been widely used to cure respiratory diseases. QBH is reported to have antitussive, expectorant, and antiasthmatic properties. However, its treatment effect against ARIs is not elucidated. This study aimed to explore the therapeutic efficacy of QBH in the treatment of ARIs-induced pneumonia. Network pharmacology was used to predict the possible targets of QBH against ARIs. Next, the tracheal lipopolysaccharide (LPS-)-induced acute lung injury (ALI) immature rat model was constructed to evaluate the therapeutic effect of QBH. Tandem mass tag (TMT-)-based quantitative proteomics was then used to screen the in-depth disease targets of QBH. QBH exerted a protective effect against LPS-induced ALI by inhibiting pulmonary pathological damage. QBH also reduced the levels of interleukin (IL)-6, tumor necrosis factor (TNF)-α, interferon (IFN)-γ, and granulocyte macrophage colony-stimulating factor (GM-CSF) in the serum and IL-1β, IL-6, IL-8, TNF-α, IFN-γ, and GM-CSF in the lung tissue. Based on proteomic data, olfactomedin 4 (OLFM4) related to immunity and inflammation was selected as a potential target. Western blot analysis further confirmed the moderating effect of QBH downregulation on OLFM4 in the lung tissue. Our findings demonstrated that QBH alleviated lung tissue damage and inflammatory reaction via inhibiting OLFM4 expression in LPS-challenged immature rats. Our research indicates that QBH may have therapeutic potential for treating ARIs-related ALI in pediatric patients, which also serves as a candidate target for drug therapy of ALI by intervening OLFM-related signaling pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SHMT2-mediated mitochondrial serine metabolism drives 5-FU resistance by fueling nucleotide biosynthesis</title>
+      <link>https://example.com/article/35977477/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35977477/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Serine metabolism is a key driver of 5-FU acquired resistance in CRC&lt;/li&gt;
+&lt;li&gt;Affecting serine availability impairs DNA damage response in 5-FU-resistant cells&lt;/li&gt;
+&lt;li&gt;Mitochondrial compartmentalization of serine metabolism sustains 5-FU resistance&lt;/li&gt;
+&lt;li&gt;Targeting mitochondrial serine metabolism is effective in overcoming 5-FU resistance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5-Fluorouracil (5-FU) is a key component of chemotherapy for colorectal cancer (CRC). 5-FU efficacy is established by intracellular levels of folate cofactors and DNA damage repair strategies. However, drug resistance still represents a major challenge. Here, we report that alterations in serine metabolism affect 5-FU sensitivity in in vitro and in vivo CRC models. In particular, 5-FU-resistant CRC cells display a strong serine dependency achieved either by upregulating endogenous serine synthesis or increasing exogenous serine uptake. Importantly, regardless of the serine feeder strategy, serine hydroxymethyltransferase-2 (SHMT2)-driven compartmentalization of one-carbon metabolism inside the mitochondria represents a specific adaptation of resistant cells to support purine biosynthesis and potentiate DNA damage response. Interfering with serine availability or affecting its mitochondrial metabolism revert 5-FU resistance. These data disclose a relevant mechanism of mitochondrial serine use supporting 5-FU resistance in CRC and provide perspectives for therapeutic approaches.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Transcription-independent regulation of STING activation and innate immune responses by IRF8 in monocytes</title>
+      <link>https://example.com/article/35973990/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35973990/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sensing of cytosolic DNA of microbial or cellular/mitochondrial origin by cGAS initiates innate immune responses via the adaptor protein STING. It remains unresolved how the activity of STING is balanced between a productive innate immune response and induction of autoimmunity. Here we show that interferon regulatory factor 8 (IRF8) is essential for efficient activation of STING-mediated innate immune responses in monocytes. This function of IRF8 is independent of its transcriptional role in monocyte differentiation. In uninfected cells, IRF8 remains inactive via sequestration of its IRF-associated domain by its N- and C-terminal tails, which reduces its association with STING. Upon triggering the DNA sensing pathway, IRF8 is phosphorylated at Serine 151 to allow its association with STING via the IRF-associated domain. This is essential for STING polymerization and TBK1-mediated STING and IRF3 phosphorylation. Consistently, IRF8-deficiency impairs host defense against the DNA virus HSV-1, and blocks DNA damage-induced cellular senescence. Bone marrow-derived mononuclear cells which have an autoimmune phenotype due to deficiency of Trex1, respond to IRF-8 deletion with reduced pro-inflammatory cytokine production. Peripheral blood mononuclear cells from systemic lupus erythematosus patients are characterized by elevated phosphorylation of IRF8 at the same Serine residue we find to be important in STING activation, and in these cells STING is hyper-active. Taken together, the transcription-independent function of IRF8 we describe here appears to mediate STING activation and represents an important regulatory step in the cGAS/STING innate immune pathway in monocytes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bidirectional anisotropic palladium nanozymes reprogram macrophages to enhance collaborative chemodynamic therapy of colorectal cancer</title>
+      <link>https://example.com/article/35981687/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35981687/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data. The method derives its power by focusing on gene sets, that is, groups of genes that share common biological function, chromosomal location, or regulation. We demonstrate how GSEA yields insights into several cancer-related data sets, including leukemia and lung cancer. Notably, where single-gene analysis finds little similarity between two independent studies of patient survival in lung cancer, GSEA reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -15990,12 +16776,286 @@
     </item>
     
     <item>
+      <title>Adipose mesenchymal stem cell-derived exosomal microRNAs ameliorate polycystic ovary syndrome by protecting against metabolic disturbances</title>
+      <link>https://example.com/article/35987860/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35987860/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Polycystic ovary syndrome (PCOS) is the most common endocrine and metabolic disorder in women of childbearing age. Adipose mesenchymal stem cells (AMSCs) secrete cytokines involved in the regulation of metabolism and immunity. However, it remains unclear whether exosomes secreted by AMSCs (AMSC-EXOs) can rescue the polycystic phenotype and metabolic dysfunction in PCOS ovaries. Here, we show that AMSC-EXOs can protect against metabolic disturbances, ameliorate ovarian polycystic, and improve fertility in a rat model of PCOS. AMSC-EXOs inhibited the expression of B-cell translocation gene 2 by transferring miR-21-5p to the livers of rats with PCOS, thus activating the IRS1/AKT pathway and increasing hepatic metabolism. The role of AMSC-EXOs in transferring miRNAs to the liver to improve metabolic dysfunction in PCOS and reproduction by rescuing a non-coding RNA pathway was also discovered. This study provides a theoretical basis for the use of rat adipose stem cells and their secreted exosomes to treat PCOS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>CuO-NPs-triggered heterophil extracellular traps exacerbate liver injury in chicks by promoting oxidative stress and inflammatory responses</title>
+      <link>https://example.com/article/35962800/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35962800/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the widespread use of copper oxide nanoparticles (CuO-NPs), their potential toxicity to the environment and biological health has attracted close attention. Heterophil extracellular traps (HETs) are an innate immune mechanism of chicken heterophils against adverse stimuli, but excessive HETs cause damage. Here, we explored the effect and mechanism of CuO-NPs on HETs formation in vitro and further evaluated the potential role of HETs in chicken liver and kidney injury. Heterophils were exposed to 5, 10, and 20 µg/mL of CuO-NPs for 2 h. The results showed that CuO-NPs induced typical HETs formation, which was dependent on NADPH oxidase, P38 and extracellular regulated protein kinases (ERK&lt;sub&gt;1/2&lt;/sub&gt;) pathways, and glycolysis. In in vivo experiments, fluorescence microplate and morphological analysis showed that CuO-NPs elevated the level of HETs in chicken serum and caused liver and kidney damage. Meanwhile, CuO-NPs caused hepatic oxidative stress (MDA, SOD, CAT, and GSH-PX imbalance), and also induced an increase in mRNA expression of their inflammatory and apoptosis-related factors (IL-1β, IL-6, TNF-α, COX-2, iNOS, NLRP3, and Caspase-1, 3, 11). However, these results were significantly altered by DNase I (HETs degradation reagent). In conclusion, the present study demonstrates for the first time that CuO-NPs induce the formation of HETs and that HETs exacerbate pathological damage in chicken liver and kidney by promoting oxidative stress and inflammation, providing insights into immunotoxicity and potential prevention and treatment targets caused by CuO-NPs overexposure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>JIB-04, a histone demethylase Jumonji C domain inhibitor, regulates phenotypic switching of vascular smooth muscle cells</title>
+      <link>https://example.com/article/35964071/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35964071/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Vascular smooth muscle cell (VSMC) phenotype switching is critical for neointima formation, which is the major cause of restenosis after stenting or coronary artery bypass grafting. However, the epigenetic mechanisms regulating phenotype switching of VSMCs, especially histone methylation, are not well understood. As a main component of histone lysine demethylases, Jumonji demethylases might be involved in VSMC phenotype switching and neointima formation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods and results:&lt;/em&gt; A mouse carotid injury model and VSMC proliferation model were constructed to investigate the relationship between histone methylation of H3K36 (downstream target molecule of Jumonji demethylase) and neointima formation. We found that the methylation levels of H3K36 negatively correlated with VSMC proliferation and neointima formation. Next, we revealed that JIB-04 (a pan-inhibitor of the Jumonji demethylase superfamily) could increase the methylation levels of H3K36. Furthermore, we found that JIB-04 obviously inhibited HASMC proliferation, and a cell cycle assay showed that JIB-04 caused G2/M phase arrest in HASMCs by inhibiting the phosphorylation of RB and CDC2 and promoting the phosphorylation of CHK1. Moreover, JIB-04 inhibited the expression of MMP2 to suppress the migration of HASMCs and repressed the expression of contraction-related genes. RNA sequencing analysis showed that the biological processes associated with the cell cycle and autophagy were enriched by using Gene Ontology analysis after HASMCs were treated with JIB-04. Furthermore, we demonstrated that JIB-04 impairs autophagic flux by downregulating STX17 and RAB7 expression to inhibit the fusion of autophagosomes and lysosomes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; JIB-04 suppresses the proliferation, migration, and contractile phenotype of HASMCs by inhibiting autophagic flux, which indicates that JIB-04 is a promising reagent for the treatment of neointima formation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>lncRNA CYTOR promotes aberrant glycolysis and mitochondrial respiration via HNRNPC-mediated ZEB1 stabilization in oral squamous cell carcinoma</title>
+      <link>https://example.com/article/35963855/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35963855/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oral squamous cell carcinoma (OSCC), the most common malignancy of the oral and maxillofacial region, severely affects human health. However, current treatments for OSCC commonly show only a ~60% 5-year survival rate of patients with distant metastases, indicating an urgent need for targeted treatments for patients with advanced metastases. Here, we report a survival-related long non-coding RNA, CYTOR, which is highly expressed in the lesions of oral cancer patients. We found that CYTOR can promote both migration and invasion in oral cancer cells as well as the epithelial-mesenchymal transition (EMT). RNA-sequencing of CYTOR-knockdown oral cancer cells revealed that CYTOR can regulate mitochondrial respiration and RNA splicing. Mechanistically, we found that nuclear-localized CYTOR interacts with HNRNPC, resulting in stabilization of ZEB1 mRNAs by inhibiting the nondegradative ubiquitination of HNRNPC. By synthesizing CYTOR-targeting small interfering RNAs (siRNAs) encapsulated in Nanoscale Metal Organic Frameworks (NMOFs), we demonstrate the targeted suppression of CYTOR to inhibit invasion and metastasis of oral cancer cells in a nude mouse model. Cumulatively, this study reveals the potential role of the CYTOR-HNRNPC-ZEB1 axis in regulating mitochondrial metabolism and glycolysis of oral cancer cells, and illustrates the effective use of lncRNA targeting in anti-metastatic cancer therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Macrophage SAMSN1 protects against sepsis-induced acute lung injury in mice</title>
+      <link>https://example.com/article/35981417/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35981417/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Inflammation and oxidative stress contribute to the progression of sepsis-induced acute lung injury (ALI). SAM domain, SH3 domain and nuclear localization signals 1 (SAMSN1) is a signaling adaptor protein, and mainly regulates inflammatory response of various immune cells. The present study generates macrophage-specific SAMSN1-knockout (Samsn1MKO) and SAMSN1-transgenic (Samsn1MTG) mice to investigate its role and mechanism in sepsis-induced ALI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; &lt;em&gt;Samsn1&lt;sup&gt;MKO&lt;/sup&gt;&lt;/em&gt; and &lt;em&gt;Samsn1&lt;sup&gt;MTG&lt;/sup&gt;&lt;/em&gt; mice were exposed to lipopolysaccharide (LPS) instillation or cecal ligation and puncture (CLP) surgery to induce sepsis-induced ALI. Bone marrow transplantation, cellular depletion and non-invasive adoptive transfer of bone marrow-derived macrophages (BMDMs) were performed to validate the role of macrophage SAMSN1 in sepsis-induced ALI in vivo. Meanwhile, BMDMs were isolated from Samsn1MKO or Samsn1MTG mice to further clarify the role of SAMSN1 in vitro.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Macrophage SAMSN1 expression was increased in response to LPS stimulation, and negatively correlated with LPS-induced ALI in mice. Macrophage SAMSN1 deficiency exacerbated, while macrophage SAMSN1 overexpression ameliorated LPS-induced inflammation, oxidative stress and ALI in mice and in BMDMs. Mechanistically, we found that macrophage SAMSN1 overexpression prevented LPS-induced ALI though activating AMP-activated protein kinase α2 (AMPKα2) &lt;em&gt;in vivo&lt;/em&gt; and &lt;em&gt;in vitro&lt;/em&gt;. Further studies revealed that SAMSN1 directly bound to growth factor receptor bound protein 2-associated protein 1 (GAB1) to prevent its protein degradation, and subsequently enhanced protein kinase A (PKA)/AMPKα2 activation in a protein tyrosine phosphatase, non-receptor type 11 (PTPN11, also known as SHP2)-dependent manner. Moreover, we observed that macrophage SAMSN1 overexpression diminished CLP-induced ALI in mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our study documents the protective role of macrophage SAMSN1 against sepsis-induced inflammation, oxidative stress and ALI through activating AMPKα2 in a GAB1/SHP2/PKA pathway, and defines it as a promising biomarker and therapeutic target to treat sepsis-induced ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The Role of Neutrophil Extracellular Traps in Early Microthrombosis and Brain Injury After Subarachnoid Hemorrhage in Mice</title>
+      <link>https://example.com/article/35962915/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35962915/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microthrombosis plays an important role in secondary brain injury after experimental subarachnoid hemorrhage (SAH), but the specific mechanism of microthrombosis remains unclear. The purpose of this study was to investigate the role of neutrophil extracellular traps (NETs) in microthrombosis after SAH. SAH was induced in male C57BL/6 mice using an endovascular perforation technique. The marker protein of NETs, citrullinated histone H3 (CitH3), was significantly elevated in the cerebral cortex after SAH, and was co-labeled with microthrombi. Both depletion of neutrophils by anti-Ly6G antibody and DNase I treatment significantly reduced the formation of NETs and microthrombi, and ameliorated neurological deficits, brain edema, BBB disruption, and neuronal injury at 24 h after SAH induction. Cerebral hypoperfusion in the first hours after SAH is a major determinant of poor neurological outcome; in this study, we found that DNase I treatment significantly improved the restoration of early cortical perfusion after SAH. In addition, DNase I treatment also significantly attenuated cerebrospinal fluid (CSF) flow after SAH, which was associated with the diffusion barrier caused by microthrombi in the paravascular space after SAH. In conclusion, NETs are associated with early microthrombosis after SAH; they may be a novel therapeutic target for early brain injury (EBI) after SAH.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Upregulating carnitine palmitoyltransferase 1 attenuates hyperoxia-induced endothelial cell dysfunction and persistent lung injury</title>
+      <link>https://example.com/article/35964084/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35964084/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Bronchopulmonary dysplasia (BPD) is a chronic lung disease in premature infants that may cause long-term lung dysfunction. Accumulating evidence supports the vascular hypothesis of BPD, in which lung endothelial cell dysfunction drives this disease. We recently reported that endothelial carnitine palmitoyltransferase 1a (Cpt1a) is reduced by hyperoxia, and that endothelial cell-specific Cpt1a knockout mice are more susceptible to developing hyperoxia-induced injury than wild type mice. Whether Cpt1a upregulation attenuates hyperoxia-induced endothelial cell dysfunction and lung injury remains unknown. We hypothesized that upregulation of Cpt1a by baicalin or L-carnitine ameliorates hyperoxia-induced endothelial cell dysfunction and persistent lung injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Lung endothelial cells or newborn mice (&amp;lt; 12 h old) were treated with baicalin or L-carnitine after hyperoxia (50% and 95% O&lt;sub&gt;2&lt;/sub&gt;) followed by air recovery.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We found that incubation with L-carnitine (40 and 80 mg/L) and baicalin (22.5 and 45 mg/L) reduced hyperoxia-induced apoptosis, impaired cell migration and angiogenesis in cultured lung endothelial cells. This was associated with increased Cpt1a gene expression. In mice, neonatal hyperoxia caused persistent alveolar and vascular simplification in a concentration-dependent manner. Treatment with L-carnitine (150 and 300 mg/kg) and baicalin (50 and 100 mg/kg) attenuated neonatal hyperoxia-induced alveolar and vascular simplification in adult mice. These effects were diminished in endothelial cell-specific Cpt1a knockout mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Upregulating Cpt1a by baicalin or L-carnitine ameliorates hyperoxia-induced lung endothelial cell dysfunction, and persistent alveolar and vascular simplification. These findings provide potential therapeutic avenues for using L-carnitine and baicalin as Cpt1a upregulators to prevent persistent lung injury in premature infants with BPD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Zanubrutinib ameliorates lipopolysaccharide-induced acute lung injury via regulating macrophage polarization</title>
+      <link>https://example.com/article/35973369/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35973369/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zanubrutinib could relieve LPS induced lung injuries in mice.&lt;/li&gt;
+&lt;li&gt;JAK2/STAT1 and TLR4/MyD88/NF-κB pathway is involved in Zanubrutinib -mediated M1 macrophage polarization in RAW264.7 cells.&lt;/li&gt;
+&lt;li&gt;Zanubrutinib promotes M2 macrophage activation through regulating JAK/STAT6 and PI3K/AKT pathway in RAW264.7 cells.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is a disease characterized by pulmonary diffusion dysfunction and its exacerbation stage is acute respiratory distress syndrome (ARDS), which may develop to multiple organ failure and seriously threatens human health. ALI has high mortality rates and few effective treatments, thus effective protection measures for ALI are becoming increasingly important. Macrophages play a key regulatory role in the pathogenesis of ALI, and the degree of macrophage polarization is closely related to the severity and prognosis of ALI. In this study, we evaluated the effects of Zanubrutinib (ZB), a BTK small molecule inhibitor approved by the FDA for the treatment of cell lymphoma, on macrophage polarization and acute lung injury. In the in vivo study, we constructed a mouse model of Lipopolysaccharide (LPS)-induced acute lung injury and found that ZB could improve the acute injury of mouse lungs by inhibiting the secretion of proinflammatory factors and promoting the secretion of anti-inflammatory factors, reduce the number of inflammatory cells in alveolar lavage fluid, and then alleviate the inflammatory response. In vivo and in vitro studies have shown that ZB could inhibit the M1 macrophage polarization and promote the M2 macrophage polarization. Subsequent mechanistic studies revealed that ZB could inhibit the macrophage M1 polarization via targeting BTK activation and inhibiting JAK2/STAT1 and TLR4/MyD88/NF-κB signaling pathways, and promote the macrophage M2 polarization by promoting the activation of STAT6 and PI3K / Akt signaling pathways. In summary, ZB has shown therapeutic effect in LPS-induced acute lung injury in mice, which provides a potential candidate drug to treat acute lung injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CircSV2b participates in oxidative stress regulation through miR-5107-5p-Foxk1-Akt1 axis in Parkinson&#39;s disease</title>
       <link>https://example.com/article/35973363/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35973363/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CircSV2b in serum exosomes can be used as a biomarker for the diagnosis of PD.&lt;/li&gt;
+&lt;li&gt;CircSV2b participates in the progress of PD through the ceRNA-Akt1 axis.&lt;/li&gt;
+&lt;li&gt;CircSV2b overexpression is neuroprotective by resisting oxidative stress injury.&lt;/li&gt;
+&lt;li&gt;Foxk1 can regulate Akt1 transcription.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;As a novel type of non-coding RNAs, covalently closed circular RNAs (circRNAs) are ubiquitously expressed in eukaryotes. Emerging studies have indicated that dysregulation of circRNAs was related to neurological diseases. However, the biogenesis, regulation, function, and mechanism of circRNAs in Parkinson&amp;rsquo;s disease (PD) remain largely unclear. In this study, thirty-three differentially expressed circRNAs (DECs) were detected by RNA-sequencing between the MPTP-induced PD mice model and the wild-type mice. Quantitative real-time PCR was used to determine the RNA level of DECs in the striatum (STR), substantia nigra pars compacta (SNpc), and serum exosomes, and it was found that circSV2b was downregulated in PD mice. Then, functional experiments in vivo were employed to explore the effect of circSV2b in PD. For the mechanism study, dual-luciferase reporter, fluorescence in situ hybridization (FISH), RNA immunoprecipitation (RIP), RNA pull-down, gene editing, and CUT &amp;amp; Tag were performed in vitro to confirm that circSV2b directly sponged miR-5107-5p and alleviated the suppression of the expression of the target gene Foxk1, and then positively regulated Akt1 transcription. In vivo, the mechanistic analysis demonstrated that circSV2b overexpression resisted oxidative stress damage through the ceRNA-Akt1 axis in PD models. Taken together, these findings suggested that the miR-5107-5p-Foxk1-Akt1 axis might serve as a key target of circSV2b overexpression in PD treatment, and highlighted the significant change of circSV2b in serum exosomes. Therefore, circSV2b might be a novel biomarker for the diagnosis and treatment of PD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ischemia-Selective Cardioprotection by Malonate for Ischemia/Reperfusion Injury</title>
+      <link>https://example.com/article/35959683/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35959683/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Inhibiting SDH (succinate dehydrogenase), with the competitive inhibitor malonate, has shown promise in ameliorating ischemia/reperfusion injury. However, key for translation to the clinic is understanding the mechanism of malonate entry into cells to enable inhibition of SDH, its mitochondrial target, as malonate itself poorly permeates cellular membranes. The possibility of malonate selectively entering the at-risk heart tissue on reperfusion, however, remains unexplored.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; C57BL/6J mice, C2C12 and H9c2 myoblasts, and HeLa cells were used to elucidate the mechanism of selective malonate uptake into the ischemic heart upon reperfusion. Cells were treated with malonate while varying pH or together with transport inhibitors. Mouse hearts were either perfused ex vivo (Langendorff) or subjected to in vivo left anterior descending coronary artery ligation as models of ischemia/reperfusion injury. Succinate and malonate levels were assessed by liquid chromatography-tandem mass spectrometry LC-MS/MS, in vivo by mass spectrometry imaging, and infarct size by TTC (2,3,5-triphenyl-2H-tetrazolium chloride) staining.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Malonate was robustly protective against cardiac ischemia/reperfusion injury, but only if administered at reperfusion and not when infused before ischemia. The extent of malonate uptake into the heart was proportional to the duration of ischemia. Malonate entry into cardiomyocytes in vivo and in vitro was dramatically increased at the low pH (≈6.5) associated with ischemia. This increased uptake of malonate was blocked by selective inhibition of MCT1 (monocarboxylate transporter 1). Reperfusion of the ischemic heart region with malonate led to selective SDH inhibition in the at-risk region. Acid-formulation greatly enhances the cardioprotective potency of malonate.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Cardioprotection by malonate is dependent on its entry into cardiomyocytes. This is facilitated by the local decrease in pH that occurs during ischemia, leading to its selective uptake upon reperfusion into the at-risk tissue, via MCT1. Thus, malonate&amp;rsquo;s preferential uptake in reperfused tissue means it is an at-risk tissue-selective drug that protects against cardiac ischemia/reperfusion injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Chlorogenic Acid Prevents Hyperuricemia Nephropathy via Regulating TMAO-Related Gut Microbes and Inhibiting the PI3K/AKT/mTOR Pathway</title>
+      <link>https://example.com/article/35950815/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35950815/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hyperuricemia is an independent hazard factor of renal injury and can induce renal fibrosis, promoting the development of chronic kidney disease (CKD). This study aimed to explore the probability of chlorogenic acid (CGA) as a potential substance for preventing hyperuricemia nephropathy (HN). Pretreatment with CGA downregulated SUA, BUN, and CR levels, relieved oxidative stress and inflammatory response, alleviated kidney fibrosis, and contributed to the prevention of HN. In the gut microbiota, &lt;em&gt;Blautia&lt;/em&gt;, &lt;em&gt;Enterococcus&lt;/em&gt;, and &lt;em&gt;Faecalibaculum&lt;/em&gt; related to trimethylamine N-oxide (TMAO) synthesis were significantly increased in HN rats. In addition, it showed a significant increase in serum TMAO content in HN rats. However, CGA regulated the cascade response of the microbiota-TMAO signaling to reverse the increase of serum TMAO. CGA also decreased the protein expression of protein kinase B (AKT) phosphorylation, phosphatidylinositide 3-kinase (PI3K), and mammalian target of rapamycin (mTOR) by reducing the production of TMAO. CGA delayed kidney fibrosis in HN rats as evidenced by regulating the cascade response of the microbiota-TMAO-PI3K/AKT/mTOR signaling pathway. In summary, CGA can be an excellent candidate for HN prevention.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -16068,6 +17128,34 @@
     </item>
     
     <item>
+      <title>Integrated metagenomic and metabolomic analysis reveals distinct gut-microbiome-derived phenotypes in early-onset colorectal cancer</title>
+      <link>https://example.com/article/35953094/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35953094/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The incidence of early-onset colorectal cancer (EO-CRC) is steadily increasing. Here, we aimed to characterise the interactions between gut microbiome, metabolites and microbial enzymes in EO-CRC patients and evaluate their potential as non-invasive biomarkers for EO-CRC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design:&lt;/em&gt; We performed metagenomic and metabolomic analyses, identified multiomics markers and constructed CRC classifiers for the discovery cohort with 130 late-onset CRC (LO-CRC), 114 EO-CRC subjects and age-matched healthy controls (97 LO-Control and 100 EO-Control). An independent cohort of 38 LO-CRC, 24 EO-CRC, 22 LO-Controls and 24 EO-Controls was analysed to validate the results.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Compared with controls, reduced alpha-diversity was apparent in both, LO-CRC and EO-CRC subjects. Although common variations existed, integrative analyses identified distinct microbiome-metabolome associations in LO-CRC and EO-CRC. &lt;em&gt;Fusobacterium nucleatum&lt;/em&gt; enrichment and short-chain fatty acid depletion, including reduced microbial GABA biosynthesis and a shift in acetate/acetaldehyde metabolism towards acetyl-CoA production characterises LO-CRC. In comparison, multiomics signatures of EO-CRC tended to be associated with enriched &lt;em&gt;Flavonifractor plauti&lt;/em&gt; and increased tryptophan, bile acid and choline metabolism. Notably, elevated red meat intake-related species, choline metabolites and KEGG orthology (KO) pldB and cbh gene axis may be potential tumour stimulators in EO-CRC. The predictive model based on metagenomic, metabolomic and KO gene markers achieved a powerful classification performance for distinguishing EO-CRC from controls.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our large-sample multiomics data suggest that altered microbiome-metabolome interplay helps explain the pathogenesis of EO-CRC and LO-CRC. The potential of microbiome-derived biomarkers as promising non-invasive tools could be used for the accurate detection and distinction of individuals with EO-CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Morphological, cellular, and molecular basis of brain infection in COVID-19 patients</title>
       <link>https://example.com/article/35951647/</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
@@ -16118,12 +17206,90 @@
     </item>
     
     <item>
+      <title>Antioxidant Biodegradable Covalent Cyclodextrin Frameworks as Particulate Carriers for Inhalation Therapy against Acute Lung Injury</title>
+      <link>https://example.com/article/35948492/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35948492/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Drug therapies for acute lung injury (ALI) are far from satisfactory, primarily because drugs cannot specifically target the lungs. Direct delivery of drugs to the deep alveolar regions by inhalation administration is crucial for the treatment of ALI. However, conventional inhalable carriers such as lactose and mannitol are generally inactive. Therefore, the use of a novel pharmacologically active carrier for pulmonary delivery may produce synergetic effects in treating ALI. Considering the pathophysiological environment of ALI, which typically featured excessive reactive oxygen species (ROS) and acute inflammation, we synthesized a novel kind of biodegradable and ROS-sensitive cross-linked covalent cyclodextrin frameworks (OC-COF) with uniform inhalable particle size to treat ALI. OC-COF was devised to incorporate H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;-scavenging peroxalate ester linkages, which could hydrolyze and eliminate ROS generated in inflammatory sites. Ligustrazine (LIG), an antioxidant and anti-inflammatory natural compound, was loaded into OC-COF and evaluated as a dry powder inhaler (LIG@OC-COF) &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;, showing favorable aerodynamic properties and prominent antioxidant and anti-inflammatory capacities for the synergistic effects of OC-COF and LIG. In ALI rats, inhalation of LIG@OC-COF with a one-fifth LIG dose significantly alleviated the inflammation, oxidant stress, and lung damage. Western blot analysis demonstrated that LIG@OC-COF protected the lungs by regulating the Nrf2/NF-κB signaling pathway. In summary, this study provides a novel ROS-responsive material as an inhalable particulate carrier for the improved treatment of ALI and other medical conditions.reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Autoinducer-2 promotes Pseudomonas aeruginosa PAO1 acute lung infection via the IL-17A pathway</title>
       <link>https://example.com/article/36033859/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36033859/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt; is an opportunistic pathogenic bacterium that causes various acute and chronic lung infections in immunocompromised patients. We previously found that a quorum sensing (QS) signal, namely, autoinducer-2 (AI-2), facilitates the pathogenicity of the wild-type (WT) &lt;em&gt;P. aeruginosa&lt;/em&gt; PAO1 strain &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;. However, the immunological mechanism that leads to pulmonary injury remains to be elucidated. In this study, we aimed to investigate the effects of AI-2 on interleukin-17A (IL-17A) production during acute &lt;em&gt;P. aeruginosa&lt;/em&gt; PAO1 lung infection using a mouse model, with an emphasis on the underlying immunological mechanism. Compared to infection with &lt;em&gt;P. aeruginosa&lt;/em&gt; PAO1 alone, infection with &lt;em&gt;P. aeruginosa&lt;/em&gt; PAO1 combined with AI-2 treatment resulted in significantly increased levels of IL-17A, numbers of Th17 cells and levels of STAT3 in the lung tissues of WT mice (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05), as well as more serious lung damage. In contrast, the concentrations of the proinflammatory cytokines IL-1α, IL-1β, and IL-6 and the chemokine keratinocyte-derived chemokine (KC) were significantly reduced during &lt;em&gt;P. aeruginosa&lt;/em&gt; lung infection in IL-17A&lt;sup&gt;-/-&lt;/sup&gt; mice compared with WT mice (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05), and no effects were observed after AI-2 treatment (&lt;em&gt;P&lt;/em&gt; &amp;gt; 0.05). Furthermore, the level of IL-17A in the lungs of WT mice was significantly reduced following infection with a &lt;em&gt;P. aeruginosa&lt;/em&gt; strain harboring mutations in the QS genes &lt;em&gt;lasR&lt;/em&gt; and &lt;em&gt;rhlR&lt;/em&gt; compared with the level of IL-17A following infection with &lt;em&gt;P. aeruginosa&lt;/em&gt; PAO1. Our data suggest that AI-2 promotes &lt;em&gt;P. aeruginosa&lt;/em&gt; PAO1 acute lung infection via the IL-17A pathway by interfering with the QS systems of &lt;em&gt;P. aeruginosa&lt;/em&gt;. IL-17A may be a therapeutic target for the treatment of acute &lt;em&gt;P. aeruginosa&lt;/em&gt; lung infections in the clinic.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Disruption of the circadian clock drives Apc loss of heterozygosity to accelerate colorectal cancer</title>
+      <link>https://example.com/article/35947664/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35947664/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An alarming rise in young onset colorectal cancer (CRC) has been reported; however, the underlying molecular mechanism remains undefined. Suspected risk factors of young onset CRC include environmental aspects, such as lifestyle and dietary factors, which are known to affect the circadian clock. We find that both genetic disruption and environmental disruption of the circadian clock accelerate &lt;em&gt;Apc&lt;/em&gt;-driven CRC pathogenesis in vivo. Using an intestinal organoid model, we demonstrate that clock disruption promotes transformation by driving &lt;em&gt;Apc&lt;/em&gt; loss of heterozygosity, which hyperactivates Wnt signaling. This up-regulates &lt;em&gt;c-Myc&lt;/em&gt;, a known Wnt target, which drives heightened glycolytic metabolism. Using patient-derived organoids, we show that circadian rhythms are lost in human tumors. Last, we identify that variance between core clock and Wnt pathway genes significantly predicts the survival of patients with CRC. Overall, our findings demonstrate a previously unidentified mechanistic link between clock disruption and CRC, which has important implications for young onset cancer prevention.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mesenchymal stromal cells-derived extracellular vesicles reprogramme macrophages in ARDS models through the miR-181a-5p-PTEN-pSTAT5-SOCS1 axis</title>
+      <link>https://example.com/article/35948417/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35948417/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; A better understanding of the mechanism of action of mesenchymal stromal cells (MSCs) and their extracellular vesicles (EVs) is needed to support their use as novel therapies for acute respiratory distress syndrome (ARDS). Macrophages are important mediators of ARDS inflammatory response. Suppressor of cytokine signalling (SOCS) proteins are key regulators of the macrophage phenotype switch. We therefore investigated whether SOCS proteins are involved in mediation of the MSC effect on human macrophage reprogramming.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Human monocyte-derived macrophages (MDMs) were stimulated with lipopolysaccharide (LPS) or plasma samples from patients with ARDS (these samples were previously classified into hypo-inflammatory and hyper-inflammatory phenotype) and treated with MSC conditioned medium (CM) or EVs. Protein expression was measured by Western blot. EV micro RNA (miRNA) content was determined by miRNA sequencing. In vivo: LPS-injured C57BL/6 mice were given EVs isolated from MSCs in which miR-181a had been silenced by miRNA inhibitor or overexpressed using miRNA mimic.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; EVs were the key component of MSC CM responsible for anti-inflammatory modulation of human macrophages. EVs significantly reduced secretion of tumour necrosis factor-α and interleukin-8 by LPS-stimulated or ARDS plasma-stimulated MDMs and this was dependent on SOCS1. Transfer of miR-181a in EVs downregulated phosphatase and tensin homolog (PTEN) and subsequently activated phosphorylated signal transducer and activator of transcription 5 (pSTAT5) leading to upregulation of SOCS1 in macrophages. In vivo, EVs alleviated lung injury and upregulated pSTAT5 and SOCS1 expression in alveolar macrophages in a miR181-dependent manner. Overexpression of miR-181a in MSCs significantly enhanced therapeutic efficacy of EVs in this model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; miR-181a-PTEN-pSTAT5-SOCS1 axis is a novel pathway responsible for immunomodulatory effect of MSC EVs in ARDS.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -16174,6 +17340,84 @@
     </item>
     
     <item>
+      <title>Salvianolactone acid A isolated from Salvia miltiorrhiza ameliorates lipopolysaccharide-induced acute lung injury in mice by regulating PPAR-γ</title>
+      <link>https://example.com/article/35985183/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35985183/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Severe inflammation of the lungs results from acute lung injury (ALI), a common life-threatening lung disease with a high mortality rate. The ligand-activated transcription factor peroxisome proliferator-activated receptor (PPAR) γ plays essential roles in diverse biological processes including inflammation, metabolism, development, and immune response. Salvianolactone acid A (SA) is a terpenoid derived from the herb Salvia miltiorrhiza. However, there is a scarcity of experimental evidence indicating whether the effect of SA on ALI occurs via PPAR-γ.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; SA (20 or 40 mg/kg, i.g., 1 time/day) was administered to mice for 3 d, followed by the induction of ALI by intranasal lipopolysaccharide (LPS, 10 mg/kg). The lung function and levels of inflammation, reactive oxygen species (ROS), immune cells, apoptosis, and PPAR-γ were examined. The antagonistic activity of GW9662 (GW, 1 µM, specific PPAR-γ blocker) and PPAR-γ transfection silencing against SA (10 μM) in BEAS-2B cells induced by LPS (10 μg/ml, 24 h) was also investigated to assess whether the observed effects caused by SA were mediated by PPAR-γ.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The results showed that lung histopathological injury, the B-line, the fluorescence intensity of live small animal, and the biomarkers in BALF or lung in the treatment of SA could regulate significantly. In addition, SA obviously decreased the levels of ROS and apoptosis in the primary lung cells, and MDA, increased the levels of GSH-Px and SOD. SA reduced levels of macrophages and neutrophils. Furthermore, SA reduced the protein levels of Keap-1, Cleaved-caspase-3, Cleaved-caspase-9, p-p65/p65, NLRP3, IL-1β, and upregulated the levels of p-Nrf2/Nrf2, HO-1, Bcl-2/Bax, PPAR-γ, p-AMPK/AMPK in lung tissue. In addition, silencing and inhibition of PPAR-γ effectively decreased the protective effects of SA in BEAS-2B cells induced by LPS, which might indicate that the active molecules of SA regulate ALI via mediation by PPAR-γ, which exhibited that the effect of SA related to PPAR-γ.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The anti-ALI effects of SA were partially mediated through PPAR-γ signaling. These data provide the molecular justification for the usage of SA in treating ALI and can assist in increasing the comprehensive utilization rate of Salvia miltiorrhiza.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial multi-omic map of human myocardial infarction</title>
+      <link>https://example.com/article/35948637/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35948637/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Myocardial infarction is a leading cause of death worldwide1. Although advances have been made in acute treatment, an incomplete understanding of remodelling processes has limited the effectiveness of therapies to reduce late-stage mortality2. Here we generate an integrative high-resolution map of human cardiac remodelling after myocardial infarction using single-cell gene expression, chromatin accessibility and spatial transcriptomic profiling of multiple physiological zones at distinct time points in myocardium from patients with myocardial infarction and controls. Multi-modal data integration enabled us to evaluate cardiac cell-type compositions at increased resolution, yielding insights into changes of the cardiac transcriptome and epigenome through the identification of distinct tissue structures of injury, repair and remodelling. We identified and validated disease-specific cardiac cell states of major cell types and analysed them in their spatial context, evaluating their dependency on other cell types. Our data elucidate the molecular principles of human myocardial tissue organization, recapitulating a gradual cardiomyocyte and myeloid continuum following ischaemic injury. In sum, our study provides an integrative molecular map of human myocardial infarction, represents an essential reference for the field and paves the way for advanced mechanistic and therapeutic studies of cardiac disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The retroelement Lx9 puts a brake on the immune response to virus infection</title>
+      <link>https://example.com/article/35948641/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35948641/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The notion that mobile units of nucleic acid known as transposable elements can operate as genomic controlling elements was put forward over six decades ago. However, it was not until the advancement of genomic sequencing technologies that the abundance and repertoire of transposable elements were revealed, and they are now known to constitute up to two-thirds of mammalian genomes. The presence of DNA regulatory regions including promoters, enhancers and transcription-factor-binding sites within transposable elements has led to the hypothesis that transposable elements have been co-opted to regulate mammalian gene expression and cell phenotype. Mammalian transposable elements include recent acquisitions and ancient transposable elements that have been maintained in the genome over evolutionary time. The presence of ancient conserved transposable elements correlates positively with the likelihood of a regulatory function, but functional validation remains an essential step to identify transposable element insertions that have a positive effect on fitness. Here we show that CRISPR-Cas9-mediated deletion of a transposable element-namely the LINE-1 retrotransposon Lx9c11-in mice results in an exaggerated and lethal immune response to virus infection. Lx9c11 is critical for the neogenesis of a non-coding RNA (Lx9c11-RegoS) that regulates genes of the Schlafen family, reduces the hyperinflammatory phenotype and rescues lethality in virus-infected Lx9c11-/- mice. These findings provide evidence that a transposable element can control the immune system to favour host survival during virus infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Circular RNA circNFKB1 promotes osteoarthritis progression through interacting with ENO1 and sustaining NF-κB signaling</title>
       <link>https://example.com/article/35945200/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
@@ -16205,6 +17449,31 @@
       <guid>https://example.com/article/36016936/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Initial lipopolysaccharide (LPS) exposure leads to a hypo-responsive state by macrophages to a secondary stimulation of LPS, known as endotoxin tolerance. However, recent findings show that functions of endotoxin-tolerant macrophages are not completely suppressed, whereas they undergo a functional re-programming process with upregulation of a panel of molecules leading to enhanced protective functions including antimicrobial and tissue-remodeling activities. However, the underlying molecular mechanisms are still elusive. Erythropoietin (EPO), a glycoprotein regulated by hypoxia-inducible factor 1α (HIF-1α), exerts anti-inflammatory and tissue-protective activities. Nevertheless, the potential effects of EPO on functional re-programming of endotoxin-tolerant macrophages have not been investigated yet. Here, we found that initial LPS exposure led to upregulation of HIF-1α/EPO in macrophages and that EPO enhanced tolerance in tolerized macrophages and mice as demonstrated by suppressed proinflammatory genes such as &lt;em&gt;Il1b&lt;/em&gt;, &lt;em&gt;Il6&lt;/em&gt;, and &lt;em&gt;Tnfa&lt;/em&gt; after secondary LPS stimulation. Moreover, we showed that EPO improved host protective genes in endotoxin-tolerant macrophages and mice, such as the anti-bacterial genes coding for cathelicidin-related antimicrobial peptide (&lt;em&gt;Cnlp&lt;/em&gt;) and macrophage receptor with collagenous structure (&lt;em&gt;Marco&lt;/em&gt;), and the tissue-repairing gene vascular endothelial growth factor C (&lt;em&gt;Vegfc&lt;/em&gt;). Therefore, our findings indicate that EPO mediates the functional re-programming of endotoxin-tolerant macrophages. Mechanistically, we found that PI3K/AKT signaling contributed to EPO-mediated re-programming through upregulation of &lt;em&gt;Irak3&lt;/em&gt; and &lt;em&gt;Wdr5&lt;/em&gt; expression. Specifically, IL-1 receptor-associated kinase 3 (IRAK3) was responsible for inhibiting proinflammatory genes &lt;em&gt;Il1b&lt;/em&gt;, &lt;em&gt;Il6&lt;/em&gt;, and &lt;em&gt;Tnfa&lt;/em&gt; in tolerized macrophages after LPS rechallenge, whereas WDR5 contributed to the upregulation of host beneficial genes including &lt;em&gt;Cnlp&lt;/em&gt;, &lt;em&gt;Marco&lt;/em&gt;, and &lt;em&gt;Vegfc&lt;/em&gt;. In a septic model of mice, EPO pretreatment significantly promoted endotoxin-tolerant re-programming, alleviated lung injury, enhanced bacterial clearance, and decreased mortality in LPS-tolerized mice after secondary infection of &lt;em&gt;Escherichia coli&lt;/em&gt;. Collectively, our results reveal a novel role for EPO in mediating functional re-programming of endotoxin-tolerant macrophages; thus, targeting EPO appears to be a new therapeutic option in sepsis and other inflammatory disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Histopathological, physiological and biochemical assessment of resveratrol nanocapsules efficacy in bleomycin-induced acute and chronic lung injury in rats</title>
+      <link>https://example.com/article/35945895/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35945895/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is a life-threatening illness which may progress to chronic pulmonary fibrosis (CPF). Resveratrol (RSV), a natural polyphenol, is known to exert several pharmacological effects on lung injury. However, its physicochemical properties and pharmacokinetic profile limit its clinical applications. In this study, RSV was loaded into lipid nanocapsules (LNCs) aiming to overcome these limitations. RSV-LNCs were prepared by phase inversion method and showed small uniform particle size (∼55 nm, PdI 0.04) with high entrapment efficiency &amp;gt;99%. The efficacy of RSV-LNCs in the prophylaxis against ALI and treatment of CPF was investigated in bleomycin-induced lung injury. For assessment of ALI, rats were administered a single oral dose of RSV (10 mg/kg) either free or as RSV-LNCs 4 h before bleomycin and euthanized 3 days later. For CPF, treatments in the same dose were given daily from days 10-20 after bleomycin and rats were euthanized on day-21. Results showed enhanced beneficial role for RSV-LNCs, compared to RSV, in the prevention of ALI as demonstrated by preservation of pulmonary microscopic and ultrastructural architecture and improvement of pulmonary functions. Analysis of BALF revealed reduction in oxidative stress markers, IL-6 level, leukocytosis and neutrophilia. iNOS and c-caspase 3 immunohistochemical expression and CD68+ cells immunofluorescence were inhibited. However, RSV-LNCs failed to show any improvement in oxidative stress, chronic inflammation, apoptosis and collagen deposition in CPF. In conclusion, RSV-LNCs are promising nanoplatforms for mitigating ALI detrimental effects. Future research investigating higher doses and longer durations of treatment is recommended to evaluate RSV-LNCs anti-fibrotic potential in CPF.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -16308,6 +17577,38 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The pharmacokinetic profile of intra-tracheal (i.t.) GB0139 was investigated in C57BL/6 mice to support the daily dosing regimen. GB0139 (1-30 µg) was then assessed following acute i.t. lipopolysaccharide (LPS) and bleomycin administration. Histology, broncho-alveolar lavage fluid (BALf) analysis, and flow cytometric analysis of lung digests and BALf were performed. The impact of GB0139 on cell activation and apoptosis was determined &lt;em&gt;in vitro&lt;/em&gt; using neutrophils and THP-1, A549 and Jurkat E6 cell lines.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; GB0139 decreased inflammation severity via a reduction in neutrophil and macrophage recruitment and neutrophil activation. GB0139 reduced LPS-mediated increases in interleukin (IL)-6, tumor necrosis factor alpha (TNFα) and macrophage inflammatory protein-1-alpha. &lt;em&gt;In vitro&lt;/em&gt;, GB0139 inhibited Gal-3-induced neutrophil activation, monocyte IL-8 secretion, T cell apoptosis and the upregulation of pro-inflammatory genes encoding for IL-8, TNFα, IL-6 in alveolar epithelial cells in response to mechanical stretch.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; These data indicate that Gal-3 adopts a pro-inflammatory role following the early stages of lung injury and supports the development of GB0139, as a potential treatment approach in ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA MNX1-AS1 sustains inactivation of Hippo pathway through a positive feedback loop with USP16/IGF2BP3 axis in gallbladder cancer</title>
+      <link>https://example.com/article/35953000/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35953000/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MNX1-AS1 expression is upregulated in GBC and predicts poor prognosis.&lt;/li&gt;
+&lt;li&gt;Overexpression of MNX1-AS1 facilitates the proliferation and metastasis of GBC cells in vitro and in vivo.&lt;/li&gt;
+&lt;li&gt;MNX1-AS1 acts as a scaffold for recruiting USP16 to stabilize IGF2BP3.&lt;/li&gt;
+&lt;li&gt;MNX1-AS1/IGF2BP3/Hippo pathway positive feedback loop contributes to GBC progression.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The long non-coding RNAs (lncRNAs) have been implicated in multiple human cancers, which may offer great potential as putative targets for cancer diagnosis and treatment. However, the roles of most lncRNAs in gallbladder cancer (GBC) remain poorly understood. The objective of this research involves investigating the clinical implications and underlying mechanism of lncRNA motor neuron and pancreas homeobo×1 antisense RNA 1 (MNX1-AS1) in GBC. This study shows that MNX1-AS1 expression is elevated in the tissues of GBC patients, and is strongly associated with reduced patient survival. Functionally, MNX1-AS1 significantly stimulates the proliferation and metastasis of GBC cells in vitro and in vivo. Mechanistically, MNX1-AS1 is transcriptionally activated by TEA domain family member 4 (TEAD4), and suppresses insulin-like growing factor 2 mRNA-binding protein 3 (IGF2BP3) degradation by recruiting ubiquitin specific peptidase 16 (USP16). Furthermore, MNX1-AS1/IGF2BP3 axis inhibits the Hippo signaling pathway and subsequently activates TEAD4, thereby forming a positive feedback loop. According to our results, MNX1-AS1 facilitates tumorigenesis, progression and metastasis of GBC through a MNX1-AS1/IGF2BP3/Hippo pathway positive feedback loop, which could be both diagnostically and therapeutically helpful in GBC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -16497,6 +17798,31 @@
     </item>
     
     <item>
+      <title>YAP1 alleviates sepsis-induced acute lung injury via inhibiting ferritinophagy-mediated ferroptosis</title>
+      <link>https://example.com/article/35979359/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35979359/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a phospholipid peroxidation-mediated and iron-dependent cell death form, involved in sepsis-induced organ injury and other lung diseases. Yes-associated protein 1 (YAP1), a key regulator of the Hippo signaling pathway, could target multiple ferroptosis regulators. Herein, this study aimed to explore the involvement of ferroptosis in the etiopathogenesis of sepsis-induced acute lung injury (ALI) and demonstrate that YAP1 could disrupt ferritinophagy and moderate sepsis-induced ALI. Cecal ligation and puncture (CLP) models were constructed in wild-type (WT) and pulmonary epithelium-conditional knockout (YAP1f/f) mice to induce ALI, while MLE-12 cells with or without YAP1 overexpression were stimulated by lipopolysaccharide (LPS) in vitro. In-vivo modes showed that YAP1 knockout aggravated CLP-induced ALI and also accelerated pulmonary ferroptosis, as presented by the downregulated expression of GPX4, FTH1, and SLC7A11, along with the upregulated expression of SFXN1 and NCOA4. Transcriptome research identified these key genes and ferroptosis pathways involved in sepsis-induced ALI. In-vitro modes consistently verified that YAP1 deficiency boosted the ferrous iron accumulation and mitochondrial dysfunction in response to LPS. Furthermore, the co-IP assay revealed that YAP1 overexpression could prevent the degradation of ferritin to a mass of Fe2+ (ferritinophagy) via disrupting the NCOA4-FTH1 interaction, which blocked the transport of cytoplasmic Fe2+ into the mitochondria via the mitochondrial membrane protein (SFXN1), further reducing the generation of mitochondrial ROS. Therefore, these findings revealed that YAP1 could inhibit ferroptosis in a ferritinophagy-mediated manner, thus alleviating sepsis-induced ALI, which may provide a new approach to the therapeutic orientation for sepsis-induced ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Aspirin eugenol ester alleviates lipopolysaccharide-induced acute lung injury in rats while stabilizing serum metabolites levels</title>
       <link>https://example.com/article/35967416/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
@@ -16606,6 +17932,31 @@
     </item>
     
     <item>
+      <title>Targeting ETosis by miR-155 inhibition mitigates mixed granulocytic asthmatic lung inflammation</title>
+      <link>https://example.com/article/35958610/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35958610/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Asthma is phenotypically heterogeneous with several distinctive pathological mechanistic pathways. Previous studies indicate that neutrophilic asthma has a poor response to standard asthma treatments comprising inhaled corticosteroids. Therefore, it is important to identify critical factors that contribute to increased numbers of neutrophils in asthma patients whose symptoms are poorly controlled by conventional therapy. Leukocytes release chromatin fibers, referred to as extracellular traps (ETs) consisting of double-stranded (ds) DNA, histones, and granule contents. Excessive components of ETs contribute to the pathophysiology of asthma; however, it is unclear how ETs drive asthma phenotypes and whether they could be a potential therapeutic target. We employed a mouse model of severe asthma that recapitulates the intricate immune responses of neutrophilic and eosinophilic airway inflammation identified in patients with severe asthma. We used both a pharmacologic approach using miR-155 inhibitor-laden exosomes and genetic approaches using miR-155 knockout mice. Our data show that ETs are present in the bronchoalveolar lavage fluid of patients with mild asthma subjected to experimental subsegmental bronchoprovocation to an allergen and a severe asthma mouse model, which resembles the complex immune responses identified in severe human asthma. Furthermore, we show that miR-155 contributes to the extracellular release of dsDNA, which exacerbates allergic lung inflammation, and the inhibition of miR-155 results in therapeutic benefit in severe asthma mice. Our findings show that targeting dsDNA release represents an attractive therapeutic target for mitigating neutrophilic asthma phenotype, which is clinically refractory to standard care.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Colchicine improves severe acute pancreatitis-induced acute lung injury by suppressing inflammation, apoptosis and oxidative stress in rats</title>
       <link>https://example.com/article/36076491/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
@@ -16646,6 +17997,34 @@
       <guid>https://example.com/article/35959377/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Gut microbes participate in pathogenesis by interacting with the host genome through epigenetic mechanisms, such as long non-coding RNAs. However, the mechanisms by which the microbiota induce expression alteration of long non-coding RNAs remains unclear. Here, we quantified the transcriptome alteration of human colon cell lines after being infected by a common enteric pathogen &lt;em&gt;Salmonella typhimurium SL1344&lt;/em&gt;. We observed a widespread lncRNAs expression alteration. Among them, the elevated expression of LINC00152 was verified and proved to be induced by enteric bacteria-derived lipopolysaccharide (LPS). The inducible LINC00152 were found to inhibit Salmonella invasion and inflammation response. LINC00152 was overexpressed in tumors of the clinical CRC samples compared with adjacent normal tissues. Accordingly, we also demonstrated that overexpression of LINC00152 promoted the migration and invasion of colorectal cancer cells. Consistently, we observed an increased abundance of gram-negative bacteria and LPS in tumors tissue. Taken together, the above data implicated that enriched gram-negative bacteria in tumor tissue might promote tumor growth through modulating the expression of LINC00152. Furthermore, we demonstrated that LPS upregulated the expression of LINC00152 by introducing histone lactylation on its promoter and decreasing the binding efficiency of the repressor, YY1, to it. Our results provide new insights into how enterobacteria affect host epigenetics in human disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Venovenous extracorporeal membrane oxygenation promotes alveolar epithelial recovery by activating Hippo/YAP signaling after lung injury</title>
+      <link>https://example.com/article/35973885/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35973885/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The preferred configuration for bridging patients with respiratory failure while awaiting lung transplantation is venovenous extracorporeal membrane oxygenation (VV ECMO). However, the protective effect of VV ECMO on the lung, as well as the underlying mechanisms, are still unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We investigated the role of VV ECMO in preventing lung injury in vivo using a rat model. Additionally, the effects of Hippo/YAP signaling on alveolar epithelial type II cells (AT2)-mediated alveolar epithelial recovery in VV ECMO rats were also investigated. In the bronchoalveolar lavage fluid (BALF) and lung tissue, RNA sequencing, lung injury, edema, and cytokine expression were evaluated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; VV ECMO significantly improved severe hypoxemia, reduced lung edema, and inflammatory response, and altered alveolar epithelial function, as indicated by reduced protein concentrations in BALF. This was associated with Hippo/YAP signaling activation, according to RNA sequencing analysis. Furthermore, we discovered that after VV ECMO, AT2 cells proliferated and differentiated, and this increase in AT2 cell activity was correlated to the increased nuclear expression of YAP, which is critical for alveolar epithelial recovery from lung injury. During VV ECMO, verteporfin-induced YAP inhibition and the loss of the oxygenator delayed lung alveolar epithelial recovery and led to a prolonged inflammatory response.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; These findings suggest that VV ECMO protects against lung injury by activating the Hippo/YAP signaling pathway. Strategies aimed at increasing YAP activity in AT2 cells could thus aid alveolar epithelial recovery, making VV ECMO easier for lung transplantation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -18801,6 +20180,37 @@
       <guid>https://example.com/article/35194032/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Interferons (IFNs) are critical soluble factors in the immune system and are composed of three types, (I, II and III) that utilize different receptor complexes IFN-αR1/IFN-αR2, IFN-γR1/IFN-γR2, and IFN-λR1/IL-10R2, respectively. Here we identify IFN-υ from the genomic sequences of vertebrates. The members of class II cytokine receptors, IFN-υR1 and IL-10R2, are identified as the receptor complex of IFN-υ, and are associated with IFN-υ stimulated gene expression and antiviral activity in zebrafish (Danio rerio) and African clawed frog (Xenopus laevis). IFN-υ and IFN-υR1 are separately located at unique and highly conserved loci, being distinct from all other three-type IFNs. IFN-υ and IFN-υR1 are phylogenetically clustered with class II cytokines and class II cytokine receptors, respectively. Therefore, the finding of this IFN ligand-receptor system may be considered as a type IV IFN, in addition to the currently recognized three types of IFNs in vertebrates.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tidal Volume-Dependent Activation of the Renin-Angiotensin System in Experimental Ventilator-Induced Lung Injury</title>
+      <link>https://example.com/article/35191411/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35191411/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objectives:&lt;/em&gt; Ventilator-induced lung injury (VILI) is a major contributor to morbidity and mortality in critically ill patients. Mechanical damage to the lungs is potentially aggravated by the activation of the renin-angiotensin system (RAS). This article describes RAS activation profiles in VILI and discusses the effects of angiotensin (Ang) 1-7 supplementation or angiotensin-converting enzyme (ACE) inhibition with captopril as protective strategies.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design:&lt;/em&gt; Animal study.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Setting:&lt;/em&gt; University research laboratory.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Subjects:&lt;/em&gt; C57BL/6 mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Interventions:&lt;/em&gt; Anesthetized mice ( n = 12-18 per group) were mechanically ventilated with low tidal volume (LV T , 6 mL/kg), high tidal volume (HV T , 15 mL/kg), or very high tidal volume (VHV T , 30 mL/kg) for 4 hours, or killed after 3 minutes (sham). Additional VHV T groups received infusions of 60 μg/kg/hr Ang 1-7 or a single dose of 100 mg/kg captopril.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Measurements and main results:&lt;/em&gt; VILI was characterized by increased bronchoalveolar lavage fluid levels of interleukin (IL)-6, keratinocyte-derived cytokine, and macrophage inflammatory protein-2 (MIP2). The Ang metabolites in plasma measured with liquid chromatography tandem mass spectrometry showed a strong activation of the classical (Ang I, Ang II) and alternative RAS (Ang 1-7, Ang 1-5), with highest concentrations found in the HV T group. Although the lung-tissue ACE messenger RNA expression was unchanged, its protein expression showed a dose-dependent increase under mechanical ventilation. The ACE2 messenger RNA expression decreased in all ventilated groups, whereas ACE2 protein levels remained unchanged. Both captopril and Ang 1-7 led to markedly increased Ang 1-7 plasma levels, decreased Ang II levels, and ACE activity (Ang II/Ang I ratio), and effectively prevented VILI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; VILI is accompanied by a strong activation of the RAS. Based on circulating Ang metabolite levels and tissue expression of RAS enzymes, classical ACE-dependent and alternative RAS cascades were activated in the HV T group, whereas classical RAS activation prevailed with VHV T ventilation. Ang 1-7 or captopril protected from VILI primarily by modifying the systemic RAS profile.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -26863,6 +28273,36 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
     </item>
     
     <item>
+      <title>Interaction between laminin-5γ2 and integrin β1 promotes the tumor budding of colorectal cancer via the activation of Yes-associated proteins</title>
+      <link>https://example.com/article/31676872/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31676872/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Correction: &lt;a href=&#34;https://www.nature.com/articles/s41388-019-1113-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Interaction between laminin-5γ2 and integrin β1 promotes the tumor budding of colorectal cancer via the activation of Yes-associated proteins&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Correction: &lt;a href=&#34;https://www.nature.com/articles/s41388-022-02422-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Interaction between laminin-5γ2 and integrin β1 promotes the tumor budding of colorectal cancer via the activation of Yes-associated proteins&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colorectal cancer (CRC) is a common cancer type and a threat to human health. Tumor budding (TB) is the presence of a single cancer cell or clusters of up to five cancer cells prior to the invasive front of an aggressive carcinoma and is an independent prognosis factor for CRC. The molecular mechanism of TB is still unclear, and drugs that inhibit this process are still in the blank stage. This study found that TBs exhibit characteristics of partial EMT with a decreased expression of E-cadherin and no substantial differences in the expression of N-cadherin and vimentin. We also observed the interaction of integrin with extracellular matrix components, laminin-5γ2 (LN-5γ2), play essential roles in the TB of CRC. We then verified that the interaction between LN-5γ2 and integrin β1 promotes the TB of CRC via the activation of FAK and Yes-associated proteins (YAP). A natural drug monomer, cucurbitacin B, was screened using virtual screening methods for the interaction interface of proteins. We found that this monomer could block the interaction interface between LN-5γ2 and integrin β1 and substantially inhibit the TB of CRC cells via inactivation of YAP. This study provides new insights into the mechanism of TB mechanism and the development of drugs targeting the TB of CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Itaconyl-CoA forms a stable biradical in methylmalonyl-CoA mutase and derails its activity and repair</title>
       <link>https://example.com/article/31672889/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
@@ -28635,6 +30075,31 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
     </item>
     
     <item>
+      <title>TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions</title>
+      <link>https://example.com/article/29087512/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29087512/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transcription factors (TFs) are major trans-acting factors in transcriptional regulation. Therefore, elucidating TF-target interactions is a key step toward understanding the regulatory circuitry underlying complex traits such as human diseases. We previously published a reference TF-target interaction database for humans-&lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; (Transcriptional Regulatory Relationships Unraveled by Sentence-based Text mining)-which was constructed using sentence-based text mining, followed by manual curation. Here, we present &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2  with a significant improvement from the previous version, including a significantly increased size of the database consisting of 8444 regulatory interactions for 800 TFs in humans. More importantly, &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2 also contains a database for TF-target interactions in mice, including 6552 TF-target interactions for 828 mouse TFs. &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2 is also substantially more comprehensive and less biased than other TF-target interaction databases. We also improved the web interface, which now enables prioritization of key TFs for a physiological condition depicted by a set of user-input transcriptional responsive genes. With the significant expansion in the database size and inclusion of the new web tool for TF prioritization, we believe that &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2 will be a versatile database for the study of the transcriptional regulation involved in human diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Reversed graph embedding resolves complex single-cell trajectories</title>
       <link>https://example.com/article/28825705/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
@@ -29719,6 +31184,31 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
       <guid>https://example.com/article/36343628/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Alpha-herpesvirus causes lifelong infections and serious diseases in a wide range of hosts and has developed multiple strategies to counteract the host defense. Here, we demonstrate that the tegument protein UL21 (unique long region 21) in pseudorabies virus (PRV) dampens type I interferon signaling by triggering the degradation of CGAS (cyclic GMP-AMP synthase) through the macroautophagy/autophagy-lysosome pathway. Mechanistically, the UL21 protein scaffolds the E3 ligase UBE3C (ubiquitin protein ligase E3C) to catalyze the K27-linked ubiquitination of CGAS at Lys384, which is recognized by the cargo receptor TOLLIP (toll interacting protein) and degraded in the lysosome. Additionally, we show that the N terminus of UL21 in PRV is dominant in destabilizing CGAS-mediated innate immunity. Moreover, viral tegument protein UL21 in herpes simplex virus type 1 (HSV-1) also displays the conserved inhibitory mechanisms. Furthermore, by using PRV, we demonstrate the roles of UL21 in degrading CGAS to promote viral infection in vivo. Altogether, these findings describe a distinct pathway where alpha-herpesvirus exploits TOLLIP-mediated selective autophagy to evade host antiviral immunity, highlighting a new interface of interplay between the host and DNA virus.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles</title>
+      <link>https://example.com/article/16199517/</link>
+      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/16199517/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data. The method derives its power by focusing on gene sets, that is, groups of genes that share common biological function, chromosomal location, or regulation. We demonstrate how GSEA yields insights into several cancer-related data sets, including leukemia and lung cancer. Notably, where single-gene analysis finds little similarity between two independent studies of patient survival in lung cancer, GSEA reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

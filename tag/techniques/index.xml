@@ -13,10 +13,35 @@
     </image>
     
     <item>
-      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
-      <link>https://example.com/article/23-01-10-13-33/</link>
+      <title>Programmable A-to-Y base editing by fusing an adenine base editor with an N-methylpurine DNA glycosylase</title>
+      <link>https://example.com/article/36624150/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <guid>https://example.com/article/36624150/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here we developed an adenine transversion base editor, AYBE, for A-to-C and A-to-T transversion editing in mammalian cells by fusing an adenine base editor (ABE) with hypoxanthine excision protein N-methylpurine DNA glycosylase (MPG). We also engineered AYBE variants enabling targeted editing at genomic loci with higher transversion editing activity (up to 72% for A-to-C or A-to-T editing).&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
+      <link>https://example.com/article/36624346/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36624346/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -39,9 +64,9 @@
     
     <item>
       <title>Video-based pooled screening yields improved far-red genetically encoded voltage indicators</title>
-      <link>https://example.com/article/23-01-10-13-02/</link>
+      <link>https://example.com/article/36624211/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-10-13-02/</guid>
+      <guid>https://example.com/article/36624211/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;

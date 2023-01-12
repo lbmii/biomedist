@@ -39,9 +39,9 @@
     
     <item>
       <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
-      <link>https://example.com/article/23-01-10-13-33/</link>
+      <link>https://example.com/article/36624346/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <guid>https://example.com/article/36624346/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;

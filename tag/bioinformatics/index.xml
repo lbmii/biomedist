@@ -42,9 +42,9 @@
     
     <item>
       <title>SPICEMIX enables integrative single-cell spatial modeling of cell identity</title>
-      <link>https://example.com/article/23-01-10-13-33/</link>
+      <link>https://example.com/article/36624346/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-10-13-33/</guid>
+      <guid>https://example.com/article/36624346/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Spatial transcriptomics can reveal spatially resolved gene expression of diverse cells in complex tissues. However, the development of computational methods that can use the unique properties of spatial transcriptome data to unveil cell identities remains a challenge. Here we introduce SPICEMIX, an interpretable method based on probabilistic, latent variable modeling for joint analysis of spatial information and gene expression from spatial transcriptome data. Both simulation and real data evaluations demonstrate that SPICEMIX markedly improves on the inference of cell types and their spatial patterns compared with existing approaches. By applying to spatial transcriptome data of brain regions in human and mouse acquired by seqFISH+, STARmap and Visium, we show that SPICEMIX can enhance the inference of complex cell identities, reveal interpretable spatial metagenes and uncover differentiation trajectories. SPICEMIX is a generalizable analysis framework for spatial transcriptome data to investigate cell-type composition and spatial organization of cells in complex tissues.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -97,6 +97,31 @@
       <guid>https://example.com/article/vsolassobag/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Screening biomolecular markers from high-dimensional biological data is one of the longstanding tasks for biomedical translational research. With its advantages in both feature shrinkage and biological interpretability, Least Absolute Shrinkage and Selection Operator (LASSO) algorithm is one of the most popular methods for the scenarios of clinical biomarker development. However, in practice, applying LASSO on omics-based data with high dimensions and low-sample size may usually result in an excess number of predictive variables, leading to overfitting of the model. Here, we present &lt;a href=&#34;https://seqworld.com/VSOLassoBag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSOLassoBag&lt;/a&gt;, a wrapped LASSO approach by integrating an ensemble learning strategy to help select efficient, stable, and highly confidential variables from omics-based data. Using a bagging strategy in combination with a parametric method or inflection point search method, &lt;a href=&#34;https://seqworld.com/VSOLassoBag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSOLassoBag&lt;/a&gt; can integrate and vote variables generated from multiple LASSO models to determine the optimal candidates. The application of &lt;a href=&#34;https://seqworld.com/VSOLassoBag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSOLassoBag&lt;/a&gt; on both simulation datasets and real-world datasets shows that the algorithm can effectively identify markers for either case-control binary classification or prognosis prediction. In addition, by comparing with multiple existing algorithms, the &lt;a href=&#34;https://seqworld.com/VSOLassoBag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSOLassoBag&lt;/a&gt; shows a comparable performance under different scenarios while resulting in fewer features than others. In summary, &lt;a href=&#34;https://seqworld.com/VSOLassoBag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSOLassoBag&lt;/a&gt; provides an alternative strategy for screening reliable biomarkers from high-dimensional omics data. For user’s convenience, we implement &lt;a href=&#34;https://seqworld.com/VSOLassoBag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSOLassoBag&lt;/a&gt; as an R package that provides multithreading computing configurations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NetAct: a computational platform to construct core transcription factor regulatory networks using gene activity</title>
+      <link>https://example.com/article/36575445/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36575445/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A major question in systems biology is how to identify the core gene regulatory circuit that governs the decision-making of a biological process. Here, we develop a computational platform, named NetAct, for constructing core transcription factor regulatory networks using both transcriptomics data and literature-based transcription factor-target databases. NetAct robustly infers regulators&amp;rsquo; activity using target expression, constructs networks based on transcriptional activity, and integrates mathematical modeling for validation. Our in silico benchmark test shows that NetAct outperforms existing algorithms in inferring transcriptional activity and gene networks. We illustrate the application of NetAct to model networks driving TGF-β-induced epithelial-mesenchymal transition and macrophage polarization.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1137,6 +1162,31 @@
     </item>
     
     <item>
+      <title>HER2 drives lung fibrosis by activating a metastatic cancer signature in invasive lung fibroblasts</title>
+      <link>https://example.com/article/35980387/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35980387/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Progressive tissue fibrosis, including idiopathic pulmonary fibrosis (IPF), is characterized by excessive recruitment of fibroblasts to sites of tissue injury and unremitting extracellular matrix deposition associated with severe morbidity and mortality. However, the molecular mechanisms that control progressive IPF have yet to be fully determined. Previous studies suggested that invasive fibroblasts drive disease progression in IPF. Here, we report profiling of invasive and noninvasive fibroblasts from IPF patients and healthy donors. Pathway analysis revealed that the activated signatures of the invasive fibroblasts, the top of which was ERBB2 (HER2), showed great similarities to those of metastatic lung adenocarcinoma cancer cells. Activation of HER2 in normal lung fibroblasts led to a more invasive genetic program and worsened fibroblast invasion and lung fibrosis, while antagonizing HER2 signaling blunted fibroblast invasion and ameliorated lung fibrosis. These findings suggest that HER2 signaling may be a key driver of fibroblast invasion and serve as an attractive target for therapeutic intervention in IPF.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Identification of the key ferroptosis-related genes involved in sepsis progression and experimental validation in vivo</title>
       <link>https://example.com/article/36188533/</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
@@ -1146,6 +1196,59 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We used the Gene Expression Omnibus database and FerrDb database to obtain ferroptosis-related differentially expressed genes (DEGs) between sepsis patients and healthy volunteers (HVs). Analyses of PPI networks, functional enrichment, as well as use of the MCODE algorithm were used to identify key ferroptosis-related DEGs. Expression of key ferroptosis-related DEGs was verified using: GSE57065 and GSE65682 datasets; rats in which ferroptosis was induced with erastin; sepsis-induced acute lung injury (siALI) rats. The effects of acupoint catgut embedding (ACE) on ferroptosis and expression of key ferroptosis-related DEGs in the lungs of siALI rats were also observed. A Cox proportional hazard model was used to verify the effect of key ferroptosis-related DEGs on the survival of sepsis patients. Cytoscape was used to construct ceRNA networks and gene-transcription factor networks.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Between sepsis patients and HVs, we identified 33 ferroptosis-related DEGs. According to analyses of PPI networks and the MCODE algorithm, we obtained four modules, of which the most significant module contained nine ferroptosis-related DEGs. Functional-enrichment analyses showed that four of the nine DEGs were enriched in the MAPK signaling pathway: &lt;em&gt;MAPK14&lt;/em&gt;, &lt;em&gt;VEGFA&lt;/em&gt;, &lt;em&gt;TGFBR1&lt;/em&gt;, and &lt;em&gt;DUSP1&lt;/em&gt;. We verified expression of these four genes in GSE57065 and GSE65682 datasets and ferroptosis rats. In addition, expression of these four genes and that of the oxidative-stress indicators GSSG and MDA was upregulated, and glutathione peroxidase-4 (GPX4) expression was downregulated, in siALI rats, but ACE reversed these changes. The Cox proportional hazard model showed that survival of sepsis patients in the high-risk group was shorter than that in the low-risk group. We found that the XIST-hsa-let-7b-5p-TGFBR1/DUSP1 ceRNA network and transcription factor E2F1 may be important regulators of these four DEGs.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our results suggest that &lt;em&gt;MAPK14&lt;/em&gt;, &lt;em&gt;VEGFA,&lt;/em&gt; &lt;em&gt;TGFBR1&lt;/em&gt;, and &lt;em&gt;DUSP1&lt;/em&gt; may be key regulatory targets of ferroptosis in sepsis, and that ACE pretreatment may be antioxidant treatment for sepsis and alleviate ferroptosis. These findings provide a basis for further ferroptosis-related study in sepsis and provide new targets for its treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated metagenomic and metabolomic analysis reveals distinct gut-microbiome-derived phenotypes in early-onset colorectal cancer</title>
+      <link>https://example.com/article/35953094/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35953094/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The incidence of early-onset colorectal cancer (EO-CRC) is steadily increasing. Here, we aimed to characterise the interactions between gut microbiome, metabolites and microbial enzymes in EO-CRC patients and evaluate their potential as non-invasive biomarkers for EO-CRC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design:&lt;/em&gt; We performed metagenomic and metabolomic analyses, identified multiomics markers and constructed CRC classifiers for the discovery cohort with 130 late-onset CRC (LO-CRC), 114 EO-CRC subjects and age-matched healthy controls (97 LO-Control and 100 EO-Control). An independent cohort of 38 LO-CRC, 24 EO-CRC, 22 LO-Controls and 24 EO-Controls was analysed to validate the results.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Compared with controls, reduced alpha-diversity was apparent in both, LO-CRC and EO-CRC subjects. Although common variations existed, integrative analyses identified distinct microbiome-metabolome associations in LO-CRC and EO-CRC. &lt;em&gt;Fusobacterium nucleatum&lt;/em&gt; enrichment and short-chain fatty acid depletion, including reduced microbial GABA biosynthesis and a shift in acetate/acetaldehyde metabolism towards acetyl-CoA production characterises LO-CRC. In comparison, multiomics signatures of EO-CRC tended to be associated with enriched &lt;em&gt;Flavonifractor plauti&lt;/em&gt; and increased tryptophan, bile acid and choline metabolism. Notably, elevated red meat intake-related species, choline metabolites and KEGG orthology (KO) pldB and cbh gene axis may be potential tumour stimulators in EO-CRC. The predictive model based on metagenomic, metabolomic and KO gene markers achieved a powerful classification performance for distinguishing EO-CRC from controls.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our large-sample multiomics data suggest that altered microbiome-metabolome interplay helps explain the pathogenesis of EO-CRC and LO-CRC. The potential of microbiome-derived biomarkers as promising non-invasive tools could be used for the accurate detection and distinction of individuals with EO-CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial multi-omic map of human myocardial infarction</title>
+      <link>https://example.com/article/35948637/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35948637/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Myocardial infarction is a leading cause of death worldwide1. Although advances have been made in acute treatment, an incomplete understanding of remodelling processes has limited the effectiveness of therapies to reduce late-stage mortality2. Here we generate an integrative high-resolution map of human cardiac remodelling after myocardial infarction using single-cell gene expression, chromatin accessibility and spatial transcriptomic profiling of multiple physiological zones at distinct time points in myocardium from patients with myocardial infarction and controls. Multi-modal data integration enabled us to evaluate cardiac cell-type compositions at increased resolution, yielding insights into changes of the cardiac transcriptome and epigenome through the identification of distinct tissue structures of injury, repair and remodelling. We identified and validated disease-specific cardiac cell states of major cell types and analysed them in their spatial context, evaluating their dependency on other cell types. Our data elucidate the molecular principles of human myocardial tissue organization, recapitulating a gradual cardiomyocyte and myeloid continuum following ischaemic injury. In sum, our study provides an integrative molecular map of human myocardial infarction, represents an essential reference for the field and paves the way for advanced mechanistic and therapeutic studies of cardiac disease.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4337,6 +4440,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions</title>
+      <link>https://example.com/article/29087512/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29087512/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transcription factors (TFs) are major trans-acting factors in transcriptional regulation. Therefore, elucidating TF-target interactions is a key step toward understanding the regulatory circuitry underlying complex traits such as human diseases. We previously published a reference TF-target interaction database for humans-&lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; (Transcriptional Regulatory Relationships Unraveled by Sentence-based Text mining)-which was constructed using sentence-based text mining, followed by manual curation. Here, we present &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2  with a significant improvement from the previous version, including a significantly increased size of the database consisting of 8444 regulatory interactions for 800 TFs in humans. More importantly, &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2 also contains a database for TF-target interactions in mice, including 6552 TF-target interactions for 828 mouse TFs. &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2 is also substantially more comprehensive and less biased than other TF-target interaction databases. We also improved the web interface, which now enables prioritization of key TFs for a physiological condition depicted by a set of user-input transcriptional responsive genes. With the significant expansion in the database size and inclusion of the new web tool for TF prioritization, we believe that &lt;a href=&#34;www.grnpedia.org/trrust&#34;&gt;TRRUST&lt;/a&gt; v2 will be a versatile database for the study of the transcriptional regulation involved in human diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Robust rank aggregation for gene list integration and meta-analysis</title>
       <link>https://example.com/article/22247279/</link>
       <pubDate>Thu, 12 Jan 2012 00:00:00 +0000</pubDate>
@@ -4455,6 +4583,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/35999201/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The tumor microenvironment (TME) in gastric cancer (GC) has been shown to be important for tumor control but the specific characteristics for GC are not fully appreciated. We generated an atlas of 166,533 cells from 10 GC patients with matched paratumor tissues and blood. Our results show tumor-associated stromal cells (TASCs) have upregulated activity of Wnt signaling and angiogenesis, and are negatively correlated with survival. Tumor-associated macrophages and LAMP3&lt;sup&gt;+&lt;/sup&gt; DCs are involved in mediating T cell activity and form intercellular interaction hubs with TASCs. Clonotype and trajectory analysis demonstrates that Tc17 (IL-17&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells) originate from tissue-resident memory T cells and can subsequently differentiate into exhausted T cells, suggesting an alternative pathway for T cell exhaustion. Our results indicate that IL17&lt;sup&gt;+&lt;/sup&gt; cells may promote tumor progression through IL17, IL22, and IL26 signaling, highlighting the possibility of targeting IL17&lt;sup&gt;+&lt;/sup&gt; cells and associated signaling pathways as a therapeutic strategy to treat GC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles</title>
+      <link>https://example.com/article/16199517/</link>
+      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/16199517/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data. The method derives its power by focusing on gene sets, that is, groups of genes that share common biological function, chromosomal location, or regulation. We demonstrate how GSEA yields insights into several cancer-related data sets, including leukemia and lung cancer. Notably, where single-gene analysis finds little similarity between two independent studies of patient survival in lung cancer, GSEA reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

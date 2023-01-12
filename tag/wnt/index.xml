@@ -5,12 +5,37 @@
     <link>https://example.com/tag/wnt/</link>
       <atom:link href="https://example.com/tag/wnt/index.xml" rel="self" type="application/rss+xml" />
     <description>Wnt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Wnt</title>
       <link>https://example.com/tag/wnt/</link>
     </image>
+    
+    <item>
+      <title>Oxidative stress-triggered Wnt signaling perturbation characterizes the tipping point of lung adeno-to-squamous transdifferentiation</title>
+      <link>https://example.com/article/36627278/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36627278/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Lkb1&lt;/em&gt; deficiency confers the Kras-mutant lung cancer with strong plasticity and the potential for adeno-to-squamous transdifferentiation (AST). However, it remains largely unknown how &lt;em&gt;Lkb1&lt;/em&gt; deficiency dynamically regulates AST. Using the classical AST mouse model (&lt;em&gt;Kras&lt;sup&gt;LSL-G12D/+&lt;/sup&gt;&lt;/em&gt;;&lt;em&gt;Lkb1&lt;sup&gt;flox/flox&lt;/sup&gt;&lt;/em&gt;, KL), we here comprehensively analyze the temporal transcriptomic dynamics of lung tumors at different stages by dynamic network biomarker (DNB) and identify the tipping point at which the Wnt signaling is abruptly suppressed by the excessive accumulation of reactive oxygen species (ROS) through its downstream effector FOXO3A. Bidirectional genetic perturbation of the Wnt pathway using two different &lt;em&gt;Ctnnb1&lt;/em&gt; conditional knockout mouse strains confirms its essential role in the negative regulation of AST. Importantly, pharmacological activation of the Wnt pathway before but not after the tipping point inhibits squamous transdifferentiation, highlighting the irreversibility of AST after crossing the tipping point. Through comparative transcriptomic analyses of mouse and human tumors, we find that the lineage-specific transcription factors (TFs) of adenocarcinoma and squamous cell carcinoma form a &amp;ldquo;Yin-Yang&amp;rdquo; counteracting network. Interestingly, inactivation of the Wnt pathway preferentially suppresses the adenomatous lineage TF network and thus disrupts the &amp;ldquo;Yin-Yang&amp;rdquo; homeostasis to lean towards the squamous lineage, whereas ectopic expression of NKX2-1, an adenomatous lineage TF, significantly dampens such phenotypic transition accelerated by the Wnt pathway inactivation. The negative correlation between the Wnt pathway and AST is further observed in a large cohort of human lung adenosquamous carcinoma. Collectively, our study identifies the tipping point of AST and highlights an essential role of the ROS-Wnt axis in dynamically orchestrating the homeostasis between adeno- and squamous-specific TF networks at the AST tipping point.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Hypercapnia alters stromal-derived Wnt production limiting β-catenin signaling and proliferation in alveolar type 2 cells</title>
@@ -84,6 +109,34 @@
   
 &lt;/ul&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hypoxia-induced lncRNA STEAP3-AS1 activates Wnt/β-catenin signaling to promote colorectal cancer progression by preventing m6A-mediated degradation of STEAP3 mRNA</title>
+      <link>https://example.com/article/35986274/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35986274/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Hypoxia, a typical hallmark of solid tumors, exhibits an essential role in the progression of colorectal cancer (CRC), in which the dysregulation of long non-coding RNAs (lncRNAs) is frequently observed. However, the underlying mechanisms are not clearly defined.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The TCGA database was analyzed to identify differential lncRNA expression involved in hypoxia-induced CRC progression. qRT-PCR was conducted to validate the upregulation of lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt; in CRC cell lines and tumor-bearing mouse and zebrafish models under hypoxia. ChIP-qRT-PCR was used to detect the transcriptional activation of STEAP3-AS1 mediated by HIF-1α. RNA-seq, fluorescent in situ hybridization, RNA pulldown, RNA immunoprecipitation, co-immunoprecipitation, immunofluorescence and immunoblot experiments were used to ascertain the involved mechanisms. Functional assays were performed in both in vitro and in vivo models to investigate the regulatory role of &lt;em&gt;STEAP3-AS1&lt;/em&gt;/STEAP3/Wnt/β-catenin axis in CRC proliferation and metastasis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here, we identified a hypoxia-induced antisense lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt; that was highly expressed in clinical CRC tissues and positively correlated with poor prognosis of CRC patients. Upregulation of lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt;, which was induced by HIF-1α-mediated transcriptional activation, facilitated the proliferation and metastasis of CRC cells both in vitro and in vivo. Mechanistically, &lt;em&gt;STEAP3-AS1&lt;/em&gt; interacted competitively with the YTH domain-containing family protein 2 (YTHDF2), a N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A) reader, leading to the disassociation of YTHDF2 with &lt;em&gt;STEAP3&lt;/em&gt; mRNA. This effect protected &lt;em&gt;STEAP3&lt;/em&gt; mRNA from m6A-mediated degradation, enabling the high expression of STEAP3 protein and subsequent production of cellular ferrous iron (Fe&lt;sup&gt;2+&lt;/sup&gt;). Increased Fe&lt;sup&gt;2+&lt;/sup&gt; levels elevated Ser 9 phosphorylation of glycogen synthase kinase 3 beta (GSK3β) and inhibited its kinase activity, thus releasing β-catenin for nuclear translocation and subsequent activation of Wnt signaling to support CRC progression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Taken together, our study highlights the mechanisms of lncRNA &lt;em&gt;STEAP3-AS1&lt;/em&gt; in facilitating CRC progression involving the &lt;em&gt;STEAP3-AS1&lt;/em&gt;/STEAP3/Wnt/β-catenin axis, which may provide novel diagnostic biomarkers or therapeutic targets to benefit CRC treatment. Hypoxia-induced HIF-1α transcriptionally upregulates the expression of lncRNA STEAP3-AS1, which interacts competitively with YTHDF2, thus upregulating mRNA stability of STEAP3 and consequent STEAP3 protein expression. The enhanced STEAP3 expression results in production of cellular ferrous iron (Fe&lt;sup&gt;2+&lt;/sup&gt;), which induces the Ser 9 phosphorylation and inactivation of GSK3β, releasing β-catenin for nuclear translocation and contributing to subsequent activation of Wnt signaling to promote CRC progression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
 </description>
     </item>
     

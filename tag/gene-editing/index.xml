@@ -5,12 +5,37 @@
     <link>https://example.com/tag/gene-editing/</link>
       <atom:link href="https://example.com/tag/gene-editing/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene Editing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gene Editing</title>
       <link>https://example.com/tag/gene-editing/</link>
     </image>
+    
+    <item>
+      <title>Programmable A-to-Y base editing by fusing an adenine base editor with an N-methylpurine DNA glycosylase</title>
+      <link>https://example.com/article/36624150/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36624150/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here we developed an adenine transversion base editor, AYBE, for A-to-C and A-to-T transversion editing in mammalian cells by fusing an adenine base editor (ABE) with hypoxanthine excision protein N-methylpurine DNA glycosylase (MPG). We also engineered AYBE variants enabling targeted editing at genomic loci with higher transversion editing activity (up to 72% for A-to-C or A-to-T editing).&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>CRISPR screens for functional interrogation of immunity</title>
