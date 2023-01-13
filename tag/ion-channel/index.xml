@@ -5,12 +5,37 @@
     <link>https://example.com/tag/ion-channel/</link>
       <atom:link href="https://example.com/tag/ion-channel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ion Channel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Ion Channel</title>
       <link>https://example.com/tag/ion-channel/</link>
     </image>
+    
+    <item>
+      <title>DNA topoisomerase 2-associated proteins PATL1 and PATL2 regulate the biogenesis of hERG K&#43; channels</title>
+      <link>https://example.com/article/36608291/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36608291/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The human ether-a-go-go-related gene (hERG) K&lt;sup&gt;+&lt;/sup&gt; channel conducts a rapidly activating delayed rectifier K&lt;sup&gt;+&lt;/sup&gt; current (I&lt;sub&gt;Kr&lt;/sub&gt;), which is essential for normal electrical activity of the heart. Precise regulation of hERG channel biogenesis is critical for serving its physiological functions, and deviations from the regulation result in human diseases. However, the mechanism underlying the precise regulation of hERG channel biogenesis remains elusive. Here, by using forward genetic screen, we found that PATR-1, the &lt;em&gt;Caenorhabditis elegans&lt;/em&gt; homolog of the yeast DNA topoisomerase 2-associated protein PAT1, is a critical regulator for the biogenesis of UNC-103, the ERG K&lt;sup&gt;+&lt;/sup&gt; channel in &lt;em&gt;C. elegans&lt;/em&gt;. A loss-of-function mutation in patr-1 down-regulates the expression level of UNC-103 proteins and suppresses the phenotypic defects resulted from a gain-of-function mutation in the unc-103 gene. Furthermore, downregulation of PATL1 and PATL2, the human homologs of PAT1, decreases protein levels and the current density of native hERG channels in SH-SY5Y cells and human-induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs). Knockdown of PATL1 and PATL2 elongates the duration of action potentials in hiPSC-CMs, suggesting that PATL1 and PATL2 affect the function of hERG channels and hence electrophysiological characteristics in the human heart. Further studies found that PATL1 and PATL2 interact with TFIIE, a general transcription factor required for forming the RNA polymerase II preinitiation complex, and dual-luciferase reporter assays indicated that PATL1 and PATL2 facilitate the transcription of hERG mRNAs. Together, our study discovers that evolutionarily conserved DNA topoisomerase 2-associated proteins regulate the biogenesis of hERG channels via a transcriptional mechanism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The sodium channel subunit SCNN1B suppresses colorectal cancer via suppression of active c-Raf and MAPK signaling cascade</title>

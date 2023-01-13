@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cell-death/</link>
       <atom:link href="https://example.com/tag/cell-death/index.xml" rel="self" type="application/rss+xml" />
     <description>Cell Death</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cell Death</title>
       <link>https://example.com/tag/cell-death/</link>
     </image>
+    
+    <item>
+      <title>Neutrophil, neutrophil extracellular traps and endothelial cell dysfunction in sepsis</title>
+      <link>https://example.com/review/36629024/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36629024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sepsis is a persistent systemic inflammatory condition involving multiple organ failures resulting from a dysregulated immune response to infection, and one of the hallmarks of sepsis is endothelial dysfunction. During its progression, neutrophils are the first line of innate immune defence against infection. Aside from traditional mechanisms, such as phagocytosis or the release of inflammatory cytokines, reactive oxygen species and other antibacterial substances, activated neutrophils also release web-like structures composed of tangled decondensed DNA, histone, myeloperoxidase and other granules called neutrophil extracellular traps (NETs), which can efficiently ensnare bacteria in the circulation. In contrast, excessive neutrophil activation and NET release may induce endothelial cells to shift toward a pro-inflammatory and pro-coagulant phenotype. Furthermore, neutrophils and NETs can degrade glycocalyx on the endothelial cell surface and increase endothelium permeability. Consequently, the endothelial barrier collapses, contributing to impaired microcirculatory blood flow, tissue hypoperfusion and life-threatening organ failure in the late phase of sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>microRNA-33 deficiency in macrophages enhances autophagy, improves mitochondrial homeostasis, and protects against lung fibrosis</title>
@@ -3020,6 +3045,31 @@
     </item>
     
     <item>
+      <title>Microbe capture by splenic macrophages triggers sepsis via T cell-death-dependent neutrophil lifespan shortening</title>
+      <link>https://example.com/article/35945238/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35945238/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The mechanisms linking systemic infection to hyperinflammation and immune dysfunction in sepsis are poorly understood. Extracellular histones promote sepsis pathology, but their source and mechanism of action remain unclear. Here, we show that by controlling fungi and bacteria captured by splenic macrophages, neutrophil-derived myeloperoxidase attenuates sepsis by suppressing histone release. In systemic candidiasis, microbial capture via the phagocytic receptor SIGNR1 neutralizes myeloperoxidase by facilitating marginal zone infiltration and T cell death-dependent histone release. Histones and hyphae induce cytokines in adjacent CD169 macrophages including G-CSF that selectively depletes mature Ly6G&lt;sup&gt;high&lt;/sup&gt; neutrophils by shortening their lifespan in favour of immature Ly6G&lt;sup&gt;low&lt;/sup&gt; neutrophils with a defective oxidative burst. In sepsis patient plasma, these mediators shorten mature neutrophil lifespan and correlate with neutrophil mortality markers. Consequently, high G-CSF levels and neutrophil lifespan shortening activity are associated with sepsis patient mortality. Hence, by exploiting phagocytic receptors, pathogens degrade innate and adaptive immunity through the detrimental impact of downstream effectors on neutrophil lifespan.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>PD-L1 maintains neutrophil extracellular traps release by inhibiting neutrophil autophagy in endotoxin-induced lung injury</title>
       <link>https://example.com/article/36016930/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
@@ -3263,6 +3313,147 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Male Sprague-Dawley rats were randomized and administrated intragastrically with vehicle saline or colchicine (0.5 mg/kg/day) for seven days, followed by injecting sodium taurocholate to induce SAP-ALI. Together with a healthy control group of rats, their pancreatic and lung tissues and plasma samples were collected for histology, enzyme-linked immunosorbent assay (ELISA), immunoblot, immunohistochemistry, and immunofluorescence.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Compared with the sham controls, the SAP group of rats with vehicle saline treatment displayed severe damages, inflammation with many neutrophil and macrophage infiltrates in pancreatic and lung tissues, accompanied by elevated levels of plasma interleukin-1β (IL-1β), IL-6 and tumor necrosis factor (TNF)-α, which were significantly mitigated in colchicine-treated SAP + COL group of rats. Furthermore, colchicine treatment significantly attenuated nuclear factor kappa-B (NF-κB)-p65, signal transducer and activator of transcription 3 (STAT3) and protein kinase B (AKT) phosphorylation, reduced inducible nitric oxide synthase (iNOS) and 4-Hydroxynonenal expression, ROS production and cell apoptosis by decreasing caspase-3 cleavage, Bax expression, but increasing Bcl-2, nuclear factor erythroid 2-related factor 2 (Nrf2) and heme oxygenase-1 (HO-1) expression in pancreatic and lung tissues, relative to the SAP group of rats.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Colchicine treatment significantly mitigated the severity of SAP-ALI by inhibiting inflammation, oxidative stress and cell apoptosis in rats.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Structural integrity is essential for the protective effect of mitochondrial transplantation against UV-induced cell death</title>
+      <link>https://example.com/article/35905626/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35905626/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mitochondrial transplantation exhibits protective effect on UV-induced cell death.&lt;/li&gt;
+&lt;li&gt;The mitochondrial components, such as ATP and mtDNA, are not the key factors of mitochondrial transplantation.&lt;/li&gt;
+&lt;li&gt;Mitochondria structural integrity is crucial in the radiation resistance of mitochondrial transplantation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitochondrial transplantation (MT) is a new technology developed in recent years, which injects healthy mitochondria directly into damaged tissues or blood vessels to play a therapeutic role. This technology has been studied in many animal models of various diseases including myocardial ischemia, cerebral stroke, liver and lung injury, and even has been successfully used in the treatment of childhood heart disease. MT can quickly improve tissue function within a few minutes after injection. The speed with which MT improves tissue function is frequently questioned, for it is hard to understand how the whole mitochondrion transports to the damaged sites, enters cells and functions within such a short period of time. Are there small molecules of mitochondrial component responsible for the function of MT? To test this hypothesis, we established an ultra-violet (UV)-irradiated HeLa cell model. The results of colony formation, sulforhodamine B (SRB), and Hoechst 33342/PI double staining assay strongly indicated that MT exhibited a significant protective effect against UV irradiation damage. The UV irradiation-induced cell cycle arresting at S phase, apoptosis, mitochondrial membrane potential (MMP) decreasing, and the related apoptosis signaling factors p-IKKα, p-p65, I-κB and the activation of caspase3 were all reversed by MT treatments to some extent. The mechanisms of MT were evaluated through comparing the effect of thermal inactivation, ultrasonic crushing, and repeated freezing and thawing treatments on MT function. These results denied the above hypothesis that mitochondrial component may be responsible for MT, excluded the function of ATP, mtDNA and other small molecules, and indicated that the mitochondria structural integrity is essential. We also evaluated the effect of Ca&lt;sup&gt;2+&lt;/sup&gt; concentrations (1 and 1.8 mM) on MT, and the results showed no effect was found in this UV-irradiated HeLa cell model. Our data support a potent anti-UV irradiation effect of MT, and that structural integrity of the mitochondria is critical for its function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Class IIa histone deacetylase inhibition ameliorates acute kidney injury by suppressing renal tubular cell apoptosis and enhancing autophagy and proliferation</title>
+      <link>https://example.com/article/35935816/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35935816/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Expression and function of histone deacetylases (HDACs) vary with cell types and pathological conditions. Our recent studies showed that pharmacological targeting class IIa HDACs attenuated renal fibrosis, but the effect of class IIa HDAC inhibition on acute kidney injury (AKI) remains unknown. In this study, we found that four class IIa HDACs (4, 5, 7, 9) were highly expressed in the kidney of folic acid (FA) and ischemia/reperfusion (I/R)-induced AKI in mice. Administration of TMP269, a potent and selective class IIa HDAC inhibitor, improved renal function and reduced tubular cell injury and apoptosis, with concomitant suppression of HDAC4 and elevation of acetyl-histone H3. Mechanistical studies showed that TMP269 treatment inhibited FA and I/R-induced caspase-3 cleavage, Bax expression and p53 phosphorylation. Conversely, TMP269 administration preserved expression of E-cadherin, BMP7, Klotho and Bcl-2 in injured kidneys. Moreover, TMP269 was effective in promoting cellular autophagy as indicated by increased expression of Atg7, beclin-1, and LC3II, and promoted renal tubular cell proliferation as shown by increased number of proliferating cell nuclear antigen-positive cells and expression of cyclin E. Finally, blocking class IIa HDACs inhibited FA-and I/R-induced phosphorylation of extracellular signal-regulated kinases 1 and 2, and p38, two signaling pathways associated with the pathogenesis of AKI. Collectively, these results suggest that pharmacological inhibition of class IIa HDACs protects against AKI through ameliorating apoptosis, enhancing autophagy and promoting proliferation of renal tubular cells by targeting multiple signaling pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mucin 1 Inhibits Ferroptosis and Sensitizes Vitamin E to Alleviate Sepsis-Induced Acute Lung Injury through GSK3 β/Keap1-Nrf2-GPX4 Pathway</title>
+      <link>https://example.com/article/35910848/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35910848/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Ferroptosis is a nonapoptotic form of programmed cell death, which may be related to the occurrence and development of sepsis-induced acute respiratory distress syndrome (ARDS)/acute lung injury (ALI). Mucin 1 (MUC1) is a kind of macromolecule transmembrane glycoprotein. Previous studies have shown that MUC1 could relieve ALI in sepsis and predict whether sepsis patients would develop into ARDS. However, the role of MUC1 in the ferroptosis of sepsis-induced ALI/ARDS remains unclear.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materials and methods:&lt;/em&gt; Sera samples from 50 patients with sepsis/septic shock were used to detect iron metabolism-related markers. Western blot and qRT-PCR were conducted to detect the expression levels of ferroptosis-related genes. Enzyme-linked immunosorbent assay (ELISA) was performed to evaluate inflammatory factors. Transmission electron microscopy (TEM) was used to assess morphological changes of cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The results showed that the iron metabolism-related indicators in sepsis-induced ARDS patients changed significantly, suggesting the iron metabolism disorder. The expression levels of ferroptosis-related genes in lung tissues of sepsis had marked changes, and the lipid peroxidation levels increased, while Ferrostatin-1 (Fer-1) could reverse the above results, which confirmed the occurrence of ferroptosis. In terms of mechanism studies, inhibition of MUC1 dimerization could increase the expression level of Keap1, reduce the phosphorylation level of GSK3β, inhibit the entry of Nrf2 into the nucleus, further inhibit the expression level of GPX4, enhance the lipid peroxidation level of lung tissues, trigger ferroptosis, and aggravate lung injury. Besides, inhibiting MUC1 reversed the alleviating effect of vitamin E on ALI caused by sepsis, increased the aggregation of inflammatory cells in lung tissues, and aggravated alveolar injury and edema.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study was the first to explore the changes of iron metabolism indicators in ALI/ARDS of sepsis, clarify the important role of ferroptosis in ALI/ARDS induced by sepsis, and reveal the effects and specific mechanisms of MUC1 in regulating ferroptosis, as well as the sensitization on vitamin E.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Salvianolic Acid A Protects against Lipopolysaccharide-Induced Acute Lung Injury by Inhibiting Neutrophil NETosis</title>
+      <link>https://example.com/article/35910849/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35910849/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Salvianolic acid A (SAA) is one of bioactive polyphenol extracted from a Salvia miltiorrhiza (Danshen), which was widely used to treat cardiovascular disease in traditional Chinese medicine. SAA has been reported to be protective in cardiovascular disease and ischemia injury, with anti-inflammatory and antioxidative effect, but its role in acute lung injury (ALI) is still unknown. In this study, we sought to investigate the therapeutic effects of SAA in a murine model of lipopolysaccharide- (LPS-) induced ALI. The optimal dose of SAA was determined by comparing the attenuation of lung injury score after administration of SAA at three different doses (low, 5 mg/kg; medium, 10 mg/kg; and, high 15 mg/kg). Dexamethasone (DEX) was used as a positive control for SAA. Here, we showed that the therapeutic effect of SAA (10 mg/kg) against LPS-induced pathologic injury in the lungs was comparable to DEX. SAA and DEX attenuated the increased W/D ratio and the protein level, counts of total cells and neutrophils, and cytokine levels in the BALF of ALI mice similarly. The oxidative stress was also relieved by SAA and DEX according to the superoxide dismutase and malondialdehyde. NET level in the lungs was elevated in the injured lung while SAA and DEX reduced it significantly. LPS induced phosphorylation of Src, Raf, MEK, and ERK in the lungs, which was inhibited by SAA and DEX. NET level and phosphorylation level of Src/Raf/MEK/ERK pathway in the neutrophils from acute respiratory distress syndrome (ARDS) patients were also inhibited by SAA and DEX in vitro, but the YEEI peptide reversed the protective effect of SAA completely. The inhibition of NET release by SAA was also reversed by YEEI peptide in LPS-challenged neutrophils from healthy volunteers. Our data demonstrated that SAA ameliorated ALI via attenuating inflammation, oxidative stress, and neutrophil NETosis. The mechanism of such protective effect might involve the inhibition of Src activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The discovery of potentially active diterpenoids to inhibit the pyroptosis from Callicarpa arborea</title>
+      <link>https://example.com/article/35907376/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35907376/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;66 &lt;em&gt;ent&lt;/em&gt;-clerodane diterpenoids, including 52 new compounds, were isolated from &lt;em&gt;Callicarpa arborea&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Their bioactivity against pyroptosis were evaluated, and the typical α,β-unsaturated-γ-hemiacetal lactone ring was a key active segments from SAR analysis.&lt;/li&gt;
+&lt;li&gt;Compound 1 showed potent inhibitory activity against pyroptosis by blocking NLRP3 inflammasome activation.&lt;/li&gt;
+&lt;li&gt;Compound 1 treatment markedly reduced infiltration of CD11b&lt;sup&gt;+&lt;/sup&gt;F4/80&lt;sup&gt;+&lt;/sup&gt; macrophages into lung and protected lung injury in LPS- induced septic mice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pyroptosis is a programmed-inflammatory cell death, which leads to release of inflammatory cellular contents and formation of inflammation. Uncontrollable pyroptosis can result in serious immune diseases, such as cytokine release syndrome (CRS), sepsis, disseminated intravascular coagulation (DIC), and acute organ damage, including acute respiratory distress syndrome (ARDS) and acute kidney injury (AKI). Members of the Callicarpa genus are significant raw materials for traditional Chinese medicine, widely used for analgesia, hemostasis, and anti-inflammation. Previously, we have reported some &lt;em&gt;ent&lt;/em&gt;-clerodane diterpenoids from &lt;em&gt;Callicarpa arborea&lt;/em&gt;, shown potent inhibitory effects against pyroptosis. In this study, we went on investigating this kind of diterpenoids, and yielded 66 ent-clerodane diterpenoids, including 52 new compounds, from &lt;em&gt;Callicarpa arborea&lt;/em&gt;. Their structures featured with a 5/6- (1-25) or a 6/6- (26-66)-fused double-ring scaffolds, were elucidated using spectroscopic data, electrostatic circular dichroism (ECD) and X-ray diffraction analyses. Screening for the inhibitory activity against pyroptosis by detecting of IL-1β secretion in J771A.1 cells, revealed 28 compounds with an IC50 below 10.5 μM. Compound 1 was the most potent with an IC50 of 0.68 μM and inhibited the J774A.1 macrophage pyroptosis by blocking the NLR pyrin domain containing 3 (NLRP3) inflammasome activation. An in vivo study further revealed that compound 1 decreased infiltration of CD11b&lt;sup&gt;+&lt;/sup&gt;F4/80&lt;sup&gt;+&lt;/sup&gt; macrophages into lung and attenuated the lipopolysaccharide (LPS)-induced lung injury. Taken together, this study indicated the potential of compound 1 as a candidate for pyroptosis-related inflammation treatment, as well as provided the chemical and pharmacological basis for the further development of Callicarpa genus as a herbal medicine.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

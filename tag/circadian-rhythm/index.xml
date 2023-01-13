@@ -5,12 +5,41 @@
     <link>https://example.com/tag/circadian-rhythm/</link>
       <atom:link href="https://example.com/tag/circadian-rhythm/index.xml" rel="self" type="application/rss+xml" />
     <description>Circadian Rhythm</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Circadian Rhythm</title>
       <link>https://example.com/tag/circadian-rhythm/</link>
     </image>
+    
+    <item>
+      <title>Ventilator-induced Lung Injury Is Modulated by the Circadian Clock</title>
+      <link>https://example.com/article/36480958/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36480958/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Mechanical ventilation is life-saving but may evoke ventilator-induced lung injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objectives:&lt;/em&gt; To explore how the circadian clock modulates severity of murine ventilator-induced lung injury via the core clock component BMAL1 in myeloid cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Myeloid cell BMAL1-deficient (&lt;em&gt;LysM&lt;sup&gt;Bmal1-/-&lt;/sup&gt;&lt;/em&gt;) or wild type control (&lt;em&gt;LysM&lt;sup&gt;Bmal1+/+&lt;/sup&gt;&lt;/em&gt;) mice were subjected to 4 hours mechanical ventilation (34 mL/kg bodyweight) to induce lung injury. Ventilation was initiated at dawn or dusk, or in complete darkness (circadian time 0 or 12) to determine diurnal and circadian effects. Lung injury was quantified by lung function, pulmonary permeability, blood gas analysis, neutrophil recruitment, inflammatory markers and histology. Neutrophil activation and oxidative burst were analyzed ex vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Measurements and main results:&lt;/em&gt; In diurnal experiments, mice ventilated at dawn exhibited higher permeability and neutrophil recruitment compared to dusk. Experiments at circadian time showed deterioration of pulmonary function, worsening of oxygenation and increased mortality at circadian time 0 compared to circadian time 12. Wild type neutrophils isolated at dawn showed higher activation and ROS production compared to dusk, while these day-night differences were dampened in &lt;em&gt;LysM&lt;sup&gt;Bmal1-/-&lt;/sup&gt;&lt;/em&gt; neutrophils. In &lt;em&gt;LysM&lt;sup&gt;Bmal1-/-&lt;/sup&gt;&lt;/em&gt; mice, circadian variations in VILI severity were dampened and VILI-induced mortality at circadian time 0 was reduced compared with &lt;em&gt;LysM&lt;sup&gt;Bmal1+/+&lt;/sup&gt;&lt;/em&gt; mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Inflammatory response and lung barrier dysfunction upon mechanical ventilation exhibit diurnal variations, regulated by the circadian clock. &lt;em&gt;LysM&lt;sup&gt;Bmal1-/-&lt;/sup&gt;&lt;/em&gt; mice are less susceptible to ventilation-induced pathology and lack circadian variation of severity compared with &lt;em&gt;LysM&lt;sup&gt;Bmal1+/+&lt;/sup&gt;&lt;/em&gt; mice. Our data suggest that the internal clock in myeloid cells is an important modulator of ventilator-induced lung injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Dendritic cells direct circadian anti-tumor immune responses</title>
