@@ -105,6 +105,31 @@
     </item>
     
     <item>
+      <title>IPANEMAP: integrative probing analysis of nucleic acids empowered by multiple accessibility profiles</title>
+      <link>https://example.com/article/32735675/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32735675/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The manual production of reliable RNA structure models from chemical probing experiments benefits from the integration of information derived from multiple protocols and reagents. However, the interpretation of multiple probing profiles remains a complex task, hindering the quality and reproducibility of modeling efforts. We introduce IPANEMAP, the first automated method for the modeling of RNA structure from multiple probing reactivity profiles. Input profiles can result from experiments based on diverse protocols, reagents, or collection of variants, and are jointly analyzed to predict the dominant conformations of an RNA. IPANEMAP combines sampling, clustering and multi-optimization, to produce secondary structure models that are both stable and well-supported by experimental evidences. The analysis of multiple reactivity profiles, both publicly available and produced in our study, demonstrates the good performances of IPANEMAP, even in a mono probing setting. It confirms the potential of integrating multiple sources of probing data, informing the design of informative probing assays.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Gallery for R graphs and charts</title>
       <link>https://example.com/blog/2019-08-11-r-graphics/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>

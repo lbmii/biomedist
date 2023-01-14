@@ -5,12 +5,37 @@
     <link>https://example.com/tag/heart/</link>
       <atom:link href="https://example.com/tag/heart/index.xml" rel="self" type="application/rss+xml" />
     <description>Heart</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Heart</title>
       <link>https://example.com/tag/heart/</link>
     </image>
+    
+    <item>
+      <title>Anti-angiogenic effect of exo-LncRNA TUG1 in myocardial infarction and modulation by remote ischemic conditioning</title>
+      <link>https://example.com/article/36635484/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36635484/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The successful use of exosomes in therapy after myocardial infarction depends on an improved understanding of their role in cardiac signaling and regulation. Here, we report that exosomes circulating after myocardial infarction (MI) carry LncRNA TUG1 which downregulates angiogenesis by disablement of the HIF-1α/VEGF-α axis and that this effect can be counterbalanced by remote ischemic conditioning (RIC). Rats with MI induced through left coronary artery ligation without (MI model) and with reperfusion (ischemia/reperfusion I/R model) were randomized to RIC, or MI (I/R) or sham-operated (SO) control. Data from one cohort study and one randomized-controlled trial of humans with MI were also utilized, the former involving patients who had not received percutaneous coronary intervention (PCI) and the latter patients with PCI. Exosome concentrations did not differ between intervention groups (RIC vs. control) in rats (MI and I/R model) as well as humans (with and without PCI). However, MI and I/R exosomes attenuated HIF-1α, VEGF-α, and endothelial function. LncRNA TUG1 was increased in MI and I/R exosomes, but decreased in SO and RIC exosomes. HIF-1α expression was downregulated with MI and I/R exosomes but increased with RIC exosomes. Exosome inhibition suppressed HIF-1α upregulation through RIC exosomes. VEGF-α was identified as HIF-1α-regulated target gene. Knockdown of HIF-1α decreased VEGF-α, endothelial cell capability, and tube formation. Overexpression of HIF-1α exerted opposite effects. Transfection and co-transfection of 293 T cells with exosome-inhibitor GW4869 and HIF-1α inhibitor si-HIF-1α confirmed the exosomal-LncRNA TUG1/HIF-1α/VEGF-α pathway. LncRNA TUG1 is a potential therapeutic target after MI with or without reperfusion through PCI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>TMBIM6 prevents VDAC1 multimerization and improves mitochondrial quality control to reduce sepsis-related myocardial injury</title>

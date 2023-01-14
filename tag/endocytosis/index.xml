@@ -5,12 +5,37 @@
     <link>https://example.com/tag/endocytosis/</link>
       <atom:link href="https://example.com/tag/endocytosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Endocytosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endocytosis</title>
       <link>https://example.com/tag/endocytosis/</link>
     </image>
+    
+    <item>
+      <title>GPR97 deficiency ameliorates renal interstitial fibrosis in mouse hypertensive nephropathy</title>
+      <link>https://example.com/article/36635422/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36635422/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hypertensive nephropathy (HTN) ranks as the second-leading cause of end-stage renal disease (ESRD). Accumulating evidence suggests that persistent hypertension injures tubular cells, leading to tubulointerstitial fibrosis (TIF), which is involved in the pathogenesis of HTN. G protein-coupled receptors (GPCRs) are implicated in many important pathological and physiological processes and act as important drug targets. In this study, we explored the intrarenal mechanisms underlying hypertension-associated TIF, and particularly, the potential role of GPR97, a member of the adhesion GPCR subfamily, in TIF. A deoxycorticosterone acetate (DOCA)/salt-induced hypertensive mouse model was used. We revealed a significantly upregulated expression of GPR97 in the kidneys, especially in renal tubules, of the hypertensive mice and 10 patients with biopsy-proven hypertensive kidney injury. GPR97-/- mice showed markedly elevated blood pressure, which was comparable to that of wild-type mice following DOCA/salt treatment, but dramatically ameliorated renal injury and TIF. In NRK-52E cells, we demonstrated that knockdown of GPR97 suppressed the activation of TGF-β signaling by disturbing small GTPase RhoA-mediated cytoskeletal reorganization, thus inhibiting clathrin-mediated endocytosis of TGF-β receptors and subsequent Smad activation. Collectively, this study demonstrates that GPR97 contributes to hypertension-associated TIF at least in part by facilitating TGF-β signaling, suggesting that GPR97 is a pivotal intrarenal factor for TIF progression under hypertensive conditions, and therapeutic strategies targeting GPR97 may improve the outcomes of patients with HTN.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Polystyrene microplastics significantly facilitate influenza A virus infection of host cells</title>

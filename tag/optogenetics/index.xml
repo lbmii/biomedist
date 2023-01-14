@@ -5,12 +5,37 @@
     <link>https://example.com/tag/optogenetics/</link>
       <atom:link href="https://example.com/tag/optogenetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Optogenetics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Optogenetics</title>
       <link>https://example.com/tag/optogenetics/</link>
     </image>
+    
+    <item>
+      <title>Optogenetic rejuvenation of mitochondrial membrane potential extends C. elegans lifespan</title>
+      <link>https://example.com/article/23-01-14-11-48/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-14-11-48/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitochondrial dysfunction plays a central role in aging but the exact biological causes are still being determined. Here, we show that optogenetically increasing mitochondrial membrane potential during adulthood using a light-activated proton pump improves age-associated phenotypes and extends lifespan in &lt;em&gt;Caenorhabditis elegans&lt;/em&gt;. Our findings provide direct causal evidence that rescuing the age-related decline in mitochondrial membrane potential is sufficient to slow the rate of aging and extend healthspan and lifespan.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>

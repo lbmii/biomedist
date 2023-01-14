@@ -5,12 +5,37 @@
     <link>https://example.com/tag/pancreas/</link>
       <atom:link href="https://example.com/tag/pancreas/index.xml" rel="self" type="application/rss+xml" />
     <description>Pancreas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Pancreas</title>
       <link>https://example.com/tag/pancreas/</link>
     </image>
+    
+    <item>
+      <title>Targeting Src reactivates pyroptosis to reverse chemoresistance in lung and pancreatic cancer models</title>
+      <link>https://example.com/article/36630483/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36630483/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pancreatic and lung cancers frequently develop resistance to chemotherapy-induced cell apoptosis during the treatment, indicating that targeting nonapoptotic-related pathways, such as pyroptosis, can be an alternative cancer treatment strategy. Pyroptosis is a gasdermin-driven lytic programmed cell death triggered by inflammatory caspases when initiated by canonical or noncanonical pathways that has been recently seen as a potential therapeutic target in cancer treatment. However, overcoming chemoresistance in cancers by modulating pyroptosis has not been explored. Here, we demonstrate that β5-integrin represses chemotherapy-induced canonical pyroptosis to confer cancer chemoresistance through ASAH2-driven sphingolipid metabolic reprogramming. Clinically, high β5-integrin expression associates with poor patient prognosis and chemotherapeutic responses in cancers. In addition, chemoresistant cells in vitro fail to undergo chemotherapy-induced pyroptosis, which is controlled by β5-integrin. Mechanistically, proteomic and lipidomic analyses indicate that β5-integrin up-regulates sphingolipid metabolic enzyme ceramidase (ASAH2) expression through Src-signal transducer and activator of transcription 3 (STAT3) signaling, which then reduces the metabolite ceramide concentration and subsequent ROS production to prohibit chemotherapy-induced canonical pyroptosis. Using cancer cell lines, patient-derived tumor organoids, and orthotopic lung and pancreatic animal models, we show that administration of a Src or ceramidase inhibitor rescues the response of chemoresistant pancreatic and lung cancer cells to chemotherapy by reactivating pyroptosis in vitro and in vivo. Overall, our results suggest that pyroptosis-based therapy is a means to improve cancer treatment and warrants further investigation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Gut microbiome dysregulation drives bone damage in broiler tibial dyschondroplasia by disrupting glucose homeostasis</title>
