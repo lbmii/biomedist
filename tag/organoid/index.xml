@@ -5,12 +5,44 @@
     <link>https://example.com/tag/organoid/</link>
       <atom:link href="https://example.com/tag/organoid/index.xml" rel="self" type="application/rss+xml" />
     <description>Organoid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Organoid</title>
       <link>https://example.com/tag/organoid/</link>
     </image>
+    
+    <item>
+      <title>A DLG1-ARHGAP31-CDC42 axis is essential for the intestinal stem cell response to fluctuating niche Wnt signaling</title>
+      <link>https://example.com/article/36640764/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36640764/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Polarity of the mammalian intestinal epithelium is independent of &lt;em&gt;Dlg1&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Loss of &lt;em&gt;Dlg1&lt;/em&gt; in ISCs results in cell death under high Wnt conditions&lt;/li&gt;
+&lt;li&gt;ISCs lacking &lt;em&gt;Dlg1&lt;/em&gt; have impaired cell division and migration&lt;/li&gt;
+&lt;li&gt;Canonical WNT ligands activate non-canonical Wnt signaling via DLG1-ARHGAP31-CDC42&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A central factor in the maintenance of tissue integrity is the response of stem cells to variations in the levels of niche signals. In the gut, intestinal stem cells (ISCs) depend on Wnt ligands for self-renewal and proliferation. Transient increases in Wnt signaling promote regeneration after injury or in inflammatory bowel diseases, whereas constitutive activation of this pathway leads to colorectal cancer. Here, we report that Discs large 1 (&lt;em&gt;Dlg1&lt;/em&gt;), although dispensable for polarity and cellular turnover during intestinal homeostasis, is required for ISC survival in the context of increased Wnt signaling. RNA sequencing (RNA-seq) and genetic mouse models demonstrated that DLG1 regulates the cellular response to increased canonical Wnt ligands. This occurs via the transcriptional regulation of &lt;em&gt;Arhgap31&lt;/em&gt;, a GTPase-activating protein that deactivates CDC42, an effector of the non-canonical Wnt pathway. These findings reveal a DLG1-ARHGAP31-CDC42 axis that is essential for the ISC response to increased niche Wnt signaling.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Analogous comparison unravels heightened antiviral defense and boosted viral infection upon immunosuppression in bat organoids</title>
