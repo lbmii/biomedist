@@ -5,12 +5,37 @@
     <link>https://example.com/tag/non-coding-rnas/</link>
       <atom:link href="https://example.com/tag/non-coding-rnas/index.xml" rel="self" type="application/rss+xml" />
     <description>non-coding RNAs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>non-coding RNAs</title>
       <link>https://example.com/tag/non-coding-rnas/</link>
     </image>
+    
+    <item>
+      <title>Synthetic circular RNA switches and circuits that control protein expression in mammalian cells</title>
+      <link>https://example.com/article/36642090/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36642090/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Synthetic messenger RNA (mRNA) has been focused on as an emerging application for mRNA-based therapies and vaccinations. Recently, synthetic circular RNAs (circRNAs) have shown promise as a new class of synthetic mRNA that enables superior stability and persistent gene expression in cells. However, translational control of circRNA remained challenging. Here, we develop &amp;lsquo;circRNA switches&amp;rsquo; capable of controlling protein expression from circRNA by sensing intracellular RNA or proteins. We designed microRNA (miRNA) and protein-responsive circRNA switches by inserting miRNA-binding or protein-binding sequences into untranslated regions (UTRs), or Coxsackievirus B3 Internal Ribosome Entry Site (CVB3 IRES), respectively. Engineered circRNAs efficiently expressed reporter proteins without inducing severe cell cytotoxicity and immunogenicity, and responded to target miRNAs or proteins, controlling translation levels from circRNA in a cell type-specific manner. Moreover, we constructed circRNA-based gene circuits that selectively activated translation by detecting endogenous miRNA, by connecting miRNA and protein-responsive circRNAs. The designed circRNA circuits performed better than the linear mRNA-based circuits in terms of persistent expression levels. Synthetic circRNA devices provide new insights into RNA engineering and have a potential for RNA synthetic biology and therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A specific G9a inhibitor unveils BGLT3 lncRNA as a universal mediator of chemically induced fetal globin gene expression</title>
@@ -348,6 +373,34 @@
       <guid>https://example.com/article/36574636/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Oral delivery of siRNA provides a promising paradigm for treating diseases that require regular injections. However, the multiple gastrointestinal and systemic barriers often lead to inefficient oral absorption and low bioavailability of siRNA. Technologies that can overcome these barriers are still lacking, which hurdles the clinical potential of orally delivered siRNA. Herein, small-sized, fluorinated nanocapsules (F-NCs) were developed to mediate efficient oral delivery of TNF-α siRNA for anti-inflammation treatment. The NCs possessed a disulfide-cross-linked shell structure, thus featuring robust stability in the gastrointestinal tract. Because of their small size (∼30 nm) and fluorocarbon-assisted repelling of mucin adsorption, the best-performing F&lt;sub&gt;3&lt;/sub&gt;-NCs showed excellent mucus penetration and intestinal transport capabilities without impairing the intestinal tight junction, conferring the oral bioavailability of 20.4% in relative to i.v. injection. The disulfide cross-linker could be cleaved inside target cells, causing NCs dissociation and siRNA release to potentiate the TNF-α silencing efficiency. In murine models of acute and chronic inflammation, orally delivered F&lt;sub&gt;3&lt;/sub&gt;-NCs provoked efficient TNF-α silencing and pronounced anti-inflammatory efficacies. This study therefore provides a transformative strategy for oral siRNA delivery, and would render promising utilities for anti-inflammation treatment. This article is protected by copyright. All rights reserved.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Exosomal LOC85009 inhibits docetaxel resistance in lung adenocarcinoma through regulating ATG5-induced autophagy</title>
+      <link>https://example.com/article/36641841/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641841/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; This study aims at investigating the role of a neighbor long non-coding RNA (lncRNA) of HDAC4 (LOC85009) in docetaxel (DTX) resistance of lung adenocarcinoma (LUAD).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; RT-qPCR was used to analyze LOC85009 expression in DTX-resistant LUAD cells. &lt;em&gt;In vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; experiments were applied to detect the influence of LOC85009 on LUAD cell growth and xenograft tumor growth. DNA pull down assay, RNA pull down assay, ChIP assay, CoIP assay and RIP assay were performed to identify the direct interactions between factors.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LOC85009 was lowly-expressed in DTX-resistant LUAD cells. Functionally, LOC85009 overexpression inhibited DTX resistance and cell proliferation but triggered cell apoptosis. Moreover, we identified that LOC85009 was transferred from LUAD cells to DTX-resistant LUAD cells via exosomes. Exosomal LOC85009 inhibited DTX resistance, proliferation and autophagy while induced apoptosis in DTX-resistant cells. Additionally, we found that LOC85009 sequestered ubiquitin-specific proteinase 5 (USP5) to destabilize upstream transcription factor 1 (USF1) protein, thereby inactivating ATG5 transcription.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Exosomal LOC85009 inhibits DTX resistance through regulation of ATG5-induced autophagy via USP5/USF1 axis, suggesting that LOC85009 might be a potential target to reverse DTX resistance in the treatment of LUAD.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2895,12 +2948,231 @@
     </item>
     
     <item>
+      <title>LINC00893 inhibits the progression of prostate cancer through miR-3173-5p/SOCS3/JAK2/STAT3 pathway</title>
+      <link>https://example.com/article/35818076/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35818076/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Prostate cancer (PCa) is one of the most common malignant tumors in the male urinary system. In recent years, the morbidity and mortality of PCa have been increasing due to the limited effects of existing treatment strategies. Long non-coding RNA (lncRNA) LINC00893 was reported to inhibit the proliferation and metastasis of papillary thyroid cancer cells, but its role in PCa has not been reported. This study aims to investigate the role and underlying mechanism of LINC00893 in regulating the progression of PCa cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We first compared LINC00893 expression levels between PCa tissues and normal prostate tissues through TCGA database. The relative LINC00893 expression levels were further validated in 66 pairs of PCa tissues and para-cancerous normal tissues, as well as in PCa cell lines. Gain-of-function experiment was performed by transfecting PCa cell with LINC00893 expression vector, and CCK (Cell count kit)-8, 5-Ethynyl-2&amp;rsquo;-deoxyuridine (EdU) incorporation, colony information and transwell assays were conducted to assess the functional phenotypes. Dual-luciferase reporter, RNA-binding protein immunoprecipitation (RIP) and RNA pull-down assays were performed to evaluate the molecular interactions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LINC00893 was downregulated in PCa tissues and cell lines, and patients with low expression of LINC00893 were associated with a poorer overall survival rate. LINC00893 overexpression hindered the proliferation, epithelial-mesenchymal transition (EMT) as well as the migratory ability of PCa cells, and suppressed the tumorigenesis of PCa cells in nude mice. We further demonstrated that LINC00893 acted as a sponge for miR-3173-5p and inhibited its activity, which in turn regulated the suppressor of cytokine signaling 3 (SOCS3)/Janus Kinase 2 (JAK2)/signal transducer and activator of transcription 3 (STAT3) signaling axis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study demonstrated that LINC00893 suppresses the progression of PCa cells through targeting miR-3173-5p/SOCS3/JAK2/STAT3 axis. Our data uncovers a novel tumor-suppressor role of LINC00893 in PCa, which may serve as a potential strategy for targeted therapy in PCa.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>AAV capsid engineering identified two novel variants with improved in vivo tropism for cardiomyocytes</title>
+      <link>https://example.com/article/35810332/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35810332/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AAV vectors are promising delivery tools for human gene therapy. However, broad tissue tropism and pre-existing immunity against natural serotypes limit their clinical use. We identified two AAV capsid variants, AAV2-THGTPAD and AAV2-NLPGSGD, by in vivo AAV2 peptide display library screening in a murine model of pressure overload-induced cardiac hypertrophy. Both variants showed significantly improved efficacy in in vivo cardiomyocyte transduction compared with the parental serotype AAV2 as indicated by a higher number of AAV vector episomes in the nucleus and significant improved transduction efficiency. Both variants also outcompeted the reference serotype AAV9 regarding cardiomyocyte tropism, reaching comparable cardiac transduction efficiencies accompanied with liver de-targeting and decreased transduction efficiency of non-cardiac cells. Capsid modification influenced immunogenicity as sera of mice treated with AAV2-THGTPAD and AAV2-NLPGSGD demonstrated a poor neutralization capacity for the parental serotype and the novel variants. In a therapeutic setting, using the long non-coding RNA H19 in low vector dose conditions, novel AAV variants mediated superior anti-hypertrophic effects and revealed a further improved target-to-noise ratio, i.e., cardiomyocyte tropism. In conclusion, AAV2-THGTPAD and AAV2-NLPGSGD are promising novel tools for cardiac-directed gene therapy outperforming AAV9 regarding the specificity and therapeutic efficiency of in vivo cardiomyocyte transduction.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification and characterization of novel CD274 (PD-L1) regulating microRNAs and their functional relevance in melanoma</title>
+      <link>https://example.com/article/35802807/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35802807/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Immune checkpoint inhibitors directed against programmed cell death 1 (PDCD1/PD1) receptor and programmed cell death-ligand 1 (CD274/PD-L1) have been recently successfully implemented for the treatment of many cancers, but the response rate of tumour patients is still limited due to intrinsic and acquired resistances. However, the underlying molecular mechanisms of this limited response have still to be defined in detail. The aim of this study is to uncover processes inhibiting PDCD1/CD274 expression thereby enhancing anti-tumour immune responses. The identification and characterization of microRNAs (miRNAs) targeting the 3&amp;rsquo;-untranslated region (3&amp;rsquo;-UTR) as well as the coding sequence (CDS) of CD274 will provide the basis for a new drug development.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Human melanoma cell lines and tissue samples were subjected to mRNA and/or protein expression analysis using qPCR, Western blot, flow cytometry, and/or immunohistochemistry. The data were correlated to clinical parameters. MiRNA trapping by RNA in vitro affinity purification (miTRAP) technology in combination with small RNA sequencing and different bioinformatics tools were employed to identify CD274-regulating miRNAs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Screening based on miTRAP in combination with RNAseq identified a large number of novel CD274-regulating candidate miRNAs, from which eight selected miRNAs were functionally validated. Five out of eight miRNAs were able to significantly reduce CD274 surface expression indicating that these miRNAs directly bind to the 3&amp;rsquo;-UTR or CDS of the CD274 gene. The miRNA-mediated inhibition of CD274 expression was accompanied by an increased T cell recognition. Furthermore, an inverse expression of three CD274-regulating miRNAs and CD274 was demonstrated in melanoma lesions. A CD274 miRNA score was generated, which was associated with disease progression and reduced survival of melanoma patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; These data revealed a novel mechanism that miRNAs targeting the CDS of immune checkpoint genes are functional, have prognostic relevance, and also the potential for the development of novel miRNA-based therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HOTAIR/miR-1277-5p/ZEB1 axis mediates hypoxia-induced oxaliplatin resistance via regulating epithelial-mesenchymal transition in colorectal cancer</title>
+      <link>https://example.com/article/35798695/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35798695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The hypoxic microenvironment contributes to the chemoresistance of many malignant tumors including colorectal cancer (CRC). Accumulating studies have indicated that long non-coding RNAs (lncRNAs) play important roles in chemotherapy resistance. In this study, we aimed to determine the effect of lncRNAs in hypoxia-mediated resistance in CRC and its potential mechanism. Here, we discovered that hypoxia-induced oxaliplatin resistance and HOX transcript antisense RNA (HOTAIR) expression was increased in hypoxia-treated CRC cell lines and CRC tumors. Knockdown of HOTAIR by siRNA reduced the viability and proliferation of CRC cells treated with oxaliplatin and reversed hypoxia-induced resistance. Mechanically, we found that HOTAIR modulates zinc finger E-box binding homeobox 1 (ZEB1) expression by negative regulations of miR-1277-5p. When miR-1277-5p was silenced, knockdown of HOTAIR was unable to reduce the oxaliplatin resistance in CRC cells. In mouse models of CRC, HOTAIR knockdown markedly inhibited the tumor growth when treated with oxaliplatin. Thus, HOTAIR/miR-1277-5p/ZEB1 axis appears a promising therapeutic target for improving the oxaliplatin efficacy in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel lncRNA RP11-386G11.10 reprograms lipid metabolism to promote hepatocellular carcinoma progression</title>
+      <link>https://example.com/article/35798238/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35798238/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LncRNA &lt;em&gt;RP11-386G11.10&lt;/em&gt; was up-regulated in HCC.&lt;/li&gt;
+&lt;li&gt;Overexpression of lncRNA &lt;em&gt;RP11-386G11.10&lt;/em&gt; promoted the proliferation, metastasis of HCC cells in vivo and in vitro.&lt;/li&gt;
+&lt;li&gt;We confirmed that regulation of HNRNPU expression by RP11-286H15.1 resulted in lipid accumulation in HCC cells.&lt;/li&gt;
+&lt;li&gt;HNRNPU forms a ZBTB7A-&lt;em&gt;RP11-386G11.10&lt;/em&gt;-HNRNPU positive feedback loop by promoting mRNA stability of ZBTB7A.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Emerging studies suggest that long non-coding RNAs (lncRNAs) play crucial roles in hepatocellular carcinoma (HCC). A rapidly increasing number of studies have shown that metabolic changes including lipid metabolic reprogramming play a significant role in the progression of HCC. But it remains to be elucidated how lncRNAs affect tumor cell metabolism.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Through analysis and screening of The Cancer Genome Atlas-Liver Hepatocellular Carcinoma (TCGA-LIHC) dataset, we found a novel lncRNA RP11-386G11.10 was overexpressed, related to prognosis, conserved and non-protein-coding in HCC and related to poor prognosis. Then, CCK-8, colony formation, Transwell invasion, wound healing assays were performed and nude mouse subcutaneous tumour formation and lung metastasis models were established to explore the effect of RP11-386G11.10 on HCC tumour growth and metastasis. Chromatography-mass spectrometry (GC-MS) and Nile red staining detected the effect of RP11-386G11.10 on lipid metabolism in HCC. Mechanistically, we clarified the RP11-386G11.10/miR-345-3p/HNRNPU signalling pathway through dual luciferase reporter, RNA immunoprecipitation (RIP) and chromatin immunoprecipitation (ChIP) assays and identified ZBTB7A as a transcription factor of RP11-386G11.10.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; RP11-386G11.10 was overexpressed in HCC and positively correlated with tumour size, TNM stage, and poor prognosis in HCC patients. RP11-386G11.10 promoted the proliferation and metastasis of HCC cells in vitro and in vivo. Mechanistically, RP11-386G11.10 acted as a competing endogenous RNA (ceRNA) for miR-345-3p to regulate the expression of HNRNPU and its downstream lipogenic enzymes, leading to lipid accumulation in HCC cells and promoting their growth and metastasis. In addition, we identified ZBTB7A as a transcription factor of RP11-386G11.10. Moreover, HNRNPU promoted the expression of ZBTB7A in HCC cells, thereby increasing the transcriptional activity of RP11-386G11.10, and forming a positive feedback loop, ultimately leading continuous lipid accumulation, growth and metastasis in HCC cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our results indicated that the lncRNA RP11-386G11.10 was a novel oncogenic lncRNA that was strongly correlated with the poor prognosis of HCC. The ZBTB7A-RP11-386G11.10-HNRNPU positive feedback loop promoted the progression of HCC by regulating lipid anabolism. RP11-386G11.10 may become a new diagnostic and prognostic biomarker and therapy target for HCC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CircRNA Samd4 induces cardiac repair after myocardial infarction by blocking mitochondria-derived ROS output</title>
       <link>https://example.com/article/35791879/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35791879/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Reactive oxygen species (ROS) derived from oxygen-dependent mitochondrial metabolism are the essential drivers of cardiomyocyte (CM) cell-cycle arrest in adulthood. Mitochondria-localized circular RNAs (circRNAs) play important roles in regulating mitochondria-derived ROS production, but their functions in cardiac regeneration are still unknown. Herein, we investigated the functions and underlying mechanism of mitochondria-localized circSamd4 in cardiac regeneration. We found that circSamd4 was selectively expressed in fetal and neonatal CMs. The transcription factor Nrf2 controlled circSamd4 expression by binding to the promoter of circSamd4 host gene. CircSamd4 overexpression reduced while circSamd4 silenced increased mitochondrial oxidative stress and subsequent oxidative DNA damage. Moreover, circSamd4 overexpression induced CM proliferation and prevented CM apoptosis, which reduced the size of the fibrotic area and improved cardiac function after myocardial infarction (MI). Mechanistically, circSamd4 reduced oxidative stress generation and maintained mitochondrial dynamics by inducing the mitochondrial translocation of the Vcp protein, which downregulated Vdac1 expression and prevented the mitochondrial permeability transition pore (mPTP) from opening. Our findings suggest that circSamd4 is a novel therapeutic target for heart failure after MI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Alterations of the Primary Cilia Gene SPAG17 and SOX9 Locus Noncoding RNAs Identified by RNA-Sequencing Analysis in Patients With Systemic Sclerosis</title>
+      <link>https://example.com/article/35762854/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35762854/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Systemic sclerosis (SSc) is characterized by immune activation, vasculopathy, and unresolving fibrosis in the skin, lungs, and other organs. We performed RNA-sequencing analysis on skin biopsy samples and peripheral blood mononuclear cells (PBMCs) from SSc patients and unaffected controls to better understand the pathogenesis of SSc.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We analyzed these data 1) to test for case/control differences and 2) to identify genes whose expression levels correlate with SSc severity as measured by local skin score, modified Rodnan skin thickness score (MRSS), forced vital capacity (FVC), or diffusing capacity for carbon monoxide (DLco).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We found that PBMCs from SSc patients showed a strong type I interferon signature. This signal was found to be replicated in the skin, with additional signals for increased extracellular matrix (ECM) genes, classical complement pathway activation, and the presence of B cells. Notably, we observed a marked decrease in the expression of SPAG17, a cilia component, in SSc skin. We identified genes that correlated with the MRSS, DLco, and FVC in SSc PBMCs and skin using weighted gene coexpression network analysis. These genes were largely distinct from the case/control differentially expressed genes. In PBMCs, type I interferon signatures negatively correlated with the DLco. In SSc skin, ECM gene expression positively correlated with the MRSS. Network analysis of SSc skin genes that correlated with clinical features identified the noncoding RNAs SOX9-AS1 and ROCR, both near the SOX9 locus, as highly connected, &amp;ldquo;hub-like&amp;rdquo; genes in the network.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; These results identify noncoding RNAs and SPAG17 as novel factors potentially implicated in the pathogenesis of SSc.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-1224-5p Aggravates Sepsis-Related Acute Lung Injury in Mice</title>
+      <link>https://example.com/article/35799888/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35799888/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oxidative stress and inflammation are implicated in the development of sepsis-related acute lung injury (ALI). MicroRNA-1224-5p (miR-1224-5p) plays critical roles in regulating inflammatory response and reactive oxygen species (ROS) production. The present study is aimed at investigating the role and underlying mechanisms of miR-1224-5p in sepsis-related ALI. Mice were intratracheally injected with lipopolysaccharide (LPS, 5 mg/kg) for 12 h to induce sepsis-related ALI. To manipulate miR-1224-5p level, mice were intravenously injected with the agomir, antagomir, or matched controls for 3 consecutive days. Murine peritoneal macrophages were stimulated with LPS (100 ng/mL) for 6 h to further validate the role of miR-1224-5p &lt;em&gt;in vitro&lt;/em&gt;. To inhibit adenosine 5&amp;rsquo;-monophosphate-activated protein kinase alpha (AMPKα) or peroxisome proliferator activated receptor-gamma (PPAR-γ), compound C or GW9662 was used &lt;em&gt;in vivo&lt;/em&gt; and &lt;em&gt;in vitro&lt;/em&gt;. We found that miR-1224-5p levels in lungs were elevated by LPS injection, and that the miR-1224-5p antagomir significantly alleviated LPS-induced inflammation, oxidative stress, and ALI in mice. Conversely, the miR-1224-5p agomir aggravated inflammatory response, ROS generation, and pulmonary dysfunction in LPS-treated mice. In addition, the miR-1224-5p antagomir reduced, while the miR-1224-5p agomir aggravated LPS-induced inflammation and oxidative stress in murine peritoneal macrophages. Further findings revealed that miR-1224-5p is directly bound to the 3&amp;rsquo;-untranslated regions of PPAR-γ and subsequently suppressed PPAR-γ/AMPKα axis, thereby aggravating LPS-induced ALI &lt;em&gt;in vivo&lt;/em&gt; and &lt;em&gt;in vitro&lt;/em&gt;. We demonstrate for the first time that endogenous miR-1224-5p is a critical pathogenic factor for inflammation and oxidative damage during LPS-induced ALI through inactivating PPAR-γ/AMPKα axis. Targeting miR-1224-5p may help to develop novel approaches to treat sepsis-related ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Inhalation of Salvianolic Acid B Prevents Fine Particulate Matter-Induced Acute Airway Inflammation and Oxidative Stress by Downregulating the LTR4/MyD88/NLRP3 Pathway</title>
+      <link>https://example.com/article/35795853/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35795853/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Air pollution is a serious threat to human health. Inhaled fine particulate matter (PM2.5) can cause inflammation and oxidative stress in the airway; however, the mechanisms responsible for this effect have yet to be elucidated and there are no specific drugs that can prevent and treat this condition. In the present study, we investigated the effects and mechanisms underlying the inhalation of salvianolic acid B (SalB) on PM2.5-induced airway inflammation and oxidative stress. We used a PM2.5-induced mouse model of airway inflammation and oxidative stress, along with a human epithelial cell model, to study the action and mechanisms of SalB by histopathology, real-time PCR, enzyme-linked immunosorbent assays, flow cytometry, and western blotting. SalB treatment markedly inhibited the PM2.5-induced increase in the number of neutrophils and macrophages in bronchoalveolar lavage fluid, improved the infiltration of inflammatory cells in lung tissue, and reduced injury in the alveolar septum. Furthermore, SalB reduced the mRNA and protein levels of interleukin- (IL-) 1β, tumor necrosis factor- (TNF-) α, keratinocyte (KC), and transforming growth factor- (TGF-) β1 in lung tissues and the protein levels of IL-1β, TNF-α, IL-8, IL-6, and TGF-β1 in human epithelial cells. SalB treatment also significantly prevented the reduction of levels of superoxide dismutase, catalase, glutathione, and glutathione peroxidase in lung tissue and reduced the levels of reactive oxygen species in human epithelial cells induced by PM2.5. Furthermore, SalB and the myeloid differentiation primary response 88 (MyD88) inhibitor ST2825 inhibited the expression levels of toll-like receptor 4 (TLR4), MyD88, tumor necrosis factor receptor associated factor 6 (TRAF-6), and NOD-like receptor protein 3 (NLRP3), as well as the phosphorylation of downstream Erk1/2 and P38 in lung tissue and epithelial cells. SalB protects against PM2.5-induced airway inflammation and oxidative stress in a manner that is associated with the inhibition of the TLR4/MyD88/TRAF-6/NLRP3 pathway and downstream signals ERK1/2 and P38.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2929,6 +3201,66 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Real-time quantitative PCR was used to examine the expression of circEXOC6B in CRC tissues. In vivo and in vitro functional experiments were performed to determine the suppressor role of circEXOC6B in CRC progression. RNA pull-down, mass spectrometry, RNA-binding protein immunoprecipitation, co-immunoprecipitation, fluorescence in situ hybridization, and immunofluorescence were applied to investigate the possible mechanisms connecting circEXOC6B to CRC growth and 5-fluorouracil-induced apoptosis. Chromatin immunoprecipitation, dual-luciferase assay, western blot, and immunohistochemistry were used to explore the mechanisms underlying the HIF1A regulation of RRAGB transcription.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; circEXOC6B was downregulated in CRC tissues, and its lower expression was associated with poor prognosis of patients. Functional experiments showed that circEXOC6B inhibited growth and increased the 5-fluorouracil-induced apoptosis of CRC cells in vitro and in vivo. Mechanistically, circEXOC6B inhibited the heterodimer formation of RRAGB by binding to it, thereby suppressing the mTORC1 pathway and HIF1A level. In addition, HIF1A upregulated the transcription of RRAGB by binding to its promoter region. Altogether, the results demonstrated that a HIF1A-RRAGB-mTORC1 positive feedback loop drives tumor progression in CRC, which could be interrupted by circEXOC6B.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; circEXOC6B inhibits the progression of CRC and enhances the chemosensitivity of CRC cells to 5-fluorouracil by antagonizing the HIF1A-RRAGB-mTORC1 positive feedback loop. circEXOC6B is a possible therapeutic target for CRC treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LncNSPL facilitates influenza A viral immune escape by restricting TRIM25-mediated K63-linked RIG-I ubiquitination</title>
+      <link>https://example.com/article/35800772/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35800772/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NS1 protein of Influenza A virus (IAV) promotes lncNSPL expression&lt;/li&gt;
+&lt;li&gt;Deficiency of lncNSPL specifically enhances retinoic acid-inducible gene I (RIG-I) initiated IFN production&lt;/li&gt;
+&lt;li&gt;lncNSPL competes with tripartite interaction motif 25 (TRIM25) for binding RIG-I and inhibits its K63 ubiquitination&lt;/li&gt;
+&lt;li&gt;lncNSPL inhibits innate antiviral immune responses and enhances viral replication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long noncoding RNAs (lncRNAs) participate in host antiviral responses; however, how viruses exploit host lncRNAs for immune evasion remains largely unexplored. Functional screening of differentially expressed lncRNA profile in patients infected with influenza A virus (IAV) revealed that lncNSPL (Gene Symbol: LOC105370355) was highly expressed in monocytes. Deregulated lncNSPL expression in infected monocytes significantly increased type I interferon (IFN-I) production and inhibited IAV replication. Moreover, lncNSPL overexpression in mice increased the susceptibility to IAV infection and impaired IFN-I production. LncNSPL directly bound to retinoic acid-inducible gene I (RIG-I) and blocked the interaction between RIG-I and E3 ligase tripartite interaction motif 25 (TRIM25), reducing TRIM25-mediated lysine 63 (K63)-linked RIG-I ubiquitination and limiting the downstream production of antiviral mediators during the late stage of IAV infection. Our findings provide mechanistic insights into the means by which lncNSPL promotes IAV replication and immune escape via restricting the TRIM25-mediated RIG-I K63-linked ubiquitination. Thus, lncNSPL may represent a promising pharmaceutical target for anti-IAV therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiR-155 deficiency protects renal tubular epithelial cells from telomeric and genomic DNA damage in cisplatin-induced acute kidney injury</title>
+      <link>https://example.com/article/35832084/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35832084/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Cisplatin nephrotoxicity is an important cause of acute kidney injury (AKI), limiting cisplatin application in cancer therapy. Growing evidence has suggested that genome instability, telomeric dysfunction, and DNA damage were involved in the tubular epithelial cells (TECs) damage in cisplatin-induced AKI (cAKI). However, the exact mechanism is largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We subjected miR-155&lt;sup&gt;-/-&lt;/sup&gt; mice and wild-type controls, as well as HK-2 cells, to cAKI models. We assessed kidney function and injury with standard techniques. The cell apoptosis and DNA damage of TECs were evaluated both &lt;em&gt;in vivo&lt;/em&gt; and &lt;em&gt;in vitro&lt;/em&gt;. Telomeres were measured by the fluorescence &lt;em&gt;in situ&lt;/em&gt; hybridization.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The expression level of miR-155 was upregulated in cAKI. Inhibition of miR-155 expression protected cisplatin-induced AKI both &lt;em&gt;in vivo&lt;/em&gt; and &lt;em&gt;in vitro&lt;/em&gt;. Compared with wild-type mice, miR-155&lt;sup&gt;-/-&lt;/sup&gt; mice had reduced mortality, improved renal function and pathological damage after cisplatin intervention. Moreover, inhibition of miR-155 expression attenuated TECs apoptosis and DNA damage. These protective effects were caused by increasing expression of telomeric repeat binding factor 1 (TRF1) and cyclin-dependent kinase 12 (CDK12), thereby limiting the telomeric dysfunction and the genomic DNA damage in cAKI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We demonstrated that miR-155 deficiency could significantly attenuate pathological damage and mortality in cAKI through inhibition of TECs apoptosis, genome instability, and telomeric dysfunction, which is possibly regulated by the increasing expression of TRF1 and CDK12. This study will provide a new molecular strategy for the prevention of cAKI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

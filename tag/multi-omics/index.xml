@@ -177,6 +177,34 @@
     </item>
     
     <item>
+      <title>Immune- and Stemness-Related Genes Revealed by Comprehensive Analysis and Validation for Cancer Immunity and Prognosis and Its Nomogram in Lung Adenocarcinoma</title>
+      <link>https://example.com/article/35833114/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35833114/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Lung adenocarcinoma (LUAD) is a familiar lung cancer with a very poor prognosis. This study investigated the immune- and stemness-related genes to develop model related with cancer immunity and prognosis in LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Method:&lt;/em&gt; The Cancer Genome Atlas (TCGA) was utilized for obtaining original transcriptome data and clinical information. Differential expression, prognostic value, and correlation with clinic parameter of mRNA stemness index (mRNAsi) were conducted in LUAD. Significant mRNAsi-related module and hub genes were screened using weighted gene coexpression network analysis (WGCNA). Meanwhile, immune-related differential genes (IRGs) were screened in LUAD. Stem cell index and immune-related differential genes (SC-IRGs) were screened and further developed to construct prognosis-related model and nomogram. Comprehensive analysis of hub genes and subgroups, involving enrichment in the subgroup [gene set enrichment analysis (GSEA)], gene mutation, genetic correlation, gene expression, immune, tumor mutation burden (TMB), and drug sensitivity, used bioinformatics and reverse transcription polymerase chain reaction (RT-PCR) for verification.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Through difference analysis, mRNAsi of LUAD group was markedly higher than that of normal group. Clinical parameters (age, gender, and T staging) were ascertained to be highly relevant to mRNAsi. MEturquoise and MEblue were found to be the most significant modules (including positive and negative correlations) related to mRNAsi via WGCNA. The functions and pathways of the two mRNAsi-related modules were mainly enriched in tumorigenesis, development, and metastasis. Combining stem cell index-related differential genes and immune-related differential genes, 30 prognosis-related SC-IRGs were screened via Cox regression analysis. Then, 16 prognosis-related SC-IRGs were screened to construct a LASSO regression model at last. In addition, the model was successfully validated by using TCGA-LUAD and GSE68465, whereas c-index and the calibration curves were utilized to demonstrate the clinical value of our nomogram. Following the validation of the model, GSEA, immune cell correlation, TMB, clinical relevance, etc., have found significant difference in high- and low-risk groups, and 16-gene expression of the SC-IRG model also was tested by RT-PCR. &lt;em&gt;ADRB2&lt;/em&gt;, &lt;em&gt;ANGPTL4&lt;/em&gt;, &lt;em&gt;BDNF&lt;/em&gt;, &lt;em&gt;CBLC&lt;/em&gt;, &lt;em&gt;CX3CR1&lt;/em&gt;, and &lt;em&gt;IL3RA&lt;/em&gt; were found markedly different expression between the tumor and normal group.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; The SC-IRG model and the prognostic nomogram could accurately predict LUAD survival. Our study used mRNAsi combined with immunity that may lay a foundation for the future research studies in LUAD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Multi-omic analysis reveals divergent molecular events in scarring and regenerative wound healing</title>
       <link>https://example.com/article/35077667/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>

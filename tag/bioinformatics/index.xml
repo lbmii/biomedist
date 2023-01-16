@@ -1594,6 +1594,34 @@
     </item>
     
     <item>
+      <title>Immune- and Stemness-Related Genes Revealed by Comprehensive Analysis and Validation for Cancer Immunity and Prognosis and Its Nomogram in Lung Adenocarcinoma</title>
+      <link>https://example.com/article/35833114/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35833114/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Lung adenocarcinoma (LUAD) is a familiar lung cancer with a very poor prognosis. This study investigated the immune- and stemness-related genes to develop model related with cancer immunity and prognosis in LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Method:&lt;/em&gt; The Cancer Genome Atlas (TCGA) was utilized for obtaining original transcriptome data and clinical information. Differential expression, prognostic value, and correlation with clinic parameter of mRNA stemness index (mRNAsi) were conducted in LUAD. Significant mRNAsi-related module and hub genes were screened using weighted gene coexpression network analysis (WGCNA). Meanwhile, immune-related differential genes (IRGs) were screened in LUAD. Stem cell index and immune-related differential genes (SC-IRGs) were screened and further developed to construct prognosis-related model and nomogram. Comprehensive analysis of hub genes and subgroups, involving enrichment in the subgroup [gene set enrichment analysis (GSEA)], gene mutation, genetic correlation, gene expression, immune, tumor mutation burden (TMB), and drug sensitivity, used bioinformatics and reverse transcription polymerase chain reaction (RT-PCR) for verification.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Through difference analysis, mRNAsi of LUAD group was markedly higher than that of normal group. Clinical parameters (age, gender, and T staging) were ascertained to be highly relevant to mRNAsi. MEturquoise and MEblue were found to be the most significant modules (including positive and negative correlations) related to mRNAsi via WGCNA. The functions and pathways of the two mRNAsi-related modules were mainly enriched in tumorigenesis, development, and metastasis. Combining stem cell index-related differential genes and immune-related differential genes, 30 prognosis-related SC-IRGs were screened via Cox regression analysis. Then, 16 prognosis-related SC-IRGs were screened to construct a LASSO regression model at last. In addition, the model was successfully validated by using TCGA-LUAD and GSE68465, whereas c-index and the calibration curves were utilized to demonstrate the clinical value of our nomogram. Following the validation of the model, GSEA, immune cell correlation, TMB, clinical relevance, etc., have found significant difference in high- and low-risk groups, and 16-gene expression of the SC-IRG model also was tested by RT-PCR. &lt;em&gt;ADRB2&lt;/em&gt;, &lt;em&gt;ANGPTL4&lt;/em&gt;, &lt;em&gt;BDNF&lt;/em&gt;, &lt;em&gt;CBLC&lt;/em&gt;, &lt;em&gt;CX3CR1&lt;/em&gt;, and &lt;em&gt;IL3RA&lt;/em&gt; were found markedly different expression between the tumor and normal group.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; The SC-IRG model and the prognostic nomogram could accurately predict LUAD survival. Our study used mRNAsi combined with immunity that may lay a foundation for the future research studies in LUAD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>ggClusterNet: An R package for microbiome network analysis and modularity-based multiple network layouts</title>
       <link>https://example.com/article/imt2.32/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
@@ -1632,6 +1660,34 @@
       <guid>https://example.com/article/35691281/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Immune reactions after trauma are characterized by immediate activation of innate immunity and simultaneously downregulation of adaptive immunity leading to a misbalanced immunohomeostasis and immunosuppression of the injured host. Therefore, the susceptibility to secondary infections is strongly increased after trauma. Immune responses are regulated by a network of immune cells influencing each other and at the same time modifying their functions dependent on the inflammatory environment. Although myeloid-derived suppressor cells (MDSCs) are initially described as T-cell suppressors, their immunomodulatory capacity after trauma is mostly undefined. Therefore, in vitro-generated MDSCs were adoptively transferred into mice after blunt chest trauma (TxT). A single MDSC treatment-induced splenic T-cell expansion decreased apoptosis sensitivity and improved proliferation in the absence of T-cell exhaustion until 2 weeks after trauma. MDSC treatment had a long-lasting effect on the genomic landscape of CD4+ T cells by upregulating primarily Th2-associated genes. Remarkably, immune-activating functions of MDSCs supported the ability of TxT mice to respond to post-traumatic secondary antigen challenge. Secondary insults were mimicked by immunizing MDSC-treated TxT mice with ovalbumin (OVA), followed by OVA restimulation in vitro. MDSC treatment significantly increased the frequency of OVA-specific T cells, enhanced their Th1/Th2 cytokine expression, and induced upregulation of cytolytic molecules finally improving OVA-specific cytotoxicity. Overall, we could show that therapeutic MDSC treatment after TxT improves post-traumatic T-cell functions, which might enable the traumatic host to counterbalance trauma-induced immunoparalysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell transcriptome profiling of the immune space-time landscape reveals dendritic cell regulatory program in polymicrobial sepsis</title>
+      <link>https://example.com/article/35832091/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35832091/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Evident immunosuppression has been commonly seen among septic patients, and it is demonstrated to be a major driver of morbidity. Nevertheless, a comprehensive view of the host immune response to sepsis is lacking as the majority of studies on immunosuppression have focused on a specific type of immune cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We applied multi-compartment, single-cell RNA sequencing (scRNA-seq) to dissect heterogeneity within immune cell subsets during sepsis progression on cecal ligation and puncture (CLP) mouse model. Flow cytometry and multiplex immunofluorescence tissue staining were adopted to identify the presence of &amp;lsquo;mature DCs enriched in immunoregulatory molecules&amp;rsquo; (mregDC) upon septic challenge. To explore the function of mregDC, sorted mregDC were co-cultured with naïve CD4&lt;sup&gt;+&lt;/sup&gt; T cells. Intracellular signaling pathways that drove mregDC program were determined by integrating scRNA-seq and bulk-seq data, combined with inhibitory experiments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; ScRNA-seq analysis revealed that sepsis induction was associated with substantial alterations and heterogeneity of canonical immune cell types, including T, B, natural killer (NK), and myeloid cells, across three immune-relevant tissue sites. We found a unique subcluster of conventional dendritic cells (cDCs) that was characterized by specific expression of maturation- and migration-related genes, along with upregulation of immunoregulatory molecules, corresponding to the previously described &amp;lsquo;mregDCs&amp;rsquo; in cancer. Flow cytometry and in stiu immunofluorescence staining confirmed the presence of sepsis-induced mregDC at protein level. Functional experiments showed that sepsis-induced mregDCs potently activated naive CD4&lt;sup&gt;+&lt;/sup&gt; T cells, while promoted CD4&lt;sup&gt;+&lt;/sup&gt; T cell conversion to regulatory T cells. Further observations indicated that the mregDC program was initiated via TNFRSF-NF-κB- and IFNGR2-JAK-STAT3-dependent pathways within 24 h of septic challenge. Additionally, we confirmed the detection of mregDC in human sepsis using publicly available data from a recently published single-cell study of COVID-19 patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study generates a comprehensive single-cell immune landscape for polymicrobial sepsis, in which we identify the significant alterations and heterogeneity in immune cell subsets that take place during sepsis. Moreover, we find a conserved and potentially targetable immunoregulatory program within DCs that associates with hyperinflammation and organ dysfunction early following sepsis induction.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

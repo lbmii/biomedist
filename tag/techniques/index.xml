@@ -5,12 +5,37 @@
     <link>https://example.com/tag/techniques/</link>
       <atom:link href="https://example.com/tag/techniques/index.xml" rel="self" type="application/rss+xml" />
     <description>Techniques</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Techniques</title>
       <link>https://example.com/tag/techniques/</link>
     </image>
+    
+    <item>
+      <title>Synthetic circular RNA switches and circuits that control protein expression in mammalian cells</title>
+      <link>https://example.com/article/36642090/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36642090/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Synthetic messenger RNA (mRNA) has been focused on as an emerging application for mRNA-based therapies and vaccinations. Recently, synthetic circular RNAs (circRNAs) have shown promise as a new class of synthetic mRNA that enables superior stability and persistent gene expression in cells. However, translational control of circRNA remained challenging. Here, we develop &amp;lsquo;circRNA switches&amp;rsquo; capable of controlling protein expression from circRNA by sensing intracellular RNA or proteins. We designed microRNA (miRNA) and protein-responsive circRNA switches by inserting miRNA-binding or protein-binding sequences into untranslated regions (UTRs), or Coxsackievirus B3 Internal Ribosome Entry Site (CVB3 IRES), respectively. Engineered circRNAs efficiently expressed reporter proteins without inducing severe cell cytotoxicity and immunogenicity, and responded to target miRNAs or proteins, controlling translation levels from circRNA in a cell type-specific manner. Moreover, we constructed circRNA-based gene circuits that selectively activated translation by detecting endogenous miRNA, by connecting miRNA and protein-responsive circRNAs. The designed circRNA circuits performed better than the linear mRNA-based circuits in terms of persistent expression levels. Synthetic circRNA devices provide new insights into RNA engineering and have a potential for RNA synthetic biology and therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Programmable A-to-Y base editing by fusing an adenine base editor with an N-methylpurine DNA glycosylase</title>
@@ -1562,6 +1587,31 @@
     </item>
     
     <item>
+      <title>A nanoparticle probe for the imaging of autophagic flux in live mice via magnetic resonance and near-infrared fluorescence</title>
+      <link>https://example.com/article/35817962/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35817962/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy-the lysosomal degradation of cytoplasmic components via their sequestration into double-membraned autophagosomes-has not been detected non-invasively. Here we show that the flux of autophagosomes can be measured via magnetic resonance imaging or serial near-infrared fluorescence imaging of intravenously injected iron oxide nanoparticles decorated with cathepsin-cleavable arginine-rich peptides functionalized with the near-infrared fluorochrome Cy5.5 (the peptides facilitate the uptake of the nanoparticles by early autophagosomes, and are then cleaved by cathepsins in lysosomes). In the heart tissue of live mice, the nanoparticles enabled quantitative measurements of changes in autophagic flux, upregulated genetically, by ischaemia-reperfusion injury or via starvation, or inhibited via the administration of a chemotherapeutic or the antibiotic bafilomycin. In mice receiving doxorubicin, pre-starvation improved cardiac function and overall survival, suggesting that bursts of increased autophagic flux may have cardioprotective effects during chemotherapy. Autophagy-detecting nanoparticle probes may facilitate the further understanding of the roles of autophagy in disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Conservation and divergence of cortical cell organization in human and mouse revealed by MERFISH</title>
       <link>https://example.com/article/35771910/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
@@ -1620,6 +1670,31 @@
       <guid>https://example.com/article/35761067/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lactylation was initially discovered on human histones. Given its nascence, its occurrence on nonhistone proteins and downstream functional consequences remain elusive. Here we report a cyclic immonium ion of lactyllysine formed during tandem mass spectrometry that enables confident protein lactylation assignment. We validated the sensitivity and specificity of this ion for lactylation through affinity-enriched lactylproteome analysis and large-scale informatic assessment of nonlactylated spectral libraries. With this diagnostic ion-based strategy, we confidently determined new lactylation, unveiling a wide landscape beyond histones from not only the enriched lactylproteome but also existing unenriched human proteome resources. Specifically, by mining the public human Meltome Atlas, we found that lactylation is common on glycolytic enzymes and conserved on ALDOA. We also discovered prevalent lactylation on DHRS7 in the draft of the human tissue proteome. We partially demonstrated the functional importance of lactylation: site-specific engineering of lactylation into ALDOA caused enzyme inhibition, suggesting a lactylation-dependent feedback loop in glycolysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Based on lapatinib innovative near-infrared fluorescent probes targeting HER1/HER2 for in vivo tumors imaging</title>
+      <link>https://example.com/article/35779413/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35779413/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human epidermal growth factor receptors HER1 and HER2, overexpressed in non-small cell lung cancer, colorectal cancer, liver cancer, are key regulators of tumor cells proliferation, invasion and survival. Many antibody- or peptide-based fluorescent probes targeted to HER1/HER2 are under active clinical evaluation. However, the effective small-molecule near-infrared (NIR) fluorescent probes are still lacking. Herein, with the strategy of drug repurposing, we developed a series of HER1/HER2-targeted probes YQ-H (01-07) composed of fluorophore (a cyanine dye, MPA), linker unit and targeted unit (lapatinib, LAP). The synthesized probes were evaluated in vitro and in vivo tumor specificity/affinity. Specially, the probe YQ-H-06 exhibited optimal pharmacokinetic property and tumor/normal tissue ratio (T/N) in tumor-bearing mice. Furthermore, we evaluated the targeting capability of YQ-H-06 in orthotopic colorectal cancer and orthotopic hepatic carcinoma mice. It was indicated that YQ-H-06 had the characteristic of great biosafety, favorable pH and chemical stability, as well as provided excellent tumor contrast in orthotopic murine tumor models. The NIR fluorescent probe YQ-H-06 will shed light on tumor detection and fluorescence-guided surgery.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

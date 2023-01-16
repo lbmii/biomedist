@@ -5,12 +5,44 @@
     <link>https://example.com/tag/cancers/</link>
       <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cancers</title>
       <link>https://example.com/tag/cancers/</link>
     </image>
+    
+    <item>
+      <title>Targeting KRAS-mutant stomach/colorectal tumors by disrupting the ERK2-p53 complex</title>
+      <link>https://example.com/article/36641751/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641751/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;p53 associates with phosphorylated ERK2 through a hydrophobic interaction&lt;/li&gt;
+&lt;li&gt;Mutant KRAS enables ERK2 to interact with p53 based on conformation change&lt;/li&gt;
+&lt;li&gt;Trametinib disrupts the ERK2-p53 complex by blocking ERK2 phosphorylation&lt;/li&gt;
+&lt;li&gt;Trametinib promotes PUMA transcription by recruiting p300/CBP to p53 protein&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;KRAS is widely mutated in human cancers, resulting in unchecked tumor proliferation and metastasis, which makes identifying KRAS-targeting therapies a priority. Herein, we observe that mutant KRAS specifically promotes the formation of the ERK2-p53 complex in stomach/colorectal tumor cells. Disruption of this complex by applying MEK1/2 and ERK2 inhibitors elicits strong apoptotic responses in a p53-dependent manner, validated by genome-wide knockout screening. Mechanistically, p53 physically associates with phosphorylated ERK2 through a hydrophobic interaction in the presence of mutant KRAS, which suppresses p53 activation by preventing the recruitment of p300/CBP; trametinib disrupts the ERK2-p53 complex by reducing ERK2 phosphorylation, allowing the acetylation of p53 protein by recruiting p300/CBP; acetylated p53 activates PUMA transcription and thereby kills KRAS-mutant tumors. Our study shows an important role for the ERK2-p53 complex and provides a potential therapeutic strategy for treating KRAS-mutant cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Oxidative stress-triggered Wnt signaling perturbation characterizes the tipping point of lung adeno-to-squamous transdifferentiation</title>
@@ -361,6 +393,34 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; SOST expression in 442 breast cancer tissues was characterized by immunohistochemistry and statistically analyzed for the association with breast cancer bone metastases. Bone metastatic breast cancer SCP2 cells were induced for SOST silencing or overexpression and their bone metastatic behaviors were tested in vitro and in vivo. To identify potential therapeutics, we screened inhibitors of the interaction of SOST with STAT3 from a small chemical molecule library and tested the inhibitory effects of one inhibitor on breast cancer growth and bone metastasis in vitro and in vivo.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We found that up-regulated SOST expression was associated with breast cancer bone metastases and worse survival of breast cancer patients. SOST silencing significantly reduced the bone metastatic capacity of SCP2 cells. SOST interacted with STAT3 to enhance the TGF-β/KRAS signaling, increasing both tumor growth and bone metastasis. Treatment with one lead candidate, S6, significantly inhibited the growth of breast-cancer organoids and bone metastasis in mice.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings highlight a new class of potential therapeutics for treatment of bone metastasis in breast cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Exosomal LOC85009 inhibits docetaxel resistance in lung adenocarcinoma through regulating ATG5-induced autophagy</title>
+      <link>https://example.com/article/36641841/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641841/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; This study aims at investigating the role of a neighbor long non-coding RNA (lncRNA) of HDAC4 (LOC85009) in docetaxel (DTX) resistance of lung adenocarcinoma (LUAD).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; RT-qPCR was used to analyze LOC85009 expression in DTX-resistant LUAD cells. &lt;em&gt;In vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; experiments were applied to detect the influence of LOC85009 on LUAD cell growth and xenograft tumor growth. DNA pull down assay, RNA pull down assay, ChIP assay, CoIP assay and RIP assay were performed to identify the direct interactions between factors.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LOC85009 was lowly-expressed in DTX-resistant LUAD cells. Functionally, LOC85009 overexpression inhibited DTX resistance and cell proliferation but triggered cell apoptosis. Moreover, we identified that LOC85009 was transferred from LUAD cells to DTX-resistant LUAD cells via exosomes. Exosomal LOC85009 inhibited DTX resistance, proliferation and autophagy while induced apoptosis in DTX-resistant cells. Additionally, we found that LOC85009 sequestered ubiquitin-specific proteinase 5 (USP5) to destabilize upstream transcription factor 1 (USF1) protein, thereby inactivating ATG5 transcription.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Exosomal LOC85009 inhibits DTX resistance through regulation of ATG5-induced autophagy via USP5/USF1 axis, suggesting that LOC85009 might be a potential target to reverse DTX resistance in the treatment of LUAD.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3315,6 +3375,31 @@
     </item>
     
     <item>
+      <title>KRAS mutant-driven SUMOylation controls extracellular vesicle transmission to trigger lymphangiogenesis in pancreatic cancer</title>
+      <link>https://example.com/article/35579947/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35579947/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lymph node (LN) metastasis occurs frequently in pancreatic ductal adenocarcinoma (PDAC) and predicts poor prognosis for patients. The KRASG12D mutation confers an aggressive PDAC phenotype that is susceptible to lymphatic dissemination. However, the regulatory mechanism underlying KRASG12D mutation-driven LN metastasis in PDAC remains unclear. Herein, we found that PDAC with the KRASG12D mutation (KRASG12D PDAC) sustained extracellular vesicle-mediated (EV-mediated) transmission of heterogeneous nuclear ribonucleoprotein A1 (hnRNPA1) in a SUMOylation-dependent manner and promoted lymphangiogenesis and LN metastasis in vitro and in vivo. Mechanistically, hnRNPA1 bound with SUMO2 at the lysine 113 residue via KRASG12D-induced hyperactivation of SUMOylation, which enabled its interaction with TSG101 to enhance hnRNPA1 packaging and transmission via EVs. Subsequently, SUMOylation induced EV-packaged-hnRNPA1 anchoring to the adenylate- and uridylate-rich elements of PROX1 in lymphatic endothelial cells, thus stabilizing PROX1 mRNA. Importantly, impeding SUMOylation of EV-packaged hnRNPA1 dramatically inhibited LN metastasis of KRASG12D PDAC in a genetically engineered KrasG12D/+ Trp53R172H/+ Pdx-1-Cre (KPC) mouse model. Our findings highlight the mechanism by which KRAS mutant-driven SUMOylation triggers EV-packaged hnRNPA1 transmission to promote lymphangiogenesis and LN metastasis, shedding light on the potential application of hnRNPA1 as a therapeutic target in patients with KRASG12D PDAC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Tankyrase-selective inhibitor STP1002 shows preclinical antitumour efficacy without on-target toxicity in the gastrointestinal tract</title>
       <link>https://example.com/article/35849876/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
@@ -3343,12 +3428,464 @@
     </item>
     
     <item>
+      <title>Using Circulating Tumor DNA in Colorectal Cancer: Current and Evolving Practices</title>
+      <link>https://example.com/review/35839443/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35839443/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There exists a tremendous opportunity in identifying and determining the appropriate predictive and prognostic biomarker(s) for risk stratification of patients with colorectal cancers (CRCs). Circulating tumor DNA (ctDNA) has emerged as a promising prognostic and possibly predictive biomarker in the personalized management of patients with CRCs. The disease is particularly suited to a liquid biopsy-based approach since there is a great deal of shedding of circulating tumor fragments (cells, DNA, methylation markers, etc). ctDNA has been shown to have several potential applications, including detecting minimal residual disease (MRD), monitoring for early recurrence, molecular profiling, and therapeutic response prediction. The utility of ctDNA has broadened from its initial use in the advanced/metastatic setting for molecular profiling and detection of acquired resistance mechanisms, toward identifying MRD, as well as early detection. Prospective studies such as CIRCULATE, COBRA, Dynamic II/III, and ACT3 are underway in the MRD setting to further understand how ctDNA may be used to inform clinical decision making using both tumor-informed and tumor-agnostic platforms. These prospective studies use ctDNA to guide management of patients with CRC and will be critical to help guide how and where ctDNA should or should not be used in clinical decision making. It is also important to understand that there are different types of ctDNA liquid biopsy platforms, each with advantages and disadvantages in different clinical indications. This review provides an overview of the current and evolving use of ctDNA in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>TCR-Vγδ usage distinguishes protumor from antitumor intestinal γδ T cell subsets</title>
       <link>https://example.com/article/35857588/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35857588/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;γδ T cells represent a substantial fraction of intestinal lymphocytes at homeostasis, but they also constitute a major lymphocyte population infiltrating colorectal cancers (CRCs); however, their temporal contribution to CRC development or progression remains unclear. Using human CRC samples and murine CRC models, we found that most γδ T cells in premalignant or nontumor colons exhibit cytotoxic markers, whereas tumor-infiltrating γδ T cells express a protumorigenic profile. These contrasting T cell profiles were associated with distinct T cell receptor (TCR)-Vγδ gene usage in both humans and mice. Longitudinal intersectional genetics and antibody-dependent strategies targeting murine γδ T cells enriched in the epithelium at steady state led to heightened tumor development, whereas targeting γδ subsets that accumulate during CRC resulted in reduced tumor growth. Our results uncover temporal pro- and antitumor roles for γδ T cell subsets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting sphingosine kinase 1/2 by a novel dual inhibitor SKI-349 suppresses non-small cell lung cancer cell growth</title>
+      <link>https://example.com/article/35831279/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35831279/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sphingosine kinase 1 (SphK1) and sphingosine kinase (SphK2) are both important therapeutic targets of non-small cell lung cancer (NSCLC). SKI-349 is a novel, highly efficient and small molecular SphK1/2 dual inhibitor. Here in primary human NSCLC cells and immortalized cell lines, SKI-349 potently inhibited cell proliferation, cell cycle progression, migration and viability. The dual inhibitor induced mitochondrial depolarization and apoptosis activation in NSCLC cells, but it was non-cytotoxic to human lung epithelial cells. SKI-349 inhibited SphK activity and induced ceramide accumulation in primary NSCLC cells, without affecting SphK1/2 expression. SKI-349-induced NSCLC cell death was attenuated by sphingosine-1-phosphate and by the SphK activator K6PC-5, but was potentiated by the short-chain ceramide C6. Moreover, SKI-349 induced Akt-mTOR inactivation, JNK activation, and oxidative injury in primary NSCLC cells. In addition, SKI-349 decreased bromodomain-containing protein 4 (BRD4) expression and downregulated BRD4-dependent genes (Myc, cyclin D1 and Klf4) in primary NSCLC cells. At last, SKI-349 (10 mg/kg) administration inhibited NSCLC xenograft growth in nude mice. Akt-mTOR inhibition, JNK activation, oxidative injury and BRD4 downregulation were detected in SKI-349-treated NSCLC xenograft tissues. Taken together, targeting SphK1/2 by SKI-349 potently inhibits NSCLC cell growth &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LINC00893 inhibits the progression of prostate cancer through miR-3173-5p/SOCS3/JAK2/STAT3 pathway</title>
+      <link>https://example.com/article/35818076/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35818076/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Prostate cancer (PCa) is one of the most common malignant tumors in the male urinary system. In recent years, the morbidity and mortality of PCa have been increasing due to the limited effects of existing treatment strategies. Long non-coding RNA (lncRNA) LINC00893 was reported to inhibit the proliferation and metastasis of papillary thyroid cancer cells, but its role in PCa has not been reported. This study aims to investigate the role and underlying mechanism of LINC00893 in regulating the progression of PCa cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We first compared LINC00893 expression levels between PCa tissues and normal prostate tissues through TCGA database. The relative LINC00893 expression levels were further validated in 66 pairs of PCa tissues and para-cancerous normal tissues, as well as in PCa cell lines. Gain-of-function experiment was performed by transfecting PCa cell with LINC00893 expression vector, and CCK (Cell count kit)-8, 5-Ethynyl-2&amp;rsquo;-deoxyuridine (EdU) incorporation, colony information and transwell assays were conducted to assess the functional phenotypes. Dual-luciferase reporter, RNA-binding protein immunoprecipitation (RIP) and RNA pull-down assays were performed to evaluate the molecular interactions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LINC00893 was downregulated in PCa tissues and cell lines, and patients with low expression of LINC00893 were associated with a poorer overall survival rate. LINC00893 overexpression hindered the proliferation, epithelial-mesenchymal transition (EMT) as well as the migratory ability of PCa cells, and suppressed the tumorigenesis of PCa cells in nude mice. We further demonstrated that LINC00893 acted as a sponge for miR-3173-5p and inhibited its activity, which in turn regulated the suppressor of cytokine signaling 3 (SOCS3)/Janus Kinase 2 (JAK2)/signal transducer and activator of transcription 3 (STAT3) signaling axis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study demonstrated that LINC00893 suppresses the progression of PCa cells through targeting miR-3173-5p/SOCS3/JAK2/STAT3 axis. Our data uncovers a novel tumor-suppressor role of LINC00893 in PCa, which may serve as a potential strategy for targeted therapy in PCa.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dopamine Signaling Promotes Tissue-Resident Memory Differentiation of CD8&#43; T Cells and Antitumor Immunity</title>
+      <link>https://example.com/article/35802647/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35802647/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tissue-resident memory CD8&lt;sup&gt;+&lt;/sup&gt; T (T&lt;sub&gt;RM&lt;/sub&gt;) cells have been associated with robust protective antitumor immune responses and improved prognosis of patients with cancer. Therefore, therapeutic strategies that modulate either the production or activity of T&lt;sub&gt;RM&lt;/sub&gt; cells could be effective for treating cancer. Using a high-throughput drug screen, we showed that the neurotransmitter dopamine drives differentiation of CD8&lt;sup&gt;+&lt;/sup&gt; T cells into CD103&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells. In murine syngeneic tumor xenograft models and clinical human colon cancer samples, DRD5 served as the major functional dopamine receptor on CD8&lt;sup&gt;+&lt;/sup&gt; T cells and positively correlated with T&lt;sub&gt;RM&lt;/sub&gt; cell density. DRD5 deficiency led to a failure of CD8&lt;sup&gt;+&lt;/sup&gt; T cells to accumulate in tissues, resulting in impaired T&lt;sub&gt;RM&lt;/sub&gt; cell formation, reduced effector function, and uncontrolled disease progression. Moreover, dopamine treatment promoted the antitumor activity of CD8&lt;sup&gt;+&lt;/sup&gt; T cells and suppressed colorectal cancer growth in immunocompentent mouse models, and ex vivo preconditioning with dopamine enhanced the in vivo efficacy of chimeric antigen receptor (CAR)-T cells. Finally, in a patient with colorectal cancer cohort, dopamine expression was positively associated with patient survival and CD8&lt;sup&gt;+&lt;/sup&gt; T-cell infiltration. These findings suggest that dopaminergic immunoregulation plays an important role in the differentiation of CD8&lt;sup&gt;+&lt;/sup&gt; cells into CD103&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells and thereby modulates T&lt;sub&gt;RM&lt;/sub&gt;-elicited antitumor immunity in colorectal cancer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Identification of an immunostimulatory function of dopamine signaling by promoting tissue-resident memory T-cell differentiation and sustaining T-cell effector functions reveals potential therapeutic strategies and prognostic biomarkers for colorectal cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-modal molecular programs regulate melanoma cell state</title>
+      <link>https://example.com/article/35810190/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35810190/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Melanoma cells display distinct intrinsic phenotypic states. Here, we seek to characterize the molecular regulation of these states using multi-omic analyses of whole exome, transcriptome, microRNA, long non-coding RNA and DNA methylation data together with reverse-phase protein array data on a panel of 68 highly annotated early passage melanoma cell lines. We demonstrate that clearly defined cancer cell intrinsic transcriptomic programs are maintained in melanoma cells ex vivo and remain highly conserved within melanoma tumors, are associated with distinct immune features within tumors, and differentially correlate with checkpoint inhibitor and adoptive T cell therapy efficacy. Through integrative analyses we demonstrate highly complex multi-omic regulation of melanoma cell intrinsic programs that provide key insights into the molecular maintenance of phenotypic states. These findings have implications for cancer biology and the identification of new therapeutic strategies. Further, these deeply characterized cell lines will serve as an invaluable resource for future research in the field.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HuR as a molecular target for cancer therapeutics and immune-related disorders</title>
+      <link>https://example.com/review/35817212/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35817212/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The control of eukaryotic gene expression occurs at multiple levels, from transcription to messenger RNA processing, transport, localization, turnover, and translation. RNA-binding proteins control gene expression and are involved in different stages of mRNA processing, including splicing, maturation, turnover, and translation. A ubiquitously expressed RBP Human antigen R is engaged in the RNA processes mentioned above but, most importantly, controls mRNA stability and turnover. Dysregulation of HuR is linked to many diseases, including cancer and other immune-related disorders. HuR targets mRNAs containing AU-rich elements at their 3&amp;rsquo;untranslated region, which encodes proteins involved in cell growth, proliferation, tumor formation, angiogenesis, immune evasion, inflammation, invasion, and metastasis. HuR overexpression has been reported in many tumor types, which led to a poor prognosis for patients. Hence, HuR is considered an appealing drug target for cancer treatment. Therefore, multiple attempts have been made to identify small molecule inhibitors for blocking HuR functions. This article reviews the current prospects of drugs that target HuR in numerous cancer types, their mode of action, and off-target effects. Furthermore, we will summarize drugs that interfered with HuR-RNA interactions and established themselves as novel therapeutics. We will also highlight the significance of HuR overexpression in multiple cancers and discuss its role in immune functions. This review provides evidence of a new era of HuR-targeted small molecules that can be used for cancer therapeutics either as a monotherapy or in combination with other cancer treatment modalities.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification and characterization of novel CD274 (PD-L1) regulating microRNAs and their functional relevance in melanoma</title>
+      <link>https://example.com/article/35802807/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35802807/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Immune checkpoint inhibitors directed against programmed cell death 1 (PDCD1/PD1) receptor and programmed cell death-ligand 1 (CD274/PD-L1) have been recently successfully implemented for the treatment of many cancers, but the response rate of tumour patients is still limited due to intrinsic and acquired resistances. However, the underlying molecular mechanisms of this limited response have still to be defined in detail. The aim of this study is to uncover processes inhibiting PDCD1/CD274 expression thereby enhancing anti-tumour immune responses. The identification and characterization of microRNAs (miRNAs) targeting the 3&amp;rsquo;-untranslated region (3&amp;rsquo;-UTR) as well as the coding sequence (CDS) of CD274 will provide the basis for a new drug development.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Human melanoma cell lines and tissue samples were subjected to mRNA and/or protein expression analysis using qPCR, Western blot, flow cytometry, and/or immunohistochemistry. The data were correlated to clinical parameters. MiRNA trapping by RNA in vitro affinity purification (miTRAP) technology in combination with small RNA sequencing and different bioinformatics tools were employed to identify CD274-regulating miRNAs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Screening based on miTRAP in combination with RNAseq identified a large number of novel CD274-regulating candidate miRNAs, from which eight selected miRNAs were functionally validated. Five out of eight miRNAs were able to significantly reduce CD274 surface expression indicating that these miRNAs directly bind to the 3&amp;rsquo;-UTR or CDS of the CD274 gene. The miRNA-mediated inhibition of CD274 expression was accompanied by an increased T cell recognition. Furthermore, an inverse expression of three CD274-regulating miRNAs and CD274 was demonstrated in melanoma lesions. A CD274 miRNA score was generated, which was associated with disease progression and reduced survival of melanoma patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; These data revealed a novel mechanism that miRNAs targeting the CDS of immune checkpoint genes are functional, have prognostic relevance, and also the potential for the development of novel miRNA-based therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HOTAIR/miR-1277-5p/ZEB1 axis mediates hypoxia-induced oxaliplatin resistance via regulating epithelial-mesenchymal transition in colorectal cancer</title>
+      <link>https://example.com/article/35798695/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35798695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The hypoxic microenvironment contributes to the chemoresistance of many malignant tumors including colorectal cancer (CRC). Accumulating studies have indicated that long non-coding RNAs (lncRNAs) play important roles in chemotherapy resistance. In this study, we aimed to determine the effect of lncRNAs in hypoxia-mediated resistance in CRC and its potential mechanism. Here, we discovered that hypoxia-induced oxaliplatin resistance and HOX transcript antisense RNA (HOTAIR) expression was increased in hypoxia-treated CRC cell lines and CRC tumors. Knockdown of HOTAIR by siRNA reduced the viability and proliferation of CRC cells treated with oxaliplatin and reversed hypoxia-induced resistance. Mechanically, we found that HOTAIR modulates zinc finger E-box binding homeobox 1 (ZEB1) expression by negative regulations of miR-1277-5p. When miR-1277-5p was silenced, knockdown of HOTAIR was unable to reduce the oxaliplatin resistance in CRC cells. In mouse models of CRC, HOTAIR knockdown markedly inhibited the tumor growth when treated with oxaliplatin. Thus, HOTAIR/miR-1277-5p/ZEB1 axis appears a promising therapeutic target for improving the oxaliplatin efficacy in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel lncRNA RP11-386G11.10 reprograms lipid metabolism to promote hepatocellular carcinoma progression</title>
+      <link>https://example.com/article/35798238/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35798238/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LncRNA &lt;em&gt;RP11-386G11.10&lt;/em&gt; was up-regulated in HCC.&lt;/li&gt;
+&lt;li&gt;Overexpression of lncRNA &lt;em&gt;RP11-386G11.10&lt;/em&gt; promoted the proliferation, metastasis of HCC cells in vivo and in vitro.&lt;/li&gt;
+&lt;li&gt;We confirmed that regulation of HNRNPU expression by RP11-286H15.1 resulted in lipid accumulation in HCC cells.&lt;/li&gt;
+&lt;li&gt;HNRNPU forms a ZBTB7A-&lt;em&gt;RP11-386G11.10&lt;/em&gt;-HNRNPU positive feedback loop by promoting mRNA stability of ZBTB7A.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Emerging studies suggest that long non-coding RNAs (lncRNAs) play crucial roles in hepatocellular carcinoma (HCC). A rapidly increasing number of studies have shown that metabolic changes including lipid metabolic reprogramming play a significant role in the progression of HCC. But it remains to be elucidated how lncRNAs affect tumor cell metabolism.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Through analysis and screening of The Cancer Genome Atlas-Liver Hepatocellular Carcinoma (TCGA-LIHC) dataset, we found a novel lncRNA RP11-386G11.10 was overexpressed, related to prognosis, conserved and non-protein-coding in HCC and related to poor prognosis. Then, CCK-8, colony formation, Transwell invasion, wound healing assays were performed and nude mouse subcutaneous tumour formation and lung metastasis models were established to explore the effect of RP11-386G11.10 on HCC tumour growth and metastasis. Chromatography-mass spectrometry (GC-MS) and Nile red staining detected the effect of RP11-386G11.10 on lipid metabolism in HCC. Mechanistically, we clarified the RP11-386G11.10/miR-345-3p/HNRNPU signalling pathway through dual luciferase reporter, RNA immunoprecipitation (RIP) and chromatin immunoprecipitation (ChIP) assays and identified ZBTB7A as a transcription factor of RP11-386G11.10.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; RP11-386G11.10 was overexpressed in HCC and positively correlated with tumour size, TNM stage, and poor prognosis in HCC patients. RP11-386G11.10 promoted the proliferation and metastasis of HCC cells in vitro and in vivo. Mechanistically, RP11-386G11.10 acted as a competing endogenous RNA (ceRNA) for miR-345-3p to regulate the expression of HNRNPU and its downstream lipogenic enzymes, leading to lipid accumulation in HCC cells and promoting their growth and metastasis. In addition, we identified ZBTB7A as a transcription factor of RP11-386G11.10. Moreover, HNRNPU promoted the expression of ZBTB7A in HCC cells, thereby increasing the transcriptional activity of RP11-386G11.10, and forming a positive feedback loop, ultimately leading continuous lipid accumulation, growth and metastasis in HCC cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our results indicated that the lncRNA RP11-386G11.10 was a novel oncogenic lncRNA that was strongly correlated with the poor prognosis of HCC. The ZBTB7A-RP11-386G11.10-HNRNPU positive feedback loop promoted the progression of HCC by regulating lipid anabolism. RP11-386G11.10 may become a new diagnostic and prognostic biomarker and therapy target for HCC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Glycoengineered anti-CD39 promotes anticancer responses by depleting suppressive cells and inhibiting angiogenesis in tumor models</title>
+      <link>https://example.com/article/35775486/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35775486/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immunosuppressive cells accumulating in the tumor microenvironment constitute a formidable barrier that interferes with current immunotherapeutic approaches. A unifying feature of these tumor-associated immune and vascular endothelial cells appears to be the elevated expression of ectonucleotidase CD39, which in tandem with ecto-5&amp;rsquo;-nucleotidase CD73, catalyzes the conversion of extracellular ATP into adenosine. We glycoengineered an afucosylated anti-CD39 IgG2c and tested this reagent in mouse melanoma and colorectal tumor models. We identified major biological effects of this approach on cancer growth, associated with depletion of immunosuppressive cells, mediated through enhanced Fcγ receptor-directed (FcγR-directed), antibody-dependent cellular cytotoxicity (ADCC). Furthermore, regulatory/exhausted T cells lost CD39 expression, as a consequence of antibody-mediated trogocytosis. Most strikingly, tumor-associated macrophages and endothelial cells with high CD39 expression were effectively depleted following antibody treatment, thereby blocking angiogenesis. Tumor site-specific cellular modulation and lack of angiogenesis synergized with chemotherapy and anti-PD-L1 immunotherapy in experimental tumor models. We conclude that depleting suppressive cells and targeting tumor vasculature, through administration of afucosylated anti-CD39 antibody and the activation of ADCC, comprises an improved, purinergic system-modulating strategy for cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NY-ESO-1-specific redirected T cells with endogenous TCR knockdown mediate tumor response and cytokine release syndrome</title>
+      <link>https://example.com/article/35768164/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35768164/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Because of the shortage of ideal cell surface antigens, the development of T-cell receptor (TCR)-engineered T cells (TCR-T) that target intracellular antigens such as NY-ESO-1 is a promising approach for treating patients with solid tumors. However, endogenous TCRs in vector-transduced T cells have been suggested to impair cell-surface expression of transduced TCR while generating mispaired TCRs that can become self-reactive.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We conducted a first-in-human phase I clinical trial with the TCR-transduced T-cell product (TBI-1301) in patients with NY-ESO-1-expressing solid tumors. In manufacturing TCR-T cells, we used a novel affinity-enhanced NY-ESO-1-specific TCR that was transduced by a retroviral vector that enables siRNA (small interfering RNA)-mediated silencing of endogenous TCR. The patients were divided into two cohorts. Cohort 1 was given a dose of 5×10&lt;sup&gt;8&lt;/sup&gt; cells (whole cells including TCR-T cells) preconditioned with 1500 mg/m&lt;sup&gt;2&lt;/sup&gt; cyclophosphamide. Cohort 2 was given 5× 10&lt;sup&gt;9&lt;/sup&gt; cells preconditioned with 1500 mg/m&lt;sup&gt;2&lt;/sup&gt; cyclophosphamide.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In vitro study showed that both the CD8&lt;sup&gt;+&lt;/sup&gt; and CD4&lt;sup&gt;+&lt;/sup&gt; T fractions of TCR-T cells exhibited cytotoxic effects against NY-ESO-1-expressing tumor cells. Three patients and six patients were allocated to cohort 1 and cohort 2, respectively. Three of the six patients who received 5×10&lt;sup&gt;9&lt;/sup&gt; cells showed tumor response, while three patients developed early-onset cytokine release syndrome (CRS). One of the patients developed a grade 3 lung injury associated with the infiltration of the TCR-T cells. No siRNA-related adverse events other than CRS were observed. Cytokines including interleukin 6 I and monocyte chemotactic protein-1/chemokine (C-C motif) ligand (CCL2)increased in the sera of patients with CRS. In vitro analysis showed these cytokines were not secreted from the T cells infused. A significant fraction of the manufactured T cells in patients with CRS was found to express either CD244, CD39, or both at high levels.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The trial showed that endogenous TCR-silenced and affinity-enhanced NY-ESO-1 TCR-T cells were safely administered except for grade 3 lung injury. The TCR-T cell infusion exhibited significant tumor response and early-onset CRS in patients with tumors that express NY-ESO-1 at high levels. The differentiation properties of the manufactured T cells may be prognostic for TCR-T-related CRS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Emerging role of exosomes in cancer progression and tumor microenvironment remodeling</title>
+      <link>https://example.com/review/35765040/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35765040/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer is one of the leading causes of death worldwide, and the factors responsible for its progression need to be elucidated. Exosomes are structures with an average size of 100 nm that can transport proteins, lipids, and nucleic acids. This review focuses on the role of exosomes in cancer progression and therapy. We discuss how exosomes are able to modulate components of the tumor microenvironment and influence proliferation and migration rates of cancer cells. We also highlight that, depending on their cargo, exosomes can suppress or promote tumor cell progression and can enhance or reduce cancer cell response to radio- and chemo-therapies. In addition, we describe how exosomes can trigger chronic inflammation and lead to immune evasion and tumor progression by focusing on their ability to transfer non-coding RNAs between cells and modulate other molecular signaling pathways such as PTEN and PI3K/Akt in cancer. Subsequently, we discuss the use of exosomes as carriers of anti-tumor agents and genetic tools to control cancer progression. We then discuss the role of tumor-derived exosomes in carcinogenesis. Finally, we devote a section to the study of exosomes as diagnostic and prognostic tools in clinical courses that is important for the treatment of cancer patients. This review provides a comprehensive understanding of the role of exosomes in cancer therapy, focusing on their therapeutic value in cancer progression and remodeling of the tumor microenvironment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction of the Mechanism of Sodium Butyrate against Radiation-Induced Lung Injury in Non-Small Cell Lung Cancer Based on Network Pharmacology and Molecular Dynamic Simulations and Molecular Dynamic Simulations</title>
+      <link>https://example.com/article/35837112/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35837112/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Radiation-induced lung injury (RILI) is a severe side effect of radiotherapy for non-small cell lung cancer (NSCLC) ,and one of the major hindrances to improve the efficacy of radiotherapy. Previous studies have confirmed that sodium butyrate (NaB) has potential of anti-radiation toxicity. However, the mechanism of the protective effect of NaB against RILI has not yet been clarified. This study aimed to explore the underlying protective mechanisms of NaB against RILI in NSCLC through network pharmacology, molecular docking, molecular dynamic simulations and &lt;em&gt;in vivo&lt;/em&gt; experiments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The predictive target genes of NaB were obtained from the PharmMapper database and the literature review. The involved genes of RILI and NSCLC were predicted using OMIM and GeneCards database. The intersectional genes of drug and disease were identified using the Venny tool and uploaded to the Cytoscape software to identify 5 core target genes of NaB associated with RILI. The correlations between the 5 core target genes and EGFR, PD-L1, immune infiltrates, chemokines and chemokine receptors were analyzed using TIMER 2.0, TIMER and TISIDB databases. We constructed the mechanism maps of the 3 key signaling pathways using the KEGG database based on the results of GO and KEGG analyses from Metascape database. The 5 core target genes and drug were docked using the AutoDock Vina tool and visualized using PyMOL software. GROMACS software was used to perform 100 ns molecular dynamics simulation. Irradiation-induced lung injury model in mice were established to assess the therapeutic effects of NaB.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A total of 51 intersectional genes involved in NaB against RILI in NSCLC were identified. The 5 core target genes were AKT1, TP53, NOTCH1, SIRT1, and PTEN. The expressions of the 5 core target genes were significantly associated with EGFR, PD-L1, immune infiltrates, chemokines and chemokine receptors, respectively. The results from GO analysis of the 51 intersectional genes revealed that the biological processes were focused on the regulation of smooth muscle cell proliferation, oxidative stress and cell death, while the three key KEGG pathways were enriched in PI3K-Akt signal pathway, p53 signal pathway, and FOXO signal pathway. The docking of NaB with the 5 core target genes showed affinity and stability, especially AKT1. &lt;em&gt;In vivo&lt;/em&gt; experiments showed that NaB treatment significantly protected mice from RILI, with reduced lung histological damage. In addition, NaB treatment significantly inhibited the PI3K/Akt signaling pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; NaB may protect patients from RILI in NSCLC through multiple target genes including AKT1, TP53, NOTCH1, SIRT1 and PTEN, with multiple signaling pathways involving, including PI3K-Akt pathway, p53 pathway, and FOXO pathways. Our findings effectively provide a feasible theoretical basis to further elucidate the mechanism of NaB in the treatment of RILI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immune- and Stemness-Related Genes Revealed by Comprehensive Analysis and Validation for Cancer Immunity and Prognosis and Its Nomogram in Lung Adenocarcinoma</title>
+      <link>https://example.com/article/35833114/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35833114/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Lung adenocarcinoma (LUAD) is a familiar lung cancer with a very poor prognosis. This study investigated the immune- and stemness-related genes to develop model related with cancer immunity and prognosis in LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Method:&lt;/em&gt; The Cancer Genome Atlas (TCGA) was utilized for obtaining original transcriptome data and clinical information. Differential expression, prognostic value, and correlation with clinic parameter of mRNA stemness index (mRNAsi) were conducted in LUAD. Significant mRNAsi-related module and hub genes were screened using weighted gene coexpression network analysis (WGCNA). Meanwhile, immune-related differential genes (IRGs) were screened in LUAD. Stem cell index and immune-related differential genes (SC-IRGs) were screened and further developed to construct prognosis-related model and nomogram. Comprehensive analysis of hub genes and subgroups, involving enrichment in the subgroup [gene set enrichment analysis (GSEA)], gene mutation, genetic correlation, gene expression, immune, tumor mutation burden (TMB), and drug sensitivity, used bioinformatics and reverse transcription polymerase chain reaction (RT-PCR) for verification.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Through difference analysis, mRNAsi of LUAD group was markedly higher than that of normal group. Clinical parameters (age, gender, and T staging) were ascertained to be highly relevant to mRNAsi. MEturquoise and MEblue were found to be the most significant modules (including positive and negative correlations) related to mRNAsi via WGCNA. The functions and pathways of the two mRNAsi-related modules were mainly enriched in tumorigenesis, development, and metastasis. Combining stem cell index-related differential genes and immune-related differential genes, 30 prognosis-related SC-IRGs were screened via Cox regression analysis. Then, 16 prognosis-related SC-IRGs were screened to construct a LASSO regression model at last. In addition, the model was successfully validated by using TCGA-LUAD and GSE68465, whereas c-index and the calibration curves were utilized to demonstrate the clinical value of our nomogram. Following the validation of the model, GSEA, immune cell correlation, TMB, clinical relevance, etc., have found significant difference in high- and low-risk groups, and 16-gene expression of the SC-IRG model also was tested by RT-PCR. &lt;em&gt;ADRB2&lt;/em&gt;, &lt;em&gt;ANGPTL4&lt;/em&gt;, &lt;em&gt;BDNF&lt;/em&gt;, &lt;em&gt;CBLC&lt;/em&gt;, &lt;em&gt;CX3CR1&lt;/em&gt;, and &lt;em&gt;IL3RA&lt;/em&gt; were found markedly different expression between the tumor and normal group.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; The SC-IRG model and the prognostic nomogram could accurately predict LUAD survival. Our study used mRNAsi combined with immunity that may lay a foundation for the future research studies in LUAD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting the &#34;undruggable&#34;: RNA-binding proteins in the spotlight in cancer therapy</title>
+      <link>https://example.com/review/35772609/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35772609/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tumors refractory to conventional therapy belong to specific subpopulations of cancer cells, which have acquired a higher number of mutations/epigenetic changes than the majority of cancer cells. This property provides them the ability to become resistant to therapy. Aberrant expression of certain RNA-binding proteins (RBPs) can regulate the sensitivity of tumor cells to chemotherapeutic drugs by binding to specific regions present in the 3´-UTR of certain mRNAs to promote or repress mRNA translation or by interacting with other proteins (including RBPs) and non-coding RNAs that are part of ribonucleoprotein complexes. In particular, an increasing interest in the RBPs involved in chemoresistance has recently emerged. In this review, we discuss how RBPs are not only affected by chemotherapeutic treatments, but also play an active role in therapeutic responses via the direct modulation of crucial cancer-related proteins. A special focus is being placed on the development of therapeutic strategies targeting these RBPs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Terbinafine prevents colorectal cancer growth by inducing dNTP starvation and reducing immune suppression</title>
+      <link>https://example.com/article/35765243/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35765243/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Existing evidence indicates that gut fungal dysbiosis might play a key role in the pathogenesis of colorectal cancer (CRC). We sought to explore whether reversing the fungal dysbiosis by terbinafine, an approved antifungal drug, might inhibit the development of CRC. A population-based study from Sweden identified a total of 185 patients who received terbinafine after their CRC diagnosis and found that they had a decreased risk of death (hazard ratio = 0.50) and metastasis (hazard ratio = 0.44) compared with patients without terbinafine administration. In multiple mouse models of CRC, administration of terbinafine decreased the fungal load, the fungus-induced myeloid-derived suppressor cell (MDSC) expansion, and the tumor burden. Fecal microbiota transplantation from mice without terbinafine treatment reversed MDSC infiltration and partially restored tumor proliferation. Mechanistically, terbinafine directly impaired tumor cell proliferation by reducing the ratio of nicotinamide adenine dinucleotide phosphate (NADP+) to reduced form of nicotinamide adenine dinucleotide phosphate (NADPH), suppressing the activity of glucose-6-phosphate dehydrogenase (G6PD), resulting in nucleotide synthesis disruption, deoxyribonucleotide (dNTP) starvation, and cell-cycle arrest. Collectively, terbinafine can inhibit CRC by reversing fungal dysbiosis, suppressing tumor cell proliferation, inhibiting fungus-induced MDSC infiltration, and restoring antitumor immune response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Based on lapatinib innovative near-infrared fluorescent probes targeting HER1/HER2 for in vivo tumors imaging</title>
+      <link>https://example.com/article/35779413/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35779413/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human epidermal growth factor receptors HER1 and HER2, overexpressed in non-small cell lung cancer, colorectal cancer, liver cancer, are key regulators of tumor cells proliferation, invasion and survival. Many antibody- or peptide-based fluorescent probes targeted to HER1/HER2 are under active clinical evaluation. However, the effective small-molecule near-infrared (NIR) fluorescent probes are still lacking. Herein, with the strategy of drug repurposing, we developed a series of HER1/HER2-targeted probes YQ-H (01-07) composed of fluorophore (a cyanine dye, MPA), linker unit and targeted unit (lapatinib, LAP). The synthesized probes were evaluated in vitro and in vivo tumor specificity/affinity. Specially, the probe YQ-H-06 exhibited optimal pharmacokinetic property and tumor/normal tissue ratio (T/N) in tumor-bearing mice. Furthermore, we evaluated the targeting capability of YQ-H-06 in orthotopic colorectal cancer and orthotopic hepatic carcinoma mice. It was indicated that YQ-H-06 had the characteristic of great biosafety, favorable pH and chemical stability, as well as provided excellent tumor contrast in orthotopic murine tumor models. The NIR fluorescent probe YQ-H-06 will shed light on tumor detection and fluorescence-guided surgery.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

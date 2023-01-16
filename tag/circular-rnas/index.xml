@@ -5,12 +5,37 @@
     <link>https://example.com/tag/circular-rnas/</link>
       <atom:link href="https://example.com/tag/circular-rnas/index.xml" rel="self" type="application/rss+xml" />
     <description>Circular RNAs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Circular RNAs</title>
       <link>https://example.com/tag/circular-rnas/</link>
     </image>
+    
+    <item>
+      <title>Synthetic circular RNA switches and circuits that control protein expression in mammalian cells</title>
+      <link>https://example.com/article/36642090/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36642090/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Synthetic messenger RNA (mRNA) has been focused on as an emerging application for mRNA-based therapies and vaccinations. Recently, synthetic circular RNAs (circRNAs) have shown promise as a new class of synthetic mRNA that enables superior stability and persistent gene expression in cells. However, translational control of circRNA remained challenging. Here, we develop &amp;lsquo;circRNA switches&amp;rsquo; capable of controlling protein expression from circRNA by sensing intracellular RNA or proteins. We designed microRNA (miRNA) and protein-responsive circRNA switches by inserting miRNA-binding or protein-binding sequences into untranslated regions (UTRs), or Coxsackievirus B3 Internal Ribosome Entry Site (CVB3 IRES), respectively. Engineered circRNAs efficiently expressed reporter proteins without inducing severe cell cytotoxicity and immunogenicity, and responded to target miRNAs or proteins, controlling translation levels from circRNA in a cell type-specific manner. Moreover, we constructed circRNA-based gene circuits that selectively activated translation by detecting endogenous miRNA, by connecting miRNA and protein-responsive circRNAs. The designed circRNA circuits performed better than the linear mRNA-based circuits in terms of persistent expression levels. Synthetic circRNA devices provide new insights into RNA engineering and have a potential for RNA synthetic biology and therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PCR Primer Design</title>

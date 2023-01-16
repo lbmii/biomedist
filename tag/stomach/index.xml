@@ -5,12 +5,44 @@
     <link>https://example.com/tag/stomach/</link>
       <atom:link href="https://example.com/tag/stomach/index.xml" rel="self" type="application/rss+xml" />
     <description>Stomach</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Stomach</title>
       <link>https://example.com/tag/stomach/</link>
     </image>
+    
+    <item>
+      <title>Targeting KRAS-mutant stomach/colorectal tumors by disrupting the ERK2-p53 complex</title>
+      <link>https://example.com/article/36641751/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641751/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;p53 associates with phosphorylated ERK2 through a hydrophobic interaction&lt;/li&gt;
+&lt;li&gt;Mutant KRAS enables ERK2 to interact with p53 based on conformation change&lt;/li&gt;
+&lt;li&gt;Trametinib disrupts the ERK2-p53 complex by blocking ERK2 phosphorylation&lt;/li&gt;
+&lt;li&gt;Trametinib promotes PUMA transcription by recruiting p300/CBP to p53 protein&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;KRAS is widely mutated in human cancers, resulting in unchecked tumor proliferation and metastasis, which makes identifying KRAS-targeting therapies a priority. Herein, we observe that mutant KRAS specifically promotes the formation of the ERK2-p53 complex in stomach/colorectal tumor cells. Disruption of this complex by applying MEK1/2 and ERK2 inhibitors elicits strong apoptotic responses in a p53-dependent manner, validated by genome-wide knockout screening. Mechanistically, p53 physically associates with phosphorylated ERK2 through a hydrophobic interaction in the presence of mutant KRAS, which suppresses p53 activation by preventing the recruitment of p300/CBP; trametinib disrupts the ERK2-p53 complex by reducing ERK2 phosphorylation, allowing the acetylation of p53 protein by recruiting p300/CBP; acetylated p53 activates PUMA transcription and thereby kills KRAS-mutant tumors. Our study shows an important role for the ERK2-p53 complex and provides a potential therapeutic strategy for treating KRAS-mutant cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Updated epidemiology of gastrointestinal cancers in East Asia</title>

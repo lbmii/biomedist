@@ -5,12 +5,44 @@
     <link>https://example.com/tag/intestine/</link>
       <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
     <description>Intestine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Intestine</title>
       <link>https://example.com/tag/intestine/</link>
     </image>
+    
+    <item>
+      <title>Targeting KRAS-mutant stomach/colorectal tumors by disrupting the ERK2-p53 complex</title>
+      <link>https://example.com/article/36641751/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641751/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;p53 associates with phosphorylated ERK2 through a hydrophobic interaction&lt;/li&gt;
+&lt;li&gt;Mutant KRAS enables ERK2 to interact with p53 based on conformation change&lt;/li&gt;
+&lt;li&gt;Trametinib disrupts the ERK2-p53 complex by blocking ERK2 phosphorylation&lt;/li&gt;
+&lt;li&gt;Trametinib promotes PUMA transcription by recruiting p300/CBP to p53 protein&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;KRAS is widely mutated in human cancers, resulting in unchecked tumor proliferation and metastasis, which makes identifying KRAS-targeting therapies a priority. Herein, we observe that mutant KRAS specifically promotes the formation of the ERK2-p53 complex in stomach/colorectal tumor cells. Disruption of this complex by applying MEK1/2 and ERK2 inhibitors elicits strong apoptotic responses in a p53-dependent manner, validated by genome-wide knockout screening. Mechanistically, p53 physically associates with phosphorylated ERK2 through a hydrophobic interaction in the presence of mutant KRAS, which suppresses p53 activation by preventing the recruitment of p300/CBP; trametinib disrupts the ERK2-p53 complex by reducing ERK2 phosphorylation, allowing the acetylation of p53 protein by recruiting p300/CBP; acetylated p53 activates PUMA transcription and thereby kills KRAS-mutant tumors. Our study shows an important role for the ERK2-p53 complex and provides a potential therapeutic strategy for treating KRAS-mutant cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Sesamolin Attenuates Kidney Injury, Intestinal Barrier Dysfunction, and Gut Microbiota Imbalance in High-Fat and High-Fructose Diet-Fed Mice</title>
@@ -2092,6 +2124,31 @@
     </item>
     
     <item>
+      <title>Using Circulating Tumor DNA in Colorectal Cancer: Current and Evolving Practices</title>
+      <link>https://example.com/review/35839443/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35839443/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There exists a tremendous opportunity in identifying and determining the appropriate predictive and prognostic biomarker(s) for risk stratification of patients with colorectal cancers (CRCs). Circulating tumor DNA (ctDNA) has emerged as a promising prognostic and possibly predictive biomarker in the personalized management of patients with CRCs. The disease is particularly suited to a liquid biopsy-based approach since there is a great deal of shedding of circulating tumor fragments (cells, DNA, methylation markers, etc). ctDNA has been shown to have several potential applications, including detecting minimal residual disease (MRD), monitoring for early recurrence, molecular profiling, and therapeutic response prediction. The utility of ctDNA has broadened from its initial use in the advanced/metastatic setting for molecular profiling and detection of acquired resistance mechanisms, toward identifying MRD, as well as early detection. Prospective studies such as CIRCULATE, COBRA, Dynamic II/III, and ACT3 are underway in the MRD setting to further understand how ctDNA may be used to inform clinical decision making using both tumor-informed and tumor-agnostic platforms. These prospective studies use ctDNA to guide management of patients with CRC and will be critical to help guide how and where ctDNA should or should not be used in clinical decision making. It is also important to understand that there are different types of ctDNA liquid biopsy platforms, each with advantages and disadvantages in different clinical indications. This review provides an overview of the current and evolving use of ctDNA in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>TCR-Vγδ usage distinguishes protumor from antitumor intestinal γδ T cell subsets</title>
       <link>https://example.com/article/35857588/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
@@ -2127,6 +2184,111 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IL-17A aggravates asthma-induced intestinal immune injury by promoting neutrophil trafficking</title>
+      <link>https://example.com/article/35815539/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35815539/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the concept of the gut-lung axis reinforced in recent years, emerging evidence has shown that intestinal homeostasis is vital for lung health. Nevertheless, the impacts of lung homeostasis on intestinal tracts and their mechanism are rarely studied. Our results showed that papain-induced asthmatic mice exhibited apparent colonic injuries compared with controls, including increased intestinal permeability, neutrophil and Th17 infiltration in the colonic lamina propria. Moreover, the intranasal administration of papain aggravated such colonic injuries in mice with dextran sulfate sodium-induced colitis, as evidenced by increased occult blood scores, shortened colon length, and accumulated neutrophils. The level of IL-17A was also higher in the serum of asthmatic mice than wild-type mice. Interestingly, the pathologic scores, the proportion of Th17 cells, and neutrophil infiltration in the colon were markedly reduced after IL-17A blocking. Similarly, longer length, lower pathologic scores, and fewer neutrophils were also observed in the colon of IL-17-deficient asthmatic mice. More importantly, we demonstrated that severe gastrointestinal symptoms could accompany clinical asthmatics. The frequencies of Th17 cells and the mRNA expression of IL-17A in the peripheral blood of these patients were significantly enhanced. Besides, the gastrointestinal symptom rating scale scores positively correlated with the frequencies of Th17 in asthmatics. These findings enlighten that IL-17A aggravates asthma-induced intestinal immune injury by promoting neutrophil trafficking, which facilitates the exploration of new potential biomarkers to treat asthma.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dopamine Signaling Promotes Tissue-Resident Memory Differentiation of CD8&#43; T Cells and Antitumor Immunity</title>
+      <link>https://example.com/article/35802647/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35802647/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tissue-resident memory CD8&lt;sup&gt;+&lt;/sup&gt; T (T&lt;sub&gt;RM&lt;/sub&gt;) cells have been associated with robust protective antitumor immune responses and improved prognosis of patients with cancer. Therefore, therapeutic strategies that modulate either the production or activity of T&lt;sub&gt;RM&lt;/sub&gt; cells could be effective for treating cancer. Using a high-throughput drug screen, we showed that the neurotransmitter dopamine drives differentiation of CD8&lt;sup&gt;+&lt;/sup&gt; T cells into CD103&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells. In murine syngeneic tumor xenograft models and clinical human colon cancer samples, DRD5 served as the major functional dopamine receptor on CD8&lt;sup&gt;+&lt;/sup&gt; T cells and positively correlated with T&lt;sub&gt;RM&lt;/sub&gt; cell density. DRD5 deficiency led to a failure of CD8&lt;sup&gt;+&lt;/sup&gt; T cells to accumulate in tissues, resulting in impaired T&lt;sub&gt;RM&lt;/sub&gt; cell formation, reduced effector function, and uncontrolled disease progression. Moreover, dopamine treatment promoted the antitumor activity of CD8&lt;sup&gt;+&lt;/sup&gt; T cells and suppressed colorectal cancer growth in immunocompentent mouse models, and ex vivo preconditioning with dopamine enhanced the in vivo efficacy of chimeric antigen receptor (CAR)-T cells. Finally, in a patient with colorectal cancer cohort, dopamine expression was positively associated with patient survival and CD8&lt;sup&gt;+&lt;/sup&gt; T-cell infiltration. These findings suggest that dopaminergic immunoregulation plays an important role in the differentiation of CD8&lt;sup&gt;+&lt;/sup&gt; cells into CD103&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells and thereby modulates T&lt;sub&gt;RM&lt;/sub&gt;-elicited antitumor immunity in colorectal cancer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Identification of an immunostimulatory function of dopamine signaling by promoting tissue-resident memory T-cell differentiation and sustaining T-cell effector functions reveals potential therapeutic strategies and prognostic biomarkers for colorectal cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HOTAIR/miR-1277-5p/ZEB1 axis mediates hypoxia-induced oxaliplatin resistance via regulating epithelial-mesenchymal transition in colorectal cancer</title>
+      <link>https://example.com/article/35798695/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35798695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The hypoxic microenvironment contributes to the chemoresistance of many malignant tumors including colorectal cancer (CRC). Accumulating studies have indicated that long non-coding RNAs (lncRNAs) play important roles in chemotherapy resistance. In this study, we aimed to determine the effect of lncRNAs in hypoxia-mediated resistance in CRC and its potential mechanism. Here, we discovered that hypoxia-induced oxaliplatin resistance and HOX transcript antisense RNA (HOTAIR) expression was increased in hypoxia-treated CRC cell lines and CRC tumors. Knockdown of HOTAIR by siRNA reduced the viability and proliferation of CRC cells treated with oxaliplatin and reversed hypoxia-induced resistance. Mechanically, we found that HOTAIR modulates zinc finger E-box binding homeobox 1 (ZEB1) expression by negative regulations of miR-1277-5p. When miR-1277-5p was silenced, knockdown of HOTAIR was unable to reduce the oxaliplatin resistance in CRC cells. In mouse models of CRC, HOTAIR knockdown markedly inhibited the tumor growth when treated with oxaliplatin. Thus, HOTAIR/miR-1277-5p/ZEB1 axis appears a promising therapeutic target for improving the oxaliplatin efficacy in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MUC1-mediated Macrophage Activation Promotes Colitis-associated Colorectal Cancer via Activating the Interleukin-6/ Signal Transducer and Activator of Transcription 3 Axis</title>
+      <link>https://example.com/article/35809803/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35809803/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background &amp;amp; aims:&lt;/em&gt; MUC1 is abnormally expressed in colorectal cancer, including colitis-associated colorectal cancer (CAC), but its role in tumorigenesis is unclear. This study investigated MUC1&amp;rsquo;s effects in murine models of colitis and CAC and elucidated mechanisms of action.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Colitis and CAC were induced in mice by exposure to dextran sodium sulfate or azoxymethane plus dextran sodium sulphate. Clinical parameters, immune cell infiltration, and tumor development were monitored throughout disease progression. Experiments in knockout mice and bone marrow chimeras were combined with an exploration of immune cell abundance and function.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Deficiency of Muc1 suppressed inflammation, inhibited tumor progression, increased abundance of CD8+ T lymphocytes, and reduced abundance of macrophages in colon tumors. Bone marrow chimeras showed promotion of CAC was primarily mediated by Muc1-expressing hematopoietic cells, and that MUC1 promoted a pro-tumoral immunosuppressive macrophage phenotype within tumors. Mechanistic studies revealed that Muc1 deficiency remarkably reduced interleukin-6 levels in the colonic tissues and tumors that was mainly produced by infiltrating macrophages at day 21, 42, and 85. In bone marrow-derived macrophages, MUC1 promoted responsiveness to chemoattractant and promoted activation into a phenotype with high Il6 and Ido1 expression, secreting factors which inhibited CD8+ T cell proliferation. MUC1 potently drives macrophages to produce interleukin-6, which in turn drives a pro-tumorigenic activation of signal transducer and activator of transcription 3 in colon epithelial tumor and stromal cells, ultimately increasing the occurrence and development of CAC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings provide cellular and molecular mechanisms for the pro-tumorigenic functions of MUC1 in the inflamed colon. Therapeutic strategies to inhibit MUC1 signal transduction warrant consideration for the prevention or therapy of CAC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -2195,6 +2357,56 @@
     </item>
     
     <item>
+      <title>Terbinafine prevents colorectal cancer growth by inducing dNTP starvation and reducing immune suppression</title>
+      <link>https://example.com/article/35765243/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35765243/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Existing evidence indicates that gut fungal dysbiosis might play a key role in the pathogenesis of colorectal cancer (CRC). We sought to explore whether reversing the fungal dysbiosis by terbinafine, an approved antifungal drug, might inhibit the development of CRC. A population-based study from Sweden identified a total of 185 patients who received terbinafine after their CRC diagnosis and found that they had a decreased risk of death (hazard ratio = 0.50) and metastasis (hazard ratio = 0.44) compared with patients without terbinafine administration. In multiple mouse models of CRC, administration of terbinafine decreased the fungal load, the fungus-induced myeloid-derived suppressor cell (MDSC) expansion, and the tumor burden. Fecal microbiota transplantation from mice without terbinafine treatment reversed MDSC infiltration and partially restored tumor proliferation. Mechanistically, terbinafine directly impaired tumor cell proliferation by reducing the ratio of nicotinamide adenine dinucleotide phosphate (NADP+) to reduced form of nicotinamide adenine dinucleotide phosphate (NADPH), suppressing the activity of glucose-6-phosphate dehydrogenase (G6PD), resulting in nucleotide synthesis disruption, deoxyribonucleotide (dNTP) starvation, and cell-cycle arrest. Collectively, terbinafine can inhibit CRC by reversing fungal dysbiosis, suppressing tumor cell proliferation, inhibiting fungus-induced MDSC infiltration, and restoring antitumor immune response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Based on lapatinib innovative near-infrared fluorescent probes targeting HER1/HER2 for in vivo tumors imaging</title>
+      <link>https://example.com/article/35779413/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35779413/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human epidermal growth factor receptors HER1 and HER2, overexpressed in non-small cell lung cancer, colorectal cancer, liver cancer, are key regulators of tumor cells proliferation, invasion and survival. Many antibody- or peptide-based fluorescent probes targeted to HER1/HER2 are under active clinical evaluation. However, the effective small-molecule near-infrared (NIR) fluorescent probes are still lacking. Herein, with the strategy of drug repurposing, we developed a series of HER1/HER2-targeted probes YQ-H (01-07) composed of fluorophore (a cyanine dye, MPA), linker unit and targeted unit (lapatinib, LAP). The synthesized probes were evaluated in vitro and in vivo tumor specificity/affinity. Specially, the probe YQ-H-06 exhibited optimal pharmacokinetic property and tumor/normal tissue ratio (T/N) in tumor-bearing mice. Furthermore, we evaluated the targeting capability of YQ-H-06 in orthotopic colorectal cancer and orthotopic hepatic carcinoma mice. It was indicated that YQ-H-06 had the characteristic of great biosafety, favorable pH and chemical stability, as well as provided excellent tumor contrast in orthotopic murine tumor models. The NIR fluorescent probe YQ-H-06 will shed light on tumor detection and fluorescence-guided surgery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>circEXOC6B interacting with RRAGB, an mTORC1 activator, inhibits the progression of colorectal cancer by antagonizing the HIF1A-RRAGB-mTORC1 positive feedback loop</title>
       <link>https://example.com/article/35739524/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
@@ -2208,6 +2420,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intestinal Microbiota - An Unmissable Bridge to Severe Acute Pancreatitis-Associated Acute Lung Injury</title>
+      <link>https://example.com/review/35774796/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35774796/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute pancreatitis (SAP), one of the most serious abdominal emergencies in general surgery, is characterized by acute and rapid onset as well as high mortality, which often leads to multiple organ failure (MOF). Acute lung injury (ALI), the earliest accompanied organ dysfunction, is the most common cause of death in patients following the SAP onset. The exact pathogenesis of ALI during SAP, however, remains unclear. In recent years, advances in the microbiota-gut-lung axis have led to a better understanding of SAP-associated lung injury (PALI). In addition, the bidirectional communications between intestinal microbes and the lung are becoming more apparent. This paper aims to review the mechanisms of an imbalanced intestinal microbiota contributing to the development of PALI, which is mediated by the disruption of physical, chemical, and immune barriers in the intestine, promotes bacterial translocation, and results in the activation of abnormal immune responses in severe pancreatitis. The pathogen-associated molecular patterns (PAMPs) mediated immunol mechanisms in the occurrence of PALI via binding with pattern recognition receptors (PRRs) through the microbiota-gut-lung axis are focused in this study. Moreover, the potential therapeutic strategies for alleviating PALI by regulating the composition or the function of the intestinal microbiota are discussed in this review. The aim of this study is to provide new ideas and therapeutic tools for PALI patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

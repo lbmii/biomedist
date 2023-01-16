@@ -5,12 +5,37 @@
     <link>https://example.com/review/</link>
       <atom:link href="https://example.com/review/index.xml" rel="self" type="application/rss+xml" />
     <description>Past, Present and Future</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Past, Present and Future</title>
       <link>https://example.com/review/</link>
     </image>
+    
+    <item>
+      <title>Mitochondrial stress and mitokines in aging</title>
+      <link>https://example.com/review/36642986/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36642986/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitokines are signaling molecules that enable communication of local mitochondrial stress to other mitochondria in distant cells and tissues. Among those molecules are FGF21, GDF15 (both expressed in the nucleus) and several mitochondrial-derived peptides, including humanin. Their responsiveness to mitochondrial stress induces mitokine-signaling in response for example to exercise, following mitochondrial challenges in skeletal muscle. Such signaling is emerging as an important mediator of exercise-derived and dietary strategy-related molecular and systemic health benefits, including healthy aging. A compensatory increase in mitokine synthesis and secretion could preserve mitochondrial function and overall cellular vitality. Conversely, resistance against mitokine actions may also develop. Alterations of mitokine-levels, and therefore of mitokine-related inter-tissue cross talk, are associated with general aging processes and could influence the development of age-related chronic metabolic, cardiovascular and neurological diseases; whether these changes contribute to aging or represent &amp;ldquo;rescue factors&amp;rdquo; remains to be conclusively shown. The aim of the present review is to summarize the expanding knowledge on mitokines, the potential to modulate them by lifestyle and their involvement in aging and age-related diseases. We highlight the importance of well-balanced mitokine-levels, the preventive and therapeutic properties of maintaining mitokine homeostasis and sensitivity of mitokine signaling but also the risks arising from the dysregulation of mitokines. While reduced mitokine levels may impair inter-organ crosstalk, also excessive mitokine concentrations can have deleterious consequences and are associated with conditions such as cancer and heart failure. Preservation of healthy mitokine signaling levels can be achieved by regular exercise and is associated with an increased lifespan.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Neutrophil, neutrophil extracellular traps and endothelial cell dysfunction in sepsis</title>
@@ -2857,6 +2882,31 @@
     </item>
     
     <item>
+      <title>Using Circulating Tumor DNA in Colorectal Cancer: Current and Evolving Practices</title>
+      <link>https://example.com/review/35839443/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35839443/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There exists a tremendous opportunity in identifying and determining the appropriate predictive and prognostic biomarker(s) for risk stratification of patients with colorectal cancers (CRCs). Circulating tumor DNA (ctDNA) has emerged as a promising prognostic and possibly predictive biomarker in the personalized management of patients with CRCs. The disease is particularly suited to a liquid biopsy-based approach since there is a great deal of shedding of circulating tumor fragments (cells, DNA, methylation markers, etc). ctDNA has been shown to have several potential applications, including detecting minimal residual disease (MRD), monitoring for early recurrence, molecular profiling, and therapeutic response prediction. The utility of ctDNA has broadened from its initial use in the advanced/metastatic setting for molecular profiling and detection of acquired resistance mechanisms, toward identifying MRD, as well as early detection. Prospective studies such as CIRCULATE, COBRA, Dynamic II/III, and ACT3 are underway in the MRD setting to further understand how ctDNA may be used to inform clinical decision making using both tumor-informed and tumor-agnostic platforms. These prospective studies use ctDNA to guide management of patients with CRC and will be critical to help guide how and where ctDNA should or should not be used in clinical decision making. It is also important to understand that there are different types of ctDNA liquid biopsy platforms, each with advantages and disadvantages in different clinical indications. This review provides an overview of the current and evolving use of ctDNA in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Advances and challenges in cataloging the human gut virome</title>
       <link>https://example.com/review/35834962/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
@@ -2882,12 +2932,112 @@
     </item>
     
     <item>
+      <title>E-cigarette vaping associated acute lung injury (EVALI): state of science and future research needs</title>
+      <link>https://example.com/review/35822508/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35822508/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;E-Cigarette (e-cig) Vaping-Associated Acute Lung Injury&amp;rdquo; (EVALI) has been linked to vitamin-E-acetate (VEA) and Δ-9-tetrahydrocannabinol (THC), due to their presence in patients&amp;rsquo; e-cigs and biological samples. Lacking standardized methodologies for patients&amp;rsquo; data collection and comprehensive physicochemical/toxicological studies using real-world-vapor exposures, very little data are available, thus the underlying pathophysiological mechanism of EVALI is still unknown. This review aims to provide a comprehensive and critical appraisal of existing literature on clinical/epidemiological features and physicochemical-toxicological characterization of vaping emissions associated with EVALI. The literature review of 161 medical case reports revealed that the predominant demographic pattern was healthy white male, adolescent, or young adult, vaping illicit/informal THC-containing e-cigs. The main histopathologic pattern consisted of diffuse alveolar damage with bilateral ground-glass-opacities at chest radiograph/CT, and increased number of macrophages or neutrophils and foamy-macrophages in the bronchoalveolar lavage. The chemical analysis of THC/VEA e-cig vapors showed a chemical difference between THC/VEA and the single THC or VEA. The chemical characterization of vapors from counterfeit THC-based e-cigs or in-house-prepared e-liquids using either cannabidiol (CBD), VEA, or medium-chain triglycerides (MCT), identified many toxicants, such as carbonyls, volatile organic compounds, terpenes, silicon compounds, hydrocarbons, heavy metals, pesticides and various industrial/manufacturing/automotive-related chemicals. There is very scarce published toxicological data on emissions from THC/VEA e-liquids. However, CBD, MCT, and VEA emissions exert varying degrees of cytotoxicity, inflammation, and lung damage, depending on puffing topography and cell line. Major knowledge gaps were identified, including the need for more systematic-standardized epidemiological surveys, comprehensive physicochemical characterization of real-world e-cig emissions, and mechanistic studies linking emission properties to specific toxicological outcomes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Advances in the Regulation of Macrophage Polarization by Mesenchymal Stem Cells and Implications for ALI/ARDS Treatment</title>
       <link>https://example.com/review/35880175/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/review/35880175/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Acute lung injury/acute respiratory distress syndrome (ALI/ARDS) is a common condition with high mortality. ALI/ARDS is caused by multiple etiologies, and the main clinical manifestations are progressive dyspnea and intractable hypoxemia. Currently, supportive therapy is the main ALI/ARDS treatment, and there remains a lack of targeted and effective therapeutic strategies. Macrophages are important components of innate immunity. M1 macrophages are pro-inflammatory, while M2 macrophages are anti-inflammatory and promote tissue repair. Mesenchymal stem cells (MSCs) are stem cells with broad application prospects in tissue regeneration due to their multi-directional differentiation potential along with their anti-inflammatory and paracrine properties. MSCs can regulate the balance of M1/M2 macrophage polarization to improve the prognosis of ALI/ARDS. In this paper, we review the mechanisms by which MSCs regulate macrophage polarization and the signaling pathways associated with polarization. This review is expected to provide new targets for the treatment of ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HuR as a molecular target for cancer therapeutics and immune-related disorders</title>
+      <link>https://example.com/review/35817212/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35817212/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The control of eukaryotic gene expression occurs at multiple levels, from transcription to messenger RNA processing, transport, localization, turnover, and translation. RNA-binding proteins control gene expression and are involved in different stages of mRNA processing, including splicing, maturation, turnover, and translation. A ubiquitously expressed RBP Human antigen R is engaged in the RNA processes mentioned above but, most importantly, controls mRNA stability and turnover. Dysregulation of HuR is linked to many diseases, including cancer and other immune-related disorders. HuR targets mRNAs containing AU-rich elements at their 3&amp;rsquo;untranslated region, which encodes proteins involved in cell growth, proliferation, tumor formation, angiogenesis, immune evasion, inflammation, invasion, and metastasis. HuR overexpression has been reported in many tumor types, which led to a poor prognosis for patients. Hence, HuR is considered an appealing drug target for cancer treatment. Therefore, multiple attempts have been made to identify small molecule inhibitors for blocking HuR functions. This article reviews the current prospects of drugs that target HuR in numerous cancer types, their mode of action, and off-target effects. Furthermore, we will summarize drugs that interfered with HuR-RNA interactions and established themselves as novel therapeutics. We will also highlight the significance of HuR overexpression in multiple cancers and discuss its role in immune functions. This review provides evidence of a new era of HuR-targeted small molecules that can be used for cancer therapeutics either as a monotherapy or in combination with other cancer treatment modalities.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Context-specific regulation and function of mRNA alternative polyadenylation</title>
+      <link>https://example.com/review/35798852/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35798852/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alternative cleavage and polyadenylation (APA) is a widespread mechanism to generate mRNA isoforms with alternative 3&amp;rsquo; untranslated regions (UTRs). The expression of alternative 3&amp;rsquo; UTR isoforms is highly cell type specific and is further controlled in a gene-specific manner by environmental cues. In this Review, we discuss how the dynamic, fine-grained regulation of APA is accomplished by several mechanisms, including cis-regulatory elements in RNA and DNA and factors that control transcription, pre-mRNA cleavage and post-transcriptional processes. Furthermore, signalling pathways modulate the activity of these factors and integrate APA into gene regulatory programmes. Dysregulation of APA can reprogramme the outcome of signalling pathways and thus can control cellular responses to environmental changes. In addition to the regulation of protein abundance, APA has emerged as a major regulator of mRNA localization and the spatial organization of protein synthesis. This role enables the regulation of protein function through the addition of post-translational modifications or the formation of protein-protein interactions. We further discuss recent transformative advances in single-cell RNA sequencing and CRISPR-Cas technologies, which enable the mapping and functional characterization of alternative 3&amp;rsquo; UTRs in any biological context. Finally, we discuss new APA-based RNA therapeutics, including compounds that target APA in cancer and therapeutic genome editing of degenerative diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Deciphering the role of damage-associated molecular patterns and inflammatory responses in acute lung injury</title>
+      <link>https://example.com/review/35809663/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35809663/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is characterized by diffuse pulmonary infiltrates and causes great mortality. ALI presents with overproduction of proinflammatory cytokines, cell death, destruction of alveoli-endothelial barriers, and neutrophil infiltration in lung tissues. Damage-associated molecular patterns (DAMPs) are molecules released from damaged cells due to infection, trauma, etc. DAMPs activate innate and adaptive immunity, trigger inflammatory responses, and are important in the initiation and development of ALI. We reviewed the literatures on DAMPs in ALI. Alveolar macrophages (AMs), neutrophils, and epithelial cells (AECs) are important in the pathogenesis of ALI. We comprehensively analyzed the interaction between DAMPs and AMs, alveolar neutrophils, and AECs. During the initial stage of ALI, ruptured cell membranes or destroyed mitochondria release DAMPs. DAMPs activate the inflammasome in nearby sentinel immune cells, such as AMs. AMs produce IL-1β and other cytokines. These mediators upregulate adhesion molecules of the capillary endothelium that facilitate neutrophil recruitment. The recruited neutrophils detect DAMPs using formyl peptide receptors on the membrane, guiding their migration to the injured site. The accumulation of immune cells, cytokines, chemokines, proteases, etc., results in diffuse alveolar damage and pulmonary hyperpermeability with protein-rich fluid retention. Some clinical studies have shown that patients with ALI with higher circulating DAMPs have higher mortality rates. In conclusion, DAMPs are important in the initiation and progression of ALI. The interactions between DAMPs and AMs, neutrophils, and AECs are important in ALI. This review comprehensively addresses the mechanisms of DAMPs and their interactions in ALI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2957,6 +3107,63 @@
     </item>
     
     <item>
+      <title>Extracellular vesicles for renal therapeutics: State of the art and future perspective</title>
+      <link>https://example.com/review/35779658/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35779658/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kidney diseases are global public health concerns lacking effective treatment.&lt;/li&gt;
+&lt;li&gt;Both native and bioengineered EVs are prime candidates for next-generation renal therapeutics.&lt;/li&gt;
+&lt;li&gt;EVs can be tailored to target specific renal cells and prolong kidney retention for enhanced efficacy.&lt;/li&gt;
+&lt;li&gt;EVs can act as natural therapeutic agents or smart drug carriers fighting against renal diseases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the ever-increasing burden of kidney disease, the need for developing new therapeutics to manage this disease has never been greater. Extracellular vesicles (EVs) are natural membranous nanoparticles present in virtually all organisms. Given their excellent delivery capacity in the body, EVs have emerged as a frontier technology for drug delivery and have the potential to usher in a new era of nanomedicine for kidney disease. This review is focused on why EVs are such compelling drug carriers and how to release their fullest potentiality in renal therapeutics. We discuss the unique features of EVs compared to artificial nanoparticles and outline the engineering technologies and steps in developing EV-based therapeutics, with an emphasis on the emerging approaches to target renal cells and prolong kidney retention. We also explore the applications of EVs as natural therapeutics or as drug carriers in the treatment of renal disorders and present our views on the critical challenges in manufacturing EVs as next-generation renal therapeutics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tight Junctions, the Epithelial Barrier, and Toll-like Receptor-4 During Lung Injury</title>
+      <link>https://example.com/review/35779195/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35779195/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lung epithelium is constantly exposed to the environment and is critically important for the orchestration of initial responses to infectious organisms, toxins, and allergic stimuli, and maintenance of normal gaseous exchange and pulmonary function. The integrity of lung epithelium, fluid balance, and transport of molecules is dictated by the tight junctions (TJs). The TJs are formed between adjacent cells. We have focused on the topic of the TJ structure and function in lung epithelial cells. This review includes a summary of the last twenty years of literature reports published on the disrupted TJs and epithelial barrier in various lung conditions and expression and regulation of specific TJ proteins against pathogenic stimuli. We discuss the molecular signaling and crosstalk among signaling pathways that control the TJ structure and function. The Toll-like receptor-4 (TLR4) recognizes the pathogen- and damage-associated molecular patterns released during lung injury and inflammation and coordinates cellular responses. The molecular aspects of TLR4 signaling in the context of TJs or the epithelial barrier are not fully known. We describe the current knowledge and possible networking of the TLR4-signaling with cellular and molecular mechanisms of TJs, lung epithelial barrier function, and resistance to treatment strategies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Insights on the cGAS-STING Signaling Pathway During Herpesvirus Infections</title>
       <link>https://example.com/review/35844623/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
@@ -3007,12 +3214,165 @@
     </item>
     
     <item>
+      <title>Emerging role of exosomes in cancer progression and tumor microenvironment remodeling</title>
+      <link>https://example.com/review/35765040/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35765040/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer is one of the leading causes of death worldwide, and the factors responsible for its progression need to be elucidated. Exosomes are structures with an average size of 100 nm that can transport proteins, lipids, and nucleic acids. This review focuses on the role of exosomes in cancer progression and therapy. We discuss how exosomes are able to modulate components of the tumor microenvironment and influence proliferation and migration rates of cancer cells. We also highlight that, depending on their cargo, exosomes can suppress or promote tumor cell progression and can enhance or reduce cancer cell response to radio- and chemo-therapies. In addition, we describe how exosomes can trigger chronic inflammation and lead to immune evasion and tumor progression by focusing on their ability to transfer non-coding RNAs between cells and modulate other molecular signaling pathways such as PTEN and PI3K/Akt in cancer. Subsequently, we discuss the use of exosomes as carriers of anti-tumor agents and genetic tools to control cancer progression. We then discuss the role of tumor-derived exosomes in carcinogenesis. Finally, we devote a section to the study of exosomes as diagnostic and prognostic tools in clinical courses that is important for the treatment of cancer patients. This review provides a comprehensive understanding of the role of exosomes in cancer therapy, focusing on their therapeutic value in cancer progression and remodeling of the tumor microenvironment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting the &#34;undruggable&#34;: RNA-binding proteins in the spotlight in cancer therapy</title>
+      <link>https://example.com/review/35772609/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35772609/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tumors refractory to conventional therapy belong to specific subpopulations of cancer cells, which have acquired a higher number of mutations/epigenetic changes than the majority of cancer cells. This property provides them the ability to become resistant to therapy. Aberrant expression of certain RNA-binding proteins (RBPs) can regulate the sensitivity of tumor cells to chemotherapeutic drugs by binding to specific regions present in the 3´-UTR of certain mRNAs to promote or repress mRNA translation or by interacting with other proteins (including RBPs) and non-coding RNAs that are part of ribonucleoprotein complexes. In particular, an increasing interest in the RBPs involved in chemoresistance has recently emerged. In this review, we discuss how RBPs are not only affected by chemotherapeutic treatments, but also play an active role in therapeutic responses via the direct modulation of crucial cancer-related proteins. A special focus is being placed on the development of therapeutic strategies targeting these RBPs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Untapping the protective role of carotenoids against respiratory diseases</title>
+      <link>https://example.com/review/35820304/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35820304/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Recent studies revealed a substantial role of carotenoids to treat respiratory diseases. This review aimed to give an updated overview of the investigational evidence on the preventive properties of carotenoids against respiratory diseases both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; along with their pathophysiology and mechanisms of action.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Hypothesis:&lt;/em&gt; Carotenoids as a potential therapeutic class of bioactive compounds to treat respiratory diseases.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Carotenoids such as β-carotene, lycopene, crocin, bixin, lutein, and astaxanthin show beneficial effects against chronic lung diseases (e.g., asthma, emphysema, fibrosis, COPD, acute lung injury, and lung cancer). Moreover, &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; studies also supported the preventive role of carotenoids. These carotenoids showed a beneficial role by activation of the NRF2/HO-1 pathway and inhibition of the NF-кB, MAPK, JAK/STAT-3, and PI3K/AKT pathways. Additionally, epidemiological studies also showed that dietary intake of carotenoids lowers the risk of lung diseases.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Carotenoids may be used as drugs or can be given in combination with other drugs to prevent and treat respiratory diseases. Although &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; results are encouraging, further well-conducted randomized clinical trials are required to approve carotenoids as drug candidat&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multifaceted Roles of Ferroptosis in Lung Diseases</title>
+      <link>https://example.com/review/35813823/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35813823/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a distinct type of programmed cell death (PCD) that depends on iron and is characterized by the accumulation of intracellular iron, exhaustion of glutathione, deactivation of glutathione peroxidase, and promotion of lipid peroxidation. Recently, accumulated investigations have demonstrated that ferroptosis is strongly correlated with the initiation and development of many lung diseases. In this review, we summarized the contribution of ferroptosis to the pathologic process of lung diseases, namely, obstructive lung diseases (chronic obstructive pulmonary disease, asthma, and cystic fibrosis), interstitial lung diseases (pulmonary fibrosis of different causes), pulmonary diseases of vascular origin (ischemia-reperfusion injury and pulmonary hypertension), pulmonary infections (bacteria, viruses, and fungi), acute lung injury, acute respiratory distress syndrome, obstructive sleep apnea, pulmonary alveolar proteinosis, and lung cancer. We also discussed the therapeutic potential of targeting ferroptosis for these lung diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The human lung microbiome—A hidden link between microbes and human health and diseases</title>
       <link>https://example.com/review/imt2.33/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/review/imt2.33/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Once thought to be sterile, the human lung is now well recognized to harbor a consortium of microorganisms collectively known as the lung microbiome. The lung microbiome is altered in an array of lung diseases, including chronic lung diseases such as chronic obstructive pulmonary disease, asthma, and bronchiectasis, acute lung diseases caused by pneumonia, sepsis, and COVID-19, and other lung complications such as those related to lung transplantation, lung cancer, and human immunodeficiency virus. The effects of lung microbiome in modulating host immunity and inflammation in the lung and distal organs are being elucidated. However, the precise mechanism by which members of microbiota produce structural ligands that interact with host genes and pathways remains largely uncharacterized. Multiple unique challenges, both technically and biologically, exist in the field of lung microbiome, necessitating the development of tailored experimental and analytical approaches to overcome the bottlenecks. In this review, we first provide an overview of the principles and methodologies in studying the lung microbiome. We next review current knowledge of the roles of lung microbiome in human diseases, highlighting mechanistic insights. We finally discuss critical challenges in the field and share our thoughts on broad topics for future investigation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intestinal Microbiota - An Unmissable Bridge to Severe Acute Pancreatitis-Associated Acute Lung Injury</title>
+      <link>https://example.com/review/35774796/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35774796/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute pancreatitis (SAP), one of the most serious abdominal emergencies in general surgery, is characterized by acute and rapid onset as well as high mortality, which often leads to multiple organ failure (MOF). Acute lung injury (ALI), the earliest accompanied organ dysfunction, is the most common cause of death in patients following the SAP onset. The exact pathogenesis of ALI during SAP, however, remains unclear. In recent years, advances in the microbiota-gut-lung axis have led to a better understanding of SAP-associated lung injury (PALI). In addition, the bidirectional communications between intestinal microbes and the lung are becoming more apparent. This paper aims to review the mechanisms of an imbalanced intestinal microbiota contributing to the development of PALI, which is mediated by the disruption of physical, chemical, and immune barriers in the intestine, promotes bacterial translocation, and results in the activation of abnormal immune responses in severe pancreatitis. The pathogen-associated molecular patterns (PAMPs) mediated immunol mechanisms in the occurrence of PALI via binding with pattern recognition receptors (PRRs) through the microbiota-gut-lung axis are focused in this study. Moreover, the potential therapeutic strategies for alleviating PALI by regulating the composition or the function of the intestinal microbiota are discussed in this review. The aim of this study is to provide new ideas and therapeutic tools for PALI patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Extracellular Vesicle/Macrophage Axis: Potential Targets for Inflammatory Disease Intervention</title>
+      <link>https://example.com/review/35769456/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35769456/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracellular vesicles (EVs) can regulate the polarization of macrophages in a variety of inflammatory diseases by mediating intercellular signal transduction and affecting the occurrence and development of diseases. After macrophages are regulated by EVs, they mainly show two phenotypes: the proinflammatory M1 type and the anti-inflammatory M2 type. A large number of studies have shown that in diseases such as mastitis, inflammatory bowel disease, Acute lung injury, and idiopathic pulmonary fibrosis, EVs promote the progression of the disease by inducing the M1-like polarization of macrophages. In diseases such as liver injury, asthma, and myocardial infarction, EVs can induce M2-like polarization of macrophages, inhibit the inflammatory response, and reduce the severity of the disease, thus indicating new pathways for treating inflammatory diseases. The EV/macrophage axis has become a potential target for inflammatory disease pathogenesis and comprehensive treatment. This article reviews the structure and function of the EV/macrophage axis and summarizes its biological functions in inflammatory diseases to provide insights for the diagnosis and treatment of inflammatory diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
