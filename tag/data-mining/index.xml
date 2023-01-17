@@ -517,6 +517,34 @@
     </item>
     
     <item>
+      <title>C-reactive protein and cancer risk: a pan-cancer study of prospective cohort and Mendelian randomization analysis</title>
+      <link>https://example.com/article/36117174/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36117174/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Although observational studies have reported associations between serum C-reactive protein (CRP) concentration and risks of lung, breast, and colorectal cancer, inconsistent or absent evidences were showed for other cancers. We conducted a pan-cancer analysis to comprehensively assess the role of CRP, including linearity and non-linearity associations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We analyzed 420,964 cancer-free participants from UK Biobank cohort. Multivariable-adjusted Cox proportional hazards model was conducted to evaluate the observed correlation of CRP with overall cancer and 21 site-specific cancer risks. Furthermore, we performed linear and non-linear Mendelian randomization analyses to explore the potential causal relation between them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; During a median follow-up period of 7.1 years (interquartile range: 6.3, 7.7), 34,979 incident cancer cases were observed. Observational analyses showed higher CRP concentration was associated with increased risk of overall cancer (hazard ratio (HR) = 1.02, 95% CI: 1.01, 1.02 per 1mg/L increase, &lt;em&gt;P&lt;/em&gt; &amp;lt; 0.001). There was a non-linear association between CRP and overall cancer risk with inflection point at 3mg/L (false-discovery rate adjust (FDR-adjusted) &lt;em&gt;P&lt;sub&gt;overall&lt;/sub&gt;&lt;/em&gt; &amp;lt; 0.001 and FDR-adjusted &lt;em&gt;P&lt;sub&gt;non-linear&lt;/sub&gt;&lt;/em&gt; &amp;lt; 0.001). For site-specific cancer, we observed positive linear associations for cancers of esophagus and stomach (FDR-adjusted &lt;em&gt;P&lt;sub&gt;overall&lt;/sub&gt;&lt;/em&gt; &amp;lt; 0.050 and FDR-adjusted &lt;em&gt;P&lt;sub&gt;non-linear&lt;/sub&gt;&lt;/em&gt; &amp;gt; 0.050). In addition, we also observed three different patterns of non-linear associations, including &amp;ldquo;fast-to-low increase&amp;rdquo; (head and neck, colorectal, liver, lung, kidney cancer, and non-Hodgkin lymphoma), &amp;ldquo;increase-to-decrease&amp;rdquo; (breast cancer), and &amp;ldquo;decrease-to-platform&amp;rdquo; (chronic lymphocytic leukemia). Furthermore, the inflection points of non-linear association patterns were consistently at around 3mg/L. By contrast, there was no evidence for linear or non-linear associations between genetically predicted CRP and risks of overall cancer or site-specific cancers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our results indicated that CRP was a potential biomarker to assess risks of overall cancer and 12 site-specific cancers, while no association were observed for genetically-predicted CRP and cancer risks.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Summary of microbiome databases</title>
       <link>https://example.com/tool/2022-07-10-db-microbiome/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
@@ -593,6 +621,34 @@
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A signature for pan-cancer prognosis based on neutrophil extracellular traps</title>
+      <link>https://example.com/article/35688556/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688556/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Neutrophil extracellular traps (NETs) were originally thought to be formed by neutrophils to trap invading microorganisms as a defense mechanism. Increasing studies have shown that NETs play a pivotal role in tumor progression and diffusion. In this case, transcriptome analysis provides an opportunity to unearth the association between NETs and clinical outcomes of patients with pan-cancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The transcriptome sequencing data of The Cancer Genome Atlas pan-cancer primary focus was obtained from UCSC Xena, and a 19-gene NETs score was then constructed using the Least Absolute Shrinkage and Selection Operator (LASSO) Cox regression model based on the expression levels of 69 NETs initial biomarkers we collected from multistudies. In addition, multiple datasets covering multiple cancer types from other databases were collected and used to validate the signature. Gene ontology enrichment analyses were used to annotate the functions of NETs-related pathways. Immunohistochemistry (IHC) was implemented to evaluate the role of NETs-related genes in clinical patients across types of tumors, including lung adenocarcinoma (n=58), colorectal carcinoma (n=93), kidney renal clear cell carcinoma (n=90), and triple-negative breast cancer (n=80).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The NETs score was calculated based on 19-NETs related genes according to the LASSO Cox model. The NETs score was considered a hazardous factor in most cancer types, with a higher score indicating a more adverse outcome. In addition, we found that NETs were significantly correlated to various malignant biological processes, such as the epithelial to mesenchymal transition (R=0.7444, &lt;em&gt;p&lt;/em&gt;&amp;lt;0.0001), angiogenesis (R=0.5369, &lt;em&gt;p&lt;/em&gt;&amp;lt;0.0001), and tumor cell proliferation (R=0.3835, &lt;em&gt;p&lt;/em&gt;&amp;lt;0.0001). Furthermore, in IHC cohorts of a variety of tumors, myeloperoxidase, a gene involved in the model and a classical delegate of NETs formation, was associated with poor clinical outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Collectively, these constitutive and complementary biomarkers represented the ability of NETs formation to predict the development of patients&amp;rsquo; progression. Integrative transcriptome analyses plus clinical sample validation may facilitate the biomarker discovery and clinical transformation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

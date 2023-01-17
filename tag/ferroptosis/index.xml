@@ -5,12 +5,37 @@
     <link>https://example.com/tag/ferroptosis/</link>
       <atom:link href="https://example.com/tag/ferroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Ferroptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Ferroptosis</title>
       <link>https://example.com/tag/ferroptosis/</link>
     </image>
+    
+    <item>
+      <title>Adaptor protein HIP-55-mediated signalosome protects against ferroptosis in myocardial infarction</title>
+      <link>https://example.com/article/36639542/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36639542/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ischemic heart disease is a leading cause of death worldwide. Myocardial infarction (MI) results in cardiac damage due to cell death and insufficient cardiomyocyte self-renewal. Ferroptosis, a novel type of cell death, has recently been shown as a key cause of cardiomyocyte death after MI. However, the complicated regulation mechanisms involved in ferroptosis, especially how ferroptosis is integrated into classical cell survival/death pathways, are still unclear. Here, we discovered that HIP-55, a novel adaptor protein, acts as a hub protein for the integration of the ferroptosis mechanism into the classical AKT cell survival and MAP4K1 cell death pathways for MI injury. The expression of HIP-55 is induced in MI. Genetic deletion of HIP-55 increased cardiomyocyte ferroptosis and MI injury, whereas cardiac-specific overexpression of HIP-55 significantly alleviated cardiomyocyte ferroptosis and MI injury. Mechanistically, HIP-55 was identified as a new AKT substrate. AKT phosphorylates HIP-55 at S269/T291 sites and further HIP-55 directs AKT signaling to negatively regulate the MAP4K1 pathway against MI injury in a site-specific manner. S269A/T291A-mutated HIP-55 (HIP-55AA), which is defective in AKT phosphorylation and significantly decreases the interaction between HIP-55 and MAP4K1, failed to inhibit the MAP4K1/GPX4 ferroptosis pathway. In line with this mechanism, cardiac-specific overexpression of HIP-55WT mice, but not cardiac-specific overexpression of HIP-55AA mice, protected cardiomyocytes against MI-induced ferroptosis and cardiac injury in vivo. These findings suggest that HIP-55 rewired the classical AKT (cell survival) and MAPK (cell death) pathways into ferroptosis mechanism in MI injury. HIP-55 may be a new therapeutic target for myocardial damage.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Mycobacterium tuberculosis Rv1324 Protein Contributes to Mycobacterial Persistence and Causes Pathological Lung Injury in Mice by Inducing Ferroptosis</title>

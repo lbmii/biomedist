@@ -5,12 +5,40 @@
     <link>https://example.com/tag/womb/</link>
       <atom:link href="https://example.com/tag/womb/index.xml" rel="self" type="application/rss+xml" />
     <description>Womb</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Womb</title>
       <link>https://example.com/tag/womb/</link>
     </image>
+    
+    <item>
+      <title>ALKBH5-mediated m6A modification of circCCDC134 facilitates cervical cancer metastasis by enhancing HIF1A transcription</title>
+      <link>https://example.com/article/36028854/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36028854/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Metastasis is the main cause of mortality in cervical cancer (CC). Circular RNAs (circRNAs) have been demonstrated to play a crucial role in carcinoma biology. However, the expression and function of circRNAs in cervical cancer metastasis are still unclear.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In the present study, we identified a circRNA with an N6-methyladenosine (m6A) modification, circCCDC134, whose expression was increased in CC tissues by circRNA-Seq and qPCR. CircCCDC134 upregulation in CC was fine-tuned by ALKBH5-mediated m6A modification, which enhanced its stability in a YTHDF2-dependent manner. The functional experiments illustrated that circCCDC134 enhanced tumour proliferation and metastasis in vitro and in vivo. For the comprehensive identification of RNA-binding proteins, circRNA pull-down and mass spectrometry (ChIRP-MS), chromatin immunoprecipitation-seq (Chip-seq), RNA binding protein immunoprecipitation (RIP) and luciferase reporter assays were used to perform mechanistic investigations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The results revealed that circCCDC134 recruited p65 in the nucleus and acted as a miR-503-5p sponge to regulate the expression of MYB in the cytoplasm, ultimately stimulating HIF1A transcription and facilitating CC growth and metastasis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; These findings indicate that circCCDC134 is an important therapeutic target and provide new regulatory model insights for exploring the carcinogenic mechanism of circCCDC134 in CC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>METTL3 potentiates progression of cervical cancer by suppressing ER stress via regulating m6A modification of TXNDC5 mRNA</title>

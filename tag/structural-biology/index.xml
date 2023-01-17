@@ -5,12 +5,62 @@
     <link>https://example.com/tag/structural-biology/</link>
       <atom:link href="https://example.com/tag/structural-biology/index.xml" rel="self" type="application/rss+xml" />
     <description>Structural Biology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Structural Biology</title>
       <link>https://example.com/tag/structural-biology/</link>
     </image>
+    
+    <item>
+      <title>ELI trifocal microscope: a precise system to prepare target cryo-lamellae for in situ cryo-ET study</title>
+      <link>https://example.com/article/23-01-17-10-49/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-17-10-49/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cryo-electron tomography (cryo-ET) has become a powerful approach to study the high-resolution structure of cellular macromolecular machines in situ. However, the current correlative cryo-fluorescence and electron microscopy lacks sufficient accuracy and efficiency to precisely prepare cryo-lamellae of target locations for subsequent cryo-ET. Here we describe a precise cryogenic fabrication system, ELI-TriScope, which sets electron (E), light (L) and ion (I) beams at the same focal point to achieve accurate and efficient preparation of a target cryo-lamella. ELI-TriScope uses a commercial dual-beam scanning electron microscope modified to incorporate a cryo-holder-based transfer system and embed an optical imaging system just underneath the vitrified specimen. Cryo-focused ion beam milling can be accurately navigated by monitoring the real-time fluorescence signal of the target molecule. Using ELI-TriScope, we prepared a batch of cryo-lamellae of HeLa cells targeting the centrosome with a success rate of ~91% and discovered new in situ structural features of the human centrosome by cryo-ET.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated multimodality microscope for accurate and efficient target-guided cryo-lamellae preparation</title>
+      <link>https://example.com/article/23-01-17-10-51/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-17-10-51/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cryo-electron tomography (cryo-ET) is a revolutionary technique for resolving the structure of subcellular organelles and macromolecular complexes in their cellular context. However, the application of the cryo-ET is hampered by the sample preparation step. Performing cryo-focused ion beam milling at an arbitrary position on the sample is inefficient, and the target of interest is not guaranteed to be preserved when thinning the cell from several micrometers to less than 300 nm thick. Here, we report a cryogenic correlated light, ion and electron microscopy (cryo-CLIEM) technique that is capable of preparing cryo-lamellae under the guidance of three-dimensional confocal imaging. Moreover, we demonstrate a workflow to preselect and preserve nanoscale target regions inside the finished cryo-lamellae. By successfully preparing cryo-lamellae that contain a single centriole or contact sites between subcellular organelles, we show that this approach is generally applicable, and shall help in innovating more applications of cryo-ET.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Cryo-EM structures of the active NLRP3 inflammasome disk</title>

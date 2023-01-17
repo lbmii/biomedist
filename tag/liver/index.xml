@@ -5,12 +5,37 @@
     <link>https://example.com/tag/liver/</link>
       <atom:link href="https://example.com/tag/liver/index.xml" rel="self" type="application/rss+xml" />
     <description>Liver</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Liver</title>
       <link>https://example.com/tag/liver/</link>
     </image>
+    
+    <item>
+      <title>Nucleus-exported CLOCK acetylates PRPS to promote de novo nucleotide synthesis and liver tumour growth</title>
+      <link>https://example.com/article/23-01-17-11-25/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-17-11-25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Impairment of the circadian clock is linked to cancer development. However, whether the circadian clock is modulated by oncogenic receptor tyrosine kinases remains unclear. Here we demonstrated that receptor tyrosine kinase activation promotes CK2-mediated CLOCK S106 phosphorylation and subsequent disassembly of the CLOCK–BMAL1 dimer and suppression of the downstream gene expression in hepatocellular carcinoma (HCC) cells. In addition, CLOCK S106 phosphorylation exposes its nuclear export signal to bind Exportin1 for nuclear exportation. Cytosolic CLOCK acetylates PRPS1/2 K29 and blocks HSC70-mediated and lysosome-dependent PRPS1/2 degradation. Stabilized PRPS1/2 promote de novo nucleotide synthesis and HCC cell proliferation and liver tumour growth. Furthermore, CLOCK S106 phosphorylation and PRPS1/2 K29 acetylation are positively correlated in human HCC specimens and with HCC poor prognosis. These findings delineate a critical mechanism by which oncogenic signalling inhibits canonical CLOCK transcriptional activity and simultaneously confers CLOCK with instrumental moonlighting functions to promote nucleotide synthesis and tumour growth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Blockade of NMT1 enzymatic activity inhibits N-myristoylation of VILIP3 protein and suppresses liver cancer progression</title>
@@ -76,6 +101,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Time-restricted feeding (TRF) is an emerging behavioral nutrition intervention that involves a daily cycle of feeding and fasting. In both animals and humans, TRF has pleiotropic health benefits that arise from multiple organ systems, yet the molecular basis of TRF-mediated benefits is not well understood. Here, we subjected mice to isocaloric &lt;em&gt;ad libitum&lt;/em&gt; feeding (ALF) or TRF of a western diet and examined gene expression changes in samples taken from 22 organs and brain regions collected every 2 h over a 24-h period. We discovered that TRF profoundly impacts gene expression. Nearly 80% of all genes show differential expression or rhythmicity under TRF in at least one tissue. Functional annotation of these changes revealed tissue- and pathway-specific impacts of TRF. These findings and resources provide a critical foundation for future mechanistic studies and will help to guide human time-restricted eating (TRE) interventions to treat various disease conditions with or without pharmacotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rngtt governs biliary-derived liver regeneration initiation by transcriptional regulation of mTORC1 and Dnmt1 in zebrafish</title>
+      <link>https://example.com/article/23-01-17-13-07/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-17-13-07/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In cases of end-stage liver diseases, the proliferation of existing hepatocytes is compromised, a feature of human chronic liver disease, in which most hepatocytes are dysfunctional. So far, liver transplantation represents the only curative therapeutic solution for advanced liver diseases, and the shortage of donor organs leads to high morbidity and mortality worldwide. The promising treatment is to prompt the biliary epithelial cells (BECs) transdifferentiation. However, the critical factors governing the initiation of BEC-derived liver regeneration are largely unknown. The zebrafish has advantages in large-scale genetic screens to identify the critical factors involved in liver regeneration. Here, we combined N-ethyl-N-nitrosourea screen, positional cloning, transgenic lines, antibody staining, and in situ hybridization methods and identified a liver regeneration defect mutant (lrd) using the zebrafish extensive liver injury model. Through positional cloning and genomic sequencing, we mapped the mutation site to rngtt. Loss of rngtt lead to the defects of BEC dedifferentiation, bipotential progenitor cell activation, and cell proliferation in the initiation stage of liver regeneration. The transdifferentiation from BECs to hepatocytes did not occur even at the late stage of liver regeneration. Mechanically, Rngtt transcriptionally regulates the attachment of mRNA cap to mTORC1 components and dnmt1 to maintain the activation of mTORC1 and DNA methylation in BECs after severe liver injury and prompt BEC to hepatocyte conversion. Furthermore, rptor and dnmt1 mutants displayed the same liver regeneration defects as rngtt mutation. In conclusion, our results suggest Rngtt is a new factor that initiates BEC-derived liver regeneration.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1441,6 +1491,31 @@
       <guid>https://example.com/article/35260822/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hepatic ischemia followed by reperfusion (I/R), a major clinical problem during liver surgical procedures, can induce liver injury with severe cell death including ferroptosis which is characterized by iron-dependent accumulation of lipid peroxidation. The HECT domain-containing ubiquitin E3 ligase HUWE1 (also known as MULE) was initially shown to promote apoptosis. However, our preliminary study demonstrates that high expression of HUWE1 in the liver donors corelates with less injury and better hepatic function after liver transplantation in patients. Thus, we investigate the role of HUWE1 in acute liver injury, and identify HUWE1 as a negative ferroptosis modulator through transferrin receptor 1(TfR1). Deficiency of Huwe1 in mice hepatocytes (HKO) exacerbated I/R and CCl4-induced liver injury with more ferroptosis occurrence. Moreover, Suppression of Huwe1 remarkably enhances cellular sensitivity to ferroptosis in primary hepatocytes and mouse embryonic fibroblasts. Mechanistically, HUWE1 specifically targets TfR1 for ubiquitination and proteasomal degradation, thereby regulates iron metabolism. Importantly, chemical and genetic inhibition of TfR1 dramatically diminishes the ferroptotic cell death in Huwe1 KO cells and Huwe1 HKO mice. Therefore, HUWE1 is a potential protective factor to antagonize both aberrant iron accumulation and ferroptosis thereby mitigating acute liver injury. These findings may provide clinical implications for patients with the high-expression Huwe1 alleles.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>circVAMP3 Drives CAPRIN1 Phase Separation and Inhibits Hepatocellular Carcinoma by Suppressing c-Myc Translation</title>
+      <link>https://example.com/article/35072355/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35072355/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Previous studies have identified the regulatory roles of circular RNAs (circRNAs) in human cancers. However, the molecular mechanisms of circRNAs in hepatocellular carcinoma (HCC) remain largely unknown. This study screens the expression profile of circRNAs in HCC and identifies circVAMP3 as a significantly downregulated circRNA in HCC tissues. HCC patients with low circVAMP3 expression present poor prognosis. circVAMP3 negatively regulates the proliferation and metastasis of HCC cells in vitro and in vivo by driving phase separation of CAPRIN1 and promoting stress granule formation in cells, which can downregulate the protein level of Myc proto-oncogene protein by inhibiting c-Myc translation. Furthermore, circVAMP3 is widely expressed in many human tissues and is downregulated in related cancers. Therefore, circVAMP3 is a potential prognostic indicator for HCC and may serve as a therapeutic target for HCC treatment.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

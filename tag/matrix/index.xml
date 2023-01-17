@@ -5,12 +5,37 @@
     <link>https://example.com/tag/matrix/</link>
       <atom:link href="https://example.com/tag/matrix/index.xml" rel="self" type="application/rss+xml" />
     <description>Matrix</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Matrix</title>
       <link>https://example.com/tag/matrix/</link>
     </image>
+    
+    <item>
+      <title>Pancreatic cancer cells upregulate LPAR4 in response to isolation stress to promote an ECM-enriched niche and support tumour initiation</title>
+      <link>https://example.com/article/23-01-17-11-16/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-17-11-16/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Defining drivers of tumour initiation can provide opportunities to control cancer progression. Here we report that lysophosphatidic acid receptor 4 (LPAR4) becomes transiently upregulated on pancreatic cancer cells exposed to environmental stress or chemotherapy where it promotes stress tolerance, drug resistance, self-renewal and tumour initiation. Pancreatic cancer cells gain LPAR4 expression in response to stress by downregulating a tumour suppressor, miR-139-5p. Even in the absence of exogenous lysophosphatidic acid, LPAR4-expressing tumour cells display an enrichment of extracellular matrix genes that are established drivers of cancer stemness. Mechanistically, upregulation of fibronectin via an LPAR4/AKT/CREB axis is indispensable for LPAR4-induced tumour initiation and stress tolerance. Moreover, ligation of this fibronectin-containing matrix via integrins α5β1 or αVβ3 can transfer stress tolerance to LPAR4-negative cells. Therefore, stress- or drug-induced LPAR4 enhances cell-autonomous production of a fibronectin-rich extracellular matrix, allowing cells to survive ‘isolation stress’ and compensate for the absence of stromal-derived factors by creating their own tumour-initiating niche.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Increased expression and accumulation of GDF15 in IPF extracellular matrix contribute to fibrosis</title>
