@@ -5,12 +5,49 @@
     <link>https://example.com/tag/immunology/</link>
       <atom:link href="https://example.com/tag/immunology/index.xml" rel="self" type="application/rss+xml" />
     <description>Immunology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immunology</title>
       <link>https://example.com/tag/immunology/</link>
     </image>
+    
+    <item>
+      <title>Regulatory T cell and macrophage crosstalk in acute lung injury: future perspectives</title>
+      <link>https://example.com/review/36646692/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36646692/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) describes the injury to endothelial cells in the lungs and associated vessels due to various factors. Furthermore, ALI accompanied by inflammation and thrombosis has been reported as a common complication of SARS-COV-2 infection. It is widely accepted that inflammation and the cytokine storm are main causes of ALI. Two classical anti-inflammatory cell types, regulatory T cells (Tregs) and M2 macrophages, are theoretically capable of resisting uncontrolled inflammation. Recent studies have indicated possible crosstalk between Tregs and macrophages involving their mutual activation. In this review, we discuss the current findings related to ALI pathogenesis and the role of Tregs and macrophages. In particular, we review the molecular mechanisms underlying the crosstalk between Tregs and macrophages in ALI pathogenesis. Understanding the role of Tregs and macrophages will provide the potential targets for treating ALI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Facts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Regulatory T cells (Tregs) and macrophages are responsible for acute lung injury (ALI) progression through pro-/anti-inflammatory cell balance.&lt;/li&gt;
+&lt;li&gt;Tregs and macrophages influence each other to potentiate their roles in ALI.&lt;/li&gt;
+&lt;li&gt;Based on the mutual interaction, new application of conventional drugs and novel insights of ALI treatment are generated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Open Questions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The specific Treg–macrophage crosslink in different stage of ALI needs more investigations.&lt;/li&gt;
+&lt;li&gt;The curative effects of application of conventional drugs and new immunological therapy should be performed in precise clinical verifications.&lt;/li&gt;
+&lt;li&gt;The proper control of Treg or M2 macrophage expansion in ALI treatment expects further studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Protective effect of soloxolone derivatives in carrageenan- and LPS-driven acute inflammation: Pharmacological profiling and their effects on key inflammation-related processes</title>
@@ -389,6 +426,38 @@
     </item>
     
     <item>
+      <title>An evolved AAV variant enables efficient genetic engineering of murine T cells</title>
+      <link>https://example.com/article/36638795/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638795/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A murine T cell-specific AAV variant, Ark313, is discovered through AAV6 evolution&lt;/li&gt;
+&lt;li&gt;A genome-wide CRISPR screen identifies QA2 an essential factor for Ark313 transduction&lt;/li&gt;
+&lt;li&gt;Ark313 enables efficient transgene delivery and targeting of large DNA payloads&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Trac&lt;/em&gt; targeting of a CAR outperforms semi-random integration in a solid tumor model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Precise targeting of large transgenes to T cells using homology-directed repair has been transformative for adoptive cell therapies and T cell biology. Delivery of DNA templates via adeno-associated virus (AAV) has greatly improved knockin efficiencies, but the tropism of current AAV serotypes restricts their use to human T cells employed in immunodeficient mouse models. To enable targeted knockins in murine T cells, we evolved Ark313, a synthetic AAV that exhibits high transduction efficiency in murine T cells. We performed a genome-wide knockout screen and identified QA2 as an essential factor for Ark313 infection. We demonstrate that Ark313 can be used for nucleofection-free DNA delivery, CRISPR-Cas9-mediated knockouts, and targeted integration of large transgenes. Ark313 enables preclinical modeling of &lt;em&gt;Trac&lt;/em&gt;-targeted CAR-T and transgenic TCR-T cells in immunocompetent models. Efficient gene targeting in murine T cells holds great potential for improved cell therapies and opens avenues in experimental T cell immunology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CD44-targeting Drug Delivery System of Exosomes Loading Forsythiaside A Combats Liver Fibrosis via Regulating NLRP3-mediated Pyroptosis</title>
       <link>https://example.com/article/36603210/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
@@ -448,6 +517,31 @@
 &lt;p&gt;&lt;em&gt;Design:&lt;/em&gt; Microbiota profiling in patients with RA and healthy individuals was investigated via 16S rDNA bacterial gene sequencing and shotgun metagenomics. Collagen-induced arthritic mice and TNF-α transgenic mice were used to evaluate the roles of the gut commensal &lt;em&gt;Parabacteroides distasonis&lt;/em&gt; in RA. The effects of &lt;em&gt;P. distasonis&lt;/em&gt;-derived microbial metabolites on the differentiation of CD4&lt;sup&gt;+&lt;/sup&gt; T cells and macrophage polarisation were also investigated.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The relative abundance of &lt;em&gt;P. distasonis&lt;/em&gt; in new-onset patients with RA and patients with RA with history of the disease was downregulated and this decrease was negatively correlated with Disease Activity Score-28 (DAS28). Oral treatment of arthritic mice with live &lt;em&gt;P. distasonis&lt;/em&gt; (LPD) considerably ameliorated RA pathogenesis. LPD-derived lithocholic acid (LCA), deoxycholic acid (DCA), isolithocholic acid (isoLCA) and 3-oxolithocholic acid (3-oxoLCA) had similar and synergistic effects on the treatment of RA. In addition to directly inhibiting the differentiation of Th17 cells, 3-oxoLCA and isoLCA were identified as TGR5 agonists that promoted the M2 polarisation of macrophages. A specific synthetic inhibitor of bile salt hydrolase attenuated the antiarthritic effects of LPD by reducing the production of these four bile acids. The natural product ginsenoside Rg2 exhibited its anti-RA effects by promoting the growth of &lt;em&gt;P. distasonis&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; &lt;em&gt;P. distasonis&lt;/em&gt; and ginsenoside Rg2 might represent probiotic and prebiotic agents in the treatment of RA.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Human TH17 cells engage gasdermin E pores to release IL-1α on NLRP3 inflammasome activation</title>
+      <link>https://example.com/article/36604548/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36604548/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It has been shown that innate immune responses can adopt adaptive properties such as memory. Whether T cells utilize innate immune signaling pathways to diversify their repertoire of effector functions is unknown. Gasdermin E (GSDME) is a membrane pore-forming molecule that has been shown to execute pyroptotic cell death and thus to serve as a potential cancer checkpoint. In the present study, we show that human T cells express GSDME and, surprisingly, that this expression is associated with durable viability and repurposed for the release of the alarmin interleukin (IL)-1α. This property was restricted to a subset of human helper type 17 T cells with specificity for Candida albicans and regulated by a T cell-intrinsic NLRP3 inflammasome, and its engagement of a proteolytic cascade of successive caspase-8, caspase-3 and GSDME cleavage after T cell receptor stimulation and calcium-licensed calpain maturation of the pro-IL-1α form. Our results indicate that GSDME pore formation in T cells is a mechanism of unconventional cytokine release. This finding diversifies our understanding of the functional repertoire and mechanistic equipment of T cells and has implications for antifungal immunity.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -814,6 +908,31 @@
       <guid>https://example.com/article/36588386/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Mitophagy is a form of autophagy that plays a key role in maintaining the homeostasis of functional mitochondria in the cell. Viruses have evolved various strategies to manipulate mitophagy to escape host immune responses and promote virus replication. In this study, the nucleoprotein (NP) of H1N1 virus (PR8 strain) was identified as a regulator of mitophagy. We revealed that NP-mediated mitophagy leads to the degradation of the mitochondria-anchored protein MAVS, thereby blocking MAVS-mediated antiviral signaling and promoting virus replication. The NP-mediated mitophagy is dependent on the interaction of NP with MAVS and the cargo receptor TOLLIP. Moreover, Y313 of NP is a key residue for the MAVS-NP interaction and NP-mediated mitophagy. The NPY313F mutation significantly attenuates the virus-induced mitophagy and the virus replication in vitro and in vivo. Taken together, our findings uncover a novel mechanism by which the NP of influenza virus induces mitophagy to attenuate innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Derinat® has an immunomodulatory and anti-inflammatory effect on the model of acute lung injury in male SD rats</title>
+      <link>https://example.com/article/36642990/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36642990/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To simulate acute lung injury (ALI) in SD male rats they we administered intratracheally with lipopolysaccharide (LPS) followed by hyperventilation of the lungs (HVL), which lead to functional changes in the respiratory system and an increase in the blood serum concentration of inflammatory cytokines. LPS + HVL after 4 h lead to pronounced histological signs of lung damage. We have studied the effectiveness of Derinat® when administered intramuscularly at dose of 7.5 mg/kg for 8 days in the ALI model. Derinat® administration lead to an increase in the concentration of most of the studied cytokines in a day. In the ALI model the administration of Derinat® returned the concentration of cytokines to its original values already 48 h after LPS + HVL, and also normalized the parameters of pulmonary respiration in comparison with animals without treatment. By the eighth day after LPS + HVL, respiratory parameters and cytokine levels, as well as biochemical and hematological parameters did not differ between groups, while histological signs of residual effects of lung damage were found in all animals, and were more pronounced in Derinat® group, which may indicate stimulation of the local immune response. Thus, the administration of Derinat® stimulates the immune response, has a pronounced protective effect against cytokinemia and respiratory failure caused by ALI, has immunomodulatory effect, and also stimulates a local immune response in lung tissues. Thus, Derinat® is a promising treatment for ALI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8685,6 +8804,59 @@
     </item>
     
     <item>
+      <title>Hypoxia-inducible lentiviral gene expression in engineered human macrophages</title>
+      <link>https://example.com/article/35728871/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35728871/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Human immune cells, including monocyte-derived macrophages, can be engineered to deliver proinflammatory cytokines, bispecific antibodies, and chimeric antigen receptors to support immune responses in different disease settings. When gene expression is regulated by constitutively active promoters, lentiviral payload gene expression is unregulated, and can result in potentially toxic quantities of proteins. Regulated delivery of lentivirally encoded proteins may allow localized or conditional therapeutic protein expression to support safe delivery of adoptively transferred, genetically modified cells with reduced capacity for systemic toxicities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In this study, we engineered human macrophages to express genes regulated by hypoxia responsive elements included in the lentiviral promoter region to drive conditional lentiviral gene expression only under hypoxic conditions. We tested transduced macrophages cultured in hypoxic conditions for the transient induced expression of reporter genes and the secreted cytokine, interleukin-12. Expression of hypoxia-regulated genes was investigated both transcriptionally and translationally, and in the presence of human tumor cells in a slice culture system. Finally, hypoxia-regulated gene expression was evaluated in a subcutaneous humanized-mouse cancer model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Engineered macrophages were shown to conditionally and tranisently express lentivirally encoded gene protein products, including IL-12 in hypoxic conditions &lt;em&gt;in vitro&lt;/em&gt;. On return to normoxic conditions, lentiviral payload expression returned to basal levels. Reporter genes under the control of hypoxia response elements were upregulated under hypoxic conditions in the presence of human colorectal carcinoma cells and in the hypoxic xenograft model of glioblastoma, suggesting utility for systemic engineered cell delivery capable of localized gene delivery in cancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Macrophages engineered to express hypoxia-regulated payloads have the potential to be administered systemically and conditionally express proteins in tissues with hypoxic conditions. In contrast to immune cells that function or survive poorly in hypoxic conditions, macrophages maintain a proinflammatory phenotype that may support continued gene and protein expression when regulated by conditional hypoxia responsive elements and naturally traffic to hypoxic microenvironments, making them ideal vehicles for therapeutic payloads to hypoxic tissues, such as solid tumors. With the ability to fine-tune delivery of potent proteins in response to endogenous microenvironments, macrophage-based cellular therapies may therefore be designed for different disease settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Kir2.1-mediated membrane potential promotes nutrient acquisition and inflammation through regulation of nutrient transporters</title>
+      <link>https://example.com/article/35729093/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35729093/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immunometabolism contributes to inflammation, but how activated macrophages acquire extracellular nutrients to fuel inflammation is largely unknown. Here, we show that the plasma membrane potential (V&lt;sub&gt;m&lt;/sub&gt;) of macrophages mediated by Kir2.1, an inwardly-rectifying K+ channel, is an important determinant of nutrient acquisition and subsequent metabolic reprogramming promoting inflammation. In the absence of Kir2.1 activity, depolarized macrophage V&lt;sub&gt;m&lt;/sub&gt; lead to a caloric restriction state by limiting nutrient uptake and concomitant adaptations in nutrient conservation inducing autophagy, AMPK (Adenosine 5&amp;rsquo;-monophosphate-activated protein kinase), and GCN2 (General control nonderepressible 2), which subsequently depletes epigenetic substrates feeding histone methylation at loci of a cluster of metabolism-responsive inflammatory genes, thereby suppressing their transcription. Kir2.1-mediated V&lt;sub&gt;m&lt;/sub&gt; supports nutrient uptake by facilitating cell-surface retention of nutrient transporters such as 4F2hc and GLUT1 by its modulation of plasma membrane phospholipid dynamics. Pharmacological targeting of Kir2.1 alleviated inflammation triggered by LPS or bacterial infection in a sepsis model and sterile inflammation in human samples. These findings identify an ionic control of macrophage activation and advance our understanding of the immunomodulatory properties of V&lt;sub&gt;m&lt;/sub&gt; that links nutrient inputs to inflammatory diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Mitochondrial cyclophilin D promotes disease tolerance by licensing NK cell development and IL-22 production against influenza virus</title>
       <link>https://example.com/article/35732121/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
@@ -8698,6 +8870,171 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Severity of pulmonary viral infections, including influenza A virus (IAV), is linked to excessive immunopathology, which impairs lung function. Thus, the same immune responses that limit viral replication can concomitantly cause lung damage that must be countered by largely uncharacterized disease tolerance mechanisms. Here, we show that mitochondrial cyclophilin D (CypD) protects against IAV via disease tolerance. &lt;em&gt;CypD&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice are significantly more susceptible to IAV infection despite comparable antiviral immunity. This susceptibility results from damage to the lung epithelial barrier caused by a reduction in interleukin-22 (IL-22)-producing natural killer (NK) cells. Transcriptomic and functional data reveal that &lt;em&gt;CypD&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; NK cells are immature and have altered cellular metabolism and impaired IL-22 production, correlating with dysregulated bone marrow lymphopoiesis. Administration of recombinant IL-22 or transfer of wild-type (WT) NK cells abrogates pulmonary damage and protects &lt;em&gt;CypD&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice after IAV infection. Collectively, these results demonstrate a key role for CypD in NK cell-mediated disease tolerance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ACT001 suppressing M1 polarization against inflammation via NF-κB and STAT1 signaling pathways alleviates acute lung injury in mice</title>
+      <link>https://example.com/article/35728304/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35728304/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ACT001 conferred potent protection against LPS-induced acute lung injury in mice.&lt;/li&gt;
+&lt;li&gt;ACT001 inhibited M1 macrophage polarization, limiting its pro-inflammatory activity.&lt;/li&gt;
+&lt;li&gt;ACT001 suppressed NF-κB and STAT1 signaling by targeting IKKβ as well as STAT1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ACT001 has been shown to exhibit excellent antitumor and anti-fibrosis activities. However, the role of ACT001 in acute lung injury (ALI) and the underlying mechanism remains largely unclear. The present study aimed to investigate the protective effects of ACT001 on ALI and explore the potential mechanisms. Herein, we firstly established the ALI mouse model induced by intratracheal instillation of lipopolysaccharide (LPS). ACT001 treatment significantly alleviated histopathological changes of lung tissues with lower infiltration of pulmonary M1 macrophages in ALI mice. Then, we performed in vitro experiment and found that ACT001 treatment effectively inhibited the M1 phenotype of RAW264.7 and THP-1.. Next, we performed pull-down and mass spectrometry analysis to screen the interacting proteins of ACT001, identifying IKKβ and STAT1 as the critical target proteins of ACT001. And ACT001 treatment significantly suppressed the NF-κB and STAT1 pathways, thereby inhibiting the M1 polarization against inflammation in vivo and in vitro. Finally, we used IMD 0354 (IMD) and Fludarabine (Flud) to specifically block the activity of IKKβ and STAT1, and stimulated macrophages through IKKβ and STAT1 overexpression. Our data clearly showed that ACT001-induced decrease of the M1 polarization was blocked by IMD and Flud treatment, and reversed by IKKβ and STAT1 overexpression in RAW264.7 cells. In conclusion, we discovered that ACT001 significantly alleviates inflammation and limits M1 phenotype of pulmonary macrophages via suppressing NF-κB and STAT1 signaling pathways, providing new insights for the development of drugs to treat ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>High phosphate-induced progressive proximal tubular injury is associated with the activation of Stat3/Kim-1 signaling pathway and macrophage recruitment</title>
+      <link>https://example.com/article/35713543/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713543/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dietary phosphate intake in the Western population greatly exceeds the recommended dietary allowance and is linked to enhanced cardiovascular and all-cause mortality. It is unclear whether a chronic high phosphate diet (HPD) causes kidney injury in healthy individuals. Here, we show that feeding a 2% HPD in C57BL/6N mice for one up to six months resulted in hyperphosphatemia, hyperphosphaturia, increased plasma levels of fibroblast growth factor (FGF) 23, and parathyroid hormone (PTH) compared to mice on a 0.8% phosphate diet. Kidney injury was already noted after two months of HPD characterized by loss of proximal tubular (PT) cell polarity, flattened epithelia, disruption of brush border membranes, vacuolization, increased PT cell proliferation, marked interstitial mononuclear infiltration, and progressive accumulation of collagen fibers. HPD increased Stat3 activation and Kim-1 expression in PT epithelial cells and enhanced renal synthesis of chemokines recruiting monocytes and macrophages as well as macrophage related factors. Enhanced recruitment of F4/80+ macrophages around injured PT lesions was timely associated with increased Kim-1 synthesis, tubular MCP-1 expression, and degree of PT injury score. Likewise, tubulointerstitial fibrosis was associated with activation of Stat3/Kim-1 signaling pathway. The stimulation of human proximal tubular cells with high phosphate activated Stat3 signaling and induced HAVCR1 and CCL2 expression. We conclude that high phosphate results in progressive proximal tubular injury, indicating that high dietary phosphate intake may affect kidney health and therefore represents an underestimated health problem for the general population.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long non-coding RNA SNHG5 mediates periodontal inflammation through the NF-κB signalling pathway</title>
+      <link>https://example.com/article/35713268/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713268/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aim:&lt;/em&gt; We investigated the role of long non-coding RNAs and small nucleolar RNA host gene 5 (SNHG5) in the pathogenesis of periodontitis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materials and methods:&lt;/em&gt; A ligature-induced periodontitis mouse model was established, and gingival tissues were collected from patients with periodontitis and healthy controls. Inflammatory cytokines were detected using quantitative reverse transcription-polymerase chain reaction and western blotting analyses. Direct interactions between SNHG5 and p65 were detected by RNA pull-down and RNA immunoprecipitation assays. Micro-computed tomography, haematoxylin and eosin staining, and immunohistochemical staining were used to measure periodontal bone loss.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SNHG5 expression was down-regulated in human and mouse periodontal tissues compared to that in the healthy controls. In vitro experiments demonstrated that SNHG5 significantly ameliorated tumour necrosis factor α-induced inflammation. Mechanistically, SNHG5 directly binds to the nuclear factor-kappa B (NF-κB) p65 subunit and inhibits its translocation, thereby suppressing the NF-κB signalling pathway activation and reducing the nucleotide-binding oligomerization domain-like receptor family pyrin domain-containing three inflammasome expression. Locally injecting si-SNHG5 aggravated the periodontal destruction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; This study revealed that SNHG5 mediates periodontal inflammation through the NF-κB signalling pathway, providing a potential therapeutic target for periodontitis treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SATB1 ensures appropriate transcriptional programs within naïve CD8&#43; T cells</title>
+      <link>https://example.com/article/35713361/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713361/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Special AT-binding protein 1 (SATB1) is a chromatin-binding protein that has been shown to be a key regulator of T-cell development and CD4&lt;sup&gt;+&lt;/sup&gt; T-cell fate decisions and function. The underlying function for SATB1 in peripheral CD8&lt;sup&gt;+&lt;/sup&gt; T-cell differentiation processes is largely unknown. To address this, we examined SATB1-binding patterns in naïve and effector CD8&lt;sup&gt;+&lt;/sup&gt; T cells demonstrating that SATB1 binds to noncoding regulatory elements linked to T-cell lineage-specific gene programs, particularly in naïve CD8&lt;sup&gt;+&lt;/sup&gt; T cells. We then assessed SATB1 function using N-ethyl-N-nitrosourea-mutant mice that exhibit a point mutation in the SATB1 DNA-binding domain (termed Satb1m1Anu/m1Anu ). Satb1m1Anu/m1Anu mice exhibit diminished SATB1-binding, naïve, Satb1m1Anu/m1Anu CD8&lt;sup&gt;+&lt;/sup&gt; T cells exhibiting transcriptional and phenotypic characteristics reminiscent of effector T cells. Upon activation, the transcriptional signatures of Satb1m1Anu/m1Anu and wild-type effector CD8&lt;sup&gt;+&lt;/sup&gt; T cells converged. While there were no overt differences, primary respiratory infection of Satb1m1Anu/m1Anu mice with influenza A virus (IAV) resulted in a decreased proportion and number of IAV-specific CD8&lt;sup&gt;+&lt;/sup&gt; effector T cells recruited to the infected lung when compared with wild-type mice. Together, these data suggest that SATB1 has a major role in an appropriate transcriptional state within naïve CD8&lt;sup&gt;+&lt;/sup&gt; T cells and ensures appropriate CD8&lt;sup&gt;+&lt;/sup&gt; T-cell effector gene expression upon activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The autophagy-related degradation of MDA5 by Tembusu virus nonstructural 2B disrupts IFNβ production</title>
+      <link>https://example.com/article/35713934/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713934/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Duck Tembusu virus (TMUV) is a serious avian pathogen causing a decline in egg production, but the mechanism of the virus that breaks through the innate immune system is poorly understood. Here, we show that TMUV inhibits poly(I:C)-induced interferon (IFN) production. Because poly(I:C) transfection can specifically activate the MDA5 pathway in duck primary cells, we found that infection with TMUV can specifically target MDA5 and lead to its degradation. MDA5 downregulation could be blocked by the autophagy inhibitor 3-methyladenine (3-MA) but not a proteasome inhibitor, strongly implicating MDA5 degradation as an autophagy-related degradation pathway. Pretreatment with 3-MA enhanced the expression of MDA5 and inhibited TMUV replication. To screen TMUV proteins that degraded MDA5, the TMUV replicon and MDA5-Flag were cotransfected into cells, and the western blot analysis showed that nonstructural 2B (NS2B) can degrade MDA5 in a dose-dependent manner. Dual-luciferase assays indicate that NS2B alone inhibits MDA5- or poly(I:C)-mediated IFN production. NS2B binds MDA5 in the presence of 3-MA. The deletion of the amino acids of NS2B from residues 51 to 92 (hydrophilic area) restored the expression of MDA5 and relieved the MDA5-mediated IFNβ production inhibition by NS2B, indicating that the hydrophilic area of NS2B is important for its interaction with host innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dual inhibition of TGFβ signaling and CSF1/CSF1R reprograms tumor-infiltrating macrophages and improves response to chemotherapy via suppressing PD-L1</title>
+      <link>https://example.com/article/35718267/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35718267/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TGF promotes resistance to chemotherapy in CRC via PD-L1.&lt;/li&gt;
+&lt;li&gt;Chemotherapy-treated cancer cells secrete CSF1 to recruit M2-TAMs for TGF production within tumor microenvironment.&lt;/li&gt;
+&lt;li&gt;Dual inhibition on CSF1R&lt;sup&gt;+&lt;/sup&gt; M2-TAMs recruitment and TGF signaling increases the response to chemotherapy in CRC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TGFβ contributes to chemoresistance in advanced colorectal cancer (CRC) via diverse immune-microenvironment mechanisms. Here, we found that cancer cell autonomous TGFβ directly triggered tumor programmed cell death 1 ligand 1 (PD-L1) upregulation, resulting in resistance to chemotherapy. Inhibition of tumor PD-L1 expression sensitized cancer cells to chemotherapy, reduced lung metastasis and increased the influx of CD8&lt;sup&gt;+&lt;/sup&gt; T cells. However, chemorefractory cancer cell-derived CSF1 recruited TAMs for TGFβ-mediated PD-L1 upregulation via a vicious cycle. High infiltration of macrophages was clinically correlated with the status of tumor PD-L1 after chemotherapy treatment in CRC patients. We found that depletion of immunosuppressive CSF1R&lt;sup&gt;+&lt;/sup&gt; TAM infiltration and blockade of the TGFβ receptor resulted in an increased influx of cytotoxic CD8&lt;sup&gt;+&lt;/sup&gt; T and effector memory CD8&lt;sup&gt;+&lt;/sup&gt; cells, a reduction in regulatory T cells, and a synergistic inhibition of tumor growth when combined with chemotherapy. These findings show that CSF1R&lt;sup&gt;+&lt;/sup&gt; TAMs and TGFβ are the dominant components that regulate PD-L1 expression within the immunosuppressive tumor microenvironment, providing a therapeutic strategy for advanced CRC patients.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8755,6 +9092,31 @@
       <guid>https://example.com/review/35734098/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Acute respiratory distress syndrome (ARDS) is a life-threatening lung injury characterized by an acute inflammatory response in the lung parenchyma. Hence, it is considered as the most appropriate clinical syndrome to study pathogenic mechanisms of lung inflammation. ARDS is associated with increased morbidity and mortality in the intensive care unit (ICU), while no effective pharmacological treatment exists. It is very important therefore to fully characterize the underlying pathobiology and the related mechanisms, in order to develop novel therapeutic approaches. In vivo and in vitro models are important pre-clinical tools in biological and medical research in the mechanistic and pathological understanding of the majority of diseases. In this review, we will present data from selected experimental models of lung injury/acute lung inflammation, which have been based on clinical disorders that can lead to the development of ARDS and related inflammatory lung processes in humans, including ventilation-induced lung injury (VILI), sepsis, ischemia/reperfusion, smoke, acid aspiration, radiation, transfusion-related acute lung injury (TRALI), influenza, &lt;em&gt;Streptococcus&lt;/em&gt; (&lt;em&gt;S.&lt;/em&gt;) &lt;em&gt;pneumoniae&lt;/em&gt; and coronaviruses infection. Data from the corresponding clinical conditions will also be presented. The mechanisms related to lung inflammation that will be covered are oxidative stress, neutrophil extracellular traps, mitogen-activated protein kinase (MAPK) pathways, surfactant, and water and ion channels. Finally, we will present a brief overview of emerging techniques in the field of omics research that have been applied to ARDS research, encompassing genomics, transcriptomics, proteomics, and metabolomics, which may recognize factors to help stratify ICU patients at risk, predict their prognosis, and possibly, serve as more specific therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>New insights and approaches for analyses of immunopeptidomes</title>
+      <link>https://example.com/review/35716458/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35716458/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human leucocyte antigen (HLA) molecules play a key role in health and disease by presenting antigen to T-lymphocytes for immunosurveillance. Immunopeptidomics involves the study of the collection of peptides presented within the antigen-binding groove of HLA molecules. Identifying their nature and diversity is crucial to understanding immunosurveillance especially during infection or for the recognition and potential eradication of tumours. This review discusses recent advances in the isolation, identification, and quantitation of these peptide antigens. New informatics approaches and databases have shed light on the extent of peptide antigens derived from unconventional sources including peptides derived from transcripts associated with frame shifts, long noncoding RNA, incorrectly annotated untranslated regions, post-translational modifications, and proteasomal splicing. Several challenges remain in successful analysis of immunopeptides, yet recent developments point to unexplored biology waiting to be unravelled.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8849,6 +9211,31 @@
     </item>
     
     <item>
+      <title>Spinal Cord Injury Impairs Lung Immunity in Mice</title>
+      <link>https://example.com/article/35697382/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35697382/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pulmonary infection is a leading cause of morbidity and mortality after spinal cord injury (SCI). Although SCI causes atrophy and dysfunction in primary and secondary lymphoid tissues with a corresponding decrease in the number and function of circulating leukocytes, it is unknown whether this SCI-dependent systemic immune suppression also affects the unique tissue-specific antimicrobial defense mechanisms that protect the lung. In this study, we tested the hypothesis that SCI directly impairs pulmonary immunity and subsequently increases the risk for developing pneumonia. Using mouse models of severe high-level SCI, we find that recruitment of circulating leukocytes and transcriptional control of immune signaling in the lung is impaired after SCI, creating an environment that is permissive for infection. Specifically, we saw a sustained loss of pulmonary leukocytes, a loss of alveolar macrophages at chronic time points postinjury, and a decrease in immune modulatory genes, especially cytokines, needed to eliminate pulmonary infections. Importantly, this injury-dependent impairment of pulmonary antimicrobial defense is only partially overcome by boosting the recruitment of immune cells to the lung with the drug AMD3100, a Food and Drug Administration-approved drug that mobilizes leukocytes and hematopoietic stem cells from bone marrow. Collectively, these data indicate that the immune-suppressive effects of SCI extend to the lung, a unique site of mucosal immunity. Furthermore, preventing lung infection after SCI will likely require novel strategies, beyond the use of orthodox antibiotics, to reverse or block tissue-specific cellular and molecular determinants of pulmonary immune surveillance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Innate Immune Cell Death in Neuroinflammation and Alzheimer&#39;s Disease</title>
       <link>https://example.com/review/35741014/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
@@ -8859,6 +9246,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>TLR7 Mediates Acute Respiratory Distress Syndrome in Sepsis by Sensing Extracellular miR-146a</title>
+      <link>https://example.com/article/35679261/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35679261/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TLR7 (Toll-like receptor 7), the sensor for single-stranded RNA, contributes to systemic inflammation and mortality in murine polymicrobial sepsis. Recent studies show that extracellular miR-146a-5p serves as a TLR7 ligand and plays an important role in regulating host innate immunity. However, the role of miR-146a-5p and TLR7 signaling in pulmonary inflammation, endothelial activation, and sepsis-associated acute respiratory distress syndrome remains unclear. Here, we show that intratracheal administration of exogenous miR-146a-5p in mice evokes lung inflammation, activates endothelium, and increases endothelial permeability via TLR7-dependent mechanisms. TLR7 deficiency attenuates pulmonary barrier dysfunction and reduces lung inflammatory response in a murine sepsis model. Moreover, the impact of miR-146a-5p-TLR7 signaling on endothelial activation appears to be a secondary effect because TLR7 is undetectable in the human pulmonary artery and microvascular endothelial cells (ECs), which show no response to direct miR-146a-5p treatment &lt;em&gt;in vitro&lt;/em&gt;. Both conditioned media of miR-146a-5p-treated macrophages (Mϕ) and septic sera of wild-type mice induce a marked EC barrier disruption &lt;em&gt;in vitro&lt;/em&gt;, whereas Mϕ conditioned media or septic sera of &lt;em&gt;TLR7&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice do not exhibit such effect. Cytokine array and pathway enrichment analysis of the Mϕ conditioned media and septic sera identify TNFα (tumor necrosis factor α) as the main downstream effector of miR-146a-5p-TLR7 signaling responsible for the EC barrier dysfunction, which is further supported by neutralizing anti-TNFα antibody intervention. Together, these data demonstrate that TLR7 activation elicits pulmonary inflammation and endothelial barrier disruption by sensing extracellular miR-146a-5p and contributes to sepsis-associated acute respiratory distress syndrome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -9763,6 +10175,31 @@
       <guid>https://example.com/article/34678072/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Inflammasome is an innate immune defense mechanism, but its overactivation can lead to host death. Here, we show that cell death dictates mouse death caused by NLRC4 inflammasome overactivation. To execute NLRC4-dependent cell death, three death paways complement each other in a specific order: Pyroptosis pathway requiring caspase-1 and GSDMD is the default path; impairment of it initiates ASC-mediated caspase-8–dependent apoptosis; when these two pathways are blocked, caspase-1 triggers intrinsthic apoptotic pathway. Blocking one or two of these death pathways inhibits induction of various cytokines and lipid mediators, but mice still succumb, and only genetic deletions that block all death paths prevent NLRC4-mediated cell death, tissue damage, and mice death. In addition, infection of nonpropagative &lt;em&gt;Salmonella&lt;/em&gt;-caused mice death is attenuated by blocking these death pathways. Thus, to reduce the lethality of infection-related diseases, preventing cell death might be necessary when propagation of infected pathogen was controlled by other means.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NLRP3 inflammasome activation triggers gasdermin D-independent inflammation</title>
+      <link>https://example.com/article/34678046/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34678046/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NOD-like receptor (NLR), family pyrin domain containing 3 (NLRP3) assembles a protein complex known as the NLRP3 inflammasome upon sensing certain pathogen products or sterile danger signals. Gain-of-function mutations such as the D301N substitution in NLRP3, which cause its constitutive activation (NLRP3CA) also results in inflammasome assembly. This inflammasome processes pro–interleukin-1 β (pro–IL-1β) and pro–IL-18 into bioactive IL-1β and IL-18, respectively, and cleaves gasdermin D (GSDMD). GSDMD amino-terminal fragments form plasma membrane pores that facilitate the secretion of IL-1β and IL-18 and lead to the inflammatory cell death pyroptosis. Accordingly, GSDMD inactivation results in negligible spontaneous inflammation in various experimental models such as in &lt;em&gt;Nlrp3&lt;sup&gt;CA/+&lt;/sup&gt;&lt;/em&gt; mice lacking GSDMD (&lt;em&gt;Nlrp3&lt;sup&gt;CA/+&lt;/sup&gt;&lt;/em&gt;;&lt;em&gt;Gsdmd&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; mice). Here, we found that &lt;em&gt;Nlrp3&lt;sup&gt;CA/+&lt;/sup&gt;&lt;/em&gt;;&lt;em&gt;Gsdmd&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; mice, when challenged with LPS or TNF-α, still secreted IL-1β and IL-18, indicating inflammasome activation independent of GSDMD. Accordingly, &lt;em&gt;Gsdmd&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; macrophages failed to secrete IL-1β and undergo pyroptosis when briefly exposed to NLRP3 inflammasome activators but released these cytokines when persistently activated. Sustained NLRP3 inflammasome induced caspase-8/-3 and GSDME cleavage and IL-1β maturation in vitro in &lt;em&gt;Gsdmd&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; macrophages. Thus, a salvage inflammatory pathway involving caspase-8/-3–GSDME was activated after NLRP3 activation when the canonical NLRP3-GSDMD signaling was blocked. Consistent with genetic data, the active metabolite of FDA-approved disulfiram CuET, which inhibited GSDMD and GSDME cleavage in macrophages, reduced the severe inflammation and tissue damage that occurred in the &lt;em&gt;Nlrp3&lt;sup&gt;CA/+&lt;/sup&gt;&lt;/em&gt; mice. Thus, NLRP3 inflammasome activation overwhelms the protection afforded by GSDMD deficiency, rewiring signaling cascades through mechanisms that include GSDME to propagate inflammation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10884,6 +11321,37 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Gasdermin E permits interleukin-1 beta release in distinct sublytic and pyroptotic phases</title>
+      <link>https://example.com/article/33852854/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33852854/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inflammasome activation in the absence of gasdermin D activates gasdermin E&lt;/li&gt;
+&lt;li&gt;Gasdermin E permits IL-1β release independent of cell death in a sublytic phase&lt;/li&gt;
+&lt;li&gt;Lysis depends on substantial gasdermin E oligomerization and pore formation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cellular inflammasome activation causes caspase-1 cleavage of the pore-forming protein gasdermin D (GSDMD) with subsequent pyroptotic cell death and cytokine release. Here, we clarify the ambiguous role of the related family member gasdermin E (GSDME) in this process. Inflammasome stimulation in GSDMD-deficient cells led to apoptotic caspase cleavage of GSDME. Endogenous GSDME activation permitted sublytic, continuous interleukin-1β (IL-1β) release and membrane leakage, even in GSDMD-sufficient cells, whereas ectopic expression led to pyroptosis with GSDME oligomerization and complete liberation of IL-1β akin to GSDMD pyroptosis. We find that NLRP3 and NLRP1 inflammasomes ultimately rely concurrently on both gasdermins for IL-1β processing and release separately from their ability to induce cell lysis. Our study thus identifies GSDME as a conduit for IL-1β release independent of its ability to cause cell death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -12084,6 +12552,38 @@
     </item>
     
     <item>
+      <title>GSDME-Dependent Incomplete Pyroptosis Permits Selective IL-1α Release under Caspase-1 Inhibition</title>
+      <link>https://example.com/article/32361594/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32361594/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NLRP3 inflammasome induces necrotic cell death in the absence of caspase-1/11&lt;/li&gt;
+&lt;li&gt;ASC initiates GSDME-dependent pyroptosis via caspase-8&lt;/li&gt;
+&lt;li&gt;IL-1α, but not IL-1β, is released during Casp1/11-independent pyroptosis&lt;/li&gt;
+&lt;li&gt;Pharmacological inhibition of caspase-1 permits IL-1α release during pyroptosis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pyroptosis is a form of regulated cell death that is characterized by gasdermin processing and increased membrane permeability. Caspase-1 and caspase-11 have been considered to be essential for gasdermin D processing associated with inflammasome activation. In the present study, we found that NLRP3 inflammasome activation induces delayed necrotic cell death via ASC in caspase-1/11-deficient macrophages. Furthermore, ASC-mediated caspase-8 activation and subsequent gasdermin E processing are necessary for caspase-1-independent necrotic cell death. We define this necrotic cell death as incomplete pyroptosis because IL-1β release, a key feature of pyroptosis, is absent, whereas IL-1α release is induced. Notably, unprocessed pro-IL-1β forms a molecular complex to be retained inside pyroptotic cells. Moreover, incomplete pyroptosis accompanied by IL-1α release is observed under the pharmacological inhibition of caspase-1 with VX765. These findings suggest that caspase-1 inhibition during NLRP3 inflammasome activation modulates forms of cell death and permits the release of IL-1α from dying cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>O-GlcNAc transferase promotes influenza A virus-induced cytokine storm by targeting interferon regulatory factor-5</title>
       <link>https://example.com/article/32494619/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
@@ -12928,6 +13428,38 @@
       <guid>https://example.com/article/30824325/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CCR7 chemokine receptor stimulation induces rapid but transient dendritic cell (DC) migration toward draining lymph nodes, which is critical for the initiation of protective immunity and maintenance of immune homeostasis. The mechanisms for terminating CCR7-mediated DC migration remain incompletely understood. Here we have identified a long non-coding RNA lnc-Dpf3 whose feedback restrained CCR7-mediated DC migration. CCR7 stimulation upregulated lnc-Dpf3 via removing N6-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A) modification to prevent RNA degradation. DC-specific lnc-Dpf3 deficiency increased CCR7-mediated DC migration, leading to exaggerated adaptive immune responses and inflammatory injuries. Mechanistically, CCR7 stimulation activated the HIF-1α transcription factor pathway in DCs, leading to metabolic reprogramming toward glycolysis for DC migration. lnc-Dpf3 directly bound to HIF-1α and suppressed HIF-1α-dependent transcription of the glycolytic gene Ldha, thus inhibiting DC glycolytic metabolism and migratory capacity. We demonstrate a critical role for CCR7-inducible lnc-Dpf3 in coupling epigenetic and metabolic pathways to feedback-control DC migration and inflammatory responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Map of Human Type 1 Diabetes Progression by Imaging Mass Cytometry</title>
+      <link>https://example.com/article/30713109/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30713109/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Highly multiplexed imaging of pancreas tissues from human donors with T1D&lt;/li&gt;
+&lt;li&gt;Islet evolution through T1D progression inferred from snapshot data&lt;/li&gt;
+&lt;li&gt;The phenotype of β cells is altered prior to β cell destruction&lt;/li&gt;
+&lt;li&gt;T cell recruitment depends on both disease stage and islet profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Type 1 diabetes (T1D) results from the autoimmune destruction of insulin-producing β cells. A comprehensive picture of the changes during T1D development is lacking due to limited sample availability, inability to sample longitudinally, and the paucity of technologies enabling comprehensive tissue profiling. Here, we analyzed 1,581 islets from 12 human donors, including eight with T1D, using imaging mass cytometry (IMC). IMC enabled simultaneous measurement of 35 biomarkers with single-cell and spatial resolution. We performed pseudotime analysis of islets through T1D progression from snapshot data to reconstruct the evolution of β cell loss and insulitis. Our analyses revealed that β cell destruction is preceded by a β cell marker loss and by recruitment of cytotoxic and helper T cells. The approaches described herein demonstrate the value of IMC for improving our understanding of T1D pathogenesis, and our data lay the foundation for hypothesis generation and follow-on experiments.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

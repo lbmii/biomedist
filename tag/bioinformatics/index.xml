@@ -929,6 +929,37 @@
     </item>
     
     <item>
+      <title>Transcriptomics-based network medicine approach identifies metformin as a repurposable drug for atrial fibrillation</title>
+      <link>https://example.com/article/36223777/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36223777/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Network proximity analysis predicts metformin as repurposed drug for AF&lt;/li&gt;
+&lt;li&gt;Metformin induces directional changes in AF disease module genes&lt;/li&gt;
+&lt;li&gt;Large-scale health record data support metformin use for reduced AF risk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Effective drugs for atrial fibrillation (AF) are lacking, resulting in significant morbidity and mortality. This study demonstrates that network proximity analysis of differentially expressed genes from atrial tissue to drug targets can help prioritize repurposed drugs for AF. Using enrichment analysis of drug-gene signatures and functional testing in human inducible pluripotent stem cell (iPSC)-derived atrial-like cardiomyocytes, we identify metformin as a top repurposed drug candidate for AF. Using the active compactor, a new design analysis of large-scale longitudinal electronic health record (EHR) data, we determine that metformin use is significantly associated with a reduced risk of AF (odds ratio = 0.48, 95%, confidence interval [CI] 0.36-0.64, &lt;em&gt;p&lt;/em&gt; &amp;lt; 0.001) compared with standard treatments for diabetes. This study utilizes network medicine methodologies to identify repurposed drugs for AF treatment and identifies metformin as a candidate drug.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data</title>
       <link>https://example.com/article/imt2.56/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
@@ -1628,6 +1659,31 @@
 &lt;p&gt;&lt;em&gt;Method:&lt;/em&gt; The Cancer Genome Atlas (TCGA) was utilized for obtaining original transcriptome data and clinical information. Differential expression, prognostic value, and correlation with clinic parameter of mRNA stemness index (mRNAsi) were conducted in LUAD. Significant mRNAsi-related module and hub genes were screened using weighted gene coexpression network analysis (WGCNA). Meanwhile, immune-related differential genes (IRGs) were screened in LUAD. Stem cell index and immune-related differential genes (SC-IRGs) were screened and further developed to construct prognosis-related model and nomogram. Comprehensive analysis of hub genes and subgroups, involving enrichment in the subgroup [gene set enrichment analysis (GSEA)], gene mutation, genetic correlation, gene expression, immune, tumor mutation burden (TMB), and drug sensitivity, used bioinformatics and reverse transcription polymerase chain reaction (RT-PCR) for verification.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Through difference analysis, mRNAsi of LUAD group was markedly higher than that of normal group. Clinical parameters (age, gender, and T staging) were ascertained to be highly relevant to mRNAsi. MEturquoise and MEblue were found to be the most significant modules (including positive and negative correlations) related to mRNAsi via WGCNA. The functions and pathways of the two mRNAsi-related modules were mainly enriched in tumorigenesis, development, and metastasis. Combining stem cell index-related differential genes and immune-related differential genes, 30 prognosis-related SC-IRGs were screened via Cox regression analysis. Then, 16 prognosis-related SC-IRGs were screened to construct a LASSO regression model at last. In addition, the model was successfully validated by using TCGA-LUAD and GSE68465, whereas c-index and the calibration curves were utilized to demonstrate the clinical value of our nomogram. Following the validation of the model, GSEA, immune cell correlation, TMB, clinical relevance, etc., have found significant difference in high- and low-risk groups, and 16-gene expression of the SC-IRG model also was tested by RT-PCR. &lt;em&gt;ADRB2&lt;/em&gt;, &lt;em&gt;ANGPTL4&lt;/em&gt;, &lt;em&gt;BDNF&lt;/em&gt;, &lt;em&gt;CBLC&lt;/em&gt;, &lt;em&gt;CX3CR1&lt;/em&gt;, and &lt;em&gt;IL3RA&lt;/em&gt; were found markedly different expression between the tumor and normal group.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; The SC-IRG model and the prognostic nomogram could accurately predict LUAD survival. Our study used mRNAsi combined with immunity that may lay a foundation for the future research studies in LUAD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Whole transcriptome sequencing analysis revealed key RNA profiles and toxicity in mice after chronic exposure to microplastics</title>
+      <link>https://example.com/article/35718033/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35718033/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Investigating the long-term effects of microplastics (MPs) in vivo is necessary for evaluating its biological toxicity. Previously, we showed that MPs elicit vascular dysfunctions in atherosclerotic mice. However, the effects of long-term treatment with environmental levels of MPs on biological functions and RNA expression profiles in wild-type mice are unknown. Here, C57BL/6 mice were administered 1000 μg/L MPs through their drinking water for 180 days. Transcriptomic analyses, biochemical analysis, and histopathological examination were conducted to determine the key signals and molecular mechanisms triggered by MPs in vivo using whole transcriptome sequencing, enzyme-linked immunosorbent assay, and histopathological analysis. Notably, our data revealed that MPs aggravated vascular lesions and organ injuries, particularly liver, kidney, and heart injuries. Additionally, MPs exacerbated oxidative injuries by inhibiting the activities of antioxidant enzymes and increasing the levels of the serum biochemistry indicator of organ damage. RNA sequencing of vascular tissues showed that 674 mRNAs, 39 lncRNAs, 196 miRNAs, and 565 circRNAs were abnormally expressed in MPs-treated mice compared with the untreated group. Pathway enrichment analyses identified pathways linked to the toxicity of MPs, including lysosomal, NOD-like receptor, and peroxisome proliferator-activated receptor pathways. Additionally, competing endogenous RNA networks were constructed and hub RNAs were identified using bioinformatics analysis. Taken together, our data suggested that toxicity induced by long-term exposure to MPs continually presents with extensive changes in biological features and global gene expression profiles. Our data provides new insights into the biological toxicity of MPs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

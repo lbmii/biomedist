@@ -44,5 +44,37 @@
 </description>
     </item>
     
+    <item>
+      <title>A Map of Human Type 1 Diabetes Progression by Imaging Mass Cytometry</title>
+      <link>https://example.com/article/30713109/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30713109/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Highly multiplexed imaging of pancreas tissues from human donors with T1D&lt;/li&gt;
+&lt;li&gt;Islet evolution through T1D progression inferred from snapshot data&lt;/li&gt;
+&lt;li&gt;The phenotype of β cells is altered prior to β cell destruction&lt;/li&gt;
+&lt;li&gt;T cell recruitment depends on both disease stage and islet profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Type 1 diabetes (T1D) results from the autoimmune destruction of insulin-producing β cells. A comprehensive picture of the changes during T1D development is lacking due to limited sample availability, inability to sample longitudinally, and the paucity of technologies enabling comprehensive tissue profiling. Here, we analyzed 1,581 islets from 12 human donors, including eight with T1D, using imaging mass cytometry (IMC). IMC enabled simultaneous measurement of 35 biomarkers with single-cell and spatial resolution. We performed pseudotime analysis of islets through T1D progression from snapshot data to reconstruct the evolution of β cell loss and insulitis. Our analyses revealed that β cell destruction is preceded by a β cell marker loss and by recruitment of cytotoxic and helper T cells. The approaches described herein demonstrate the value of IMC for improving our understanding of T1D pathogenesis, and our data lay the foundation for hypothesis generation and follow-on experiments.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

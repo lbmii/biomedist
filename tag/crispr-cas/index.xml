@@ -5,12 +5,44 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>An evolved AAV variant enables efficient genetic engineering of murine T cells</title>
+      <link>https://example.com/article/36638795/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638795/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A murine T cell-specific AAV variant, Ark313, is discovered through AAV6 evolution&lt;/li&gt;
+&lt;li&gt;A genome-wide CRISPR screen identifies QA2 an essential factor for Ark313 transduction&lt;/li&gt;
+&lt;li&gt;Ark313 enables efficient transgene delivery and targeting of large DNA payloads&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Trac&lt;/em&gt; targeting of a CAR outperforms semi-random integration in a solid tumor model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Precise targeting of large transgenes to T cells using homology-directed repair has been transformative for adoptive cell therapies and T cell biology. Delivery of DNA templates via adeno-associated virus (AAV) has greatly improved knockin efficiencies, but the tropism of current AAV serotypes restricts their use to human T cells employed in immunodeficient mouse models. To enable targeted knockins in murine T cells, we evolved Ark313, a synthetic AAV that exhibits high transduction efficiency in murine T cells. We performed a genome-wide knockout screen and identified QA2 as an essential factor for Ark313 infection. We demonstrate that Ark313 can be used for nucleofection-free DNA delivery, CRISPR-Cas9-mediated knockouts, and targeted integration of large transgenes. Ark313 enables preclinical modeling of &lt;em&gt;Trac&lt;/em&gt;-targeted CAR-T and transgenic TCR-T cells in immunocompetent models. Efficient gene targeting in murine T cells holds great potential for improved cell therapies and opens avenues in experimental T cell immunology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Identification of astrocyte regulators by nucleic acid cytometry</title>
@@ -622,6 +654,33 @@
 &lt;p&gt;Copper is an essential cofactor for all organisms, and yet it becomes toxic if concentrations exceed a threshold maintained by evolutionarily conserved homeostatic mechanisms. How excess copper induces cell death, however, is unknown. Here, we show in human cells that copper-dependent, regulated cell death is distinct from known death mechanisms and is dependent on mitochondrial respiration. We show that copper-dependent death occurs by means of direct binding of copper to lipoylated components of the tricarboxylic acid (TCA) cycle. This results in lipoylated protein aggregation and subsequent iron-sulfur cluster protein loss, which leads to proteotoxic stress and ultimately cell death. These findings may explain the need for ancient copper homeostatic mechanisms.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Copper induces cell death&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cell death is an essential, finely tuned process that is critical for the removal of damaged and superfluous cells. Multiple forms of programmed and nonprogrammed cell death have been identified, including apoptosis, ferroptosis, and necroptosis. Tsvetkov et al. investigated whether abnormal copper ion elevations may sensitize cells toward a previously unidentified death pathway (see the Perspective by Kahlson and Dixon). By performing CRISPR/Cas9 screens, several genes were identified that could protect against copper-induced cell killing. Using genetically modified cells and a mouse model of a copper overload disorder, the researchers report that excess copper promotes the aggregation of lipoylated proteins and links mitochondrial metabolism to copper-dependent death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide screens identify specific drivers of mutant hTERT promoters</title>
+      <link>https://example.com/article/35027447/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35027447/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mutations in &lt;em&gt;hTERT&lt;/em&gt; promoter are seen in over 19% of human cancers, irrespective of the cancer type. Understanding the molecular players that regulate Mut-&lt;em&gt;hTERT&lt;/em&gt; promoters may help the design of effective targeting strategies to inhibit telomerase reactivation specifically in cancer cells. Our work uses genome-wide functional screens to identify 30 specific regulators of Mut-&lt;em&gt;hTERT&lt;/em&gt; promoters. These candidates identified from the screening serve as an excellent resource to understand how telomerase is reactivated and as targets for making inhibitors to telomerase, a key driver of cancer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer-specific &lt;em&gt;hTERT&lt;/em&gt; promoter mutations reported in 19% of cancers result in enhanced telomerase activity. Understanding the distinctions between transcriptional regulation of wild-type (WT) and mutant (Mut) &lt;em&gt;hTERT&lt;/em&gt; promoters may open up avenues for development of inhibitors which specially block &lt;em&gt;hTERT&lt;/em&gt; expression in cancer cells. To comprehensively identify physiological regulators of WT- or Mut-&lt;em&gt;hTERT&lt;/em&gt; promoters, we generated several isogenic reporter cells driven by endogenous &lt;em&gt;hTERT&lt;/em&gt; loci. Genome-wide CRISPR-Cas9 and small interfering RNA screens using these isogenic reporter lines identified specific regulators of Mut-&lt;em&gt;hTERT&lt;/em&gt; promoters. We validate and characterize one of these hits, namely, MED12, a kinase subunit of mediator complex. We demonstrate that MED12 specifically drives expression of &lt;em&gt;hTERT&lt;/em&gt; from the Mut-&lt;em&gt;hTERT&lt;/em&gt; promoter by mediating long-range chromatin interaction between the proximal Mut-&lt;em&gt;hTERT&lt;/em&gt; promoter and &lt;em&gt;T-INT1&lt;/em&gt; distal regulatory region 260 kb upstream. Several hits identified in our screens could serve as potential therapeutic targets, inhibition of which may specifically block Mut-&lt;em&gt;hTERT&lt;/em&gt; promoter driven telomerase reactivation in cancers.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

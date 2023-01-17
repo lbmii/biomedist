@@ -5,12 +5,37 @@
     <link>https://example.com/tag/microbiology/</link>
       <atom:link href="https://example.com/tag/microbiology/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiology</title>
       <link>https://example.com/tag/microbiology/</link>
     </image>
+    
+    <item>
+      <title>Antiviral Approaches against Influenza Virus</title>
+      <link>https://example.com/review/36645300/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36645300/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Preventing and controlling influenza virus infection remains a global public health challenge, as it causes seasonal epidemics to unexpected pandemics. These infections are responsible for high morbidity, mortality, and substantial economic impact. Vaccines are the prophylaxis mainstay in the fight against influenza. However, vaccination fails to confer complete protection due to inadequate vaccination coverages, vaccine shortages, and mismatches with circulating strains. Antivirals represent an important prophylactic and therapeutic measure to reduce influenza-associated morbidity and mortality, particularly in high-risk populations. Here, we review current FDA-approved influenza antivirals with their mechanisms of action, and different viral- and host-directed influenza antiviral approaches, including immunomodulatory interventions in clinical development. Furthermore, we also illustrate the potential utility of machine learning in developing next-generation antivirals against influenza.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Sesamolin Attenuates Kidney Injury, Intestinal Barrier Dysfunction, and Gut Microbiota Imbalance in High-Fat and High-Fructose Diet-Fed Mice</title>
@@ -133,6 +158,38 @@
       <guid>https://example.com/article/36604505/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Metagenome-based resources have revealed the diversity and function of the human gut microbiome, but further understanding is limited by insufficient genome quality and a lack of samples from typically understudied populations. Here we used hybrid long-read PromethION and short-read HiSeq sequencing to characterize the faecal microbiota of 60 Inner Mongolian individuals (n = 180 samples over three time points) who were part of a probiotic yogurt intervention trial. We present the Inner Mongolian Gut Genome catalogue, comprising 802 closed and 5,927 high-quality metagenome-assembled genomes. This approach achieved high genome continuity and substantially increased the resolution of genomic elements, including ribosomal RNA operons, metabolic gene clusters, prophages and insertion sequences. Particularly, we report the ribosomal RNA operon copy numbers for uncultured species, over 12,000 previously undescribed gut prophages and the distribution of insertion sequence elements across gut bacteria. Overall, these data provide a high-quality, large-scale resource for studying the human gut microbiota.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An evolved AAV variant enables efficient genetic engineering of murine T cells</title>
+      <link>https://example.com/article/36638795/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638795/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A murine T cell-specific AAV variant, Ark313, is discovered through AAV6 evolution&lt;/li&gt;
+&lt;li&gt;A genome-wide CRISPR screen identifies QA2 an essential factor for Ark313 transduction&lt;/li&gt;
+&lt;li&gt;Ark313 enables efficient transgene delivery and targeting of large DNA payloads&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Trac&lt;/em&gt; targeting of a CAR outperforms semi-random integration in a solid tumor model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Precise targeting of large transgenes to T cells using homology-directed repair has been transformative for adoptive cell therapies and T cell biology. Delivery of DNA templates via adeno-associated virus (AAV) has greatly improved knockin efficiencies, but the tropism of current AAV serotypes restricts their use to human T cells employed in immunodeficient mouse models. To enable targeted knockins in murine T cells, we evolved Ark313, a synthetic AAV that exhibits high transduction efficiency in murine T cells. We performed a genome-wide knockout screen and identified QA2 as an essential factor for Ark313 infection. We demonstrate that Ark313 can be used for nucleofection-free DNA delivery, CRISPR-Cas9-mediated knockouts, and targeted integration of large transgenes. Ark313 enables preclinical modeling of &lt;em&gt;Trac&lt;/em&gt;-targeted CAR-T and transgenic TCR-T cells in immunocompetent models. Efficient gene targeting in murine T cells holds great potential for improved cell therapies and opens avenues in experimental T cell immunology.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4622,6 +4679,34 @@
     </item>
     
     <item>
+      <title>Hypoxia-inducible lentiviral gene expression in engineered human macrophages</title>
+      <link>https://example.com/article/35728871/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35728871/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Human immune cells, including monocyte-derived macrophages, can be engineered to deliver proinflammatory cytokines, bispecific antibodies, and chimeric antigen receptors to support immune responses in different disease settings. When gene expression is regulated by constitutively active promoters, lentiviral payload gene expression is unregulated, and can result in potentially toxic quantities of proteins. Regulated delivery of lentivirally encoded proteins may allow localized or conditional therapeutic protein expression to support safe delivery of adoptively transferred, genetically modified cells with reduced capacity for systemic toxicities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In this study, we engineered human macrophages to express genes regulated by hypoxia responsive elements included in the lentiviral promoter region to drive conditional lentiviral gene expression only under hypoxic conditions. We tested transduced macrophages cultured in hypoxic conditions for the transient induced expression of reporter genes and the secreted cytokine, interleukin-12. Expression of hypoxia-regulated genes was investigated both transcriptionally and translationally, and in the presence of human tumor cells in a slice culture system. Finally, hypoxia-regulated gene expression was evaluated in a subcutaneous humanized-mouse cancer model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Engineered macrophages were shown to conditionally and tranisently express lentivirally encoded gene protein products, including IL-12 in hypoxic conditions &lt;em&gt;in vitro&lt;/em&gt;. On return to normoxic conditions, lentiviral payload expression returned to basal levels. Reporter genes under the control of hypoxia response elements were upregulated under hypoxic conditions in the presence of human colorectal carcinoma cells and in the hypoxic xenograft model of glioblastoma, suggesting utility for systemic engineered cell delivery capable of localized gene delivery in cancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Macrophages engineered to express hypoxia-regulated payloads have the potential to be administered systemically and conditionally express proteins in tissues with hypoxic conditions. In contrast to immune cells that function or survive poorly in hypoxic conditions, macrophages maintain a proinflammatory phenotype that may support continued gene and protein expression when regulated by conditional hypoxia responsive elements and naturally traffic to hypoxic microenvironments, making them ideal vehicles for therapeutic payloads to hypoxic tissues, such as solid tumors. With the ability to fine-tune delivery of potent proteins in response to endogenous microenvironments, macrophage-based cellular therapies may therefore be designed for different disease settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Mitochondrial cyclophilin D promotes disease tolerance by licensing NK cell development and IL-22 production against influenza virus</title>
       <link>https://example.com/article/35732121/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
@@ -4679,6 +4764,81 @@
     </item>
     
     <item>
+      <title>SATB1 ensures appropriate transcriptional programs within naïve CD8&#43; T cells</title>
+      <link>https://example.com/article/35713361/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713361/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Special AT-binding protein 1 (SATB1) is a chromatin-binding protein that has been shown to be a key regulator of T-cell development and CD4&lt;sup&gt;+&lt;/sup&gt; T-cell fate decisions and function. The underlying function for SATB1 in peripheral CD8&lt;sup&gt;+&lt;/sup&gt; T-cell differentiation processes is largely unknown. To address this, we examined SATB1-binding patterns in naïve and effector CD8&lt;sup&gt;+&lt;/sup&gt; T cells demonstrating that SATB1 binds to noncoding regulatory elements linked to T-cell lineage-specific gene programs, particularly in naïve CD8&lt;sup&gt;+&lt;/sup&gt; T cells. We then assessed SATB1 function using N-ethyl-N-nitrosourea-mutant mice that exhibit a point mutation in the SATB1 DNA-binding domain (termed Satb1m1Anu/m1Anu ). Satb1m1Anu/m1Anu mice exhibit diminished SATB1-binding, naïve, Satb1m1Anu/m1Anu CD8&lt;sup&gt;+&lt;/sup&gt; T cells exhibiting transcriptional and phenotypic characteristics reminiscent of effector T cells. Upon activation, the transcriptional signatures of Satb1m1Anu/m1Anu and wild-type effector CD8&lt;sup&gt;+&lt;/sup&gt; T cells converged. While there were no overt differences, primary respiratory infection of Satb1m1Anu/m1Anu mice with influenza A virus (IAV) resulted in a decreased proportion and number of IAV-specific CD8&lt;sup&gt;+&lt;/sup&gt; effector T cells recruited to the infected lung when compared with wild-type mice. Together, these data suggest that SATB1 has a major role in an appropriate transcriptional state within naïve CD8&lt;sup&gt;+&lt;/sup&gt; T cells and ensures appropriate CD8&lt;sup&gt;+&lt;/sup&gt; T-cell effector gene expression upon activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The autophagy-related degradation of MDA5 by Tembusu virus nonstructural 2B disrupts IFNβ production</title>
+      <link>https://example.com/article/35713934/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713934/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Duck Tembusu virus (TMUV) is a serious avian pathogen causing a decline in egg production, but the mechanism of the virus that breaks through the innate immune system is poorly understood. Here, we show that TMUV inhibits poly(I:C)-induced interferon (IFN) production. Because poly(I:C) transfection can specifically activate the MDA5 pathway in duck primary cells, we found that infection with TMUV can specifically target MDA5 and lead to its degradation. MDA5 downregulation could be blocked by the autophagy inhibitor 3-methyladenine (3-MA) but not a proteasome inhibitor, strongly implicating MDA5 degradation as an autophagy-related degradation pathway. Pretreatment with 3-MA enhanced the expression of MDA5 and inhibited TMUV replication. To screen TMUV proteins that degraded MDA5, the TMUV replicon and MDA5-Flag were cotransfected into cells, and the western blot analysis showed that nonstructural 2B (NS2B) can degrade MDA5 in a dose-dependent manner. Dual-luciferase assays indicate that NS2B alone inhibits MDA5- or poly(I:C)-mediated IFN production. NS2B binds MDA5 in the presence of 3-MA. The deletion of the amino acids of NS2B from residues 51 to 92 (hydrophilic area) restored the expression of MDA5 and relieved the MDA5-mediated IFNβ production inhibition by NS2B, indicating that the hydrophilic area of NS2B is important for its interaction with host innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circulating tissue factor-positive extracellular vesicles and their association with thrombosis in different diseases</title>
+      <link>https://example.com/review/35708588/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35708588/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tissue factor (TF) is a procoagulant protein released from activated host cells, such as monocytes, and tumor cells on extracellular vesicles (EVs). TF + EVs are observed in the circulation of patients with various types of diseases. In this review, we will summarize the association between TF + EVs and activation of coagulation and survival in different types of diseases, including cancer, sepsis, and infections with different viruses, such as human immunodeficiency virus (HIV), influenza A virus (IAV), and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We will also discuss the source of TF + EVs in various diseases. EVTF activity is associated with thrombosis in pancreatic cancer patients and coronavirus disease 2019 patients (COVID-19) and with disseminated intravascular coagulation in cancer patients. EVTF activity is also associated with worse survival in patients with cancer and COVID-19. Monocytes are the major sources of TF + EVs in sepsis, and viral infections, such as HIV, Ebola virus, and SARS-CoV-2. In contrast, alveolar epithelial cells are the major source of TF + EVs in bronchoalveolar lavage fluid in COVID-19 and influenza A patients. These studies indicate that EVTF activity could be used as a biomarker to identify patients that have an increased risk of coagulopathy and mortality.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The human lung microbiome—A hidden link between microbes and human health and diseases</title>
       <link>https://example.com/review/imt2.33/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
@@ -4689,6 +4849,38 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The protective effect of Tilia amurensis honey on influenza A virus infection through stimulation of interferon-mediated IFITM3 signaling</title>
+      <link>https://example.com/article/35717782/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35717782/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TH inhibit infection of influenza A virus in murine macrophages.&lt;/li&gt;
+&lt;li&gt;TH activates the type-1 interferon related pathway including TBK-STAT signaling.&lt;/li&gt;
+&lt;li&gt;TH increases expression of IFN-stimulating genes (ISG’s) and IFN-inducible transmembrane 3 (IFITM3)&lt;/li&gt;
+&lt;li&gt;TH could be a potential preventive and therapeutic agents for influenza A virus by modulating the regulates innate immune response.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recently, attention has focused on the prevention and treatment of respiratory viruses including influenza viruses. We evaluated the antiviral effect of &lt;em&gt;Tilia amurensis&lt;/em&gt; honey (TH) against influenza A virus in murine macrophages. Influenza A virus infection was reduced following pretreatment with TH. Pretreatment of murine macrophages with TH increased the production and secretion of type-1 interferon (IFN) and proinflammatory cytokines and increased phosphorylation of the type-1 IFN-related proteins, TANK-binding kinase (TBK), and STAT. Moreover, TH increased the expression of IFN-stimulating genes and increased the expression of IFN-inducible transmembrane (IFITM3), a protein that interferes with virus replication and entry. Taken together, these findings suggest that TH suppresses influenza A virus infection by regulating the innate immune response in macrophages. This supports the development of preventive and therapeutic agents for influenza A virus and enhances the economic value of TH.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -4745,6 +4937,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; All patients with PCR-verified COVID-19 and gave consent, and who were admitted to a tertiary Intensive care unit (ICU) in Sweden during March-September 2020 were included. Demography, repeated blood samples and measures of organ function were collected. Analyses of anti-SARS-CoV-2 antibodies (IgM, IgA and IgG) in plasma were performed and correlated to patient outcome and biomarkers of inflammation and organ failure.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A total of 115 patients (median age 62 years, 77% male) were included prospectively. All patients developed severe respiratory dysfunction, and 59% were treated with invasive ventilation. Thirty-day mortality was 22.6% for all included patients. Patients negative for any anti-SARS-CoV-2 antibody in plasma during ICU admission had higher 30-day mortality compared to patients positive for antibodies. Patients positive for IgM had more ICU-, ventilator-, renal replacement therapy- and vasoactive medication-free days. IgA antibody concentrations correlated negatively with both SAPS3 and maximal SOFA-score and IgM-levels correlated negatively with SAPS3. Patients with antibody levels below the detection limit had higher plasma levels of extracellular histones on day 1 and elevated levels of kidney and cardiac biomarkers, but showed no signs of increased inflammation, complement activation or cytokine release. After adjusting for age, positive IgM and IgG antibodies were still associated with increased 30-day survival, with odds ratio (OR) 7.1 (1.5-34.4) and 4.2 (1.1-15.7), respectively.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; In patients with severe COVID-19 requiring intensive care, a poor antibody response is associated with organ failure, systemic histone release and increased 30-day mortality.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Influenza A virus undergoes compartmentalized replication in vivo dominated by stochastic bottlenecks</title>
+      <link>https://example.com/article/35701424/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35701424/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transmission of influenza A viruses (IAV) between hosts is subject to numerous physical and biological barriers that impose genetic bottlenecks, constraining viral diversity and adaptation. The bottlenecks within hosts and their potential impacts on evolutionary pathways taken during infection are poorly understood. To address this, we created highly diverse IAV libraries bearing molecular barcodes on two gene segments, enabling high-resolution tracking and quantification of unique virus lineages within hosts. Here we show that IAV infection in lungs is characterized by multiple within-host bottlenecks that result in &amp;ldquo;islands&amp;rdquo; of infection in lung lobes, each with genetically distinct populations. We perform site-specific inoculation of barcoded IAV in the upper respiratory tract of ferrets and track viral diversity as infection spreads to the trachea and lungs. We detect extensive compartmentalization of discrete populations within lung lobes. Bottleneck events and localized replication stochastically sample individual viruses from the upper respiratory tract or the trachea that become the dominant genotype in a particular lobe. These populations are shaped strongly by founder effects, with limited evidence for positive selection. The segregated sites of replication highlight the jackpot-style events that contribute to within-host influenza virus evolution and may account for low rates of intrahost adaptation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

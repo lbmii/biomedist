@@ -5,12 +5,37 @@
     <link>https://example.com/tag/glycosylation/</link>
       <atom:link href="https://example.com/tag/glycosylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Glycosylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Glycosylation</title>
       <link>https://example.com/tag/glycosylation/</link>
     </image>
+    
+    <item>
+      <title>Small Molecule-Activated O-GlcNAcase for Spatiotemporal Removal of O-GlcNAc in Live Cells</title>
+      <link>https://example.com/article/36598936/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36598936/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The nutrient sensor O-linked N-acetylglucosamine (O-GlcNAc) is a post-translational modification found on thousands of nucleocytoplasmic proteins. O-GlcNAc levels in cells dynamically respond to environmental cues in a temporal and spatial manner, leading to altered signal transduction and functional effects. The spatiotemporal regulation of O-GlcNAc levels would accelerate functional interrogation of O-GlcNAc and manipulation of cell behaviors for desired outcomes. Here, we report a strategy for spatiotemporal reduction of O-GlcNAc in live cells by designing an O-GlcNAcase (OGA) fused to an intein triggered by 4-hydroxytamoxifen (4-HT). After rational protein engineering and optimization, we identified an OGA-intein variant whose deglycosidase activity can be triggered in the desired subcellular compartments by 4-HT in a time- and dose-dependent manner. Finally, we demonstrated that 4-HT activation of the OGA-intein fusion can likewise potentiate inhibitory effects in breast cancer cells by virtue of the reduction of O-GlcNAc. The spatiotemporal control of O-GlcNAc through the chemically activatable OGA-intein fusion will facilitate the manipulation and functional understanding of O-GlcNAc in live cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>MITA oligomerization upon viral infection is dependent on its N-glycosylation mediated by DDOST</title>
@@ -19,6 +44,31 @@
       <guid>https://example.com/article/36449507/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Therapeutics that discriminate between the genetic makeup of normal cells and tumour cells are valuable for treating and understanding cancer. Small molecules with oncogene-selective lethality may reveal novel functions of oncoproteins and enable the creation of more selective drugs. Here we describe the mechanism of action of the selective anti-tumour agent erastin, involving the RAS-RAF-MEK signalling pathway functioning in cell proliferation, differentiation and survival. Erastin exhibits greater lethality in human tumour cells harbouring mutations in the oncogenes HRAS, KRAS or BRAF. Using affinity purification and mass spectrometry, we discovered that erastin acts through mitochondrial voltage-dependent anion channels (VDACs)&amp;ndash;a novel target for anti-cancer drugs. We show that erastin treatment of cells harbouring oncogenic RAS causes the appearance of oxidative species and subsequent death through an oxidative, non-apoptotic mechanism. RNA-interference-mediated knockdown of VDAC2 or VDAC3 caused resistance to erastin, implicating these two VDAC isoforms in the mechanism of action of erastin. Moreover, using purified mitochondria expressing a single VDAC isoform, we found that erastin alters the permeability of the outer mitochondrial membrane. Finally, using a radiolabelled analogue and a filter-binding assay, we show that erastin binds directly to VDAC2. These results demonstrate that ligands to VDAC proteins can induce non-apoptotic cell death selectively in some tumour cells harbouring activating mutations in the RAS-RAF-MEK pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic changes in O-GlcNAcylation regulate osteoclast differentiation and bone loss via nucleoporin 153</title>
+      <link>https://example.com/article/35879285/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35879285/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bone mass is maintained by the balance between osteoclast-induced bone resorption and osteoblast-triggered bone formation. In inflammatory arthritis such as rheumatoid arthritis (RA), however, increased osteoclast differentiation and activity skew this balance resulting in progressive bone loss. O-GlcNAcylation is a posttranslational modification with attachment of a single O-linked β-D-N-acetylglucosamine (O-GlcNAc) residue to serine or threonine residues of target proteins. Although O-GlcNAcylation is one of the most common protein modifications, its role in bone homeostasis has not been systematically investigated. We demonstrate that dynamic changes in O-GlcNAcylation are required for osteoclastogenesis. Increased O-GlcNAcylation promotes osteoclast differentiation during the early stages, whereas its downregulation is required for osteoclast maturation. At the molecular level, O-GlcNAcylation affects several pathways including oxidative phosphorylation and cell-cell fusion. TNFα fosters the dynamic regulation of O-GlcNAcylation to promote osteoclastogenesis in inflammatory arthritis. Targeted pharmaceutical or genetic inhibition of O-GlcNAc transferase (OGT) or O-GlcNAcase (OGA) arrests osteoclast differentiation during early stages of differentiation and during later maturation, respectively, and ameliorates bone loss in experimental arthritis. Knockdown of NUP153, an O-GlcNAcylation target, has similar effects as OGT inhibition and inhibits osteoclastogenesis. These findings highlight an important role of O-GlcNAcylation in osteoclastogenesis and may offer the potential to therapeutically interfere with pathologic bone resorption.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -94,6 +144,31 @@
       <guid>https://example.com/article/33976130/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Most patients with triple negative breast cancer (TNBC) do not respond to anti-PD1/PDL1 immunotherapy, indicating the necessity to explore immune checkpoint targets. B7H3 is a highly glycosylated protein. However, the mechanisms of B7H3 glycosylation regulation and whether the sugar moiety contributes to immunosuppression are unclear. Here, we identify aberrant B7H3 glycosylation and show that N-glycosylation of B7H3 at NXT motif sites is responsible for its protein stability and immunosuppression in TNBC tumors. The fucosyltransferase FUT8 catalyzes B7H3 core fucosylation at N-glycans to maintain its high expression. Knockdown of FUT8 rescues glycosylated B7H3-mediated immunosuppressive function in TNBC cells. Abnormal B7H3 glycosylation mediated by FUT8 overexpression can be physiologically important and clinically relevant in patients with TNBC. Notably, the combination of core fucosylation inhibitor 2F-Fuc and anti-PDL1 results in enhanced therapeutic efficacy in B7H3-positive TNBC tumors. These findings suggest that targeting the FUT8-B7H3 axis might be a promising strategy for improving anti-tumor immune responses in patients with TNBC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Target protein deglycosylation in living cells by a nanobody-fused split O-GlcNAcase</title>
+      <link>https://example.com/article/33686291/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33686291/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O-linked N-acetylglucosamine (O-GlcNAc) is an essential and dynamic post-translational modification that is presented on thousands of nucleocytoplasmic proteins. Interrogating the role of O-GlcNAc on a single target protein is crucial, yet challenging to perform in cells. Herein, we developed a nanobody-fused split O-GlcNAcase (OGA) as an O-GlcNAc eraser for selective deglycosylation of a target protein in cells. After systematic cellular optimization, we identified a split OGA with reduced inherent deglycosidase activity that selectively removed O-GlcNAc from the desired target protein when directed by a nanobody. We demonstrate the generality of the nanobody-fused split OGA using four nanobodies against five target proteins and use the system to study the impact of O-GlcNAc on the transcription factors c-Jun and c-Fos. The nanobody-directed O-GlcNAc eraser provides a new strategy for the functional evaluation and engineering of O-GlcNAc via the selective removal of O-GlcNAc from individual proteins directly in cells.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/machine-learning/</link>
       <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://example.com/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Antiviral Approaches against Influenza Virus</title>
+      <link>https://example.com/review/36645300/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36645300/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Preventing and controlling influenza virus infection remains a global public health challenge, as it causes seasonal epidemics to unexpected pandemics. These infections are responsible for high morbidity, mortality, and substantial economic impact. Vaccines are the prophylaxis mainstay in the fight against influenza. However, vaccination fails to confer complete protection due to inadequate vaccination coverages, vaccine shortages, and mismatches with circulating strains. Antivirals represent an important prophylactic and therapeutic measure to reduce influenza-associated morbidity and mortality, particularly in high-risk populations. Here, we review current FDA-approved influenza antivirals with their mechanisms of action, and different viral- and host-directed influenza antiviral approaches, including immunomodulatory interventions in clinical development. Furthermore, we also illustrate the potential utility of machine learning in developing next-generation antivirals against influenza.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Multistain deep learning for prediction of prognosis and therapy response in colorectal cancer</title>

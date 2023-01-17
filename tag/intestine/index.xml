@@ -5,12 +5,37 @@
     <link>https://example.com/tag/intestine/</link>
       <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
     <description>Intestine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Intestine</title>
       <link>https://example.com/tag/intestine/</link>
     </image>
+    
+    <item>
+      <title>Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer</title>
+      <link>https://example.com/article/36646802/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36646802/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite standard-of-care treatment, more than 30% of patients with resectable colorectal cancer (CRC) relapse. Circulating tumor DNA (ctDNA) analysis may enable postsurgical risk stratification and adjuvant chemotherapy (ACT) treatment decision-making. We report results from GALAXY, which is an observational arm of the ongoing CIRCULATE-Japan study (UMIN000039205) that analyzed presurgical and postsurgical ctDNA in patients with stage II-IV resectable CRC (n = 1,039). In this cohort, with a median follow-up of 16.74 months (range 0.49-24.83 months), postsurgical ctDNA positivity (at 4 weeks after surgery) was associated with higher recurrence risk (hazard ratio (HR) 10.0, &lt;em&gt;P&lt;/em&gt; &amp;lt; 0.0001) and was the most significant prognostic factor associated with recurrence risk in patients with stage II or III CRC (HR 10.82, &lt;em&gt;P&lt;/em&gt; &amp;lt; 0.001). Furthermore, postsurgical ctDNA positivity identified patients with stage II or III CRC who derived benefit from ACT (HR 6.59, &lt;em&gt;P&lt;/em&gt; &amp;lt; 0.0001). The results of our study, a large and comprehensive prospective analysis of ctDNA in resectable CRC, support the use of ctDNA testing to identify patients who are at increased risk of recurrence and are likely to benefit from ACT.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Targeting KRAS-mutant stomach/colorectal tumors by disrupting the ERK2-p53 complex</title>
@@ -26,6 +51,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;KRAS is widely mutated in human cancers, resulting in unchecked tumor proliferation and metastasis, which makes identifying KRAS-targeting therapies a priority. Herein, we observe that mutant KRAS specifically promotes the formation of the ERK2-p53 complex in stomach/colorectal tumor cells. Disruption of this complex by applying MEK1/2 and ERK2 inhibitors elicits strong apoptotic responses in a p53-dependent manner, validated by genome-wide knockout screening. Mechanistically, p53 physically associates with phosphorylated ERK2 through a hydrophobic interaction in the presence of mutant KRAS, which suppresses p53 activation by preventing the recruitment of p300/CBP; trametinib disrupts the ERK2-p53 complex by reducing ERK2 phosphorylation, allowing the acetylation of p53 protein by recruiting p300/CBP; acetylated p53 activates PUMA transcription and thereby kills KRAS-mutant tumors. Our study shows an important role for the ERK2-p53 complex and provides a potential therapeutic strategy for treating KRAS-mutant cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of mechanism of cancer-cell-specific reactivation of hTERT offers therapeutic opportunities for blocking telomerase specifically in human colorectal cancer</title>
+      <link>https://example.com/article/35697349/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35697349/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transcriptional reactivation of hTERT is the limiting step in tumorigenesis. While mutations in hTERT promoter present in 19% of cancers are recognized as key drivers of hTERT reactivation, mechanisms by which wildtype hTERT (WT-hTERT) promoter is reactivated, in majority of human cancers, remain unknown. Using primary colorectal cancers (CRC) we identified Tert INTeracting region 2 (T-INT2), the critical chromatin region essential for reactivating WT-hTERT promoter in CRCs. Elevated β-catenin and JunD level in CRC facilitates chromatin interaction between hTERT promoter and T-INT2 that is necessary to turn on hTERTexpression. Pharmacological screens uncovered salinomycin, which inhibits JunD mediated hTERT-T-INT2 interaction that is required for the formation of a stable transcription complex on the hTERT promoter. Our results showed for the first time how known CRC alterations, such as APC, lead to WT-hTERT promoter reactivation during stepwise-tumorigenesis and provide a new perspective for developing cancer-specific drugs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1718,6 +1768,31 @@
     </item>
     
     <item>
+      <title>Dietary fructose improves intestinal cell survival and nutrient absorption</title>
+      <link>https://example.com/article/34408323/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34408323/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fructose consumption is linked to the rising incidence of obesity and cancer, which are two of the leading causes of morbidity and mortality globally. Dietary fructose metabolism begins at the epithelium of the small intestine, where fructose is transported by glucose transporter type 5 (GLUT5; encoded by SLC2A5) and phosphorylated by ketohexokinase to form fructose 1-phosphate, which accumulates to high levels in the cell. Although this pathway has been implicated in obesity and tumour promotion, the exact mechanism that drives these pathologies in the intestine remains unclear. Here we show that dietary fructose improves the survival of intestinal cells and increases intestinal villus length in several mouse models. The increase in villus length expands the surface area of the gut and increases nutrient absorption and adiposity in mice that are fed a high-fat diet. In hypoxic intestinal cells, fructose 1-phosphate inhibits the M2 isoform of pyruvate kinase to promote cell survival. Genetic ablation of ketohexokinase or stimulation of pyruvate kinase prevents villus elongation and abolishes the nutrient absorption and tumour growth that are induced by feeding mice with high-fructose corn syrup. The ability of fructose to promote cell survival through an allosteric metabolite thus provides additional insights into the excess adiposity generated by a Western diet, and a compelling explanation for the promotion of tumour growth by high-fructose corn syrup.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A novel long noncoding RNA SP100-AS1 induces radioresistance of colorectal cancer via sponging miR-622 and stabilizing ATG3</title>
       <link>https://example.com/article/35978049/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
@@ -2470,6 +2545,118 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Acquired resistance to BRAF inhibitors is mediated by BRAF splicing variants in BRAF V600E mutation-positive colorectal neuroendocrine carcinoma</title>
+      <link>https://example.com/article/35724767/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35724767/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BRAF inhibitor resistant CRC-NEC cell line was established from patient derived cells.&lt;/li&gt;
+&lt;li&gt;BRAF splicing variants were found in the BRAF inhibitor resistant CRC-NEC cells.&lt;/li&gt;
+&lt;li&gt;MEK or ERK inhibitor can overcome the BRAF splicing variant mediated resistance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neuroendocrine carcinomas (NECs), a poorly differentiated subtype of neuroendocrine neoplasms, are aggressive and have a poor prognosis. Colorectal neuroendocrine carcinomas (CRC-NECs) are observed in about 0.6% of all patients with CRC. Interestingly, patients with CRC-NECs show higher frequencies of BRAF mutation than typical CRC. BRAF V600E mutation-positive CRC-NECs were shown to be sensitive to BRAF inhibitors and now are treated by BRAF inhibitors. Similar to the other BRAF V600E mutated cancers, resistances against BRAF inhibitors have been observed, but the resistance mechanisms are still unclear. In this study, we established BRAF V600E mutated CRC-NEC cell line directly from surgical specimens and experimentally obtained BRAF inhibitor dabrafenib resistant cell lines. The resistant cells are revealed to express at least three types of BRAF splicing variants harboring V600E-mutation, and contribute to RAF/MEK/ERK pathway activation. In these cells, MEK and ERK inhibitors but not dabrafenib significantly suppressed cell growth and survival. Thus, in BRAF V600E mutation-positive CRC-NECs, BRAF splicing variants activate the RAF/MEK/ERK pathway and contribute to acquire BRAF inhibitor resistance. Hence, MEK or ERK are potential therapeutic targets to overcome BRAF resistance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dual inhibition of TGFβ signaling and CSF1/CSF1R reprograms tumor-infiltrating macrophages and improves response to chemotherapy via suppressing PD-L1</title>
+      <link>https://example.com/article/35718267/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35718267/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TGF promotes resistance to chemotherapy in CRC via PD-L1.&lt;/li&gt;
+&lt;li&gt;Chemotherapy-treated cancer cells secrete CSF1 to recruit M2-TAMs for TGF production within tumor microenvironment.&lt;/li&gt;
+&lt;li&gt;Dual inhibition on CSF1R&lt;sup&gt;+&lt;/sup&gt; M2-TAMs recruitment and TGF signaling increases the response to chemotherapy in CRC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TGFβ contributes to chemoresistance in advanced colorectal cancer (CRC) via diverse immune-microenvironment mechanisms. Here, we found that cancer cell autonomous TGFβ directly triggered tumor programmed cell death 1 ligand 1 (PD-L1) upregulation, resulting in resistance to chemotherapy. Inhibition of tumor PD-L1 expression sensitized cancer cells to chemotherapy, reduced lung metastasis and increased the influx of CD8&lt;sup&gt;+&lt;/sup&gt; T cells. However, chemorefractory cancer cell-derived CSF1 recruited TAMs for TGFβ-mediated PD-L1 upregulation via a vicious cycle. High infiltration of macrophages was clinically correlated with the status of tumor PD-L1 after chemotherapy treatment in CRC patients. We found that depletion of immunosuppressive CSF1R&lt;sup&gt;+&lt;/sup&gt; TAM infiltration and blockade of the TGFβ receptor resulted in an increased influx of cytotoxic CD8&lt;sup&gt;+&lt;/sup&gt; T and effector memory CD8&lt;sup&gt;+&lt;/sup&gt; cells, a reduction in regulatory T cells, and a synergistic inhibition of tumor growth when combined with chemotherapy. These findings show that CSF1R&lt;sup&gt;+&lt;/sup&gt; TAMs and TGFβ are the dominant components that regulate PD-L1 expression within the immunosuppressive tumor microenvironment, providing a therapeutic strategy for advanced CRC patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Chromatin States Coupling with Key Transcription Factors in Colitis-Associated Colorectal Cancer</title>
+      <link>https://example.com/article/35712778/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35712778/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammation is one of the critical risk factors for colorectal cancer (CRC). However, the mechanisms for transition from colitis to CRC remain elusive. Recently, epigenetic changes have emerged as important regulatory factors for colitis-associated cancer. Here, a systematic epigenomic study of histone modifications is performed, including H3K4me1, H3K4me3, H3K27ac, H3K27me3 and H3K9me3, in an AOM-DSS-induced CRC mouse model. In combination with transcriptomic data, the authors generate a dataset of 105 deep sequencing files and illustrate the dynamic landscape of chromatin states at five time points during inflammation-cancer transition. Functional gene clusters are identified based on dynamic transcriptomic and epigenomic information, and key signaling pathways in the process are illustrated. This study&amp;rsquo;s results reveal that enhancer state regions play important roles during inflammation-cancer transition. It predicts novel transcription factors based on enhancer information, and experimentally proves OTX2 as a critical tumor suppressive transcription factor. Taken together, this study provides comprehensive epigenomic data and reveals novel molecular mechanisms for colitis-associated cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Uptake of Functional Ultrasmall Gold Nanoparticles in 3D Gut Cell Models</title>
+      <link>https://example.com/article/35712760/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35712760/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ultrasmall gold nanoparticles (2 nm) easily penetrate the membranes of intestinal murine epithelial cells (MODE-K) and colorectal cancer cells (CT-26). They are also taken up by 3D spheroids (400 µm) of these cell types and primary gut organoids (500 µm). In contrast, dissolved dyes are not taken up by any of these cells or 3D structures. The distribution of fluorescent ultrasmall gold nanoparticles inside cells, spheroids, and gut organoids is examined by confocal laser scanning microscopy. Nanoparticles conjugated with the cytostatic drug doxorubicin and a fluorescent dye exhibit significantly greater cytotoxicity toward CT-26 tumor spheroids than equally concentrated dissolved doxorubicin, probably because they enter the interior of a spheroid much more easily than dissolved doxorubicin. Comprehensive analyses show that the cellular uptake of ultrasmall gold nanoparticles occurs by different endocytosis pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

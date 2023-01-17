@@ -5,12 +5,37 @@
     <link>https://example.com/tag/microbial-infections/</link>
       <atom:link href="https://example.com/tag/microbial-infections/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbial Infections</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbial Infections</title>
       <link>https://example.com/tag/microbial-infections/</link>
     </image>
+    
+    <item>
+      <title>Antiviral Approaches against Influenza Virus</title>
+      <link>https://example.com/review/36645300/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36645300/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Preventing and controlling influenza virus infection remains a global public health challenge, as it causes seasonal epidemics to unexpected pandemics. These infections are responsible for high morbidity, mortality, and substantial economic impact. Vaccines are the prophylaxis mainstay in the fight against influenza. However, vaccination fails to confer complete protection due to inadequate vaccination coverages, vaccine shortages, and mismatches with circulating strains. Antivirals represent an important prophylactic and therapeutic measure to reduce influenza-associated morbidity and mortality, particularly in high-risk populations. Here, we review current FDA-approved influenza antivirals with their mechanisms of action, and different viral- and host-directed influenza antiviral approaches, including immunomodulatory interventions in clinical development. Furthermore, we also illustrate the potential utility of machine learning in developing next-generation antivirals against influenza.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Mycobacterium tuberculosis Rv1324 Protein Contributes to Mycobacterial Persistence and Causes Pathological Lung Injury in Mice by Inducing Ferroptosis</title>
@@ -3237,6 +3262,113 @@
       <guid>https://example.com/article/35733260/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;During viral infection, sensing of viral RNA by retinoic acid-inducible gene-I-like receptors (RLRs) initiates an antiviral innate immune response, which is mediated by the mitochondrial adaptor protein VISA (virus-induced signal adaptor; also known as mitochondrial antiviral signaling protein [MAVS]). VISA is regulated by various posttranslational modifications (PTMs), such as polyubiquitination, phosphorylation, O-linked β-d-N-acetylglucosaminylation (O-GlcNAcylation), and monomethylation. However, whether other forms of PTMs regulate VISA-mediated innate immune signaling remains elusive. Here, we report that Poly(ADP-ribosyl)ation (PARylation) is a PTM of VISA, which attenuates innate immune response to RNA viruses. Using a biochemical purification approach, we identified tankyrase 1 (TNKS1) as a VISA-associated protein. Viral infection led to the induction of TNKS1 and its homolog TNKS2, which translocated from cytosol to mitochondria and interacted with VISA. TNKS1 and TNKS2 catalyze the PARylation of VISA at Glu137 residue, thereby priming it for K48-linked polyubiquitination by the E3 ligase Ring figure protein 146 (RNF146) and subsequent degradation. Consistently, TNKS1, TNKS2, or RNF146 deficiency increased the RNA virus-triggered induction of downstream effector genes and impaired the replication of the virus. Moreover, TNKS1- or TNKS2-deficient mice produced higher levels of type I interferons (IFNs) and proinflammatory cytokines after virus infection and markedly reduced virus loads in the brains and lungs. Together, our findings uncover an essential role of PARylation of VISA in virus-triggered innate immune signaling, which represents a mechanism to avoid excessive harmful immune response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SATB1 ensures appropriate transcriptional programs within naïve CD8&#43; T cells</title>
+      <link>https://example.com/article/35713361/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713361/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Special AT-binding protein 1 (SATB1) is a chromatin-binding protein that has been shown to be a key regulator of T-cell development and CD4&lt;sup&gt;+&lt;/sup&gt; T-cell fate decisions and function. The underlying function for SATB1 in peripheral CD8&lt;sup&gt;+&lt;/sup&gt; T-cell differentiation processes is largely unknown. To address this, we examined SATB1-binding patterns in naïve and effector CD8&lt;sup&gt;+&lt;/sup&gt; T cells demonstrating that SATB1 binds to noncoding regulatory elements linked to T-cell lineage-specific gene programs, particularly in naïve CD8&lt;sup&gt;+&lt;/sup&gt; T cells. We then assessed SATB1 function using N-ethyl-N-nitrosourea-mutant mice that exhibit a point mutation in the SATB1 DNA-binding domain (termed Satb1m1Anu/m1Anu ). Satb1m1Anu/m1Anu mice exhibit diminished SATB1-binding, naïve, Satb1m1Anu/m1Anu CD8&lt;sup&gt;+&lt;/sup&gt; T cells exhibiting transcriptional and phenotypic characteristics reminiscent of effector T cells. Upon activation, the transcriptional signatures of Satb1m1Anu/m1Anu and wild-type effector CD8&lt;sup&gt;+&lt;/sup&gt; T cells converged. While there were no overt differences, primary respiratory infection of Satb1m1Anu/m1Anu mice with influenza A virus (IAV) resulted in a decreased proportion and number of IAV-specific CD8&lt;sup&gt;+&lt;/sup&gt; effector T cells recruited to the infected lung when compared with wild-type mice. Together, these data suggest that SATB1 has a major role in an appropriate transcriptional state within naïve CD8&lt;sup&gt;+&lt;/sup&gt; T cells and ensures appropriate CD8&lt;sup&gt;+&lt;/sup&gt; T-cell effector gene expression upon activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The autophagy-related degradation of MDA5 by Tembusu virus nonstructural 2B disrupts IFNβ production</title>
+      <link>https://example.com/article/35713934/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35713934/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Duck Tembusu virus (TMUV) is a serious avian pathogen causing a decline in egg production, but the mechanism of the virus that breaks through the innate immune system is poorly understood. Here, we show that TMUV inhibits poly(I:C)-induced interferon (IFN) production. Because poly(I:C) transfection can specifically activate the MDA5 pathway in duck primary cells, we found that infection with TMUV can specifically target MDA5 and lead to its degradation. MDA5 downregulation could be blocked by the autophagy inhibitor 3-methyladenine (3-MA) but not a proteasome inhibitor, strongly implicating MDA5 degradation as an autophagy-related degradation pathway. Pretreatment with 3-MA enhanced the expression of MDA5 and inhibited TMUV replication. To screen TMUV proteins that degraded MDA5, the TMUV replicon and MDA5-Flag were cotransfected into cells, and the western blot analysis showed that nonstructural 2B (NS2B) can degrade MDA5 in a dose-dependent manner. Dual-luciferase assays indicate that NS2B alone inhibits MDA5- or poly(I:C)-mediated IFN production. NS2B binds MDA5 in the presence of 3-MA. The deletion of the amino acids of NS2B from residues 51 to 92 (hydrophilic area) restored the expression of MDA5 and relieved the MDA5-mediated IFNβ production inhibition by NS2B, indicating that the hydrophilic area of NS2B is important for its interaction with host innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circulating tissue factor-positive extracellular vesicles and their association with thrombosis in different diseases</title>
+      <link>https://example.com/review/35708588/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35708588/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tissue factor (TF) is a procoagulant protein released from activated host cells, such as monocytes, and tumor cells on extracellular vesicles (EVs). TF + EVs are observed in the circulation of patients with various types of diseases. In this review, we will summarize the association between TF + EVs and activation of coagulation and survival in different types of diseases, including cancer, sepsis, and infections with different viruses, such as human immunodeficiency virus (HIV), influenza A virus (IAV), and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We will also discuss the source of TF + EVs in various diseases. EVTF activity is associated with thrombosis in pancreatic cancer patients and coronavirus disease 2019 patients (COVID-19) and with disseminated intravascular coagulation in cancer patients. EVTF activity is also associated with worse survival in patients with cancer and COVID-19. Monocytes are the major sources of TF + EVs in sepsis, and viral infections, such as HIV, Ebola virus, and SARS-CoV-2. In contrast, alveolar epithelial cells are the major source of TF + EVs in bronchoalveolar lavage fluid in COVID-19 and influenza A patients. These studies indicate that EVTF activity could be used as a biomarker to identify patients that have an increased risk of coagulopathy and mortality.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The protective effect of Tilia amurensis honey on influenza A virus infection through stimulation of interferon-mediated IFITM3 signaling</title>
+      <link>https://example.com/article/35717782/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35717782/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TH inhibit infection of influenza A virus in murine macrophages.&lt;/li&gt;
+&lt;li&gt;TH activates the type-1 interferon related pathway including TBK-STAT signaling.&lt;/li&gt;
+&lt;li&gt;TH increases expression of IFN-stimulating genes (ISG’s) and IFN-inducible transmembrane 3 (IFITM3)&lt;/li&gt;
+&lt;li&gt;TH could be a potential preventive and therapeutic agents for influenza A virus by modulating the regulates innate immune response.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recently, attention has focused on the prevention and treatment of respiratory viruses including influenza viruses. We evaluated the antiviral effect of &lt;em&gt;Tilia amurensis&lt;/em&gt; honey (TH) against influenza A virus in murine macrophages. Influenza A virus infection was reduced following pretreatment with TH. Pretreatment of murine macrophages with TH increased the production and secretion of type-1 interferon (IFN) and proinflammatory cytokines and increased phosphorylation of the type-1 IFN-related proteins, TANK-binding kinase (TBK), and STAT. Moreover, TH increased the expression of IFN-stimulating genes and increased the expression of IFN-inducible transmembrane (IFITM3), a protein that interferes with virus replication and entry. Taken together, these findings suggest that TH suppresses influenza A virus infection by regulating the innate immune response in macrophages. This supports the development of preventive and therapeutic agents for influenza A virus and enhances the economic value of TH.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

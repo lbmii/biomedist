@@ -5,12 +5,37 @@
     <link>https://example.com/tag/meta-analysis/</link>
       <atom:link href="https://example.com/tag/meta-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Meta Analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Meta Analysis</title>
       <link>https://example.com/tag/meta-analysis/</link>
     </image>
+    
+    <item>
+      <title>Genetic loci and prioritization of genes for kidney function decline derived from a meta-analysis of 62 longitudinal genome-wide association studies</title>
+      <link>https://example.com/article/35716955/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35716955/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Estimated glomerular filtration rate (eGFR) reflects kidney function. Progressive eGFR-decline can lead to kidney failure, necessitating dialysis or transplantation. Hundreds of loci from genome-wide association studies (GWAS) for eGFR help explain population cross section variability. Since the contribution of these or other loci to eGFR-decline remains largely unknown, we derived GWAS for annual eGFR-decline and meta-analyzed 62 longitudinal studies with eGFR assessed twice over time in all 343,339 individuals and in high-risk groups. We also explored different covariate adjustment. Twelve genome-wide significant independent variants for eGFR-decline unadjusted or adjusted for eGFR-baseline (11 novel, one known for this phenotype), including nine variants robustly associated across models were identified. All loci for eGFR-decline were known for cross-sectional eGFR and thus distinguished a subgroup of eGFR loci. Seven of the nine variants showed variant-by-age interaction on eGFR cross section (further about 350,000 individuals), which linked genetic associations for eGFR-decline with age-dependency of genetic cross-section associations. Clinically important were two to four-fold greater genetic effects on eGFR-decline in high-risk subgroups. Five variants associated also with chronic kidney disease progression mapped to genes with functional in-silico evidence (UMOD, SPATA7, GALNTL5, TPPP). An unfavorable versus favorable nine-variant genetic profile showed increased risk odds ratios of 1.35 for kidney failure (95% confidence intervals 1.03-1.77) and 1.27 for acute kidney injury (95% confidence intervals 1.08-1.50) in over 2000 cases each, with matched controls). Thus, we provide a large data resource, genetic loci, and prioritized genes for kidney function decline, which help inform drug development pipelines revealing important insights into the age-dependency of kidney function genetics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Effects of Flavonoid Supplementation on Nanomaterial-Induced Toxicity: A Meta-Analysis of Preclinical Animal Studies</title>

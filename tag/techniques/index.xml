@@ -238,6 +238,38 @@
     </item>
     
     <item>
+      <title>An evolved AAV variant enables efficient genetic engineering of murine T cells</title>
+      <link>https://example.com/article/36638795/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638795/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A murine T cell-specific AAV variant, Ark313, is discovered through AAV6 evolution&lt;/li&gt;
+&lt;li&gt;A genome-wide CRISPR screen identifies QA2 an essential factor for Ark313 transduction&lt;/li&gt;
+&lt;li&gt;Ark313 enables efficient transgene delivery and targeting of large DNA payloads&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Trac&lt;/em&gt; targeting of a CAR outperforms semi-random integration in a solid tumor model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Precise targeting of large transgenes to T cells using homology-directed repair has been transformative for adoptive cell therapies and T cell biology. Delivery of DNA templates via adeno-associated virus (AAV) has greatly improved knockin efficiencies, but the tropism of current AAV serotypes restricts their use to human T cells employed in immunodeficient mouse models. To enable targeted knockins in murine T cells, we evolved Ark313, a synthetic AAV that exhibits high transduction efficiency in murine T cells. We performed a genome-wide knockout screen and identified QA2 as an essential factor for Ark313 infection. We demonstrate that Ark313 can be used for nucleofection-free DNA delivery, CRISPR-Cas9-mediated knockouts, and targeted integration of large transgenes. Ark313 enables preclinical modeling of &lt;em&gt;Trac&lt;/em&gt;-targeted CAR-T and transgenic TCR-T cells in immunocompetent models. Efficient gene targeting in murine T cells holds great potential for improved cell therapies and opens avenues in experimental T cell immunology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Metagenomic sequencing combined with flow cytometry facilitated a novel microbial risk assessment framework for bacterial pathogens in municipal wastewater without cultivation</title>
       <link>https://example.com/article/imt2.77/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
@@ -322,6 +354,31 @@
     </item>
     
     <item>
+      <title>Small Molecule-Activated O-GlcNAcase for Spatiotemporal Removal of O-GlcNAc in Live Cells</title>
+      <link>https://example.com/article/36598936/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36598936/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The nutrient sensor O-linked N-acetylglucosamine (O-GlcNAc) is a post-translational modification found on thousands of nucleocytoplasmic proteins. O-GlcNAc levels in cells dynamically respond to environmental cues in a temporal and spatial manner, leading to altered signal transduction and functional effects. The spatiotemporal regulation of O-GlcNAc levels would accelerate functional interrogation of O-GlcNAc and manipulation of cell behaviors for desired outcomes. Here, we report a strategy for spatiotemporal reduction of O-GlcNAc in live cells by designing an O-GlcNAcase (OGA) fused to an intein triggered by 4-hydroxytamoxifen (4-HT). After rational protein engineering and optimization, we identified an OGA-intein variant whose deglycosidase activity can be triggered in the desired subcellular compartments by 4-HT in a time- and dose-dependent manner. Finally, we demonstrated that 4-HT activation of the OGA-intein fusion can likewise potentiate inhibitory effects in breast cancer cells by virtue of the reduction of O-GlcNAc. The spatiotemporal control of O-GlcNAc through the chemically activatable OGA-intein fusion will facilitate the manipulation and functional understanding of O-GlcNAc in live cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A double-switch pHLIP system enables selective enrichment of circulating tumor microenvironment-derived extracellular vesicles</title>
       <link>https://example.com/article/36595702/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
@@ -380,6 +437,40 @@
       <guid>https://example.com/article/36593274/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Metal ions have various important biological roles in proteins, including structural maintenance, molecular recognition and catalysis. Previous methods of predicting metal-binding sites in proteomes were based on either sequence or structural motifs. Here we developed a co-evolution-based pipeline named &amp;lsquo;MetalNet&amp;rsquo; to systematically predict metal-binding sites in proteomes. We applied MetalNet to proteomes of four representative prokaryotic species and predicted 4,849 potential metalloproteins, which substantially expands the currently annotated metalloproteomes. We biochemically and structurally validated previously unannotated metal-binding sites in several proteins, including apo-citrate lyase phosphoribosyl-dephospho-CoA transferase citX, an Escherichia coli enzyme lacking structural or sequence homology to any known metalloprotein (Protein Data Bank (PDB) codes: 7DCM and 7DCN ). MetalNet also successfully recapitulated all known zinc-binding sites from the human spliceosome complex. The pipeline of MetalNet provides a unique and enabling tool for interrogating the hidden metalloproteome and studying metal biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DNA-modularized construction of bivalent ligands precisely regulates receptor binding and activation</title>
+      <link>https://example.com/article/23-01-17-19-00/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-17-19-00/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A DNA-modularized strategy is developed to automatically construct bivalent ligands&lt;/li&gt;
+&lt;li&gt;Deoxynucleotides serve as spacers to regulate the conformation of bivalent ligands&lt;/li&gt;
+&lt;li&gt;Recognition conformation of bivalent ligands is regulated at the single-nucleotide level&lt;/li&gt;
+&lt;li&gt;“AA” is the optimal spacer of B-DNA-X connectomes for selective activation of M1R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The bigger picture&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bivalent ligands are frequently developed in the drug industry to improve drug efficacy and selectivity and to reduce drug resistance. Spacers of bivalent ligands play a key role in coordinating their conformation and activation for optimal drug efficacy. Conventional strategies, which rely on polymers as spacers, suffer from the paucity of structural precision and variability with time-consuming ligation procedures. Here, we originate a DNA-modularized strategy capable of constructing bivalent ligands in an automatic and high-throughput manner. In this strategy, DNA becomes the spacer that precisely regulates the conformation and activation of receptors at the single-nucleotide level. Considering that a myriad of protein targets require bivalent ligands to bind with them and then coordinate a ligand-protein complex for optimal drug effects, our DNA-modularized strategy will be extended to the construction of many bivalent ligands in the drug industry for the benefit of human health.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Great interest is focused on the construction of bivalent ligands, where the spacer is crucial to coordinate the distance and orientation of two pharmacophores for optimal biological effects. Current strategies rely on polymers as spacers but suffer from the paucity of structural precision and variability with time-consuming ligation procedures. Herein, we originate a DNA-modularized strategy where pharmacophores are modularly modified with the protecting groups used for automatic DNA synthesis while natural deoxynucleotides serve as spacers. By programmably regulating the number and permutation of the bridged DNA spacer, the two pharmacophores are adjusted with a defined distance and versatile orientation. Using this strategy, we successfully constructed a reservoir of bivalent ligands containing an orthosteric agonist and an allosteric modulator, exhibiting a single-nucleotide difference in the selective activation of muscarinic acetylcholine receptors. Our strategy opens a new avenue for the precise construction and efficient screening of bivalent ligands toward a myriad of biomedical applications.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1914,6 +2005,58 @@
     </item>
     
     <item>
+      <title>A novel inhalable quercetin-alginate nanogel as a promising therapy for acute lung injury</title>
+      <link>https://example.com/article/35690763/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35690763/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Acute lung injury (ALI), a severe health-threatening disease, has a risk of causing chronic pulmonary fibrosis. Informative and powerful evidence suggests that inflammation and oxidative stress play a central role in the pathogenesis of ALI. Quercetin is well recognized for its excellent antioxidant and anti-inflammatory properties, which showed great potential for ALI treatment. However, the application of quercetin is often hindered by its low solubility and bioavailability. Therefore, to overcome these challenges, an inhalable quercetin-alginate nanogel (QU-Nanogel) was fabricated, and by this special &amp;ldquo;material-drug&amp;rdquo; structure, the solubility and bioavailability of quercetin were significantly enhanced, which could further increase the activity of quercetin and provide a promising therapy for ALI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; QU-Nanogel is a novel alginate and quercetin based &amp;ldquo;material-drug&amp;rdquo; structural inhalable nanogel, in which quercetin was stabilized by hydrogen bonding to obtain a &amp;ldquo;co-construct&amp;rdquo; water-soluble nanogel system, showing antioxidant and anti-inflammatory properties. QU-Nanogel has an even distribution in size of less than 100 nm and good biocompatibility, which shows a stronger protective and antioxidant effect in vitro. Tissue distribution results provided evidence that the QU-Nanogel by ultrasonic aerosol inhalation is a feasible approach to targeted pulmonary drug delivery. Moreover, QU-Nanogel was remarkably reversed ALI rats by relieving oxidative stress damage and acting the down-regulation effects of mRNA and protein expression of inflammation cytokines via ultrasonic aerosol inhalation administration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; In the ALI rat model, this novel nanogel showed an excellent therapeutic effect by ultrasonic aerosol inhalation administration by protecting and reducing pulmonary inflammation, thereby preventing subsequent pulmonary fibrosis. This work demonstrates that this inhalable QU-Nanogel may function as a promising drug delivery strategy in treating ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An ultra-sensitive assay using cell-free DNA fragmentomics for multi-cancer early detection</title>
+      <link>https://example.com/article/35690859/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35690859/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Early detection can benefit cancer patients with more effective treatments and better prognosis, but existing early screening tests are limited, especially for multi-cancer detection. This study investigated the most prevalent and lethal cancer types, including primary liver cancer (PLC), colorectal adenocarcinoma (CRC), and lung adenocarcinoma (LUAD). Leveraging the emerging cell-free DNA (cfDNA) fragmentomics, we developed a robust machine learning model for multi-cancer early detection. 1,214 participants, including 381 PLC, 298 CRC, 292 LUAD patients, and 243 healthy volunteers, were enrolled. The majority of patients (N = 971) were at early stages (stage 0, N = 34; stage I, N = 799). The participants were randomly divided into a training cohort and a test cohort in a 1:1 ratio while maintaining the ratio for the major histology subtypes. An ensemble stacked machine learning approach was developed using multiple plasma cfDNA fragmentomic features. The model was trained solely in the training cohort and then evaluated in the test cohort. Our model showed an Area Under the Curve (AUC) of 0.983 for differentiating cancer patients from healthy individuals. At 95.0% specificity, the sensitivity of detecting all cancer reached 95.5%, while 100%, 94.6%, and 90.4% for PLC, CRC, and LUAD, individually. The cancer origin model demonstrated an overall 93.1% accuracy for predicting cancer origin in the test cohort (97.4%, 94.3%, and 85.6% for PLC, CRC, and LUAD, respectively). Our model sensitivity is consistently high for early-stage and small-size tumors. Furthermore, its detection and origin classification power remained superior when reducing sequencing depth to 1× (cancer detection: ≥ 91.5% sensitivity at 95.0% specificity; cancer origin: ≥ 91.6% accuracy). In conclusion, we have incorporated plasma cfDNA fragmentomics into the ensemble stacked model and established an ultrasensitive assay for multi-cancer early detection, shedding light on developing cancer early screening in clinical practice.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data</title>
       <link>https://example.com/article/35680885/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
@@ -2464,6 +2607,31 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Emerging evidence has demonstrated that RNA-RNA interactions are vital in controlling diverse biological processes, including transcription, RNA splicing and protein translation. RNA in situ conformation sequencing (RIC-seq) is a technique for capturing protein-mediated RNA-RNA proximal interactions globally in living cells at single-base resolution. Cells are first treated with formaldehyde to fix all the protein-mediated RNA-RNA interactions in situ. After cell permeabilization and micrococcal nuclease digestion, the proximally interacting RNAs are 3&amp;rsquo; end-labeled with pCp-biotin and subsequently ligated using T4 RNA ligase. The chimeric RNAs are then enriched and converted into libraries for paired-end sequencing. After deep sequencing, computational analysis yields interaction strength scores for every base on proximally interacting RNAs in the starting populations. The whole experimental procedure is designed to be completed within 6 d, followed by an additional 8 d for computational analysis. RIC-seq technology can unbiasedly detect intra- and intermolecular RNA-RNA interactions, thereby rendering it useful for reconstructing RNA higher-order structures and identifying direct noncoding RNA targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Target protein deglycosylation in living cells by a nanobody-fused split O-GlcNAcase</title>
+      <link>https://example.com/article/33686291/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33686291/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O-linked N-acetylglucosamine (O-GlcNAc) is an essential and dynamic post-translational modification that is presented on thousands of nucleocytoplasmic proteins. Interrogating the role of O-GlcNAc on a single target protein is crucial, yet challenging to perform in cells. Herein, we developed a nanobody-fused split O-GlcNAcase (OGA) as an O-GlcNAc eraser for selective deglycosylation of a target protein in cells. After systematic cellular optimization, we identified a split OGA with reduced inherent deglycosidase activity that selectively removed O-GlcNAc from the desired target protein when directed by a nanobody. We demonstrate the generality of the nanobody-fused split OGA using four nanobodies against five target proteins and use the system to study the impact of O-GlcNAc on the transcription factors c-Jun and c-Fos. The nanobody-directed O-GlcNAc eraser provides a new strategy for the functional evaluation and engineering of O-GlcNAc via the selective removal of O-GlcNAc from individual proteins directly in cells.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
