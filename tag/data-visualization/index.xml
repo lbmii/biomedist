@@ -302,6 +302,31 @@
     </item>
     
     <item>
+      <title>scRNA-seq of gastric tumor shows complex intercellular interaction with an alternative T cell exhaustion trajectory</title>
+      <link>https://example.com/article/35999201/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35999201/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The tumor microenvironment (TME) in gastric cancer (GC) has been shown to be important for tumor control but the specific characteristics for GC are not fully appreciated. We generated an atlas of 166,533 cells from 10 GC patients with matched paratumor tissues and blood. Our results show tumor-associated stromal cells (TASCs) have upregulated activity of Wnt signaling and angiogenesis, and are negatively correlated with survival. Tumor-associated macrophages and LAMP3&lt;sup&gt;+&lt;/sup&gt; DCs are involved in mediating T cell activity and form intercellular interaction hubs with TASCs. Clonotype and trajectory analysis demonstrates that Tc17 (IL-17&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells) originate from tissue-resident memory T cells and can subsequently differentiate into exhausted T cells, suggesting an alternative pathway for T cell exhaustion. Our results indicate that IL17&lt;sup&gt;+&lt;/sup&gt; cells may promote tumor progression through IL17, IL22, and IL26 signaling, highlighting the possibility of targeting IL17&lt;sup&gt;+&lt;/sup&gt; cells and associated signaling pathways as a therapeutic strategy to treat GC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Sangerbox: A comprehensive, interaction-friendly clinical bioinformatics analysis platform</title>
       <link>https://example.com/article/imt2.36/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
@@ -621,6 +646,31 @@
     </item>
     
     <item>
+      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
+      <link>https://example.com/article/32196115/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32196115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CellPhoneDB: inferring cell-cell communication from combined expression of multi-subunit ligand-receptor complexes</title>
       <link>https://example.com/article/32103204/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
@@ -912,56 +962,6 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>scRNA-seq of gastric tumor shows complex intercellular interaction with an alternative T cell exhaustion trajectory</title>
-      <link>https://example.com/article/35999201/</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/35999201/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The tumor microenvironment (TME) in gastric cancer (GC) has been shown to be important for tumor control but the specific characteristics for GC are not fully appreciated. We generated an atlas of 166,533 cells from 10 GC patients with matched paratumor tissues and blood. Our results show tumor-associated stromal cells (TASCs) have upregulated activity of Wnt signaling and angiogenesis, and are negatively correlated with survival. Tumor-associated macrophages and LAMP3&lt;sup&gt;+&lt;/sup&gt; DCs are involved in mediating T cell activity and form intercellular interaction hubs with TASCs. Clonotype and trajectory analysis demonstrates that Tc17 (IL-17&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; T cells) originate from tissue-resident memory T cells and can subsequently differentiate into exhausted T cells, suggesting an alternative pathway for T cell exhaustion. Our results indicate that IL17&lt;sup&gt;+&lt;/sup&gt; cells may promote tumor progression through IL17, IL22, and IL26 signaling, highlighting the possibility of targeting IL17&lt;sup&gt;+&lt;/sup&gt; cells and associated signaling pathways as a therapeutic strategy to treat GC.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
-      <link>https://example.com/article/32196115/</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/32196115/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

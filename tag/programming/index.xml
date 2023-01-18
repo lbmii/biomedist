@@ -1270,6 +1270,31 @@
     </item>
     
     <item>
+      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
+      <link>https://example.com/article/32196115/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32196115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Integrative pathway enrichment analysis of multivariate omics data</title>
       <link>https://example.com/article/32024846/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
@@ -2195,31 +2220,6 @@
 &lt;p&gt;&lt;strong&gt;Motivation:&lt;/strong&gt; The continued progress in developing technological platforms, availability of many published experimental datasets, as well as different statistical methods to analyze those data have allowed approaching the same research question using various methods simultaneously. To get the best out of all these alternatives, we need to integrate their results in an unbiased manner. Prioritized gene lists are a common result presentation method in genomic data analysis applications. Thus, the rank aggregation methods can become a useful and general solution for the integration task.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Standard rank aggregation methods are often ill-suited for biological settings where the gene lists are inherently noisy. As a remedy, we propose a novel robust rank aggregation (RRA) method. Our method detects genes that are ranked consistently better than expected under null hypothesis of uncorrelated inputs and assigns a significance score for each gene. The underlying probabilistic model makes the algorithm parameter free and robust to outliers, noise and errors. Significance scores also provide a rigorous way to keep only the statistically relevant genes in the final list. These properties make our approach robust and compelling for many settings.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; All the methods are implemented as a GNU R package ROBUSTRANKAGGREG, freely available at the Comprehensive R Archive Network &lt;a href=&#34;http://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Project&lt;/a&gt;.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
-      <link>https://example.com/article/32196115/</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/32196115/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

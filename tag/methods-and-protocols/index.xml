@@ -1380,6 +1380,31 @@
     </item>
     
     <item>
+      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
+      <link>https://example.com/article/32196115/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32196115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CellPhoneDB: inferring cell-cell communication from combined expression of multi-subunit ligand-receptor complexes</title>
       <link>https://example.com/article/32103204/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
@@ -1611,31 +1636,6 @@
       <guid>https://example.com/article/28114287/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Single-cell gene expression studies promise to reveal rare cell types and cryptic states, but the high variability of single-cell RNA-seq measurements frustrates efforts to assay transcriptional differences between cells. We introduce the Census algorithm to convert relative RNA-seq expression levels into relative transcript counts without the need for experimental spike-in controls. Analyzing changes in relative transcript counts led to dramatic improvements in accuracy compared to normalized read counts and enabled new statistical tests for identifying developmentally regulated genes. Census counts can be analyzed with widely used regression techniques to reveal changes in cell-fate-dependent gene expression, splicing patterns and allelic imbalances. We reanalyzed single-cell data from several developmental and disease studies, and demonstrate that Census enabled robust analysis at multiple layers of gene regulation. Census is freely available through our updated single-cell analysis toolkit, Monocle 2.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
-      <link>https://example.com/article/32196115/</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/32196115/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

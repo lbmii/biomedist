@@ -1444,6 +1444,31 @@
     </item>
     
     <item>
+      <title>Tegument protein UL21 of alpha-herpesvirus inhibits the innate immunity by triggering CGAS degradation through TOLLIP-mediated selective autophagy</title>
+      <link>https://example.com/article/36343628/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36343628/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alpha-herpesvirus causes lifelong infections and serious diseases in a wide range of hosts and has developed multiple strategies to counteract the host defense. Here, we demonstrate that the tegument protein UL21 (unique long region 21) in pseudorabies virus (PRV) dampens type I interferon signaling by triggering the degradation of CGAS (cyclic GMP-AMP synthase) through the macroautophagy/autophagy-lysosome pathway. Mechanistically, the UL21 protein scaffolds the E3 ligase UBE3C (ubiquitin protein ligase E3C) to catalyze the K27-linked ubiquitination of CGAS at Lys384, which is recognized by the cargo receptor TOLLIP (toll interacting protein) and degraded in the lysosome. Additionally, we show that the N terminus of UL21 in PRV is dominant in destabilizing CGAS-mediated innate immunity. Moreover, viral tegument protein UL21 in herpes simplex virus type 1 (HSV-1) also displays the conserved inhibitory mechanisms. Furthermore, by using PRV, we demonstrate the roles of UL21 in degrading CGAS to promote viral infection in vivo. Altogether, these findings describe a distinct pathway where alpha-herpesvirus exploits TOLLIP-mediated selective autophagy to evade host antiviral immunity, highlighting a new interface of interplay between the host and DNA virus.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Cellular glycan modification by B3GAT1 broadly restricts influenza virus infection</title>
       <link>https://example.com/article/36309510/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
@@ -6432,6 +6457,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
     </item>
     
     <item>
+      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
+      <link>https://example.com/article/32196115/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32196115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CellPhoneDB: inferring cell-cell communication from combined expression of multi-subunit ligand-receptor complexes</title>
       <link>https://example.com/article/32103204/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
@@ -7305,56 +7355,6 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics</title>
-      <link>https://example.com/article/32196115/</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/32196115/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Single-cell transcriptomics offers unprecedented opportunities to infer the ligand-receptor (LR) interactions underlying cellular networks. We introduce a new, curated LR database and a novel regularized score to perform such inferences. For the first time, we try to assess the confidence in predicted LR interactions and show that our regularized score outperforms other scoring schemes while controlling false positives. &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; is implemented as an open-access R package accessible to entry-level users and available from &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Analysis results come in a variety of tabular and graphical formats. For instance, we provide a unique network view integrating all the intercellular interactions, and a function relating receptors to expressed intracellular pathways. A detailed comparison of related tools is conducted. Among various examples, we demonstrate &lt;a href=&#34;https://github.com/SCA-IRCM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SingleCellSignalR&lt;/strong&gt;&lt;/a&gt; on mouse epidermis data and discover an oriented communication structure from external to basal layers.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Tegument protein UL21 of alpha-herpesvirus inhibits the innate immunity by triggering CGAS degradation through TOLLIP-mediated selective autophagy</title>
-      <link>https://example.com/article/36343628/</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36343628/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Alpha-herpesvirus causes lifelong infections and serious diseases in a wide range of hosts and has developed multiple strategies to counteract the host defense. Here, we demonstrate that the tegument protein UL21 (unique long region 21) in pseudorabies virus (PRV) dampens type I interferon signaling by triggering the degradation of CGAS (cyclic GMP-AMP synthase) through the macroautophagy/autophagy-lysosome pathway. Mechanistically, the UL21 protein scaffolds the E3 ligase UBE3C (ubiquitin protein ligase E3C) to catalyze the K27-linked ubiquitination of CGAS at Lys384, which is recognized by the cargo receptor TOLLIP (toll interacting protein) and degraded in the lysosome. Additionally, we show that the N terminus of UL21 in PRV is dominant in destabilizing CGAS-mediated innate immunity. Moreover, viral tegument protein UL21 in herpes simplex virus type 1 (HSV-1) also displays the conserved inhibitory mechanisms. Furthermore, by using PRV, we demonstrate the roles of UL21 in degrading CGAS to promote viral infection in vivo. Altogether, these findings describe a distinct pathway where alpha-herpesvirus exploits TOLLIP-mediated selective autophagy to evade host antiviral immunity, highlighting a new interface of interplay between the host and DNA virus.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

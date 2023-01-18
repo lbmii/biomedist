@@ -269,6 +269,31 @@
     </item>
     
     <item>
+      <title>Proteomic and phosphorylated proteomic landscape of injured lung in juvenile septic rats with therapeutic application of umbilical cord mesenchymal stem cells</title>
+      <link>https://example.com/article/36341346/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36341346/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is the most common complication of sepsis. Intravenous injection of HUMSCs can regulate the level of circulating endothelial cytokines and alleviate lung injury in juvenile septic rats. In this study, we performed proteomic and phosphorylated proteomic analysis of lung tissue of juvenile septic rats after Human Umbilical Cord Mesenchymal Stem Cells (HUMSCs) intervention for the first time, and screened the potential proteins and pathways of HUMSCs for therapeutic effect. The 4D proteome quantitative technique was used to quantitatively analyze the lung tissues of septic rats 24 hours (3 biological samples) and 24 hours after HUMSCs intervention (3 biological samples). A total of 213 proteins were identified as differentially expressed proteins, and 971 phosphorylation sites changed significantly. Based on the public database, we analyzed the functional enrichment of these proteins and phosphorylated proteins. In addition, Tenascin-C may be the key differential protein and ECM receptor interaction pathway may be the main signal pathway by using various algorithms to analyze the protein-protein interaction network. Phosphorylation analysis showed that tight junction pathway was closely related to immune inflammatory reaction, and EGFR interacted most, which may be the key differential phosphorylated protein. Finally, 123 conserved motifs of serine phosphorylation site (pS) and 17 conserved motifs of threonine (pT) phosphorylation sites were identified by motif analysis of phosphorylation sites. Results from proteomics and phosphorylated proteomics, the potential new therapeutic targets of HUMSCs in alleviating lung injury in juvenile septic rats were revealed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Targeting the &#34;undruggable&#34;: RNA-binding proteins in the spotlight in cancer therapy</title>
       <link>https://example.com/review/35772609/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
@@ -928,31 +953,6 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
 &lt;!---more---&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Genomics, epigenomics, transcriptomics, proteomics and metabolomics efforts rapidly generate a plethora of data on the activity and levels of biomolecules within mammalian cells. At the same time, curation projects that organize knowledge from the biomedical literature into online databases are expanding. Hence, there is a wealth of information about genes, proteins and their associations, with an urgent need for data integration to achieve better knowledge extraction and data reuse. For this purpose, we developed the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;: a collection of processed datasets gathered to serve and mine knowledge about genes and proteins from over 70 major online resources. We extracted, abstracted and organized data into ∼72 million functional associations between genes/proteins and their attributes. Such attributes could be physical relationships with other biomolecules, expression in cell lines and tissues, genetic associations with knockout mouse or human phenotypes, or changes in expression after drug treatment. We stored these associations in a relational database along with rich metadata for the genes/proteins, their attributes and the original resources. The freely available &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; web portal provides a graphical user interface, a web service and a mobile app for querying, browsing and downloading all of the collected data. To demonstrate the utility of the &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt;, we computed and visualized gene–gene and attribute–attribute similarity networks, and through unsupervised clustering, identified many unexpected relationships by combining pairs of datasets such as the association between kinase perturbations and disease signatures. We also applied supervised machine learning methods to predict novel substrates for kinases, endogenous ligands for G-protein coupled receptors, mouse phenotypes for knockout genes, and classified unannotated transmembrane proteins for likelihood of being ion channels. The &lt;a href=&#34;https://maayanlab.cloud/Harmonizome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonizome&lt;/a&gt; is a comprehensive resource of knowledge about genes and proteins, and as such, it enables researchers to discover novel relationships between biological entities, as well as form novel data-driven hypotheses for experimental validation.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Proteomic and phosphorylated proteomic landscape of injured lung in juvenile septic rats with therapeutic application of umbilical cord mesenchymal stem cells</title>
-      <link>https://example.com/article/36341346/</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36341346/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Acute lung injury (ALI) is the most common complication of sepsis. Intravenous injection of HUMSCs can regulate the level of circulating endothelial cytokines and alleviate lung injury in juvenile septic rats. In this study, we performed proteomic and phosphorylated proteomic analysis of lung tissue of juvenile septic rats after Human Umbilical Cord Mesenchymal Stem Cells (HUMSCs) intervention for the first time, and screened the potential proteins and pathways of HUMSCs for therapeutic effect. The 4D proteome quantitative technique was used to quantitatively analyze the lung tissues of septic rats 24 hours (3 biological samples) and 24 hours after HUMSCs intervention (3 biological samples). A total of 213 proteins were identified as differentially expressed proteins, and 971 phosphorylation sites changed significantly. Based on the public database, we analyzed the functional enrichment of these proteins and phosphorylated proteins. In addition, Tenascin-C may be the key differential protein and ECM receptor interaction pathway may be the main signal pathway by using various algorithms to analyze the protein-protein interaction network. Phosphorylation analysis showed that tight junction pathway was closely related to immune inflammatory reaction, and EGFR interacted most, which may be the key differential phosphorylated protein. Finally, 123 conserved motifs of serine phosphorylation site (pS) and 17 conserved motifs of threonine (pT) phosphorylation sites were identified by motif analysis of phosphorylation sites. Results from proteomics and phosphorylated proteomics, the potential new therapeutic targets of HUMSCs in alleviating lung injury in juvenile septic rats were revealed.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
