@@ -5,12 +5,39 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>Enhanced RNA knockdown efficiency with engineered fusion guide RNAs that function with both CRISPR-CasRx and hammerhead ribozyme</title>
+      <link>https://example.com/article/36650600/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650600/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; CRISPR-Cas13 is a newly emerging RNA knockdown technology that is comparable to RNAi. Among all members of Cas13, CasRx degrades RNA in human cells with high precision and effectiveness. However, it remains unclear whether the efficiency of this technology can be further improved and applied to gene therapy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In this study, we fuse CasRx crRNA with an antisense ribozyme to construct a synthetic fusion guide RNA that can interact with both CasRx protein and ribozyme and tested the ability of this approach in RNA knockdown and cancer gene therapy. We show that the CasRx-crRNA-ribozyme system (CCRS) is more efficient for RNA knockdown of mRNAs and non-coding RNAs than conventional methods, including CasRx, shRNA, and ribozyme. In particular, CCRS is more effective than wild-type CasRx when targeting multiple transcripts simultaneously. We next use bladder cancer as a model to evaluate the anticancer effects of CCRS targeting multiple genes &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;. CCRS shows a higher anticancer effect than conventional methods, consistent with the gene knockdown results.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;: Thus, our study demonstrates that CCRS expands the design ideas and RNA knockdown capabilities of Cas13 technology and has the potential to be used in disease treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>An evolved AAV variant enables efficient genetic engineering of murine T cells</title>

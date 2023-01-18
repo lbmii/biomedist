@@ -5,12 +5,37 @@
     <link>https://example.com/tag/kidney/</link>
       <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Kidney</title>
       <link>https://example.com/tag/kidney/</link>
     </image>
+    
+    <item>
+      <title>TFEB-mediated lysosomal exocytosis alleviates high fat diet-induced lipotoxicity in the kidney</title>
+      <link>https://example.com/article/36649084/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36649084/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obesity is a major risk factor for end-stage kidney disease. We previously found that lysosomal dysfunction and impaired autophagic flux contributed to lipotoxicity in obesity-related kidney disease, both in humans and experimental animal models. However, the regulatory factors involved in countering renal lipotoxicity are largely unknown. Here we found that palmitic acid (PA) strongly promoted dephosphorylation and nuclear translocation of transcription factor EB (TFEB) by inhibiting the mechanistic target of rapamycin kinase complex 1 (MTORC1) pathway in a Rag GTPase-dependent manner, although these effects gradually diminished after extended treatment. We then investigated the role of TFEB in the pathogenesis of obesity-related kidney disease. Proximal tubular epithelial cell (PTEC)-specific Tfeb-deficient mice fed a high-fat diet (HFD) exhibited greater phospholipid accumulation in enlarged lysosomes, which manifested as multilamellar bodies (MLBs). Activated TFEB mediated lysosomal exocytosis of phospholipids, which help reduce MLB accumulation in PTECs. Furthermore, HFD-fed PTEC-specific Tfeb-deficient mice showed autophagic stagnation and exacerbated injury upon renal ischemia-reperfusion. Finally, higher body mass index was associated with increased vacuolation and decreased nuclear TFEB in the proximal tubules of chronic kidney disease patients. These results indicate a critical role of TFEB-mediated lysosomal exocytosis in counteracting renal lipotoxicity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>GPR97 deficiency ameliorates renal interstitial fibrosis in mouse hypertensive nephropathy</title>
@@ -2421,6 +2446,30 @@
     </item>
     
     <item>
+      <title>Protecting the Kidney: The Unexpected Logic of Inhibiting a Glucose Transporter</title>
+      <link>https://example.com/article/35689828/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35689828/</guid>
+      <description>&lt;p&gt;&lt;em&gt;No abstract available.&lt;/em&gt;&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>RP105 protects against ischemic and septic acute kidney injury via suppressing TLR4/NF-κB signaling pathways</title>
       <link>https://example.com/article/35696803/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
@@ -2513,12 +2562,125 @@
     </item>
     
     <item>
+      <title>Novel Drug Delivery Technologies and Targets for Renal Disease</title>
+      <link>https://example.com/review/35652363/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35652363/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The burden of acute and chronic kidney diseases to the health care system is exacerbated by the high mortality that this disease carries paired with the still limited availability of comprehensive therapies. A reason partially resides in the complexity of the kidney, with multiple potential target cell types and a complex structural environment that complicate strategies to protect and recover renal function after injury. Management of both acute and chronic renal disease, irrespective of the cause, are mainly focused on supportive treatments and renal replacement strategies when needed. Emerging preclinical evidence supports the feasibility of drug delivery technology for the kidney, and recent studies have contributed to building a robust catalog of peptides, proteins, nanoparticles, liposomes, extracellular vesicles, and other carriers that may be fused to therapeutic peptides, proteins, nucleic acids, or small molecule drugs. These fusions can display a precise renal uptake, an enhanced circulating time, and a directed intraorgan biodistribution while protecting their cargo to improve therapeutic efficacy. However, several hurdles that slow the transition towards clinical applications are still in the way, such as solubility, toxicity, and sub-optimal renal targeting. This review will discuss the feasibility and current limitations of drug delivery technologies for the treatment of renal disease, offering an update on their potential and the future directions of these promising strategies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Angiotensin 1-7 mitigates rhabdomyolysis induced renal injury in rats via modulation of TLR-4/NF-kB/iNOS and Nrf-2/heme‑oxygenase-1 signaling pathways</title>
+      <link>https://example.com/article/35654118/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35654118/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RM induced kidney injury may be linked to the depletion of the ACE-2 and Ang1–7.&lt;/li&gt;
+&lt;li&gt;The ACE-2/Ang1–7/MasR axis may serve as a novel therapeutic option in RM-induced AKI.&lt;/li&gt;
+&lt;li&gt;TLR-4/NF-kB/iNOS pathway may be involved in the renoprotective effect of Ang1–7.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Rhabdomyolysis (RM) is a critical condition with a high mortality rate, but effective management is still deficient. Till date, there are no studies that have addressed the effect of angiotensin 1-7 in this condition, hence, the rationale of this study was to evaluate the potential protective effect of Angiotensin 1-7 (Ang1-7), on rhabdomyolysis (RM) induced kidney injury in rats and detecting the underlying mechanistic insights.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Main methods:&lt;/em&gt; Forty adult male albino rats were divided into groups; the control group, RM group, RM+Ang1-7 group, and RM+Ang1-7+ A779 group. Sera and urine samples were collected for analysis of renal and muscle injury markers. Kidney tissues were taken for estimation of oxidative, inflammatory, and apoptotic markers as well as angiotensin-II (Ang II) and Ang1-7. Renal histology and expression of inducible nitric oxide synthase-1 (iNOS), real-time PCR for angiotensin-converting enzyme-2 (ACE-2), nuclear erythroid factor-2 (Nrf-2), Toll like receptor 4 (TLR-4) and NF-kB in kidney tissues were also measured.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Key findings:&lt;/em&gt; Induction of RM caused renal oxidative stress injury, inflammation, apoptosis and marked deterioration in kidney functions as well as reduction of Ang1-7 and raised Angiotensin-II level in kidney tissues. Administration of Ang1-7 to the RM group reversed all the affected parameters which were blocked by A779 administration (Mas receptor blocker).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Significance:&lt;/em&gt; We concluded that Ang1-7 could be a potential therapeutic agent that could mitigate RM-induced renal injury. The underlying mechanisms may involve Stimulation of the ACE-2/Ang1-7/MasR axis and modulation of TLR-4/NF-kB/iNOS and Nrf-2/heme‑oxygenase -1 pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Caloric restriction reduces the pro-inflammatory eicosanoid 20-hydroxyeicosatetraenoic acid to protect from acute kidney injury</title>
+      <link>https://example.com/article/35654224/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35654224/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute kidney injury is a frequent complication in the clinical setting and associated with significant morbidity and mortality. Preconditioning with short-term caloric restriction is highly protective against kidney injury in rodent ischemia reperfusion injury models. However, the underlying mechanisms are unknown hampering clinical translation. Here, we examined the molecular basis of caloric restriction-mediated protection to elucidate the principles of kidney stress resistance. Analysis of an RNAseq dataset after caloric restriction identified Cyp4a12a, a cytochrome exclusively expressed in male mice, to be strongly downregulated after caloric restriction. Kidney ischemia reperfusion injury robustly induced acute kidney injury in male mice and this damage could be markedly attenuated by pretreatment with caloric restriction. In females, damage was significantly less pronounced and preconditioning with caloric restriction had only little effect. Tissue concentrations of the metabolic product of Cyp4a12a, 20-hydroxyeicosatetraenoic acid (20-HETE), were found to be significantly reduced by caloric restriction. Conversely, intraperitoneal supplementation of 20-HETE in preconditioned males partly abrogated the protective potential of caloric restriction. Interestingly, this effect was accompanied by a partial reversal of caloric restriction&amp;ndash;induced changes in protein but not RNA expression pointing towards inflammation, endoplasmic reticulum stress and lipid metabolism. Thus, our findings provide an insight into the mechanisms underlying kidney protection by caloric restriction. Hence, understanding the mediators of preconditioning is an important prerequisite for moving towards translation to the clinical setting.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Persistent Activation of Autophagy After Cisplatin Nephrotoxicity Promotes Renal Fibrosis and Chronic Kidney Disease</title>
       <link>https://example.com/article/35707397/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35707397/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Autophagy, a highly conserved catabolic pathway in eukaryotic cells, contributes to the maintenance of the homeostasis and function of the kidney. Upon acute kidney injury (AKI), autophagy is activated in renal tubular cells to act as an intrinsic protective mechanism. However, the role of autophagy in the development of chronic kidney pathologies including renal fibrosis after AKI remains unclear. In this study, we detected a persistent autophagy activation in mouse kidneys after nephrotoxicity of repeated low dose cisplatin (RLDC) treatment. 3-methyladenine (3-MA) and chloroquine (CQ), respective inhibitors of autophagy at the initiation and degradation stages, blocked autophagic flux and improved kidney repair in post-RLDC mice, as indicated by kidney weight, renal function, and less interstitial fibrosis. &lt;em&gt;In vitro&lt;/em&gt;, RLDC induced a pro-fibrotic phenotype in renal tubular cells, including the production and secretion of pro-fibrotic cytokines. Notably, autophagy inhibitors blocked RLDC-induced secretion of pro-fibrotic cytokines in these cells. Together, the results indicate that persistent autophagy after AKI induces pro-fibrotic cytokines in renal tubular cells, promoting renal fibrosis and chronic kidney disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling injury and repair in kidney organoids reveals that homologous recombination governs tubular intrinsic repair</title>
+      <link>https://example.com/article/35235339/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35235339/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Erratum for the Research Article, &amp;ldquo;&lt;a href=&#34;https://www.science.org/doi/10.1126/scitranslmed.add0524&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Modeling injury and repair in kidney organoids reveals that homologous recombination governs tubular intrinsic repair&lt;/em&gt;&lt;/a&gt;&amp;rdquo; by N. Gupta et al.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kidneys have the capacity for intrinsic repair, preserving kidney architecture with return to a basal state after tubular injury. When injury is overwhelming or repetitive, however, that capacity is exceeded and incomplete repair results in fibrotic tissue replacing normal kidney parenchyma. Loss of nephrons correlates with reduced kidney function, which defines chronic kidney disease (CKD) and confers substantial morbidity and mortality to the worldwide population. Despite the identification of pathways involved in intrinsic repair, limited treatments for CKD exist, partly because of the limited throughput and predictivity of animal studies. Here, we showed that kidney organoids can model the transition from intrinsic to incomplete repair. Single-nuclear RNA sequencing of kidney organoids after cisplatin exposure identified 159 differentially expressed genes and 29 signal pathways in tubular cells undergoing intrinsic repair. Homology-directed repair (HDR) genes including Fanconi anemia complementation group D2 (&lt;em&gt;FANCD2&lt;/em&gt;) and RAD51 recombinase (&lt;em&gt;RAD51&lt;/em&gt;) were transiently up-regulated during intrinsic repair but were down-regulated in incomplete repair. Single cellular transcriptomics in mouse models of obstructive and hemodynamic kidney injury and human kidney samples of immune-mediated injury validated HDR gene up-regulation during tubular repair. Kidney biopsy samples with tubular injury and varying degrees of fibrosis confirmed loss of FANCD2 during incomplete repair. Last, we performed targeted drug screening that identified the DNA ligase IV inhibitor, SCR7, as a therapeutic candidate that rescued FANCD2/RAD51-mediated repair to prevent the progression of CKD in the cisplatin-induced organoid injury model. Our findings demonstrate the translational utility of kidney organoids to identify pathologic pathways and potential therapies.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

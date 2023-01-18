@@ -1025,6 +1025,95 @@
     </item>
     
     <item>
+      <title>A single-cell lung atlas of complement genes identifies the mesothelium and epithelium as prominent sources of extrahepatic complement proteins</title>
+      <link>https://example.com/article/35672453/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35672453/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To understand functional duality of the complement system in host defense and lung injury, a more comprehensive view of its localized production in the lung, and the impact of age on complement production are essential. Here, we explored the expression of complement genes through computational analysis of preexisting single cell RNA sequencing data from lung transcriptomes of healthy young (3 months) and old C57BL/6 mice (24 months), and humans. We characterized the distribution of 48 complement genes. Across 28 distinct immune and non-immune cell types in mice, mesothelial cells expressed the greatest number of complement genes (e.g., C1ra, C2, C3), and regulators (e.g., Serping1, Cfh). C5 was abundant in type II alveolar epithelial cells and C1q in interstitial lung macrophages. There were only moderate differences in gene expression between young and old mice. Among 57 human lung cell types, mesothelial cells showed abundant complement expression. A few differences in gene expression (e.g., FCN1, CFI, C6, C7) were also evident between mice and human lung cells. Our findings present a novel perspective on the expression patterns of complement genes in normal lungs. These findings highlight the potential functions of complement in tissue-specific homeostasis and immunity and may foster a mechanistic understanding of its role in lung health and disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Clonality and timing of relapsing colorectal cancer metastasis revealed through whole-genome single-cell sequencing</title>
+      <link>https://example.com/article/35688262/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688262/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The phylogenetic analysis of single-cells exposes how, where and when malignant cells survive treatment in a personalized manner.&lt;/li&gt;
+&lt;li&gt;The relapse originated from the expansion of a single metastatic lineage that slowly evolved in the liver.&lt;/li&gt;
+&lt;li&gt;More than 500 mutations are specific to the relapse, including four non-silent mutations with no apparent clinical significance.&lt;/li&gt;
+&lt;li&gt;There is a clear contribution of chemotherapy exposure to the overall mutational burden of the relapse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recurrence of tumor cells following local and systemic therapy is a significant hurdle in cancer. Most patients with metastatic colorectal cancer (mCRC) will relapse, despite resection of the metastatic lesions. A better understanding of the evolutionary history of recurrent lesions is required to identify the spatial and temporal patterns of metastatic progression and expose the genetic and evolutionary determinants of therapeutic resistance. With this goal in mind, here we leveraged a unique single-cell whole-genome sequencing dataset from recurrent hepatic lesions of an mCRC patient. Our phylogenetic analysis confirms that the treatment induced a severe demographic bottleneck in the liver metastasis but also that a previously diverged lineage survived this surgery, possibly after migration to a different site in the liver. This lineage evolved very slowly for two years under adjuvant drug therapy and diversified again in a very short period. We identified several non-silent mutations specific to this lineage and inferred a substantial contribution of chemotherapy to the overall, genome-wide mutational burden. All in all, our study suggests that mCRC subclones can migrate locally and evade resection, keep evolving despite rounds of chemotherapy, and re-expand explosively.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell RNA-seq-based proteogenomics identifies glioblastoma-specific transposable elements encoding HLA-I-presented peptides</title>
+      <link>https://example.com/article/35675780/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35675780/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transposable elements (TEs) allow all cell population discrimination in glioblastoma&lt;/li&gt;
+&lt;li&gt;TE-derived peptides are presented on HLA-I molecules&lt;/li&gt;
+&lt;li&gt;TE subfamilies redundantly share HLA-I-presented peptide coding sequences&lt;/li&gt;
+&lt;li&gt;Non-redundant peptide-coding TEs are more tumor-specific targets for immunotherapy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We analyze transposable elements (TEs) in glioblastoma (GBM) patients using a proteogenomic pipeline that combines single-cell transcriptomics, bulk RNA sequencing (RNA-seq) samples from tumors and healthy-tissue cohorts, and immunopeptidomic samples. We thus identify 370 human leukocyte antigen (HLA)-I-bound peptides encoded by TEs differentially expressed in GBM. Some of the peptides are encoded by repeat sequences from intact open reading frames (ORFs) present in up to several hundred TEs from recent long interspersed nuclear element (LINE)-1, long terminal repeat (LTR), and SVA subfamilies. Other HLA-I-bound peptides are encoded by single copies of TEs from old subfamilies that are expressed recurrently in GBM tumors and not expressed, or very infrequently and at low levels, in healthy tissues (including brain). These peptide-coding, GBM-specific, highly recurrent TEs represent potential tumor-specific targets for cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell transcriptome profiling of the immune space-time landscape reveals dendritic cell regulatory program in polymicrobial sepsis</title>
       <link>https://example.com/article/35832091/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
@@ -1059,6 +1148,35 @@
       <guid>https://example.com/article/35365629/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Colorectal cancer (CRC) is among the most common malignancies with limited treatments other than surgery. The tumor microenvironment (TME) profiling enables the discovery of potential therapeutic targets. Here, we profile 54,103 cells from tumor and adjacent tissues to characterize cellular composition and elucidate the potential origin and regulation of tumor-enriched cell types in CRC. We demonstrate that the tumor-specific FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages were positively correlated in 14 independent CRC cohorts containing 2550 samples and validate their close localization by immuno-fluorescent staining and spatial transcriptomics. This interaction might be regulated by chemerin, TGF-β, and interleukin-1, which would stimulate the formation of immune-excluded desmoplasic structure and limit the T cell infiltration. Furthermore, we find patients with high FAP or SPP1 expression achieved less therapeutic benefit from an anti-PD-L1 therapy cohort. Our results provide a potential therapeutic strategy by disrupting FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages interaction to improve immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling injury and repair in kidney organoids reveals that homologous recombination governs tubular intrinsic repair</title>
+      <link>https://example.com/article/35235339/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35235339/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Erratum for the Research Article, &amp;ldquo;&lt;a href=&#34;https://www.science.org/doi/10.1126/scitranslmed.add0524&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Modeling injury and repair in kidney organoids reveals that homologous recombination governs tubular intrinsic repair&lt;/em&gt;&lt;/a&gt;&amp;rdquo; by N. Gupta et al.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kidneys have the capacity for intrinsic repair, preserving kidney architecture with return to a basal state after tubular injury. When injury is overwhelming or repetitive, however, that capacity is exceeded and incomplete repair results in fibrotic tissue replacing normal kidney parenchyma. Loss of nephrons correlates with reduced kidney function, which defines chronic kidney disease (CKD) and confers substantial morbidity and mortality to the worldwide population. Despite the identification of pathways involved in intrinsic repair, limited treatments for CKD exist, partly because of the limited throughput and predictivity of animal studies. Here, we showed that kidney organoids can model the transition from intrinsic to incomplete repair. Single-nuclear RNA sequencing of kidney organoids after cisplatin exposure identified 159 differentially expressed genes and 29 signal pathways in tubular cells undergoing intrinsic repair. Homology-directed repair (HDR) genes including Fanconi anemia complementation group D2 (&lt;em&gt;FANCD2&lt;/em&gt;) and RAD51 recombinase (&lt;em&gt;RAD51&lt;/em&gt;) were transiently up-regulated during intrinsic repair but were down-regulated in incomplete repair. Single cellular transcriptomics in mouse models of obstructive and hemodynamic kidney injury and human kidney samples of immune-mediated injury validated HDR gene up-regulation during tubular repair. Kidney biopsy samples with tubular injury and varying degrees of fibrosis confirmed loss of FANCD2 during incomplete repair. Last, we performed targeted drug screening that identified the DNA ligase IV inhibitor, SCR7, as a therapeutic candidate that rescued FANCD2/RAD51-mediated repair to prevent the progression of CKD in the cisplatin-induced organoid injury model. Our findings demonstrate the translational utility of kidney organoids to identify pathologic pathways and potential therapies.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1237,6 +1355,31 @@
     </item>
     
     <item>
+      <title>An organoid-derived bronchioalveolar model for SARS-CoV-2 infection of human alveolar type II-like cells</title>
+      <link>https://example.com/article/33283287/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33283287/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes coronavirus disease 2019 (COVID-19), which may result in acute respiratory distress syndrome (ARDS), multiorgan failure, and death. The alveolar epithelium is a major target of the virus, but representative models to study virus host interactions in more detail are currently lacking. Here, we describe a human 2D air-liquid interface culture system which was characterized by confocal and electron microscopy and single-cell mRNA expression analysis. In this model, alveolar cells, but also basal cells and rare neuroendocrine cells, are grown from 3D self-renewing fetal lung bud tip organoids. These cultures were readily infected by SARS-CoV-2 with mainly surfactant protein C-positive alveolar type II-like cells being targeted. Consequently, significant viral titers were detected and mRNA expression analysis revealed induction of type I/III interferon response program. Treatment of these cultures with a low dose of interferon lambda 1 reduced viral replication. Hence, these cultures represent an experimental model for SARS-CoV-2 infection and can be applied for drug screens.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>scGMAI: a Gaussian mixture model for clustering single-cell RNA-Seq data based on deep autoencoder</title>
       <link>https://example.com/article/33300547/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
@@ -1321,6 +1464,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We investigated the effects of MSCs on lung B cells in a mouse model of lipopolysaccharide (LPS)-induced ALI. MSCs were administered intratracheally 4 h after LPS. As vehicle-treated controls, mice were treated with phosphate-buffered saline (PBS) containing 2% C57BL/6 (PBS group). Histopathological changes, survival rate, inflammatory factor levels, and the number of neutrophils in bronchoalveolar lavage fluid (BALF) were determined. Single-cell RNA sequencing (scRNA-Seq) analysis was performed to evaluate the transcriptional changes in lung B cells between the PBS, LPS, and LPS/MSC groups on days 3 and 7.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; MSC treatment ameliorated LPS-induced ALI, as indicated by the reductions in mortality, the levels of chemokines and cytokines in BALF, and the severity of lung tissue histopathology in ALI mice. Lung B cells in the PBS group remained undifferentiated and had an inhibitory phenotype. Based on our scRNA-Seq results, the differentially expressed genes (DEGs) in lung B cells in both the PBS group and LPS group were involved in chemotaxis processes and some proinflammatory pathways. MSC treatment inhibited the expression of chemokine genes that were upregulated by LPS and were related to the recruitment of neutrophils into lung tissues. Immunoglobulin-related gene expression was decreased in lung B cells of mice treated with LPS/MSC for 7 days. The DEGs regulated by MSCs were enriched in biological processes, including humoral immune response and apoptotic signaling.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Lung B cells played an important role in the effects of treatment of ALI with MSCs. These observations provide new insights into the mechanisms underlying the effects of MSC treatment for ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Persistence of a regeneration-associated, transitional alveolar epithelial cell state in pulmonary fibrosis</title>
+      <link>https://example.com/article/32661339/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32661339/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stem cells undergo dynamic changes in response to injury to regenerate lost cells. However, the identity of transitional states and the mechanisms that drive their trajectories remain understudied. Using lung organoids, multiple in vivo repair models, single-cell transcriptomics and lineage tracing, we find that alveolar type-2 epithelial cells undergoing differentiation into type-1 cells acquire pre-alveolar type-1 transitional cell state (PATS) en route to terminal maturation. Transitional cells undergo extensive stretching during differentiation, making them vulnerable to DNA damage. Cells in the PATS show an enrichment of TP53, TGFβ, DNA-damage-response signalling and cellular senescence. Gain and loss of function as well as genomic binding assays revealed a direct transcriptional control of PATS by TP53 signalling. Notably, accumulation of PATS-like cells in human fibrotic lungs was observed, suggesting persistence of the transitional state in fibrosis. Our study thus implicates a transient state associated with senescence in normal epithelial tissue repair and its abnormal persistence in disease conditions.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

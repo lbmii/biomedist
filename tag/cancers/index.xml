@@ -5,12 +5,42 @@
     <link>https://example.com/tag/cancers/</link>
       <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cancers</title>
       <link>https://example.com/tag/cancers/</link>
     </image>
+    
+    <item>
+      <title>LncRNA BC promotes lung adenocarcinoma progression by modulating IMPAD1 alternative splicing</title>
+      <link>https://example.com/article/36650118/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650118/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The therapeutic value of targeted therapies in patients with lung cancer is reduced when tumours acquire secondary resistance after an initial period of successful treatment. However, the molecular events behind the resistance to targeted therapies in lung cancer remain largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; To discover the important role and mechanism of lncRNA BC in promoting tumor metastasis and influencing clinical prognosis of LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materials &amp;amp; methods:&lt;/em&gt; Microarrays were used to screen a comprehensive set of lncRNAs with differential expression profiles in lung cancer cells. The functional role and mechanism of lncRNA were further investigated by gain- and loss-of-function assays. RNA pull-down, protein assays, and mass spectrometry were used to identify proteins that interacted with lncRNA. TaqMan PCR was used to measure lncRNA in lung adenocarcinoma and adjacent nontumor tissues from 428 patients. The clinical significance of lncRNA identified was statistically confirmed in this cohort of patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In this study, we show that the long non-coding RNA BC009639 (BC) is involved in acquired resistance to EGFR-targeted therapies. Among the 235 long non-coding RNAs that were differentially expressed in lung cancer cell lines, with different metastatic potentials, BC promoted growth, invasion, metastasis, and resistance to EGFR-tyrosine kinase inhibitors (EGFR-TKIs), both in vitro and in vivo. BC was highly expressed in 428 patients with lung adenocarcinoma (LUAD) and high BC expression correlated with reduced efficacy of EGFR-TKI therapy. To uncover the molecular mechanism of BC-mediated EGFR-TKI resistance in lung cancer, we screened and identified nucleolin and hnRNPK that interact with BC. BC formed the splicing complex with nucleolin and hnRNPK to facilitate the production of a non-protein-coding inositol monophosphatase domain containing 1 (IMPAD1) splice variant, instead of the protein-coding variant. The BC-mediated alternative splicing (AS) of IMPAD1 resulted in the induction of the epithelial-mesenchymal transition and resistance to EGFR-TKI in lung cancer. High BC expression correlated with clinical progress and poor survival among 402 patients with LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disscussion:&lt;/em&gt; Through alternative splicing, BC boosted the non-coding IMPAD1-203 transcript variant while suppressing the IMPAD1-201 variant. In order to control the processing of pre-mRNA, BC not only attracted RNA binding proteins (NCL, IGF2BP1) or splicing factors (hnRNPK), but also controlled the formation of the splicing-regulator complex by creating RNA-RNA-duplexes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our results reveal an important role for BC in mediating resistance to EGFR-targeted therapy in LUAD through IMPAD1 AS and in implication for the targeted therapy resistance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Discovery of IHMT-337 as a potent irreversible EZH2 inhibitor targeting CDK4 transcription for malignancies</title>
@@ -64,9 +94,9 @@
     
     <item>
       <title>Nucleus-exported CLOCK acetylates PRPS to promote de novo nucleotide synthesis and liver tumour growth</title>
-      <link>https://example.com/article/23-01-17-11-25/</link>
+      <link>https://example.com/article/36646788/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-17-11-25/</guid>
+      <guid>https://example.com/article/36646788/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Impairment of the circadian clock is linked to cancer development. However, whether the circadian clock is modulated by oncogenic receptor tyrosine kinases remains unclear. Here we demonstrated that receptor tyrosine kinase activation promotes CK2-mediated CLOCK S106 phosphorylation and subsequent disassembly of the CLOCK–BMAL1 dimer and suppression of the downstream gene expression in hepatocellular carcinoma (HCC) cells. In addition, CLOCK S106 phosphorylation exposes its nuclear export signal to bind Exportin1 for nuclear exportation. Cytosolic CLOCK acetylates PRPS1/2 K29 and blocks HSC70-mediated and lysosome-dependent PRPS1/2 degradation. Stabilized PRPS1/2 promote de novo nucleotide synthesis and HCC cell proliferation and liver tumour growth. Furthermore, CLOCK S106 phosphorylation and PRPS1/2 K29 acetylation are positively correlated in human HCC specimens and with HCC poor prognosis. These findings delineate a critical mechanism by which oncogenic signalling inhibits canonical CLOCK transcriptional activity and simultaneously confers CLOCK with instrumental moonlighting functions to promote nucleotide synthesis and tumour growth.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -89,9 +119,9 @@
     
     <item>
       <title>Pancreatic cancer cells upregulate LPAR4 in response to isolation stress to promote an ECM-enriched niche and support tumour initiation</title>
-      <link>https://example.com/article/23-01-17-11-16/</link>
+      <link>https://example.com/article/36646789/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-17-11-16/</guid>
+      <guid>https://example.com/article/36646789/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Defining drivers of tumour initiation can provide opportunities to control cancer progression. Here we report that lysophosphatidic acid receptor 4 (LPAR4) becomes transiently upregulated on pancreatic cancer cells exposed to environmental stress or chemotherapy where it promotes stress tolerance, drug resistance, self-renewal and tumour initiation. Pancreatic cancer cells gain LPAR4 expression in response to stress by downregulating a tumour suppressor, miR-139-5p. Even in the absence of exogenous lysophosphatidic acid, LPAR4-expressing tumour cells display an enrichment of extracellular matrix genes that are established drivers of cancer stemness. Mechanistically, upregulation of fibronectin via an LPAR4/AKT/CREB axis is indispensable for LPAR4-induced tumour initiation and stress tolerance. Moreover, ligation of this fibronectin-containing matrix via integrins α5β1 or αVβ3 can transfer stress tolerance to LPAR4-negative cells. Therefore, stress- or drug-induced LPAR4 enhances cell-autonomous production of a fibronectin-rich extracellular matrix, allowing cells to survive ‘isolation stress’ and compensate for the absence of stromal-derived factors by creating their own tumour-initiating niche.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -4700,12 +4730,328 @@
     </item>
     
     <item>
+      <title>ATR-mediated CD47 and PD-L1 up-regulation restricts radiotherapy-induced immune priming and abscopal responses in colorectal cancer</title>
+      <link>https://example.com/article/35687697/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35687697/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Radiotherapy (RT) of colorectal cancer (CRC) can prime adaptive immunity against tumor-associated antigen (TAA)-expressing CRC cells systemically. However, abscopal tumor remissions are extremely rare, and the postirradiation immune escape mechanisms in CRC remain elusive. Here, we found that irradiated CRC cells used ATR-mediated DNA repair signaling pathway to up-regulate both CD47 and PD-L1, which through engagement of SIRPα and PD-1, respectively, prevented phagocytosis by antigen-presenting cells and thereby limited TAA cross-presentation and innate immune activation. This postirradiation CD47 and PD-L1 up-regulation was observed across various human solid tumor cells. Concordantly, rectal cancer patients with poor responses to neoadjuvant RT exhibited significantly elevated postirradiation CD47 levels. The combination of RT, anti-SIRPα, and anti-PD-1 reversed adaptive immune resistance and drove efficient TAA cross-presentation, resulting in robust TAA-specific CD8 T cell priming, functional activation of T effectors, and increased T cell clonality and clonal diversity. We observed significantly higher complete response rates to RT/anti-SIRPα/anti-PD-1 in both irradiated and abscopal tumors and prolonged survival in three distinct murine CRC models, including a cecal orthotopic model. The efficacy of triple combination therapy was STING dependent as knockout animals lost most benefit of adding anti-SIRPα and anti-PD-1 to RT. Despite activation across the myeloid stroma, the enhanced dendritic cell function accounts for most improvements in CD8 T cell priming. These data suggest ATR-mediated CD47 and PD-L1 up-regulation as a key mechanism restraining radiation-induced immune priming. RT combined with SIRPα and PD-1 blockade promotes robust antitumor immune priming, leading to systemic tumor regressions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CREB1 contributes colorectal cancer cell plasticity by regulating lncRNA CCAT1 and NF-κB pathways</title>
       <link>https://example.com/article/35696016/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35696016/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The CREB1 gene encodes an exceptionally pleiotropic transcription factor that frequently dysregulated in human cancers. CREB1 can regulate tumor cell status of proliferation and/or migration; however, the molecular basis for this switch involvement in cell plasticity has not fully been understood yet. Here, we first show that knocking out CREB1 triggers a remarkable effect of epithelial-mesenchymal transition (EMT) and leads to the occurrence of inhibited proliferation and enhanced motility in HCT116 colorectal cancer cells. By monitoring 45 cellular signaling pathway activities, we find that multiple growth-related pathways decline significantly while inflammatory pathways including NF-κB are largely upregulated in comparing between the CREB1 wild-type and knocked out cells. Mechanistically, cells with CREB1 knocked out show downregulation of MYC as a result of impaired CREB1-dependent transcription of the oncogenic lncRNA CCAT1. Interestingly, the unbalanced competition between the coactivator CBP/p300 for CREB1 and p65 leads to the activation of the NF-κB pathway in cells with CREB1 disrupted, which induces an obvious EMT phenotype of the cancer cells. Taken together, these studies identify previously unknown mechanisms of CREB1 in CRC cell plasticity via regulating lncRNA CCAT1 and NF-κB pathways, providing a critical insight into a combined strategy for CREB1-targeted tumor therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Combination treatment with 17β-estradiol and anti-PD-L1 suppresses MC38 tumor growth by reducing PD-L1 expression and enhancing M1 macrophage population in MC38 colon tumor model</title>
+      <link>https://example.com/article/35690286/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35690286/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;17β-estradiol is known to have a protective effect in colon cancer development.&lt;/li&gt;
+&lt;li&gt;Sex differences exist in MC38 tumor growth, PD-L1 expression, and cell populations.&lt;/li&gt;
+&lt;li&gt;17β-estradiol treatment before MC38 injection reduced high cell types in males.&lt;/li&gt;
+&lt;li&gt;Synergistic effect of 17β-estradiol on anti-tumorigenic effect of anti-PD-L1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;17β-estradiol (E2) is known to have a protective effect in colorectal cancer (CRC); thus, E2 may be effective for cancer immunotherapy in CRC. The aim of this study is to evaluate the effect of combination therapy with E2 and anti-programmed cell death receptor-1 ligand (PD-L1) antibodies, and the effects of sex and estrogen on colon tumor growth, PD-L1 expression, and tumor-associated cell populations in an MC38 colon tumor model. Male mice showed increased MC38 colon tumor growth and PD-L1 expression in tumor sections as well as higher proportion of cancer-associated fibroblasts (CD45-CD31-CD140a&lt;sup&gt;+&lt;/sup&gt;), PD-L1-expressing tumor cells (CD45-CD274&lt;sup&gt;+&lt;/sup&gt;) and tumor-associated macrophages (TAMs) (CD11b&lt;sup&gt;+&lt;/sup&gt;F4/80&lt;sup&gt;+&lt;/sup&gt;CD274&lt;sup&gt;+&lt;/sup&gt;) compared to female mice. E2 treatment prior to MC38 injection significantly reduced these phenomena in male mice. Furthermore, co-treatment with E2 and anti-PD-L1 antibodies significantly inhibited MC38 tumor growth and reduced PD-L1-expressing cells in male mice compared to treatment with either E2 or anti-PD-L1 antibodies alone. Combination treatment with E2 and anti-PD-L1 decreased TAM population (CD11b&lt;sup&gt;+&lt;/sup&gt;F4/80&lt;sup&gt;+&lt;/sup&gt;) in the tumor mass while increasing M1 TMAs (CD11b&lt;sup&gt;+&lt;/sup&gt;F4/80&lt;sup&gt;+&lt;/sup&gt;CD86&lt;sup&gt;+&lt;/sup&gt;). These results suggest that estrogen inhibits MC38 tumor growth by downregulating PD-L1 expression and regulating tumor-associated cell populations. Furthermore, estrogen boosted the effect of anti-PD-L1 antibody in the MC38 tumor model.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RNF43 G659fs is an oncogenic colorectal cancer mutation and sensitizes tumor cells to PI3K/mTOR inhibition</title>
+      <link>https://example.com/article/35676246/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35676246/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;RNF43&lt;/em&gt;-p.G659fs mutation occurs frequently in colorectal cancer, but its function remains poorly understood and there are no specific therapies directed against this alteration. In this study, we find that &lt;em&gt;RNF43&lt;/em&gt;-p.G659fs promotes cell growth independent of Wnt signaling. We perform a drug repurposing library screen and discover that cells with &lt;em&gt;RNF43&lt;/em&gt;-p.G659 mutations are selectively killed by inhibition of PI3K signaling. PI3K/mTOR inhibitors yield promising antitumor activity in &lt;em&gt;RNF43&lt;sup&gt;659mut&lt;/sup&gt;&lt;/em&gt; isogenic cell lines and xenograft models, as well as in patient-derived organoids harboring &lt;em&gt;RNF43&lt;/em&gt;-p.G659fs mutations. We find that &lt;em&gt;RNF43&lt;sup&gt;659mut&lt;/sup&gt;&lt;/em&gt; binds p85 leading to increased PI3K signaling through p85 ubiquitination and degradation. Additionally, RNA-sequencing of &lt;em&gt;RNF43&lt;sup&gt;659mut&lt;/sup&gt;&lt;/em&gt; isogenic cells reveals decreased interferon response gene expression, that is reversed by PI3K/mTOR inhibition, suggesting that &lt;em&gt;RNF43&lt;sup&gt;659mut&lt;/sup&gt;&lt;/em&gt; may alter tumor immunity. Our findings suggest a therapeutic application for PI3K/mTOR inhibitors in treating &lt;em&gt;RNF43&lt;/em&gt;-p.G659fs mutant cancers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Association of Physician Adenoma Detection Rates With Postcolonoscopy Colorectal Cancer</title>
+      <link>https://example.com/article/35670788/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35670788/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Importance:&lt;/em&gt; Although colonoscopy is frequently performed in the United States, there is limited evidence to support threshold values for physician adenoma detection rate as a quality metric.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; To evaluate the association between physician adenoma detection rate values and risks of postcolonoscopy colorectal cancer and related deaths.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design, setting, and participants:&lt;/em&gt; Retrospective cohort study in 3 large integrated health care systems (Kaiser Permanente Northern California, Kaiser Permanente Southern California, and Kaiser Permanente Washington) with 43 endoscopy centers, 383 eligible physicians, and 735 396 patients aged 50 to 75 years who received a colonoscopy that did not detect cancer (negative colonoscopy) between January 2011 and June 2017, with patient follow-up through December 2017.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Exposures:&lt;/em&gt; The adenoma detection rate of each patient&amp;rsquo;s physician based on screening examinations in the calendar year prior to the patient&amp;rsquo;s negative colonoscopy. Adenoma detection rate was defined as a continuous variable in statistical analyses and was also dichotomized as at or above vs below the median for descriptive analyses.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Main outcomes and measures:&lt;/em&gt; The primary outcome (postcolonoscopy colorectal cancer) was tumor registry-verified colorectal adenocarcinoma diagnosed at least 6 months after any negative colonoscopy (all indications). The secondary outcomes included death from postcolonoscopy colorectal cancer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Among 735 396 patients who had 852 624 negative colonoscopies, 440 352 (51.6%) were performed on female patients, median patient age was 61.4 years (IQR, 55.5-67.2 years), median follow-up per patient was 3.25 years (IQR, 1.56-5.01 years), and there were 619 postcolonoscopy colorectal cancers and 36 related deaths during more than 2.4 million person-years of follow-up. The patients of physicians with higher adenoma detection rates had significantly lower risks for postcolonoscopy colorectal cancer (hazard ratio [HR], 0.97 per 1% absolute adenoma detection rate increase [95% CI, 0.96-0.98]) and death from postcolonoscopy colorectal cancer (HR, 0.95 per 1% absolute adenoma detection rate increase [95% CI, 0.92-0.99]) across a broad range of adenoma detection rate values, with no interaction by sex (P value for interaction = .18). Compared with adenoma detection rates below the median of 28.3%, detection rates at or above the median were significantly associated with a lower risk of postcolonoscopy colorectal cancer (1.79 vs 3.10 cases per 10 000 person-years; absolute difference in 7-year risk, -12.2 per 10 000 negative colonoscopies [95% CI, -10.3 to -13.4]; HR, 0.61 [95% CI, 0.52-0.73]) and related deaths (0.05 vs 0.22 cases per 10 000 person-years; absolute difference in 7-year risk, -1.2 per 10 000 negative colonoscopies [95%, CI, -0.80 to -1.69]; HR, 0.26 [95% CI, 0.11-0.65]).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions and relevance:&lt;/em&gt; Within 3 large community-based settings, colonoscopies by physicians with higher adenoma detection rates were significantly associated with lower risks of postcolonoscopy colorectal cancer across a broad range of adenoma detection rate values. These findings may help inform recommended targets for colonoscopy quality measures.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges and Gaps in Innovation for the Performance of Colonoscopy for Screening and Surveillance of Colorectal Cancer</title>
+      <link>https://example.com/review/35688352/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35688352/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In 2018, the American Gastroenterological Association&amp;rsquo;s Center for GI Innovation and Technology convened a consensus conference, entitled &amp;ldquo;Colorectal Cancer Screening and Surveillance: Role of Emerging Technology and Innovation to Improve Outcomes.&amp;rdquo; The conference participants, which included more than 60 experts in colorectal cancer, considered recent improvements in colorectal cancer screening rates and polyp detection, persistent barriers to colonoscopy uptake, and opportunities for performance improvement and innovation. This white paper originates from that conference. It aims to summarize current patient- and physician-centered gaps and challenges in colonoscopy, diagnostic and therapeutic challenges affecting colonoscopy uptake, and the potential use of emerging technologies and quality metrics to improve patient outcomes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Clonality and timing of relapsing colorectal cancer metastasis revealed through whole-genome single-cell sequencing</title>
+      <link>https://example.com/article/35688262/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688262/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The phylogenetic analysis of single-cells exposes how, where and when malignant cells survive treatment in a personalized manner.&lt;/li&gt;
+&lt;li&gt;The relapse originated from the expansion of a single metastatic lineage that slowly evolved in the liver.&lt;/li&gt;
+&lt;li&gt;More than 500 mutations are specific to the relapse, including four non-silent mutations with no apparent clinical significance.&lt;/li&gt;
+&lt;li&gt;There is a clear contribution of chemotherapy exposure to the overall mutational burden of the relapse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recurrence of tumor cells following local and systemic therapy is a significant hurdle in cancer. Most patients with metastatic colorectal cancer (mCRC) will relapse, despite resection of the metastatic lesions. A better understanding of the evolutionary history of recurrent lesions is required to identify the spatial and temporal patterns of metastatic progression and expose the genetic and evolutionary determinants of therapeutic resistance. With this goal in mind, here we leveraged a unique single-cell whole-genome sequencing dataset from recurrent hepatic lesions of an mCRC patient. Our phylogenetic analysis confirms that the treatment induced a severe demographic bottleneck in the liver metastasis but also that a previously diverged lineage survived this surgery, possibly after migration to a different site in the liver. This lineage evolved very slowly for two years under adjuvant drug therapy and diversified again in a very short period. We identified several non-silent mutations specific to this lineage and inferred a substantial contribution of chemotherapy to the overall, genome-wide mutational burden. All in all, our study suggests that mCRC subclones can migrate locally and evade resection, keep evolving despite rounds of chemotherapy, and re-expand explosively.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Exosomes deliver lncRNA DARS-AS1 siRNA to inhibit chronic unpredictable mild stress-induced TNBC metastasis</title>
+      <link>https://example.com/article/35688263/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688263/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exosomes are natural nanocarriers for efficient delivery of siRNA to recipient cells.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes were performed by modified calcium-mediated transfection method.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes demonstrated dose-dependent knockdown efficiency.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes showed strong antitumor activity on TNBC cells in vitro.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes intensively inhibited TNBC tumor growth and metastasis in vivo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Triple-negative breast cancer (TNBC) is a rapidly recurring and highly metastatic malignancy with high heterogeneity and chemoradiotherapy resistance. Chronic unpredictable mild stress (CUMS) can induce the occurrence of tumors and enhance lymphatic infiltration and distant metastasis through direct interaction with the sympathetic nervous system; however, its relevance in TNBC is yet to be clarified. In this study, DARS-AS1, a newly reported CUMS-responsive lncRNA, was found to be enriched in TNBC clinical tumors and cells and positively correlated with late clinical stage in patients with TNBC. DARS-AS1 overexpression significantly enhanced the migration and invasion of TNBC tumors by inhibiting miR-129-2-3p and upregulated CDK1 to activate the NF-κB/STAT3 signaling pathway both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;. Treatment with DARS-AS1 siRNA-loaded exosomes (EXOs) substantially slowed CUMS-induced TNBC cell growth and liver metastasis. Therefore, DARS-AS1 represents a potential therapeutic target for metastatic TNBC, and EXOs may serve as siRNA delivery carriers in clinical therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Loss of MMR and TGFBR2 Increases the Susceptibility to Microbiota-Dependent Inflammation-Associated Colon Cancer</title>
+      <link>https://example.com/article/35688320/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688320/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background and aims:&lt;/em&gt; Mutations in DNA mismatch repair (MMR) genes are causative in Lynch syndrome and a significant proportion of sporadic colorectal cancers (CRCs). MMR-deficient (dMMR) CRCs display increased mutation rates, with mutations frequently accumulating at short repetitive DNA sequences throughout the genome (microsatellite instability). The TGFBR2 gene is one of the most frequently mutated genes in dMMR CRCs. Therefore, we generated an animal model to study how the loss of both TGFBR2 signaling impacts dMMR-driven intestinal tumorigenesis in vivo and explore the impact of the gut microbiota.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We generated VCMsh2/Tgfbr2 mice in which Msh2loxP and Tgfbr2loxP alleles are inactivated by Villin-Cre recombinase in the intestinal epithelium. VCMsh2/Tgfbr2 mice were analyzed for their rate of intestinal cancer development and for the mutational spectra and gene expression profiles of tumors. In addition, we assessed the impact of chemically induced chronic inflammation and gut microbiota composition on colorectal tumorigenesis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; VCMsh2/Tgfbr2 mice developed small intestinal adenocarcinomas and CRCs with histopathological features highly similar to CRCs in Lynch syndrome patients. The CRCs in VCMsh2/Tgfbr2 mice were associated with the presence of colitis and displayed genetic and histological features that resembled inflammation-associated CRCs in human patients. The development of CRCs in VCMsh2/Tgfbr2 mice was strongly modulated by the gut microbiota composition, which in turn was impacted by the TGFBR2 status of the tumors.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our results demonstrate a synergistic interaction between MMR and TGFBR2 inactivation in inflammation-associated colon tumorigenesis and highlight the crucial impact of the gut microbiota on modulating the incidence of inflammation-associated CRCs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell RNA-seq-based proteogenomics identifies glioblastoma-specific transposable elements encoding HLA-I-presented peptides</title>
+      <link>https://example.com/article/35675780/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35675780/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transposable elements (TEs) allow all cell population discrimination in glioblastoma&lt;/li&gt;
+&lt;li&gt;TE-derived peptides are presented on HLA-I molecules&lt;/li&gt;
+&lt;li&gt;TE subfamilies redundantly share HLA-I-presented peptide coding sequences&lt;/li&gt;
+&lt;li&gt;Non-redundant peptide-coding TEs are more tumor-specific targets for immunotherapy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We analyze transposable elements (TEs) in glioblastoma (GBM) patients using a proteogenomic pipeline that combines single-cell transcriptomics, bulk RNA sequencing (RNA-seq) samples from tumors and healthy-tissue cohorts, and immunopeptidomic samples. We thus identify 370 human leukocyte antigen (HLA)-I-bound peptides encoded by TEs differentially expressed in GBM. Some of the peptides are encoded by repeat sequences from intact open reading frames (ORFs) present in up to several hundred TEs from recent long interspersed nuclear element (LINE)-1, long terminal repeat (LTR), and SVA subfamilies. Other HLA-I-bound peptides are encoded by single copies of TEs from old subfamilies that are expressed recurrently in GBM tumors and not expressed, or very infrequently and at low levels, in healthy tissues (including brain). These peptide-coding, GBM-specific, highly recurrent TEs represent potential tumor-specific targets for cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Stress-induced epinephrine promotes epithelial-to-mesenchymal transition and stemness of CRC through the CEBPB/TRIM2/P53 axis</title>
+      <link>https://example.com/article/35672760/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35672760/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Previous studies have indicated that chronic emotional stressors likely participate in the occurrence of cancers. However, direct evidence connecting stress and colorectal cancer development remains almost completely unexplored.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Chronic stress mouse model was used to investigate the influence of stress on tumorigenesis. Several major agonists and antagonists of adrenergic receptors were applied to investigate the effects of β-adrenergic signaling on the development of CRC. Chromatin immunoprecipitation assays (CHIP) were used to investigate the binding of p53 and CEBPB to TRIM2 promoter. Mammosphere cultures, Cell Counting Kit-8 (CCK-8) assay, colony-formation assay, scratch wound healing assays, qPCR, immunofluorescence, coimmunoprecipitation and western blotting were used to explore the effect of stress-induced epinephrine on the CEBPB/TRIM2/P53 axis and the progress of CRC cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In this study, we found that stress-induced epinephrine (EPI) promotes the proliferation, metastasis and CSC generation of CRC primarily through the β2-adrenergic receptor. Furthermore, our studies also confirmed that chronic stress decreased the stability of p53 protein by promoting p53 ubiquitination. Results of transcriptome sequencing indicated that TRIM2 was overexpressed in cells treated with EPI. Further studies indicated that TRIM2 could regulate the stability of p53 protein by promoting p53 ubiquitination. Finally, we further proved that CEBPB was regulated by EPI and acts as the upstream transcription factor of TRIM2.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our studies proved that stress-induced EPI promotes the development and stemness of CRC through the CEBPB/TRIM2/P53 axis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>TRIM27 cooperates with STK38L to inhibit ULK1-mediated autophagy and promote tumorigenesis</title>
+      <link>https://example.com/article/35670107/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35670107/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy represents a fundamental mechanism for maintaining cell survival and tissue homeostasis in response to physiological and pathological stress. Autophagy initiation converges on the FIP200-ATG13-ULK1 complex wherein the serine/threonine kinase ULK1 plays a central role. Here, we reveal that the E3 ubiquitin ligase TRIM27 functions as a negative regulatory component of the FIP200-ATG13-ULK1 complex. TRIM27 directly polyubiquitinates ULK1 at K568 and K571 sites with K48-linked ubiquitin chains, with proteasomal turnover maintaining control over basal ULK1 levels. However, during starvation-induced autophagy, TRIM27 catalyzes non-degradative K6- and K11-linked ubiquitination of the serine/threonine kinase 38-like (STK38L) kinase. In turn, STK38L ubiquitination promotes its activation and phosphorylation of ULK1 at Ser495, rendering ULK1 in a permissive state for TRIM27-mediated hyper-ubiquitination of ULK1. This cooperative mechanism serves to restrain the amplitude and duration of autophagy. Further evidence from mouse models shows that basal autophagy levels are increased in Trim27 knockout mice and that Trim27 differentially regulates tumorigenesis and metastasis. Our study identifies a key role of STK38L-TRIM27-ULK1 signaling axis in negatively controlling autophagy with relevance established in human breast cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4753,6 +5099,98 @@
     </item>
     
     <item>
+      <title>Implications of Hyperoxia over the Tumor Microenvironment: An Overview Highlighting the Importance of the Immune System</title>
+      <link>https://example.com/review/35681719/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35681719/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hyperoxia is used in order to counteract hypoxia effects in the TME (tumor microenvironment), which are described to boost the malignant tumor phenotype and poor prognosis. The reduction of tumor hypoxic state through the formation of a non-aberrant vasculature or an increase in the toxicity of the therapeutic agent improves the efficacy of therapies such as chemotherapy. Radiotherapy efficacy has also improved, where apoptotic mechanisms seem to be implicated. Moreover, hyperoxia increases the antitumor immunity through diverse pathways, leading to an immunopermissive TME. Although hyperoxia is an approved treatment for preventing and treating hypoxemia, it has harmful side-effects. Prolonged exposure to high oxygen levels may cause acute lung injury, characterized by an exacerbated immune response, and the destruction of the alveolar-capillary barrier. Furthermore, under this situation, the high concentration of ROS may cause toxicity that will lead not only to cell death but also to an increase in chemoattractant and proinflammatory cytokine secretion. This would end in a lung leukocyte recruitment and, therefore, lung damage. Moreover, unregulated inflammation causes different consequences promoting tumor development and metastasis. This process is known as protumor inflammation, where different cell types and molecules are implicated; for instance, IL-1β has been described as a key cytokine. Although current results show benefits over cancer therapies using hyperoxia, further studies need to be conducted, not only to improve tumor regression, but also to prevent its collateral damage.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intracellular complement C5a/C5aR1 stabilizes β-catenin to promote colorectal tumorigenesis</title>
+      <link>https://example.com/article/35649359/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35649359/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Colonic epithelial cells contain intracellular stores of complement C5 and C5aR1&lt;/li&gt;
+&lt;li&gt;Cathepsin D cleaves C5 to produce C5a in lysosomes and endosomes&lt;/li&gt;
+&lt;li&gt;The C5a/C5aR1/KCTD5/cullin3/Roc-1 complex potentiates β-catenin stability&lt;/li&gt;
+&lt;li&gt;Genetic loss or pharmacological blockade of C5aR1 impedes colorectal tumorigenesis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Complement is operative in not only the extracellular but also the intracellular milieu. However, little is known about the role of complement activation inside tumor cells. Here, we report that intracellular C5 is cleaved by cathepsin D (CTSD) to produce C5a in lysosomes and endosomes of colonic cancer cells. After stimulation by C5a, intracellular C5aR1 assembles a complex with KCTD5/cullin3/Roc-1 and β-catenin to promote the switch of polyubiquitination of β-catenin from K48 to K63, which enhances β-catenin stability. Genetic loss or pharmacological blockade of C5aR1 dramatically impedes colorectal tumorigenesis at least by destabilizing β-catenin. In human colorectal cancer specimens, high levels of C5aR1, C5a, and CTSD are closely correlated with elevated β-catenin levels and a poor prognosis. Importantly, intracellular C5a/C5aR1-mediated β-catenin stabilization is also observed ubiquitously in other cell types. Collectively, we identify a machinery for β-catenin activation and provide a potential target for tumor prevention and treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Design and synthesis of highly TRAIL expression HDAC inhibitors based on ONC201 to promote apoptosis of colorectal cancer</title>
+      <link>https://example.com/article/35649291/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35649291/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Corrigendum to &amp;ldquo;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0223523422004706&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Design and synthesis of highly TRAIL expression HDAC inhibitors based on ONC201 to promote apoptosis of colorectal cancer&lt;/em&gt;&lt;/a&gt;&amp;rdquo; [Eur. J. Med. Chem. 238 (2022) 1-20/114484].&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compound IIc is a novel and effective highly TRAIL-sensitive HDAC inhibitors.&lt;/li&gt;
+&lt;li&gt;IIc mediated HCT-116 cell apoptosis through the TRAIL-induced apoptosis signaling pathway.&lt;/li&gt;
+&lt;li&gt;IIc showed good antitumor efficacy in HCT-116 xenograft model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Activation of the TRAIL proapoptotic pathway can promote cancer cell apoptosis. Histone deacetylases (HDACs) also are promising drug targets for cancers, and their synergistic effect with TRAIL can improve the inhibitory effect on cancer cells. Therefore, the development of highly TRAIL-sensitive HDAC inhibitors might be a promising strategy for the treatment of cancers. We synthesized a series of HDAC inhibitors by introducing effective fragments sensitive to TRAIL. Compound IIc showed good inhibitory activity against HDAC1 and HCT116 cells and showed higher sensitivity to activating the expression of the TRAIL protein and promoting the apoptosis of HCT-116 cells compared with ONC201. The inhibitory activity of compound IIc (25 mg/kg) in the HCT-116 xenograft model was significantly greater than those of the positive control drugs (ONC201, chidamide). These findings suggested that development of highly TRAIL-sensitive HDAC inhibitors as colorectal tumor cancer drugs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Targeting ferroptosis as a vulnerability in cancer</title>
       <link>https://example.com/review/35338310/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
@@ -4778,6 +5216,38 @@
     </item>
     
     <item>
+      <title>Dual-hairpin ligation amplification enabled ultra-sensitive and selective ATP detection for cancer monitor</title>
+      <link>https://example.com/article/35653851/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35653851/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The detection is developed from DHLA, a new isothermal amplification technique with ultra-high signal-to-noise ratio.&lt;/li&gt;
+&lt;li&gt;The detection is ultra-sensitive with a ∼fM level sensitivity, being of magnitude lower than previously reported.&lt;/li&gt;
+&lt;li&gt;The detection is ultra-selective to ATP from its analogues, such as GTP, CTP, UTP and adenosine.&lt;/li&gt;
+&lt;li&gt;It has been successfully utilized to detect ATP from colon cell line and cell culture medium.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Abnormal concentration of ATP is related to many diseases such as Parkinson&amp;rsquo;s disease, hypoglycaemia, inflammation and cancer. However, most of the reported strategies exhibit moderate sensitivity with ∼nM level detection limit and few of them can distinguish ATP from its analogues, such as GTP, CTP, UTP and adenosine. Herein, we report an ultra-sensitive and selective ATP detection strategy that combines dual hairpin ligation-induced isothermal amplification (DHLA) with ATP-dependent enzymatic reaction. A good linear relationship between Cq value and ATP concentration in the range from 16 fM to 160 nM is acquired. Meanwhile, the strategy can distinguish ATP from its analogues with high selectivity. Furthermore, our proposed strategy has been successfully utilized to detect ATP from colon cell line and cell culture media with great potential applications in cell metabolism and cancer diagnosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>PHGDH heterogeneity potentiates cancer cell dissemination and metastasis</title>
       <link>https://example.com/article/35585241/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
@@ -4788,6 +5258,56 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cancer metastasis requires the transient activation of cellular programs enabling dissemination and seeding in distant organs. Genetic, transcriptional and translational heterogeneity contributes to this dynamic process. Metabolic heterogeneity has also been observed, yet its role in cancer progression is less explored. Here we find that the loss of phosphoglycerate dehydrogenase (PHGDH) potentiates metastatic dissemination. Specifically, we find that heterogeneous or low PHGDH expression in primary tumours of patients with breast cancer is associated with decreased metastasis-free survival time. In mice, circulating tumour cells and early metastatic lesions are enriched with Phgdh&lt;sup&gt;low&lt;/sup&gt; cancer cells, and silencing Phgdh in primary tumours increases metastasis formation. Mechanistically, Phgdh interacts with the glycolytic enzyme phosphofructokinase, and the loss of this interaction activates the hexosamine-sialic acid pathway, which provides precursors for protein glycosylation. As a consequence, aberrant protein glycosylation occurs, including increased sialylation of integrin α&lt;sub&gt;v&lt;/sub&gt;β&lt;sub&gt;3&lt;/sub&gt;, which potentiates cell migration and invasion. Inhibition of sialylation counteracts the metastatic ability of Phgdh&lt;sup&gt;low&lt;/sup&gt; cancer cells. In conclusion, although the catalytic activity of PHGDH supports cancer cell proliferation, low PHGDH protein expression non-catalytically potentiates cancer dissemination and metastasis formation. Thus, the presence of PHDGH heterogeneity in primary tumours could be considered a sign of tumour aggressiveness.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tumor-Derived Lactate Creates a Favorable Niche for Tumor via Supplying Energy Source for Tumor and Modulating the Tumor Microenvironment</title>
+      <link>https://example.com/review/35646923/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35646923/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tumor evolution is influenced by events involving tumor cells and the environment in which they live, known as the tumor microenvironment (TME). TME is a functional and structural niche composed of tumor cells, endothelial cells (ECs), cancer-associated fibroblasts (CAFs), mesenchymal stromal cells (MSCs), and a subset of immune cells (macrophages, dendritic cells, natural killer cells, T cells, B cells). Otto Warburg revealed the Warburg effect in 1923, a characteristic metabolic mechanism of tumor cells that performs high glucose uptake and excessive lactate formation even in abundant oxygen. Tumor tissues excrete a large amount of lactate into the extracellular microenvironment in response to TME&amp;rsquo;s hypoxic or semi-hypoxic state. High lactate concentrations in tumor biopsies have been linked to metastasis and poor clinical outcome. This indicates that the metabolite may play a role in carcinogenesis and lead to immune escape in TME. Lactate is now recognized as an essential carbon source for cellular metabolism and as a signaling molecule in TME, forming an active niche that influences tumor progression. This review summarized the advanced literature demonstrating the functional role of lactate in TME remodeling, elucidating how lactate shapes the behavior and the phenotype of both tumor cells and tumor-associated cells. We also concluded the intriguing interactions of multiple immune cells in TME. Additionally, we demonstrated how lactate functioned as a novel function factor by being used in a new histone modification, histone lysine lactylation, and to regulate gene expression in TME. Ultimately, because lactate created a favorable niche for tumor progression, we summarized potential anti-tumor strategies targeting lactate metabolism and signaling to investigate better cancer treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of PANoptosis-Related LncRNA-miRNA-mRNA Network Reveals LncRNA SNHG7 Involved in Chemo-Resistance in Colon Adenocarcinoma</title>
+      <link>https://example.com/article/35646635/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35646635/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colon adenocarcinoma (COAD) is one of the most common malignancies, and its metastatic lesions are the leading cause of death in COAD patients. PANoptosis is a recently identified pathway for programmed cell death implicated in developing COAD. Long non-coding RNAs (lncRNAs) are key regulators of cancer occurrence and progress. Although their function has captured much attention in COAD, the relationship between COAD metastasis-associated lncRNA expression and PANoptosis remains elusive. Therefore, this study aimed to explore the potential regulatory roles of metastasis- and PANoptosis-associated lncRNAs in COAD. Nine lncRNAs associated with metastasis and PANoptosis in COAD were identified from The Cancer Genome Atlas (TCGA) and GEO databases. Their functions were analyzed by multiple bioinformatics methods, and the lncRNA-miRNA-mRNA network was constructed. Multivariate Cox analysis identified one lncRNA (SNHG7) significantly related to COAD prognosis. Subsequent analyses showed its expression correlated with tumor stage and lymph node metastasis. Moreover, drug sensitivity analysis and in vitro experiments suggest that lncRNA SNHG7 contributes to drug resistance in COAD. In summary, lncRNA SNHG7 is a potential target for diagnosing and treating COAD and plays a crucial role in regulating apoptosis, metastasis, and drug resistance in COAD.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4845,6 +5365,38 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Patient-derived micro-organospheres enable clinical precision oncology</title>
+      <link>https://example.com/article/35508177/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35508177/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clinical-biopsy-derived MOSs enable rapid drug testing in 14 days&lt;/li&gt;
+&lt;li&gt;MOSs maintain patient tumor microenvironment&lt;/li&gt;
+&lt;li&gt;MOSs capture patient tumor response to immunotherapy&lt;/li&gt;
+&lt;li&gt;MOS assay to test T cell potency against patient tumor for adoptive cell therapy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Patient-derived xenografts (PDXs) and patient-derived organoids (PDOs) have been shown to model clinical response to cancer therapy. However, it remains challenging to use these models to guide timely clinical decisions for cancer patients. Here, we used droplet emulsion microfluidics with temperature control and dead-volume minimization to rapidly generate thousands of micro-organospheres (MOSs) from low-volume patient tissues, which serve as an ideal patient-derived model for clinical precision oncology. A clinical study of recently diagnosed metastatic colorectal cancer (CRC) patients using an MOS-based precision oncology pipeline reliably assessed tumor drug response within 14 days, a timeline suitable for guiding treatment decisions in the clinic. Furthermore, MOSs capture original stromal cells and allow T cell penetration, providing a clinical assay for testing immuno-oncology (IO) therapies such as PD-1 blockade, bispecific antibodies, and T cell therapies on patient tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -4954,6 +5506,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The pseudogenes of eukaryotic translation elongation factors (EEFs): Role in cancer and other human diseases</title>
+      <link>https://example.com/review/35685457/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35685457/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The eukaryotic translation elongation factors (EEFs), i.e. &lt;em&gt;EEF1A1&lt;/em&gt;, &lt;em&gt;EEF1A2&lt;/em&gt;, &lt;em&gt;EEF1B2&lt;/em&gt;, &lt;em&gt;EEF1D&lt;/em&gt;, &lt;em&gt;EEF1G&lt;/em&gt;, &lt;em&gt;EEF1E1&lt;/em&gt; and &lt;em&gt;EEF2&lt;/em&gt;, are coding-genes that play a central role in the elongation step of translation but are often altered in cancer. Less investigated are their pseudogenes. Recently, it was demonstrated that pseudogenes have a key regulatory role in the cell, especially via non-coding RNAs, and that the aberrant expression of ncRNAs has an important role in cancer development and progression. The present review paper, for the first time, collects all that published about the EEFs pseudogenes to create a base for future investigations. For most of them, the studies are in their infancy, while for others the studies suggest their involvement in normal cell physiology but also in various human diseases. However, more investigations are needed to understand their functions in both normal and cancer cells and to define which can be useful biomarkers or therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -5638,6 +6215,34 @@
     </item>
     
     <item>
+      <title>Modeling Clinical Responses to Targeted Therapies by Patient-Derived Organoids of Advanced Lung Adenocarcinoma</title>
+      <link>https://example.com/article/34083237/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34083237/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; Patient-derived organoids (PDO) of lung cancer has been recently introduced, reflecting the genomic landscape of lung cancer. However, clinical relevance of advanced lung adenocarcinoma organoids remains unknown. Here, we examined the ability of PDOs to predict clinical responses to targeted therapies in individual patients and to identify effective anticancer therapies for novel molecular targets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Experimental design:&lt;/em&gt; Eighty-four organoids were established from patients with advanced lung adenocarcinoma. Formalin-fixed, paraffin-embedded tumor specimens from corresponding patients were analyzed by whole-exome sequencing (n = 12). Organoids were analyzed by whole-exome sequencing (n = 61) and RNA sequencing (n = 55). Responses to mono or combination targeted therapies were examined in organoids and organoid-derived xenografts.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; PDOs largely retained somatic alterations including driver mutations of matching patient tumors. PDOs were able to recapitulate progression-free survival and objective responses of patients with non-small cell lung cancer receiving clinically approved tyrosine kinase inhibitors. PDOs recapitulated activity of therapeutic strategies under clinical investigation. YUO-071 harboring an &lt;em&gt;EGFR&lt;/em&gt; exon 19 deletion and a &lt;em&gt;BRAF&lt;/em&gt; G464A mutation and the matching patient responded to dabrafenib/trametinib combination therapy. YUO-004 and YUO-050 harboring an &lt;em&gt;EGFR&lt;/em&gt; L747P mutation was sensitive to afatinib, consistent with the response in the matching patient of YUO-050. Furthermore, we utilized organoids to identify effective therapies for novel molecular targets by demonstrating the efficacy of poziotinib against &lt;em&gt;ERBB2&lt;/em&gt; exon 20 insertions and pralsetinib against &lt;em&gt;RET&lt;/em&gt; fusions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; We demonstrated translational relevance of PDOs in advanced lung adenocarcinoma. PDOs are an important diagnostic tool, which can assist clinical decision making and accelerate development of therapeutic strategies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The PP2A-Integrator-CDK9 axis fine-tunes transcription and can be targeted therapeutically in cancer</title>
       <link>https://example.com/article/34004147/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -5769,6 +6374,31 @@
       <guid>https://example.com/article/33979578/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Blockade of the inhibitory receptor TIM-3 shows efficacy in cancer immunotherapy clinical trials. TIM-3 inhibits production of the chemokine CXCL9 by XCR1&lt;sup&gt;+&lt;/sup&gt; classical dendritic cells (cDC1), thereby limiting antitumor immunity in mammary carcinomas. We found that increased CXCL9 expression by splenic cDC1s upon TIM-3 blockade required type I interferons and extracellular DNA. Chemokine expression as well as combinatorial efficacy of TIM-3 blockade and paclitaxel chemotherapy were impaired by deletion of Cgas and Sting. TIM-3 blockade increased uptake of extracellular DNA by cDC1 through an endocytic process that resulted in cytoplasmic localization. DNA uptake and efficacy of TIM-3 blockade required DNA binding by HMGB1, while galectin-9-induced cell surface clustering of TIM-3 was necessary for its suppressive function. Human peripheral blood cDC1s also took up extracellular DNA upon TIM-3 blockade. Thus, TIM-3 regulates endocytosis of extracellular DNA and activation of the cytoplasmic DNA sensing cGAS-STING pathway in cDC1s, with implications for understanding the mechanisms underlying TIM-3 immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lung cancer organoids analyzed on microwell arrays predict drug responses of patients within a week</title>
+      <link>https://example.com/article/33972544/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33972544/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While the potential of patient-derived organoids (PDOs) to predict patients&amp;rsquo; responses to anti-cancer treatments has been well recognized, the lengthy time and the low efficiency in establishing PDOs hamper the implementation of PDO-based drug sensitivity tests in clinics. We first adapt a mechanical sample processing method to generate lung cancer organoids (LCOs) from surgically resected and biopsy tumor tissues. The LCOs recapitulate the histological and genetic features of the parental tumors and have the potential to expand indefinitely. By employing an integrated superhydrophobic microwell array chip (InSMAR-chip), we demonstrate hundreds of LCOs, a number that can be generated from most of the samples at passage 0, are sufficient to produce clinically meaningful drug responses within a week. The results prove our one-week drug tests are in good agreement with patient-derived xenografts, genetic mutations of tumors, and clinical outcomes. The LCO model coupled with the microwell device provides a technically feasible means for predicting patient-specific drug responses in clinical settings.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6047,6 +6677,31 @@
     </item>
     
     <item>
+      <title>Downregulation of nc886 contributes to prostate cancer cell invasion and TGFβ1-induced EMT</title>
+      <link>https://example.com/article/35685460/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35685460/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epithelial-to-mesenchymal transition (EMT) activation is important in cancer progression and metastasis. Evidence indicates that &lt;em&gt;nc886&lt;/em&gt; is a representative Pol III gene that processes microRNA products via Dicer and further downregulates its target gene transforming growth factor- β1 (TGF-β1), which is the most prominent inducer of EMT in prostate cancer (PC). Consistent with the previous literature, we found that &lt;em&gt;nc886&lt;/em&gt; downregulation was strongly associated with metastatic behavior and showed worse outcomes in PC patients. However, little is known about the association between &lt;em&gt;nc886&lt;/em&gt; and the EMT signaling pathway. We developed a PC cell model with stable overexpression of &lt;em&gt;nc886&lt;/em&gt; and found that &lt;em&gt;nc886&lt;/em&gt; changed cellular morphology and drove MET. The underlying mechanism may be related to its promotion of SNAIL protein degradation via ubiquitination, but not to its neighboring genes, TGFβ-induced protein (&lt;em&gt;TGFBI&lt;/em&gt;) and &lt;em&gt;SMAD5&lt;/em&gt;, which are Pol II-transcribed. TGF-β1 also override &lt;em&gt;nc886&lt;/em&gt; promotion of MET via transient suppression the transcription of &lt;em&gt;nc886&lt;/em&gt;, promotion of &lt;em&gt;TGFBI&lt;/em&gt; or increase in SMAD5 phosphorylation. Both &lt;em&gt;nc886&lt;/em&gt; inhibition and &lt;em&gt;TGFBI&lt;/em&gt; activation occur regardless of their methylation status. The literature suggests that MYC inhibition by TGF-β1 is attributed to &lt;em&gt;nc886&lt;/em&gt; downregulation. We incidentally identified MYC-associated zinc finger protein (MAZ) as a suppressive transcription factor of TGFBI, which is controlled by TGF-β1. We elucidate a new mechanism of TGF-β1 differential control of Pol II and the transcription of its neighboring Pol III gene and identify a new EMT unit consisting of &lt;em&gt;nc886&lt;/em&gt; and its neighboring genes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Broadening horizons: the role of ferroptosis in cancer</title>
       <link>https://example.com/review/33514910/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
@@ -6303,6 +6958,38 @@
     </item>
     
     <item>
+      <title>Organoids Model Transcriptional Hallmarks of Oncogenic KRAS Activation in Lung Epithelial Progenitor Cells</title>
+      <link>https://example.com/article/32891189/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32891189/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alveolar epithelial progenitor cells are transcriptionally distinct upon KRAS expression&lt;/li&gt;
+&lt;li&gt;Alveolar epithelial organoids recapitulate early-stage lung adenocarcinoma&lt;/li&gt;
+&lt;li&gt;Oncogenic KRAS leads to loss of lineage identity in AT2 cells&lt;/li&gt;
+&lt;li&gt;Bulk, scRNA-seq, and proteomics data from murine and human KRAS mutant AT2 cells&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mutant KRAS is a common driver in epithelial cancers. Nevertheless, molecular changes occurring early after activation of oncogenic KRAS in epithelial cells remain poorly understood. We compared transcriptional changes at single-cell resolution after KRAS activation in four sample sets. In addition to patient samples and genetically engineered mouse models, we developed organoid systems from primary mouse and human induced pluripotent stem cell-derived lung epithelial cells to model early-stage lung adenocarcinoma. In all four settings, alveolar epithelial progenitor (AT2) cells expressing oncogenic KRAS had reduced expression of mature lineage identity genes. These findings demonstrate the utility of our in vitro organoid approaches for uncovering the early consequences of oncogenic KRAS expression. This resource provides an extensive collection of datasets and describes organoid tools to study the transcriptional and proteomic changes that distinguish normal epithelial progenitor cells from early-stage lung cancer, facilitating the search for targets for KRAS-driven tumors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>PIWIL1 promotes gastric cancer via a piRNA-independent mechanism</title>
       <link>https://example.com/article/32848063/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
@@ -6420,6 +7107,31 @@
       <guid>https://example.com/review/32694624/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Neutrophils play a key role in defence against infection and in the activation and regulation of innate and adaptive immunity. In cancer, tumour-associated neutrophils (TANs) have emerged as an important component of the tumour microenvironment. Here, they can exert dual functions. TANs can be part of tumour-promoting inflammation by driving angiogenesis, extracellular matrix remodelling, metastasis and immunosuppression. Conversely, neutrophils can also mediate antitumour responses by direct killing of tumour cells and by participating in cellular networks that mediate antitumour resistance. Neutrophil diversity and plasticity underlie the dual potential of TANs in the tumour microenvironment. Myeloid checkpoints as well as the tumour and tissue contexture shape neutrophil function in response to conventional therapies and immunotherapy. We surmise that neutrophils can provide tools to tailor current immunotherapy strategies and pave the way to myeloid cell-centred therapeutic strategies, which would be complementary to current approaches.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Roadmap for the Future of Colorectal Cancer Screening in the United States</title>
+      <link>https://example.com/review/32634626/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/32634626/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The American Gastroenterological Association&amp;rsquo;s Center for Gastrointestinal Innovation and Technology convened a consensus conference in December 2018, entitled, &amp;ldquo;Colorectal Cancer Screening and Surveillance: Role of Emerging Technology and Innovation to Improve Outcomes.&amp;rdquo; The goal of the conference, which attracted more than 60 experts in screening and related disciplines, including the authors, was to envision a future in which colorectal cancer (CRC) screening and surveillance are optimized, and to identify barriers to achieving that future. This White Paper originates from that meeting and delineates the priorities and steps needed to improve CRC outcomes, with the goal of minimizing CRC morbidity and mortality. A one-size-fits-all approach to CRC screening has not and is unlikely to result in increased screening uptake or desired outcomes owing to barriers stemming from behavioral, cultural, and socioeconomic causes, especially when combined with inefficiencies in deployment of screening technologies. Overcoming these barriers will require the following: efficient utilization of multiple screening modalities to achieve increased uptake; continued development of noninvasive screening tests, with iterative reassessments of how best to integrate new technologies; and improved personal risk assessment to better risk-stratify patients for appropriate screening testing paradigms.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6738,6 +7450,31 @@
     </item>
     
     <item>
+      <title>Tumor organoid-T-cell coculture systems</title>
+      <link>https://example.com/article/31853056/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31853056/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;T cells are key players in cancer immunotherapy, but strategies to expand tumor-reactive cells and study their interactions with tumor cells at the level of an individual patient are limited. Here we describe the generation and functional assessment of tumor-reactive T cells based on cocultures of tumor organoids and autologous peripheral blood lymphocytes. The procedure consists of an initial coculture of 2 weeks, in which tumor-reactive T cells are first expanded in the presence of (IFNγ-stimulated) autologous tumor cells. Subsequently, T cells are evaluated for their capacity to carry out effector functions (IFNγ secretion and degranulation) after recognition of tumor cells, and their capacity to kill tumor organoids. This strategy is unique in its use of peripheral blood as a source of tumor-reactive T cells in an antigen-agnostic manner. In 2 weeks, tumor-reactive CD8+ T-cell populations can be obtained from ~33-50% of samples from patients with non-small-cell lung cancer (NSCLC) and microsatellite-instable colorectal cancer (CRC). This enables the establishment of ex vivo test systems for T-cell-based immunotherapy at the level of the individual patient.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>LncRNA-HGBC stabilized by HuR promotes gallbladder cancer progression by regulating miR-502-3p/SET/AKT axis</title>
       <link>https://example.com/article/31752906/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
@@ -6755,6 +7492,34 @@
 &lt;p&gt;We found that lncRNA-HGBC was upregulated in GBC and its upregulation could predict poor survival. Overexpression or knockdown of lncRNA-HGBC in GBC cell lines resulted in increased or decreased, respectively, cell proliferation and invasion in vitro and in xenografted tumors. LncRNA-HGBC specifically bound to RNA binding protein Hu Antigen R (HuR) that in turn stabilized lncRNA-HGBC. LncRNA-HGBC functioned as a competitive endogenous RNA to bind to miR-502-3p that inhibits target gene SET. Overexpression, knockdown or mutation of lncRNA-HGBC altered the inhibitory effects of miR-502-3p on SET expression and downstream activation of AKT. Clinically, lncRNA-HGBC expression was negatively correlated with miR-502-3p, but positively correlated with SET and HuR in GBC tissue.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Our study demonstrates that lncRNA-HGBC promotes GBC metastasis via activation of the miR-502-3p-SET-AKT cascade, pointing to lncRNA-HGBC as a new prognostic predictor and a therapeutic target.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Organoid Cultures as Preclinical Models of Non-Small Cell Lung Cancer</title>
+      <link>https://example.com/article/31694835/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31694835/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; Non-small cell lung cancer (NSCLC) is the most common cause of cancer-related deaths worldwide. There is an unmet need to develop novel clinically relevant models of NSCLC to accelerate identification of drug targets and our understanding of the disease.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Experimental design:&lt;/em&gt; Thirty surgically resected NSCLC primary patient tissue and 35 previously established patient-derived xenograft (PDX) models were processed for organoid culture establishment. Organoids were histologically and molecularly characterized by cytology and histology, exome sequencing, and RNA-sequencing analysis. Tumorigenicity was assessed through subcutaneous injection of organoids in NOD/SCID mice. Organoids were subjected to drug testing using EGFR, FGFR, and MEK-targeted therapies.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We have identified cell culture conditions favoring the establishment of short-term and long-term expansion of NSCLC organoids derived from primary lung patient and PDX tumor tissue. The NSCLC organoids recapitulated the histology of the patient and PDX tumor. They also retained tumorigenicity, as evidenced by cytologic features of malignancy, xenograft formation, preservation of mutations, copy number aberrations, and gene expression profiles between the organoid and matched parental tumor tissue by whole-exome and RNA sequencing. NSCLC organoid models also preserved the sensitivity of the matched parental tumor to targeted therapeutics, and could be used to validate or discover biomarker-drug combinations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our panel of NSCLC organoids closely recapitulates the genomics and biology of patient tumors, and is a potential platform for drug testing and biomarker validation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6810,6 +7575,31 @@
       <guid>https://example.com/article/31636463/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Natural killer (NK) cells have crucial roles in tumor surveillance. We found that tumor-infiltrating NK cells in human liver cancers had small, fragmented mitochondria in their cytoplasm, whereas liver NK cells outside tumors, as well as peripheral NK cells, had normal large, tubular mitochondria. This fragmentation was correlated with reduced cytotoxicity and NK cell loss, resulting in tumor evasion of NK cell-mediated surveillance, which predicted poor survival in patients with liver cancer. The hypoxic tumor microenvironment drove the sustained activation of mechanistic target of rapamycin-GTPase dynamin-related protein 1 (mTOR-Drp1) in NK cells, resulting in excessive mitochondrial fission into fragments. Inhibition of mitochondrial fragmentation improved mitochondrial metabolism, survival and the antitumor capacity of NK cells. These data reveal a mechanism of immune escape that might be targetable and could invigorate NK cell-based cancer treatments.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Patient-derived lung cancer organoids as in vitro cancer models for therapeutic screening</title>
+      <link>https://example.com/article/31488816/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/31488816/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lung cancer shows substantial genetic and phenotypic heterogeneity across individuals, driving a need for personalised medicine. Here, we report lung cancer organoids and normal bronchial organoids established from patient tissues comprising five histological subtypes of lung cancer and non-neoplastic bronchial mucosa as in vitro models representing individual patient. The lung cancer organoids recapitulate the tissue architecture of the primary lung tumours and maintain the genomic alterations of the original tumours during long-term expansion in vitro. The normal bronchial organoids maintain cellular components of normal bronchial mucosa. Lung cancer organoids respond to drugs based on their genomic alterations: a BRCA2-mutant organoid to olaparib, an EGFR-mutant organoid to erlotinib, and an EGFR-mutant/MET-amplified organoid to crizotinib. Considering the short length of time from organoid establishment to drug testing, our newly developed model may prove useful for predicting patient-specific drug responses through in vitro patient-specific drug trials.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6966,6 +7756,60 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
+      <link>https://example.com/article/29396402/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29396402/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Author Correction: &lt;a href=&#34;https://www.nature.com/articles/s41467-022-31011-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Though used widely in cancer therapy, paclitaxel only elicits a response in a fraction of patients. A strong determinant of paclitaxel tumor response is the state of microtubule dynamic instability. However, whether the manipulation of this physiological process can be controlled to enhance paclitaxel response has not been tested. Here, we show a previously unrecognized role of the microtubule-associated protein CRMP2 in inducing microtubule bundling through its carboxy terminus. This activity is significantly decreased when the FER tyrosine kinase phosphorylates CRMP2 at Y479 and Y499. The crystal structures of wild-type CRMP2 and CRMP2-Y479E reveal how mimicking phosphorylation prevents tetramerization of CRMP2. Depletion of FER or reducing its catalytic activity using sub-therapeutic doses of inhibitors increases paclitaxel-induced microtubule stability and cytotoxicity in ovarian cancer cells and in vivo. This work provides a rationale for inhibiting FER-mediated CRMP2 phosphorylation to enhance paclitaxel on-target activity for cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Human primary liver cancer-derived organoid cultures for disease modeling and drug screening</title>
+      <link>https://example.com/article/29131160/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/29131160/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human liver cancer research currently lacks in vitro models that can faithfully recapitulate the pathophysiology of the original tumor. We recently described a novel, near-physiological organoid culture system, wherein primary human healthy liver cells form long-term expanding organoids that retain liver tissue function and genetic stability. Here we extend this culture system to the propagation of primary liver cancer (PLC) organoids from three of the most common PLC subtypes: hepatocellular carcinoma (HCC), cholangiocarcinoma (CC) and combined HCC/CC (CHC) tumors. PLC-derived organoid cultures preserve the histological architecture, gene expression and genomic landscape of the original tumor, allowing for discrimination between different tumor tissues and subtypes, even after long-term expansion in culture in the same medium conditions. Xenograft studies demonstrate that the tumorogenic potential, histological features and metastatic properties of PLC-derived organoids are preserved in vivo. PLC-derived organoids are amenable for biomarker identification and drug-screening testing and led to the identification of the ERK inhibitor SCH772984 as a potential therapeutic agent for primary liver cancer. We thus demonstrate the wide-ranging biomedical utilities of PLC-derived organoid models in furthering the understanding of liver cancer biology and in developing personalized-medicine approaches for the disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

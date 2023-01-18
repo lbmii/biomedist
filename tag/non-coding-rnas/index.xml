@@ -5,12 +5,42 @@
     <link>https://example.com/tag/non-coding-rnas/</link>
       <atom:link href="https://example.com/tag/non-coding-rnas/index.xml" rel="self" type="application/rss+xml" />
     <description>non-coding RNAs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>non-coding RNAs</title>
       <link>https://example.com/tag/non-coding-rnas/</link>
     </image>
+    
+    <item>
+      <title>LncRNA BC promotes lung adenocarcinoma progression by modulating IMPAD1 alternative splicing</title>
+      <link>https://example.com/article/36650118/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650118/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The therapeutic value of targeted therapies in patients with lung cancer is reduced when tumours acquire secondary resistance after an initial period of successful treatment. However, the molecular events behind the resistance to targeted therapies in lung cancer remain largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; To discover the important role and mechanism of lncRNA BC in promoting tumor metastasis and influencing clinical prognosis of LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materials &amp;amp; methods:&lt;/em&gt; Microarrays were used to screen a comprehensive set of lncRNAs with differential expression profiles in lung cancer cells. The functional role and mechanism of lncRNA were further investigated by gain- and loss-of-function assays. RNA pull-down, protein assays, and mass spectrometry were used to identify proteins that interacted with lncRNA. TaqMan PCR was used to measure lncRNA in lung adenocarcinoma and adjacent nontumor tissues from 428 patients. The clinical significance of lncRNA identified was statistically confirmed in this cohort of patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In this study, we show that the long non-coding RNA BC009639 (BC) is involved in acquired resistance to EGFR-targeted therapies. Among the 235 long non-coding RNAs that were differentially expressed in lung cancer cell lines, with different metastatic potentials, BC promoted growth, invasion, metastasis, and resistance to EGFR-tyrosine kinase inhibitors (EGFR-TKIs), both in vitro and in vivo. BC was highly expressed in 428 patients with lung adenocarcinoma (LUAD) and high BC expression correlated with reduced efficacy of EGFR-TKI therapy. To uncover the molecular mechanism of BC-mediated EGFR-TKI resistance in lung cancer, we screened and identified nucleolin and hnRNPK that interact with BC. BC formed the splicing complex with nucleolin and hnRNPK to facilitate the production of a non-protein-coding inositol monophosphatase domain containing 1 (IMPAD1) splice variant, instead of the protein-coding variant. The BC-mediated alternative splicing (AS) of IMPAD1 resulted in the induction of the epithelial-mesenchymal transition and resistance to EGFR-TKI in lung cancer. High BC expression correlated with clinical progress and poor survival among 402 patients with LUAD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disscussion:&lt;/em&gt; Through alternative splicing, BC boosted the non-coding IMPAD1-203 transcript variant while suppressing the IMPAD1-201 variant. In order to control the processing of pre-mRNA, BC not only attracted RNA binding proteins (NCL, IGF2BP1) or splicing factors (hnRNPK), but also controlled the formation of the splicing-regulator complex by creating RNA-RNA-duplexes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our results reveal an important role for BC in mediating resistance to EGFR-targeted therapy in LUAD through IMPAD1 AS and in implication for the targeted therapy resistance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Synthetic circular RNA switches and circuits that control protein expression in mammalian cells</title>
@@ -3594,12 +3624,134 @@
     </item>
     
     <item>
+      <title>The role of circular RNAs in pulmonary hypertension</title>
+      <link>https://example.com/review/35680145/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35680145/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are endogenous, covalently circularised, non-protein-coding RNAs generated from back-splicing. Most circRNAs are very stable, highly conserved, and expressed in a tissue-, cell- and developmental stage-specific manner. circRNAs play a significant role in various biological processes, such as regulation of gene expression and protein translation via sponging of microRNAs and binding with RNA-binding proteins. circRNAs have become a topic of great interest in research due to their close link with the development of various diseases. Their high stability, conservation and abundance in body fluids make them promising biomarkers for many diseases. A growing body of evidence suggests that aberrant expression of circRNAs and their targets plays a crucial role in pulmonary vascular remodelling and pulmonary arterial hypertension (group 1) as well as other forms (groups 3 and 4) of pulmonary hypertension (PH). Here we discuss the roles and molecular mechanisms of circRNAs in the pathogenesis of pulmonary vascular remodelling and PH. We also highlight the therapeutic and biomarker potential of circRNAs in PH.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Structure and regulation of the nuclear exosome targeting complex guides RNA substrates to the exosome</title>
+      <link>https://example.com/article/35688157/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688157/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NEXT homodimerizes through two intertwined ZCCHC8 subunits&lt;/li&gt;
+&lt;li&gt;ZCCHC8 binds MTR4 with both constitutive and regulatory interactions&lt;/li&gt;
+&lt;li&gt;Stable MTR4 arch interactions orient the two helicases in opposite directions&lt;/li&gt;
+&lt;li&gt;Regulatory interactions at the MTR4 helicase domain guide RNA to the exosome&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In mammalian cells, spurious transcription results in a vast repertoire of unproductive non-coding RNAs, whose deleterious accumulation is prevented by rapid decay. The nuclear exosome targeting (NEXT) complex plays a central role in directing non-functional transcripts to exosome-mediated degradation, but the structural and molecular mechanisms remain enigmatic. Here, we elucidated the architecture of the human NEXT complex, showing that it exists as a dimer of MTR4-ZCCHC8-RBM7 heterotrimers. Dimerization preconfigures the major MTR4-binding region of ZCCHC8 and arranges the two MTR4 helicases opposite to each other, with each protomer able to function on many types of RNAs. In the inactive state of the complex, the 3&amp;rsquo; end of an RNA substrate is enclosed in the MTR4 helicase channel by a ZCCHC8 C-terminal gatekeeping domain. The architecture of a NEXT-exosome assembly points to the molecular and regulatory mechanisms with which the NEXT complex guides RNA substrates to the exosome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>TLR7 Mediates Acute Respiratory Distress Syndrome in Sepsis by Sensing Extracellular miR-146a</title>
       <link>https://example.com/article/35679261/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35679261/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;TLR7 (Toll-like receptor 7), the sensor for single-stranded RNA, contributes to systemic inflammation and mortality in murine polymicrobial sepsis. Recent studies show that extracellular miR-146a-5p serves as a TLR7 ligand and plays an important role in regulating host innate immunity. However, the role of miR-146a-5p and TLR7 signaling in pulmonary inflammation, endothelial activation, and sepsis-associated acute respiratory distress syndrome remains unclear. Here, we show that intratracheal administration of exogenous miR-146a-5p in mice evokes lung inflammation, activates endothelium, and increases endothelial permeability via TLR7-dependent mechanisms. TLR7 deficiency attenuates pulmonary barrier dysfunction and reduces lung inflammatory response in a murine sepsis model. Moreover, the impact of miR-146a-5p-TLR7 signaling on endothelial activation appears to be a secondary effect because TLR7 is undetectable in the human pulmonary artery and microvascular endothelial cells (ECs), which show no response to direct miR-146a-5p treatment &lt;em&gt;in vitro&lt;/em&gt;. Both conditioned media of miR-146a-5p-treated macrophages (Mϕ) and septic sera of wild-type mice induce a marked EC barrier disruption &lt;em&gt;in vitro&lt;/em&gt;, whereas Mϕ conditioned media or septic sera of &lt;em&gt;TLR7&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice do not exhibit such effect. Cytokine array and pathway enrichment analysis of the Mϕ conditioned media and septic sera identify TNFα (tumor necrosis factor α) as the main downstream effector of miR-146a-5p-TLR7 signaling responsible for the EC barrier dysfunction, which is further supported by neutralizing anti-TNFα antibody intervention. Together, these data demonstrate that TLR7 activation elicits pulmonary inflammation and endothelial barrier disruption by sensing extracellular miR-146a-5p and contributes to sepsis-associated acute respiratory distress syndrome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Exosomes deliver lncRNA DARS-AS1 siRNA to inhibit chronic unpredictable mild stress-induced TNBC metastasis</title>
+      <link>https://example.com/article/35688263/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688263/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exosomes are natural nanocarriers for efficient delivery of siRNA to recipient cells.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes were performed by modified calcium-mediated transfection method.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes demonstrated dose-dependent knockdown efficiency.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes showed strong antitumor activity on TNBC cells in vitro.&lt;/li&gt;
+&lt;li&gt;SiRNA-loaded exosomes intensively inhibited TNBC tumor growth and metastasis in vivo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Triple-negative breast cancer (TNBC) is a rapidly recurring and highly metastatic malignancy with high heterogeneity and chemoradiotherapy resistance. Chronic unpredictable mild stress (CUMS) can induce the occurrence of tumors and enhance lymphatic infiltration and distant metastasis through direct interaction with the sympathetic nervous system; however, its relevance in TNBC is yet to be clarified. In this study, DARS-AS1, a newly reported CUMS-responsive lncRNA, was found to be enriched in TNBC clinical tumors and cells and positively correlated with late clinical stage in patients with TNBC. DARS-AS1 overexpression significantly enhanced the migration and invasion of TNBC tumors by inhibiting miR-129-2-3p and upregulated CDK1 to activate the NF-κB/STAT3 signaling pathway both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;. Treatment with DARS-AS1 siRNA-loaded exosomes (EXOs) substantially slowed CUMS-induced TNBC cell growth and liver metastasis. Therefore, DARS-AS1 represents a potential therapeutic target for metastatic TNBC, and EXOs may serve as siRNA delivery carriers in clinical therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lockd promotes myoblast proliferation and muscle regeneration via binding with DHX36 to facilitate 5&#39; UTR rG4 unwinding and Anp32e translation</title>
+      <link>https://example.com/article/35675771/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35675771/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Lockd&lt;/em&gt; is highly induced in activated satellite cells and promotes cell proliferation&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lockd&lt;/em&gt; interacts with DHX36 and regulates the translation of DHX36-bound mRNAs&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lockd&lt;/em&gt;/DHX36 regulate &lt;em&gt;Anp32e&lt;/em&gt; translation via modulating the 5′ UTR rG4 structure&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lockd&lt;/em&gt; stabilizes the interaction of DHX36 and EIF3B proteins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adult muscle stem cells, also known as satellite cells (SCs), play pivotal roles in muscle regeneration, and long non-coding RNA (lncRNA) functions in SCs remain largely unknown. Here, we identify a lncRNA, &lt;em&gt;Lockd&lt;/em&gt;, which is induced in activated SCs upon acute muscle injury. We demonstrate that &lt;em&gt;Lockd&lt;/em&gt; promotes SC proliferation; deletion of &lt;em&gt;Lockd&lt;/em&gt; leads to cell-cycle arrest, and &lt;em&gt;in vivo&lt;/em&gt; repression of &lt;em&gt;Lockd&lt;/em&gt; in mouse muscles hinders regeneration process. Mechanistically, we show that &lt;em&gt;Lockd&lt;/em&gt; directly interacts with RNA helicase DHX36 and the 5&amp;rsquo;end of &lt;em&gt;Lockd&lt;/em&gt; possesses the strongest binding with DHX36. Furthermore, we demonstrate that &lt;em&gt;Lockd&lt;/em&gt; stabilizes the interaction between DHX36 and EIF3B proteins; synergistically, this complex unwinds the RNA G-quadruplex (rG4) structure formed at &lt;em&gt;Anp32e&lt;/em&gt; mRNA 5&amp;rsquo; UTR and promotes the translation of ANP32E protein, which is required for myoblast proliferation. Altogether, our findings identify a regulatory &lt;em&gt;Lockd&lt;/em&gt;/DHX36/Anp32e axis that promotes myoblast proliferation and acute-injury-induced muscle regeneration.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3675,6 +3827,56 @@
     </item>
     
     <item>
+      <title>Circular RNA: An emerging frontier in RNA therapeutic targets, RNA therapeutics, and mRNA vaccines</title>
+      <link>https://example.com/review/35649485/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35649485/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNA) is a class of natural (biogenic) or synthetic closed RNA without 5&amp;rsquo; or 3&amp;rsquo; ends. Meanwhile, their unique covalently-closed structures of circRNA prevent RNA degradation by exonucleases, thereby empowering them with high pharmaceutical stability and biostability relative to current standard-of-care linear mRNA. Natural circRNA can be non-coding RNAs as well as protein-coding RNA, the latter of which was recently discovered. The physiological functions of biogenic circRNAs, which largely remain elusive, include protein and gene sponges, cell activity modulators, and protein translation. The discovery that the circRNA levels can be correlated with some human diseases empowers circRNA with the potential as a novel type of disease biomarkers and a noncanonical class of therapeutic targets. Recently, synthetic circRNA have been engineered to explore their applications as a novel class of mRNA therapeutics and vaccines. In this review, we will discuss the current understanding of the biogenesis and physiological functions of natural circRNAs, the approaches to circRNA synthesis, and current research in the exploration of endogenous circRNAs as novel therapeutic targets and testing circRNAs as an emerging class of RNA therapeutics and vaccines.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting circNCLN/miR-291a-3p/TSLP signaling axis alleviates lipopolysaccharide-induced acute lung injury</title>
+      <link>https://example.com/article/35679712/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35679712/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is a life-threatening disease caused by the severe and acute response of the lungs to a variety of direct and indirect insults. Patients with ALI are currently treated mainly with respiratory support due to inadequate understanding of ALI progression. Alveolar epithelial cells produced thymic stromal lymphopoietin (TSLP) has been proved to worsen ALI by triggering airway inflammation. However, the regulation mechanism of TSLP expression remains unclear. In this study, we identified the crucial role played by circNCLN in lipopolysaccharide (LPS)-induced ALI. We demonstrated for the first time that miR-291a-3p could directly bind to the 3&amp;rsquo;UTR of TSLP and suppress TSLP expression in alveolar epithelial cells. Mechanistically, our data identified that circNCLN acts as a molecular sponge to antagonize miR-291a-3p and thereby maintaining the expression of TSLP in alveolar epithelial cells. Importantly, targeting circNCLN by its antisense oligonucleotide (ASO) markedly alleviated LPS-induced ALI. Therefore, our results suggested that circNCLN/miR-291a-3p/TSLP axis may be an important signaling in LPS-induced ALI and circNCLN inhibition may serve as a potential treatment of ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Best practice standards for circular RNA research</title>
       <link>https://example.com/review/35618955/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
@@ -3728,6 +3930,64 @@
     </item>
     
     <item>
+      <title>Recent advance of RNA aptamers and DNAzymes for MicroRNA detection</title>
+      <link>https://example.com/review/35671695/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35671695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MiRNAs are considered to be promising diagnostic biomarkers and therapeutic targets for disease diagnosis and treatment.&lt;/li&gt;
+&lt;li&gt;SELEX technology could select and design functional nucleic acids (FNA) toward targets of interest.&lt;/li&gt;
+&lt;li&gt;FNA nanostructures have the advantages of high stability, specificity, and activity.&lt;/li&gt;
+&lt;li&gt;FNA can be functionalized and generate various types of detection signals for miRNA detection.&lt;/li&gt;
+&lt;li&gt;The application of RNA aptamers and DNAzymes in the construction of biosensors for miRNA detection is clearly discussed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MicroRNAs (miRNAs) are a class of small, single-stranded, and non-coding RNA molecules that act as post-transcriptional regulators of gene expression, participating in the regulation of a variety of important biological activities. Accumulating evidence suggests that miRNAs are closely related to many major human diseases, especially cancer, and they are considered to be highly promising diagnostic biomarkers and therapeutic targets for disease diagnosis and treatment. To this end, the development of highly accurate, selective, and sensitive strategies for miRNA detection is essential for realizing the early diagnosis of diseases and improving the success rate of treatment. Over the past decade, functional nucleic acid nanostructures have emerged as powerful tools for detecting disease-related miRNAs because of their unique advantages, &lt;em&gt;e.g.&lt;/em&gt;, high stability, specificity, and activity. Particularly, thanks to the rapid advancement of systematic evolution of ligands by exponential enrichment (SELEX) technology, it is now feasible to strictly select and reasonably design functional nucleic acids with high specificity and activity toward targets of interest, and thereby enhance the performance of miRNA detection. In this article, we present a comprehensive review of the application of functional nucleic acids including RNA aptamers and DNAzymes selected by SELEX in the construction of biosensors for miRNA detection in recent years. We also provide insights into the impact of the advantages of RNA aptamers and DNAzymes on the enhancement of the performance of miRNA biosensors. We hope this review will serve as a valuable foundation to inspire more exciting research in this emerging field in near future.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiR-29a-3p Improves Acute Lung Injury by Reducing Alveolar Epithelial Cell PANoptosis</title>
+      <link>https://example.com/article/35656115/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35656115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alveolar epithelial cell damage is an important determinant of the severity of acute lung injury/acute respiratory distress syndrome (ALI/ARDS). However, the molecular mechanisms of alveolar epithelial death during the development of ALI/ARDS remain unclear. In this study, we explore the role of miR-29a-3p in ALI/ARDS and its molecular mechanism. Plasma samples were collected from healthy controls and ARDS patients. Mice were intratracheally instilled with lipopolysaccharide (LPS) to establish acute lung injury. N6-adenosine (m6A) quantification, RNA-binding protein immunoprecipitation, cell viability assay, quantitative real-time polymerase chain reaction, and western blotting were performed. We found that miR-29a-3p was down-regulated in plasma of ARDS patients and lung tissue of ALI model mice, and miR-29a-3p agomir injection down-regulated the levels of the inflammatory factors, including tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), and interleukin-6 (IL-6) in the lungs, reducing alveolar epithelial cell PANoptosis as evaluated by the downregulation of Z-DNA binding protein 1 (ZBP1), gasdermin D (GSDMD), caspase-3, caspase-8, and mixed lineage kinase domain-like protein (MLKL), ultimately improving lung injury in the ALI model mice. Mechanism studies demonstrated that the knockout of methyltransferase 3 (N6-adenosine-methyltransferase complex catalytic subunit) removed the m6A modification of miR-29a-3p and reduced miR-29a-3p expression. Our findings suggest that miR-29a-3p is a potential target that can be manipulated for ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Circular RNAs: Characterization, cellular roles, and applications</title>
       <link>https://example.com/review/35584701/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
@@ -3742,6 +4002,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of PANoptosis-Related LncRNA-miRNA-mRNA Network Reveals LncRNA SNHG7 Involved in Chemo-Resistance in Colon Adenocarcinoma</title>
+      <link>https://example.com/article/35646635/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35646635/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colon adenocarcinoma (COAD) is one of the most common malignancies, and its metastatic lesions are the leading cause of death in COAD patients. PANoptosis is a recently identified pathway for programmed cell death implicated in developing COAD. Long non-coding RNAs (lncRNAs) are key regulators of cancer occurrence and progress. Although their function has captured much attention in COAD, the relationship between COAD metastasis-associated lncRNA expression and PANoptosis remains elusive. Therefore, this study aimed to explore the potential regulatory roles of metastasis- and PANoptosis-associated lncRNAs in COAD. Nine lncRNAs associated with metastasis and PANoptosis in COAD were identified from The Cancer Genome Atlas (TCGA) and GEO databases. Their functions were analyzed by multiple bioinformatics methods, and the lncRNA-miRNA-mRNA network was constructed. Multivariate Cox analysis identified one lncRNA (SNHG7) significantly related to COAD prognosis. Subsequent analyses showed its expression correlated with tumor stage and lymph node metastasis. Moreover, drug sensitivity analysis and in vitro experiments suggest that lncRNA SNHG7 contributes to drug resistance in COAD. In summary, lncRNA SNHG7 is a potential target for diagnosing and treating COAD and plays a crucial role in regulating apoptosis, metastasis, and drug resistance in COAD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -3879,6 +4164,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The pseudogenes of eukaryotic translation elongation factors (EEFs): Role in cancer and other human diseases</title>
+      <link>https://example.com/review/35685457/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35685457/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The eukaryotic translation elongation factors (EEFs), i.e. &lt;em&gt;EEF1A1&lt;/em&gt;, &lt;em&gt;EEF1A2&lt;/em&gt;, &lt;em&gt;EEF1B2&lt;/em&gt;, &lt;em&gt;EEF1D&lt;/em&gt;, &lt;em&gt;EEF1G&lt;/em&gt;, &lt;em&gt;EEF1E1&lt;/em&gt; and &lt;em&gt;EEF2&lt;/em&gt;, are coding-genes that play a central role in the elongation step of translation but are often altered in cancer. Less investigated are their pseudogenes. Recently, it was demonstrated that pseudogenes have a key regulatory role in the cell, especially via non-coding RNAs, and that the aberrant expression of ncRNAs has an important role in cancer development and progression. The present review paper, for the first time, collects all that published about the EEFs pseudogenes to create a base for future investigations. For most of them, the studies are in their infancy, while for others the studies suggest their involvement in normal cell physiology but also in various human diseases. However, more investigations are needed to understand their functions in both normal and cancer cells and to define which can be useful biomarkers or therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -4617,6 +4927,56 @@
       <guid>https://example.com/article/33684100/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Within the glioblastoma cellular niche, glioma stem cells (GSCs) can give rise to differentiated glioma cells (DGCs) and, when necessary, DGCs can reciprocally give rise to GSCs to maintain the cellular equilibrium necessary for optimal tumor growth. Here, using ribosome profiling, transcriptome and m&lt;sup&gt;6&lt;/sup&gt;A RNA sequencing, we show that GSCs from patients with different subtypes of glioblastoma share a set of transcripts, which exhibit a pattern of m&lt;sup&gt;6&lt;/sup&gt;A loss and increased protein translation during differentiation. The target sequences of a group of miRNAs overlap the canonical RRACH m&lt;sup&gt;6&lt;/sup&gt;A motifs of these transcripts, many of which confer a survival advantage in glioblastoma. Ectopic expression of the RRACH-binding miR-145 induces loss of m&lt;sup&gt;6&lt;/sup&gt;A, formation of FTO/AGO1/ILF3/miR-145 complexes on a clinically relevant tumor suppressor gene (CLIP3) and significant increase in its nascent translation. Inhibition of miR-145 maintains RRACH m&lt;sup&gt;6&lt;/sup&gt;A levels of CLIP3 and inhibits its nascent translation. This study highlights a critical role of miRNAs in assembling complexes for m&lt;sup&gt;6&lt;/sup&gt;A demethylation and induction of protein translation during GSC state transition.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long noncoding RNAs (lncRNAs) in human lymphomas</title>
+      <link>https://example.com/review/35685474/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35685474/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lymphomas are a diverse group of haematologic malignancies, which occur in infection-fighting cells of the lymphatic system. Long non-coding RNAs (lncRNAs) are non-coding RNAs, which have recently received significant attention as the main mediators of gene expression. In this review, we summarize the current knowledge on lncRNAs involved in lymphomas, their molecular functions, as well as their potential clinical value. Relevant literature was identified by a PubMed search of English language papers using the following terms: Lymphoma, LncRNA, leukemia, proliferation, apoptosis, and prognosis. LncRNAs are imperative for lymphoma carcinogenesis through affecting apoptosis, cell proliferation, invasion, and response to chemotherapy. The expression level of lncRNAs can affect chemotherapy-induced apoptosis. Taken together, lncRNA dysregulation in lymphoma cells is not only an epiphenomenon but also lncRNA transcription is critically related to the initiation and progression of lymphomas. Aberrant expression of lncRNAs can lead to the transformation of normal lymphocytes into lymphoma cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Downregulation of nc886 contributes to prostate cancer cell invasion and TGFβ1-induced EMT</title>
+      <link>https://example.com/article/35685460/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35685460/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epithelial-to-mesenchymal transition (EMT) activation is important in cancer progression and metastasis. Evidence indicates that &lt;em&gt;nc886&lt;/em&gt; is a representative Pol III gene that processes microRNA products via Dicer and further downregulates its target gene transforming growth factor- β1 (TGF-β1), which is the most prominent inducer of EMT in prostate cancer (PC). Consistent with the previous literature, we found that &lt;em&gt;nc886&lt;/em&gt; downregulation was strongly associated with metastatic behavior and showed worse outcomes in PC patients. However, little is known about the association between &lt;em&gt;nc886&lt;/em&gt; and the EMT signaling pathway. We developed a PC cell model with stable overexpression of &lt;em&gt;nc886&lt;/em&gt; and found that &lt;em&gt;nc886&lt;/em&gt; changed cellular morphology and drove MET. The underlying mechanism may be related to its promotion of SNAIL protein degradation via ubiquitination, but not to its neighboring genes, TGFβ-induced protein (&lt;em&gt;TGFBI&lt;/em&gt;) and &lt;em&gt;SMAD5&lt;/em&gt;, which are Pol II-transcribed. TGF-β1 also override &lt;em&gt;nc886&lt;/em&gt; promotion of MET via transient suppression the transcription of &lt;em&gt;nc886&lt;/em&gt;, promotion of &lt;em&gt;TGFBI&lt;/em&gt; or increase in SMAD5 phosphorylation. Both &lt;em&gt;nc886&lt;/em&gt; inhibition and &lt;em&gt;TGFBI&lt;/em&gt; activation occur regardless of their methylation status. The literature suggests that MYC inhibition by TGF-β1 is attributed to &lt;em&gt;nc886&lt;/em&gt; downregulation. We incidentally identified MYC-associated zinc finger protein (MAZ) as a suppressive transcription factor of TGFBI, which is controlled by TGF-β1. We elucidate a new mechanism of TGF-β1 differential control of Pol II and the transcription of its neighboring Pol III gene and identify a new EMT unit consisting of &lt;em&gt;nc886&lt;/em&gt; and its neighboring genes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

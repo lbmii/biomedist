@@ -1760,6 +1760,95 @@
     </item>
     
     <item>
+      <title>A single-cell lung atlas of complement genes identifies the mesothelium and epithelium as prominent sources of extrahepatic complement proteins</title>
+      <link>https://example.com/article/35672453/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35672453/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To understand functional duality of the complement system in host defense and lung injury, a more comprehensive view of its localized production in the lung, and the impact of age on complement production are essential. Here, we explored the expression of complement genes through computational analysis of preexisting single cell RNA sequencing data from lung transcriptomes of healthy young (3 months) and old C57BL/6 mice (24 months), and humans. We characterized the distribution of 48 complement genes. Across 28 distinct immune and non-immune cell types in mice, mesothelial cells expressed the greatest number of complement genes (e.g., C1ra, C2, C3), and regulators (e.g., Serping1, Cfh). C5 was abundant in type II alveolar epithelial cells and C1q in interstitial lung macrophages. There were only moderate differences in gene expression between young and old mice. Among 57 human lung cell types, mesothelial cells showed abundant complement expression. A few differences in gene expression (e.g., FCN1, CFI, C6, C7) were also evident between mice and human lung cells. Our findings present a novel perspective on the expression patterns of complement genes in normal lungs. These findings highlight the potential functions of complement in tissue-specific homeostasis and immunity and may foster a mechanistic understanding of its role in lung health and disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Clonality and timing of relapsing colorectal cancer metastasis revealed through whole-genome single-cell sequencing</title>
+      <link>https://example.com/article/35688262/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35688262/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The phylogenetic analysis of single-cells exposes how, where and when malignant cells survive treatment in a personalized manner.&lt;/li&gt;
+&lt;li&gt;The relapse originated from the expansion of a single metastatic lineage that slowly evolved in the liver.&lt;/li&gt;
+&lt;li&gt;More than 500 mutations are specific to the relapse, including four non-silent mutations with no apparent clinical significance.&lt;/li&gt;
+&lt;li&gt;There is a clear contribution of chemotherapy exposure to the overall mutational burden of the relapse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recurrence of tumor cells following local and systemic therapy is a significant hurdle in cancer. Most patients with metastatic colorectal cancer (mCRC) will relapse, despite resection of the metastatic lesions. A better understanding of the evolutionary history of recurrent lesions is required to identify the spatial and temporal patterns of metastatic progression and expose the genetic and evolutionary determinants of therapeutic resistance. With this goal in mind, here we leveraged a unique single-cell whole-genome sequencing dataset from recurrent hepatic lesions of an mCRC patient. Our phylogenetic analysis confirms that the treatment induced a severe demographic bottleneck in the liver metastasis but also that a previously diverged lineage survived this surgery, possibly after migration to a different site in the liver. This lineage evolved very slowly for two years under adjuvant drug therapy and diversified again in a very short period. We identified several non-silent mutations specific to this lineage and inferred a substantial contribution of chemotherapy to the overall, genome-wide mutational burden. All in all, our study suggests that mCRC subclones can migrate locally and evade resection, keep evolving despite rounds of chemotherapy, and re-expand explosively.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell RNA-seq-based proteogenomics identifies glioblastoma-specific transposable elements encoding HLA-I-presented peptides</title>
+      <link>https://example.com/article/35675780/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35675780/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transposable elements (TEs) allow all cell population discrimination in glioblastoma&lt;/li&gt;
+&lt;li&gt;TE-derived peptides are presented on HLA-I molecules&lt;/li&gt;
+&lt;li&gt;TE subfamilies redundantly share HLA-I-presented peptide coding sequences&lt;/li&gt;
+&lt;li&gt;Non-redundant peptide-coding TEs are more tumor-specific targets for immunotherapy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We analyze transposable elements (TEs) in glioblastoma (GBM) patients using a proteogenomic pipeline that combines single-cell transcriptomics, bulk RNA sequencing (RNA-seq) samples from tumors and healthy-tissue cohorts, and immunopeptidomic samples. We thus identify 370 human leukocyte antigen (HLA)-I-bound peptides encoded by TEs differentially expressed in GBM. Some of the peptides are encoded by repeat sequences from intact open reading frames (ORFs) present in up to several hundred TEs from recent long interspersed nuclear element (LINE)-1, long terminal repeat (LTR), and SVA subfamilies. Other HLA-I-bound peptides are encoded by single copies of TEs from old subfamilies that are expressed recurrently in GBM tumors and not expressed, or very infrequently and at low levels, in healthy tissues (including brain). These peptide-coding, GBM-specific, highly recurrent TEs represent potential tumor-specific targets for cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell transcriptome profiling of the immune space-time landscape reveals dendritic cell regulatory program in polymicrobial sepsis</title>
       <link>https://example.com/article/35832091/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
@@ -1769,6 +1858,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We applied multi-compartment, single-cell RNA sequencing (scRNA-seq) to dissect heterogeneity within immune cell subsets during sepsis progression on cecal ligation and puncture (CLP) mouse model. Flow cytometry and multiplex immunofluorescence tissue staining were adopted to identify the presence of &amp;lsquo;mature DCs enriched in immunoregulatory molecules&amp;rsquo; (mregDC) upon septic challenge. To explore the function of mregDC, sorted mregDC were co-cultured with naïve CD4&lt;sup&gt;+&lt;/sup&gt; T cells. Intracellular signaling pathways that drove mregDC program were determined by integrating scRNA-seq and bulk-seq data, combined with inhibitory experiments.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; ScRNA-seq analysis revealed that sepsis induction was associated with substantial alterations and heterogeneity of canonical immune cell types, including T, B, natural killer (NK), and myeloid cells, across three immune-relevant tissue sites. We found a unique subcluster of conventional dendritic cells (cDCs) that was characterized by specific expression of maturation- and migration-related genes, along with upregulation of immunoregulatory molecules, corresponding to the previously described &amp;lsquo;mregDCs&amp;rsquo; in cancer. Flow cytometry and in stiu immunofluorescence staining confirmed the presence of sepsis-induced mregDC at protein level. Functional experiments showed that sepsis-induced mregDCs potently activated naive CD4&lt;sup&gt;+&lt;/sup&gt; T cells, while promoted CD4&lt;sup&gt;+&lt;/sup&gt; T cell conversion to regulatory T cells. Further observations indicated that the mregDC program was initiated via TNFRSF-NF-κB- and IFNGR2-JAK-STAT3-dependent pathways within 24 h of septic challenge. Additionally, we confirmed the detection of mregDC in human sepsis using publicly available data from a recently published single-cell study of COVID-19 patients.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study generates a comprehensive single-cell immune landscape for polymicrobial sepsis, in which we identify the significant alterations and heterogeneity in immune cell subsets that take place during sepsis. Moreover, we find a conserved and potentially targetable immunoregulatory program within DCs that associates with hyperinflammation and organ dysfunction early following sepsis induction.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of PANoptosis-Related LncRNA-miRNA-mRNA Network Reveals LncRNA SNHG7 Involved in Chemo-Resistance in Colon Adenocarcinoma</title>
+      <link>https://example.com/article/35646635/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35646635/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colon adenocarcinoma (COAD) is one of the most common malignancies, and its metastatic lesions are the leading cause of death in COAD patients. PANoptosis is a recently identified pathway for programmed cell death implicated in developing COAD. Long non-coding RNAs (lncRNAs) are key regulators of cancer occurrence and progress. Although their function has captured much attention in COAD, the relationship between COAD metastasis-associated lncRNA expression and PANoptosis remains elusive. Therefore, this study aimed to explore the potential regulatory roles of metastasis- and PANoptosis-associated lncRNAs in COAD. Nine lncRNAs associated with metastasis and PANoptosis in COAD were identified from The Cancer Genome Atlas (TCGA) and GEO databases. Their functions were analyzed by multiple bioinformatics methods, and the lncRNA-miRNA-mRNA network was constructed. Multivariate Cox analysis identified one lncRNA (SNHG7) significantly related to COAD prognosis. Subsequent analyses showed its expression correlated with tumor stage and lymph node metastasis. Moreover, drug sensitivity analysis and in vitro experiments suggest that lncRNA SNHG7 contributes to drug resistance in COAD. In summary, lncRNA SNHG7 is a potential target for diagnosing and treating COAD and plays a crucial role in regulating apoptosis, metastasis, and drug resistance in COAD.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

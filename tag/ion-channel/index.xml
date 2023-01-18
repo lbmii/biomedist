@@ -165,5 +165,30 @@
 </description>
     </item>
     
+    <item>
+      <title>Non-invasive imaging of ion concentration distribution around cell spheroids by electrical impedance tomographic sensor printed on circuit board under temporal compensation by ion transport impedance model</title>
+      <link>https://example.com/article/35671699/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35671699/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A non-invasive imaging called as PCB-EIT imaging has been proposed in order to image spatio-temporal ion concentration distribution around cell spheroids in 0.1 s of temporal resolution by a newly developed electrical impedance tomographic sensor printed on circuit board (PCB-EIT sensor). To realize the high temporal resolution in PCB-EIT imaging, the temporal compensation by the ion transport impedance model interpolating the extracted resistance of extracellular solution &lt;em&gt;R&lt;sub&gt;ex&lt;/sub&gt;&lt;/em&gt; obtained from the Cole-Cole equation is employed. To confirm the performance of PCB-EIT imaging, the ion concentration distribution around three cell spheroid types (GFP type (GFPT), Histone type (HT) and wild type (WT)) which are electrically different due to green fluorescent protein expressed in cytoplasm and nucleus of MRC-5. As a result, spatio-temporal ion concentration distributions due to ion transport from cell spheroid are successfully reconstructed by PCB-EIT imaging. The images by PCB-EIT imaging are validated with those by fluorescence ratio imaging within the distribution error &lt;em&gt;ε&lt;sub&gt;dis&lt;/sub&gt;&lt;/em&gt; of 0.046 ± 0.0038 in maximum. For an evaluation of the ion diffusivity &lt;em&gt;D&lt;sub&gt;m&lt;/sub&gt;&lt;/em&gt; of each cell spheroid type by the mass transfer simulation based on Fick&amp;rsquo;s law, &lt;em&gt;D&lt;sub&gt;m&lt;/sub&gt;&lt;/em&gt; of GFPT shows the highest value among the three cell types in the earlier time range from 4 s, while &lt;em&gt;D&lt;sub&gt;m&lt;/sub&gt;&lt;/em&gt; of HT shows the highest one in the time range from 15 s, which indicates that PCB-EIT imaging is able to evaluate the ion transport characteristics of each cell type.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,12 +5,40 @@
     <link>https://example.com/tag/virome/</link>
       <atom:link href="https://example.com/tag/virome/index.xml" rel="self" type="application/rss+xml" />
     <description>Virome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Virome</title>
       <link>https://example.com/tag/virome/</link>
     </image>
+    
+    <item>
+      <title>Uncovering 1058 Novel Human Enteric DNA Viruses Through Deep Long-Read Third-Generation Sequencing and Their Clinical Impact</title>
+      <link>https://example.com/article/35679948/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35679948/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background &amp;amp; aims:&lt;/em&gt; Lack of viral reference genomes poses a challenge to virome study. We investigated human gut virome and its clinical implication by ultra-deep metagenomic sequencing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We extracted sufficient viral DNA from human feces for ultra-deep PacBio sequencing (&amp;gt;10 μg) and Illumina sequencing (&amp;gt;1 μg). Upon de novo assembly and 6 stages of strict filtering, viral genomes were generated and validated in 3 cohorts of 2819 published fecal metagenomes. Diagnostic performance of assembled viruses for colorectal cancer were tested in a training cohort and 2 independent validation cohorts. Virus mapping ratio, evolutionary history, and virus status (lytic or temperate) were also examined.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The mean amount of extracted viral DNA increased by 14-fold compared with previous protocols. We obtained PacBio long reads and Illumina short reads with 290-fold higher depth than previous studies. We assembled and validated 1178 contigs as complete viral genomes, of which 1058 were newly identified. Thirteen viral genomes (398-839 kb) that are longer than the largest bacteriophage found in humans (393 kb) were discovered. Phylogenetic tree was constructed based on Hidden Markov Models alignment scores of 4 conserved viral proteins. Incorporating our assembled genomes into the National Center for Biotechnology Information database improved the mapping ratio of published metagenomes ≤18 times. Lytic viruses (75.9% ± 12.2% of total) were predominantly present in our sample. A biomarker panel of 14 novel viruses could discriminate patients with colorectal cancer from controls with an area under the receiver operating characteristics curve of 0.87 in the training cohort, which was validated with areas under the receiver operating characteristics curve of 0.85 and 0.73 in 2 independent cohorts.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; We uncovered 1058 novel human gut viruses. These findings can contribute to clinical diagnosis, current viral reference genome, and future virome investigation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Metagenomic compendium of 189,680 DNA viruses from the human gut microbiome</title>
