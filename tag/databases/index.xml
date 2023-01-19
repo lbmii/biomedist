@@ -555,6 +555,31 @@
     </item>
     
     <item>
+      <title>MiRLog and dbmiR: Prioritization and functional annotation tools to study human microRNA sequence variants</title>
+      <link>https://example.com/article/35583122/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35583122/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The recent identification of noncoding variants with pathogenic effects suggests that these variations could underlie a significant number of undiagnosed cases. Several computational methods have been developed to predict the functional impact of noncoding variants, but they exhibit only partial concordance and are not integrated with functional annotation resources, making the interpretation of these variants still challenging. MicroRNAs (miRNAs) are small noncoding RNA molecules that act as fine regulators of gene expression and play crucial functions in several biological processes, such as cell proliferation and differentiation. An increasing number of studies demonstrate a significant impact of miRNA single nucleotide variants (SNVs) both in Mendelian diseases and complex traits. To predict the functional effect of miRNA SNVs, we implemented a new meta-predictor, MiRLog, and we integrated it into a comprehensive database, dbmiR, which includes a precompiled list of all possible miRNA allelic SNVs, providing their biological annotations at nucleotide and miRNA levels. MiRLog and dbmiR were used to explore the genetic variability of miRNAs in 15,708 human genomes included in the gnomAD project, finding several ultra-rare SNVs with a potentially deleterious effect on miRNA biogenesis and function representing putative contributors to human phenotypes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>RNA2Immune: A database of experimentally supported data linking non-coding RNA regulation to the immune system</title>
       <link>https://example.com/article/35595213/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>

@@ -148,6 +148,31 @@
     </item>
     
     <item>
+      <title>The compact Casπ (Cas12l) &#39;bracelet&#39; provides a unique structural platform for DNA manipulation</title>
+      <link>https://example.com/article/36650285/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650285/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR-Cas modules serve as the adaptive nucleic acid immune systems for prokaryotes, and provide versatile tools for nucleic acid manipulation in various organisms. Here, we discovered a new miniature type V system, CRISPR-Casπ (Cas12l) (~860 aa), from the environmental metagenome. Complexed with a large guide RNA (~170 nt) comprising the tracrRNA and crRNA, Casπ (Cas12l) recognizes a unique 5&amp;rsquo; C-rich PAM for DNA cleavage under a broad range of biochemical conditions, and generates gene editing in mammalian cells. Cryo-EM study reveals a &amp;lsquo;bracelet&amp;rsquo; architecture of Casπ effector encircling the DNA target at 3.4 Å resolution, substantially different from the canonical &amp;rsquo;two-lobe&amp;rsquo; architectures of Cas12 and Cas9 nucleases. The large guide RNA serves as a &amp;rsquo;two-arm&amp;rsquo; scaffold for effector assembly. Our study expands the knowledge of DNA targeting mechanisms by CRISPR effectors, and offers an efficient but compact platform for DNA manipulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Timing and cell specificity of senescence drives postnatal lung development and injury</title>
       <link>https://example.com/article/36650158/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
@@ -566,6 +591,31 @@
       <guid>https://example.com/article/36638205/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Exosomes, membrane-bound nanosized vesicles of biologic origin, are known to contain various molecules, e.g., proteins, lipids, and nucleic acids, which contribute to the exosomes&amp;rsquo; ability to mediate cell-to-cell communication. Recent impediments of artificial nanoparticles in drug delivery, including low cellular uptake, activation of the immune system, and tissue obstacles, have led scientists to engineer exosomes as drug delivery vehicles. Though exosomes possess inherent properties of stability, biocompatibility, low immunogenicity, and capability to cross biological barriers, there is a need to develop technologies that allow the efficient loading of therapeutic materials into exosomes. Here, we introduced a simple peptide-equipped technology that can enhance the cargo-loading potential of exosomes in a mild loading environment. Specifically, a known cell-penetrating peptide, YARA, derived from human immunodeficiency virus-1 trans-activator of transcription, was covalently conjugated with miR-21-5p, a mammalian microRNA. The conjugate YARA-miR-21-5p was then incubated with exosomes, isolated from either mesenchymal stem cells or cancer cells, for loading. Exosomal loading of YARA-miR-21-5p was time-dependent and demonstrated an impressive 18.6-fold increase in efficiency over exosomal loading of miR-21-5p through incubation. After effective cellular uptake, the loaded exosomes rapidly delivered YARA-miR-21-5p into mammalian cells. Relative to unloaded exosomes and free YARA-miR-21-5p, the loaded exosomes significantly enhanced the proliferation, migration, and invasion of human and mouse fibroblasts, which are vital steps in wound healing. This study lays the groundwork for using cell-penetrating peptides as an innovative approach to efficiently load therapeutic cargos, e.g., microRNAs, into exosomes, which can then be employed to deliver the cargos into cells to yield biological effects.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid reconstruction of the physical model with the deep learning that improves structured illumination microscopy</title>
+      <link>https://example.com/article/apn.2.1.016012/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/apn.2.1.016012/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Structured illumination microscopy (SIM) has been widely used in live-cell superresolution (SR) imaging. However, conventional physical model-based SIM SR reconstruction algorithms are prone to artifacts in handling raw images with low signal-to-noise ratios (SNRs). Deep-learning (DL)-based methods can address this challenge but may lead to degradation and hallucinations. By combining the physical inversion model with a total deep variation (TDV) regularization, we propose a hybrid restoration method (TDV-SIM) that outperforms conventional or DL methods in suppressing artifacts and hallucinations while maintaining resolutions. We demonstrate the performance superiority of TDV-SIM in restoring actin filaments, endoplasmic reticulum, and mitochondrial cristae from extremely low SNR raw images. Thus TDV-SIM represents the ideal method for prolonged live-cell SR imaging with minimal exposure and photodamage. Overall, TDV-SIM proves the power of integrating model-based reconstruction methods with DL ones, possibly leading to the rapid exploration of similar strategies in high-fidelity reconstructions of other microscopy methods.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1738,6 +1788,38 @@
       <guid>https://example.com/article/36043442/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Functional interpretation of disease-associated non-coding variants remains a significant challenge in the post-GWAS era. Our recent study has identified 3&amp;rsquo;UTR alternative polyadenylation (APA) quantitative trait loci (3&amp;rsquo;aQTLs) and connects APA events with QTLs as a major driver of human traits and diseases. Besides 3&amp;rsquo;UTR, APA events can also occur in intron regions, and increasing evidence has connected intronic polyadenylation with disease risk. However, systematic investigation of the roles of intronic polyadenylation in human diseases remained challenging due to the lack of a comprehensive database across a variety of human tissues. Here, we developed &lt;a href=&#34;http://bioinfo.szbl.ac.cn/ipaQTL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ipaQTL-atlas&lt;/a&gt; as the first comprehensive portal for intronic polyadenylation. The &lt;a href=&#34;http://bioinfo.szbl.ac.cn/ipaQTL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ipaQTL-atlas&lt;/a&gt; is based on the analysis of 15 170 RNA-seq data from 838 individuals across 49 Genotype-Tissue Expression (GTEx v8) tissues and contains ∼0.98 million SNPs associated with intronic APA events. It provides an interface for ipaQTLs search, genome browser, boxplots, and data download, as well as the visualization of GWAS and ipaQTL colocalization results. &lt;a href=&#34;http://bioinfo.szbl.ac.cn/ipaQTL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ipaQTL-atlas&lt;/a&gt; provides a one-stop portal to access intronic polyadenylation information and could significantly advance the discovery of APA-associated disease susceptibility genes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Palmitoylation couples insulin hypersecretion with β cell failure in diabetes</title>
+      <link>https://example.com/article/36634673/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36634673/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;APT1 shows altered expression in human pancreatic islets&lt;/li&gt;
+&lt;li&gt;APT1 deficiency causes insulin hypersecretion&lt;/li&gt;
+&lt;li&gt;Deficiency of the APT1 substrate Scamp1 causes insulin hypersecretion&lt;/li&gt;
+&lt;li&gt;APT1 deficiency promotes β cell failure in high-fat-fed mice and &lt;em&gt;db/db&lt;/em&gt; mice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hyperinsulinemia often precedes type 2 diabetes. Palmitoylation, implicated in exocytosis, is reversed by acyl-protein thioesterase 1 (APT1). APT1 biology was altered in pancreatic islets from humans with type 2 diabetes, and APT1 knockdown in nondiabetic islets caused insulin hypersecretion. APT1 knockout mice had islet autonomous increased glucose-stimulated insulin secretion that was associated with prolonged insulin granule fusion. Using palmitoylation proteomics, we identified Scamp1 as an APT1 substrate that localized to insulin secretory granules. Scamp1 knockdown caused insulin hypersecretion. Expression of a mutated Scamp1 incapable of being palmitoylated in APT1-deficient cells rescued insulin hypersecretion and nutrient-induced apoptosis. High-fat-fed islet-specific APT1-knockout mice and global APT1-deficient &lt;em&gt;db/db&lt;/em&gt; mice showed increased β cell failure. These findings suggest that APT1 is regulated in human islets and that APT1 deficiency causes insulin hypersecretion leading to β cell failure, modeling the evolution of some forms of human type 2 diabetes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -28441,6 +28523,35 @@
     </item>
     
     <item>
+      <title>RNA seq and ceRNA network analysis in the rat model of chronic kidney disease</title>
+      <link>https://example.com/article/35578844/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35578844/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) containing microRNA (miRNA) response elements (MREs) can be used as competitive endogenous RNAs (ceRNAs) to regulate gene expression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The purpose of this study was to investigate the expression profile and role of mRNAs and lncRNAs in unilateral ureteral obstruction (UUO) model rats and to explore any associated competing endogenous (ceRNA) network.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Using the UUO model, the obstructed kidney was collected on the 15th day after surgery. RNA Seq analysis was performed on renal tissues of four UUO rats and four sham rats. Four mRNAs and four lncRNAs of differentially expressed genes were randomly selected for real time quantitative PCR (RT qPCR) analysis.Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways were analyzed, and bioinformatics was used to predict MREs. By screening for ceRNAs combined with target gene prediction, a related ceRNA network was constructed and verified by RT qPCR.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We identified 649 up-regulated lncRNAs, 518 down-regulated lncRNAs, 924 down-regulated mRNAs and 2029 up-regulated mRNAs. We identified the 30 pathways with the highest enrichment in GO and KEGG. According to the RNA Seq results and the expression of Nr4a1, the network was constructed based on Nr4a1, and included two MREs and ten lncRNAs. Furthermore, lncNONRATT011668.2/miR-361-3p/Nr4a1 was identified and verified according to ceRNA sequencing and target gene prediction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; mRNAs and lncRNAs are differentially expressed in UUO model rats, which may be related to the pathogenesis of chronic kidney disease. The lncNONRATT011668.2/miR-361-3p/Nr4a1 ceRNA network may be involved in the pathogenesis of chronic kidney disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Angiotensin 1-7 mitigates rhabdomyolysis induced renal injury in rats via modulation of TLR-4/NF-kB/iNOS and Nrf-2/heme‑oxygenase-1 signaling pathways</title>
       <link>https://example.com/article/35654118/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
@@ -29505,6 +29616,166 @@
     </item>
     
     <item>
+      <title>Caspase-4/11 exacerbates disease severity in SARS-CoV-2 infection by promoting inflammation and immunothrombosis</title>
+      <link>https://example.com/article/35588457/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35588457/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We report the discovery of fundamental roles for the noncanonical inflammasome molecule Caspase-4/11 in promoting pathological inflammatory and prothrombotic pathways in severe acute respiratory syndrome coronavirus 2 (SARS–CoV-2) infections. Our work demonstrates that Caspase-11 has a broader role in immune responses beyond its previously appreciated effects in bacterial infections. Further, we show that Caspase-11–deficient mice infected with SARS–CoV-2 fare significantly better in terms of overall illness, lung inflammation, and thrombosis than wild-type (WT) mice, thus implicating Caspase-11 as a new therapeutic target for preventing or treating COVID-19.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute respiratory syndrome coronavirus 2 (SARS–CoV-2) is a worldwide health concern, and new treatment strategies are needed. Targeting inflammatory innate immunity pathways holds therapeutic promise, but effective molecular targets remain elusive. Here, we show that human caspase-4 (CASP4) and its mouse homolog, caspase-11 (CASP11), are up-regulated in SARS–CoV-2 infections and that CASP4 expression correlates with severity of SARS–CoV-2 infection in humans. SARS–CoV-2–infected &lt;em&gt;Casp11&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; mice were protected from severe weight loss and lung pathology, including blood vessel damage, compared to wild-type (WT) mice and mice lacking the caspase downstream effector gasdermin-D (&lt;em&gt;Gsdmd&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt;). Notably, viral titers were similar regardless of CASP11 knockout. Global transcriptomics of SARS–CoV-2–infected WT, &lt;em&gt;Casp11&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt;, and &lt;em&gt;Gsdmd&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; lungs identified restrained expression of inflammatory molecules and altered neutrophil gene signatures in &lt;em&gt;Casp11&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; mice. We confirmed that protein levels of inflammatory mediators interleukin (IL)-1β, IL-6, and CXCL1, as well as neutrophil functions, were reduced in &lt;em&gt;Casp11&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; lungs. Additionally, &lt;em&gt;Casp11&lt;sup&gt;−/−&lt;/sup&gt;&lt;/em&gt; lungs accumulated less von Willebrand factor, a marker for endothelial damage, but expressed more Kruppel-Like Factor 2, a transcription factor that maintains vascular integrity. Overall, our results demonstrate that CASP4/11 promotes detrimental SARS–CoV-2–induced inflammation and coagulopathy, largely independently of GSDMD, identifying CASP4/11 as a promising drug target for treatment and prevention of severe COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization of Immunopathology and Small Airway Remodeling in Constrictive Bronchiolitis</title>
+      <link>https://example.com/article/35550018/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35550018/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Constrictive bronchiolitis (ConB) is a relatively rare and understudied form of lung disease whose underlying immunopathology remains incompletely defined.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objectives:&lt;/em&gt; Our objectives were to quantify specific pathological features that differentiate ConB from other diseases that affect the small airways and to investigate the underlying immune and inflammatory phenotype present in ConB.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We performed a comparative histomorphometric analysis of small airways in lung biopsy samples collected from 50 soldiers with postdeployment ConB, 8 patients with sporadic ConB, 55 patients with chronic obstructive pulmonary disease, and 25 nondiseased control subjects. We measured immune and inflammatory gene expression in lung tissue using the NanoString nCounter Immunology Panel from six control subjects, six soldiers with ConB, and six patients with sporadic ConB.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Measurements and Main Results:&lt;/em&gt; Compared with control subjects, we found shared pathological changes in small airways from soldiers with postdeployment ConB and patients with sporadic ConB, including increased thickness of the smooth muscle layer, increased collagen deposition in the subepithelium, and lymphocyte infiltration. Using principal-component analysis, we showed that ConB pathology was clearly separable both from control lungs and from small airway disease associated with chronic obstructive pulmonary disease. NanoString gene expression analysis from lung tissue revealed T-cell activation in both groups of patients with ConB with upregulation of proinflammatory pathways, including cytokine-cytokine receptor interactions, NF-κB (nuclear factor-κB) signaling, TLR (Toll-like receptor) signaling, T-cell receptor signaling, and antigen processing and presentation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; These findings indicate shared immunopathology among different forms of ConB and suggest that an ongoing T-helper cell type 1-type adaptive immune response underlies airway wall remodeling in ConB.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fgfr2b signaling is essential for the maintenance of the alveolar epithelial type 2 lineage during lung homeostasis in mice</title>
+      <link>https://example.com/article/35587837/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35587837/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fibroblast growth factor receptor 2b (Fgfr2b) signaling is essential throughout lung development to form the alveolar epithelial lineage. However, its role in alveolar epithelial type 2 cells (AT2s) homeostasis was recently considered dispensable. &lt;em&gt;Sftpc&lt;sup&gt;CreERT2&lt;/sup&gt;&lt;/em&gt;; &lt;em&gt;Fgfr2b&lt;sup&gt;flox/flox&lt;/sup&gt;&lt;/em&gt;; &lt;em&gt;tdTomato&lt;sup&gt;flox/flox&lt;/sup&gt;&lt;/em&gt; mice were used to delete &lt;em&gt;Fgfr2b&lt;/em&gt; expression in cells belonging to the AT2 lineage, which contains mature AT2s and a novel Sftpc&lt;sup&gt;Low&lt;/sup&gt; lineage-traced population called &amp;ldquo;injury activated alveolar progenitors&amp;rdquo; or IAAPs. Upon continuous tamoxifen exposure for either 1 or 2 weeks to delete &lt;em&gt;Fgfr2b&lt;/em&gt;, a shrinking of the AT2 population is observed. Mature AT2s exit the cell cycle, undergo apoptosis and fail to form alveolospheres in vitro. However, the lung morphometry appears normal, suggesting the involvement of compensatory mechanisms. In mutant lungs, IAAPs which escaped &lt;em&gt;Fgfr2b&lt;/em&gt; deletion expand, display enhanced alveolosphere formation in vitro and increase drastically their AT2 signature, suggesting differentiation towards mature AT2s. Interestingly, a significant increase in AT2s and decrease in IAPPs occurs after a 1-week tamoxifen exposure followed by an 8-week chase period. Although mature AT2s partially recover their alveolosphere formation capabilities, the IAAPs no longer display this property. Single-cell RNA seq analysis confirms that AT2s and IAAPs represent stable and distinct cell populations and recapitulate some of their characteristics observed in vivo. Our results underscore the essential role played by Fgfr2b signaling in the maintenance of the AT2 lineage in the adult lung during homeostasis and suggest that the IAAPs could represent a new population of AT2 progenitors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>miR-142-5p Encapsulated by Serum-Derived Extracellular Vesicles Protects against Acute Lung Injury in Septic Rats following Remote Ischemic Preconditioning via the PTEN/PI3K/Akt Axis</title>
+      <link>https://example.com/article/35588695/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35588695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study intends to investigate the effects of miR-142-5p encapsulated by serum-derived extracellular vesicles (EVs) on septic acute lung injury (ALI) following remote ischemic preconditioning (RIPC) through a PTEN-involved mechanism. ALI was induced in rats by lipopolysaccharide (LPS) injection, 24 h before which RIPC was performed via the left lower limb. Next, the binding affinity between miR-142-5p and PTEN was identified. EVs were isolated from serum and injected into rats. The morphology of lung tissues, pulmonary edema, and inflammatory cell infiltration into lung tissues were then assessed, and TNF-α and IL-6 levels in serum and lung tissues were measured. The results indicated that RIPC could attenuate ALI in sepsis. miR-142-5p expression was increased in serum, lung tissues, and serum-derived EVs of ALI rats following RIPC. miR-142-5p could target PTEN to activate the PI3K/Akt signaling pathway. miR-142-5p shuttled by serum-derived EVs reduced pulmonary edema, neutrophil infiltration, and TNF-α and IL-6 levels, thus alleviating ALI in LPS-induced septic rats upon RIPC. Collectively, serum-derived EVs-loaded miR-142-5p downregulated PTEN and activated PI3K/Akt to inhibit ALI in sepsis following RIPC, thus highlighting potential therapeutic molecular targets against ALI in sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ZBP1-dependent inflammatory cell death, PANoptosis, and cytokine storm disrupt IFN therapeutic efficacy during coronavirus infection</title>
+      <link>https://example.com/article/35587515/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35587515/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ZBP1 fans the flames of cytokine storm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Type I interferons (IFNs) provide robust innate immune protection against β-coronaviruses including SARS-CoV-2 when available soon after infection. Paradoxically, therapeutic use of type I IFNs in patients with severe COVID-19 may promote increased pathology and clinical deterioration. Using a mouse model of respiratory β-coronavirus infection with mouse hepatitis virus (MHV), Karki et al. found that the detrimental effects of type I IFNs in later stages of infection were related to IFN-induced expression of ZBP1, an innate immune sensor also capable of inducing PANoptosis, an inflammatory form of cell death. Mice lacking ZBP1 were protected from IFN-induced lethality in the MHV infection model. These findings suggest that ZBP1 could be targeted therapeutically in severe COVID-19 to ward off deleterious effects of type I IFNs including cytokine storm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus responsible for coronavirus disease 2019 (COVID-19), continues to cause substantial morbidity and mortality in the ongoing global pandemic. Understanding the fundamental mechanisms that govern innate immune and inflammatory responses during SARS-CoV-2 infection is critical for developing effective therapeutic strategies. Whereas interferon (IFN)-based therapies are generally expected to be beneficial during viral infection, clinical trials in COVID-19 have shown limited efficacy and potential detrimental effects of IFN treatment during SARS-CoV-2 infection. However, the underlying mechanisms responsible for this failure remain unknown. In this study, we found that IFN induced Z-DNA-binding protein 1 (ZBP1)-mediated inflammatory cell death, PANoptosis, in human and murine macrophages and in the lungs of mice infected with β-coronaviruses, including SARS-CoV-2 and mouse hepatitis virus (MHV). In patients with COVID-19, expression of the innate immune sensor &lt;em&gt;ZBP1&lt;/em&gt; was increased in immune cells from those who succumbed to the disease compared with those who recovered, further suggesting a link between ZBP1 and pathology. In mice, IFN-β treatment after β-coronavirus infection increased lethality, and genetic deletion of &lt;em&gt;Zbp1&lt;/em&gt; or its Zα domain suppressed cell death and protected the mice from IFN-mediated lethality during β-coronavirus infection. Overall, our results identify that ZBP1 induced during coronavirus infection limits the efficacy of IFN therapy by driving inflammatory cell death and lethality. Therefore, inhibiting ZBP1 activity may improve the efficacy of IFN therapy, paving the way for the development of new and critically needed therapeutics for COVID-19 as well as other infections and inflammatory conditions where IFN-mediated cell death and pathology occur.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Emerging role for thymic stromal lymphopoietin-responsive regulatory T cells in colorectal cancer progression in humans and mice</title>
+      <link>https://example.com/article/35584230/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35584230/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Regulating regulatory T cells&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Regulatory T cells (T&lt;sub&gt;regs&lt;/sub&gt;) are a well-known marker of cancer progression, and the tumor-derived cytokine thymic stromal lymphopoietin (TSLP) is thought to influence the function of T&lt;sub&gt;regs&lt;/sub&gt; in the tumor microenvironment. Here, Obata-Ninomiya et al. examine this relationship in the context of colitis-associated colorectal cancer (CRC) tumorigenesis. They saw T&lt;sub&gt;regs&lt;/sub&gt; expressing the receptor for TSLP that were enriched in the peripheral blood and tumors of patients and mice with CRC. They treated a chemically induced CRC mouse model with TSLP monoclonal antibodies that inhibited the progression of CRC. TSLP represents a potential therapeutic target to regulate T&lt;sub&gt;reg&lt;/sub&gt; function and control CRC progression.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recruitment of regulatory T cells (T&lt;sub&gt;regs&lt;/sub&gt;) to tumors is a hallmark of cancer progression. Tumor-derived factors, such as the cytokine thymic stromal lymphopoietin (TSLP), can influence T&lt;sub&gt;reg&lt;/sub&gt; function in tumors. In our study, we identified a subset of T&lt;sub&gt;regs&lt;/sub&gt; expressing the receptor for TSLP (TSLPR+ T&lt;sub&gt;regs&lt;/sub&gt;) that were increased in colorectal tumors in humans and mice and largely absent in adjacent normal colon. This T&lt;sub&gt;reg&lt;/sub&gt; subset was also found in the peripheral blood of patients with colon cancer but not in the peripheral blood of healthy control subjects. Mechanistically, we found that this T&lt;sub&gt;reg&lt;/sub&gt; subset coexpressed the interleukin-33 (IL-33) receptor [suppressor of tumorigenicity 2 (ST2)] and had high programmed cell death 1 (PD-1) and cytotoxic lymphocyte-associated antigen 4 (CTLA-4) expression, regulated in part by the transcription factor Mef2c. T&lt;sub&gt;reg&lt;/sub&gt;-specific deletion of TSLPR, but not ST2, was associated with a reduction in tumor number and size with concomitant increase in T&lt;sub&gt;H&lt;/sub&gt;1 cells in tumors in chemically induced mouse models of colorectal cancer. Therapeutic blockade of TSLP using TSLP-specific monoclonal antibodies effectively inhibited the progression of colorectal tumors in this mouse model. Collectively, these data suggest that TSLP controls the progression of colorectal cancer through regulation of tumor-specific T&lt;sub&gt;reg&lt;/sub&gt; function and represents a potential therapeutic target that requires further investigation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Isoliquiritin apioside relieves intestinal ischemia/reperfusion-induced acute lung injury by blocking Hif-1α-mediated ferroptosis</title>
       <link>https://example.com/article/35597117/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
@@ -29542,6 +29813,31 @@
       <guid>https://example.com/article/35656115/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Alveolar epithelial cell damage is an important determinant of the severity of acute lung injury/acute respiratory distress syndrome (ALI/ARDS). However, the molecular mechanisms of alveolar epithelial death during the development of ALI/ARDS remain unclear. In this study, we explore the role of miR-29a-3p in ALI/ARDS and its molecular mechanism. Plasma samples were collected from healthy controls and ARDS patients. Mice were intratracheally instilled with lipopolysaccharide (LPS) to establish acute lung injury. N6-adenosine (m6A) quantification, RNA-binding protein immunoprecipitation, cell viability assay, quantitative real-time polymerase chain reaction, and western blotting were performed. We found that miR-29a-3p was down-regulated in plasma of ARDS patients and lung tissue of ALI model mice, and miR-29a-3p agomir injection down-regulated the levels of the inflammatory factors, including tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), and interleukin-6 (IL-6) in the lungs, reducing alveolar epithelial cell PANoptosis as evaluated by the downregulation of Z-DNA binding protein 1 (ZBP1), gasdermin D (GSDMD), caspase-3, caspase-8, and mixed lineage kinase domain-like protein (MLKL), ultimately improving lung injury in the ALI model mice. Mechanism studies demonstrated that the knockout of methyltransferase 3 (N6-adenosine-methyltransferase complex catalytic subunit) removed the m6A modification of miR-29a-3p and reduced miR-29a-3p expression. Our findings suggest that miR-29a-3p is a potential target that can be manipulated for ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiRLog and dbmiR: Prioritization and functional annotation tools to study human microRNA sequence variants</title>
+      <link>https://example.com/article/35583122/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35583122/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The recent identification of noncoding variants with pathogenic effects suggests that these variations could underlie a significant number of undiagnosed cases. Several computational methods have been developed to predict the functional impact of noncoding variants, but they exhibit only partial concordance and are not integrated with functional annotation resources, making the interpretation of these variants still challenging. MicroRNAs (miRNAs) are small noncoding RNA molecules that act as fine regulators of gene expression and play crucial functions in several biological processes, such as cell proliferation and differentiation. An increasing number of studies demonstrate a significant impact of miRNA single nucleotide variants (SNVs) both in Mendelian diseases and complex traits. To predict the functional effect of miRNA SNVs, we implemented a new meta-predictor, MiRLog, and we integrated it into a comprehensive database, dbmiR, which includes a precompiled list of all possible miRNA allelic SNVs, providing their biological annotations at nucleotide and miRNA levels. MiRLog and dbmiR were used to explore the genetic variability of miRNAs in 15,708 human genomes included in the gnomAD project, finding several ultra-rare SNVs with a potentially deleterious effect on miRNA biogenesis and function representing putative contributors to human phenotypes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -29733,6 +30029,34 @@
     </item>
     
     <item>
+      <title>Relationship between impaired BMP signalling and clinical risk factors at early-stage vascular injury in the preterm infant</title>
+      <link>https://example.com/article/35580897/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35580897/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Introduction:&lt;/em&gt; Chronic lung disease, that is, bronchopulmonary dysplasia (BPD) is the most common complication in preterm infants and develops as a consequence of the misguided formation of the gas-exchange area undergoing prenatal and postnatal injury. Subsequent vascular disease and its progression into pulmonary arterial hypertension critically determines long-term outcome in the BPD infant but lacks identification of early, disease-defining changes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We link impaired bone morphogenetic protein (BMP) signalling to the earliest onset of vascular pathology in the human preterm lung and delineate the specific effects of the most prevalent prenatal and postnatal clinical risk factors for lung injury mimicking clinically relevant conditions in a multilayered animal model using wild-type and transgenic neonatal mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We demonstrate (1) the significant reduction in BMP receptor 2 (BMPR2) expression at the onset of vascular pathology in the lung of preterm infants, later mirrored by reduced plasma BMP protein levels in infants with developing BPD, (2) the rapid impairment (and persistent change) of BMPR2 signalling on postnatal exposure to hyperoxia and mechanical ventilation, aggravated by prenatal cigarette smoke in a preclinical mouse model and (3) a link to defective alveolar septation and matrix remodelling through platelet derived growth factor-receptor alpha deficiency. In a treatment approach, we partially reversed vascular pathology by BMPR2-targeted treatment with FK506 in vitro and in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; We identified impaired BMP signalling as a hallmark of early vascular disease in the injured neonatal lung while outlining its promising potential as a future biomarker or therapeutic target in this growing, high-risk patient population.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>RNA2Immune: A database of experimentally supported data linking non-coding RNA regulation to the immune system</title>
       <link>https://example.com/article/35595213/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
@@ -29758,12 +30082,103 @@
     </item>
     
     <item>
+      <title>Xist-mediated silencing requires additive functions of SPEN and Polycomb together with differentiation-dependent recruitment of SmcHD1</title>
+      <link>https://example.com/article/35584662/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35584662/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SPEN and PRC1 pathways function in parallel to establish gene silencing by Xist RNA&lt;/li&gt;
+&lt;li&gt;Removal of both pathways abolishes gene silencing and disrupts Xist localization&lt;/li&gt;
+&lt;li&gt;Differentiation is required to achieve maximal X-linked gene silencing&lt;/li&gt;
+&lt;li&gt;Differentiation-dependent SmcHD1 recruitment contributes to silencing of many genes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;X chromosome inactivation (XCI) is mediated by the non-coding RNA Xist, which directs chromatin modification and gene silencing in cis. The RNA binding protein SPEN and associated corepressors have a central role in Xist-mediated gene silencing. Other silencing factors, notably the Polycomb system, have been reported to function downstream of SPEN. In recent work, we found that SPEN has an additional role in correct localization of Xist RNA in cis, indicating that its contribution to chromatin-mediated gene silencing needs to be reappraised. Making use of a SPEN separation-of-function mutation, we show that SPEN and Polycomb pathways, in fact, function in parallel to establish gene silencing. We also find that differentiation-dependent recruitment of the chromosomal protein SmcHD1 is required for silencing many X-linked genes. Our results provide important insights into the mechanism of X inactivation and the coordination of chromatin-based gene regulation with cellular differentiation and development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Zn-regulated GTPase metalloprotein activator 1 modulates vertebrate zinc homeostasis</title>
       <link>https://example.com/article/35584702/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35584702/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Zinc (Zn) is an essential micronutrient and cofactor for up to 10% of proteins in living organisms. During Zn limitation, specialized enzymes called metallochaperones are predicted to allocate Zn to specific metalloproteins. This function has been putatively assigned to G3E GTPase COG0523 proteins, yet no Zn metallochaperone has been experimentally identified in any organism. Here, we functionally characterize a family of COG0523 proteins that is conserved across vertebrates. We identify Zn metalloprotease methionine aminopeptidase 1 (METAP1) as a COG0523 client, leading to the redesignation of this group of COG0523 proteins as the Zn-regulated GTPase metalloprotein activator (ZNG1) family. Using biochemical, structural, genetic, and pharmacological approaches across evolutionarily divergent models, including zebrafish and mice, we demonstrate a critical role for ZNG1 proteins in regulating cellular Zn homeostasis. Collectively, these data reveal the existence of a family of Zn metallochaperones and assign ZNG1 an important role for intracellular Zn trafficking.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel small molecule Hsp90 inhibitor, C-316-1, attenuates acute kidney injury by suppressing RIPK1-mediated inflammation and necroptosis</title>
+      <link>https://example.com/article/35588657/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35588657/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acute kidney injury (AKI) is marked by a fast deterioration of the kidney function that may be caused by a variety of factors and there is still no effective treatment for AKI.&lt;/li&gt;
+&lt;li&gt;A novel small molecule Hsp90 inhibitor, C-316-1, prevented necroptosis and inflammation in cisplatin- and ischemia/reperfusion-induced in vitro and in vivo via binding with R46, E47 and S50 in Cdc37 binding site of Hsp90.&lt;/li&gt;
+&lt;li&gt;C-316-1 is a novel Hsp90 inhibitor with high efficiency in treatment of AKI and Hsp90 may serve as a potential therapeutic target for AKI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute kidney injury (AKI) is marked by a fast deterioration of the kidney function that may be caused by a variety of factors. Recently, although our group found that PPBICA alleviated programmed cell death in AKI, poor water solubility limited its bioavailability. In this research, we screened a series of derivatives and found that C-316-1 had the best suppressive effect on preventing necroptosis and inflammation in cisplatin- and ischemia/reperfusion-induced AKI in vitro and in vivo with lower toxicity and better water solubility. Mass spectrometry results showed that C-316-1 bound to heat shock protein 90 (Hsp90), which was further confirmed by molecular docking and surface plasmon resonance. Additionally, the Hsp90 expression was upregulated in the blood and tissues of AKI patients. We discovered that C-316-1 decreased the RIPK1 protein level without affecting its mRNA expression. The proteasome inhibitor, MG132 restored the level of RIPK1 reduced by C-316-1, suggesting that C-316-1 limits necroptosis by promoting the degradation of RIPK1 rather than by reducing its production. Immunoprecipitation further showed that pretreatment with C-316-1 disrupted the Hsp90-Cdc37 protein-protein Interactions (PPIs). Thereby, C-316-1 inhibited the Hsp90-Cdc37 complex formation and led to a significant decrease in RIPK1, which in turn reduced necroptosis. Moreover, C-316-1 treatment did not protect against kidney injury in vivo and in vitro when Hsp90 was knocked down and R46, E47, and S50 in Cdc37 binding site of Hsp90 might form an important active pocket with C-316-1. These findings suggest that C-316-1 is a potential therapeutic agent against RIPK1-Mediated Necroptosis in AKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>CD4&#43; T-cell epitope-based heterologous prime-boost vaccination potentiates anti-tumor immunity and PD-1/PD-L1 immunotherapy</title>
+      <link>https://example.com/article/35580929/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35580929/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Antitumor therapeutic vaccines are generally based on antigenic epitopes presented by major histocompatibility complex (MHC-I) molecules to induce tumor-specific CD8&lt;sup&gt;+&lt;/sup&gt; T cells. Paradoxically, continuous T cell receptor (TCR) stimulation from tumor-derived CD8&lt;sup&gt;+&lt;/sup&gt; T-cell epitopes can drive the functional exhaustion of tumor-specific CD8&lt;sup&gt;+&lt;/sup&gt; T cells. Tumor-specific type-I helper CD4&lt;sup&gt;+&lt;/sup&gt; T (T&lt;sub&gt;H&lt;/sub&gt;1) cells play an important role in the population maintenance and cytotoxic function of exhausted tumor-specific CD8+ T cells in the tumor microenvironment. Nonetheless, whether the vaccination strategy targeting MHC-II-restricted CD4&lt;sup&gt;+&lt;/sup&gt; T-cell epitopes to induce tumor-specific TH1 responses can confer effective antitumor immunity to restrain tumor growth is not well studied. Here, we developed a heterologous prime-boost vaccination strategy to effectively induce tumor-specific T&lt;sub&gt;H&lt;/sub&gt;1 cells and evaluated its antitumor efficacy and its capacity to potentiate PD-1/PD-L1 immunotherapy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; &lt;em&gt;Listeria monocytogenes&lt;/em&gt; vector and influenza A virus (PR8 strain) vector stably expressing lymphocytic choriomeningitis virus (LCMV) glycoprotein-specific I-A&lt;sup&gt;b&lt;/sup&gt;-restricted CD4&lt;sup&gt;+&lt;/sup&gt; T cell epitope (GP&lt;sub&gt;61-80&lt;/sub&gt;) or ovalbumin-specific CD4&lt;sup&gt;+&lt;/sup&gt; T cell epitope (OVA&lt;sub&gt;323-339&lt;/sub&gt;) were constructed and evaluated their efficacy against mouse models of melanoma and colorectal adenocarcinoma expressing lymphocytic choriomeningitis virus glycoprotein and ovalbumin. The impact of CD4&lt;sup&gt;+&lt;/sup&gt; T cell epitope-based heterologous prime-boost vaccination was detected by flow-cytometer, single-cell RNA sequencing and single-cell TCR sequencing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; CD4&lt;sup&gt;+&lt;/sup&gt; T cell epitope-based heterologous prime-boost vaccination efficiently suppressed both mouse melanoma and colorectal adenocarcinoma. This vaccination primarily induced tumor-specific TH1 response, which in turn enhanced the expansion, effector function and clonal breadth of tumor-specific CD8&lt;sup&gt;+&lt;/sup&gt; T cells. Furthermore, this vaccination strategy synergized PD-L1 blockade mediated tumor suppression. Notably, prime-boost vaccination extended the duration of PD-L1 blockade induced antitumor effects by preventing the re-exhaustion of tumor-specific CD8&lt;sup&gt;+&lt;/sup&gt; T cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; CD4&lt;sup&gt;+&lt;/sup&gt; T cell epitope-based heterologous prime-boost vaccination elicited potent both tumor-specific T&lt;sub&gt;H&lt;/sub&gt;1 and CTL response, leading to the efficient tumor control. This strategy can also potentiate PD-1/PD-L1 immune checkpoint blockade (ICB) against cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -30268,6 +30683,34 @@
       <guid>https://example.com/article/35449309/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Small cell lung cancer (SCLC) is notorious for its early and frequent metastases, which contribute to it as a recalcitrant malignancy. To understand the molecular mechanisms underlying SCLC metastasis, we generated SCLC mouse models with orthotopically transplanted genome-edited lung organoids and performed multiomics analyses. We found that a deficiency of KMT2C, a histone H3 lysine 4 methyltransferase frequently mutated in extensive-stage SCLC, promoted multiple-organ metastases in mice. Metastatic and KMT2C-deficient SCLC displayed both histone and DNA hypomethylation. Mechanistically, KMT2C directly regulated the expression of DNMT3A, a de novo DNA methyltransferase, through histone methylation. Forced DNMT3A expression restrained metastasis of KMT2C-deficient SCLC through repressing metastasis-promoting MEIS/HOX genes. Further, S-(5′-adenosyl)-L-methionine, the common cofactor of histone and DNA methyltransferases, inhibited SCLC metastasis. Thus, our study revealed a concerted epigenetic reprogramming of KMT2C- and DNMT3A-mediated histone and DNA hypomethylation underlying SCLC metastasis, which suggested a potential epigenetic therapeutic vulnerability.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Steen solution protects pulmonary microvascular endothelial cells and preserves endothelial barrier after lipopolysaccharide-induced injury</title>
+      <link>https://example.com/article/35577593/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35577593/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objectives:&lt;/em&gt; Acute respiratory distress syndrome represents the devastating result of acute lung injury, with high mortality. Limited methods are available for rehabilitation of lungs affected by acute respiratory distress syndrome. Our laboratory has demonstrated rehabilitation of sepsis-injured lungs via normothermic ex vivo and in vivo perfusion with Steen solution (Steen). However, mechanisms responsible for the protective effects of Steen remain unclear. This study tests the hypothesis that Steen directly attenuates pulmonary endothelial barrier dysfunction and inflammation induced by lipopolysaccharide.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Primary pulmonary microvascular endothelial cells were exposed to lipopolysaccharide for 4 hours and then recovered for 8 hours in complete media (Media), Steen, or Steen followed by complete media (Steen/Media). Oxidative stress, chemokines, permeability, interendothelial junction proteins, and toll-like receptor 4-mediated pathways were assessed in pulmonary microvascular endothelial cells using standard methods.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Lipopolysaccharide treatment of pulmonary microvascular endothelial cells and recovery in Media significantly induced reactive oxygen species, lipid peroxidation, expression of chemokines (eg, chemokine [C-X-C motif] ligand 1 and C-C motif chemokine ligand 2) and cell adhesion molecules (P-selectin, E-selectin, and vascular cell adhesion molecule 1), permeability, neutrophil transmigration, p38 mitogen-activated protein kinase and nuclear factor kappa B signaling, and decreased expression of tight and adherens junction proteins (zonula occludens-1, zonula occludens-2, and vascular endothelial-cadherin). All of these inflammatory pathways were significantly attenuated after recovery of pulmonary microvascular endothelial cells in Steen or Steen/Media.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Steen solution preserves pulmonary endothelial barrier function after lipopolysaccharide exposure by promoting an anti-inflammatory environment via attenuation of oxidative stress, toll-like receptor 4-mediated signaling, and conservation of interendothelial junctions. These protective mechanisms offer insight into the advancement of methods for in vivo lung perfusion with Steen for the treatment of severe acute respiratory distress syndrome.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -42948,38 +43391,6 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
       <guid>https://example.com/article/16199517/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data. The method derives its power by focusing on gene sets, that is, groups of genes that share common biological function, chromosomal location, or regulation. We demonstrate how GSEA yields insights into several cancer-related data sets, including leukemia and lung cancer. Notably, where single-gene analysis finds little similarity between two independent studies of patient survival in lung cancer, GSEA reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Palmitoylation couples insulin hypersecretion with β cell failure in diabetes</title>
-      <link>https://example.com/article/36634673/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36634673/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;APT1 shows altered expression in human pancreatic islets&lt;/li&gt;
-&lt;li&gt;APT1 deficiency causes insulin hypersecretion&lt;/li&gt;
-&lt;li&gt;Deficiency of the APT1 substrate Scamp1 causes insulin hypersecretion&lt;/li&gt;
-&lt;li&gt;APT1 deficiency promotes β cell failure in high-fat-fed mice and &lt;em&gt;db/db&lt;/em&gt; mice&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hyperinsulinemia often precedes type 2 diabetes. Palmitoylation, implicated in exocytosis, is reversed by acyl-protein thioesterase 1 (APT1). APT1 biology was altered in pancreatic islets from humans with type 2 diabetes, and APT1 knockdown in nondiabetic islets caused insulin hypersecretion. APT1 knockout mice had islet autonomous increased glucose-stimulated insulin secretion that was associated with prolonged insulin granule fusion. Using palmitoylation proteomics, we identified Scamp1 as an APT1 substrate that localized to insulin secretory granules. Scamp1 knockdown caused insulin hypersecretion. Expression of a mutated Scamp1 incapable of being palmitoylated in APT1-deficient cells rescued insulin hypersecretion and nutrient-induced apoptosis. High-fat-fed islet-specific APT1-knockout mice and global APT1-deficient &lt;em&gt;db/db&lt;/em&gt; mice showed increased β cell failure. These findings suggest that APT1 is regulated in human islets and that APT1 deficiency causes insulin hypersecretion leading to β cell failure, modeling the evolution of some forms of human type 2 diabetes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

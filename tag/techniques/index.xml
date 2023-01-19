@@ -40,6 +40,31 @@
     </item>
     
     <item>
+      <title>The compact Casπ (Cas12l) &#39;bracelet&#39; provides a unique structural platform for DNA manipulation</title>
+      <link>https://example.com/article/36650285/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650285/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR-Cas modules serve as the adaptive nucleic acid immune systems for prokaryotes, and provide versatile tools for nucleic acid manipulation in various organisms. Here, we discovered a new miniature type V system, CRISPR-Casπ (Cas12l) (~860 aa), from the environmental metagenome. Complexed with a large guide RNA (~170 nt) comprising the tracrRNA and crRNA, Casπ (Cas12l) recognizes a unique 5&amp;rsquo; C-rich PAM for DNA cleavage under a broad range of biochemical conditions, and generates gene editing in mammalian cells. Cryo-EM study reveals a &amp;lsquo;bracelet&amp;rsquo; architecture of Casπ effector encircling the DNA target at 3.4 Å resolution, substantially different from the canonical &amp;rsquo;two-lobe&amp;rsquo; architectures of Cas12 and Cas9 nucleases. The large guide RNA serves as a &amp;rsquo;two-arm&amp;rsquo; scaffold for effector assembly. Our study expands the knowledge of DNA targeting mechanisms by CRISPR effectors, and offers an efficient but compact platform for DNA manipulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>ELI trifocal microscope: a precise system to prepare target cryo-lamellae for in situ cryo-ET study</title>
       <link>https://example.com/article/36646897/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
@@ -146,6 +171,31 @@
       <guid>https://example.com/article/36638205/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Exosomes, membrane-bound nanosized vesicles of biologic origin, are known to contain various molecules, e.g., proteins, lipids, and nucleic acids, which contribute to the exosomes&amp;rsquo; ability to mediate cell-to-cell communication. Recent impediments of artificial nanoparticles in drug delivery, including low cellular uptake, activation of the immune system, and tissue obstacles, have led scientists to engineer exosomes as drug delivery vehicles. Though exosomes possess inherent properties of stability, biocompatibility, low immunogenicity, and capability to cross biological barriers, there is a need to develop technologies that allow the efficient loading of therapeutic materials into exosomes. Here, we introduced a simple peptide-equipped technology that can enhance the cargo-loading potential of exosomes in a mild loading environment. Specifically, a known cell-penetrating peptide, YARA, derived from human immunodeficiency virus-1 trans-activator of transcription, was covalently conjugated with miR-21-5p, a mammalian microRNA. The conjugate YARA-miR-21-5p was then incubated with exosomes, isolated from either mesenchymal stem cells or cancer cells, for loading. Exosomal loading of YARA-miR-21-5p was time-dependent and demonstrated an impressive 18.6-fold increase in efficiency over exosomal loading of miR-21-5p through incubation. After effective cellular uptake, the loaded exosomes rapidly delivered YARA-miR-21-5p into mammalian cells. Relative to unloaded exosomes and free YARA-miR-21-5p, the loaded exosomes significantly enhanced the proliferation, migration, and invasion of human and mouse fibroblasts, which are vital steps in wound healing. This study lays the groundwork for using cell-penetrating peptides as an innovative approach to efficiently load therapeutic cargos, e.g., microRNAs, into exosomes, which can then be employed to deliver the cargos into cells to yield biological effects.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid reconstruction of the physical model with the deep learning that improves structured illumination microscopy</title>
+      <link>https://example.com/article/apn.2.1.016012/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/apn.2.1.016012/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Structured illumination microscopy (SIM) has been widely used in live-cell superresolution (SR) imaging. However, conventional physical model-based SIM SR reconstruction algorithms are prone to artifacts in handling raw images with low signal-to-noise ratios (SNRs). Deep-learning (DL)-based methods can address this challenge but may lead to degradation and hallucinations. By combining the physical inversion model with a total deep variation (TDV) regularization, we propose a hybrid restoration method (TDV-SIM) that outperforms conventional or DL methods in suppressing artifacts and hallucinations while maintaining resolutions. We demonstrate the performance superiority of TDV-SIM in restoring actin filaments, endoplasmic reticulum, and mitochondrial cristae from extremely low SNR raw images. Thus TDV-SIM represents the ideal method for prolonged live-cell SR imaging with minimal exposure and photodamage. Overall, TDV-SIM proves the power of integrating model-based reconstruction methods with DL ones, possibly leading to the rapid exploration of similar strategies in high-fidelity reconstructions of other microscopy methods.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

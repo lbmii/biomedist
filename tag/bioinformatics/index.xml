@@ -1980,6 +1980,35 @@
     </item>
     
     <item>
+      <title>RNA seq and ceRNA network analysis in the rat model of chronic kidney disease</title>
+      <link>https://example.com/article/35578844/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35578844/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) containing microRNA (miRNA) response elements (MREs) can be used as competitive endogenous RNAs (ceRNAs) to regulate gene expression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The purpose of this study was to investigate the expression profile and role of mRNAs and lncRNAs in unilateral ureteral obstruction (UUO) model rats and to explore any associated competing endogenous (ceRNA) network.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Using the UUO model, the obstructed kidney was collected on the 15th day after surgery. RNA Seq analysis was performed on renal tissues of four UUO rats and four sham rats. Four mRNAs and four lncRNAs of differentially expressed genes were randomly selected for real time quantitative PCR (RT qPCR) analysis.Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways were analyzed, and bioinformatics was used to predict MREs. By screening for ceRNAs combined with target gene prediction, a related ceRNA network was constructed and verified by RT qPCR.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We identified 649 up-regulated lncRNAs, 518 down-regulated lncRNAs, 924 down-regulated mRNAs and 2029 up-regulated mRNAs. We identified the 30 pathways with the highest enrichment in GO and KEGG. According to the RNA Seq results and the expression of Nr4a1, the network was constructed based on Nr4a1, and included two MREs and ten lncRNAs. Furthermore, lncNONRATT011668.2/miR-361-3p/Nr4a1 was identified and verified according to ceRNA sequencing and target gene prediction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; mRNAs and lncRNAs are differentially expressed in UUO model rats, which may be related to the pathogenesis of chronic kidney disease. The lncNONRATT011668.2/miR-361-3p/Nr4a1 ceRNA network may be involved in the pathogenesis of chronic kidney disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell transcriptome profiling of the immune space-time landscape reveals dendritic cell regulatory program in polymicrobial sepsis</title>
       <link>https://example.com/article/35832091/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>

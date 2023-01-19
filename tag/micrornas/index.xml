@@ -1491,12 +1491,62 @@
     </item>
     
     <item>
+      <title>miR-142-5p Encapsulated by Serum-Derived Extracellular Vesicles Protects against Acute Lung Injury in Septic Rats following Remote Ischemic Preconditioning via the PTEN/PI3K/Akt Axis</title>
+      <link>https://example.com/article/35588695/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35588695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study intends to investigate the effects of miR-142-5p encapsulated by serum-derived extracellular vesicles (EVs) on septic acute lung injury (ALI) following remote ischemic preconditioning (RIPC) through a PTEN-involved mechanism. ALI was induced in rats by lipopolysaccharide (LPS) injection, 24 h before which RIPC was performed via the left lower limb. Next, the binding affinity between miR-142-5p and PTEN was identified. EVs were isolated from serum and injected into rats. The morphology of lung tissues, pulmonary edema, and inflammatory cell infiltration into lung tissues were then assessed, and TNF-α and IL-6 levels in serum and lung tissues were measured. The results indicated that RIPC could attenuate ALI in sepsis. miR-142-5p expression was increased in serum, lung tissues, and serum-derived EVs of ALI rats following RIPC. miR-142-5p could target PTEN to activate the PI3K/Akt signaling pathway. miR-142-5p shuttled by serum-derived EVs reduced pulmonary edema, neutrophil infiltration, and TNF-α and IL-6 levels, thus alleviating ALI in LPS-induced septic rats upon RIPC. Collectively, serum-derived EVs-loaded miR-142-5p downregulated PTEN and activated PI3K/Akt to inhibit ALI in sepsis following RIPC, thus highlighting potential therapeutic molecular targets against ALI in sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>MiR-29a-3p Improves Acute Lung Injury by Reducing Alveolar Epithelial Cell PANoptosis</title>
       <link>https://example.com/article/35656115/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35656115/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Alveolar epithelial cell damage is an important determinant of the severity of acute lung injury/acute respiratory distress syndrome (ALI/ARDS). However, the molecular mechanisms of alveolar epithelial death during the development of ALI/ARDS remain unclear. In this study, we explore the role of miR-29a-3p in ALI/ARDS and its molecular mechanism. Plasma samples were collected from healthy controls and ARDS patients. Mice were intratracheally instilled with lipopolysaccharide (LPS) to establish acute lung injury. N6-adenosine (m6A) quantification, RNA-binding protein immunoprecipitation, cell viability assay, quantitative real-time polymerase chain reaction, and western blotting were performed. We found that miR-29a-3p was down-regulated in plasma of ARDS patients and lung tissue of ALI model mice, and miR-29a-3p agomir injection down-regulated the levels of the inflammatory factors, including tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), and interleukin-6 (IL-6) in the lungs, reducing alveolar epithelial cell PANoptosis as evaluated by the downregulation of Z-DNA binding protein 1 (ZBP1), gasdermin D (GSDMD), caspase-3, caspase-8, and mixed lineage kinase domain-like protein (MLKL), ultimately improving lung injury in the ALI model mice. Mechanism studies demonstrated that the knockout of methyltransferase 3 (N6-adenosine-methyltransferase complex catalytic subunit) removed the m6A modification of miR-29a-3p and reduced miR-29a-3p expression. Our findings suggest that miR-29a-3p is a potential target that can be manipulated for ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiRLog and dbmiR: Prioritization and functional annotation tools to study human microRNA sequence variants</title>
+      <link>https://example.com/article/35583122/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35583122/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The recent identification of noncoding variants with pathogenic effects suggests that these variations could underlie a significant number of undiagnosed cases. Several computational methods have been developed to predict the functional impact of noncoding variants, but they exhibit only partial concordance and are not integrated with functional annotation resources, making the interpretation of these variants still challenging. MicroRNAs (miRNAs) are small noncoding RNA molecules that act as fine regulators of gene expression and play crucial functions in several biological processes, such as cell proliferation and differentiation. An increasing number of studies demonstrate a significant impact of miRNA single nucleotide variants (SNVs) both in Mendelian diseases and complex traits. To predict the functional effect of miRNA SNVs, we implemented a new meta-predictor, MiRLog, and we integrated it into a comprehensive database, dbmiR, which includes a precompiled list of all possible miRNA allelic SNVs, providing their biological annotations at nucleotide and miRNA levels. MiRLog and dbmiR were used to explore the genetic variability of miRNAs in 15,708 human genomes included in the gnomAD project, finding several ultra-rare SNVs with a potentially deleterious effect on miRNA biogenesis and function representing putative contributors to human phenotypes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

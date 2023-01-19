@@ -2612,6 +2612,35 @@
     </item>
     
     <item>
+      <title>RNA seq and ceRNA network analysis in the rat model of chronic kidney disease</title>
+      <link>https://example.com/article/35578844/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35578844/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) containing microRNA (miRNA) response elements (MREs) can be used as competitive endogenous RNAs (ceRNAs) to regulate gene expression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The purpose of this study was to investigate the expression profile and role of mRNAs and lncRNAs in unilateral ureteral obstruction (UUO) model rats and to explore any associated competing endogenous (ceRNA) network.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Using the UUO model, the obstructed kidney was collected on the 15th day after surgery. RNA Seq analysis was performed on renal tissues of four UUO rats and four sham rats. Four mRNAs and four lncRNAs of differentially expressed genes were randomly selected for real time quantitative PCR (RT qPCR) analysis.Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways were analyzed, and bioinformatics was used to predict MREs. By screening for ceRNAs combined with target gene prediction, a related ceRNA network was constructed and verified by RT qPCR.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We identified 649 up-regulated lncRNAs, 518 down-regulated lncRNAs, 924 down-regulated mRNAs and 2029 up-regulated mRNAs. We identified the 30 pathways with the highest enrichment in GO and KEGG. According to the RNA Seq results and the expression of Nr4a1, the network was constructed based on Nr4a1, and included two MREs and ten lncRNAs. Furthermore, lncNONRATT011668.2/miR-361-3p/Nr4a1 was identified and verified according to ceRNA sequencing and target gene prediction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; mRNAs and lncRNAs are differentially expressed in UUO model rats, which may be related to the pathogenesis of chronic kidney disease. The lncNONRATT011668.2/miR-361-3p/Nr4a1 ceRNA network may be involved in the pathogenesis of chronic kidney disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Angiotensin 1-7 mitigates rhabdomyolysis induced renal injury in rats via modulation of TLR-4/NF-kB/iNOS and Nrf-2/heme‑oxygenase-1 signaling pathways</title>
       <link>https://example.com/article/35654118/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
@@ -2832,6 +2861,37 @@
       <guid>https://example.com/article/35593050/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Increasing the information depth of single kidney biopsies can improve diagnostic precision, personalized medicine and accelerate basic kidney research. Until now, information on mRNA abundance and morphologic analysis has been obtained from different samples, missing out on the spatial context and single-cell correlation of findings. Herein, we present scoMorphoFISH, a modular toolbox to obtain spatial single-cell single-mRNA expression data from routinely generated kidney biopsies. Deep learning was used to virtually dissect tissue sections in tissue compartments and cell types to which single-cell expression data were assigned. Furthermore, we show correlative and spatial single-cell expression quantification with super-resolved podocyte foot process morphometry. In contrast to bulk analysis methods, this approach will help to identify local transcription changes even in less frequent kidney cell types on a spatial single-cell level with single-mRNA resolution. Using this method, we demonstrate that ACE2 can be locally upregulated in podocytes upon injury. In a patient suffering from COVID-19-associated collapsing FSGS, ACE2 expression levels were correlated with intracellular SARS-CoV-2 abundance. As this method performs well with standard formalin-fixed paraffin-embedded samples and we provide pretrained deep learning networks embedded in a comprehensive image analysis workflow, this method can be applied immediately in a variety of settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel small molecule Hsp90 inhibitor, C-316-1, attenuates acute kidney injury by suppressing RIPK1-mediated inflammation and necroptosis</title>
+      <link>https://example.com/article/35588657/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35588657/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acute kidney injury (AKI) is marked by a fast deterioration of the kidney function that may be caused by a variety of factors and there is still no effective treatment for AKI.&lt;/li&gt;
+&lt;li&gt;A novel small molecule Hsp90 inhibitor, C-316-1, prevented necroptosis and inflammation in cisplatin- and ischemia/reperfusion-induced in vitro and in vivo via binding with R46, E47 and S50 in Cdc37 binding site of Hsp90.&lt;/li&gt;
+&lt;li&gt;C-316-1 is a novel Hsp90 inhibitor with high efficiency in treatment of AKI and Hsp90 may serve as a potential therapeutic target for AKI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute kidney injury (AKI) is marked by a fast deterioration of the kidney function that may be caused by a variety of factors. Recently, although our group found that PPBICA alleviated programmed cell death in AKI, poor water solubility limited its bioavailability. In this research, we screened a series of derivatives and found that C-316-1 had the best suppressive effect on preventing necroptosis and inflammation in cisplatin- and ischemia/reperfusion-induced AKI in vitro and in vivo with lower toxicity and better water solubility. Mass spectrometry results showed that C-316-1 bound to heat shock protein 90 (Hsp90), which was further confirmed by molecular docking and surface plasmon resonance. Additionally, the Hsp90 expression was upregulated in the blood and tissues of AKI patients. We discovered that C-316-1 decreased the RIPK1 protein level without affecting its mRNA expression. The proteasome inhibitor, MG132 restored the level of RIPK1 reduced by C-316-1, suggesting that C-316-1 limits necroptosis by promoting the degradation of RIPK1 rather than by reducing its production. Immunoprecipitation further showed that pretreatment with C-316-1 disrupted the Hsp90-Cdc37 protein-protein Interactions (PPIs). Thereby, C-316-1 inhibited the Hsp90-Cdc37 complex formation and led to a significant decrease in RIPK1, which in turn reduced necroptosis. Moreover, C-316-1 treatment did not protect against kidney injury in vivo and in vitro when Hsp90 was knocked down and R46, E47, and S50 in Cdc37 binding site of Hsp90 might form an important active pocket with C-316-1. These findings suggest that C-316-1 is a potential therapeutic agent against RIPK1-Mediated Necroptosis in AKI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
