@@ -530,6 +530,56 @@
     </item>
     
     <item>
+      <title>PCGA: a comprehensive web server for phenotype-cell-gene association analysis</title>
+      <link>https://example.com/article/35639771/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35639771/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most complex disease-associated loci mapped by genome-wide association studies (GWAS) are located in non-coding regions. It remains elusive which genes the associated loci regulate and in which tissues/cell types the regulation occurs. Here, we present &lt;a href=&#34;https://pmglab.top/pcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PCGA&lt;/a&gt;, a comprehensive web server for jointly estimating both associated tissues/cell types and susceptibility genes for complex phenotypes by GWAS summary statistics. The web server is built on our published method, DESE, which represents an effective method to mutually estimate driver tissues and genes by integrating GWAS summary statistics and transcriptome data. By collecting and processing extensive bulk and single-cell RNA sequencing datasets, &lt;a href=&#34;https://pmglab.top/pcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PCGA&lt;/a&gt; has included expression profiles of 54 human tissues, 2,214 human cell types and 4,384 mouse cell types, which provide the basis for estimating associated tissues/cell types and genes for complex phenotypes. We develop a framework to sequentially estimate associated tissues and cell types of a complex phenotype according to their hierarchical relationships we curated. Meanwhile, we construct a phenotype-cell-gene association landscape by estimating the associated tissues/cell types and genes of 1,871 public GWASs. The association landscape is generally consistent with biological knowledge and can be searched and browsed at the &lt;a href=&#34;https://pmglab.top/pcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PCGA&lt;/a&gt; website.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RNA2Immune: A database of experimentally supported data linking non-coding RNA regulation to the immune system</title>
+      <link>https://example.com/article/35595213/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35595213/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non-coding RNAs (ncRNAs), such as microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and circular RNAs (circRNAs), have emerged as important regulators of the immune system and are involved in the control of immune cell biology, disease pathogenesis, as well as vaccine responses. A repository of ncRNA-immune associations will facilitate our understanding of ncRNA-dependent mechanisms in the immune system and advance the development of therapeutics and prevention for immune disorders. Here, we describe a comprehensive database, &lt;a href=&#34;http://bio-bigdata.hrbmu.edu.cn/rna2immune/home.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA2Immune&lt;/a&gt;, which aims to provide a high-quality resource of experimentally supported database linking ncRNA regulatory mechanisms to immune cell function, immune disease, cancer immunology, and vaccines. The current version of &lt;a href=&#34;http://bio-bigdata.hrbmu.edu.cn/rna2immune/home.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA2Immune&lt;/a&gt; documents 50,433 immune-ncRNA associations in 42 host species, including: (1) 6690 ncRNA associations with immune functions involving 31 immune cell types; (2) 38,672 ncRNA associations with 348 immune diseases; (3) 4833 ncRNA associations with cancer immunology; and (4) 238 ncRNA associations with vaccine responses involving 26 vaccine types targeting 22 diseases. &lt;a href=&#34;http://bio-bigdata.hrbmu.edu.cn/rna2immune/home.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA2Immune&lt;/a&gt; provides a user-friendly interface for browsing, searching, and downloading ncRNA-immune system associations. Collectively, &lt;a href=&#34;http://bio-bigdata.hrbmu.edu.cn/rna2immune/home.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA2Immune&lt;/a&gt; provides important information about how ncRNAs influence immune cell function, how dysregulation of these ncRNAs leads to pathological consequences (immune diseases and cancers), and how ncRNAs affect immune responses to vaccines.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>MetOrigin: Discriminating the origins of microbial metabolites for integrative analysis of the gut microbiome and metabolome</title>
       <link>https://example.com/article/imt2.10/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>

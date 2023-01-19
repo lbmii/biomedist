@@ -322,6 +322,31 @@
     </item>
     
     <item>
+      <title>Multiregional single-cell dissection of tumor and immune cells reveals stable lock-and-key features in liver cancer</title>
+      <link>https://example.com/article/36476645/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36476645/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intratumor heterogeneity may result from the evolution of tumor cells and their continuous interactions with the tumor microenvironment which collectively drives tumorigenesis. However, an appearance of cellular and molecular heterogeneity creates a challenge to define molecular features linked to tumor malignancy. Here we perform multiregional single-cell RNA sequencing (scRNA-seq) analysis of seven liver cancer patients (four hepatocellular carcinoma, HCC and three intrahepatic cholangiocarcinoma, iCCA). We identify cellular dynamics of malignant cells and their communication networks with tumor-associated immune cells, which are validated using additional scRNA-seq data of 25 HCC and 12 iCCA patients as a stable fingerprint embedded in a malignant ecosystem representing features of tumor aggressiveness. We further validate the top ligand-receptor interaction pairs (i.e., LGALS9-SLC1A5 and SPP1-PTGER4 between tumor cells and macrophages) associated with unique transcriptome in additional 542 HCC patients. Our study unveils stable molecular networks of malignant ecosystems, which may open a path for therapeutic exploration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Complexity of enhancer networks predicts cell identity and disease genes revealed by single-cell multi-omics analysis</title>
       <link>https://example.com/article/36464486/</link>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
@@ -1148,6 +1173,81 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We applied multi-compartment, single-cell RNA sequencing (scRNA-seq) to dissect heterogeneity within immune cell subsets during sepsis progression on cecal ligation and puncture (CLP) mouse model. Flow cytometry and multiplex immunofluorescence tissue staining were adopted to identify the presence of &amp;lsquo;mature DCs enriched in immunoregulatory molecules&amp;rsquo; (mregDC) upon septic challenge. To explore the function of mregDC, sorted mregDC were co-cultured with naïve CD4&lt;sup&gt;+&lt;/sup&gt; T cells. Intracellular signaling pathways that drove mregDC program were determined by integrating scRNA-seq and bulk-seq data, combined with inhibitory experiments.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; ScRNA-seq analysis revealed that sepsis induction was associated with substantial alterations and heterogeneity of canonical immune cell types, including T, B, natural killer (NK), and myeloid cells, across three immune-relevant tissue sites. We found a unique subcluster of conventional dendritic cells (cDCs) that was characterized by specific expression of maturation- and migration-related genes, along with upregulation of immunoregulatory molecules, corresponding to the previously described &amp;lsquo;mregDCs&amp;rsquo; in cancer. Flow cytometry and in stiu immunofluorescence staining confirmed the presence of sepsis-induced mregDC at protein level. Functional experiments showed that sepsis-induced mregDCs potently activated naive CD4&lt;sup&gt;+&lt;/sup&gt; T cells, while promoted CD4&lt;sup&gt;+&lt;/sup&gt; T cell conversion to regulatory T cells. Further observations indicated that the mregDC program was initiated via TNFRSF-NF-κB- and IFNGR2-JAK-STAT3-dependent pathways within 24 h of septic challenge. Additionally, we confirmed the detection of mregDC in human sepsis using publicly available data from a recently published single-cell study of COVID-19 patients.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study generates a comprehensive single-cell immune landscape for polymicrobial sepsis, in which we identify the significant alterations and heterogeneity in immune cell subsets that take place during sepsis. Moreover, we find a conserved and potentially targetable immunoregulatory program within DCs that associates with hyperinflammation and organ dysfunction early following sepsis induction.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PCGA: a comprehensive web server for phenotype-cell-gene association analysis</title>
+      <link>https://example.com/article/35639771/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35639771/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most complex disease-associated loci mapped by genome-wide association studies (GWAS) are located in non-coding regions. It remains elusive which genes the associated loci regulate and in which tissues/cell types the regulation occurs. Here, we present &lt;a href=&#34;https://pmglab.top/pcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PCGA&lt;/a&gt;, a comprehensive web server for jointly estimating both associated tissues/cell types and susceptibility genes for complex phenotypes by GWAS summary statistics. The web server is built on our published method, DESE, which represents an effective method to mutually estimate driver tissues and genes by integrating GWAS summary statistics and transcriptome data. By collecting and processing extensive bulk and single-cell RNA sequencing datasets, &lt;a href=&#34;https://pmglab.top/pcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PCGA&lt;/a&gt; has included expression profiles of 54 human tissues, 2,214 human cell types and 4,384 mouse cell types, which provide the basis for estimating associated tissues/cell types and genes for complex phenotypes. We develop a framework to sequentially estimate associated tissues and cell types of a complex phenotype according to their hierarchical relationships we curated. Meanwhile, we construct a phenotype-cell-gene association landscape by estimating the associated tissues/cell types and genes of 1,871 public GWASs. The association landscape is generally consistent with biological knowledge and can be searched and browsed at the &lt;a href=&#34;https://pmglab.top/pcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PCGA&lt;/a&gt; website.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Insights gained in the pathology of lung disease through single-cell transcriptomics</title>
+      <link>https://example.com/review/35608561/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35608561/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The human lung is a relatively quiescent organ in the normal healthy state but contains stem/progenitor cells that contribute to normal tissue maintenance and either repair or remodeling in response to injury and disease. Maintenance or repair lead to proper restoration of functional lung tissue and maintenance of physiological functions, with remodeling resulting in altered structure and function that is typically associated with disease. Knowledge of cell types contributing to lung tissue maintenance and repair/remodeling have largely relied on mouse models of injury-repair and lineage tracing of local progenitors. Therefore, many of the functional alterations underlying remodeling in human lung disease have remained poorly defined. However, the advent of advanced genomics approaches to define the molecular phenotype of lung cells at single-cell resolution has paved the way for rapid advances in our understanding of cell types present within the normal human lung and changes that accompany disease. Here we summarize recent advances in our understanding of disease-related changes in the molecular phenotype of human lung epithelium that have emerged from single-cell transcriptomic studies. We focus attention on emerging concepts of epithelial transitional states that characterize the pathological remodeling that accompanies chronic lung diseases, including idiopathic pulmonary fibrosis, chronic obstructive pulmonary disease, cystic fibrosis, and asthma. Concepts arising from these studies are actively evolving and require corroborative studies to improve our understanding of disease mechanisms. Whenever possible, we highlight opportunities for providing a unified nomenclature in this rapidly advancing field of research. © 2022 The Pathological Society of Great Britain and Ireland.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry</title>
+      <link>https://example.com/article/35593050/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35593050/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Increasing the information depth of single kidney biopsies can improve diagnostic precision, personalized medicine and accelerate basic kidney research. Until now, information on mRNA abundance and morphologic analysis has been obtained from different samples, missing out on the spatial context and single-cell correlation of findings. Herein, we present scoMorphoFISH, a modular toolbox to obtain spatial single-cell single-mRNA expression data from routinely generated kidney biopsies. Deep learning was used to virtually dissect tissue sections in tissue compartments and cell types to which single-cell expression data were assigned. Furthermore, we show correlative and spatial single-cell expression quantification with super-resolved podocyte foot process morphometry. In contrast to bulk analysis methods, this approach will help to identify local transcription changes even in less frequent kidney cell types on a spatial single-cell level with single-mRNA resolution. Using this method, we demonstrate that ACE2 can be locally upregulated in podocytes upon injury. In a patient suffering from COVID-19-associated collapsing FSGS, ACE2 expression levels were correlated with intracellular SARS-CoV-2 abundance. As this method performs well with standard formalin-fixed paraffin-embedded samples and we provide pretrained deep learning networks embedded in a comprehensive image analysis workflow, this method can be applied immediately in a variety of settings.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

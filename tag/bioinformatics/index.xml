@@ -5,12 +5,37 @@
     <link>https://example.com/tag/bioinformatics/</link>
       <atom:link href="https://example.com/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bioinformatics</title>
       <link>https://example.com/tag/bioinformatics/</link>
     </image>
+    
+    <item>
+      <title>Haplotype-aware pantranscriptome analyses using spliced pangenome graphs</title>
+      <link>https://example.com/article/36646895/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36646895/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pangenomics is emerging as a powerful computational paradigm in bioinformatics. This field uses population-level genome reference structures, typically consisting of a sequence graph, to mitigate reference bias and facilitate analyses that were challenging with previous reference-based methods. In this work, we extend these methods into transcriptomics to analyze sequencing data using the pantranscriptome: a population-level transcriptomic reference. Our toolchain, which consists of additions to the VG toolkit and a standalone tool, RPVG, can construct spliced pangenome graphs, map RNA sequencing data to these graphs, and perform haplotype-aware expression quantification of transcripts in a pantranscriptome. We show that this workflow improves accuracy over state-of-the-art RNA sequencing mapping methods, and that it can efficiently quantify haplotype-specific transcript expression without needing to characterize the haplotypes of a sample beforehand.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Single-cell transcriptomics reveals a mechanosensitive injury signaling pathway in early diabetic nephropathy</title>
@@ -1964,6 +1989,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We applied multi-compartment, single-cell RNA sequencing (scRNA-seq) to dissect heterogeneity within immune cell subsets during sepsis progression on cecal ligation and puncture (CLP) mouse model. Flow cytometry and multiplex immunofluorescence tissue staining were adopted to identify the presence of &amp;lsquo;mature DCs enriched in immunoregulatory molecules&amp;rsquo; (mregDC) upon septic challenge. To explore the function of mregDC, sorted mregDC were co-cultured with naïve CD4&lt;sup&gt;+&lt;/sup&gt; T cells. Intracellular signaling pathways that drove mregDC program were determined by integrating scRNA-seq and bulk-seq data, combined with inhibitory experiments.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; ScRNA-seq analysis revealed that sepsis induction was associated with substantial alterations and heterogeneity of canonical immune cell types, including T, B, natural killer (NK), and myeloid cells, across three immune-relevant tissue sites. We found a unique subcluster of conventional dendritic cells (cDCs) that was characterized by specific expression of maturation- and migration-related genes, along with upregulation of immunoregulatory molecules, corresponding to the previously described &amp;lsquo;mregDCs&amp;rsquo; in cancer. Flow cytometry and in stiu immunofluorescence staining confirmed the presence of sepsis-induced mregDC at protein level. Functional experiments showed that sepsis-induced mregDCs potently activated naive CD4&lt;sup&gt;+&lt;/sup&gt; T cells, while promoted CD4&lt;sup&gt;+&lt;/sup&gt; T cell conversion to regulatory T cells. Further observations indicated that the mregDC program was initiated via TNFRSF-NF-κB- and IFNGR2-JAK-STAT3-dependent pathways within 24 h of septic challenge. Additionally, we confirmed the detection of mregDC in human sepsis using publicly available data from a recently published single-cell study of COVID-19 patients.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study generates a comprehensive single-cell immune landscape for polymicrobial sepsis, in which we identify the significant alterations and heterogeneity in immune cell subsets that take place during sepsis. Moreover, we find a conserved and potentially targetable immunoregulatory program within DCs that associates with hyperinflammation and organ dysfunction early following sepsis induction.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry</title>
+      <link>https://example.com/article/35593050/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35593050/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Increasing the information depth of single kidney biopsies can improve diagnostic precision, personalized medicine and accelerate basic kidney research. Until now, information on mRNA abundance and morphologic analysis has been obtained from different samples, missing out on the spatial context and single-cell correlation of findings. Herein, we present scoMorphoFISH, a modular toolbox to obtain spatial single-cell single-mRNA expression data from routinely generated kidney biopsies. Deep learning was used to virtually dissect tissue sections in tissue compartments and cell types to which single-cell expression data were assigned. Furthermore, we show correlative and spatial single-cell expression quantification with super-resolved podocyte foot process morphometry. In contrast to bulk analysis methods, this approach will help to identify local transcription changes even in less frequent kidney cell types on a spatial single-cell level with single-mRNA resolution. Using this method, we demonstrate that ACE2 can be locally upregulated in podocytes upon injury. In a patient suffering from COVID-19-associated collapsing FSGS, ACE2 expression levels were correlated with intracellular SARS-CoV-2 abundance. As this method performs well with standard formalin-fixed paraffin-embedded samples and we provide pretrained deep learning networks embedded in a comprehensive image analysis workflow, this method can be applied immediately in a variety of settings.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

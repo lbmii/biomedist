@@ -65,6 +65,31 @@
     </item>
     
     <item>
+      <title>Haplotype-aware pantranscriptome analyses using spliced pangenome graphs</title>
+      <link>https://example.com/article/36646895/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36646895/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pangenomics is emerging as a powerful computational paradigm in bioinformatics. This field uses population-level genome reference structures, typically consisting of a sequence graph, to mitigate reference bias and facilitate analyses that were challenging with previous reference-based methods. In this work, we extend these methods into transcriptomics to analyze sequencing data using the pantranscriptome: a population-level transcriptomic reference. Our toolchain, which consists of additions to the VG toolkit and a standalone tool, RPVG, can construct spliced pangenome graphs, map RNA sequencing data to these graphs, and perform haplotype-aware expression quantification of transcripts in a pantranscriptome. We show that this workflow improves accuracy over state-of-the-art RNA sequencing mapping methods, and that it can efficiently quantify haplotype-specific transcript expression without needing to characterize the haplotypes of a sample beforehand.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Integrated multimodality microscope for accurate and efficient target-guided cryo-lamellae preparation</title>
       <link>https://example.com/article/36646896/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
@@ -1374,6 +1399,31 @@
     </item>
     
     <item>
+      <title>Geometric engineering of organoid culture for enhanced organogenesis in a dish</title>
+      <link>https://example.com/article/36280722/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36280722/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here, we introduce a facile, scalable engineering approach to enable long-term development and maturation of organoids. We have redesigned the configuration of conventional organoid culture to develop a platform that converts single injections of stem cell suspensions to radial arrays of organoids that can be maintained for extended periods without the need for passaging. Using this system, we demonstrate accelerated production of intestinal organoids with significantly enhanced structural and functional maturity, and their continuous development for over 4 weeks. Furthermore, we present a patient-derived organoid model of inflammatory bowel disease (IBD) and its interrogation using single-cell RNA sequencing to demonstrate its ability to reproduce key pathological features of IBD. Finally, we describe the extension of our approach to engineer vascularized, perfusable human enteroids, which can be used to model innate immune responses in IBD. This work provides an immediately deployable platform technology toward engineering more realistic organ-like structures in a dish.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Spatially resolved epigenomic profiling of single cells in complex tissues</title>
       <link>https://example.com/article/36272405/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
@@ -2109,6 +2159,31 @@
     </item>
     
     <item>
+      <title>Novel drug delivery systems and disease models for pulmonary fibrosis</title>
+      <link>https://example.com/review/35636615/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35636615/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pulmonary fibrosis (PF) is a serious and progressive lung disease which is possibly life-threatening. It causes lung scarring and affects lung functions including epithelial cell injury, massive recruitment of immune cells and abnormal accumulation of extracellular matrix (ECM). There is currently no cure for PF. Treatment for PF is aimed at slowing the course of the disease and relieving symptoms. Pirfenidone (PFD) and nintedanib (NDNB) are currently the only two FDA-approved oral medicines to slow down the progress of idiopathic pulmonary fibrosis, a specific type of PF. Novel drug delivery systems and therapies have been developed to improve the prognosis of the disease, as well as reduce or minimize the toxicities during drug treatment. The drug delivery routes for these therapies are various including oral, intravenous, nasal, inhalant, intratracheal and transdermal; although this is dependent on specific treatment mechanisms. In addition, researchers have also expanded current animal models that could not fully restore the clinicopathology, and developed a series of in vitro models such as organoids to study the pathogenesis and treatment of PF. This review describes recent advances on pathogenesis exploration, classifies and specifies the progress of drug delivery systems by their delivery routes, as well as an overview on the in vitro and in vivo models for PF research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Novel Drug Delivery Technologies and Targets for Renal Disease</title>
       <link>https://example.com/review/35652363/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
@@ -2167,12 +2242,87 @@
     </item>
     
     <item>
+      <title>In Vivo Imaging of Circadian NET Formation During Lung Injury by Four-Dimensional Intravital Microscopy</title>
+      <link>https://example.com/article/35610434/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35610434/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) are toxic extracellular structures deployed by neutrophils in response to pathogens and sterile danger signals. NETs are circadian in nature as mouse and human neutrophils preferentially deploy them at night or early morning. Traditionally, NETs have been quantified using a plethora of methods including immunofluorescence and ELISA-based assays; however few options are available to visualize them in vivo. Here we describe a method to directly visualize and quantify NET formation and release in the microvasculature of the lung using intravital imaging in a model of acute lung injury. The method allows four-dimensional capture and quantification of NET formation dynamics over time and should be a useful resource for those interested in visualizing neutrophil responses &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry</title>
+      <link>https://example.com/article/35593050/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35593050/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Increasing the information depth of single kidney biopsies can improve diagnostic precision, personalized medicine and accelerate basic kidney research. Until now, information on mRNA abundance and morphologic analysis has been obtained from different samples, missing out on the spatial context and single-cell correlation of findings. Herein, we present scoMorphoFISH, a modular toolbox to obtain spatial single-cell single-mRNA expression data from routinely generated kidney biopsies. Deep learning was used to virtually dissect tissue sections in tissue compartments and cell types to which single-cell expression data were assigned. Furthermore, we show correlative and spatial single-cell expression quantification with super-resolved podocyte foot process morphometry. In contrast to bulk analysis methods, this approach will help to identify local transcription changes even in less frequent kidney cell types on a spatial single-cell level with single-mRNA resolution. Using this method, we demonstrate that ACE2 can be locally upregulated in podocytes upon injury. In a patient suffering from COVID-19-associated collapsing FSGS, ACE2 expression levels were correlated with intracellular SARS-CoV-2 abundance. As this method performs well with standard formalin-fixed paraffin-embedded samples and we provide pretrained deep learning networks embedded in a comprehensive image analysis workflow, this method can be applied immediately in a variety of settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Lighting Up Neural Circuits by Viral Tracing</title>
       <link>https://example.com/review/35578093/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/review/35578093/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Neurons are highly interwoven to form intricate neural circuits that underlie the diverse functions of the brain. Dissecting the anatomical organization of neural circuits is key to deciphering how the brain processes information, produces thoughts, and instructs behaviors. Over the past decades, recombinant viral vectors have become the most commonly used tracing tools to define circuit architecture. In this review, we introduce the current categories of viral tools and their proper application in circuit tracing. We further discuss some advances in viral tracing strategy and prospective innovations of viral tools for future study.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Plasma-Enabled Smart Nanoexosome Platform as Emerging Immunopathogenesis for Clinical Viral Infection</title>
+      <link>https://example.com/review/35631640/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35631640/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Smart nanoexosomes are nanosized structures enclosed in lipid bilayers that are structurally similar to the viruses released by a variety of cells, including the cells lining the respiratory system. Of particular importance, the interaction between smart nanoexosomes and viruses can be used to develop antiviral drugs and vaccines. It is possible that nanoexosomes will be utilized and antibodies will be acquired more successfully for the transmission of an immune response if reconvalescent plasma (CP) is used instead of reconvalescent plasma exosomes (CPExo) in this concept. Convalescent plasma contains billions of smart nanoexosomes capable of transporting a variety of molecules, including proteins, lipids, RNA and DNA among other viral infections. Smart nanoexosomes are released from virus-infected cells and play an important role in mediating communication between infected and uninfected cells. Infections use the formation, production and release of smart nanoexosomes to enhance the infection, transmission and intercellular diffusion of viruses. Cell-free smart nanoexosomes produced by mesenchymal stem cells (MSCs) could also be used as cell-free therapies in certain cases. Smart nanoexosomes produced by mesenchymal stem cells can also promote mitochondrial function and heal lung injury. They can reduce cytokine storms and restore the suppression of host antiviral defenses weakened by viral infections. This study examines the benefits of smart nanoexosomes and their roles in viral transmission, infection, treatment, drug delivery and clinical applications. We also explore some potential future applications for smart nanoexosomes in the treatment of viral infections.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

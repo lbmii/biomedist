@@ -5,12 +5,40 @@
     <link>https://example.com/tag/cytomegalovirus/</link>
       <atom:link href="https://example.com/tag/cytomegalovirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Cytomegalovirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cytomegalovirus</title>
       <link>https://example.com/tag/cytomegalovirus/</link>
     </image>
+    
+    <item>
+      <title>HCMV-miR-US33-5p promotes apoptosis of aortic vascular smooth muscle cells by targeting EPAS1/SLC3A2 pathway</title>
+      <link>https://example.com/article/35596131/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35596131/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; In patients with acute aortic dissection (AAD), increased vascular smooth muscle cell (VSMC) apoptosis has been found. Human cytomegalovirus (HCMV)-miR-US33-5p was significantly increased in the plasma of patients with AAD. However, the roles of miR-US33-5p in human aortic VSMC (HA-VSMC) apoptosis remain to be elucidated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In the current study, cell apoptosis was analyzed by flow cytometry, cell proliferation by CCK-8 assay, and differentially expressed genes by RNA sequencing. Luciferase reporter assay was used for binding analysis between miR-US33-5p and endothelial PAS domain protein 1 (EPAS1), and EPAS1 and amino acid transporter heavy chain, member 2 (SLC3A2). The enrichment degree of SLC3A2 promoter DNA was analyzed by chromatin immunoprecipitation assay. Quantitative reverse-transcription polymerase chain reaction (qRT-PCR) and immunoblotting were performed for measuring messenger RNA (mRNA) and protein levels, respectively.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; It was found that HCMV infection inhibited proliferation but promoted HA-VSMC apoptosis by upregulating HCMV-miR-US33-5p. Transfection of HCMV-miR-US33-5p mimics the significant effect on several signaling pathways including integrin signaling as shown in the RNA sequencing data. Western blotting analysis confirmed that HCMV-miR-US33-5p mimics suppression of the activity of key factors of the integrin signal pathway including FAK, AKT, CAS, and Rac. Mechanistic study showed that HCMV-miR-US33-5p bound to the 3&amp;rsquo;-untranslated region of EPAS1 to suppress its expression, leading to suppression of SLC3A2 expression, which ultimately promoted cell apoptosis and inhibited cell proliferation. This was confirmed by the findings that silencing EPAS1 significantly reduced the SLC3A2 expression and inhibited proliferation and key factors of integrin signal pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; HCMV-miR-US33-5p suppressed proliferation, key factors of integrin signal pathway, and EPAS1/SLC3A2 expression, but promoted HA-VSMC apoptosis. These findings highlighted the importance of HCMV-miR-US33-5p/EPAS1/SCL3A2 signaling and may provide new insights into therapeutic strategies for AAD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>High-Definition Analysis of Host Protein Stability during Human Cytomegalovirus Infection Reveals Antiviral Factors and Viral Evasion Mechanisms</title>

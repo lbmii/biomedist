@@ -162,5 +162,30 @@
 </description>
     </item>
     
+    <item>
+      <title>ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry</title>
+      <link>https://example.com/article/35593050/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35593050/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Increasing the information depth of single kidney biopsies can improve diagnostic precision, personalized medicine and accelerate basic kidney research. Until now, information on mRNA abundance and morphologic analysis has been obtained from different samples, missing out on the spatial context and single-cell correlation of findings. Herein, we present scoMorphoFISH, a modular toolbox to obtain spatial single-cell single-mRNA expression data from routinely generated kidney biopsies. Deep learning was used to virtually dissect tissue sections in tissue compartments and cell types to which single-cell expression data were assigned. Furthermore, we show correlative and spatial single-cell expression quantification with super-resolved podocyte foot process morphometry. In contrast to bulk analysis methods, this approach will help to identify local transcription changes even in less frequent kidney cell types on a spatial single-cell level with single-mRNA resolution. Using this method, we demonstrate that ACE2 can be locally upregulated in podocytes upon injury. In a patient suffering from COVID-19-associated collapsing FSGS, ACE2 expression levels were correlated with intracellular SARS-CoV-2 abundance. As this method performs well with standard formalin-fixed paraffin-embedded samples and we provide pretrained deep learning networks embedded in a comprehensive image analysis workflow, this method can be applied immediately in a variety of settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
