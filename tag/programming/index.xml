@@ -350,6 +350,38 @@
     </item>
     
     <item>
+      <title>Systematic single-cell pathway analysis to characterize early T cell activation</title>
+      <link>https://example.com/article/36417885/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36417885/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SCPA is a dedicated tool for pathway analysis in scRNA-seq data&lt;/li&gt;
+&lt;li&gt;SCPA assesses the multivariate distributions of pathways to detect significance&lt;/li&gt;
+&lt;li&gt;Cell intrinsic IFN-α and arachidonic acid metabolism promote human T cell function&lt;/li&gt;
+&lt;li&gt;Alpha-defensin expression is unique to bone-marrow-derived T cells&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pathway analysis is a key analytical stage in the interpretation of omics data, providing a powerful method for detecting alterations in cellular processes. We recently developed a sensitive and distribution-free statistical framework for multisample distribution testing, which we implement here in the open-source R package single-cell pathway analysis (SCPA). We demonstrate the effectiveness of SCPA over commonly used methods, generate a scRNA-seq T cell dataset, and characterize pathway activity over early cellular activation. This reveals regulatory pathways in T cells, including an intrinsic type I interferon system regulating T cell survival and a reliance on arachidonic acid metabolism throughout T cell activation. A systems-level characterization of pathway activity in T cells across multiple tissues also identifies alpha-defensin expression as a hallmark of bone-marrow-derived T cells. Overall, this work provides a widely applicable tool for single-cell pathway analysis and highlights regulatory mechanisms of T cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Gene probes re-annotation with SeqMap and R</title>
       <link>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>

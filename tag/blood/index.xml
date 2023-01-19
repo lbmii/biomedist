@@ -5,12 +5,37 @@
     <link>https://example.com/tag/blood/</link>
       <atom:link href="https://example.com/tag/blood/index.xml" rel="self" type="application/rss+xml" />
     <description>Blood</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Blood</title>
       <link>https://example.com/tag/blood/</link>
     </image>
+    
+    <item>
+      <title>Fecal microbiota transplantation from young mice rejuvenates aged hematopoietic stem cells by suppressing inflammations</title>
+      <link>https://example.com/article/36638348/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638348/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hematopoietic stem cell (HSC) aging is accompanied by hematopoietic reconstitution dysfunction, including loss of regenerative and engraftment ability, myeloid differentiation bias and elevated risks of hematopoietic malignancies. Gut microbiota, a key regulator of host health and immunity, has been recently reported to impact hematopoiesis. However, there is currently limited empirical evidence elucidating the direct impact of gut microbiome on aging hematopoiesis. In this study, we performed fecal microbiota transplantation (FMT) from young mice to aged mice and observed significant increment in lymphoid differentiation and decrease in myeloid differentiation in aged recipient mice. Further, FMT from young mice rejuvenated aged HSCs with enhanced short-term and long-term hematopoietic repopulation capacity. Mechanistically, single-cell RNA sequencing deciphered that FMT from young mice mitigated inflammatory signals, upregulated FoxO signaling pathway and promoted lymphoid differentiation of HSCs during aging. Finally, integrated microbiome and metabolome analyses uncovered that FMT reshaped gut microbiota construction and metabolite landscape, and Lachnospiraceae and tryptophan-associated metabolites promoted the recovery of hematopoiesis and rejuvenated aged HSCs. Together, our study highlights the paramount importance of the gut microbiota in HSC aging and provides insights into therapeutic strategies for aging-related hematologic disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Dietary ketone body-escalated histone acetylation in megakaryocytes alleviates chemotherapy-induced thrombocytopenia</title>

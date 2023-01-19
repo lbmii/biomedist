@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lung/</link>
       <atom:link href="https://example.com/tag/lung/index.xml" rel="self" type="application/rss+xml" />
     <description>Lung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lung</title>
       <link>https://example.com/tag/lung/</link>
     </image>
+    
+    <item>
+      <title>8-Oxoguanine targeted by 8-oxoguanine DNA glycosylase 1 (OGG1) is central to fibrogenic gene activation upon lung injury</title>
+      <link>https://example.com/article/36651270/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36651270/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reactive oxygen species (ROS) are implicated in epithelial cell-state transition and deposition of extracellular matrix upon airway injury. Of the many cellular targets of ROS, oxidative DNA modification is a major driving signal. However, the role of oxidative DNA damage in modulation profibrotic processes has not been fully delineated. Herein, we report that oxidative DNA base lesions, 8-oxoG, complexed with 8-oxoguanine DNA glycosylase 1 (OGG1) functions as a pioneer factor, contributing to transcriptional reprogramming within airway epithelial cells. We show that TGFβ1-induced ROS increased 8-oxoG levels in open chromatin, dynamically reconfigure the chromatin state. OGG1 complexed with 8-oxoG recruits transcription factors, including phosphorylated SMAD3, to pro-fibrotic gene promoters thereby facilitating gene activation. Moreover, 8-oxoG levels are elevated in lungs of mice subjected to TGFβ1-induced injury. Pharmacologic targeting of OGG1 with the selective small molecule inhibitor of 8-oxoG binding, TH5487, abrogates fibrotic gene expression and remodeling in this model. Collectively, our study implicates that 8-oxoG substrate-specific binding by OGG1 is a central modulator of transcriptional regulation in response to tissue repair.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>LncRNA BC promotes lung adenocarcinoma progression by modulating IMPAD1 alternative splicing</title>
@@ -10462,12 +10487,155 @@
     </item>
     
     <item>
+      <title>Targeting SNORA38B attenuates tumorigenesis and sensitizes immune checkpoint blockade in non-small cell lung cancer by remodeling the tumor microenvironment via regulation of GAB2/AKT/mTOR signaling pathway</title>
+      <link>https://example.com/article/35577506/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35577506/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Non-coding RNAs (ncRNAs), including small nucleolar RNAs (snoRNAs), are widely involved in the physiological and pathological processes of human beings. While up to date, although considerable progress has been achieved in ncRNA-related pathogenesis of non-small cell lung cancer (NSCLC), the underlying mechanisms and biological significance of snoRNAs in NSCLC still need to be further clarified.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Quantitative real-time polymerase chain reaction or RNAscope was performed to verify the expression of Small Nucleolar RNA, H/ACA Box 38B (SNORA38B) in NSCLC cell lines or clinical samples. BALB/c nude mice xenograft model or C57BL/6J mice syngeneic tumor model were estimated to detect the effects of SNORA38B in tumor growth or tumor immune microenvironment in vivo. Cytometry by time of flight, enzyme-linked immunosorbent assay and flow cytometry assay were conducted to clarify the effects and mechanisms of SNORA38B-mediated tumor immunosuppressive microenvironment. The binding activity between SNORA38B and E2F transcription factor 1(E2F1) was detected by RNA immunoprecipitation and RNA pull-down assays. Then, bioinformatics analysis and chromatin immunoprecipitation were utilized to demonstrate the regulation of GRB2-associated-binding protein 2 (GAB2) by E2F1. Moreover, the combinatorial treatment of SNORA38B locked nucleic acid (LNA) and immune checkpoint blockade (ICB) was used to treat murine Lewis lung carcinoma-derived tumor burden C57BL/6J mice to clarify the effectiveness of targeting SNORA38B in NSCLC immunotherapy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SNORA38B was found highly expressed in NSCLC tissues and cell lines, and associated with worse prognosis. Further results showed that SNORA38B functioned as an oncogene via facilitating cell proliferation, migration, invasion, and inhibiting cell apoptosis in vitro and promoting tumorigenesis of NSCLC cells in vivo. SNORA38B could also recruit the CD4+FOXP3+ regulatory T cells by triggering tumor cells to secrete interleukin 10, which in turn reduced the infiltration of CD3+CD8+ T cells in NSCLC tumor microenvironment (TME), favoring tumor progression and poorer immune efficacy. Mechanistically, SNORA38B mainly distributed in the nucleus, and promoted NSCLC progression by regulating GAB2 transcription to activate protein kinase B (AKT)/mammalian target of rapamycin (mTOR) pathway through directly binding with E2F1. Moreover, we found that SNORA38B LNAs were able to ameliorate CD3+CD8+ T cell infiltration in TME, which sensitized NSCLC to the treatment of ICB.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; In conclusion, our data demonstrated that SNORA38B functioned as an oncogene in NSCLC both in vitro and in vivo at least in part by regulating the GAB2/AKT/mTOR pathway via directly binding to E2F1. SNORA38B could also sensitize NSCLC to immunotherapy, which may be a critical therapeutic target for NSCLC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genomic landscape of chemical-induced lung tumors under Nrf2 different expression levels</title>
+      <link>https://example.com/article/35561328/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35561328/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The transcription factor Nrf2 plays a crucial role in the anti-oxidative stress response, protection of DNA from injury and DNA repair mechanisms. Nrf2 activity reduces cancer initiation, but how Nrf2 affects whole-genome alterations upon carcinogenic stimulus remains unexplored. Although recent genome-wide analysis using next-generation sequencing revealed landscapes of nucleotide mutations and copy number alterations in various human cancers, genomic changes in murine cancer models have not been thoroughly examined. We elucidated the relationship between Nrf2 expression levels and whole exon mutation patterns using an ethyl-carbamate (urethane)-induced lung carcinogenesis model employing &lt;em&gt;Nrf2&lt;/em&gt;-deficient and &lt;em&gt;Keap1&lt;/em&gt;-kd mice, the latter of which express high levels of &lt;em&gt;Nrf2&lt;/em&gt;. Exome analysis demonstrated that single nucleotide and trinucleotide mutation patterns and the Kras mutational signature differed significantly and were dependent on the expression level of &lt;em&gt;Nrf2&lt;/em&gt;. The &lt;em&gt;Nrf2&lt;/em&gt;-deficient tumors exhibited fewer copy number alterations relative to the &lt;em&gt;Nrf2&lt;/em&gt;-wt and &lt;em&gt;Keap1&lt;/em&gt;-kd tumors. The observed trend in genomic alterations likely prevented the &lt;em&gt;Nrf2&lt;/em&gt;-deficient tumors from progressing into malignancy. For the first time, we present whole-exome sequencing results for chemically-induced lung tumors in the &lt;em&gt;Nrf2&lt;/em&gt; gain or loss of function mouse models. Our results demonstrate that different &lt;em&gt;Nrf2&lt;/em&gt; expression levels lead to distinct gene mutation patterns that underly different oncogenic mechanisms in each tumor genotype.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Metformin Regulates Alveolar Macrophage Polarization to Protect Against Acute Lung Injury in Rats Caused by Paraquat Poisoning</title>
       <link>https://example.com/article/35645808/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35645808/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This study explored the role of metformin (MET) in regulating the polarization of alveolar macrophages to protect against acute lung injury (ALI) in rats caused by paraquat (PQ) poisoning. The &lt;em&gt;in vivo&lt;/em&gt; studies showed that the 35 mg/kg dose of MET increased the survival rate of rats, alleviated pathological damages to the lungs and their systemic inflammation, promoted the reduction of the pro-inflammatory factors interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α) levels, and increased the anti-inflammatory factor IL-10 levels in the rat serum. At the same time, the MET intervention decreased the expression of M1 macrophage marker iNOS in the lungs of the PQ-poisoned rats while increasing the M2 macrophage marker, Arg1, expression. &lt;em&gt;In vitro&lt;/em&gt;, the concentration of MET &amp;gt; 10 mmol/L affected NR8383 viability adversely and was concentration-dependent; however, no adverse impact on NR8383 viability was observed at MET ≤ 10 mmol/L concentration, resisting the reducing effect of PQ on NR8383 vitality. The PQ-induced NR8383 model with MET intervention showed significantly reduced secretions of IL-6 and TNF-α in NR8383, and lowered expressions of M1 macrophage markers iNOS and CD86. Additionally, MET increased IL-10 secretion and the M2 macrophage markers, Arg1 and Mrcl, expressions. Therefore, we speculate that MET could regulate alveolar macrophage polarization to protect against PQ-poisoning caused ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sipeimine ameliorates PM2.5-induced lung injury by inhibiting ferroptosis via the PI3K/Akt/Nrf2 pathway: A network pharmacology approach</title>
+      <link>https://example.com/article/35567927/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35567927/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PM2.5 exposure can cause lung injury and a large number of respiratory disorders.&lt;/li&gt;
+&lt;li&gt;Sipeimine ameliorated lung injury caused by PM2.5.&lt;/li&gt;
+&lt;li&gt;Sipeimine decreased ferroptosis in type II alveolar epithelial cells.&lt;/li&gt;
+&lt;li&gt;The effects of sipeimine were mediated through the PI3K/Akt signaling pathway.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fine particulate matter (PM2.5) exposure can cause lung injury and a large number of respiratory diseases. Sipeimine is a steroidal alkaloid isolated from Fritillaria roylei which has been associated with anti-inflammatory, antitussive and antiasthmatic properties. In this study, we explored the potential effects of sipeimine against PM2.5-induced lung injury in Sprague Dawley rats. Sipeimine alleviated lung injury caused by PM2.5 and decreased pulmonary edema, inflammation and the levels of tumor necrosis factor-α (TNF-α) and interleukin-1β (IL-1β) in the bronchoalveolar lavage fluid. In addition, sipeimine upregulated the glutathione (GSH) expression and downregulated the expression of 4-hydroxynonenal (4-HNE), tissue iron and malondialdehyde (MDA). The downregulation of proteins involved in ferroptosis, including nuclear factor E2-related factor 2 (Nrf2), glutathione peroxidase 4 (GPX4), heme oxygenase-1 (HO-1) and solute carrier family 7 member 11 (SLC7A11) was reversed by sipeimine. The administration of RSL3, a potent ferroptosis-triggering agent, blocked the effects of sipeimine. Using network pharmacology, we found that the effects of sipeimine were presumably mediated through the phosphatidylinositol 3-kinase/protein kinase B (PI3K/Akt) signaling pathway. A PI3K inhibitor (LY294002) blocked the PI3K/Akt signaling pathway and reversed the effects of sipeimine. Overall, this study suggested that the protective effect of sipeimine against PM2.5-induced lung injury was mainly mediated through the PI3K/Akt pathway, ultimately leading to a reduction in ferroptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nitrated fatty acid, 10-nitrooleate protects against hyperoxia-induced acute lung injury in mice</title>
+      <link>https://example.com/article/35561478/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35561478/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intratracheal administration of 10-nitrooleate inhibits hyperoxia-induced inflammation and alveolar permeability.&lt;/li&gt;
+&lt;li&gt;10-nitrooleate modulates the antioxidant pathway and restores the hyperoxia-induced lung injury.&lt;/li&gt;
+&lt;li&gt;10-nitrooleate reversed the hyperoxia-induced expression of mitophagy-associated markers and protected the lung injury.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The antioxidant and anti-inflammatory effects of electrophilic nitrated fatty acid (NFA); 10-nitrooleate, have been reported. The present study investigated whether 10-nitrooleate has a protective role against hyperoxic-induced acute lung injury (HALI). Using a C57BL/6 mice model of HALI, we investigated the protective effect of 10-nitrooleate. C57BL/6 mice were administered with NFA intratracheally, exposed to hyperoxia for 48 h to induce HALI, and kept at room air for 24 h. Bronchoalveolar lavage (BAL) fluid and lung samples were collected after 24 h of post hyperoxia to analyze markers associated with HALI. Intratracheal (IT) and intraperitoneal (IP) administration of NFA notably attenuated hyperoxia-induced infiltration of inflammatory cells, alveolar-capillary leakage, upregulation of proinflammatory cytokine levels (IL-6 and TNFα) into the BAL fluid, and resolution of inflammation in the lung. Western blot analyses showed that 10-nitrooleate reduced the expression of the inflammatory transcription factor NFκB p65 subunit and increased antioxidant proteins HO-1 and NQO1 expression in the lung tissues compared to vehicle-treated animals. Moreover, 10-nitrooleate reversed the hyperoxia-induced expression of mitophagy-associated markers (PINK1 and p62/SQSTM1), thereby protecting the HALI/ acute respiratory distress syndrome (ARDS). IT and IP delivery of 10-nitrooleate reduces hyperoxia-induced ALI/ARDS by regulating the antioxidant pathways and restoring the mitochondrial homeostasis by regulating mitophagy. It is suggested that NFAs can be further evaluated as supplementary therapy for critically ill patients like COVID-19/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Myeloid Poldip2 Contributes to the Development of Pulmonary Inflammation by Regulating Neutrophil Adhesion in a Murine Model of Acute Respiratory Distress Syndrome</title>
+      <link>https://example.com/article/35535614/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35535614/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Lung injury, a severe adverse outcome of lipopolysaccharide-induced acute respiratory distress syndrome, is attributed to excessive neutrophil recruitment and effector response. Poldip2 (polymerase δ-interacting protein 2) plays a critical role in regulating endothelial permeability and leukocyte recruitment in acute inflammation. Thus, we hypothesized that &lt;em&gt;myeloid&lt;/em&gt; Poldip2 is involved in neutrophil recruitment to inflamed lungs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods and Results:&lt;/em&gt; After characterizing myeloid-specific &lt;em&gt;Poldip2&lt;/em&gt; knockout mice, we showed that at 18 hours post-lipopolysaccharide injection, bronchoalveolar lavage from myeloid Poldip2-deficient mice contained fewer inflammatory cells (8 [4-16] versus 29 [12-57]×10&lt;sup&gt;4&lt;/sup&gt;/mL in wild-type mice) and a smaller percentage of neutrophils (30% [28%-34%] versus 38% [33%-41%] in wild-type mice), while the main chemoattractants for neutrophils remained unaffected. In vitro, Poldip2-deficient neutrophils responded as well as wild-type neutrophils to inflammatory stimuli with respect to neutrophil extracellular trap formation, reactive oxygen species production, and induction of cytokines. However, neutrophil adherence to a tumor necrosis factor-α stimulated endothelial monolayer was inhibited by Poldip2 depletion (225 [115-272] wild-type [myePoldip2&lt;sup&gt;+/+&lt;/sup&gt;] versus 133 [62-178] myeloid-specific &lt;em&gt;Poldip2&lt;/em&gt; knockout [myePoldip2&lt;sup&gt;-/-&lt;/sup&gt;] neutrophils) as was transmigration (1.7 [1.3-2.1] versus 1.1 [1.0-1.4] relative to baseline transmigration). To determine the underlying mechanism, we examined the surface expression of β2-integrin, its binding to soluble intercellular adhesion molecule 1, and Pyk2 phosphorylation. Surface expression of β2-integrins was not affected by Poldip2 deletion, whereas β2-integrins and Pyk2 were less activated in Poldip2-deficient neutrophils.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; These results suggest that myeloid Poldip2 is involved in β2-integrin activation during the inflammatory response, which in turn mediates neutrophil-to-endothelium adhesion in lipopolysaccharide-induced acute respiratory distress syndrome.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10512,6 +10680,94 @@
     </item>
     
     <item>
+      <title>A novel tRNA-derived fragment AS-tDR-007333 promotes the malignancy of NSCLC via the HSPB1/MED29 and ELK4/MED29 axes</title>
+      <link>https://example.com/article/35526007/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35526007/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Transfer RNA-derived fragments (tRFs) are a new class of small non-coding RNAs. Recent studies suggest that tRFs participate in some pathological processes. However, the biological functions and mechanisms of tRFs in non-small cell lung cancer (NSCLC) are largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Differentially expressed tRFs were identified by tRF and tiRNA sequencing using 9 pairs of pre- and post-operation plasma from patients with NSCLC. Quantitative real-time PCR (qRT-PCR) and fluorescence in situ hybridization (FISH) were used to determine the levels of tRF in tissues, plasma, and cells. Gain- and loss-of-function experiments were implemented to investigate the oncogenic effects of tRF on NSCLC cells in vitro and in vivo. Chromatin immunoprecipitation (ChIP), luciferase reporter, RNA pulldown, mass spectrum, RNA immunoprecipitation (RIP), Western blot, co-immunoprecipitation (Co-IP) assays, and rescue experiments were performed to explore the regulatory mechanisms of tRF in NSCLC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; AS-tDR-007333 was an uncharacterized tRF and significantly up-regulated in NSCLC tissues, plasma, and cells. Clinically, AS-tDR-007333 overexpression could distinguish NSCLC patients from healthy controls and associated with poorer prognosis of NSCLC patients. Functionally, overexpression of AS-tDR-007333 enhanced proliferation and migration of NSCLC cells, whereas knockdown of AS-tDR-007333 resulted in opposite effects. Mechanistically, AS-tDR-007333 promoted the malignancy of NSCLC cells by activating MED29 through two distinct mechanisms. First, AS-tDR-007333 bound to and interacted with HSPB1, which activated MED29 expression by enhancing H3K4me1 and H3K27ac in MED29 promoter. Second, AS-tDR-007333 stimulated the expression of transcription factor ELK4, which bound to MED29 promoter and increased its transcription. Therapeutically, inhibition of AS-tDR-007333 suppressed NSCLC cell growth in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study identifies a new oncogenic tRF and uncovers a novel mechanism that AS-tDR-007333 promotes NSCLC malignancy through the HSPB1-MED29 and ELK4-MED29 axes. AS-tDR-007333 is a potential diagnostic or prognostic marker and therapeutic target for NSCLC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Small Extracellular Vesicles Containing miR-34c Derived from Bone Marrow Mesenchymal Stem Cells Regulates Epithelial Sodium Channel via Targeting MARCKS</title>
+      <link>https://example.com/article/35563590/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35563590/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epithelial sodium channel (ENaC) is a pivotal regulator of alveolar fluid clearance in the airway epithelium and plays a key role in the treatment of acute lung injury (ALI), which is mainly composed of the three homologous subunits (α, β and γ). The mechanisms of microRNAs in small extracellular vesicles (sEVs) derived from mesenchymal stem cell (MSC-sEVs) on the regulation of lung ion transport are seldom reported. In this study, we aimed at investigating whether miR-34c had an effect on ENaC dysfunction induced by lipopolysaccharide and explored the underlying mechanism in this process. Primarily, the effect of miR-34c on lung edema and histopathology changes in an ALI mouse model was investigated. Then the uptake of PKH26-labeled sEVs was observed in recipient cells, and we observed that the overexpression of miR-34c in MSC-sEVs could upregulate the LPS-inhibited γ-ENaC expression. The dual luciferase reporter gene assay demonstrated that myristoylated alanine-rich C kinase substrate (MARCKS) was one of target genes of miR-34c, the protein expression of which was negatively correlated with miR-34c. Subsequently, either upregulating miR-34c or knocking down MARCKS could increase the protein expression of phospho-phosphatidylinositol 3-kinase (p-PI3K) and phospho-protein kinase B (p-AKT), implying a downstream regulation pathway was involved. All of the above suggest that miR-34c in MSC-sEVs can attenuate edematous lung injury via enhancing γ-ENaC expression, at least partially, through targeting MARCKS and activating the PI3K/AKT signaling pathway subsequently.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Arsenic induces ferroptosis and acute lung injury through mtROS-mediated mitochondria-associated endoplasmic reticulum membrane dysfunction</title>
+      <link>https://example.com/article/35525119/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35525119/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acute As exposure induced pulmonary function decline and ALI in mice.&lt;/li&gt;
+&lt;li&gt;Acute As exposure caused ferroptosis, MAMs dysfunction and mitochondrial stress in mice lungs and pulmonary epithelial cells.&lt;/li&gt;
+&lt;li&gt;Pretreatment with ferrostatin-1 alleviated As-induced pulmonary function decline and ALI.&lt;/li&gt;
+&lt;li&gt;PERK inhibitor and Mfn-2-overexpression inhibited As-evoked ferroptosis in pulmonary epithelial cells.&lt;/li&gt;
+&lt;li&gt;MitoQ neutralized As-mediated MAMs dysfunction, mtROS production and ferroptosis in pulmonary epithelial cells.&lt;/li&gt;
+&lt;li&gt;MitoQ abolished As-induced decline of the interaction between PERK and Mfn-2 in pulmonary epithelial cells.&lt;/li&gt;
+&lt;li&gt;MitoQ attenuated As-caused ferroptosis and ALI in mice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The goal of this study was to analyze whether mitochondria-associated endoplasmic reticulum membrane (MAMs) dysfunction mediated arsenic (As)-evoked pulmonary ferroptosis and acute lung injury (ALI). As exposure led to alveolar structure damage, inflammatory cell infiltration and pulmonary function decline in mice. Ferritin, the marker of iron overload, was increased, GPX4, the index of lipid peroxidation, was decreased in As-exposed lungs and pulmonary epithelial cells (MLE-12). Pretreatment with ferrostatin-1 (Fer-1), the inhibitor of ferroptosis, alleviated As-evoked ALI. In addition, As-induced non-heme iron deposition was inhibited in Fer-1 pretreated-mice. Moreover, As-triggered mitochondria damage and ferroptosis were mitigated in Fer-1 pretreated-MLE-12 cells. Mechanistically, PERK phosphorylation and mitofusin-2 (Mfn-2) reduction was observed in As-exposed MLE-12 cells and mice lungs. Additionally, the interaction between PERK and Mfn-2 was downregulated and MAMs dysfunction was observed in As-exposed MLE-12 cells. Intriguingly, PERK inhibitor and Mfn-2-overexpression all mitigated As-induced ferroptosis in MLE-12 cells. Additionally, CLPP and mtHSP70, the markers of mitochondrial stress, were upregulated, mitochondrial ROS (mtROS) was elevated, mitochondrial membrane potential (MMP) and ATP were decreased in As-exposed MLE-12 cells. Mitoquinone mesylate (MitoQ), a novel mitochondrial-targeted antioxidant, alleviated As-induced excess mtROS, mitochondrial stress, MAMs dysfunction in pulmonary epithelial cells. Similarly, in vivo experiments indicated that MitoQ pretreatment countered As-induced pulmonary ferroptosis and ALI. These data indicated that mtROS-initiated MAMs dysfunction is, at least partially, implicated in As-evoked ferroptosis and ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Korean Red Ginseng water extract inhibits cadmium-induced lung injury via suppressing MAPK/ERK1/2/AP-1 pathway</title>
       <link>https://example.com/article/36090678/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
@@ -10521,6 +10777,66 @@
 &lt;p&gt;&lt;em&gt;Method:&lt;/em&gt; The anti-inflammatory roles and underlying mechanisms of KRG-WE were evaluated in vitro under cadmium-stimulated lung epithelial cells (A549) and HEK293T cell line and in vivo in cadmium-induced lung injury mouse model using semi-quantitative polymerase chain reaction (RT-PCR), quantitative real-time PCR (qPCR), luciferase assay, immunoblotting, and FACS.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; KRG-WE strongly ameliorated the symptoms of CdSO4-induced lung injury in mice according to total cell number in bronchoalveolar lavage fluid (BALF) and severity scores as well as cytokine levels. KRG-WE significantly suppressed the upregulation of inflammatory signaling comprising mitogen-activated protein kinases (MAPK) and their upstream enzymes. In in vitro study, KRG-WE suppressed expression of interleukin (IL)-6, matrix metalloproteinase (MMP)-2, and IL-8 while promoting recovery in CdSO4-treated A549 cells. Similarly, KRG-WE reduced phosphorylation of MAPK and c-Jun/c-Fos in cadmium-exposed A549 cells.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; KRG-WE was found to attenuate symptoms of cadmium-induced lung injury and reduce the expression of inflammatory genes by suppression of MAPK/AP-1-mediated pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics analysis unravels dysregulated lysosomal function and lipid metabolism involved in sub-chronic particulate matter-induced pulmonary injury</title>
+      <link>https://example.com/article/35525343/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35525343/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A multi-omics approach was used to identify molecular changes in mouse lung tissues.&lt;/li&gt;
+&lt;li&gt;PM exposure impairs lung structure and inflammatory reactions in the mouse lungs.&lt;/li&gt;
+&lt;li&gt;Sub-chronic exposure to PM causes lung injury by disturbing lysosomal function and lipid metabolism homeostasis.&lt;/li&gt;
+&lt;li&gt;Different pathways are triggered in mouse lung tissues in response to PM exposure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Particulate matter (PM) is a huge environmental threat and is of major public concern. Oxidative stress and systemic inflammation are known factors that contribute to PM- related damage; however, a systematic understanding of the deleterious pulmonary effects of PM using multi-omics analysis is lacking. In this study, we performed transcriptomic, proteomic, and metabolomic analyses in a mouse model exposed to PM for three months to identify molecular changes in lung tissues. We identified 1690 genes, 326 proteins, and 67 metabolites exhibiting significant differences between PM-challenged and control mice (p &amp;lt; 0.05). Differentially expressed genes and proteins regulated in PM-challenged mice were involved in lipid metabolism and in the immune and inflammatory response processes. Moreover, a comprehensive analysis of transcript, protein, and metabolite datasets revealed that the genes, proteins, and metabolites in the PM-treated group were involved in lysosomal function and lipid metabolism. Specifically, Cathepsin D (Ctsd), Ferritin light chain (Ftl), Lactotransferrin (Ltf), Lipocalin 2 (Lcn2), and Prosaposin (Psap) were major proteins/genes associated with PM-induced pulmonary damage, while two lipid molecules PC (18:1(11Z)/16:0) and PA (16:0/18:1(11Z)) were major metabolites related to PM-induced pulmonary injury. In summary, lipid metabolism might be used as successful precautions and therapeutic targets in PM-induced pulmonary injury to maintain the stability of cellular lysosomal function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hydnocarpin D attenuates lipopolysaccharide-induced acute lung injury via MAPK/NF-κB and Keap1/Nrf2/HO-1 pathway</title>
+      <link>https://example.com/article/35537248/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35537248/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Acute lung injury (ALI) is a complex pulmonary destructive disease with limited therapeutic approaches. Hydnocarpin D (HD) is a flavonolignan isolated from Hydnocarpus wightiana which possesses antioxidant and anti-inflammatory properties. However, whether HD has beneficial effects on ALI as well as its underlying mechanism remains to be elucidated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; This study evaluated the protective effect of HD in ALI and the underlying molecular mechanisms.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; &lt;em&gt;In vivo&lt;/em&gt;, the role of HD on lipopolysaccharide (LPS)-induced ALI in mice was tested by determination of neutrophil infiltration, levels of inflammatory cytokines, lung histology and edema, vascular and alveolar barrier disruption. In vitro, murine macrophage RAW 264.7 cells were used to investigate the molecular mechanisms RESULTS: Administration of HD protected mice against LPS-induced ALI, including ameliorating the histological alterations in the lung tissues, and decreasing lung edema, protein content of bronchoalveolar lavage fluid, infiltration of inflammatory cell and secretion of cytokines. Moreover, HD blocked the phosphorylation of TLR-4, NF-κB, and ERK in LPS-induced lung injury. &lt;em&gt;In vitro&lt;/em&gt;, HD inhibited LPS-induced oxidative stress and inflammation in RAW 264.7 cells, which largely depend upon the upregulation of antioxidant defensive Nrf2 pathway, thereby suppressing LPS-activated proinflammatory mediator secretion, NLRP3 inflammasome, and MAPK/NF-κB signaling pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; HD attenuates oxidative stress and inflammation against LPS-induced ALI via MAPK/NF-κB and Keap1/Nrf2/HO-1 pathway, and is a promising novel therapeutic candidate for ALI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10572,12 +10888,87 @@
     </item>
     
     <item>
+      <title>3D In Vitro Models: Novel Insights into Idiopathic Pulmonary Fibrosis Pathophysiology and Drug Screening</title>
+      <link>https://example.com/review/35563831/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35563831/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Idiopathic pulmonary fibrosis (IPF) is a progressive and often lethal interstitial lung disease of unknown aetiology. IPF is characterised by myofibroblast activation, tissue stiffening, and alveolar epithelium injury. As current IPF treatments fail to halt disease progression or induce regeneration, there is a pressing need for the development of novel therapeutic targets. In this regard, tri-dimensional (3D) models have rapidly emerged as powerful platforms for disease modelling, drug screening and discovery. In this review, we will touch on how 3D in vitro models such as hydrogels, precision-cut lung slices, and, more recently, lung organoids and lung-on-chip devices have been generated and/or modified to reveal distinct cellular and molecular signalling pathways activated during fibrotic processes. Markedly, we will address how these platforms could provide a better understanding of fibrosis pathophysiology and uncover effective treatment strategies for IPF patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Circadian molecular clock disruption in chronic pulmonary diseases</title>
       <link>https://example.com/review/35508604/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/review/35508604/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The circadian clock is the biochemical oscillator with a near 24-h period that is responsible for generating the circadian rhythms in peripheral organs including the lung. Mounting evidence suggests that circadian clock disruption during chronic lung diseases plays an essential role in augmented oxidative stress, inflammatory response, metabolic imbalances, hypoxia/hyperoxia, mucus secretion, dysregulated autophagy, and alters pulmonary function. Here, we review circadian clock disruption and discuss candidate clock genes that are altered at the transcriptional or translational level in chronic pulmonary diseases. This review aims to provide the current knowledge and understanding of the circadian molecular clock disruption in chronic pulmonary diseases which will further advance the development of novel clock-based therapeutics in the future.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>UDP/P2Y6 contributes to enhancing LPS-induced acute lung injury by regulating neutrophil migration</title>
+      <link>https://example.com/article/35567855/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35567855/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophils play a prominent role in the inflammatory response and are a critical factor in the pathogenesis of acute lung injury (ALI). Despite a deep understanding of neutrophil accumulation in the pulmonary microvasculature during the process of this disease, the regulatory mechanism of neutrophil recruitment remains unclear. This study aimed to explore the functions and signaling pathways of the purinergic receptor P2Y&lt;sub&gt;6&lt;/sub&gt; in mediating the innate immune response in ALI. P2Y&lt;sub&gt;6&lt;/sub&gt;-deficient mice, bone marrow chimeras, and neutrophilic chimeras were created in this work to explore the function of P2Y&lt;sub&gt;6&lt;/sub&gt; in ALI. The results indicated that the extracellular nucleotide UDP was released as a dangerous signal and activated P2Y&lt;sub&gt;6&lt;/sub&gt; to promote the inflammatory response and pulmonary damage during the process of ALI. P2Y&lt;sub&gt;6&lt;/sub&gt; deficiency may mitigate deterioration of this disease, including reduced ALI-related inflammatory factor release and immune cell invasion. Bone marrow and neutrophil chimeras and adoptive transfer in mice showed that P2Y&lt;sub&gt;6&lt;/sub&gt; expression on neutrophils contributed to neutrophil infiltration into lung tissues induced by UDP. Further work indicated that P2Y&lt;sub&gt;6&lt;/sub&gt; was involved in the neutrophil migration capability through the ErK signaling pathway by mediating the deformation of F-actin filaments and pseudopodia formation during cell recruitment to pulmonary tissue. Here, we provide evidence for the mechanism by which the purinergic receptor P2Y&lt;sub&gt;6&lt;/sub&gt; contributes to ALI development by regulating neutrophil infiltration into lung tissues. These data indicated that P2Y&lt;sub&gt;6&lt;/sub&gt; might be a potential therapeutic target for the treatment of this acute severe disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pathophysiological Role of Vimentin Intermediate Filaments in Lung Diseases</title>
+      <link>https://example.com/review/35573702/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35573702/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vimentin intermediate filaments, a type III intermediate filament, are among the most widely studied IFs and are found abundantly in mesenchymal cells. Vimentin intermediate filaments localize primarily in the cytoplasm but can also be found on the cell surface and extracellular space. The cytoplasmic vimentin is well-recognized for its role in providing mechanical strength and regulating cell migration, adhesion, and division. The post-translationally modified forms of Vimentin intermediate filaments have several implications in host-pathogen interactions, cancers, and non-malignant lung diseases. This review will analyze the role of vimentin beyond just the epithelial to mesenchymal transition (EMT) marker highlighting its role as a regulator of host-pathogen interactions and signaling pathways for the pathophysiology of various lung diseases. In addition, we will also examine the clinically relevant anti-vimentin compounds and antibodies that could potentially interfere with the pathogenic role of Vimentin intermediate filaments in lung disease.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10647,6 +11038,31 @@
     </item>
     
     <item>
+      <title>Rabeprazole Promotes Vascular Repair and Resolution of Sepsis-Induced Inflammatory Lung Injury through HIF-1α</title>
+      <link>https://example.com/article/35563731/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35563731/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are currently no effective treatments for sepsis and acute respiratory distress syndrome (ARDS). The repositioning of existing drugs is one possible effective strategy for the treatment of sepsis and ARDS. We previously showed that vascular repair and the resolution of sepsis-induced inflammatory lung injury is dependent upon endothelial HIF-1α/FoxM1 signaling. The aim of this study was to identify a candidate inducer of HIF-1α/FoxM1 signaling for the treatment of sepsis and ARDS. Employing high throughput screening of a library of 1200 FDA-approved drugs by using hypoxia response element (HRE)-driven luciferase reporter assays, we identified Rabeprazole (also known as Aciphex) as a top HIF-α activator. In cultured human lung microvascular endothelial cells, Rabeprazole induced HIF1A mRNA expression in a dose-dependent manner. A dose-response study of Rabeprazole in a mouse model of endotoxemia-induced inflammatory lung injury identified a dose that was well tolerated and enhanced vascular repair and the resolution of inflammatory lung injury. Rabeprazole treatment resulted in reductions in lung vascular leakage, edema, and neutrophil sequestration and proinflammatory cytokine expression during the repair phrase. We next used &lt;em&gt;Hif1a/Tie2Cre&lt;/em&gt; knockout mice and &lt;em&gt;Foxm1/Tie2Cre&lt;/em&gt; knockout mice to show that Rabeprazole promoted vascular repair through HIF-1α/FoxM1 signaling. In conclusion, Rabeprazole is a potent inducer of HIF-1α that promotes vascular repair and the resolution of sepsis-induced inflammatory lung injury via endothelial HIF-1α/FoxM1 signaling. This drug therefore represents a promising candidate for repurposing to effectively treat severe sepsis and ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>KMT2C deficiency promotes small cell lung cancer metastasis through DNMT3A-mediated epigenetic reprogramming</title>
       <link>https://example.com/article/35449309/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
@@ -10681,6 +11097,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Primary pulmonary microvascular endothelial cells were exposed to lipopolysaccharide for 4 hours and then recovered for 8 hours in complete media (Media), Steen, or Steen followed by complete media (Steen/Media). Oxidative stress, chemokines, permeability, interendothelial junction proteins, and toll-like receptor 4-mediated pathways were assessed in pulmonary microvascular endothelial cells using standard methods.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Lipopolysaccharide treatment of pulmonary microvascular endothelial cells and recovery in Media significantly induced reactive oxygen species, lipid peroxidation, expression of chemokines (eg, chemokine [C-X-C motif] ligand 1 and C-C motif chemokine ligand 2) and cell adhesion molecules (P-selectin, E-selectin, and vascular cell adhesion molecule 1), permeability, neutrophil transmigration, p38 mitogen-activated protein kinase and nuclear factor kappa B signaling, and decreased expression of tight and adherens junction proteins (zonula occludens-1, zonula occludens-2, and vascular endothelial-cadherin). All of these inflammatory pathways were significantly attenuated after recovery of pulmonary microvascular endothelial cells in Steen or Steen/Media.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Steen solution preserves pulmonary endothelial barrier function after lipopolysaccharide exposure by promoting an anti-inflammatory environment via attenuation of oxidative stress, toll-like receptor 4-mediated signaling, and conservation of interendothelial junctions. These protective mechanisms offer insight into the advancement of methods for in vivo lung perfusion with Steen for the treatment of severe acute respiratory distress syndrome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Impairment of Mitochondrial ATP Synthesis Induces RIPK3-dependent Necroptosis in Lung Epithelial Cells During Lung Injury by Lung Inflammation</title>
+      <link>https://example.com/article/35573150/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35573150/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysfunction of mitochondrial metabolism is implicated in cellular injury and cell death. While mitochondrial dysfunction is associated with lung injury by lung inflammation, the mechanism by which the impairment of mitochondrial ATP synthesis regulates necroptosis during acute lung injury (ALI) by lung inflammation is unclear. Here, we showed that the impairment of mitochondrial ATP synthesis induces receptor interacting serine/threonine kinase 3 (RIPK3)-dependent necroptosis during lung injury by lung inflammation. We found that the impairment of mitochondrial ATP synthesis by oligomycin, an inhibitor of ATP synthase, resulted in increased lung injury and RIPK3 levels in lung tissues during lung inflammation by LPS in mice. The elevated RIPK3 and RIPK3 phosphorylation levels by oligomycin resulted in high mixed lineage kinase domain-like (MLKL) phosphorylation, the terminal molecule in necroptotic cell death pathway, in lung epithelial cells during lung inflammation. Moreover, the levels of protein in bronchoalveolar lavage fluid (BALF) were increased by the activation of necroptosis via oligomycin during lung inflammation. Furthermore, the levels of ATP5A, a catalytic subunit of the mitochondrial ATP synthase complex for ATP synthesis, were reduced in lung epithelial cells of lung tissues from patients with acute respiratory distress syndrome (ARDS), the most severe form of ALI. The levels of RIPK3, RIPK3 phosphorylation and MLKL phosphorylation were elevated in lung epithelial cells in patients with ARDS. Our results suggest that the impairment of mitochondrial ATP synthesis induces RIPK3-dependent necroptosis in lung epithelial cells during lung injury by lung inflammation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10809,6 +11250,31 @@
     </item>
     
     <item>
+      <title>Update on the Features and Measurements of Experimental Acute Lung Injury in Animals: An Official American Thoracic Society Workshop Report</title>
+      <link>https://example.com/article/35103557/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35103557/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Advancements in methods, technology, and our understanding of the pathobiology of lung injury have created the need to update the definition of experimental acute lung injury (ALI). We queried 50 participants with expertise in ALI and acute respiratory distress syndrome using a Delphi method composed of a series of electronic surveys and a virtual workshop. We propose that ALI presents as a &amp;ldquo;multidimensional entity&amp;rdquo; characterized by four &amp;ldquo;domains&amp;rdquo; that reflect the key pathophysiologic features and underlying biology of human acute respiratory distress syndrome. These domains are 1) histological evidence of tissue injury, 2) alteration of the alveolar-capillary barrier, 3) presence of an inflammatory response, and 4) physiologic dysfunction. For each domain, we present &amp;ldquo;relevant measurements,&amp;rdquo; defined as those proposed by at least 30% of respondents. We propose that experimental ALI encompasses a continuum of models ranging from those focusing on gaining specific mechanistic insights to those primarily concerned with preclinical testing of novel therapeutics or interventions. We suggest that mechanistic studies may justifiably focus on a single domain of lung injury, but models must document alterations of at least three of the four domains to qualify as &amp;ldquo;experimental ALI.&amp;rdquo; Finally, we propose that a time criterion defining &amp;ldquo;acute&amp;rdquo; in ALI remains relevant, but the actual time may vary based on the specific model and the aspect of injury being modeled. The continuum concept of ALI increases the flexibility and applicability of the definition to multiple models while increasing the likelihood of translating preclinical findings to critically ill patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Neuropilin-1 mediates lung tissue-specific control of ILC2 function in type 2 immunity</title>
       <link>https://example.com/article/35075279/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
@@ -10843,6 +11309,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; This study mainly investigated the pulmonary toxicity of respirable-sized CDP in mice using unbiased single-cell RNA sequencing. CDP (&amp;lt; 5 μm) collected from the coal mine was analyzed by Scanning Electron Microscope (SEM) and Mass Spectrometer. In addition, western blotting, Elisa, QPCR was used to detect gene expression at mRNA or protein levels. Pathological analysis including HE staining, Masson staining, immunohistochemistry, and immunofluorescence staining were performed to characterize the structure and functional alternation in the pneumoconiosis mouse and verify the reliability of single-cell sequencing results.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SEM image and Mass Spectrometer analysis showed that coal dust particles generated during coal mine production have been crushed and screened with a diameter of less than 5 µm and contained less than 10% silica. Alveolar structure and pulmonary microenvironment were destroyed, inflammatory and death (apoptosis, autophagy, and necrosis) pathways were activated, leading to pneumoconiosis in post 9 months coal dust stimulation. A distinct abnormally increased alveolar type 2 epithelial cell (AT2) were classified with a highly active state but reduced the antimicrobial-related protein expression of LYZ and Chia1 after CDP exposure. Beclin1, LC3B, LAMP2, TGF-ß, and MLPH were up-regulated induced by CDP, promoting autophagy and pulmonary fibrosis. A new subset of macrophages with M2-type polarization double expressed MLPH + /CD206 + was found in mice having pneumoconiosis but markedly decreased after the Vitamin D treatment. Activated MLPH + /CD206 + M2 macrophages secreted TGF-β1 and are sensitive to Vitamin D treatment.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This is the first study to reconstruct the pathologic progression and transcriptome pattern of coal pneumoconiosis in mice. Coal dust had obvious toxic effects on lung epithelial cells and macrophages and eventually induced pulmonary fibrosis. CDP-induced M2-type macrophages could be inhibited by VD, which may be related to the alleviation of the pulmonary fibrosis process.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>BMSC-Derived Exosomes Carrying lncRNA-ZFAS1 Alleviate Pulmonary Ischemia/Reperfusion Injury by UPF1-Mediated mRNA Decay of FOXD1</title>
+      <link>https://example.com/article/36652050/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36652050/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bone marrow-derived mesenchymal stem cells (BMSCs) exert protective effects against pulmonary ischemia/reperfusion (I/R) injury; however, the potential mechanism involved in their protective ability remains unclear. Thus, this study aimed to explore the function and underlying mechanism of BMSC-derived exosomal lncRNA-ZFAS1 in pulmonary I/R injury. Pulmonary I/R injury models were established in mice and hypoxia/reoxygenation (H/R)-exposed primary mouse lung microvascular endothelial cells (LMECs). Exosomes were extracted from BMSCs. Target molecule expression was assessed by qRT-PCR and Western blotting. Pathological changes in the lungs, pulmonary edema, apoptosis, pro-inflammatory cytokine levels, SOD, MPO activities, and MDA level were measured. The proliferation, apoptosis, and migration of LMECs were detected by CCK-8, EdU staining, flow cytometry, and scratch assay. Dual-luciferase reporter assay, RNA pull-down, RIP, and ChIP assays were performed to validate the molecular interaction. In the mouse model of pulmonary I/R injury, BMSC-Exos treatment relieved lung pathological injury, reduced lung W/D weight ratio, and restrained apoptosis and inflammation, whereas exosomal ZFAS1 silencing abolished these beneficial effects. In addition, the proliferation, migration inhibition, apoptosis, and inflammation in H/R-exposed LMECs were repressed by BMSC-derived exosomal ZFAS1. Mechanistically, ZFAS1 contributed to FOXD1 mRNA decay via interaction with UPF1, thereby leading to Gal-3 inactivation. Furthermore, FOXD1 depletion strengthened the weakened protective effect of ZFAS1-silenced BMSC-Exos on pulmonary I/R injury. ZFAS1 delivered by BMSC-Exos results in FOXD1 mRNA decay and subsequent Gal-3 inactivation via direct interaction with UPF1, thereby attenuating pulmonary I/R injury.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10975,6 +11466,35 @@
       <guid>https://example.com/article/34607953/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Chemokine production by epithelial cells is important for neutrophil recruitment during viral infection, the appropriate regulation of which is critical for restraining inflammation and attenuating subsequent tissue damage. Epithelial cell expression of long noncoding RNAs (lncRNAs), RNA-binding proteins, and their functional interactions during viral infection and inflammation remain to be fully understood. Here, we identified an inducible lncRNA in the &lt;em&gt;Cxcl2&lt;/em&gt; gene locus, lnc-Cxcl2, which could selectively inhibit &lt;em&gt;Cxcl2&lt;/em&gt; expression in mouse lung epithelial cells but not in macrophages. lnc-Cxcl2-deficient mice exhibited increased &lt;em&gt;Cxcl2&lt;/em&gt; expression, enhanced neutrophils recruitment, and more severe inflammation in the lung after influenza virus infection. Mechanistically, nucleus-localized lnc-Cxcl2 bound to &lt;em&gt;Cxcl2&lt;/em&gt; promoter, recruited a ribonucleoprotein La, which inhibited the chromatin accessibility of chemokine promoters, and consequently inhibited &lt;em&gt;Cxcl2&lt;/em&gt; transcription in cis However, unlike mouse lnc-Cxcl2, human lnc-CXCL2-4-1 inhibited multiple immune cytokine expressions including chemokines in human lung epithelial cells. Together, our results demonstrate a self-protecting mechanism within epithelial cells to restrain chemokine and neutrophil-mediated inflammation, providing clues for better understanding chemokine regulation and epithelial cell function in lung viral infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ruscogenin alleviates LPS-triggered pulmonary endothelial barrier dysfunction through targeting NMMHC IIA to modulate TLR4 signaling</title>
+      <link>https://example.com/article/35530141/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35530141/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Erratum: Author correction to &amp;lsquo;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2211383522001629&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ruscogenin alleviates LPS-triggered pulmonary endothelial barrier dysfunction through targeting NMMHC IIA to modulate TLR4 signaling&lt;/em&gt;&lt;/a&gt;&amp;rsquo; [Acta Pharmaceutica Sinica B 12 (2022) 1198-1212].&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pulmonary endothelial barrier dysfunction is a hallmark of clinical pulmonary edema and contributes to the development of acute lung injury (ALI). Here we reported that ruscogenin (RUS), an effective steroidal sapogenin of Radix Ophiopogon japonicus, attenuated lipopolysaccharides (LPS)-induced pulmonary endothelial barrier disruption through mediating non-muscle myosin heavy chain IIA (NMMHC IIA)‒Toll-like receptor 4 (TLR4) interactions. By in vivo and in vitro experiments, we observed that RUS administration significantly ameliorated LPS-triggered pulmonary endothelial barrier dysfunction and ALI. Moreover, we identified that RUS directly targeted NMMHC IIA on its N-terminal and head domain by serial affinity chromatography, molecular docking, biolayer interferometry, and microscale thermophoresis analyses. Downregulation of endothelial NMMHC IIA expression in vivo and in vitro abolished the protective effect of RUS. It was also observed that NMMHC IIA was dissociated from TLR4 and then activating TLR4 downstream Src/vascular endothelial cadherin (VE-cadherin) signaling in pulmonary vascular endothelial cells after LPS treatment, which could be restored by RUS. Collectively, these findings provide pharmacological evidence showing that RUS attenuates LPS-induced pulmonary endothelial barrier dysfunction by inhibiting TLR4/Src/VE-cadherin pathway through targeting NMMHC IIA and mediating NMMHC IIA‒TLR4 interactions.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

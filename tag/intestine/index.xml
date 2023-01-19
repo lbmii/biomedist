@@ -5,12 +5,37 @@
     <link>https://example.com/tag/intestine/</link>
       <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
     <description>Intestine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Intestine</title>
       <link>https://example.com/tag/intestine/</link>
     </image>
+    
+    <item>
+      <title>High-resolution analysis of mononuclear phagocytes reveals GPNMB as a prognostic marker in human colorectal liver metastasis</title>
+      <link>https://example.com/article/36652202/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36652202/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Patients with colorectal liver metastasis (CLM) present with heterogenous clinical outcomes and improved classification is needed to ameliorate the therapeutic output. Macrophages (MΦ) hold promise as prognostic classifiers and therapeutic targets. Here, stemming from a single-cell analysis of mononuclear phagocytes infiltrating human CLM, we identified two M markers associated with distinct populations with opposite clinical relevance. The invasive margin of CLM was enriched in pro-inflammatory monocyte-derived MΦ (MoMΦ) expressing the monocytic marker SERPINB2, and a more differentiated population, TAMs, expressing GPNMB. SERPINB2+ MoMΦ had an early inflammatory profile, whereas GPNMB+ TAMs were enriched in pathways of matrix degradation, angiogenesis and lipid metabolism and were found closer to the tumor margin, as confirmed by spatial transcriptomics on CLM specimens. In a cohort of patients, a high infiltration of SERPINB2+ cells independently associated with longer disease-free survival (DFS) (&lt;em&gt;P&lt;/em&gt;=0.033), whereas a high density of GPNMB+ cells correlated with shorter DFS (&lt;em&gt;P&lt;/em&gt;=0.012) and overall survival (OS) (&lt;em&gt;P&lt;/em&gt;=0.002). Cell-cell interaction analysis defined opposing roles for MoMΦ and TAMs, suggesting that SERPINB2+ and GPNMB+ cells are discrete populations of MΦ and may be exploited for further translation to an immune-based stratification tool. This study provides evidence of how multi-omics approaches can identify non-redundant, clinically relevant markers for further translation to immune-based patient stratification tools and therapeutic targets. GPNMB has been shown to set macrophages in an immunosuppressive mode. Our high dimensional analyses provide further evidence that GPNMB is a negative prognostic indicator and a potential player in the pro-tumor function of macrophage populations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Fructose-1,6-bisphosphatase 1 dephosphorylates IκBα and suppresses colorectal tumorigenesis</title>
@@ -3369,6 +3394,95 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The gut microbiota prime systemic antiviral immunity via the cGAS-STING-IFN-I axis</title>
+      <link>https://example.com/article/35545033/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35545033/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suppression of gut microbiota renders mice susceptible to systemic viral infections&lt;/li&gt;
+&lt;li&gt;The gut microbiota drive systemic antiviral immunity via IFN-I priming&lt;/li&gt;
+&lt;li&gt;Microbiota-driven IFN-I priming involves the cGAS-STING axis&lt;/li&gt;
+&lt;li&gt;Microbiota mediate systemic IFN-I priming via DNA-containing membrane vesicles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The microbiota are vital for immune homeostasis and provide a competitive barrier to bacterial and fungal pathogens. Here, we investigated how gut commensals modulate systemic immunity and response to viral infection. Antibiotic suppression of the gut microbiota reduced systemic tonic type I interferon (IFN-I) and antiviral priming. The microbiota-driven tonic IFN-I-response was dependent on cGAS-STING but not on TLR signaling or direct host-bacteria interactions. Instead, membrane vesicles (MVs) from extracellular bacteria activated the cGAS-STING-IFN-I axis by delivering bacterial DNA into distal host cells. DNA-containing MVs from the gut microbiota were found in circulation and promoted the clearance of both DNA (herpes simplex virus type 1) and RNA (vesicular stomatitis virus) viruses in a cGAS-dependent manner. In summary, this study establishes an important role for the microbiota in peripheral cGAS-STING activation, which promotes host resistance to systemic viral infections. Moreover, it uncovers an underappreciated risk of antibiotic use during viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A widely expressed free immunoglobulin κ chain with a unique Vκ4-1/Jκ3 pattern promotes colon cancer invasion and metastasis by activating the integrin β1/FAK pathway</title>
+      <link>https://example.com/article/35533952/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35533952/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The immunoglobulin κ chain with a unique Vκ4-1/Jκ3 pattern is widely expressed in cancer cell.&lt;/li&gt;
+&lt;li&gt;Vκ4-1/Jκ3-Igκ is a hydrophobic FLC potentially located in the ECM and promotes cancer progression.&lt;/li&gt;
+&lt;li&gt;Vκ4-1/Jκ3-FLC interacts with integrin β1 and promotes cancer cells growth and migration via activating the FAK signaling.&lt;/li&gt;
+&lt;li&gt;Vκ4-1/Jκ3-FLC might be a novel therapeutic target in many cancers, such as colon cancer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Historically, immunoglobulin (Ig) has been known as an antibody and is expressed only in B lineage cells; importantly, Ig light chains are conjugated to heavy chains to form intact Igs. However, in this study, we found a free Igκ light chain with a unique Vκ4-1/Jκ3 rearrangement (Vκ4-1/Jκ3-FLC) that was widely expressed in different non-B lineages and was overexpressed in cancer cells. Further study indicated that Vκ4-1/Jκ3-FLC was hydrophobic, formed obvious insoluble deposits in the extracellular matrix (ECM) and existed in free form. Functional analyses demonstrated that Vκ4-1/Jκ3-FLC promoted the proliferation, migration and metastasis of colon cancer cells &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;. Mechanistically, Vκ4-1/Jκ3-FLC bound to integrin β1 and activated the FAK and Src pathways. More importantly, specific antibodies against the variable region of Vκ4-1/Jκ3-FLC significantly inhibited the growth of colon cancer tumors. Our findings suggested that Vκ4-1/Jκ3-FLC is a novel ECM protein and integrin β1 ligand and that it is involved in cancer progression and is a potential therapeutic target in cancer, particularly colon cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>KLF16 enhances stress tolerance of colorectal carcinomas by modulating nucleolar homeostasis and translational reprogramming</title>
+      <link>https://example.com/article/35524408/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35524408/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Translational reprogramming is part of the unfolded protein response (UPR) during endoplasmic reticulum (ER) stress, which acts to the advantage of cancer growth and development in different stress conditions, but the mechanism of ER stress-related translational reprogramming in colorectal carcinoma (CRC) progression remains unclear. Here, we identified that Krüppel-like factor 16 (KLF16) can promote CRC progression and stress tolerance through translational reprogramming. The expression of KLF16 was upregulated in CRC tissues and associated with poor prognosis for CRC patients. We found that ER stress inducers can recruit KLF16 to the nucleolus and increase its interaction with two essential proteins for nucleolar homeostasis: nucleophosmin1 (NPM1) and fibrillarin (FBL). Moreover, knockdown of KLF16 can dysregulate nucleolar homeostasis in CRC cells. Translation-reporter system and polysome profiling assays further showed that KLF16 can effectively promote cap-independent translation of ATF4, which can enhance ER-phagy and the proliferation of CRC cells. Overall, our study unveils a previously unrecognized role for KLF16 as an ER stress regulator through mediating translational reprogramming to enhance the stress tolerance of CRC cells and provides a potential therapeutic vulnerability.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

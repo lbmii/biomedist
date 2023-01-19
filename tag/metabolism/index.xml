@@ -584,6 +584,38 @@
     </item>
     
     <item>
+      <title>Systematic single-cell pathway analysis to characterize early T cell activation</title>
+      <link>https://example.com/article/36417885/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36417885/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SCPA is a dedicated tool for pathway analysis in scRNA-seq data&lt;/li&gt;
+&lt;li&gt;SCPA assesses the multivariate distributions of pathways to detect significance&lt;/li&gt;
+&lt;li&gt;Cell intrinsic IFN-α and arachidonic acid metabolism promote human T cell function&lt;/li&gt;
+&lt;li&gt;Alpha-defensin expression is unique to bone-marrow-derived T cells&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pathway analysis is a key analytical stage in the interpretation of omics data, providing a powerful method for detecting alterations in cellular processes. We recently developed a sensitive and distribution-free statistical framework for multisample distribution testing, which we implement here in the open-source R package single-cell pathway analysis (SCPA). We demonstrate the effectiveness of SCPA over commonly used methods, generate a scRNA-seq T cell dataset, and characterize pathway activity over early cellular activation. This reveals regulatory pathways in T cells, including an intrinsic type I interferon system regulating T cell survival and a reliance on arachidonic acid metabolism throughout T cell activation. A systems-level characterization of pathway activity in T cells across multiple tissues also identifies alpha-defensin expression as a hallmark of bone-marrow-derived T cells. Overall, this work provides a widely applicable tool for single-cell pathway analysis and highlights regulatory mechanisms of T cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Chronic exposure to carbon black ultrafine particles reprograms macrophage metabolism and accelerates lung cancer</title>
       <link>https://example.com/article/36383649/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
@@ -1590,6 +1622,38 @@
       <guid>https://example.com/article/35537579/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Diagnosis and therapeutics of acute- and chronic- hepatitis (A-H and C-H) cannot be distinguished during clinical practice because functional molecular-characteristics of two conditions remains elusive. Here, we employed a functional metabolomics strategy to discover functional metabolites that can readily distinguish C-H from A-H in CCl&lt;sub&gt;4&lt;/sub&gt; treated mice. Metabolic-differentiation between A-H and C-H was identified as A-H was largely characterized by the dysregulated purine cycle and amino acid metabolism, while the disorders of hepatic taurine-conjugated bile acids and glycerolipid biosynthesis were observed with C-H. Excitingly, we found that the enhanced conversation of C&lt;sub&gt;18-22&lt;/sub&gt; PUFA-containing TAGs to MUFA-containing TAGs promoted the development of C-H, which was also closely associated with the changes of TCA intermediates regulated by gut microbiota (Muribaculaceae and Prevotellaceae). Such metabolic discovery on hepatitis was validated by the functional annotation of metabolic genes, as the decreased expressions of Slc27a2, Acaa1a and Acaa1b mostly account for the dysregulation of purine degradation with AH, then the lowered expressions of Cyp2e1, Cat, Slc27a5 and Klb are significantly related to the dysregulated bile acids with C-H. Collecting clinical samples from the patients with hepatitis to compare serum metabolomes with A-H and C-H mice, the determinant functional metabolites were identified to significantly distinguish C-H from A-H in both experimental and clinical settings, suggesting metabolic discovery with CCl&lt;sub&gt;4&lt;/sub&gt; treated mice could be further efficiently explored to guide clinical research of A-H and C-H. Collectively, our study is providing novel insight into distinctive metabolic-characteristics of A-H and C-H underlying the innovative diagnosis and therapeutics of hepatitis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics analysis unravels dysregulated lysosomal function and lipid metabolism involved in sub-chronic particulate matter-induced pulmonary injury</title>
+      <link>https://example.com/article/35525343/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35525343/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A multi-omics approach was used to identify molecular changes in mouse lung tissues.&lt;/li&gt;
+&lt;li&gt;PM exposure impairs lung structure and inflammatory reactions in the mouse lungs.&lt;/li&gt;
+&lt;li&gt;Sub-chronic exposure to PM causes lung injury by disturbing lysosomal function and lipid metabolism homeostasis.&lt;/li&gt;
+&lt;li&gt;Different pathways are triggered in mouse lung tissues in response to PM exposure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Particulate matter (PM) is a huge environmental threat and is of major public concern. Oxidative stress and systemic inflammation are known factors that contribute to PM- related damage; however, a systematic understanding of the deleterious pulmonary effects of PM using multi-omics analysis is lacking. In this study, we performed transcriptomic, proteomic, and metabolomic analyses in a mouse model exposed to PM for three months to identify molecular changes in lung tissues. We identified 1690 genes, 326 proteins, and 67 metabolites exhibiting significant differences between PM-challenged and control mice (p &amp;lt; 0.05). Differentially expressed genes and proteins regulated in PM-challenged mice were involved in lipid metabolism and in the immune and inflammatory response processes. Moreover, a comprehensive analysis of transcript, protein, and metabolite datasets revealed that the genes, proteins, and metabolites in the PM-treated group were involved in lysosomal function and lipid metabolism. Specifically, Cathepsin D (Ctsd), Ferritin light chain (Ftl), Lactotransferrin (Ltf), Lipocalin 2 (Lcn2), and Prosaposin (Psap) were major proteins/genes associated with PM-induced pulmonary damage, while two lipid molecules PC (18:1(11Z)/16:0) and PA (16:0/18:1(11Z)) were major metabolites related to PM-induced pulmonary injury. In summary, lipid metabolism might be used as successful precautions and therapeutic targets in PM-induced pulmonary injury to maintain the stability of cellular lysosomal function.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

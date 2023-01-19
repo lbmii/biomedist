@@ -50,6 +50,31 @@
     </item>
     
     <item>
+      <title>Fecal microbiota transplantation from young mice rejuvenates aged hematopoietic stem cells by suppressing inflammations</title>
+      <link>https://example.com/article/36638348/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638348/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hematopoietic stem cell (HSC) aging is accompanied by hematopoietic reconstitution dysfunction, including loss of regenerative and engraftment ability, myeloid differentiation bias and elevated risks of hematopoietic malignancies. Gut microbiota, a key regulator of host health and immunity, has been recently reported to impact hematopoiesis. However, there is currently limited empirical evidence elucidating the direct impact of gut microbiome on aging hematopoiesis. In this study, we performed fecal microbiota transplantation (FMT) from young mice to aged mice and observed significant increment in lymphoid differentiation and decrease in myeloid differentiation in aged recipient mice. Further, FMT from young mice rejuvenated aged HSCs with enhanced short-term and long-term hematopoietic repopulation capacity. Mechanistically, single-cell RNA sequencing deciphered that FMT from young mice mitigated inflammatory signals, upregulated FoxO signaling pathway and promoted lymphoid differentiation of HSCs during aging. Finally, integrated microbiome and metabolome analyses uncovered that FMT reshaped gut microbiota construction and metabolite landscape, and Lachnospiraceae and tryptophan-associated metabolites promoted the recovery of hematopoiesis and rejuvenated aged HSCs. Together, our study highlights the paramount importance of the gut microbiota in HSC aging and provides insights into therapeutic strategies for aging-related hematologic disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Protective effect of soloxolone derivatives in carrageenan- and LPS-driven acute inflammation: Pharmacological profiling and their effects on key inflammation-related processes</title>
       <link>https://example.com/article/36640672/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
@@ -2812,6 +2837,38 @@
       <guid>https://example.com/article/36414671/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Activation of RIPK1-driven cell death and inflammation play important roles in the progression of nonalcoholic steatohepatitis (NASH). However, the mechanism underlying RIPK1 activation in NASH remains unclear. Here we identified SENP1, a SUMO-specific protease, as a key endogenous inhibitor of RIPK1. SENP1 is progressively reduced in proportion to NASH severity in patients. Hepatocyte-specific SENP1-knockout mice develop spontaneous NASH-related phenotypes in a RIPK1 kinase-dependent manner. We demonstrate that SENP1 deficiency sensitizes cells to RIPK1 kinase-dependent apoptosis by promoting RIPK1 activation following TNFα stimulation. Mechanistically, SENP1 deSUMOylates RIPK1 in TNF-R1 signaling complex (TNF-RSC), keeping RIPK1 in check. Loss of SENP1 leads to SUMOylation of RIPK1, which re-orchestrates TNF-RSC and modulates the ubiquitination patterns and activity of RIPK1. Notably, genetic inhibition of RIPK1 effectively reverses disease progression in hepatocyte-specific SENP1-knockout male mice with high-fat-diet-induced nonalcoholic fatty liver. We propose that deSUMOylation of RIPK1 by SENP1 provides a pathophysiologically relevant cell death-restricting checkpoint that modulates RIPK1 activation in the pathogenesis of nonalcoholic steatohepatitis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic single-cell pathway analysis to characterize early T cell activation</title>
+      <link>https://example.com/article/36417885/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36417885/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SCPA is a dedicated tool for pathway analysis in scRNA-seq data&lt;/li&gt;
+&lt;li&gt;SCPA assesses the multivariate distributions of pathways to detect significance&lt;/li&gt;
+&lt;li&gt;Cell intrinsic IFN-α and arachidonic acid metabolism promote human T cell function&lt;/li&gt;
+&lt;li&gt;Alpha-defensin expression is unique to bone-marrow-derived T cells&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pathway analysis is a key analytical stage in the interpretation of omics data, providing a powerful method for detecting alterations in cellular processes. We recently developed a sensitive and distribution-free statistical framework for multisample distribution testing, which we implement here in the open-source R package single-cell pathway analysis (SCPA). We demonstrate the effectiveness of SCPA over commonly used methods, generate a scRNA-seq T cell dataset, and characterize pathway activity over early cellular activation. This reveals regulatory pathways in T cells, including an intrinsic type I interferon system regulating T cell survival and a reliance on arachidonic acid metabolism throughout T cell activation. A systems-level characterization of pathway activity in T cells across multiple tissues also identifies alpha-defensin expression as a hallmark of bone-marrow-derived T cells. Overall, this work provides a widely applicable tool for single-cell pathway analysis and highlights regulatory mechanisms of T cells.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10469,6 +10526,34 @@
     </item>
     
     <item>
+      <title>Targeting SNORA38B attenuates tumorigenesis and sensitizes immune checkpoint blockade in non-small cell lung cancer by remodeling the tumor microenvironment via regulation of GAB2/AKT/mTOR signaling pathway</title>
+      <link>https://example.com/article/35577506/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35577506/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Non-coding RNAs (ncRNAs), including small nucleolar RNAs (snoRNAs), are widely involved in the physiological and pathological processes of human beings. While up to date, although considerable progress has been achieved in ncRNA-related pathogenesis of non-small cell lung cancer (NSCLC), the underlying mechanisms and biological significance of snoRNAs in NSCLC still need to be further clarified.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Quantitative real-time polymerase chain reaction or RNAscope was performed to verify the expression of Small Nucleolar RNA, H/ACA Box 38B (SNORA38B) in NSCLC cell lines or clinical samples. BALB/c nude mice xenograft model or C57BL/6J mice syngeneic tumor model were estimated to detect the effects of SNORA38B in tumor growth or tumor immune microenvironment in vivo. Cytometry by time of flight, enzyme-linked immunosorbent assay and flow cytometry assay were conducted to clarify the effects and mechanisms of SNORA38B-mediated tumor immunosuppressive microenvironment. The binding activity between SNORA38B and E2F transcription factor 1(E2F1) was detected by RNA immunoprecipitation and RNA pull-down assays. Then, bioinformatics analysis and chromatin immunoprecipitation were utilized to demonstrate the regulation of GRB2-associated-binding protein 2 (GAB2) by E2F1. Moreover, the combinatorial treatment of SNORA38B locked nucleic acid (LNA) and immune checkpoint blockade (ICB) was used to treat murine Lewis lung carcinoma-derived tumor burden C57BL/6J mice to clarify the effectiveness of targeting SNORA38B in NSCLC immunotherapy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SNORA38B was found highly expressed in NSCLC tissues and cell lines, and associated with worse prognosis. Further results showed that SNORA38B functioned as an oncogene via facilitating cell proliferation, migration, invasion, and inhibiting cell apoptosis in vitro and promoting tumorigenesis of NSCLC cells in vivo. SNORA38B could also recruit the CD4+FOXP3+ regulatory T cells by triggering tumor cells to secrete interleukin 10, which in turn reduced the infiltration of CD3+CD8+ T cells in NSCLC tumor microenvironment (TME), favoring tumor progression and poorer immune efficacy. Mechanistically, SNORA38B mainly distributed in the nucleus, and promoted NSCLC progression by regulating GAB2 transcription to activate protein kinase B (AKT)/mammalian target of rapamycin (mTOR) pathway through directly binding with E2F1. Moreover, we found that SNORA38B LNAs were able to ameliorate CD3+CD8+ T cell infiltration in TME, which sensitized NSCLC to the treatment of ICB.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; In conclusion, our data demonstrated that SNORA38B functioned as an oncogene in NSCLC both in vitro and in vivo at least in part by regulating the GAB2/AKT/mTOR pathway via directly binding to E2F1. SNORA38B could also sensitize NSCLC to immunotherapy, which may be a critical therapeutic target for NSCLC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Tumor-Derived Lactate Creates a Favorable Niche for Tumor via Supplying Energy Source for Tumor and Modulating the Tumor Microenvironment</title>
       <link>https://example.com/review/35646923/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
@@ -10544,6 +10629,218 @@
     </item>
     
     <item>
+      <title>Antagonistic Effect of Selenium on Fumonisin B1 Promotes Neutrophil Extracellular Traps Formation in Chicken Neutrophils</title>
+      <link>https://example.com/article/35535747/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35535747/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophils are an important component of the innate immune system, and one of their defense mechanisms, neutrophil extracellular traps (NETs), is a hot topic of the current research. This study explored the effects of fumonisin B1 (FB1) on chicken neutrophil production of NETs and its possible molecular mechanism of action. Scanning electron microscopy and fluorescence microscopy were used to observe morphological changes in neutrophils, and a fluorescence microplate reader was used to detect reactive oxygen species (ROS) and extracellular DNA release from neutrophils. Quantitative PCR (qPCR) and western blot were used to determine the expression levels of selenoproteins. The results indicate that FB1 inhibited the zymosan-induced formation of NETs in chicken neutrophils by preventing ROS burst and histone H3 (H3) and neutrophil elastase (NE) release. Moreover, the mRNA expression levels of glutathione peroxidase (GPX), thioredoxin reductase (TXNRD), and deiodinase (DIO) were downregulated in the FB1 group. The protein expression levels of GPX1, GPX2, GPX3, DIO3, and TXNRD1 were consistent with the changes in their gene expressions, suggesting an abnormal selenoprotein expression in response to the toxic effects of FB1. Conversely, selenium (Se) supplementation reduced the toxic effects of FB1 and restored the NETs formation, indicating that Se can be used as a potential drug to prevent and control FB1 toxicity in livestock farming.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cumulative SARS-CoV-2 mutations and corresponding changes in immunity in an immunocompromised patient indicate viral evolution within the host</title>
+      <link>https://example.com/article/35538074/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35538074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Different scenarios explaining the emergence of novel variants of concern (VOC) of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have been reported, including their evolution in scarcely monitored populations, in animals as alternative hosts, or in immunocompromised individuals. Here we report SARS-CoV-2 immune escape mutations over a period of seven months in an immunocompromised patient with prolonged viral shedding. Signs of infection, viral shedding and mutation events are periodically analyzed using RT-PCR and next-generation sequencing based on naso-pharyngeal swabs, with the results complemented by immunological diagnostics to determine humoral and T cell immune responses. Throughout the infection course, 17 non-synonymous intra-host mutations are noted, with 15 (88.2%) having been previously described as prominent immune escape mutations (S:E484K, S:D950N, S:P681H, S:N501Y, S:del(9), N:S235F and S:H655Y) in VOCs. The high frequency of these non-synonymous mutations is consistent with multiple events of convergent evolution. Thus, our results suggest that specific mutations in the SARS-CoV-2 genome may represent positions with a fitness advantage, and may serve as targets in future vaccine and therapeutics development for COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Myeloid CCR2 Promotes Atherosclerosis after AKI</title>
+      <link>https://example.com/article/35537780/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35537780/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The risk of cardiovascular events rises after AKI. Leukocytes promote atherosclerotic plaque growth and instability. We established a model of enhanced remote atherosclerosis after renal ischemia-reperfusion (IR) injury and investigated the underlying inflammatory mechanisms.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Atherosclerotic lesions and inflammation were investigated in native and bone marrow-transplanted LDL receptor-deficient (&lt;em&gt;LDLr&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt;) mice after unilateral renal IR injury using histology, flow cytometry, and gene expression analysis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Aortic root atherosclerotic lesions were significantly larger after renal IR injury than in controls. A gene expression screen revealed enrichment for chemokines and their cognate receptors in aortas of IR-injured mice in early atherosclerosis, and of T cell-associated genes in advanced disease. Confocal microscopy revealed increased aortic macrophage proximity to T cells. Differential aortic inflammatory gene regulation in IR-injured mice largely paralleled the pattern in the injured kidney. Single-cell analysis identified renal cell types that produced soluble mediators upregulated in the atherosclerotic aorta. The analysis revealed a marked early increase in &lt;em&gt;Ccl2&lt;/em&gt;, which CCR2&lt;sup&gt;+&lt;/sup&gt; myeloid cells mainly expressed. CCR2 mediated myeloid cell homing to the post-ischemic kidney in a cell-individual manner. Reconstitution with &lt;em&gt;Ccr2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; bone marrow dampened renal post-ischemic inflammation, reduced aortic &lt;em&gt;Ccl2&lt;/em&gt; and inflammatory macrophage marker CD11c, and abrogated excess aortic atherosclerotic plaque formation after renal IR.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our data introduce an experimental model of remote proatherogenic effects of renal IR and delineate myeloid CCR2 signaling as a mechanistic requirement. Monocytes should be considered as mobile mediators when addressing systemic vascular sequelae of kidney injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Myeloid Poldip2 Contributes to the Development of Pulmonary Inflammation by Regulating Neutrophil Adhesion in a Murine Model of Acute Respiratory Distress Syndrome</title>
+      <link>https://example.com/article/35535614/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35535614/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Lung injury, a severe adverse outcome of lipopolysaccharide-induced acute respiratory distress syndrome, is attributed to excessive neutrophil recruitment and effector response. Poldip2 (polymerase δ-interacting protein 2) plays a critical role in regulating endothelial permeability and leukocyte recruitment in acute inflammation. Thus, we hypothesized that &lt;em&gt;myeloid&lt;/em&gt; Poldip2 is involved in neutrophil recruitment to inflamed lungs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods and Results:&lt;/em&gt; After characterizing myeloid-specific &lt;em&gt;Poldip2&lt;/em&gt; knockout mice, we showed that at 18 hours post-lipopolysaccharide injection, bronchoalveolar lavage from myeloid Poldip2-deficient mice contained fewer inflammatory cells (8 [4-16] versus 29 [12-57]×10&lt;sup&gt;4&lt;/sup&gt;/mL in wild-type mice) and a smaller percentage of neutrophils (30% [28%-34%] versus 38% [33%-41%] in wild-type mice), while the main chemoattractants for neutrophils remained unaffected. In vitro, Poldip2-deficient neutrophils responded as well as wild-type neutrophils to inflammatory stimuli with respect to neutrophil extracellular trap formation, reactive oxygen species production, and induction of cytokines. However, neutrophil adherence to a tumor necrosis factor-α stimulated endothelial monolayer was inhibited by Poldip2 depletion (225 [115-272] wild-type [myePoldip2&lt;sup&gt;+/+&lt;/sup&gt;] versus 133 [62-178] myeloid-specific &lt;em&gt;Poldip2&lt;/em&gt; knockout [myePoldip2&lt;sup&gt;-/-&lt;/sup&gt;] neutrophils) as was transmigration (1.7 [1.3-2.1] versus 1.1 [1.0-1.4] relative to baseline transmigration). To determine the underlying mechanism, we examined the surface expression of β2-integrin, its binding to soluble intercellular adhesion molecule 1, and Pyk2 phosphorylation. Surface expression of β2-integrins was not affected by Poldip2 deletion, whereas β2-integrins and Pyk2 were less activated in Poldip2-deficient neutrophils.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; These results suggest that myeloid Poldip2 is involved in β2-integrin activation during the inflammatory response, which in turn mediates neutrophil-to-endothelium adhesion in lipopolysaccharide-induced acute respiratory distress syndrome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The gut microbiota prime systemic antiviral immunity via the cGAS-STING-IFN-I axis</title>
+      <link>https://example.com/article/35545033/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35545033/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suppression of gut microbiota renders mice susceptible to systemic viral infections&lt;/li&gt;
+&lt;li&gt;The gut microbiota drive systemic antiviral immunity via IFN-I priming&lt;/li&gt;
+&lt;li&gt;Microbiota-driven IFN-I priming involves the cGAS-STING axis&lt;/li&gt;
+&lt;li&gt;Microbiota mediate systemic IFN-I priming via DNA-containing membrane vesicles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The microbiota are vital for immune homeostasis and provide a competitive barrier to bacterial and fungal pathogens. Here, we investigated how gut commensals modulate systemic immunity and response to viral infection. Antibiotic suppression of the gut microbiota reduced systemic tonic type I interferon (IFN-I) and antiviral priming. The microbiota-driven tonic IFN-I-response was dependent on cGAS-STING but not on TLR signaling or direct host-bacteria interactions. Instead, membrane vesicles (MVs) from extracellular bacteria activated the cGAS-STING-IFN-I axis by delivering bacterial DNA into distal host cells. DNA-containing MVs from the gut microbiota were found in circulation and promoted the clearance of both DNA (herpes simplex virus type 1) and RNA (vesicular stomatitis virus) viruses in a cGAS-dependent manner. In summary, this study establishes an important role for the microbiota in peripheral cGAS-STING activation, which promotes host resistance to systemic viral infections. Moreover, it uncovers an underappreciated risk of antibiotic use during viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Activation of CD4&#43; T Cell-Derived Cannabinoid Receptor 2 Signaling Exacerbates Sepsis via Inhibiting IL-10</title>
+      <link>https://example.com/article/35534212/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35534212/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The cannabinoid receptor 2 (CB2) is a receptor mainly expressed in immune cells and believed to be immunosuppressive in infective or inflammatory models. However, its role in sepsis has not been fully elucidated. In this study, we delineate the function and mechanism of CB2 in the cecal ligation and puncture-induced septic model in mice. The activation of CB2 signaling with HU308 led to decreased survival rates and more severe lung injury in septic mice, and lower IL-10 levels in peritoneal lavage fluid were observed in the CB2 agonist group. The mice with conditional knockout of CB2-encoding gene CNR2 in CD4&lt;sup&gt;+&lt;/sup&gt; T cells (CD4 Cre CNR2&lt;sup&gt;fl/fl&lt;/sup&gt;) improved survival, enhanced IL-10 production, and ameliorated pulmonary damage in the sepsis model after CB2 activation. In addition, double-knockout of the CNR2 gene (Lyz2 Cre CD4 Cre CNR2&lt;sup&gt;fl/fl&lt;/sup&gt;) decreased the susceptibility to sepsis compared with Lyz2 Cre CNR2&lt;sup&gt;fl/fl&lt;/sup&gt; mice. Mechanistically, the blockade of IL-10 with the anti-IL-10 Ab abolished its protection in CD4 Cre CNR2&lt;sup&gt;fl/fl&lt;/sup&gt; mice. In accordance with the animal study, in vitro results revealed that the lack of CNR2 in CD4&lt;sup&gt;+&lt;/sup&gt; cells elevated IL-10 production, and CB2 activation inhibited CD4&lt;sup&gt;+&lt;/sup&gt; T cell-derived IL-10 production. Furthermore, in the clinical environment, septic patients expressed enhanced CB2 mRNA levels compared with healthy donors in PBMCs, and their CB2 expression was inversely correlated with IL-10. These results suggested that the activation of CD4&lt;sup&gt;+&lt;/sup&gt; T cell-derived CB2 increased susceptibility to sepsis through inhibiting IL-10 production.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Regulation of Carcinogenesis by Sensory Neurons and Neuromediators</title>
+      <link>https://example.com/review/35565462/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35565462/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interactions between the immune system and the nervous system are crucial in maintaining homeostasis, and disturbances of these neuro-immune interactions may participate in carcinogenesis and metastasis. Nerve endings have been identified within solid tumors in humans and experimental animals. Although the involvement of the efferent sympathetic and parasympathetic innervation in carcinogenesis has been extensively investigated, the role of the afferent sensory neurons and the neuropeptides in tumor development, growth, and progression is recently appreciated. Similarly, current findings point to the significant role of Schwann cells as part of neuro-immune interactions. Hence, in this review, we mainly focus on local and systemic effects of sensory nerve activity as well as Schwann cells in carcinogenesis and metastasis. Specific denervation of vagal sensory nerve fibers, or vagotomy, in animal models, has been reported to markedly increase lung metastases of breast carcinoma as well as pancreatic and gastric tumor growth, with the formation of liver metastases demonstrating the protective role of vagal sensory fibers against cancer. Clinical studies have revealed that patients with gastric ulcers who have undergone a vagotomy have a greater risk of stomach, colorectal, biliary tract, and lung cancers. Protective effects of vagal activity have also been documented by epidemiological studies demonstrating that high vagal activity predicts longer survival rates in patients with colon, non-small cell lung, prostate, and breast cancers. However, several studies have reported that inhibition of sensory neuronal activity reduces the development of solid tumors, including prostate, gastric, pancreatic, head and neck, cervical, ovarian, and skin cancers. These contradictory findings are likely to be due to the post-nerve injury-induced activation of systemic sensory fibers, the level of aggressiveness of the tumor model used, and the local heterogeneity of sensory fibers. As the aggressiveness of the tumor model and the level of the inflammatory response increase, the protective role of sensory nerve fibers is apparent and might be mostly due to systemic alterations in the neuro-immune response. Hence, more insights into inductive and permissive mechanisms, such as systemic, cellular neuro-immunological mechanisms of carcinogenesis and metastasis formation, are needed to understand the role of sensory neurons in tumor growth and spread.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical implications of tristetraprolin (TTP) modulation in the treatment of inflammatory diseases</title>
+      <link>https://example.com/review/35525391/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35525391/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Abnormal regulation of pro-inflammatory cytokine and chemokine mediators can contribute to the excess inflammation characteristic of many autoimmune diseases, such as rheumatoid arthritis, psoriasis, Crohn&amp;rsquo;s disease, type 1 diabetes, and many others. The tristetraprolin (TTP) family consists of a small group of related RNA-binding proteins that bind to preferred AU-rich binding sites within the 3&amp;rsquo;-untranslated regions of specific mRNAs to promote mRNA deadenylation and decay. TTP deficient mice develop a severe systemic inflammatory syndrome consisting of arthritis, myeloid hyperplasia, dermatitis, autoimmunity and cachexia, due at least in part to the excess accumulation of proinflammatory chemokine and cytokine mRNAs and their encoded proteins. To investigate the possibility that increased TTP expression or activity might have a beneficial effect on inflammatory diseases, at least two mouse models have been developed that provide proof of principle that increasing TTP activity can promote the decay of pro-inflammatory and other relevant transcripts, and decrease the severity of mouse models of inflammatory disease. Animal studies of this type are summarized here, and we briefly review the prospects for harnessing these insights for the development of TTP-based anti-inflammatory treatments in humans.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Korean Red Ginseng water extract inhibits cadmium-induced lung injury via suppressing MAPK/ERK1/2/AP-1 pathway</title>
       <link>https://example.com/article/36090678/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
@@ -10553,6 +10850,62 @@
 &lt;p&gt;&lt;em&gt;Method:&lt;/em&gt; The anti-inflammatory roles and underlying mechanisms of KRG-WE were evaluated in vitro under cadmium-stimulated lung epithelial cells (A549) and HEK293T cell line and in vivo in cadmium-induced lung injury mouse model using semi-quantitative polymerase chain reaction (RT-PCR), quantitative real-time PCR (qPCR), luciferase assay, immunoblotting, and FACS.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; KRG-WE strongly ameliorated the symptoms of CdSO4-induced lung injury in mice according to total cell number in bronchoalveolar lavage fluid (BALF) and severity scores as well as cytokine levels. KRG-WE significantly suppressed the upregulation of inflammatory signaling comprising mitogen-activated protein kinases (MAPK) and their upstream enzymes. In in vitro study, KRG-WE suppressed expression of interleukin (IL)-6, matrix metalloproteinase (MMP)-2, and IL-8 while promoting recovery in CdSO4-treated A549 cells. Similarly, KRG-WE reduced phosphorylation of MAPK and c-Jun/c-Fos in cadmium-exposed A549 cells.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; KRG-WE was found to attenuate symptoms of cadmium-induced lung injury and reduce the expression of inflammatory genes by suppression of MAPK/AP-1-mediated pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Electroacupuncture at ST36 ( Zusanli) Prevents T-Cell Lymphopenia and Improves Survival in Septic Mice</title>
+      <link>https://example.com/article/35535053/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35535053/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; Sepsis is the main cause of death in intensive care unit. Maladaptive cytokine storm and T-cell lymphopenia are critical prognosis predictors of sepsis. Electroacupuncture (EA) is expected to be an effective intervention to prevent sepsis. This study aims to determine the potential of EA at ST36 (Zusanli) to prevent experimental septic mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Mice were randomly assigned into PBS, LPS, or EA+LPS group. EA (0.1 mA, continuous wave, 10 Hz) was performed stimulating the ST36 for 30 min, once a day for 3 days. After the third day, all mice were challenged with PBS or LPS (4 mg/kg) simultaneously. Mice were evaluated for survival, ear temperature, and other clinical symptoms. Lung and small intestine tissue injuries were analyzed by hematoxylin and eosin staining. Bio-Plex cytokine assay was used to analyze the concentration of cytokines. T lymphocytes were analyzed by flow cytometry and Western blot assays. The role of T cells in preventing sepsis by EA was analyzed by using nude mice lacking T lymphocytes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; EA at ST36 improved survival, symptom scores, and ear temperature of endotoxemic mice. EA also improved dramatically pulmonary and intestinal injury by over 50% as compared to untreated mice. EA blunted the inflammatory cytokine storm by inducing a lasting inhibition of the production of major inflammatory factors (TNF-α, IL-1β, IL-5, IL-6, IL-10, IL-17A, eotaxin, IFN-γ, MIP-1β and KC). Flow cytometry and Western blot analyses showed EA significantly reduced T-lymphocyte apoptosis and pyroptosis. Furthermore, T lymphocytes were critical for the effects of EA at ST36 stimulation blunted serum TNF-α levels in wild-type but not in nude mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; EA halted systemic inflammation and improved survival in endotoxemic mice. These effects are associated with the protective effect of EA on T lymphocytes, and T cells are required in the anti-inflammatory effects of EA in sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hydnocarpin D attenuates lipopolysaccharide-induced acute lung injury via MAPK/NF-κB and Keap1/Nrf2/HO-1 pathway</title>
+      <link>https://example.com/article/35537248/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35537248/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Acute lung injury (ALI) is a complex pulmonary destructive disease with limited therapeutic approaches. Hydnocarpin D (HD) is a flavonolignan isolated from Hydnocarpus wightiana which possesses antioxidant and anti-inflammatory properties. However, whether HD has beneficial effects on ALI as well as its underlying mechanism remains to be elucidated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; This study evaluated the protective effect of HD in ALI and the underlying molecular mechanisms.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; &lt;em&gt;In vivo&lt;/em&gt;, the role of HD on lipopolysaccharide (LPS)-induced ALI in mice was tested by determination of neutrophil infiltration, levels of inflammatory cytokines, lung histology and edema, vascular and alveolar barrier disruption. In vitro, murine macrophage RAW 264.7 cells were used to investigate the molecular mechanisms RESULTS: Administration of HD protected mice against LPS-induced ALI, including ameliorating the histological alterations in the lung tissues, and decreasing lung edema, protein content of bronchoalveolar lavage fluid, infiltration of inflammatory cell and secretion of cytokines. Moreover, HD blocked the phosphorylation of TLR-4, NF-κB, and ERK in LPS-induced lung injury. &lt;em&gt;In vitro&lt;/em&gt;, HD inhibited LPS-induced oxidative stress and inflammation in RAW 264.7 cells, which largely depend upon the upregulation of antioxidant defensive Nrf2 pathway, thereby suppressing LPS-activated proinflammatory mediator secretion, NLRP3 inflammasome, and MAPK/NF-κB signaling pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; HD attenuates oxidative stress and inflammation against LPS-induced ALI via MAPK/NF-κB and Keap1/Nrf2/HO-1 pathway, and is a promising novel therapeutic candidate for ALI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10597,12 +10950,137 @@
     </item>
     
     <item>
+      <title>UDP/P2Y6 contributes to enhancing LPS-induced acute lung injury by regulating neutrophil migration</title>
+      <link>https://example.com/article/35567855/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35567855/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophils play a prominent role in the inflammatory response and are a critical factor in the pathogenesis of acute lung injury (ALI). Despite a deep understanding of neutrophil accumulation in the pulmonary microvasculature during the process of this disease, the regulatory mechanism of neutrophil recruitment remains unclear. This study aimed to explore the functions and signaling pathways of the purinergic receptor P2Y&lt;sub&gt;6&lt;/sub&gt; in mediating the innate immune response in ALI. P2Y&lt;sub&gt;6&lt;/sub&gt;-deficient mice, bone marrow chimeras, and neutrophilic chimeras were created in this work to explore the function of P2Y&lt;sub&gt;6&lt;/sub&gt; in ALI. The results indicated that the extracellular nucleotide UDP was released as a dangerous signal and activated P2Y&lt;sub&gt;6&lt;/sub&gt; to promote the inflammatory response and pulmonary damage during the process of ALI. P2Y&lt;sub&gt;6&lt;/sub&gt; deficiency may mitigate deterioration of this disease, including reduced ALI-related inflammatory factor release and immune cell invasion. Bone marrow and neutrophil chimeras and adoptive transfer in mice showed that P2Y&lt;sub&gt;6&lt;/sub&gt; expression on neutrophils contributed to neutrophil infiltration into lung tissues induced by UDP. Further work indicated that P2Y&lt;sub&gt;6&lt;/sub&gt; was involved in the neutrophil migration capability through the ErK signaling pathway by mediating the deformation of F-actin filaments and pseudopodia formation during cell recruitment to pulmonary tissue. Here, we provide evidence for the mechanism by which the purinergic receptor P2Y&lt;sub&gt;6&lt;/sub&gt; contributes to ALI development by regulating neutrophil infiltration into lung tissues. These data indicated that P2Y&lt;sub&gt;6&lt;/sub&gt; might be a potential therapeutic target for the treatment of this acute severe disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s All in the PAN: Crosstalk, Plasticity, Redundancies, Switches, and Interconnectedness Encompassed by PANoptosis Underlying the Totality of Cell Death-Associated Biological Effects</title>
+      <link>https://example.com/review/35563804/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35563804/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The innate immune system provides the first line of defense against cellular perturbations. Innate immune activation elicits inflammatory programmed cell death in response to microbial infections or alterations in cellular homeostasis. Among the most well-characterized programmed cell death pathways are pyroptosis, apoptosis, and necroptosis. While these pathways have historically been defined as segregated and independent processes, mounting evidence shows significant crosstalk among them. These molecular interactions have been described as &amp;lsquo;crosstalk&amp;rsquo;, &amp;lsquo;plasticity&amp;rsquo;, &amp;lsquo;redundancies&amp;rsquo;, &amp;lsquo;molecular switches&amp;rsquo;, and more. Here, we discuss the key components of cell death pathways and note several examples of crosstalk. We then explain how the diverse descriptions of crosstalk throughout the literature can be interpreted through the lens of an integrated inflammatory cell death concept, PANoptosis. The totality of biological effects in PANoptosis cannot be individually accounted for by pyroptosis, apoptosis, or necroptosis alone. We also discuss PANoptosomes, which are multifaceted macromolecular complexes that regulate PANoptosis. We consider the evidence for PANoptosis, which has been mechanistically characterized during influenza A virus, herpes simplex virus 1, Francisella novicida, and Yersinia infections, as well as in response to altered cellular homeostasis, in inflammatory diseases, and in cancers. We further discuss the role of IRF1 as an upstream regulator of PANoptosis and conclude by reexamining historical studies which lend credence to the PANoptosis concept. Cell death has been shown to play a critical role in infections, inflammatory diseases, neurodegenerative diseases, cancers, and more; therefore, having a holistic understanding of cell death is important for identifying new therapeutic strategies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Renal Function Outcomes in Metastatic Non-Small-Cell Lung Carcinoma Patients Treated with Chemotherapy or Immune Checkpoint Inhibitors: An Unexpected Scenario</title>
       <link>https://example.com/article/35632435/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35632435/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Immune checkpoint inhibitors (ICIs) and platinum-based chemotherapy (CT) are effective therapeutic agents for the palliative treatment of metastatic non-small-cell lung cancer (NSCLC); the aim of our study was to investigate the acute and chronic renal toxicities in this setting. We collected data on 292 patients who received cisplatin (35%), carboplatin-based regimens (25%), or ICI monotherapy (40%). The primary and secondary outcomes were compared to the acute kidney injury (AKI) rate and the mean estimated GFR (eGFR) decay between groups, respectively, over a mean follow-up duration of 15 weeks. We observed 26 AKI events (8.9%), mostly stage I AKI (80.7%); 15% were stage II AKI, 3.8% were stage III, and none required renal replacement therapy or ICU admission. The AKI rates were 10.9%, 6.8%, and 8.9% for the cisplatin, carboplatin, and ICI groups, respectively, and no significant differences were observed between the groups (&lt;em&gt;p&lt;/em&gt; = 0.3). A global mean eGFR decay of 2.2 mL/min was observed, while for the cisplatin, carboplatin, and ICI groups, the eGFR decay values were 2.3 mL/min, 1.1 mL/min, and 3.5 mL/min, respectively. No significant differences were observed between the groups. Cisplatin/carboplatin-based CT and ICIs resulted in a similar incidence of AKI and eGFR decay, suggesting the safety of their cautious use, even in CKD patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rabeprazole Promotes Vascular Repair and Resolution of Sepsis-Induced Inflammatory Lung Injury through HIF-1α</title>
+      <link>https://example.com/article/35563731/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35563731/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are currently no effective treatments for sepsis and acute respiratory distress syndrome (ARDS). The repositioning of existing drugs is one possible effective strategy for the treatment of sepsis and ARDS. We previously showed that vascular repair and the resolution of sepsis-induced inflammatory lung injury is dependent upon endothelial HIF-1α/FoxM1 signaling. The aim of this study was to identify a candidate inducer of HIF-1α/FoxM1 signaling for the treatment of sepsis and ARDS. Employing high throughput screening of a library of 1200 FDA-approved drugs by using hypoxia response element (HRE)-driven luciferase reporter assays, we identified Rabeprazole (also known as Aciphex) as a top HIF-α activator. In cultured human lung microvascular endothelial cells, Rabeprazole induced HIF1A mRNA expression in a dose-dependent manner. A dose-response study of Rabeprazole in a mouse model of endotoxemia-induced inflammatory lung injury identified a dose that was well tolerated and enhanced vascular repair and the resolution of inflammatory lung injury. Rabeprazole treatment resulted in reductions in lung vascular leakage, edema, and neutrophil sequestration and proinflammatory cytokine expression during the repair phrase. We next used &lt;em&gt;Hif1a/Tie2Cre&lt;/em&gt; knockout mice and &lt;em&gt;Foxm1/Tie2Cre&lt;/em&gt; knockout mice to show that Rabeprazole promoted vascular repair through HIF-1α/FoxM1 signaling. In conclusion, Rabeprazole is a potent inducer of HIF-1α that promotes vascular repair and the resolution of sepsis-induced inflammatory lung injury via endothelial HIF-1α/FoxM1 signaling. This drug therefore represents a promising candidate for repurposing to effectively treat severe sepsis and ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Endothelial Cells Activated by Extracellular Histones Promote Foxp3&#43; Suppressive Treg Cells In Vitro</title>
+      <link>https://example.com/article/35562918/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35562918/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Histones are widely recognized as pro-inflammatory mediators upon their release from the nucleus into the extracellular space. However, their impact on endothelial cell immunogenicity is unknown. Endothelial cells, Human Microvascular Endothelial cells 1 (HMEC1), have been exposed to recombinant histones in order to study their effect on the endothelial phenotype. We then studied the differentiation of CD4&lt;sup&gt;+&lt;/sup&gt;-T lymphocytes subpopulations after three days of interaction with endothelial cells in vitro and observed that histone-treated endothelial cells differentiate a suppressive FoxP3&lt;sup&gt;+&lt;/sup&gt; T regulator subpopulation that expressed Human Leucocyte Antigen DR (HLA-DR) and Cytotoxic T-Lymphocyte-Associated protein 4 (CTLA4). Toll-Like Receptor 4 (TLR4) inhibition significantly decreased the expansion of these Treg cells. Moreover, blockade of Interleukin (IL)-6 and Intercellular Adhesion Molecule (ICAM)-1 in cocultures significantly decreased the expansion of Tregs, suggesting an IL-6 and ICAM-1 dependent pathway. Thus, beyond their inflammatory effects, extracellular histones may induce an increase of immunosuppressive Treg population via their action on endothelial cells. Further studies are needed to evaluate the impact on immunosuppression of an increase of peripheral suppressive Treg via endothelial cell activation by histones &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Impairment of Mitochondrial ATP Synthesis Induces RIPK3-dependent Necroptosis in Lung Epithelial Cells During Lung Injury by Lung Inflammation</title>
+      <link>https://example.com/article/35573150/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35573150/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysfunction of mitochondrial metabolism is implicated in cellular injury and cell death. While mitochondrial dysfunction is associated with lung injury by lung inflammation, the mechanism by which the impairment of mitochondrial ATP synthesis regulates necroptosis during acute lung injury (ALI) by lung inflammation is unclear. Here, we showed that the impairment of mitochondrial ATP synthesis induces receptor interacting serine/threonine kinase 3 (RIPK3)-dependent necroptosis during lung injury by lung inflammation. We found that the impairment of mitochondrial ATP synthesis by oligomycin, an inhibitor of ATP synthase, resulted in increased lung injury and RIPK3 levels in lung tissues during lung inflammation by LPS in mice. The elevated RIPK3 and RIPK3 phosphorylation levels by oligomycin resulted in high mixed lineage kinase domain-like (MLKL) phosphorylation, the terminal molecule in necroptotic cell death pathway, in lung epithelial cells during lung inflammation. Moreover, the levels of protein in bronchoalveolar lavage fluid (BALF) were increased by the activation of necroptosis via oligomycin during lung inflammation. Furthermore, the levels of ATP5A, a catalytic subunit of the mitochondrial ATP synthase complex for ATP synthesis, were reduced in lung epithelial cells of lung tissues from patients with acute respiratory distress syndrome (ARDS), the most severe form of ALI. The levels of RIPK3, RIPK3 phosphorylation and MLKL phosphorylation were elevated in lung epithelial cells in patients with ARDS. Our results suggest that the impairment of mitochondrial ATP synthesis induces RIPK3-dependent necroptosis in lung epithelial cells during lung injury by lung inflammation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/microbiome/</link>
       <atom:link href="https://example.com/tag/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiome</title>
       <link>https://example.com/tag/microbiome/</link>
     </image>
+    
+    <item>
+      <title>Fecal microbiota transplantation from young mice rejuvenates aged hematopoietic stem cells by suppressing inflammations</title>
+      <link>https://example.com/article/36638348/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638348/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hematopoietic stem cell (HSC) aging is accompanied by hematopoietic reconstitution dysfunction, including loss of regenerative and engraftment ability, myeloid differentiation bias and elevated risks of hematopoietic malignancies. Gut microbiota, a key regulator of host health and immunity, has been recently reported to impact hematopoiesis. However, there is currently limited empirical evidence elucidating the direct impact of gut microbiome on aging hematopoiesis. In this study, we performed fecal microbiota transplantation (FMT) from young mice to aged mice and observed significant increment in lymphoid differentiation and decrease in myeloid differentiation in aged recipient mice. Further, FMT from young mice rejuvenated aged HSCs with enhanced short-term and long-term hematopoietic repopulation capacity. Mechanistically, single-cell RNA sequencing deciphered that FMT from young mice mitigated inflammatory signals, upregulated FoxO signaling pathway and promoted lymphoid differentiation of HSCs during aging. Finally, integrated microbiome and metabolome analyses uncovered that FMT reshaped gut microbiota construction and metabolite landscape, and Lachnospiraceae and tryptophan-associated metabolites promoted the recovery of hematopoiesis and rejuvenated aged HSCs. Together, our study highlights the paramount importance of the gut microbiota in HSC aging and provides insights into therapeutic strategies for aging-related hematologic disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Sesamolin Attenuates Kidney Injury, Intestinal Barrier Dysfunction, and Gut Microbiota Imbalance in High-Fat and High-Fructose Diet-Fed Mice</title>
@@ -1148,6 +1173,38 @@
       <guid>https://example.com/article/36304282/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Omics technologies have revolutionized microbiome research allowing the characterization of complex microbial communities in different biomes without requiring their cultivation. As a consequence, there has been a great increase in the generation of omics data from metagenomes and metatranscriptomes. However, pre-processing and analysis of these data have been limited by the availability of computational resources, bioinformatics expertise and standardized computational workflows to obtain consistent results that are comparable across different studies. Here, we introduce MIntO (Microbiome Integrated meta-Omics), a highly versatile pipeline that integrates metagenomic and metatranscriptomic data in a scalable way. The distinctive feature of this pipeline is the computation of gene expression profile through integrating metagenomic and metatranscriptomic data taking into account the community turnover and gene expression variations to disentangle the mechanisms that shape the metatranscriptome across time and between conditions. The modular design of MIntO enables users to run the pipeline using three available modes based on the input data and the experimental design, including de novo assembly leading to metagenome-assembled genomes. The integrated pipeline will be relevant to provide unique biochemical insights into microbial ecology by linking functions to retrieved genomes and to examine gene expression variation. Functional characterization of community members will be crucial to increase our knowledge of the microbiome&amp;rsquo;s contribution to human health and environment. MIntO v1.0.1 is available at &lt;a href=&#34;https://github.com/arumugamlab/MIntO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The gut microbiota prime systemic antiviral immunity via the cGAS-STING-IFN-I axis</title>
+      <link>https://example.com/article/35545033/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35545033/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suppression of gut microbiota renders mice susceptible to systemic viral infections&lt;/li&gt;
+&lt;li&gt;The gut microbiota drive systemic antiviral immunity via IFN-I priming&lt;/li&gt;
+&lt;li&gt;Microbiota-driven IFN-I priming involves the cGAS-STING axis&lt;/li&gt;
+&lt;li&gt;Microbiota mediate systemic IFN-I priming via DNA-containing membrane vesicles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The microbiota are vital for immune homeostasis and provide a competitive barrier to bacterial and fungal pathogens. Here, we investigated how gut commensals modulate systemic immunity and response to viral infection. Antibiotic suppression of the gut microbiota reduced systemic tonic type I interferon (IFN-I) and antiviral priming. The microbiota-driven tonic IFN-I-response was dependent on cGAS-STING but not on TLR signaling or direct host-bacteria interactions. Instead, membrane vesicles (MVs) from extracellular bacteria activated the cGAS-STING-IFN-I axis by delivering bacterial DNA into distal host cells. DNA-containing MVs from the gut microbiota were found in circulation and promoted the clearance of both DNA (herpes simplex virus type 1) and RNA (vesicular stomatitis virus) viruses in a cGAS-dependent manner. In summary, this study establishes an important role for the microbiota in peripheral cGAS-STING activation, which promotes host resistance to systemic viral infections. Moreover, it uncovers an underappreciated risk of antibiotic use during viral infections.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

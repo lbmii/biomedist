@@ -5,12 +5,37 @@
     <link>https://example.com/tag/liver/</link>
       <atom:link href="https://example.com/tag/liver/index.xml" rel="self" type="application/rss+xml" />
     <description>Liver</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Liver</title>
       <link>https://example.com/tag/liver/</link>
     </image>
+    
+    <item>
+      <title>High-resolution analysis of mononuclear phagocytes reveals GPNMB as a prognostic marker in human colorectal liver metastasis</title>
+      <link>https://example.com/article/36652202/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36652202/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Patients with colorectal liver metastasis (CLM) present with heterogenous clinical outcomes and improved classification is needed to ameliorate the therapeutic output. Macrophages (MΦ) hold promise as prognostic classifiers and therapeutic targets. Here, stemming from a single-cell analysis of mononuclear phagocytes infiltrating human CLM, we identified two M markers associated with distinct populations with opposite clinical relevance. The invasive margin of CLM was enriched in pro-inflammatory monocyte-derived MΦ (MoMΦ) expressing the monocytic marker SERPINB2, and a more differentiated population, TAMs, expressing GPNMB. SERPINB2+ MoMΦ had an early inflammatory profile, whereas GPNMB+ TAMs were enriched in pathways of matrix degradation, angiogenesis and lipid metabolism and were found closer to the tumor margin, as confirmed by spatial transcriptomics on CLM specimens. In a cohort of patients, a high infiltration of SERPINB2+ cells independently associated with longer disease-free survival (DFS) (&lt;em&gt;P&lt;/em&gt;=0.033), whereas a high density of GPNMB+ cells correlated with shorter DFS (&lt;em&gt;P&lt;/em&gt;=0.012) and overall survival (OS) (&lt;em&gt;P&lt;/em&gt;=0.002). Cell-cell interaction analysis defined opposing roles for MoMΦ and TAMs, suggesting that SERPINB2+ and GPNMB+ cells are discrete populations of MΦ and may be exploited for further translation to an immune-based stratification tool. This study provides evidence of how multi-omics approaches can identify non-redundant, clinically relevant markers for further translation to immune-based patient stratification tools and therapeutic targets. GPNMB has been shown to set macrophages in an immunosuppressive mode. Our high dimensional analyses provide further evidence that GPNMB is a negative prognostic indicator and a potential player in the pro-tumor function of macrophage populations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Nucleus-exported CLOCK acetylates PRPS to promote de novo nucleotide synthesis and liver tumour growth</title>

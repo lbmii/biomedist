@@ -5,12 +5,37 @@
     <link>https://example.com/tag/bioinformatics/</link>
       <atom:link href="https://example.com/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bioinformatics</title>
       <link>https://example.com/tag/bioinformatics/</link>
     </image>
+    
+    <item>
+      <title>A progeroid syndrome caused by a deep intronic variant in TAPT1 is revealed by RNA/SI-NET sequencing</title>
+      <link>https://example.com/article/36652330/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36652330/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exome sequencing has introduced a paradigm shift for the identification of germline variations responsible for Mendelian diseases. However, non-coding regions, which make up 98% of the genome, cannot be captured. The lack of functional annotation for intronic and intergenic variants makes RNA-seq a powerful companion diagnostic. Here, we illustrate this point by identifying six patients with a recessive Osteogenesis Imperfecta (OI) and neonatal progeria syndrome. By integrating homozygosity mapping and RNA-seq, we delineated a deep intronic TAPT1 mutation (c.1237-52 G&amp;gt;A) that segregated with the disease. Using SI-NET-seq, we document that TAPT1&amp;rsquo;s nascent transcription was not affected in patients&amp;rsquo; fibroblasts, indicating instead that this variant leads to an alteration of pre-mRNA processing. Predicted to serve as an alternative splicing branchpoint, this mutation enhances TAPT1 exon 12 skipping, creating a protein-null allele. Additionally, our study reveals dysregulation of pathways involved in collagen and extracellular matrix biology in disease-relevant cells. Overall, our work highlights the power of transcriptomic approaches in deciphering the repercussions of non-coding variants, as well as in illuminating the molecular mechanisms of human diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Haplotype-aware pantranscriptome analyses using spliced pangenome graphs</title>
@@ -541,6 +566,38 @@
   
 &lt;/ul&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic single-cell pathway analysis to characterize early T cell activation</title>
+      <link>https://example.com/article/36417885/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36417885/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SCPA is a dedicated tool for pathway analysis in scRNA-seq data&lt;/li&gt;
+&lt;li&gt;SCPA assesses the multivariate distributions of pathways to detect significance&lt;/li&gt;
+&lt;li&gt;Cell intrinsic IFN-α and arachidonic acid metabolism promote human T cell function&lt;/li&gt;
+&lt;li&gt;Alpha-defensin expression is unique to bone-marrow-derived T cells&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pathway analysis is a key analytical stage in the interpretation of omics data, providing a powerful method for detecting alterations in cellular processes. We recently developed a sensitive and distribution-free statistical framework for multisample distribution testing, which we implement here in the open-source R package single-cell pathway analysis (SCPA). We demonstrate the effectiveness of SCPA over commonly used methods, generate a scRNA-seq T cell dataset, and characterize pathway activity over early cellular activation. This reveals regulatory pathways in T cells, including an intrinsic type I interferon system regulating T cell survival and a reliance on arachidonic acid metabolism throughout T cell activation. A systems-level characterization of pathway activity in T cells across multiple tissues also identifies alpha-defensin expression as a hallmark of bone-marrow-derived T cells. Overall, this work provides a widely applicable tool for single-cell pathway analysis and highlights regulatory mechanisms of T cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -2062,6 +2119,33 @@
     </item>
     
     <item>
+      <title>Comparative whole-genome transcriptome analysis in renal cell populations reveals high tissue specificity of MAPK/ERK targets in embryonic kidney</title>
+      <link>https://example.com/article/35550069/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35550069/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; MAPK/ERK signaling is a well-known mediator of extracellular stimuli controlling intracellular responses to growth factors and mechanical cues. The critical requirement of MAPK/ERK signaling for embryonic stem cell maintenance is demonstrated, but specific functions in progenitor regulation during embryonic development, and in particular kidney development remain largely unexplored. We previously demonstrated MAPK/ERK signaling as a key regulator of kidney growth through branching morphogenesis and normal nephrogenesis where it also regulates progenitor expansion. Here, we performed RNA sequencing-based whole-genome expression analysis to identify transcriptional MAPK/ERK targets in two distinct renal populations: the ureteric bud epithelium and the nephron progenitors.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Our analysis revealed a large number (5053) of differentially expressed genes (DEGs) in nephron progenitors and significantly less (1004) in ureteric bud epithelium, reflecting likely heterogenicity of cell types. The data analysis identified high tissue-specificity, as only a fraction (362) of MAPK/ERK targets are shared between the two tissues. Tissue-specific MAPK/ERK targets participate in the regulation of mitochondrial energy metabolism in nephron progenitors, which fail to maintain normal mitochondria numbers in the MAPK/ERK-deficient tissue. In the ureteric bud epithelium, a dramatic decline in progenitor-specific gene expression was detected with a simultaneous increase in differentiation-associated genes, which was not observed in nephron progenitors. Our experiments in the genetic model of MAPK/ERK deficiency provide evidence that MAPK/ERK signaling in the ureteric bud maintains epithelial cells in an undifferentiated state. Interestingly, the transcriptional targets shared between the two tissues studied are over-represented by histone genes, suggesting that MAPK/ERK signaling regulates cell cycle progression and stem cell maintenance through chromosome condensation and nucleosome assembly.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Using tissue-specific MAPK/ERK inactivation and RNA sequencing in combination with experimentation in embryonic kidneys, we demonstrate here that MAPK/ERK signaling maintains ureteric bud tip cells, suggesting a regulatory role in collecting duct progenitors. We additionally deliver new mechanistic information on how MAPK/ERK signaling regulates progenitor maintenance through its effects on chromatin accessibility and energy metabolism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Analysis of PANoptosis-Related LncRNA-miRNA-mRNA Network Reveals LncRNA SNHG7 Involved in Chemo-Resistance in Colon Adenocarcinoma</title>
       <link>https://example.com/article/35646635/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
@@ -2093,6 +2177,38 @@
       <guid>https://example.com/article/36304282/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Omics technologies have revolutionized microbiome research allowing the characterization of complex microbial communities in different biomes without requiring their cultivation. As a consequence, there has been a great increase in the generation of omics data from metagenomes and metatranscriptomes. However, pre-processing and analysis of these data have been limited by the availability of computational resources, bioinformatics expertise and standardized computational workflows to obtain consistent results that are comparable across different studies. Here, we introduce MIntO (Microbiome Integrated meta-Omics), a highly versatile pipeline that integrates metagenomic and metatranscriptomic data in a scalable way. The distinctive feature of this pipeline is the computation of gene expression profile through integrating metagenomic and metatranscriptomic data taking into account the community turnover and gene expression variations to disentangle the mechanisms that shape the metatranscriptome across time and between conditions. The modular design of MIntO enables users to run the pipeline using three available modes based on the input data and the experimental design, including de novo assembly leading to metagenome-assembled genomes. The integrated pipeline will be relevant to provide unique biochemical insights into microbial ecology by linking functions to retrieved genomes and to examine gene expression variation. Functional characterization of community members will be crucial to increase our knowledge of the microbiome&amp;rsquo;s contribution to human health and environment. MIntO v1.0.1 is available at &lt;a href=&#34;https://github.com/arumugamlab/MIntO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics analysis unravels dysregulated lysosomal function and lipid metabolism involved in sub-chronic particulate matter-induced pulmonary injury</title>
+      <link>https://example.com/article/35525343/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35525343/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A multi-omics approach was used to identify molecular changes in mouse lung tissues.&lt;/li&gt;
+&lt;li&gt;PM exposure impairs lung structure and inflammatory reactions in the mouse lungs.&lt;/li&gt;
+&lt;li&gt;Sub-chronic exposure to PM causes lung injury by disturbing lysosomal function and lipid metabolism homeostasis.&lt;/li&gt;
+&lt;li&gt;Different pathways are triggered in mouse lung tissues in response to PM exposure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Particulate matter (PM) is a huge environmental threat and is of major public concern. Oxidative stress and systemic inflammation are known factors that contribute to PM- related damage; however, a systematic understanding of the deleterious pulmonary effects of PM using multi-omics analysis is lacking. In this study, we performed transcriptomic, proteomic, and metabolomic analyses in a mouse model exposed to PM for three months to identify molecular changes in lung tissues. We identified 1690 genes, 326 proteins, and 67 metabolites exhibiting significant differences between PM-challenged and control mice (p &amp;lt; 0.05). Differentially expressed genes and proteins regulated in PM-challenged mice were involved in lipid metabolism and in the immune and inflammatory response processes. Moreover, a comprehensive analysis of transcript, protein, and metabolite datasets revealed that the genes, proteins, and metabolites in the PM-treated group were involved in lysosomal function and lipid metabolism. Specifically, Cathepsin D (Ctsd), Ferritin light chain (Ftl), Lactotransferrin (Ltf), Lipocalin 2 (Lcn2), and Prosaposin (Psap) were major proteins/genes associated with PM-induced pulmonary damage, while two lipid molecules PC (18:1(11Z)/16:0) and PA (16:0/18:1(11Z)) were major metabolites related to PM-induced pulmonary injury. In summary, lipid metabolism might be used as successful precautions and therapeutic targets in PM-induced pulmonary injury to maintain the stability of cellular lysosomal function.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
