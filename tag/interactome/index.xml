@@ -310,9 +310,9 @@
     
     <item>
       <title>DNA-modularized construction of bivalent ligands precisely regulates receptor binding and activation</title>
-      <link>https://example.com/article/23-01-17-19-00/</link>
+      <link>https://example.com/article/chempr.2022.12.002/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-17-19-00/</guid>
+      <guid>https://example.com/article/chempr.2022.12.002/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A DNA-modularized strategy is developed to automatically construct bivalent ligands&lt;/li&gt;
@@ -4654,6 +4654,31 @@
     </item>
     
     <item>
+      <title>OTUD7B deubiquitinates SQSTM1/p62 and promotes IRF3 degradation to regulate antiviral immunity</title>
+      <link>https://example.com/article/35100065/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35100065/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Deubiquitination plays an important role in the regulation of the crosstalk between macroautophagy/autophagy and innate immune signaling, yet its regulatory mechanisms are not fully understood. Here we identify the deubiquitinase OTUD7B as a negative regulator of antiviral immunity by targeting IRF3 (interferon regulatory factor 3) for selective autophagic degradation. Mechanistically, OTUD7B interacts with IRF3, and activates IRF3-associated cargo receptor SQSTM1/p62 (sequestosome 1) by removing its K63-linked poly-ubiquitin chains at lysine 7 (K7) to enhance SQSTM1 oligomerization. Moreover, viral infection increased the expression of OTUD7B, which forms a negative feedback loop by promoting IRF3 degradation to balance type I interferon (IFN) signaling. Taken together, our study reveals a specific role of OTUD7B in mediating the activation of cargo receptors in a substrate-dependent manner, which could be a potential target against excessive immune responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The UGT2A1/UGT2A2 locus is associated with COVID-19-related loss of smell or taste</title>
       <link>https://example.com/article/35039640/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
@@ -4685,6 +4710,31 @@
       <guid>https://example.com/article/34718748/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Virus infections are huge threats to living organisms and cause many diseases, such as COVID-19 caused by SARS-CoV-2, which has led to millions of deaths. To develop effective strategies to control viral infection, we need to understand its molecular events in host cells. Virus related functional genomic datasets are growing rapidly, however, an integrative platform for systematically investigating host responses to viruses is missing. Here, we developed a user-friendly multi-omics portal of viral infection named as &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt;. We manually collected available high-throughput sequencing data under viral infection, and unified their detailed metadata including virus, host species, infection time, assay, and target, etc. We processed multi-layered omics data of more than 4900 viral infected samples from 77 viruses and 33 host species with standard pipelines, including RNA-seq, ChIP-seq, and CLIP-seq, etc. In addition, we integrated these genome-wide signals into customized genome browsers, and developed multiple dynamic charts to exhibit the information, such as time-course dynamic and differential gene expression profiles, alternative splicing changes and enriched GO/KEGG terms. Furthermore, we implemented several tools for efficiently mining the virus-host interactions by virus, host and genes. &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt; would help users to retrieve large-scale functional information and promote the understanding of virus-host interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A detrimental role of NLRP6 in host iron metabolism during Salmonella infection</title>
+      <link>https://example.com/article/34942528/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34942528/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Maintaining host iron homeostasis is an essential component of nutritional immunity responsible for sequestrating iron from pathogens and controlling infection. Nucleotide-oligomerization domain-like receptors (NLRs) contribute to cytoplasmic sensing and antimicrobial response orchestration. However, it remains unknown whether and how NLRs may regulate host iron metabolism, an important component of nutritional immunity. Here, we demonstrated that NLRP6, a member of the NLR family, has an unconventional role in regulating host iron metabolism that perturbs host resistance to bacterial infection. NLRP6 deficiency is advantageous for maintaining cellular iron homeostasis in both macrophages and enterocytes through increasing the unique iron exporter ferroportin-mediated iron efflux in a nuclear factor erythroid-derived 2-related factor 2 (NRF2)-dependent manner. Additional studies uncovered a novel mechanism underlying NRF2 regulation and operating through NLRP6/AKT interaction and that causes a decrease in AKT phosphorylation, which in turn reduces NRF2 nuclear translocation. In the absence of NLRP6, increased AKT activation promotes NRF2/KEAP1 dissociation via increasing mTOR-mediated p62 phosphorylation and downregulates KEAP1 transcription by promoting FOXO3A phosphorylation. Together, our observations provide new insights into the mechanism of nutritional immunity by revealing a novel function of NLRP6 in regulating iron metabolism, and suggest NLRP6 as a therapeutic target for limiting bacterial iron acquisition.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4814,6 +4864,38 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Phase separation drives RNA virus-induced activation of the NLRP6 inflammasome</title>
+      <link>https://example.com/article/34678144/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34678144/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;dsRNA induces liquid-liquid phase separation (LLPS) of NLRP6 &lt;em&gt;in vitro&lt;/em&gt; and in cells&lt;/li&gt;
+&lt;li&gt;ASC solidifies LLPS of NLRP6 and RNA to promote inflammasome activation&lt;/li&gt;
+&lt;li&gt;Poly-Lysine region in NLRP6 is critical for multivalent interaction and LLPS&lt;/li&gt;
+&lt;li&gt;Phase separation of NLRP6 promotes inflammasome activation in intestine and liver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NLRP6 is important in host defense by inducing functional outcomes including inflammasome activation and interferon production. Here, we show that NLRP6 undergoes liquid-liquid phase separation (LLPS) upon interaction with double-stranded RNA (dsRNA) &lt;em&gt;in vitro&lt;/em&gt; and in cells, and an intrinsically disordered poly-lysine sequence (K350-354) of NLRP6 is important for multivalent interactions, phase separation, and inflammasome activation. &lt;em&gt;Nlrp6&lt;/em&gt;-deficient or &lt;em&gt;Nlrp6&lt;sup&gt;K350-354A&lt;/sup&gt;&lt;/em&gt; mutant mice show reduced inflammasome activation upon mouse hepatitis virus or rotavirus infection, and in steady state stimulated by intestinal microbiota, implicating NLRP6 LLPS in anti-microbial immunity. Recruitment of ASC via helical assembly solidifies NLRP6 condensates, and ASC further recruits and activates caspase-1. Lipoteichoic acid, a known NLRP6 ligand, also promotes NLRP6 LLPS, and DHX15, a helicase in NLRP6-induced interferon signaling, co-forms condensates with NLRP6 and dsRNA. Thus, LLPS of NLRP6 is a common response to ligand stimulation, which serves to direct NLRP6 to distinct functional outcomes depending on the cellular context.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -5075,6 +5157,42 @@
     </item>
     
     <item>
+      <title>The chemokine CCL1 triggers an AMFR-SPRY1 pathway that promotes differentiation of lung fibroblasts into myofibroblasts and drives pulmonary fibrosis</title>
+      <link>https://example.com/article/34407391/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34407391/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cell.com/immunity/fulltext/S1074-7613%2821%2900394-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The chemokine CCL1 triggers an AMFR-SPRY1 pathway that promotes differentiation of lung fibroblasts into myofibroblasts and drives pulmonary fibrosis&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CCL1 expression positively correlates with the development of lung fibrosis&lt;/li&gt;
+&lt;li&gt;CCL1 exerts its fibrogenic activity by signaling through AMFR on fibroblasts&lt;/li&gt;
+&lt;li&gt;CCL1-AMFR interaction relieves Spry1-repressed Ras-ERK-p70S6K activity&lt;/li&gt;
+&lt;li&gt;Suppression of the CCL1-AMFR-Ras-ERK-p70S6K axis reduces lung fibrosis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recruitment of immune cells to the site of inflammation by the chemokine CCL1 is important in the pathology of inflammatory diseases. Here, we examined the role of CCL1 in pulmonary fibrosis (PF). Bronchoalveolar lavage fluid from PF mouse models contained high amounts of CCL1, as did lung biopsies from PF patients. Immunofluorescence analyses revealed that alveolar macrophages and CD4+ T cells were major producers of CCL1 and targeted deletion of Ccl1 in these cells blunted pathology. Deletion of the CCL1 receptor Ccr8 in fibroblasts limited migration, but not activation, in response to CCL1. Mass spectrometry analyses of CCL1 complexes identified AMFR as a CCL1 receptor, and deletion of Amfr impaired fibroblast activation. Mechanistically, CCL1 binding triggered ubiquitination of the ERK inhibitor Spry1 by AMFR, thus activating Ras-mediated profibrotic protein synthesis. Antibody blockade of CCL1 ameliorated PF pathology, supporting the therapeutic potential of targeting this pathway for treating fibroproliferative lung diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Encyclopedia of transcription factor</title>
       <link>https://example.com/tool/2021-08-06-en-tf/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
@@ -5197,6 +5315,31 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/34267374/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Antibody-dependent enhancement (ADE) is an important safety concern for vaccine development against dengue virus (DENV) and its antigenically related Zika virus (ZIKV) because vaccine may prime deleterious antibodies to enhance natural infections. Cross-reactive antibodies targeting the conserved fusion loop epitope (FLE) are known as the main sources of ADE. We design ZIKV immunogens engineered to change the FLE conformation but preserve neutralizing epitopes. Single vaccination conferred sterilizing immunity against ZIKV without ADE of DENV-serotype 1-4 infections and abrogated maternal-neonatal transmission in mice. Unlike the wild-type-based vaccine inducing predominately cross-reactive ADE-prone antibodies, B cell profiling revealed that the engineered vaccines switched immunodominance to dispersed patterns without DENV enhancement. The crystal structure of the engineered immunogen showed the dimeric conformation of the envelope protein with FLE disruption. We provide vaccine candidates that will prevent both ZIKV infection and infection-/vaccination-induced DENV ADE.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Selective autophagy controls the stability of TBK1 via NEDD4 to balance host defense</title>
+      <link>https://example.com/article/34257412/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34257412/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a core kinase of antiviral immunity, the activity and stability of TANK-binding kinase 1 (TBK1) is tightly controlled by multiple post-translational modifications. Although it has been demonstrated that TBK1 stability can be regulated by ubiquitin-dependent proteasome pathway, it is unclear whether another important protein degradation pathway, autophagosome pathway, can specifically affect TBK1 degradation by cargo receptors. Here we report that E3 ubiquitin ligase NEDD4 functions as a negative regulator of type I interferon (IFN) signaling by targeting TBK1 for degradation at the late stage of viral infection, to prevent the host from excessive immune response. Mechanically NEDD4 catalyzes the K27-linked poly-ubiquitination of TBK1 at K344, which serves as a recognition signal for cargo receptor NDP52-mediated selective autophagic degradation. Taken together, our study reveals the regulatory role of NEDD4 in balancing TBK1-centered type I IFN activation and provides insights into the crosstalk between selective autophagy and antiviral signaling.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

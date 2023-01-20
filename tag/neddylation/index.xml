@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neddylation | BM Sci-Tech Memento</title>
+    <title>NEDDylation | BM Sci-Tech Memento</title>
     <link>https://example.com/tag/neddylation/</link>
       <atom:link href="https://example.com/tag/neddylation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Neddylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <description>NEDDylation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
-      <title>Neddylation</title>
+      <title>NEDDylation</title>
       <link>https://example.com/tag/neddylation/</link>
     </image>
+    
+    <item>
+      <title>SHP2 deneddylation mediates tumor immunosuppression in colon cancer via the CD47/SIRPα axis</title>
+      <link>https://example.com/article/36626230/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36626230/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SIPRα on macrophages binds with CD47 to resist pro-engulfment signals, but how the downstream signal of SIPRα controls tumor-infiltrating macrophages (TIMs) is still poorly clarified. Here we reported that the CD47/SIRPα axis requires the deneddylation of tyrosine phosphatase SHP2. Mechanistically, SHP2 is constitutively neddylated on K358 and K364 sites, thus its auto-inhibited conformation is maintained. In response to CD47-liganded SIRPα, SHP2 is deneddylated by SENP8, which leads to the dephosphorylation of relevant substrates at the phagocytic cup and subsequent inhibition of macrophage phagocytosis. Furthermore, neddylation inactivated myeloid-SHP2 and greatly boosted the efficacy of colorectal cancer (CRC) immunotherapy. Importantly, we observed that the supplementation with SHP2 allosteric inhibitors sensitized the immune treatment-resistant CRC to immunotherapy. Our results emphasized that the CRC subtype which is unresponsive to immunotherapy relies on SIRPαhiSHP2hiNEDD8lo TIMs, and highlighted the need to further combine the strategy of SHP2 targeting in colorectal cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Hepatic neddylation deficiency triggers fatal liver injury via inducing NF-κB-inducing kinase in mice</title>

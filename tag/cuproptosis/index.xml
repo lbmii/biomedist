@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cuproptosis/</link>
       <atom:link href="https://example.com/tag/cuproptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Cuproptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cuproptosis</title>
       <link>https://example.com/tag/cuproptosis/</link>
     </image>
+    
+    <item>
+      <title>Copper-dependent autophagic degradation of GPX4 drives ferroptosis</title>
+      <link>https://example.com/article/36622894/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36622894/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis is a type of iron-dependent regulated cell death characterized by unrestricted lipid peroxidation and membrane damage. Although GPX4 (glutathione peroxidase 4) plays a master role in blocking ferroptosis by eliminating phospholipid hydroperoxides, the regulation of GPX4 remains poorly understood. Here, we report an unexpected role for copper in promoting ferroptotic cell death, but not cuproptosis, by inducing macroautophagic/autophagic degradation of GPX4. Copper chelators reduce ferroptosis sensitivity but do not inhibit other types of cell death, such as apoptosis, necroptosis, and alkaliptosis. Conversely, exogenous copper increases GPX4 ubiquitination and the formation of GPX4 aggregates by directly binding to GPX4 protein cysteines C107 and C148. TAX1BP1 (Tax1 binding protein 1) then acts as an autophagic receptor for GPX4 degradation and subsequent ferroptosis in response to copper stress. Consequently, copper enhances ferroptosis-mediated tumor suppression in a mouse model of pancreatic cancer tumor, whereas copper chelators attenuate experimental acute pancreatitis associated with ferroptosis. Taken together, these findings provide new insights into the link between metal stress and autophagy-dependent cell death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Pan-cancer analyses reveal molecular and clinical characteristics of cuproptosis regulators</title>

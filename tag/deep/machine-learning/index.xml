@@ -212,5 +212,37 @@
 </description>
     </item>
     
+    <item>
+      <title>High throughput data-based, toxicity pathway-oriented development of a quantitative adverse outcome pathway network linking AHR activation to lung damages</title>
+      <link>https://example.com/article/34906874/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34906874/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An AOP network model was constructed concerning AHR-initiated lung damages.&lt;/li&gt;
+&lt;li&gt;Gene expression signatures of toxicity pathways represented the molecular events.&lt;/li&gt;
+&lt;li&gt;AOP was validated using high throughput data combined with machine learning models.&lt;/li&gt;
+&lt;li&gt;AOP quantitative evaluation was proposed using RNA-seq technique and bioassays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The quantitative adverse outcome pathway (qAOP) is proposed to inform dose-responses at multiple biological levels for the purpose of toxicity prediction. So far, qAOP models concerning human health are scarce. Previously, we proposed 5 key molecular pathways that led aryl hydrogen receptor (AHR) activation to lung damages. The present study assembled an AOP network based on the gene expression signatures of these toxicity pathways, and validated the network using publicly available high throughput data combined with machine learning models. In addition, the AOP network was quantitatively evaluated with omics approaches and bioassays, using 16HBE-CYP1A1 cells exposed to benzo(a)pyrene (BaP), a prototypical AHR activator. Benchmark dose (BMD) analysis of transcriptomics revealed that AHR gene held the lowest BMD value, whereas AHR pathway held the lowest point of departure (PoD) compared to the other 4 pathways. Targeted bioassays were further performed to quantitatively understand the cellular responses, including ROS generation, DNA damage, interleukin-6 production, and extracellular matrix increase marked by collagen expression. Eventually, response-response relationships were plotted using nonlinear model fitting. The present study developed a highly reliable AOP model concerning human health, and validated as well as quantitatively evaluated it, and such a method is likely to be adoptable for risk assessment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
