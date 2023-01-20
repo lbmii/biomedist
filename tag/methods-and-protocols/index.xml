@@ -595,6 +595,31 @@
     </item>
     
     <item>
+      <title>Metabolite annotation from knowns to unknowns through knowledge-guided multi-layer metabolic networking</title>
+      <link>https://example.com/article/36333358/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36333358/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Liquid chromatography - mass spectrometry (LC-MS) based untargeted metabolomics allows to measure both known and unknown metabolites in the metabolome. However, unknown metabolite annotation is a major challenge in untargeted metabolomics. Here, we develop an approach, namely, &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knowledge-guided multi-layer network (KGMN)&lt;/a&gt;, to enable global metabolite annotation from knowns to unknowns in untargeted metabolomics. The &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGMN&lt;/a&gt; approach integrates three-layer networks, including knowledge-based metabolic reaction network, knowledge-guided MS/MS similarity network, and global peak correlation network. To demonstrate the principle, we apply &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGMN&lt;/a&gt; in an in vitro enzymatic reaction system and different biological samples, with ~100-300 putative unknowns annotated in each data set. Among them, &amp;gt;80% unknown metabolites are corroborated with in silico MS/MS tools. Finally, we validate 5 metabolites that are absent in common MS/MS libraries through repository mining and synthesis of chemical standards. Together, the &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGMN&lt;/a&gt; approach enables efficient unknown annotations, and substantially advances the discovery of recurrent unknown metabolites for common biological samples from model organisms, towards deciphering dark matter in untargeted metabolomics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Geometric engineering of organoid culture for enhanced organogenesis in a dish</title>
       <link>https://example.com/article/36280722/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
@@ -711,6 +736,56 @@
       <guid>https://example.com/article/36043432/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;EVs have emerged as an important component in tumour initiation, progression and metastasis. Although notable progresses have been made, the detection of EV cargoes remain significantly challenging for researchers to practically use; faster and more convenient methods are required to validate the EV cargoes, especially as biomarkers. Here we show, the possibility of examining embedded EVs as substrates to be used for detecting DNA amplification through ultrasensitive in situ hybridization (ISH). This methodology allows the visualization of DNA targets in a more direct manner, without time consuming optimization steps or particular expertise. Additionally, formalin-fixed paraffin-embedded (FFPE) blocks of EVs allows long-term preservation of samples, permitting future studies. We report here: (i) the successful isolation of EVs from liposarcoma tissues; (ii) the EV embedding in FFPE blocks (iii) the successful selective, specific ultrasensitive ISH examination of EVs derived from tissues, cell line, and sera; (iv) and the detection of MDM2 DNA amplification in EVs from liposarcoma tissues, cell lines and sera. Ultrasensitive ISH on EVs would enable cargo study while the application of ISH to serum EVs, could represent a possible novel methodology for diagnostic confirmation. Modification of probes may enable researchers to detect targets and specific DNA alterations directly in tumour EVs, thereby facilitating detection, diagnosis, and improved understanding of tumour biology relevant to many cancer types.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>massDatabase: utilities for the operation of the public compound and pathway database</title>
+      <link>https://example.com/article/35944213/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35944213/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Summary: One of the major challenges in liquid chromatography coupled to mass spectrometry data is converting many metabolic feature entries to biological function information, such as metabolite annotation and pathway enrichment, which are based on the compound and pathway databases. Multiple online databases have been developed. However, no tool has been developed for operating all these databases for biological analysis. Therefore, we developed &lt;a href=&#34;https://massdatabase.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;massDatabase&lt;/a&gt;, an R package that operates the online public databases and combines with other tools for streamlined compound annotation and pathway enrichment. &lt;a href=&#34;https://massdatabase.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;massDatabase&lt;/a&gt; is a flexible, simple and powerful tool that can be installed on all platforms, allowing the users to leverage all the online public databases for biological function mining. A detailed tutorial and a case study are provided in the &lt;a href=&#34;https://example.com/uploads/35944213_supplementary_data.pdf&#34; target=&#34;_blank&#34;&gt;Supplementary Material&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>TidyMass an object-oriented reproducible analysis framework for LC-MS data</title>
+      <link>https://example.com/article/35902589/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35902589/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reproducibility, traceability, and transparency have been long-standing issues for metabolomics data analysis. Multiple tools have been developed, but limitations still exist. Here, we present the &lt;a href=&#34;https://www.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyMass&lt;/a&gt; project, a comprehensive R-based computational framework that can achieve the traceable, shareable, and reproducible workflow needs of data processing and analysis for LC-MS-based untargeted metabolomics. TidyMass is an ecosystem of R packages that share an underlying design philosophy, grammar, and data structure, which provides a comprehensive, reproducible, and object-oriented computational framework. The modular architecture makes &lt;a href=&#34;https://www.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyMass&lt;/a&gt; a highly flexible and extensible tool, which other users can improve and integrate with other tools to customize their own pipeline.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -942,6 +1017,31 @@
       <guid>https://example.com/article/34857954/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The endometrium, the mucosal lining of the uterus, undergoes dynamic changes throughout the menstrual cycle in response to ovarian hormones. We have generated dense single-cell and spatial reference maps of the human uterus and three-dimensional endometrial organoid cultures. We dissect the signaling pathways that determine cell fate of the epithelial lineages in the lumenal and glandular microenvironments. Our benchmark of the endometrial organoids reveals the pathways and cell states regulating differentiation of the secretory and ciliated lineages both in vivo and in vitro. In vitro downregulation of WNT or NOTCH pathways increases the differentiation efficiency along the secretory and ciliated lineages, respectively. We utilize our cellular maps to deconvolute bulk data from endometrial cancers and endometriotic lesions, illuminating the cell types dominating in each of these disorders. These mechanistic insights provide a platform for future development of treatments for common conditions including endometriosis and endometrial carcinoma.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SLAW: A Scalable and Self-Optimizing Processing Workflow for Untargeted LC-MS</title>
+      <link>https://example.com/article/34735114/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34735114/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metabolomics has been shown to be promising for diverse applications in basic, applied, and clinical research. These applications often require large-scale data, and while the technology to perform such experiments exists, downstream analysis remains challenging. Different tools exist in a variety of ecosystems, but they often do not scale to large data and are not integrated into a single coherent workflow. Moreover, the outcome of processing is very sensitive to a multitude of algorithmic parameters. Hence, parameter optimization is not only critical but also challenging. We present &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt;, a scalable and yet easy-to-use workflow for processing untargeted LC-MS data in metabolomics and lipidomics. The capabilities of &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; include (1) state-of-the-art peak-picking algorithms, (2) a new automated parameter optimization routine, (3) an efficient sample alignment procedure, (4) gap filling by data recursion, and (5) the extraction of consolidated MS&lt;sup&gt;2&lt;/sup&gt; and an isotopic pattern across all samples. Importantly, both the workflow and the parameter optimization were designed for robust analysis of untargeted studies with thousands of individual LC-MS&lt;sup&gt;n&lt;/sup&gt; runs. We compared &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; to two state-of-the-art workflows based on openMS and XCMS. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; was able to detect and align more reproducible features in all data sets considered. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; scaled well, and its analysis of a data set with 2500 LC-MS files consumed 40% less memory and was 6 times faster than that using the XCMS-based workflow. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; also extracted 2-fold more isotopic patterns and MS&lt;sup&gt;2&lt;/sup&gt; spectra, which in 60% of the cases led to positive matches against a spectral library.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1536,6 +1636,31 @@
       <guid>https://example.com/article/31819264/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Computational methods that model how gene expression of a cell is influenced by interacting cells are lacking. We present &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt;, a method that predicts ligand-target links between interacting cells by combining their expression data with prior knowledge on signaling and gene regulatory networks. We applied &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; to tumor and immune cell microenvironment data and demonstrate that &lt;a href=&#34;https://github.com/saeyslab/nichenetr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NicheNet&lt;/a&gt; can infer active ligands and their gene regulatory effects on interacting cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic reaction network-based recursive metabolite annotation for untargeted metabolomics</title>
+      <link>https://example.com/article/30944337/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30944337/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Large-scale metabolite annotation is a challenge in liquid chromatogram-mass spectrometry (LC-MS)-based untargeted metabolomics. Here, we develop a metabolic reaction network (MRN)-based recursive algorithm (MetDNA) that expands metabolite annotations without the need for a comprehensive standard spectral library. MetDNA is based on the rationale that seed metabolites and their reaction-paired neighbors tend to share structural similarities resulting in similar MS2 spectra. MetDNA characterizes initial seed metabolites using a small library of MS2 spectra, and utilizes their experimental MS2 spectra as surrogate spectra to annotate their reaction-paired neighbor metabolites, which subsequently serve as the basis for recursive analysis. Using different LC-MS platforms, data acquisition methods, and biological samples, we showcase the utility and versatility of MetDNA and demonstrate that about 2000 metabolites can cumulatively be annotated from one experiment. Our results demonstrate that MetDNA substantially expands metabolite annotation, enabling quantitative assessment of metabolic pathways and facilitating integrative multi-omics analysis.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

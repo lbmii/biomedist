@@ -666,6 +666,31 @@
     </item>
     
     <item>
+      <title>Metabolite annotation from knowns to unknowns through knowledge-guided multi-layer metabolic networking</title>
+      <link>https://example.com/article/36333358/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36333358/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Liquid chromatography - mass spectrometry (LC-MS) based untargeted metabolomics allows to measure both known and unknown metabolites in the metabolome. However, unknown metabolite annotation is a major challenge in untargeted metabolomics. Here, we develop an approach, namely, &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knowledge-guided multi-layer network (KGMN)&lt;/a&gt;, to enable global metabolite annotation from knowns to unknowns in untargeted metabolomics. The &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGMN&lt;/a&gt; approach integrates three-layer networks, including knowledge-based metabolic reaction network, knowledge-guided MS/MS similarity network, and global peak correlation network. To demonstrate the principle, we apply &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGMN&lt;/a&gt; in an in vitro enzymatic reaction system and different biological samples, with ~100-300 putative unknowns annotated in each data set. Among them, &amp;gt;80% unknown metabolites are corroborated with in silico MS/MS tools. Finally, we validate 5 metabolites that are absent in common MS/MS libraries through repository mining and synthesis of chemical standards. Together, the &lt;a href=&#34;http://metdna.zhulab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGMN&lt;/a&gt; approach enables efficient unknown annotations, and substantially advances the discovery of recurrent unknown metabolites for common biological samples from model organisms, towards deciphering dark matter in untargeted metabolomics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Circular visualization for high-throughput data</title>
       <link>https://example.com/tool/2022-11-03-data-circ-vis/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
@@ -879,6 +904,56 @@
     </item>
     
     <item>
+      <title>massDatabase: utilities for the operation of the public compound and pathway database</title>
+      <link>https://example.com/article/35944213/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35944213/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Summary: One of the major challenges in liquid chromatography coupled to mass spectrometry data is converting many metabolic feature entries to biological function information, such as metabolite annotation and pathway enrichment, which are based on the compound and pathway databases. Multiple online databases have been developed. However, no tool has been developed for operating all these databases for biological analysis. Therefore, we developed &lt;a href=&#34;https://massdatabase.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;massDatabase&lt;/a&gt;, an R package that operates the online public databases and combines with other tools for streamlined compound annotation and pathway enrichment. &lt;a href=&#34;https://massdatabase.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;massDatabase&lt;/a&gt; is a flexible, simple and powerful tool that can be installed on all platforms, allowing the users to leverage all the online public databases for biological function mining. A detailed tutorial and a case study are provided in the &lt;a href=&#34;https://example.com/uploads/35944213_supplementary_data.pdf&#34; target=&#34;_blank&#34;&gt;Supplementary Material&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>TidyMass an object-oriented reproducible analysis framework for LC-MS data</title>
+      <link>https://example.com/article/35902589/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35902589/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reproducibility, traceability, and transparency have been long-standing issues for metabolomics data analysis. Multiple tools have been developed, but limitations still exist. Here, we present the &lt;a href=&#34;https://www.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyMass&lt;/a&gt; project, a comprehensive R-based computational framework that can achieve the traceable, shareable, and reproducible workflow needs of data processing and analysis for LC-MS-based untargeted metabolomics. TidyMass is an ecosystem of R packages that share an underlying design philosophy, grammar, and data structure, which provides a comprehensive, reproducible, and object-oriented computational framework. The modular architecture makes &lt;a href=&#34;https://www.tidymass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyMass&lt;/a&gt; a highly flexible and extensible tool, which other users can improve and integrate with other tools to customize their own pipeline.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>ggClusterNet: An R package for microbiome network analysis and modularity-based multiple network layouts</title>
       <link>https://example.com/article/imt2.32/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
@@ -892,6 +967,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The network analysis has attracted increasing attention and interest from ecological academics, thus it is of great necessity to develop more convenient and powerful tools. For that reason, we have developed an R package, named “ggClusterNet,” to complete and display the network analysis in an easier manner. In that package, ten network layout algorithms are designed to better display the modules of microbiome network (randomClusterG, PolygonClusterG, PolygonRrClusterG, ArtifCluster, randSNEClusterG, PolygonModsquareG, PolyRdmNotdCirG, model_Gephi.2, model_igraph, and model_maptree). For the convenience of the users, many functions related to microbial network analysis, such as corMicor(), net_properties(), node_properties(), ZiPiPlot(), random_Net_compate(), are integrated to complete the network mining. Furthermore, the pipeline function named network.2() and corBionetwork() are also added for the quick achievement of the network or bipartite network analysis as well as their in-depth mining. The ggClusterNet is publicly available via &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or &lt;a href=&#34;https://gitee.com/wentaomicro/ggClusterNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitee&lt;/a&gt; for users&amp;rsquo; access. A complete description of the usages can be found on the &lt;a href=&#34;https://github.com/taowenmicro/ggClusterNet/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&amp;rsquo;s GitHub page&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SLAW: A Scalable and Self-Optimizing Processing Workflow for Untargeted LC-MS</title>
+      <link>https://example.com/article/34735114/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34735114/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metabolomics has been shown to be promising for diverse applications in basic, applied, and clinical research. These applications often require large-scale data, and while the technology to perform such experiments exists, downstream analysis remains challenging. Different tools exist in a variety of ecosystems, but they often do not scale to large data and are not integrated into a single coherent workflow. Moreover, the outcome of processing is very sensitive to a multitude of algorithmic parameters. Hence, parameter optimization is not only critical but also challenging. We present &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt;, a scalable and yet easy-to-use workflow for processing untargeted LC-MS data in metabolomics and lipidomics. The capabilities of &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; include (1) state-of-the-art peak-picking algorithms, (2) a new automated parameter optimization routine, (3) an efficient sample alignment procedure, (4) gap filling by data recursion, and (5) the extraction of consolidated MS&lt;sup&gt;2&lt;/sup&gt; and an isotopic pattern across all samples. Importantly, both the workflow and the parameter optimization were designed for robust analysis of untargeted studies with thousands of individual LC-MS&lt;sup&gt;n&lt;/sup&gt; runs. We compared &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; to two state-of-the-art workflows based on openMS and XCMS. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; was able to detect and align more reproducible features in all data sets considered. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; scaled well, and its analysis of a data set with 2500 LC-MS files consumed 40% less memory and was 6 times faster than that using the XCMS-based workflow. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; also extracted 2-fold more isotopic patterns and MS&lt;sup&gt;2&lt;/sup&gt; spectra, which in 60% of the cases led to positive matches against a spectral library.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3298,6 +3398,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic reaction network-based recursive metabolite annotation for untargeted metabolomics</title>
+      <link>https://example.com/article/30944337/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30944337/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Large-scale metabolite annotation is a challenge in liquid chromatogram-mass spectrometry (LC-MS)-based untargeted metabolomics. Here, we develop a metabolic reaction network (MRN)-based recursive algorithm (MetDNA) that expands metabolite annotations without the need for a comprehensive standard spectral library. MetDNA is based on the rationale that seed metabolites and their reaction-paired neighbors tend to share structural similarities resulting in similar MS2 spectra. MetDNA characterizes initial seed metabolites using a small library of MS2 spectra, and utilizes their experimental MS2 spectra as surrogate spectra to annotate their reaction-paired neighbor metabolites, which subsequently serve as the basis for recursive analysis. Using different LC-MS platforms, data acquisition methods, and biological samples, we showcase the utility and versatility of MetDNA and demonstrate that about 2000 metabolites can cumulatively be annotated from one experiment. Our results demonstrate that MetDNA substantially expands metabolite annotation, enabling quantitative assessment of metabolic pathways and facilitating integrative multi-omics analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
