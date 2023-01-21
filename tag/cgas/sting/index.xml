@@ -467,5 +467,37 @@
 </description>
     </item>
     
+    <item>
+      <title>Cytoplasmic PARP1 links the genome instability to the inhibition of antiviral immunity through PARylating cGAS</title>
+      <link>https://example.com/article/35460603/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35460603/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DNA damage induces the cytosolic translocation of PARP1 in an iNOS-dependent manner&lt;/li&gt;
+&lt;li&gt;DNA-PK phosphorylates PARP1 on Thr&lt;sup&gt;594&lt;/sup&gt; and instructs its cytosolic translocation&lt;/li&gt;
+&lt;li&gt;PARP1 PARylates human cGAS on D191 or mouse cGAS on E176 to terminate its DNA binding&lt;/li&gt;
+&lt;li&gt;PARP1-mediated PARylation of cGAS inhibits antiviral immunity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Virus infection modulates both host immunity and host genomic stability. Poly(ADP-ribose) polymerase 1 (PARP1) is a key nuclear sensor of DNA damage, which maintains genomic integrity, and the successful application of PARP1 inhibitors for clinical anti-cancer therapy has lasted for decades. However, precisely how PARP1 gains access to cytoplasm and regulates antiviral immunity remains unknown. Here, we report that DNA virus induces a reactive nitrogen species (RNS)-dependent DNA damage and activates DNA-dependent protein kinase (DNA-PK). Activated DNA-PK phosphorylates PARP1 on Thr&lt;sup&gt;594&lt;/sup&gt;, thus facilitating the cytoplasmic translocation of PARP1 to inhibit the antiviral immunity both in vitro and in vivo. Mechanistically, cytoplasmic PARP1 interacts with and directly PARylates cyclic GMP-AMP synthase (cGAS) on Asp&lt;sup&gt;191&lt;/sup&gt; to inhibit its DNA-binding ability. Together, our findings uncover an essential role of PARP1 in linking virus-induced genome instability with inhibition of host immunity, which is of relevance to cancer, autoinflammation, and other diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

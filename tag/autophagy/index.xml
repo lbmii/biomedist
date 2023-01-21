@@ -5,12 +5,37 @@
     <link>https://example.com/tag/autophagy/</link>
       <atom:link href="https://example.com/tag/autophagy/index.xml" rel="self" type="application/rss+xml" />
     <description>Autophagy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Autophagy</title>
       <link>https://example.com/tag/autophagy/</link>
     </image>
+    
+    <item>
+      <title>Kaempferide ameliorates cisplatin-induced nephrotoxicity via inhibiting oxidative stress and inducing autophagy</title>
+      <link>https://example.com/article/36658427/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36658427/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute kidney injury (AKI) caused by anti-tumor drugs, such as cisplatin, is a severe complication with no effective treatment currently, leading to the reduction or discontinuation of chemotherapy. Natural products or herbal medicines are gradually considered as promising agents against cisplatin-induced AKI with the advantages of multi-targeting, multi-effects, and less resistance. In this study, we investigated the effects of kaempferide, a natural flavonoid extracted from the rhizome of Kaempferia galanga, in experimental AKI models in vitro and in vivo. We first conducted pharmacokinetic study in mice and found a relative stable state of kaempferide with a small amount of conversion into kaempferol. We showed that both kaempferide (10 μM) and kaempferol (10 μM) significantly inhibited cisplatin-caused injuries in immortalized proximal tubule epithelial cell line HK-2. In AKI mice induced by injection of a single dose of cisplatin (15 mg/kg), oral administration of kaempferide (50 mg/kg) either before or after cisplatin injection markedly improved renal function, and ameliorated renal tissue damage. We demonstrated that kaempferide inhibited oxidative stress and induced autophagy in cisplatin-treated mice and HK-2 cells, thus increasing tubular cell viability and decreasing immune responses to attenuate the disease progression. In addition, treatment with kaempferide significantly ameliorated ischemia-reperfusion-induced renal injury in vitro and in vivo. We conclude that kaempferide is a promising natural product for treating various AKI. This study has great implications for promotion of its use in healthcare products, and help to break through the limited use of cisplatin in the clinic.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Copper-dependent autophagic degradation of GPX4 drives ferroptosis</title>

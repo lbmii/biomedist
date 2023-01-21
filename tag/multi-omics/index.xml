@@ -5,12 +5,37 @@
     <link>https://example.com/tag/multi-omics/</link>
       <atom:link href="https://example.com/tag/multi-omics/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-Omics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Multi-Omics</title>
       <link>https://example.com/tag/multi-omics/</link>
     </image>
+    
+    <item>
+      <title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title>
+      <link>https://example.com/article/36658343/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36658343/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Current healthcare practices are reactive and use limited physiological and clinical information, often collected months or years apart. Moreover, the discovery and profiling of blood biomarkers in clinical and research settings are constrained by geographical barriers, the cost and inconvenience of in-clinic venepuncture, low sampling frequency and the low depth of molecular measurements. Here we describe a strategy for the frequent capture and analysis of thousands of metabolites, lipids, cytokines and proteins in 10 μl of blood alongside physiological information from wearable sensors. We show the advantages of such frequent and dense multi-omics microsampling in two applications: the assessment of the reactions to a complex mixture of dietary interventions, to discover individualized inflammatory and metabolic responses; and deep individualized profiling, to reveal large-scale molecular fluctuations as well as thousands of molecular relationships associated with intra-day physiological variations (in heart rate, for example) and with the levels of clinical biomarkers (specifically, glucose and cortisol) and of physical activity. Combining wearables and multi-omics microsampling for frequent and scalable omics may facilitate dynamic health profiling and biomarker discovery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A spatially resolved atlas of the human lung characterizes a gland-associated immune niche</title>

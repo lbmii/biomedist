@@ -5,12 +5,37 @@
     <link>https://example.com/tag/techniques/</link>
       <atom:link href="https://example.com/tag/techniques/index.xml" rel="self" type="application/rss+xml" />
     <description>Techniques</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Techniques</title>
       <link>https://example.com/tag/techniques/</link>
     </image>
+    
+    <item>
+      <title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title>
+      <link>https://example.com/article/36658343/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36658343/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Current healthcare practices are reactive and use limited physiological and clinical information, often collected months or years apart. Moreover, the discovery and profiling of blood biomarkers in clinical and research settings are constrained by geographical barriers, the cost and inconvenience of in-clinic venepuncture, low sampling frequency and the low depth of molecular measurements. Here we describe a strategy for the frequent capture and analysis of thousands of metabolites, lipids, cytokines and proteins in 10 μl of blood alongside physiological information from wearable sensors. We show the advantages of such frequent and dense multi-omics microsampling in two applications: the assessment of the reactions to a complex mixture of dietary interventions, to discover individualized inflammatory and metabolic responses; and deep individualized profiling, to reveal large-scale molecular fluctuations as well as thousands of molecular relationships associated with intra-day physiological variations (in heart rate, for example) and with the levels of clinical biomarkers (specifically, glucose and cortisol) and of physical activity. Combining wearables and multi-omics microsampling for frequent and scalable omics may facilitate dynamic health profiling and biomarker discovery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Enhanced RNA knockdown efficiency with engineered fusion guide RNAs that function with both CRISPR-CasRx and hammerhead ribozyme</title>
@@ -196,6 +221,31 @@
       <guid>https://example.com/article/apn.2.1.016012/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Structured illumination microscopy (SIM) has been widely used in live-cell superresolution (SR) imaging. However, conventional physical model-based SIM SR reconstruction algorithms are prone to artifacts in handling raw images with low signal-to-noise ratios (SNRs). Deep-learning (DL)-based methods can address this challenge but may lead to degradation and hallucinations. By combining the physical inversion model with a total deep variation (TDV) regularization, we propose a hybrid restoration method (TDV-SIM) that outperforms conventional or DL methods in suppressing artifacts and hallucinations while maintaining resolutions. We demonstrate the performance superiority of TDV-SIM in restoring actin filaments, endoplasmic reticulum, and mitochondrial cristae from extremely low SNR raw images. Thus TDV-SIM represents the ideal method for prolonged live-cell SR imaging with minimal exposure and photodamage. Overall, TDV-SIM proves the power of integrating model-based reconstruction methods with DL ones, possibly leading to the rapid exploration of similar strategies in high-fidelity reconstructions of other microscopy methods.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of potent antimicrobial peptides via a machine-learning pipeline that mines the entire space of peptide sequences</title>
+      <link>https://example.com/article/36635418/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36635418/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Systematically identifying functional peptides is difficult owing to the vast combinatorial space of peptide sequences. Here we report a machine-learning pipeline that mines the hundreds of billions of sequences in the entire virtual library of peptides made of 6-9 amino acids to identify potent antimicrobial peptides. The pipeline consists of trainable machine-learning modules (for performing empirical selection, classification, ranking and regression tasks) assembled sequentially following a coarse-to-fine design principle to gradually narrow down the search space. The leading three antimicrobial hexapeptides identified by the pipeline showed strong activities against a wide range of clinical isolates of multidrug-resistant pathogens. In mice with bacterial pneumonia, aerosolized formulations of the identified peptides showed therapeutic efficacy comparable to penicillin, negligible toxicity and a low propensity to induce drug resistance. The machine-learning pipeline may accelerate the discovery of new functional peptides.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2427,6 +2477,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel binary k-mer approach for classification of coding and non-coding RNAs across diverse species</title>
+      <link>https://example.com/article/35476940/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35476940/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Classification among coding sequences (CDS) and non-coding RNA (ncRNA) sequences is a challenge and several machine learning models have been developed for the same. Since the frequency of curated CDS is many-folds as compared to that of the ncRNAs, we devised a novel approach to work with the complete datasets from fifteen diverse species. In our proposed binary approach, we replaced all the &amp;lsquo;A&amp;rsquo;s and &amp;lsquo;T&amp;rsquo;s with &amp;lsquo;0&amp;rsquo;s and &amp;lsquo;G&amp;rsquo;s and &amp;lsquo;C&amp;rsquo;s with &amp;lsquo;1&amp;rsquo;s to obtain a binary form of CDS and ncRNAs. The k-mer analysis of these binary sequences revealed that the frequency of binary patterns among the CDS and ncRNAs can be used as features to distinguish among them. Using insights from these distinguishing frequencies, we used k-nearest neighbor classifier to classify among them. Our strategy is not only time-efficient but leads to significantly increased performance metrics in terms of Matthews Correlation Coefficient (MCC), Accuracy, F1 score, Precision, Recall and AUC-ROC, for species like &lt;em&gt;P. paniscus&lt;/em&gt;, &lt;em&gt;M. mulatta&lt;/em&gt;, &lt;em&gt;M. lucifugus&lt;/em&gt;, &lt;em&gt;G. gallus&lt;/em&gt;, &lt;em&gt;C. japonica&lt;/em&gt;, &lt;em&gt;C. abingdonii&lt;/em&gt;, &lt;em&gt;A. carolinensis&lt;/em&gt;, &lt;em&gt;D. melanogaster&lt;/em&gt; and &lt;em&gt;C. elegans&lt;/em&gt; when compared with the conventional ATGC approach. Additionally, we also show that the performance obtained for diverse species tested on the model based on H. sapiens, correlated with the geological evolutionary timeline, thereby further strengthening our approach. Therefore, we propose that CDS and ncRNAs can be efficiently classified using &amp;ldquo;2-character&amp;rdquo; binary frequency as compared to &amp;ldquo;4-character&amp;rdquo; frequency of ATGC approach. Thus, our highly efficient binary approach can replace the more complex ATGC approach successfully.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

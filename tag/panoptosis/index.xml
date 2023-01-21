@@ -5,12 +5,37 @@
     <link>https://example.com/tag/panoptosis/</link>
       <atom:link href="https://example.com/tag/panoptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>PANoptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>PANoptosis</title>
       <link>https://example.com/tag/panoptosis/</link>
     </image>
+    
+    <item>
+      <title>SARS-CoV-2 Z-RNA activates the ZBP1-RIPK3 pathway to promote virus-induced inflammatory responses</title>
+      <link>https://example.com/article/36650286/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650286/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 infection can trigger strong inflammatory responses and cause severe lung damage in COVID-19 patients with critical illness. However, the molecular mechanisms by which the infection induces excessive inflammatory responses are not fully understood. Here, we report that SARS-CoV-2 infection results in the formation of viral Z-RNA in the cytoplasm of infected cells and thereby activates the ZBP1-RIPK3 pathway. Pharmacological inhibition of RIPK3 by GSK872 or genetic deletion of MLKL reduced SARS-CoV-2-induced IL-1β release. ZBP1 or RIPK3 deficiency leads to reduced production of both inflammatory cytokines and chemokines during SARS-CoV-2 infection both in vitro and in vivo. Furthermore, deletion of ZBP1 or RIPK3 alleviated SARS-CoV-2 infection-induced immune cell infiltration and lung damage in infected mouse models. These results suggest that the ZBP1-RIPK3 pathway plays a critical role in SARS-CoV-2-induced inflammatory responses and lung damage. Our study provides novel insights into how SARS-CoV-2 infection triggers inflammatory responses and lung pathology, and implicates the therapeutic potential of targeting ZBP1-RIPK3 axis in treating COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PANoptosis-like cell death in ischemia/reperfusion injury of retinal neurons</title>

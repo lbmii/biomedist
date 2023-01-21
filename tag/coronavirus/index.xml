@@ -5,12 +5,37 @@
     <link>https://example.com/tag/coronavirus/</link>
       <atom:link href="https://example.com/tag/coronavirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Coronavirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Coronavirus</title>
       <link>https://example.com/tag/coronavirus/</link>
     </image>
+    
+    <item>
+      <title>SARS-CoV-2 Z-RNA activates the ZBP1-RIPK3 pathway to promote virus-induced inflammatory responses</title>
+      <link>https://example.com/article/36650286/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650286/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 infection can trigger strong inflammatory responses and cause severe lung damage in COVID-19 patients with critical illness. However, the molecular mechanisms by which the infection induces excessive inflammatory responses are not fully understood. Here, we report that SARS-CoV-2 infection results in the formation of viral Z-RNA in the cytoplasm of infected cells and thereby activates the ZBP1-RIPK3 pathway. Pharmacological inhibition of RIPK3 by GSK872 or genetic deletion of MLKL reduced SARS-CoV-2-induced IL-1β release. ZBP1 or RIPK3 deficiency leads to reduced production of both inflammatory cytokines and chemokines during SARS-CoV-2 infection both in vitro and in vivo. Furthermore, deletion of ZBP1 or RIPK3 alleviated SARS-CoV-2 infection-induced immune cell infiltration and lung damage in infected mouse models. These results suggest that the ZBP1-RIPK3 pathway plays a critical role in SARS-CoV-2-induced inflammatory responses and lung damage. Our study provides novel insights into how SARS-CoV-2 infection triggers inflammatory responses and lung pathology, and implicates the therapeutic potential of targeting ZBP1-RIPK3 axis in treating COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Vaccination with Span, an antigen guided by SARS-CoV-2 S protein evolution, protects against challenge with viral variants in mice</title>
@@ -671,6 +696,31 @@
     </item>
     
     <item>
+      <title>Combinational benefit of antihistamines and remdesivir for reducing SARS-CoV-2 replication and alleviating inflammation-induced lung injury in mice</title>
+      <link>https://example.com/article/35503561/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35503561/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19 is an immune-mediated inflammatory disease caused by SARS-CoV-2 infection, the combination of anti-inflammatory and antiviral therapy is predicted to provide clinical benefits. We recently demonstrated that mast cells (MCs) are an essential mediator of SARS-CoV-2-initiated hyperinflammation. We also showed that spike protein-induced MC degranulation initiates alveolar epithelial inflammation for barrier disruption and suggested an off-label use of antihistamines as MC stabilizers to block degranulation and consequently suppress inflammation and prevent lung injury. In this study, we emphasized the essential role of MCs in SARS-CoV-2-induced lung lesions in vivo, and demonstrated the benefits of co-administration of antihistamines and antiviral drug remdesivir in SARS-CoV-2-infected mice. Specifically, SARS-CoV-2 spike protein-induced MC degranulation resulted in alveolar-capillary injury, while pretreatment of pulmonary microvascular endothelial cells with antihistamines prevented adhesion junction disruption; predictably, the combination of antiviral drug remdesivir with the antihistamine loratadine, a histamine receptor 1 (HR1) antagonist, dampened viral replication and inflammation, thereby greatly reducing lung injury. Our findings emphasize the crucial role of MCs in SARS-CoV-2-induced inflammation and lung injury and provide a feasible combination antiviral and anti-inflammatory therapy for COVID-19 treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Cumulative SARS-CoV-2 mutations and corresponding changes in immunity in an immunocompromised patient indicate viral evolution within the host</title>
       <link>https://example.com/article/35538074/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
@@ -702,6 +752,31 @@
       <guid>https://example.com/article/35536318/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;β-coronaviruses reshape host cell endomembranes to form double-membrane vesicles (DMVs) for genome replication and transcription. Ectopically expressed viral nonstructural proteins nsp3 and nsp4 interact to zipper and bend the ER for DMV biogenesis. Genome-wide screens revealed the autophagy proteins VMP1 and TMEM41B as important host factors for SARS-CoV-2 infection. Here, we demonstrated that DMV biogenesis, induced by virus infection or expression of nsp3/4, is impaired in the VMP1 KO or TMEM41B KO cells. In VMP1 KO cells, the nsp3/4 complex forms normally, but the zippered ER fails to close into DMVs. In TMEM41B KO cells, the nsp3-nsp4 interaction is reduced and DMV formation is suppressed. Thus, VMP1 and TMEM41B function at different steps during DMV formation. VMP1 was shown to regulate cross-membrane phosphatidylserine (PS) distribution. Inhibiting PS synthesis partially rescues the DMV defects in VMP1 KO cells, suggesting that PS participates in DMV formation. We provide molecular insights into the collaboration of host factors with viral proteins to remodel host organelles.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 infection of human-induced pluripotent stem cells-derived lung lineage cells evokes inflammatory and chemosensory responses by targeting mitochondrial pathways</title>
+      <link>https://example.com/article/35460571/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35460571/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The COVID-19 disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) primarily affects the lung, particularly the proximal airway and distal alveolar cells. NKX2.1+ primordial lung progenitors of the foregut (anterior) endoderm are the developmental precursors to all adult lung epithelial lineages and are postulated to play an important role in viral tropism. Here, we show that SARS-CoV-2 readily infected and replicated in human-induced pluripotent stem cell-derived proximal airway cells, distal alveolar cells, and lung progenitors. In addition to the upregulation of antiviral defense and immune responses, transcriptomics data uncovered a robust epithelial cell-specific response, including perturbation of metabolic processes and disruption in the alveolar maturation program. We also identified spatiotemporal dysregulation of mitochondrial heme oxygenase 1 (HMOX1), which is associated with defense against antioxidant-induced lung injury. Cytokines, such as TNF-α, INF-γ, IL-6, and IL-13, were upregulated in infected cells sparking mitochondrial ROS production and change in electron transport chain complexes. Increased mitochondrial ROS then activated additional proinflammatory cytokines leading to an aberrant cell cycle resulting in apoptosis. Notably, we are the first to report a chemosensory response resulting from SARS-CoV-2 infection similar to that seen in COVID-19 patients. Some of our key findings were validated using COVID-19-affected postmortem lung tissue sections. These results suggest that our in vitro system could serve as a suitable model to investigate the pathogenetic mechanisms of SARS-CoV-2 infection and to discover and test therapeutic drugs against COVID-19 or its consequences.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

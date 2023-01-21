@@ -5,12 +5,37 @@
     <link>https://example.com/tag/circadian-rhythm/</link>
       <atom:link href="https://example.com/tag/circadian-rhythm/index.xml" rel="self" type="application/rss+xml" />
     <description>Circadian Rhythm</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Circadian Rhythm</title>
       <link>https://example.com/tag/circadian-rhythm/</link>
     </image>
+    
+    <item>
+      <title>The Circadian Biology of Heart Failure</title>
+      <link>https://example.com/review/36656971/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36656971/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Driven by autonomous molecular clocks that are synchronized by a master pacemaker in the suprachiasmatic nucleus, cardiac physiology fluctuates in diurnal rhythms that can be partly or entirely circadian. Cardiac contractility, metabolism, and electrophysiology, all have diurnal rhythms, as does the neurohumoral control of cardiac and kidney function. In this review, we discuss the evidence that circadian biology regulates cardiac function, how molecular clocks may relate to the pathogenesis of heart failure, and how chronotherapeutics might be applied in heart failure. Disrupting molecular clocks can lead to heart failure in animal models, and the myocardial response to injury seems to be conditioned by the time of day. Human studies are consistent with these findings, and they implicate the clock and circadian rhythms in the pathogenesis of heart failure. Certain circadian rhythms are maintained in patients with heart failure, a factor that can guide optimal timing of therapy. Pharmacologic and nonpharmacologic manipulation of circadian rhythms and molecular clocks show promise in the prevention and treatment of heart failure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Nucleus-exported CLOCK acetylates PRPS to promote de novo nucleotide synthesis and liver tumour growth</title>

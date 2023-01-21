@@ -5,12 +5,72 @@
     <link>https://example.com/tag/intestine/</link>
       <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
     <description>Intestine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Intestine</title>
       <link>https://example.com/tag/intestine/</link>
     </image>
+    
+    <item>
+      <title>GATA6-AS1 regulates intestinal epithelial mitochondrial functions, and its reduced expression is linked to intestinal inflammation and less favorable disease course in ulcerative colitis (UC)</title>
+      <link>https://example.com/article/36655602/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36655602/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background and aims:&lt;/em&gt; Widespread dysregulation of long non-coding RNAs (lncRNAs) including a reduction in GATA6-AS1 was noted in inflammatory bowel disease (IBD). We previously reported a prominent inhibition of epithelial mitochondrial functions in UC. However, the connection between reduction of GATA6-AS1 expression and attenuated epithelial mitochondrial functions was not yet defined.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Mucosal transcriptomics was used to conform GATA6-AS1 reduction in several treatment naïve independent human cohorts (n=673). RNA pull-down followed by mass-spectrometry was used to determine GATA6-AS1 interactome. Metabolomics and mitochondrial respiration following GATA6-AS1 silencing in Caco-2, were used to elaborate on GATA6-AS1 functions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; GATA6-AS1 showed predominant expression in gut epithelia using single cell datasets. GATA6-AS1 levels were reduced in Crohn disease (CD) ileum and in ulcerative colitis (UC) rectum in independent cohorts. Reduced GATA6-AS1 lncRNA was further linked to more severe UC form, and to less favorable UC course. GATA6-AS1 interactome showed robust enrichment for mitochondrial proteins, and included TGM2, an autoantigen in celiac disease that is induced in UC, CD, and celiac, in contrast GATA6-AS1 reduction in these cohorts. GATA6-AS1 silencing resulted in induction of TGM2, and this was coupled with reduction in mitochondrial membrane potential and mitochondrial respiration, as well as in reduction of metabolites linked with aerobic respiration relevant to mucosal inflammation. TGM2 knockdown in GATA6-AS1 deficient cells rescued mitochondrial respiration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; GATA6-AS1 levels are reduced in UC, CD, and celiac, and in more severe UC forms. We highlight GATA6-AS1 as a target regulating epithelial mitochondrial functions, potentially through controlling TGM2 levels.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer</title>
+      <link>https://example.com/article/23-01-21-09-08/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-21-09-08/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiplexed analysis shows intermixed tumor morphologies and molecular gradients&lt;/li&gt;
+&lt;li&gt;Various cancer characteristic cellular features are large, interconnected structures&lt;/li&gt;
+&lt;li&gt;3D TLS networks show intra-TLS patterning variation&lt;/li&gt;
+&lt;li&gt;PD1-PDL1 interactions are primarily between T and myeloid cells in this CRC cohort&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Advanced solid cancers are complex assemblies of tumor, immune, and stromal cells characterized by high intratumoral variation. We use highly multiplexed tissue imaging, 3D reconstruction, spatial statistics, and machine learning to identify cell types and states underlying morphological features of known diagnostic and prognostic significance in colorectal cancer. Quantitation of these features in high-plex marker space reveals recurrent transitions from one tumor morphology to the next, some of which are coincident with long-range gradients in the expression of oncogenes and epigenetic regulators. At the tumor invasive margin, where tumor, normal, and immune cells compete, T cell suppression involves multiple cell types and 3D imaging shows that seemingly localized 2D features such as tertiary lymphoid structures are commonly interconnected and have graded molecular properties. Thus, while cancer genetics emphasizes the importance of discrete changes in tumor state, whole-specimen imaging reveals large-scale morphological and molecular gradients analogous to those in developing tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>High-resolution analysis of mononuclear phagocytes reveals GPNMB as a prognostic marker in human colorectal liver metastasis</title>
@@ -3550,6 +3610,34 @@
     </item>
     
     <item>
+      <title>Targeting DCLK1 overcomes 5-fluorouracil resistance in colorectal cancer through inhibiting CCAR1/β-catenin pathway-mediated cancer stemness</title>
+      <link>https://example.com/article/35522902/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35522902/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; To date, 5-fluorouracil-based chemotherapy is very important for locally advanced or metastatic colorectal cancer (CRC). However, chemotherapy resistance results in tumor recurrence and metastasis, which is a major obstacle for treatment of CRC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In the current research, we establish 5-fluorouracil resistant cell lines and explore the potential targets associated with 5-fluorouracil resistance in CRC. Moreover, we perform clinical specimen research, in vitro and in vivo experiments and molecular mechanism research, to reveal the biological effects and the mechanism of DCLK1 promoting 5-fluorouracil resistance, and to clarify the potential clinical value of DCLK1 as a target of 5-fluorouracil resistance in CRC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We discover that doublecortin-like kinase 1 (DCLK1), a cancer stem cell maker, is correlated with 5-fluorouracil resistance, and functionally promotes cancer stemness and 5-fluorouracil resistance in CRC. Mechanistically, we elucidate that DCLK1 interacts with cell cycle and apoptosis regulator 1 (CCAR1) through the C-terminal domain, and phosphorylates CCAR1 at the Ser343 site, which is essential for CCAR1 stabilisation. Moreover, we find that DCLK1 positively regulates β-catenin signalling via CCAR1, which is responsible for maintaining cancer stemness. Subsequently, we prove that blocking β-catenin inhibits DCLK1-mediated 5-fluorouracil resistance in CRC cells. Importantly, we demonstrate that DCLK1 inhibitor could block CCAR1/β-catenin pathway-mediated cancer stemness and consequently suppresses 5-fluorouracil resistant CRC cells in vitro and in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Collectively, our findings reveal that DCLK1 promotes 5-fluorouracil resistance in CRC by CCAR1/β-catenin pathway-mediated cancer stemness, and suggest that targeting DCLK1 might be a promising method to eliminate cancer stem cells for overcoming 5-fluorouracil resistance in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>KLF16 enhances stress tolerance of colorectal carcinomas by modulating nucleolar homeostasis and translational reprogramming</title>
       <link>https://example.com/article/35524408/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
@@ -3607,6 +3695,56 @@
     </item>
     
     <item>
+      <title>Targeting SMYD2 inhibits angiogenesis and increases the efficiency of apatinib by suppressing EGFL7 in colorectal cancer</title>
+      <link>https://example.com/article/35503397/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35503397/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Angiogenesis is an essential factor affecting the occurrence and development of solid tumors. SET And MYND Domain Containing 2 (SMYD2) serves as an oncogene in various cancers. However, whether SMYD2 is involved in tumor angiogenesis remains unclear. Here, we report that SMYD2 expression is associated with microvessel density in colorectal cancer (CRC) tissues. SMYD2 promotes CRC angiogenesis in vitro and in vivo. Mechanistically, SMYD2 physically interacts with HNRNPK and mediates lysine monomethylation at K422 of HNRNPK, which substantially increases RNA binding activity. HNRNPK acts by binding and stabilizing EGFL7 mRNA. As an angiogenic stimulant, EGFL7 enhances CRC angiogenesis. H3K4me3 maintained by PHF8 mediates the abnormal overexpression of SMYD2 in CRC. Moreover, targeting SMYD2 blocks CRC angiogenesis in tumor xenografts. Treatment with BAY-598, a functional inhibitor of SMYD2, can also synergize with apatinib in patient-derived xenografts. Overall, our findings reveal a new regulatory axis of CRC angiogenesis and provide a potential strategy for antiangiogenic therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel β-catenin/BCL9 complex inhibitor blocks oncogenic Wnt signaling and disrupts cholesterol homeostasis in colorectal cancer</title>
+      <link>https://example.com/article/35486727/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35486727/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysregulated Wnt/β-catenin signaling is implicated in the pathogenesis of many human cancers, including colorectal cancer (CRC), making it an attractive clinical target. With the aim of inhibiting oncogenic Wnt activity, we developed a high-throughput screening AlphaScreen assay to identify selective small-molecule inhibitors of the interaction between β-catenin and its coactivator BCL9. We identified a compound that consistently bound to β-catenin and specifically inhibited in vivo native β-catenin/BCL9 complex formation in CRC cell lines. This compound inhibited Wnt activity, down-regulated expression of the Wnt/β-catenin signature in gene expression studies, disrupted cholesterol homeostasis, and significantly reduced the proliferation of CRC cell lines and tumor growth in a xenograft mouse model of CRC. This study has therefore identified a specific small-molecule inhibitor of oncogenic Wnt signaling, which may have value as a probe for functional studies and has important implications for the development of novel therapies in patients with CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Long noncoding RNA LINC01606 protects colon cancer cells from ferroptotic cell death and promotes stemness by SCD1-Wnt/β-catenin-TFE3 feedback loop signalling</title>
       <link>https://example.com/article/35485210/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
@@ -3635,12 +3773,94 @@
     </item>
     
     <item>
+      <title>Functional genetic screen identifies ITPR3/calcium/RELB axis as a driver of colorectal cancer metastatic liver colonization</title>
+      <link>https://example.com/article/35487218/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35487218/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Loss of ITPR3 in colorectal cancer cells inhibits metastatic liver colonization&lt;/li&gt;
+&lt;li&gt;RELB acts downstream of ITPR3/calcium to promote colorectal cancer liver metastasis&lt;/li&gt;
+&lt;li&gt;ITPR3 and RELB regulate survival in response to hypoxia and substratum detachment&lt;/li&gt;
+&lt;li&gt;Exposure of colorectal cancer cells to ITPR3 inhibitor caffeine reduces liver metastasis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metastatic colonization is the primary cause of death from colorectal cancer (CRC). We employed genome-scale in vivo short hairpin RNA (shRNA) screening and validation to identify 26 promoters of CRC liver colonization. Among these genes, we identified a cluster that contains multiple targetable genes, including ITPR3, which promoted liver-metastatic colonization and elicited similar downstream gene expression programs. ITPR3 is a caffeine-sensitive inositol 1,4,5-triphosphate (IP3) receptor that releases calcium from the endoplasmic reticulum and enhanced metastatic colonization by inducing expression of RELB, a transcription factor that is associated with non-canonical NF-κB signaling. Genetic, cell biological, pharmacologic, and clinical association studies revealed that ITPR3 and RELB drive CRC colony formation by promoting cell survival upon substratum detachment or hypoxic exposure. RELB was sufficient to drive colonization downstream of ITPR3. Our findings implicate the ITPR3/calcium/RELB axis in CRC metastatic colony formation and uncover multiple clinico-pathologically associated targetable proteins as drivers of CRC metastatic colonization.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Germline MBD4 deficiency causes a multi-tumor predisposition syndrome</title>
+      <link>https://example.com/article/35460607/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35460607/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We report an autosomal recessive, multi-organ tumor predisposition syndrome, caused by bi-allelic loss-of-function germline variants in the base excision repair (BER) gene MBD4. We identified five individuals with bi-allelic MBD4 variants within four families and these individuals had a personal and/or family history of adenomatous colorectal polyposis, acute myeloid leukemia, and uveal melanoma. MBD4 encodes a glycosylase involved in repair of G:T mismatches resulting from deamination of 5&amp;rsquo;-methylcytosine. The colorectal adenomas from MBD4-deficient individuals showed a mutator phenotype attributable to mutational signature SBS1, consistent with the function of MBD4. MBD4-deficient polyps harbored somatic mutations in similar driver genes to sporadic colorectal tumors, although AMER1 mutations were more common and KRAS mutations less frequent. Our findings expand the role of BER deficiencies in tumor predisposition. Inclusion of MBD4 in genetic testing for polyposis and multi-tumor phenotypes is warranted to improve disease management.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell and spatial analysis reveal interaction of FAP&#43; fibroblasts and SPP1&#43; macrophages in colorectal cancer</title>
       <link>https://example.com/article/35365629/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35365629/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Colorectal cancer (CRC) is among the most common malignancies with limited treatments other than surgery. The tumor microenvironment (TME) profiling enables the discovery of potential therapeutic targets. Here, we profile 54,103 cells from tumor and adjacent tissues to characterize cellular composition and elucidate the potential origin and regulation of tumor-enriched cell types in CRC. We demonstrate that the tumor-specific FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages were positively correlated in 14 independent CRC cohorts containing 2550 samples and validate their close localization by immuno-fluorescent staining and spatial transcriptomics. This interaction might be regulated by chemerin, TGF-β, and interleukin-1, which would stimulate the formation of immune-excluded desmoplasic structure and limit the T cell infiltration. Furthermore, we find patients with high FAP or SPP1 expression achieved less therapeutic benefit from an anti-PD-L1 therapy cohort. Our results provide a potential therapeutic strategy by disrupting FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages interaction to improve immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Starch hydrogels as targeted colonic drug delivery vehicles</title>
+      <link>https://example.com/article/35483834/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35483834/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Targeted colonic drug delivery systems are needed for the treatment of endemic colorectal pathologies, such as Crohn&amp;rsquo;s disease, ulcerative colitis, and colorectal cancer. These drug delivery vehicles are difficult to formulate, as they need to remain structurally intact whilst navigating a wide range of physiological conditions across the upper gastrointestinal tract. In this work we show how starch hydrogel bulk structural and molecular level parameters influence their properties as drug delivery platforms. The in vitro protocols mimic in vivo conditions, accounting for physiological concentrations of gastrointestinal hydrolytic enzymes and salts. The structural changes starch gels undergo along the entire length of the human gastrointestinal tract have been quantified, and related to the materials&amp;rsquo; drug release kinetics for three different drug molecules, and interactions with the large intestinal microbiota. It has been demonstrated how one can modify their choice of starch in order to fine tune its corresponding hydrogel&amp;rsquo;s pharmacokinetic profile.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

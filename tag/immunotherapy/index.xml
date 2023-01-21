@@ -5,12 +5,40 @@
     <link>https://example.com/tag/immunotherapy/</link>
       <atom:link href="https://example.com/tag/immunotherapy/index.xml" rel="self" type="application/rss+xml" />
     <description>Immunotherapy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immunotherapy</title>
       <link>https://example.com/tag/immunotherapy/</link>
     </image>
+    
+    <item>
+      <title>Soluble and cell-based markers of immune checkpoint inhibitor-associated nephritis</title>
+      <link>https://example.com/article/36657813/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657813/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Non-invasive biomarkers of immune checkpoint inhibitor-associated acute tubulointerstitial nephritis (ICI-nephritis) are urgently needed. Because ICIs block immune checkpoint pathways that include cytotoxic T lymphocyte antigen 4 (CTLA4), we hypothesized that biomarkers of immune dysregulationpreviously defined in patients with congenital CTLA4 deficiency, including elevated soluble interleukin-2 receptor alpha (sIL-2R) and flow cytometric cell-based markers of B and T cell dysregulation in peripheral blood may aid the diagnosis of ICI-nephritis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; A retrospective cohort of patients diagnosed with ICI-nephritis was compared with three prospectively enrolled control cohorts: ICI-treated controls without immune-related adverse events, patients not on ICIs with hemodynamic acute kidney injury (hemodynamic AKI), and patients not on ICIs with biopsy proven acute interstitial nephritis from other causes (non-ICI-nephritis). sIL-2R level and flow cytometric parameters were compared between groups using Wilcoxon rank sum test or Kruskal-Wallis test. Receiver operating characteristic curves were generated to define the accuracy of sIL-2R and flow cytometric biomarkers in diagnosing ICI-nephritis. The downstream impact of T cell activation in the affected kidney was investigated using archived biopsy samples to evaluate the gene expression of &lt;em&gt;IL2RA&lt;/em&gt;, IL-2 signaling, and T cell receptor signaling in patients with ICI-nephritis compared with other causes of drug-induced nephritis, acute tubular injury, and histologically normal controls.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; sIL-2R level in peripheral blood was significantly higher in patients with ICI-nephritis (N=24) (median 2.5-fold upper limit of normal (ULN), IQR 1.9-3.3), compared with ICI-treated controls (N=10) (median 0.8-fold ULN, IQR 0.5-0.9, &lt;em&gt;p&lt;/em&gt;&amp;lt;0.001) and hemodynamic AKI controls (N=6) (median 0.9-fold-ULN, IQR 0.7-1.1, &lt;em&gt;p&lt;/em&gt;=0.008). A sIL-2R cut-off point of 1.75-fold ULN was highly diagnostic of ICI-nephritis (area under the curve &amp;gt;96%) when compared with either ICI-treated or hemodynamic AKI controls. By peripheral blood flow cytometry analysis, lower absolute CD8+T cells, CD45RA+CD8+ T cells, memory CD27+B cells, and expansion of plasmablasts were prominent features of ICI-nephritis compared with ICI-treated controls. Gene expressions for &lt;em&gt;IL2RA&lt;/em&gt;, IL-2 signaling, and T cell receptor signaling in the kidney tissue with ICI-nephritis were significantly higher compared with controls.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Elevated sIL-2R level and flow cytometric markers of both B and T cell dysregulation may aid the diagnosis of ICI-nephritis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Macrophage Membrane-Coated Nano-Gemcitabine Promotes Lymphocyte Infiltration and Synergizes AntiPD-L1 to Restore the Tumoricidal Function</title>
@@ -251,6 +279,31 @@
     </item>
     
     <item>
+      <title>Integrated T cell cytometry metrics for immune-monitoring applications in immunotherapy clinical trials</title>
+      <link>https://example.com/article/36214223/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36214223/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mass cytometry, or cytometry by TOF (CyTOF), provides a robust means of determining protein-level measurements of more than 40 markers simultaneously. While the functional states of immune cells occur along continuous phenotypic transitions, cytometric studies surveying cell phenotypes often rely on static metrics, such as discrete cell-type abundances, based on canonical markers and/or restrictive gating strategies. To overcome this limitation, we applied single-cell trajectory inference and nonnegative matrix factorization methods to CyTOF data to trace the dynamics of T cell states. In the setting of cancer immunotherapy, we showed that patient-specific summaries of continuous phenotypic shifts in T cells could be inferred from peripheral blood-derived CyTOF mass cytometry data. We further illustrated that transfer learning enabled these T cell continuous metrics to be used to estimate patient-specific cell states in new sample cohorts from a reference patient data set. Our work establishes the utility of continuous metrics for CyTOF analysis as tools for translational discovery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Induction of tumor cell autosis by myxoma virus-infected CAR-T and TCR-T cells to overcome primary and acquired resistance</title>
       <link>https://example.com/article/36027915/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
@@ -350,6 +403,38 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Despite new therapeutic options, treatment of steroid-refractory chronic graft-versus-host disease (SR-cGVHD) remains challenging as organ involvement and clinical manifestations are highly variable. In previous trials of low-dose interleukin-2 (LD IL-2), we established the safety and efficacy of LD IL-2 for the treatment of SR-cGVHD. In the present report, we combined five phase 1 or 2 clinical trials conducted at our center to investigate organ-specific response rate, coinvolvement of organs, predictors of organ-specific response, and its possible association with immune response. For the 105 adult patients included in this report, the overall response rate after 8 or 12 weeks of LD IL-2 was 48.6% and 53.3%, including late responses in patients who continued treatment for extended periods. Skin was the most frequent organ involved (84%). The organ-specific response rate was highest in liver (66.7%) followed by the gastrointestinal tract (62.5%), skin (36.4%), joint/muscle/fascia (34.2%), and lung (19.2%). In multivariable analysis, shorter time from diagnosis of cGVHD to IL-2 initiation, shorter time from transplant to IL-2 initiation, and fewer prior therapies were associated with overall response as well as skin response. For immunologic correlates, the ratio of regulatory T cells:conventional T cells (ie, CD4Treg:CD4Tcon) ratio at 1 week was significantly higher in patients with overall and skin response; skin response was significantly associated with lower number of total CD3 T cells, CD4Tcon cells, and CD8 T cells and a higher number of B cells. For lung responders, terminal effector memory cell counts were lower within all T-cell populations compared with nonresponders. Organ-specific mechanisms of injury should be investigated, and organ-specific targeted therapies need to be developed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Large-scale multiplexed mosaic CRISPR perturbation in the whole organism</title>
+      <link>https://example.com/article/35870449/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35870449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inducible mosaic animal for perturbation (iMAP) combines Cre-LoxP and CRISPR-Cas&lt;/li&gt;
+&lt;li&gt;iMAP enables large-scale in situ multiplexed mosaic gene targeting and Perturb-Atlas mapping&lt;/li&gt;
+&lt;li&gt;iMAP enables rapid derivation of single-gene perturbation mouse lines via breeding&lt;/li&gt;
+&lt;li&gt;iMAP lines are permanent resources just as conventional transgenic lines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here, we report inducible mosaic animal for perturbation (iMAP), a transgenic platform enabling in situ CRISPR targeting of at least 100 genes in parallel throughout the mouse body. iMAP combines Cre-loxP and CRISPR-Cas9 technologies and utilizes a germline-transmitted transgene carrying a large array of individually floxed, tandemly linked gRNA-coding units. Cre-mediated recombination triggers expression of all the gRNAs in the array but only one of them per cell, converting the mice to mosaic organisms suitable for phenotypic characterization and also for high-throughput derivation of conventional single-gene perturbation lines via breeding. Using gRNA representation as a readout, we mapped a miniature Perturb-Atlas cataloging the perturbations of 90 genes across 39 tissues, which yields rich insights into context-dependent gene functions and provides a glimpse of the potential of iMAP in genome decoding.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

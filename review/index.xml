@@ -5,12 +5,37 @@
     <link>https://example.com/review/</link>
       <atom:link href="https://example.com/review/index.xml" rel="self" type="application/rss+xml" />
     <description>Past, Present and Future</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Past, Present and Future</title>
       <link>https://example.com/review/</link>
     </image>
+    
+    <item>
+      <title>The Circadian Biology of Heart Failure</title>
+      <link>https://example.com/review/36656971/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36656971/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Driven by autonomous molecular clocks that are synchronized by a master pacemaker in the suprachiasmatic nucleus, cardiac physiology fluctuates in diurnal rhythms that can be partly or entirely circadian. Cardiac contractility, metabolism, and electrophysiology, all have diurnal rhythms, as does the neurohumoral control of cardiac and kidney function. In this review, we discuss the evidence that circadian biology regulates cardiac function, how molecular clocks may relate to the pathogenesis of heart failure, and how chronotherapeutics might be applied in heart failure. Disrupting molecular clocks can lead to heart failure in animal models, and the myocardial response to injury seems to be conditioned by the time of day. Human studies are consistent with these findings, and they implicate the clock and circadian rhythms in the pathogenesis of heart failure. Certain circadian rhythms are maintained in patients with heart failure, a factor that can guide optimal timing of therapy. Pharmacologic and nonpharmacologic manipulation of circadian rhythms and molecular clocks show promise in the prevention and treatment of heart failure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Circular RNAs at the intersection of cancer and heart disease: potential therapeutic targets in cardio-oncology</title>
@@ -106,6 +131,38 @@
       <guid>https://example.com/review/36642986/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Mitokines are signaling molecules that enable communication of local mitochondrial stress to other mitochondria in distant cells and tissues. Among those molecules are FGF21, GDF15 (both expressed in the nucleus) and several mitochondrial-derived peptides, including humanin. Their responsiveness to mitochondrial stress induces mitokine-signaling in response for example to exercise, following mitochondrial challenges in skeletal muscle. Such signaling is emerging as an important mediator of exercise-derived and dietary strategy-related molecular and systemic health benefits, including healthy aging. A compensatory increase in mitokine synthesis and secretion could preserve mitochondrial function and overall cellular vitality. Conversely, resistance against mitokine actions may also develop. Alterations of mitokine-levels, and therefore of mitokine-related inter-tissue cross talk, are associated with general aging processes and could influence the development of age-related chronic metabolic, cardiovascular and neurological diseases; whether these changes contribute to aging or represent &amp;ldquo;rescue factors&amp;rdquo; remains to be conclusively shown. The aim of the present review is to summarize the expanding knowledge on mitokines, the potential to modulate them by lifestyle and their involvement in aging and age-related diseases. We highlight the importance of well-balanced mitokine-levels, the preventive and therapeutic properties of maintaining mitokine homeostasis and sensitivity of mitokine signaling but also the risks arising from the dysregulation of mitokines. While reduced mitokine levels may impair inter-organ crosstalk, also excessive mitokine concentrations can have deleterious consequences and are associated with conditions such as cancer and heart failure. Preservation of healthy mitokine signaling levels can be achieved by regular exercise and is associated with an increased lifespan.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Humanized mouse models for immuno-oncology research</title>
+      <link>https://example.com/review/36635480/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36635480/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immunotherapy has emerged as a promising treatment paradigm for many malignancies and is transforming the drug development landscape. Although immunotherapeutic agents have demonstrated clinical efficacy, they are associated with variable clinical responses, and substantial gaps remain in our understanding of their mechanisms of action and specific biomarkers of response. Currently, the number of preclinical models that faithfully recapitulate interactions between the human immune system and tumours and enable evaluation of human-specific immunotherapies in vivo is limited. Humanized mice, a term that refers to immunodeficient mice co-engrafted with human tumours and immune components, provide several advantages for immuno-oncology research. In this Review, we discuss the benefits and challenges of the currently available humanized mice, including specific interactions between engrafted human tumours and immune components, the development and survival of human innate immune populations in these mice, and approaches to study mice engrafted with matched patient tumours and immune cells. We highlight the latest advances in the generation of humanized mouse models, with the aim of providing a guide for their application to immuno-oncology studies with potential for clinical translation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key points&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Humanized mouse models of cancer are immunodeficient mice co-engrafted with human tumours and immune cells, and are used in immuno-oncology research with potential for clinical translation.&lt;/li&gt;
+&lt;li&gt;The limitations of humanized mouse models include restricted development of mature innate immune cells, a lack of HLA molecules, limited ability to generate antigen-specific antibody responses, and a dearth of lymph node structures and germinal centres.&lt;/li&gt;
+&lt;li&gt;Given the complexity of generating humanized mice for experimental studies, the advantages and limitations of each specific model need to be carefully considered and assessed to ensure the highest probability of an effective study.&lt;/li&gt;
+&lt;li&gt;Next-generation humanized mouse models are being generated to better recapitulate the development of human innate and adaptive immunity. The development and use of novel humanized mouse platforms will accelerate the discovery and testing of new immunotherapies for patients with cancer.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -398,12 +455,62 @@
     </item>
     
     <item>
+      <title>Hallmarks of aging: An expanding universe</title>
+      <link>https://example.com/review/36599349/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36599349/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aging is driven by hallmarks fulfilling the following three premises: (1) their age-associated manifestation, (2) the acceleration of aging by experimentally accentuating them, and (3) the opportunity to decelerate, stop, or reverse aging by therapeutic interventions on them. We propose the following twelve hallmarks of aging: genomic instability, telomere attrition, epigenetic alterations, loss of proteostasis, disabled macroautophagy, deregulated nutrient-sensing, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, chronic inflammation, and dysbiosis. These hallmarks are interconnected among each other, as well as to the recently proposed hallmarks of health, which include organizational features of spatial compartmentalization, maintenance of homeostasis, and adequate responses to stress.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Long non-coding RNAs: definitions, functions, challenges and recommendations</title>
       <link>https://example.com/review/36596869/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/review/36596869/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Genes specifying long non-coding RNAs (lncRNAs) occupy a large fraction of the genomes of complex organisms. The term &amp;rsquo;lncRNAs&amp;rsquo; encompasses RNA polymerase I (Pol I), Pol II and Pol III transcribed RNAs, and RNAs from processed introns. The various functions of lncRNAs and their many isoforms and interleaved relationships with other genes make lncRNA classification and annotation difficult. Most lncRNAs evolve more rapidly than protein-coding sequences, are cell type specific and regulate many aspects of cell differentiation and development and other physiological processes. Many lncRNAs associate with chromatin-modifying complexes, are transcribed from enhancers and nucleate phase separation of nuclear condensates and domains, indicating an intimate link between lncRNA expression and the spatial control of gene expression during development. lncRNAs also have important roles in the cytoplasm and beyond, including in the regulation of translation, metabolism and signalling. lncRNAs often have a modular structure and are rich in repeats, which are increasingly being shown to be relevant to their function. In this Consensus Statement, we address the definition and nomenclature of lncRNAs and their conservation, expression, phenotypic visibility, structure and functions. We also discuss research challenges and provide recommendations to advance the understanding of the roles of lncRNAs in development, cell biology and disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-hallmarks of aging and cancer</title>
+      <link>https://example.com/review/36599298/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36599298/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Both aging and cancer are characterized by a series of partially overlapping &amp;ldquo;hallmarks&amp;rdquo; that we subject here to a meta-analysis. Several hallmarks of aging (i.e., genomic instability, epigenetic alterations, chronic inflammation, and dysbiosis) are very similar to specific cancer hallmarks and hence constitute common &amp;ldquo;meta-hallmarks,&amp;rdquo; while other features of aging (i.e., telomere attrition and stem cell exhaustion) act likely to suppress oncogenesis and hence can be viewed as preponderantly &amp;ldquo;antagonistic hallmarks.&amp;rdquo; Disabled macroautophagy and cellular senescence are two hallmarks of aging that exert context-dependent oncosuppressive and pro-tumorigenic effects. Similarly, the equivalence or antagonism between aging-associated deregulated nutrient-sensing and cancer-relevant alterations of cellular metabolism is complex. The agonistic and antagonistic relationship between the processes that drive aging and cancer has bearings for the age-related increase and oldest age-related decrease of cancer morbidity and mortality, as well as for the therapeutic management of malignant disease in the elderly.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -850,6 +957,31 @@
       <guid>https://example.com/review/36481809/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CRISPR-based technologies represent a major breakthrough in biomedical science as they offer a powerful platform for unbiased screening and functional genomics in various fields, including immunology. Pooled and arrayed CRISPR screens have uncovered previously unknown intracellular drivers in innate and adaptive immune cells for immune regulation as well as intercellular regulators mediating cell-cell interactions. Recent single-cell CRISPR screening platforms expand the readouts to the transcriptome and enable the inference of gene regulatory networks for better mechanistic insights. CRISPR screens also allow for mapping of genetic interactions to identify genes that synergize or alleviate complex immune phenotypes. Here, we review the progress in and emerging adaptation of CRISPR technologies to advance our fundamental immunological knowledge and identify novel disease targets for immunotherapy of infection, inflammation and cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of the Human Cell Atlas on medicine</title>
+      <link>https://example.com/review/36482102/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36482102/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell atlases promise to provide a &amp;lsquo;missing link&amp;rsquo; between genes, diseases and therapies. By identifying the specific cell types, states, programs and contexts where disease-implicated genes act, we will understand the mechanisms of disease at the cellular and tissue levels and can use this understanding to develop powerful disease diagnostics; identify promising new drug targets; predict their efficacy, toxicity and resistance mechanisms; and empower new kinds of therapies, from cancer therapies to regenerative medicine. Here, we lay out a vision for the potential of cell atlases to impact the future of medicine, and describe how advances over the past decade have begun to realize this potential in common complex diseases, infectious diseases (including COVID-19), rare diseases and cancer.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -4964,6 +5096,31 @@
     </item>
     
     <item>
+      <title>Molecular mechanism of crosstalk between immune and metabolic systems in metabolic syndrome</title>
+      <link>https://example.com/review/35490239/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35490239/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chronic inflammation is currently considered as a molecular basis of metabolic syndrome. Particularly, obesity-induced inflammation in adipose tissue is the origin of chronic inflammation of metabolic syndrome. Adipose tissue contains not only mature adipocytes with large lipid droplets, but also a variety of stromal cells including adipocyte precursors, vascular component cells, immune cells, and fibroblasts. However, crosstalk between those various cell types in adipose tissue in obesity still remains to be fully understood. We focus on two innate immune receptors, Toll-like receptor 4 (TLR4) and macrophage-inducible C-type lectin (Mincle). We provided evidence that adipocyte-derived saturated fatty acids (SFAs) activate macrophage TLR4 signaling pathway, thereby forming a vicious cycle of inflammatory responses during the development of obesity. Intriguingly, the TLR4 signaling pathway is modulated metabolically and epigenetically: SFAs augment TLR4 signaling through the integrated stress response and chromatin remodeling, such as histone methylation, regulates dynamic transcription patterns downstream of TLR4 signaling. Another innate immune receptor Mincle senses cell death, which is a trigger of chronic inflammatory diseases including obesity. Macrophages form a histological structure termed &amp;ldquo;crown-like structure (CLS)&amp;rdquo;, in which macrophages surround dead adipocytes to engulf cell debris and residual lipids. Mincle is exclusively expressed in macrophages forming the CLS in obese adipose tissue and regulates adipocyte death-triggered adipose tissue fibrosis. In addition to adipose tissue, we found a structure similar to CLS in the liver of nonalcoholic steatohepatitis (NASH) and the kidney after acute kidney injury. This review article highlights the recent progress of the crosstalk between immune and metabolic systems in metabolic syndrome, with a focus on innate immune receptors.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>It&#39;s All in the PAN: Crosstalk, Plasticity, Redundancies, Switches, and Interconnectedness Encompassed by PANoptosis Underlying the Totality of Cell Death-Associated Biological Effects</title>
       <link>https://example.com/review/35563804/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
@@ -5089,12 +5246,95 @@
     </item>
     
     <item>
+      <title>Targeting Nrf2 in ischemia-reperfusion alleviation: From signaling networks to therapeutic targeting</title>
+      <link>https://example.com/review/35460707/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35460707/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oxidative stress, inflammation and apoptosis result from I/R injury.&lt;/li&gt;
+&lt;li&gt;Nrf2 induction decreases ROS production to ameliorate oxidative stress.&lt;/li&gt;
+&lt;li&gt;Nrf2 overexpression prevents inflammation and apoptosis in I/R.&lt;/li&gt;
+&lt;li&gt;Nrf2 upregulation improves cell viability in I/R.&lt;/li&gt;
+&lt;li&gt;Kaempferol, honokiol and isoquercetin among others, induce Nrf2 in I/R injury treatment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The nuclear factor erythroid 2-related factor 2 (Nrf2) is a master regulator of redox balance and it responds to various cell stresses that oxidative stress is the most well-known one. The Nrf2 should undergo nuclear translocation to exert its protective impacts and decrease ROS production. On the other hand, ischemic/reperfusion (I/R) injury is a pathological event resulting from low blood flow to an organ and followed by reperfusion. The I/R induces cell injury and organ dysfunction. The present review focuses on Nrf2 function in alleviation of I/R injury. Stimulating of Nrf2 signaling ameliorates I/R injury in various organs including lung, liver, brain, testis and heart. The Nrf2 enhances activity of antioxidant enzymes to reduce ROS production and prevent oxidative stress-mediated cell death. Besides, Nrf2 reduces inflammation via decreasing levels of pro-inflammatory factors including IL-6, IL-1β and TNF-α. Nrf2 signaling is beneficial in preventing apoptosis and increasing cell viability. Nrf2 induces autophagy to prevent apoptosis during I/R injury. Furthermore, it can interact with other molecular pathways including PI3K/Akt, NF-κB, miRNAs, lncRNAs and GSK-3β among others, to ameliorate I/R injury. The therapeutic agents, most of them are phytochemicals such as resveratrol, berberine and curcumin, induce Nrf2 signaling in I/R injury alleviation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeted Therapy for Inflammatory Diseases with Mesenchymal Stem Cells and Their Derived Exosomes: From Basic to Clinics</title>
+      <link>https://example.com/review/35469174/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35469174/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inflammation is a beneficial and physiological process, but there are a number of inflammatory diseases which have detrimental effects on the body. In addition, the drugs used to treat inflammation have toxic side effects when used over a long period of time. Mesenchymal stem cells (MSCs) are pluripotent stem cells that can be isolated from a variety of tissues and can be differentiate into diverse cell types under appropriate conditions. They also exhibit noteworthy anti-inflammatory properties, providing new options for the treatment of inflammatory diseases. The therapeutic potential of MSCs is currently being investigated for various inflammatory diseases, such as kidney injury, lung injury, osteoarthritis (OA), rheumatoid arthritis (RA), and inflammatory bowel disease (IBD). MSCs can perform multiple functions, including immunomodulation, homing, and differentiation, to enable damaged tissues to form a balanced inflammatory and regenerative microenvironment under severe inflammatory conditions. In addition, accumulated evidence indicates that exosomes from extracellular vesicles of MSCs (MSC-Exos) play an extraordinary role, mainly by transferring their components to recipient cells. In this review, we summarize the mechanism and clinical trials of MSCs and MSC-Exos in various inflammatory diseases in detail, with a view to contributing to the treatment of MSCs and MSC-Exos in inflammatory diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The pseudogenes of eukaryotic translation elongation factors (EEFs): Role in cancer and other human diseases</title>
       <link>https://example.com/review/35685457/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/review/35685457/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The eukaryotic translation elongation factors (EEFs), i.e. &lt;em&gt;EEF1A1&lt;/em&gt;, &lt;em&gt;EEF1A2&lt;/em&gt;, &lt;em&gt;EEF1B2&lt;/em&gt;, &lt;em&gt;EEF1D&lt;/em&gt;, &lt;em&gt;EEF1G&lt;/em&gt;, &lt;em&gt;EEF1E1&lt;/em&gt; and &lt;em&gt;EEF2&lt;/em&gt;, are coding-genes that play a central role in the elongation step of translation but are often altered in cancer. Less investigated are their pseudogenes. Recently, it was demonstrated that pseudogenes have a key regulatory role in the cell, especially via non-coding RNAs, and that the aberrant expression of ncRNAs has an important role in cancer development and progression. The present review paper, for the first time, collects all that published about the EEFs pseudogenes to create a base for future investigations. For most of them, the studies are in their infancy, while for others the studies suggest their involvement in normal cell physiology but also in various human diseases. However, more investigations are needed to understand their functions in both normal and cancer cells and to define which can be useful biomarkers or therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Role of Cellular Metabolism in the Formation of Neutrophil Extracellular Traps in Airway Diseases</title>
+      <link>https://example.com/review/35493475/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35493475/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) are a recently described mechanism of neutrophils that play an important role in health and disease. NETs are an innate defense mechanism that participate in clearance of pathogens, but they may also cause collateral damage in unrelated host tissues. Neutrophil dysregulation and NETosis occur in multiple lung diseases, such as pathogen-induced acute lung injury, pneumonia, chronic obstructive pulmonary disease (COPD), severe asthma, cystic fibrosis, and recently, the novel coronavirus SARS-CoV-2. More recently, research into immunometabolism has surged due to the possibility of reprogramming metabolism in order to modulate immune functions. The present review analyzes the different metabolic pathways associated with NETs formation, and how these impact on pathologies of the airways.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6352,6 +6592,31 @@
       <guid>https://example.com/review/33428955/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Membrane-associated RING (really interesting new gene)-cysteine-histidine (CH) (MARCH) ubiquitin ligases belong to a RING finger domain E3 ligases family. So far, eleven members have been found in the MARCH family, which are MARCH 1 to 11. The members of the MARCH family are widely distributed and involve in a variety of cellular functions, including regulation of the immune system, transmembrane transport of proteins, protein stability, endoplasmic reticulum-related degradation, and endosome protein transport. Several seminal studies over the past decade have delineated that MARCH affects viral replication through various mechanisms by regulating the activity of signaling molecules and their expression in the antiviral innate immune responses. Here, we summarize the complex roles of MARCH ligases in the antiviral innate immune signaling pathway and its impact on viral replication in host immune defense systems. A better understanding of this interplay&amp;rsquo;s molecular mechanisms is important concerning the development of new therapeutics targeting viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hallmarks of Health</title>
+      <link>https://example.com/review/33340459/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/33340459/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Health is usually defined as the absence of pathology. Here, we endeavor to define health as a compendium of organizational and dynamic features that maintain physiology. The biological causes or hallmarks of health include features of spatial compartmentalization (integrity of barriers and containment of local perturbations), maintenance of homeostasis over time (recycling and turnover, integration of circuitries, and rhythmic oscillations), and an array of adequate responses to stress (homeostatic resilience, hormetic regulation, and repair and regeneration). Disruption of any of these interlocked features is broadly pathogenic, causing an acute or progressive derailment of the system coupled to the loss of numerous stigmata of health.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8418,6 +8683,31 @@
       <guid>https://example.com/review/32972405/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;As a point of convergence for numerous oncogenic signaling pathways, signal transducer and activator of transcription 3 (STAT3) is central in regulating the anti-tumor immune response. STAT3 is broadly hyperactivated both in cancer and non-cancerous cells within the tumor ecosystem and plays important roles in inhibiting the expression of crucial immune activation regulators and promoting the production of immunosuppressive factors. Therefore, targeting the STAT3 signaling pathway has emerged as a promising therapeutic strategy for numerous cancers. In this review, we outline the importance of STAT3 signaling pathway in tumorigenesis and its immune regulation, and highlight the current status for the development of STAT3-targeting therapeutic approaches. We also summarize and discuss recent advances in STAT3-based combination immunotherapy in detail. These endeavors provide new insights into the translational application of STAT3 in cancer and may contribute to the promotion of more effective treatments toward malignancies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The Hallmarks of Aging</title>
+      <link>https://example.com/review/23746838/</link>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/23746838/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aging is characterized by a progressive loss of physiological integrity, leading to impaired function and increased vulnerability to death. This deterioration is the primary risk factor for major human pathologies, including cancer, diabetes, cardiovascular disorders, and neurodegenerative diseases. Aging research has experienced an unprecedented advance over recent years, particularly with the discovery that the rate of aging is controlled, at least to some extent, by genetic pathways and biochemical processes conserved in evolution. This Review enumerates nine tentative hallmarks that represent common denominators of aging in different organisms, with special emphasis on mammalian aging. These hallmarks are: genomic instability, telomere attrition, epigenetic alterations, loss of proteostasis, deregulated nutrient sensing, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, and altered intercellular communication. A major challenge is to dissect the interconnectedness between the candidate hallmarks and their relative contributions to aging, with the final goal of identifying pharmaceutical targets to improve human health during aging, with minimal side effects.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

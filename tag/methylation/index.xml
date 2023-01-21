@@ -5,12 +5,37 @@
     <link>https://example.com/tag/methylation/</link>
       <atom:link href="https://example.com/tag/methylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Methylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Methylation</title>
       <link>https://example.com/tag/methylation/</link>
     </image>
+    
+    <item>
+      <title>YTHDF2 orchestrates tumor-associated macrophage reprogramming and controls antitumor immunity through CD8&#43; T cells</title>
+      <link>https://example.com/article/36658237/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36658237/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite tumor-associated macrophages (TAMs) playing a key role in shaping the tumor microenvironment (TME), the mechanisms by which TAMs influence the TME and contribute to cancer progression remain unclear. Here, we show that the N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine reader YTHDF2 regulates the antitumor functions of TAMs. YTHDF2 deficiency in TAMs suppressed tumor growth by reprogramming TAMs toward an antitumoral phenotype and increasing their antigen cross-presentation ability, which in turn enhanced CD8&lt;sup&gt;+&lt;/sup&gt; T cell-mediated antitumor immunity. YTHDF2 deficiency facilitated the reprogramming of TAMs by targeting interferon-γ-STAT1 signaling. The expression of YTHDF2 in TAMs was regulated by interleukin-10-STAT3 signaling. Selectively targeting YTHDF2 in TAMs using a Toll-like receptor 9 agonist-conjugated small interfering RNA reprogrammed TAMs toward an antitumoral phenotype, restrained tumor growth and enhanced the efficacy of PD-L1 antibody therapy. Collectively, our findings describe the role of YTHDF2 in orchestrating TAMs and suggest that YTHDF2 inhibition is an effective approach to enhance cancer immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A DNA methylation atlas of normal human cell types</title>
@@ -461,6 +486,84 @@
       <guid>https://example.com/article/35637949/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Neutrophil extracellular traps (NETs) production is a major strategy employed by polymorphonuclear neutrophils (PMNs) to fight against microbes. NETs have been implicated in the pathogenesis of various lung injuries, although few studies have explored NETs in sepsis-associated acute lung injury (SI-ALI). Here, we demonstrate a major contribution of NETs to the pathology of sepsis-associated ALI by inducing ferroptosis of alveolar epithelial cells. Using both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; studies, our findings show enhanced NETs accumulation in sepsis-associated ALI patients and mice, as well as the closely related upregulation of ferroptosis, the induction of which depends on METTL3-induced m&lt;sup&gt;6&lt;/sup&gt;A modification of GPX4. Using a CLP-induced sepsis-associated ALI mouse model established with &lt;em&gt;METTL3&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; versus WT mice, in addition to METTL3 knockout and overexpression in vitro, we elucidated and confirmed the critical role of ferroptosis in NETs-induced ALI. These findings support a role for NETs-induced METTL3 modification and the subsequent induction of ferroptosis in the pathogenesis of sepsis-associated ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The N6-methyladenosine modification enhances ferroptosis resistance through inhibiting SLC7A11 mRNA deadenylation in hepatoblastoma</title>
+      <link>https://example.com/article/35522946/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35522946/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Solute carrier family 7 member 11 (SLC7A11) is overexpressed in multiple human tumours and functions as a transporter importing cystine for glutathione biosynthesis. It promotes tumour development in part by suppressing ferroptosis, a newly identified form of cell death that plays a pivotal role in the suppression of tumorigenesis. However, the role and underlying mechanisms of SLC7A11-mediated ferroptosis in hepatoblastoma (HB) remain largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Reverse transcription quantitative real-time PCR (RT-qPCR) and western blotting were used to measure SLC7A11 levels. Cell proliferation, colony formation, lipid reactive oxygen species (ROS), MDA concentration, 4-HNE, GSH/GSSG ratio and cell death assays as well as subcutaneous xenograft experiments were used to elucidate the effects of SLC7A11 in HB cell proliferation and ferroptosis. Furthermore, MeRIP-qPCR, dual luciferase reporter, RNA pulldown, RNA immunoprecipitation (RIP) and RACE-PAT assays were performed to elucidate the underlying mechanism through which SLC7A11 was regulated by the m6A modification in HB.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SLC7A11 expression was highly upregulated in HB. SLC7A11 upregulation promoted HB cell proliferation in vitro and in vivo, inhibiting HB cell ferroptosis. Mechanistically, SLC7A11 mRNA exhibited abnormal METTL3-mediated m6A modification, which enhanced its stability and expression. IGF2 mRNA-binding protein 1 (IGF2BP1) was identified as the m6A reader of SLC7A11, enhancing &lt;em&gt;SLC7A11&lt;/em&gt; mRNA stability and expression by inhibiting &lt;em&gt;SLC7A11&lt;/em&gt; mRNA deadenylation in an m6A-dependent manner. Moreover, IGF2BP1 was found to block BTG2/CCR4-NOT complex recruitment via competitively binding to PABPC1, thereby suppressing &lt;em&gt;SLC7A11&lt;/em&gt; mRNA deadenylation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings demonstrated that the METTL3-mediated SLC7A11 m6A modification enhances HB ferroptosis resistance. The METTL3/IGF2BP1/m6A modification promotes &lt;em&gt;SLC7A11&lt;/em&gt; mRNA stability and upregulates its expression by inhibiting the deadenylation process. Our study highlights a critical role of the m6A modification in SLC7A11-mediated ferroptosis, providing a potential strategy for HB therapy through blockade of the m6A-SLC7A11 axis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting SMYD2 inhibits angiogenesis and increases the efficiency of apatinib by suppressing EGFL7 in colorectal cancer</title>
+      <link>https://example.com/article/35503397/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35503397/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Angiogenesis is an essential factor affecting the occurrence and development of solid tumors. SET And MYND Domain Containing 2 (SMYD2) serves as an oncogene in various cancers. However, whether SMYD2 is involved in tumor angiogenesis remains unclear. Here, we report that SMYD2 expression is associated with microvessel density in colorectal cancer (CRC) tissues. SMYD2 promotes CRC angiogenesis in vitro and in vivo. Mechanistically, SMYD2 physically interacts with HNRNPK and mediates lysine monomethylation at K422 of HNRNPK, which substantially increases RNA binding activity. HNRNPK acts by binding and stabilizing EGFL7 mRNA. As an angiogenic stimulant, EGFL7 enhances CRC angiogenesis. H3K4me3 maintained by PHF8 mediates the abnormal overexpression of SMYD2 in CRC. Moreover, targeting SMYD2 blocks CRC angiogenesis in tumor xenografts. Treatment with BAY-598, a functional inhibitor of SMYD2, can also synergize with apatinib in patient-derived xenografts. Overall, our findings reveal a new regulatory axis of CRC angiogenesis and provide a potential strategy for antiangiogenic therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic N6-methyladenosine modification of lncRNA modulated by METTL3 during bacterial disease development in an echinoderm</title>
+      <link>https://example.com/article/35483599/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35483599/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNAs (lncRNAs) are novel functional non-coding RNAs which engaged in many aspects of biological processes. N6-methyladenosine (m6A) as a kind of abundant epitranscriptomic modification in eukaryotes, plays important roles in regulation of gene expression for various physiological functions. Our previous study demonstrated that sea cucumber lncRNAs were differentially expressed during bacterial infection. However, whether the post-transcriptional regulation of lncRNAs influenced by m6A modification in sea cucumbers with different stages of skin ulceration syndrome (SUS) are largely unknown. Here, we generated the genome-wide map of m6A lncRNAs in SUS-diseased and SUS-resistant sea cucumbers for the first time, revealed that m6A levels in lncRNAs were mainly upregulated in SUS-resistant group. Intriguingly, most of the m6A lncRNAs showed a positive correlation between the expression levels and m6A levels based on conjoint analysis, suggesting that m6A modification on a lncRNA may contribute to its RNA stability. Furthermore, the host genes of lncRNAs with dysregulated m6A peaks were enriched in immune pathway. More importantly, methyltransferase METTL3 was required for m6A methylation modification and played positive roles in lncRNA expression. Collectively, this study presents the comprehensive characters of m6A lncRNAs in marine invertebrate. These m6A modified lncRNAs may be served as potential regulators associated with SUS and provide a promising avenue for disease therapy through targeting METTL3.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -694,6 +694,38 @@
     </item>
     
     <item>
+      <title>Large-scale multiplexed mosaic CRISPR perturbation in the whole organism</title>
+      <link>https://example.com/article/35870449/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35870449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inducible mosaic animal for perturbation (iMAP) combines Cre-LoxP and CRISPR-Cas&lt;/li&gt;
+&lt;li&gt;iMAP enables large-scale in situ multiplexed mosaic gene targeting and Perturb-Atlas mapping&lt;/li&gt;
+&lt;li&gt;iMAP enables rapid derivation of single-gene perturbation mouse lines via breeding&lt;/li&gt;
+&lt;li&gt;iMAP lines are permanent resources just as conventional transgenic lines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here, we report inducible mosaic animal for perturbation (iMAP), a transgenic platform enabling in situ CRISPR targeting of at least 100 genes in parallel throughout the mouse body. iMAP combines Cre-loxP and CRISPR-Cas9 technologies and utilizes a germline-transmitted transgene carrying a large array of individually floxed, tandemly linked gRNA-coding units. Cre-mediated recombination triggers expression of all the gRNAs in the array but only one of them per cell, converting the mice to mosaic organisms suitable for phenotypic characterization and also for high-throughput derivation of conventional single-gene perturbation lines via breeding. Using gRNA representation as a readout, we mapped a miniature Perturb-Atlas cataloging the perturbations of 90 genes across 39 tissues, which yields rich insights into context-dependent gene functions and provides a glimpse of the potential of iMAP in genome decoding.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Screening circular RNAs with functional potential using the RfxCas13d/BSJ-gRNA system</title>
       <link>https://example.com/article/35831613/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
@@ -1018,6 +1050,38 @@
       <guid>https://example.com/article/27351204/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;SQSTM1 is an adaptor protein that integrates multiple cellular signaling pathways and whose expression is tightly regulated at the transcriptional and post-translational level. Here, we describe a forward genetic screening paradigm exploiting CRISPR-mediated genome editing coupled to a cell selection step by FACS to identify regulators of SQSTM1. Through systematic comparison of pooled libraries, we show that CRISPR is superior to RNAi in identifying known SQSTM1 modulators. A genome-wide CRISPR screen exposed MTOR signalling and the entire macroautophagy machinery as key regulators of SQSTM1 and identified several novel modulators including HNRNPM, SLC39A14, SRRD, PGK1 and the ufmylation cascade. We show that ufmylation regulates SQSTM1 by eliciting a cell type-specific ER stress response which induces SQSTM1 expression and results in its accumulation in the cytosol. This study validates pooled CRISPR screening as a powerful method to map the repertoire of cellular pathways that regulate the fate of an individual target protein.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

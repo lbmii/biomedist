@@ -45,6 +45,31 @@
     </item>
     
     <item>
+      <title>Integrated T cell cytometry metrics for immune-monitoring applications in immunotherapy clinical trials</title>
+      <link>https://example.com/article/36214223/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36214223/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mass cytometry, or cytometry by TOF (CyTOF), provides a robust means of determining protein-level measurements of more than 40 markers simultaneously. While the functional states of immune cells occur along continuous phenotypic transitions, cytometric studies surveying cell phenotypes often rely on static metrics, such as discrete cell-type abundances, based on canonical markers and/or restrictive gating strategies. To overcome this limitation, we applied single-cell trajectory inference and nonnegative matrix factorization methods to CyTOF data to trace the dynamics of T cell states. In the setting of cancer immunotherapy, we showed that patient-specific summaries of continuous phenotypic shifts in T cells could be inferred from peripheral blood-derived CyTOF mass cytometry data. We further illustrated that transfer learning enabled these T cell continuous metrics to be used to estimate patient-specific cell states in new sample cohorts from a reference patient data set. Our work establishes the utility of continuous metrics for CyTOF analysis as tools for translational discovery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A Map of Human Type 1 Diabetes Progression by Imaging Mass Cytometry</title>
       <link>https://example.com/article/30713109/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>

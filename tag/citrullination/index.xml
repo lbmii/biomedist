@@ -5,12 +5,37 @@
     <link>https://example.com/tag/citrullination/</link>
       <atom:link href="https://example.com/tag/citrullination/index.xml" rel="self" type="application/rss+xml" />
     <description>Citrullination</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Citrullination</title>
       <link>https://example.com/tag/citrullination/</link>
     </image>
+    
+    <item>
+      <title>Chloroquine reduces neutrophil extracellular trap (NET) formation through inhibition of peptidyl arginine deiminase 4 (PAD4)</title>
+      <link>https://example.com/article/36655514/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36655514/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) occur when chromatin is decondensed and extruded from the cell, generating a web-like structure. NETs have been implicated in the pathogenesis of several sterile disease states and thus a potential therapeutic target. Various pathways have been shown to induce NETs, including autophagy, with several key enzymes being activated like peptidyl arginine deiminase 4 (PAD4), an enzyme responsible for citrullination of histones, allowing for DNA unwinding and subsequent release from the cell. Pre-clinical studies have already demonstrated that chloroquine (CQ) and hydroxychloroquine (HCQ) are able to reduce NETs and slow disease progression. The exact mechanism as to how these drugs reduce NETs has yet to be elucidated. CQ and HCQ decrease NET formation from various NET activators, independent of their autophagy inhibitory function. CQ and HCQ were found to inhibit PAD4 exclusively, in a dose dependent manner, confirmed with reduced CitH3+ NETs after CQ or HCQ treatment. Circulating CitH3 levels were reduced in pancreatic cancer patients after HCQ treatment. In silico screening of PAD4 protein structure identified a likely binding site interaction at Arg639 for CQ and Trp347, Ser468 and Glu580 for HCQ. SPR analysis confirmed binding of HCQ and CQ with PAD4 with KD values of 54.1 µM (CQ) and 88.1 µM (HCQ). This data provides evidence of direct PAD4 inhibition as a mechanism for CQ/HCQ inhibition of NETs. We propose that these drugs likely reduce NET formation through multiple mechanisms; the previously established TLR9 and autophagy inhibitory mechanism and the novel PAD4 inhibitory mechanism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Histone Citrullination Mediates a Protective Role in Endothelium and Modulates Inflammation</title>

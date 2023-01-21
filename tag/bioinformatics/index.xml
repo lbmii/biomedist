@@ -5,12 +5,44 @@
     <link>https://example.com/tag/bioinformatics/</link>
       <atom:link href="https://example.com/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bioinformatics</title>
       <link>https://example.com/tag/bioinformatics/</link>
     </image>
+    
+    <item>
+      <title>Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer</title>
+      <link>https://example.com/article/23-01-21-09-08/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-21-09-08/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiplexed analysis shows intermixed tumor morphologies and molecular gradients&lt;/li&gt;
+&lt;li&gt;Various cancer characteristic cellular features are large, interconnected structures&lt;/li&gt;
+&lt;li&gt;3D TLS networks show intra-TLS patterning variation&lt;/li&gt;
+&lt;li&gt;PD1-PDL1 interactions are primarily between T and myeloid cells in this CRC cohort&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Advanced solid cancers are complex assemblies of tumor, immune, and stromal cells characterized by high intratumoral variation. We use highly multiplexed tissue imaging, 3D reconstruction, spatial statistics, and machine learning to identify cell types and states underlying morphological features of known diagnostic and prognostic significance in colorectal cancer. Quantitation of these features in high-plex marker space reveals recurrent transitions from one tumor morphology to the next, some of which are coincident with long-range gradients in the expression of oncogenes and epigenetic regulators. At the tumor invasive margin, where tumor, normal, and immune cells compete, T cell suppression involves multiple cell types and 3D imaging shows that seemingly localized 2D features such as tertiary lymphoid structures are commonly interconnected and have graded molecular properties. Thus, while cancer genetics emphasizes the importance of discrete changes in tumor state, whole-specimen imaging reveals large-scale morphological and molecular gradients analogous to those in developing tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A progeroid syndrome caused by a deep intronic variant in TAPT1 is revealed by RNA/SI-NET sequencing</title>
@@ -1120,6 +1152,31 @@
     </item>
     
     <item>
+      <title>Integrated T cell cytometry metrics for immune-monitoring applications in immunotherapy clinical trials</title>
+      <link>https://example.com/article/36214223/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36214223/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mass cytometry, or cytometry by TOF (CyTOF), provides a robust means of determining protein-level measurements of more than 40 markers simultaneously. While the functional states of immune cells occur along continuous phenotypic transitions, cytometric studies surveying cell phenotypes often rely on static metrics, such as discrete cell-type abundances, based on canonical markers and/or restrictive gating strategies. To overcome this limitation, we applied single-cell trajectory inference and nonnegative matrix factorization methods to CyTOF data to trace the dynamics of T cell states. In the setting of cancer immunotherapy, we showed that patient-specific summaries of continuous phenotypic shifts in T cells could be inferred from peripheral blood-derived CyTOF mass cytometry data. We further illustrated that transfer learning enabled these T cell continuous metrics to be used to estimate patient-specific cell states in new sample cohorts from a reference patient data set. Our work establishes the utility of continuous metrics for CyTOF analysis as tools for translational discovery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data</title>
       <link>https://example.com/article/imt2.56/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
@@ -1778,6 +1835,38 @@
     </item>
     
     <item>
+      <title>Large-scale multiplexed mosaic CRISPR perturbation in the whole organism</title>
+      <link>https://example.com/article/35870449/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35870449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inducible mosaic animal for perturbation (iMAP) combines Cre-LoxP and CRISPR-Cas&lt;/li&gt;
+&lt;li&gt;iMAP enables large-scale in situ multiplexed mosaic gene targeting and Perturb-Atlas mapping&lt;/li&gt;
+&lt;li&gt;iMAP enables rapid derivation of single-gene perturbation mouse lines via breeding&lt;/li&gt;
+&lt;li&gt;iMAP lines are permanent resources just as conventional transgenic lines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here, we report inducible mosaic animal for perturbation (iMAP), a transgenic platform enabling in situ CRISPR targeting of at least 100 genes in parallel throughout the mouse body. iMAP combines Cre-loxP and CRISPR-Cas9 technologies and utilizes a germline-transmitted transgene carrying a large array of individually floxed, tandemly linked gRNA-coding units. Cre-mediated recombination triggers expression of all the gRNAs in the array but only one of them per cell, converting the mice to mosaic organisms suitable for phenotypic characterization and also for high-throughput derivation of conventional single-gene perturbation lines via breeding. Using gRNA representation as a readout, we mapped a miniature Perturb-Atlas cataloging the perturbations of 90 genes across 39 tissues, which yields rich insights into context-dependent gene functions and provides a glimpse of the potential of iMAP in genome decoding.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Summary of microbiome databases</title>
       <link>https://example.com/tool/2022-07-10-db-microbiome/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
@@ -2271,6 +2360,31 @@
     </item>
     
     <item>
+      <title>Single-cell transcriptomic profiling of lung endothelial cells identifies dynamic inflammatory and regenerative subpopulations</title>
+      <link>https://example.com/article/35511435/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35511435/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Studies have demonstrated the phenotypic heterogeneity of vascular endothelial cells (ECs) within a vascular bed; however, little is known about how distinct endothelial subpopulations in a particular organ respond to an inflammatory stimulus. We performed single-cell RNA-Seq of 35,973 lung ECs obtained during baseline as well as postinjury time points after inflammatory lung injury induced by LPS. Seurat clustering and gene expression pathway analysis identified 2 major subpopulations in the lung microvascular endothelium, a subpopulation enriched for expression of immune response genes such as MHC genes (immuneEC) and another defined by increased expression of vascular development genes such as Sox17 (devEC). The presence of immuneEC and devEC subpopulations was also observed in nonhuman primate lungs infected with SARS-CoV-2 and murine lungs infected with H1N1 influenza virus. After the peak of inflammatory injury, we observed the emergence of a proliferative lung EC subpopulation. Overexpression of Sox17 prevented inflammatory activation in ECs. Thus, there appeared to be a &amp;ldquo;division of labor&amp;rdquo; within the lung microvascular endothelium in which some ECs showed propensity for inflammatory signaling and others for endothelial regeneration. These results provide underpinnings for the development of targeted therapies to limit inflammatory lung injury and promote regeneration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Multi-omics analysis unravels dysregulated lysosomal function and lipid metabolism involved in sub-chronic particulate matter-induced pulmonary injury</title>
       <link>https://example.com/article/35525343/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
@@ -2284,6 +2398,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Particulate matter (PM) is a huge environmental threat and is of major public concern. Oxidative stress and systemic inflammation are known factors that contribute to PM- related damage; however, a systematic understanding of the deleterious pulmonary effects of PM using multi-omics analysis is lacking. In this study, we performed transcriptomic, proteomic, and metabolomic analyses in a mouse model exposed to PM for three months to identify molecular changes in lung tissues. We identified 1690 genes, 326 proteins, and 67 metabolites exhibiting significant differences between PM-challenged and control mice (p &amp;lt; 0.05). Differentially expressed genes and proteins regulated in PM-challenged mice were involved in lipid metabolism and in the immune and inflammatory response processes. Moreover, a comprehensive analysis of transcript, protein, and metabolite datasets revealed that the genes, proteins, and metabolites in the PM-treated group were involved in lysosomal function and lipid metabolism. Specifically, Cathepsin D (Ctsd), Ferritin light chain (Ftl), Lactotransferrin (Ltf), Lipocalin 2 (Lcn2), and Prosaposin (Psap) were major proteins/genes associated with PM-induced pulmonary damage, while two lipid molecules PC (18:1(11Z)/16:0) and PA (16:0/18:1(11Z)) were major metabolites related to PM-induced pulmonary injury. In summary, lipid metabolism might be used as successful precautions and therapeutic targets in PM-induced pulmonary injury to maintain the stability of cellular lysosomal function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel binary k-mer approach for classification of coding and non-coding RNAs across diverse species</title>
+      <link>https://example.com/article/35476940/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35476940/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Classification among coding sequences (CDS) and non-coding RNA (ncRNA) sequences is a challenge and several machine learning models have been developed for the same. Since the frequency of curated CDS is many-folds as compared to that of the ncRNAs, we devised a novel approach to work with the complete datasets from fifteen diverse species. In our proposed binary approach, we replaced all the &amp;lsquo;A&amp;rsquo;s and &amp;lsquo;T&amp;rsquo;s with &amp;lsquo;0&amp;rsquo;s and &amp;lsquo;G&amp;rsquo;s and &amp;lsquo;C&amp;rsquo;s with &amp;lsquo;1&amp;rsquo;s to obtain a binary form of CDS and ncRNAs. The k-mer analysis of these binary sequences revealed that the frequency of binary patterns among the CDS and ncRNAs can be used as features to distinguish among them. Using insights from these distinguishing frequencies, we used k-nearest neighbor classifier to classify among them. Our strategy is not only time-efficient but leads to significantly increased performance metrics in terms of Matthews Correlation Coefficient (MCC), Accuracy, F1 score, Precision, Recall and AUC-ROC, for species like &lt;em&gt;P. paniscus&lt;/em&gt;, &lt;em&gt;M. mulatta&lt;/em&gt;, &lt;em&gt;M. lucifugus&lt;/em&gt;, &lt;em&gt;G. gallus&lt;/em&gt;, &lt;em&gt;C. japonica&lt;/em&gt;, &lt;em&gt;C. abingdonii&lt;/em&gt;, &lt;em&gt;A. carolinensis&lt;/em&gt;, &lt;em&gt;D. melanogaster&lt;/em&gt; and &lt;em&gt;C. elegans&lt;/em&gt; when compared with the conventional ATGC approach. Additionally, we also show that the performance obtained for diverse species tested on the model based on H. sapiens, correlated with the geological evolutionary timeline, thereby further strengthening our approach. Therefore, we propose that CDS and ncRNAs can be efficiently classified using &amp;ldquo;2-character&amp;rdquo; binary frequency as compared to &amp;ldquo;4-character&amp;rdquo; frequency of ATGC approach. Thus, our highly efficient binary approach can replace the more complex ATGC approach successfully.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -5417,6 +5556,38 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/16199517/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data. The method derives its power by focusing on gene sets, that is, groups of genes that share common biological function, chromosomal location, or regulation. We demonstrate how GSEA yields insights into several cancer-related data sets, including leukemia and lung cancer. Notably, where single-gene analysis finds little similarity between two independent studies of patient survival in lung cancer, GSEA reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

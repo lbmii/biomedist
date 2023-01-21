@@ -322,6 +322,31 @@
     </item>
     
     <item>
+      <title>Impact of the Human Cell Atlas on medicine</title>
+      <link>https://example.com/review/36482102/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36482102/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-cell atlases promise to provide a &amp;lsquo;missing link&amp;rsquo; between genes, diseases and therapies. By identifying the specific cell types, states, programs and contexts where disease-implicated genes act, we will understand the mechanisms of disease at the cellular and tissue levels and can use this understanding to develop powerful disease diagnostics; identify promising new drug targets; predict their efficacy, toxicity and resistance mechanisms; and empower new kinds of therapies, from cancer therapies to regenerative medicine. Here, we lay out a vision for the potential of cell atlases to impact the future of medicine, and describe how advances over the past decade have begun to realize this potential in common complex diseases, infectious diseases (including COVID-19), rare diseases and cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Multiregional single-cell dissection of tumor and immune cells reveals stable lock-and-key features in liver cancer</title>
       <link>https://example.com/article/36476645/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
@@ -1032,6 +1057,38 @@
     </item>
     
     <item>
+      <title>Large-scale multiplexed mosaic CRISPR perturbation in the whole organism</title>
+      <link>https://example.com/article/35870449/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35870449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inducible mosaic animal for perturbation (iMAP) combines Cre-LoxP and CRISPR-Cas&lt;/li&gt;
+&lt;li&gt;iMAP enables large-scale in situ multiplexed mosaic gene targeting and Perturb-Atlas mapping&lt;/li&gt;
+&lt;li&gt;iMAP enables rapid derivation of single-gene perturbation mouse lines via breeding&lt;/li&gt;
+&lt;li&gt;iMAP lines are permanent resources just as conventional transgenic lines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here, we report inducible mosaic animal for perturbation (iMAP), a transgenic platform enabling in situ CRISPR targeting of at least 100 genes in parallel throughout the mouse body. iMAP combines Cre-loxP and CRISPR-Cas9 technologies and utilizes a germline-transmitted transgene carrying a large array of individually floxed, tandemly linked gRNA-coding units. Cre-mediated recombination triggers expression of all the gRNAs in the array but only one of them per cell, converting the mice to mosaic organisms suitable for phenotypic characterization and also for high-throughput derivation of conventional single-gene perturbation lines via breeding. Using gRNA representation as a readout, we mapped a miniature Perturb-Atlas cataloging the perturbations of 90 genes across 39 tissues, which yields rich insights into context-dependent gene functions and provides a glimpse of the potential of iMAP in genome decoding.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Intermediary Role of Lung Alveolar Type 1 Cells in Epithelial Repair upon Sendai Virus Infection</title>
       <link>https://example.com/article/35679221/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
@@ -1280,6 +1337,31 @@
       <guid>https://example.com/article/35593050/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Increasing the information depth of single kidney biopsies can improve diagnostic precision, personalized medicine and accelerate basic kidney research. Until now, information on mRNA abundance and morphologic analysis has been obtained from different samples, missing out on the spatial context and single-cell correlation of findings. Herein, we present scoMorphoFISH, a modular toolbox to obtain spatial single-cell single-mRNA expression data from routinely generated kidney biopsies. Deep learning was used to virtually dissect tissue sections in tissue compartments and cell types to which single-cell expression data were assigned. Furthermore, we show correlative and spatial single-cell expression quantification with super-resolved podocyte foot process morphometry. In contrast to bulk analysis methods, this approach will help to identify local transcription changes even in less frequent kidney cell types on a spatial single-cell level with single-mRNA resolution. Using this method, we demonstrate that ACE2 can be locally upregulated in podocytes upon injury. In a patient suffering from COVID-19-associated collapsing FSGS, ACE2 expression levels were correlated with intracellular SARS-CoV-2 abundance. As this method performs well with standard formalin-fixed paraffin-embedded samples and we provide pretrained deep learning networks embedded in a comprehensive image analysis workflow, this method can be applied immediately in a variety of settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell transcriptomic profiling of lung endothelial cells identifies dynamic inflammatory and regenerative subpopulations</title>
+      <link>https://example.com/article/35511435/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35511435/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Studies have demonstrated the phenotypic heterogeneity of vascular endothelial cells (ECs) within a vascular bed; however, little is known about how distinct endothelial subpopulations in a particular organ respond to an inflammatory stimulus. We performed single-cell RNA-Seq of 35,973 lung ECs obtained during baseline as well as postinjury time points after inflammatory lung injury induced by LPS. Seurat clustering and gene expression pathway analysis identified 2 major subpopulations in the lung microvascular endothelium, a subpopulation enriched for expression of immune response genes such as MHC genes (immuneEC) and another defined by increased expression of vascular development genes such as Sox17 (devEC). The presence of immuneEC and devEC subpopulations was also observed in nonhuman primate lungs infected with SARS-CoV-2 and murine lungs infected with H1N1 influenza virus. After the peak of inflammatory injury, we observed the emergence of a proliferative lung EC subpopulation. Overexpression of Sox17 prevented inflammatory activation in ECs. Thus, there appeared to be a &amp;ldquo;division of labor&amp;rdquo; within the lung microvascular endothelium in which some ECs showed propensity for inflammatory signaling and others for endothelial regeneration. These results provide underpinnings for the development of targeted therapies to limit inflammatory lung injury and promote regeneration.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2007,6 +2089,38 @@
       <guid>https://example.com/article/24658644/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Defining the transcriptional dynamics of a temporal process such as cell differentiation is challenging owing to the high variability in gene expression between individual cells. Time-series gene expression analyses of bulk cells have difficulty distinguishing early and late phases of a transcriptional cascade or identifying rare subpopulations of cells, and single-cell proteomic methods rely on a priori knowledge of key distinguishing markers. Here we describe Monocle, an unsupervised algorithm that increases the temporal resolution of transcriptome dynamics using single-cell RNA-Seq data collected at multiple time points. Applied to the differentiation of primary human myoblasts, Monocle revealed switch-like changes in expression of key regulatory factors, sequential waves of gene regulation, and expression of regulators that were not known to act in differentiation. We validated some of these predicted regulators in a loss-of function screen. Monocle can in principle be used to recover single-cell gene expression kinetics from a wide array of cellular processes, including differentiation, proliferation and oncogenic transformation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

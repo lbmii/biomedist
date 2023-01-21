@@ -5,12 +5,94 @@
     <link>https://example.com/tag/cancers/</link>
       <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cancers</title>
       <link>https://example.com/tag/cancers/</link>
     </image>
+    
+    <item>
+      <title>Chloroquine reduces neutrophil extracellular trap (NET) formation through inhibition of peptidyl arginine deiminase 4 (PAD4)</title>
+      <link>https://example.com/article/36655514/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36655514/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) occur when chromatin is decondensed and extruded from the cell, generating a web-like structure. NETs have been implicated in the pathogenesis of several sterile disease states and thus a potential therapeutic target. Various pathways have been shown to induce NETs, including autophagy, with several key enzymes being activated like peptidyl arginine deiminase 4 (PAD4), an enzyme responsible for citrullination of histones, allowing for DNA unwinding and subsequent release from the cell. Pre-clinical studies have already demonstrated that chloroquine (CQ) and hydroxychloroquine (HCQ) are able to reduce NETs and slow disease progression. The exact mechanism as to how these drugs reduce NETs has yet to be elucidated. CQ and HCQ decrease NET formation from various NET activators, independent of their autophagy inhibitory function. CQ and HCQ were found to inhibit PAD4 exclusively, in a dose dependent manner, confirmed with reduced CitH3+ NETs after CQ or HCQ treatment. Circulating CitH3 levels were reduced in pancreatic cancer patients after HCQ treatment. In silico screening of PAD4 protein structure identified a likely binding site interaction at Arg639 for CQ and Trp347, Ser468 and Glu580 for HCQ. SPR analysis confirmed binding of HCQ and CQ with PAD4 with KD values of 54.1 µM (CQ) and 88.1 µM (HCQ). This data provides evidence of direct PAD4 inhibition as a mechanism for CQ/HCQ inhibition of NETs. We propose that these drugs likely reduce NET formation through multiple mechanisms; the previously established TLR9 and autophagy inhibitory mechanism and the novel PAD4 inhibitory mechanism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer</title>
+      <link>https://example.com/article/23-01-21-09-08/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-21-09-08/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiplexed analysis shows intermixed tumor morphologies and molecular gradients&lt;/li&gt;
+&lt;li&gt;Various cancer characteristic cellular features are large, interconnected structures&lt;/li&gt;
+&lt;li&gt;3D TLS networks show intra-TLS patterning variation&lt;/li&gt;
+&lt;li&gt;PD1-PDL1 interactions are primarily between T and myeloid cells in this CRC cohort&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Advanced solid cancers are complex assemblies of tumor, immune, and stromal cells characterized by high intratumoral variation. We use highly multiplexed tissue imaging, 3D reconstruction, spatial statistics, and machine learning to identify cell types and states underlying morphological features of known diagnostic and prognostic significance in colorectal cancer. Quantitation of these features in high-plex marker space reveals recurrent transitions from one tumor morphology to the next, some of which are coincident with long-range gradients in the expression of oncogenes and epigenetic regulators. At the tumor invasive margin, where tumor, normal, and immune cells compete, T cell suppression involves multiple cell types and 3D imaging shows that seemingly localized 2D features such as tertiary lymphoid structures are commonly interconnected and have graded molecular properties. Thus, while cancer genetics emphasizes the importance of discrete changes in tumor state, whole-specimen imaging reveals large-scale morphological and molecular gradients analogous to those in developing tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>YTHDF2 orchestrates tumor-associated macrophage reprogramming and controls antitumor immunity through CD8&#43; T cells</title>
+      <link>https://example.com/article/36658237/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36658237/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite tumor-associated macrophages (TAMs) playing a key role in shaping the tumor microenvironment (TME), the mechanisms by which TAMs influence the TME and contribute to cancer progression remain unclear. Here, we show that the N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine reader YTHDF2 regulates the antitumor functions of TAMs. YTHDF2 deficiency in TAMs suppressed tumor growth by reprogramming TAMs toward an antitumoral phenotype and increasing their antigen cross-presentation ability, which in turn enhanced CD8&lt;sup&gt;+&lt;/sup&gt; T cell-mediated antitumor immunity. YTHDF2 deficiency facilitated the reprogramming of TAMs by targeting interferon-γ-STAT1 signaling. The expression of YTHDF2 in TAMs was regulated by interleukin-10-STAT3 signaling. Selectively targeting YTHDF2 in TAMs using a Toll-like receptor 9 agonist-conjugated small interfering RNA reprogrammed TAMs toward an antitumoral phenotype, restrained tumor growth and enhanced the efficacy of PD-L1 antibody therapy. Collectively, our findings describe the role of YTHDF2 in orchestrating TAMs and suggest that YTHDF2 inhibition is an effective approach to enhance cancer immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Circular RNAs at the intersection of cancer and heart disease: potential therapeutic targets in cardio-oncology</title>
@@ -44,6 +126,31 @@
       <guid>https://example.com/article/36652202/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Patients with colorectal liver metastasis (CLM) present with heterogenous clinical outcomes and improved classification is needed to ameliorate the therapeutic output. Macrophages (MΦ) hold promise as prognostic classifiers and therapeutic targets. Here, stemming from a single-cell analysis of mononuclear phagocytes infiltrating human CLM, we identified two M markers associated with distinct populations with opposite clinical relevance. The invasive margin of CLM was enriched in pro-inflammatory monocyte-derived MΦ (MoMΦ) expressing the monocytic marker SERPINB2, and a more differentiated population, TAMs, expressing GPNMB. SERPINB2+ MoMΦ had an early inflammatory profile, whereas GPNMB+ TAMs were enriched in pathways of matrix degradation, angiogenesis and lipid metabolism and were found closer to the tumor margin, as confirmed by spatial transcriptomics on CLM specimens. In a cohort of patients, a high infiltration of SERPINB2+ cells independently associated with longer disease-free survival (DFS) (&lt;em&gt;P&lt;/em&gt;=0.033), whereas a high density of GPNMB+ cells correlated with shorter DFS (&lt;em&gt;P&lt;/em&gt;=0.012) and overall survival (OS) (&lt;em&gt;P&lt;/em&gt;=0.002). Cell-cell interaction analysis defined opposing roles for MoMΦ and TAMs, suggesting that SERPINB2+ and GPNMB+ cells are discrete populations of MΦ and may be exploited for further translation to an immune-based stratification tool. This study provides evidence of how multi-omics approaches can identify non-redundant, clinically relevant markers for further translation to immune-based patient stratification tools and therapeutic targets. GPNMB has been shown to set macrophages in an immunosuppressive mode. Our high dimensional analyses provide further evidence that GPNMB is a negative prognostic indicator and a potential player in the pro-tumor function of macrophage populations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>In vivo induction of activin A-producing alveolar macrophages supports the progression of lung cell carcinoma</title>
+      <link>https://example.com/article/36650150/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650150/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alveolar macrophages (AMs) are crucial for maintaining normal lung function. They are abundant in lung cancer tissues, but their pathophysiological significance remains unknown. Here we show, using an orthotopic murine lung cancer model and human carcinoma samples, that AMs support cancer cell proliferation and thus contribute to unfavourable outcome. Inhibin beta A (INHBA) expression is upregulated in AMs under tumor-bearing conditions, leading to the secretion of activin A, a homodimer of INHBA. Accordingly, follistatin, an antagonist of activin A is able to inhibit lung cancer cell proliferation. Single-cell RNA sequence analysis identifies a characteristic subset of AMs specifically induced in the tumor environment that are abundant in INHBA, and distinct from INHBA-expressing AMs in normal lungs. Moreover, postnatal deletion of INHBA/activin A could limit tumor growth in experimental models. Collectively, our findings demonstrate the critical pathological role of activin A-producing AMs in tumorigenesis, and provides means to clearly distinguish them from their healthy counterparts.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -275,6 +382,38 @@
     </item>
     
     <item>
+      <title>Humanized mouse models for immuno-oncology research</title>
+      <link>https://example.com/review/36635480/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36635480/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Immunotherapy has emerged as a promising treatment paradigm for many malignancies and is transforming the drug development landscape. Although immunotherapeutic agents have demonstrated clinical efficacy, they are associated with variable clinical responses, and substantial gaps remain in our understanding of their mechanisms of action and specific biomarkers of response. Currently, the number of preclinical models that faithfully recapitulate interactions between the human immune system and tumours and enable evaluation of human-specific immunotherapies in vivo is limited. Humanized mice, a term that refers to immunodeficient mice co-engrafted with human tumours and immune components, provide several advantages for immuno-oncology research. In this Review, we discuss the benefits and challenges of the currently available humanized mice, including specific interactions between engrafted human tumours and immune components, the development and survival of human innate immune populations in these mice, and approaches to study mice engrafted with matched patient tumours and immune cells. We highlight the latest advances in the generation of humanized mouse models, with the aim of providing a guide for their application to immuno-oncology studies with potential for clinical translation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key points&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Humanized mouse models of cancer are immunodeficient mice co-engrafted with human tumours and immune cells, and are used in immuno-oncology research with potential for clinical translation.&lt;/li&gt;
+&lt;li&gt;The limitations of humanized mouse models include restricted development of mature innate immune cells, a lack of HLA molecules, limited ability to generate antigen-specific antibody responses, and a dearth of lymph node structures and germinal centres.&lt;/li&gt;
+&lt;li&gt;Given the complexity of generating humanized mice for experimental studies, the advantages and limitations of each specific model need to be carefully considered and assessed to ensure the highest probability of an effective study.&lt;/li&gt;
+&lt;li&gt;Next-generation humanized mouse models are being generated to better recapitulate the development of human innate and adaptive immunity. The development and use of novel humanized mouse platforms will accelerate the discovery and testing of new immunotherapies for patients with cancer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Identification of mechanism of cancer-cell-specific reactivation of hTERT offers therapeutic opportunities for blocking telomerase specifically in human colorectal cancer</title>
       <link>https://example.com/article/35697349/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
@@ -306,6 +445,34 @@
       <guid>https://example.com/article/36627278/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Lkb1&lt;/em&gt; deficiency confers the Kras-mutant lung cancer with strong plasticity and the potential for adeno-to-squamous transdifferentiation (AST). However, it remains largely unknown how &lt;em&gt;Lkb1&lt;/em&gt; deficiency dynamically regulates AST. Using the classical AST mouse model (&lt;em&gt;Kras&lt;sup&gt;LSL-G12D/+&lt;/sup&gt;&lt;/em&gt;;&lt;em&gt;Lkb1&lt;sup&gt;flox/flox&lt;/sup&gt;&lt;/em&gt;, KL), we here comprehensively analyze the temporal transcriptomic dynamics of lung tumors at different stages by dynamic network biomarker (DNB) and identify the tipping point at which the Wnt signaling is abruptly suppressed by the excessive accumulation of reactive oxygen species (ROS) through its downstream effector FOXO3A. Bidirectional genetic perturbation of the Wnt pathway using two different &lt;em&gt;Ctnnb1&lt;/em&gt; conditional knockout mouse strains confirms its essential role in the negative regulation of AST. Importantly, pharmacological activation of the Wnt pathway before but not after the tipping point inhibits squamous transdifferentiation, highlighting the irreversibility of AST after crossing the tipping point. Through comparative transcriptomic analyses of mouse and human tumors, we find that the lineage-specific transcription factors (TFs) of adenocarcinoma and squamous cell carcinoma form a &amp;ldquo;Yin-Yang&amp;rdquo; counteracting network. Interestingly, inactivation of the Wnt pathway preferentially suppresses the adenomatous lineage TF network and thus disrupts the &amp;ldquo;Yin-Yang&amp;rdquo; homeostasis to lean towards the squamous lineage, whereas ectopic expression of NKX2-1, an adenomatous lineage TF, significantly dampens such phenotypic transition accelerated by the Wnt pathway inactivation. The negative correlation between the Wnt pathway and AST is further observed in a large cohort of human lung adenosquamous carcinoma. Collectively, our study identifies the tipping point of AST and highlights an essential role of the ROS-Wnt axis in dynamically orchestrating the homeostasis between adeno- and squamous-specific TF networks at the AST tipping point.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>S100A10 promotes HCC development and progression via transfer in extracellular vesicles and regulating their protein cargos</title>
+      <link>https://example.com/article/36631249/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36631249/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Growing evidence indicates that tumour cells exhibit characteristics similar to their lineage progenitor cells. We found that S100 calcium binding protein A10 (S100A10) exhibited an expression pattern similar to that of liver progenitor genes. However, the role of S100A10 in hepatocellular carcinoma (HCC) progression is unclear. Furthermore, extracellular vesicles (EVs) are critical mediators of tumourigenesis and metastasis, but the extracellular functions of S100A10, particularly those related to EVs (EV-S100A10), are unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design:&lt;/em&gt; The functions and mechanisms of S100A10 and EV-S100A10 in HCC progression were investigated in vitro and in vivo. Neutralising antibody (NA) to S100A10 was used to evaluate the significance of EV-S100A10.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Functionally, S100A10 promoted HCC initiation, self-renewal, chemoresistance and metastasis in vitro and in vivo. Of significance, we found that S100A10 was secreted by HCC cells into EVs both in vitro and in the plasma of patients with HCC. S100A10-enriched EVs enhanced the stemness and metastatic ability of HCC cells, upregulated epidermal growth factor receptor (EGFR), AKT and ERK signalling, and promoted epithelial-mesenchymal transition. EV-S100A10 also functioned as a chemoattractant in HCC cell motility. Of significance, S100A10 governed the protein cargos in EVs and mediated the binding of MMP2, fibronectin and EGF to EV membranes through physical binding with integrin αⅤ. Importantly, blockage of EV-S100A10 with S100A10-NA significantly abrogated these enhancing effects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Altogether, our results uncovered that S100A10 promotes HCC progression significantly via its transfer in EVs and regulating the protein cargoes of EVs. EV-S100A10 may be a potential therapeutic target and biomarker for HCC progression.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -651,6 +818,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-hallmarks of aging and cancer</title>
+      <link>https://example.com/review/36599298/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36599298/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Both aging and cancer are characterized by a series of partially overlapping &amp;ldquo;hallmarks&amp;rdquo; that we subject here to a meta-analysis. Several hallmarks of aging (i.e., genomic instability, epigenetic alterations, chronic inflammation, and dysbiosis) are very similar to specific cancer hallmarks and hence constitute common &amp;ldquo;meta-hallmarks,&amp;rdquo; while other features of aging (i.e., telomere attrition and stem cell exhaustion) act likely to suppress oncogenesis and hence can be viewed as preponderantly &amp;ldquo;antagonistic hallmarks.&amp;rdquo; Disabled macroautophagy and cellular senescence are two hallmarks of aging that exert context-dependent oncosuppressive and pro-tumorigenic effects. Similarly, the equivalence or antagonism between aging-associated deregulated nutrient-sensing and cancer-relevant alterations of cellular metabolism is complex. The agonistic and antagonistic relationship between the processes that drive aging and cancer has bearings for the age-related increase and oldest age-related decrease of cancer morbidity and mortality, as well as for the therapeutic management of malignant disease in the elderly.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -2398,6 +2590,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Differentially expressed circRNAs between primary KM12C and liver metastatic KM12L4 colon cancer cells were identified by microarray. The expression of circRNAs was measured by semi-quantitative (semi-qPCR) and real time-quantitative PCR (RT-qPCR). Metastatic potential including invasive and migratory abilities, and liver metastasis were examined by transwell assays and intrasplenic injection, respectively. CircPPFIA1-associated microRNA (miRNA) and RNA-binding protein (RBP) were screened by an antisense oligonucleotide (ASO) pulldown experiment. The effects of circPPFIA1 on target gene expression were evaluated by RT-qPCR and western blot analyses.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; By analyzing circRNA microarray data, we identified two anti-metastatic circRNAs generated from PPFIA1 with different length, which named circPPFIA1-L (long) and -S (short). They were significantly downregulated in liver metastatic KM12L4 cells compared to primary KM12C cells. The knockdown of circPPFIA1s in KM12C enhanced metastatic potential and increased liver metastasis. Conversely, overexpression of circPPFIA1s weakened metastatic potential and inhibited liver metastasis. circPPFIA1s were found to function as sponges of oncogenic miR-155-5p and Hu antigen R (HuR) by an ASO pulldown experiment. circPPFIA1s upregulated tumor-suppressing CDX1 expression and conversely downregulated oncogenic RAB36 by decoying miR-155-5p and by sequestering HuR, respectively.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our findings demonstrate that circPPFIA1s inhibit the liver metastasis of CRC via the miR-155-5p/CDX1 and HuR/RAB36 pathways.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated T cell cytometry metrics for immune-monitoring applications in immunotherapy clinical trials</title>
+      <link>https://example.com/article/36214223/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36214223/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mass cytometry, or cytometry by TOF (CyTOF), provides a robust means of determining protein-level measurements of more than 40 markers simultaneously. While the functional states of immune cells occur along continuous phenotypic transitions, cytometric studies surveying cell phenotypes often rely on static metrics, such as discrete cell-type abundances, based on canonical markers and/or restrictive gating strategies. To overcome this limitation, we applied single-cell trajectory inference and nonnegative matrix factorization methods to CyTOF data to trace the dynamics of T cell states. In the setting of cancer immunotherapy, we showed that patient-specific summaries of continuous phenotypic shifts in T cells could be inferred from peripheral blood-derived CyTOF mass cytometry data. We further illustrated that transfer learning enabled these T cell continuous metrics to be used to estimate patient-specific cell states in new sample cohorts from a reference patient data set. Our work establishes the utility of continuous metrics for CyTOF analysis as tools for translational discovery.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -5996,6 +6213,62 @@
     </item>
     
     <item>
+      <title>Targeting DCLK1 overcomes 5-fluorouracil resistance in colorectal cancer through inhibiting CCAR1/β-catenin pathway-mediated cancer stemness</title>
+      <link>https://example.com/article/35522902/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35522902/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; To date, 5-fluorouracil-based chemotherapy is very important for locally advanced or metastatic colorectal cancer (CRC). However, chemotherapy resistance results in tumor recurrence and metastasis, which is a major obstacle for treatment of CRC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In the current research, we establish 5-fluorouracil resistant cell lines and explore the potential targets associated with 5-fluorouracil resistance in CRC. Moreover, we perform clinical specimen research, in vitro and in vivo experiments and molecular mechanism research, to reveal the biological effects and the mechanism of DCLK1 promoting 5-fluorouracil resistance, and to clarify the potential clinical value of DCLK1 as a target of 5-fluorouracil resistance in CRC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We discover that doublecortin-like kinase 1 (DCLK1), a cancer stem cell maker, is correlated with 5-fluorouracil resistance, and functionally promotes cancer stemness and 5-fluorouracil resistance in CRC. Mechanistically, we elucidate that DCLK1 interacts with cell cycle and apoptosis regulator 1 (CCAR1) through the C-terminal domain, and phosphorylates CCAR1 at the Ser343 site, which is essential for CCAR1 stabilisation. Moreover, we find that DCLK1 positively regulates β-catenin signalling via CCAR1, which is responsible for maintaining cancer stemness. Subsequently, we prove that blocking β-catenin inhibits DCLK1-mediated 5-fluorouracil resistance in CRC cells. Importantly, we demonstrate that DCLK1 inhibitor could block CCAR1/β-catenin pathway-mediated cancer stemness and consequently suppresses 5-fluorouracil resistant CRC cells in vitro and in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Collectively, our findings reveal that DCLK1 promotes 5-fluorouracil resistance in CRC by CCAR1/β-catenin pathway-mediated cancer stemness, and suggest that targeting DCLK1 might be a promising method to eliminate cancer stem cells for overcoming 5-fluorouracil resistance in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The N6-methyladenosine modification enhances ferroptosis resistance through inhibiting SLC7A11 mRNA deadenylation in hepatoblastoma</title>
+      <link>https://example.com/article/35522946/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35522946/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Solute carrier family 7 member 11 (SLC7A11) is overexpressed in multiple human tumours and functions as a transporter importing cystine for glutathione biosynthesis. It promotes tumour development in part by suppressing ferroptosis, a newly identified form of cell death that plays a pivotal role in the suppression of tumorigenesis. However, the role and underlying mechanisms of SLC7A11-mediated ferroptosis in hepatoblastoma (HB) remain largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Reverse transcription quantitative real-time PCR (RT-qPCR) and western blotting were used to measure SLC7A11 levels. Cell proliferation, colony formation, lipid reactive oxygen species (ROS), MDA concentration, 4-HNE, GSH/GSSG ratio and cell death assays as well as subcutaneous xenograft experiments were used to elucidate the effects of SLC7A11 in HB cell proliferation and ferroptosis. Furthermore, MeRIP-qPCR, dual luciferase reporter, RNA pulldown, RNA immunoprecipitation (RIP) and RACE-PAT assays were performed to elucidate the underlying mechanism through which SLC7A11 was regulated by the m6A modification in HB.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SLC7A11 expression was highly upregulated in HB. SLC7A11 upregulation promoted HB cell proliferation in vitro and in vivo, inhibiting HB cell ferroptosis. Mechanistically, SLC7A11 mRNA exhibited abnormal METTL3-mediated m6A modification, which enhanced its stability and expression. IGF2 mRNA-binding protein 1 (IGF2BP1) was identified as the m6A reader of SLC7A11, enhancing &lt;em&gt;SLC7A11&lt;/em&gt; mRNA stability and expression by inhibiting &lt;em&gt;SLC7A11&lt;/em&gt; mRNA deadenylation in an m6A-dependent manner. Moreover, IGF2BP1 was found to block BTG2/CCR4-NOT complex recruitment via competitively binding to PABPC1, thereby suppressing &lt;em&gt;SLC7A11&lt;/em&gt; mRNA deadenylation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our findings demonstrated that the METTL3-mediated SLC7A11 m6A modification enhances HB ferroptosis resistance. The METTL3/IGF2BP1/m6A modification promotes &lt;em&gt;SLC7A11&lt;/em&gt; mRNA stability and upregulates its expression by inhibiting the deadenylation process. Our study highlights a critical role of the m6A modification in SLC7A11-mediated ferroptosis, providing a potential strategy for HB therapy through blockade of the m6A-SLC7A11 axis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>KLF16 enhances stress tolerance of colorectal carcinomas by modulating nucleolar homeostasis and translational reprogramming</title>
       <link>https://example.com/article/35524408/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
@@ -6078,6 +6351,81 @@
     </item>
     
     <item>
+      <title>Targeting SMYD2 inhibits angiogenesis and increases the efficiency of apatinib by suppressing EGFL7 in colorectal cancer</title>
+      <link>https://example.com/article/35503397/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35503397/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Angiogenesis is an essential factor affecting the occurrence and development of solid tumors. SET And MYND Domain Containing 2 (SMYD2) serves as an oncogene in various cancers. However, whether SMYD2 is involved in tumor angiogenesis remains unclear. Here, we report that SMYD2 expression is associated with microvessel density in colorectal cancer (CRC) tissues. SMYD2 promotes CRC angiogenesis in vitro and in vivo. Mechanistically, SMYD2 physically interacts with HNRNPK and mediates lysine monomethylation at K422 of HNRNPK, which substantially increases RNA binding activity. HNRNPK acts by binding and stabilizing EGFL7 mRNA. As an angiogenic stimulant, EGFL7 enhances CRC angiogenesis. H3K4me3 maintained by PHF8 mediates the abnormal overexpression of SMYD2 in CRC. Moreover, targeting SMYD2 blocks CRC angiogenesis in tumor xenografts. Treatment with BAY-598, a functional inhibitor of SMYD2, can also synergize with apatinib in patient-derived xenografts. Overall, our findings reveal a new regulatory axis of CRC angiogenesis and provide a potential strategy for antiangiogenic therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The dual role of glioma exosomal microRNAs: glioma eliminates tumor suppressor miR-1298-5p via exosomes to promote immunosuppressive effects of MDSCs</title>
+      <link>https://example.com/article/35501306/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35501306/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Clear evidence shows that tumors could secrete microRNAs (miRNAs) via exosomes to modulate the tumor microenvironment (TME). However, the mechanisms sorting specific miRNAs into exosomes are still unclear. In order to study the biological function and characterization of exosomal miRNAs, we performed whole-transcriptome sequencing in 59 patients&amp;rsquo; whole-course cerebrospinal fluid (CSF) small extracellular vesicles (sEV) and matched glioma tissue samples. The results demonstrate that miRNAs could be divided into exosome-enriched miRNAs (ExomiRNAs) and intracellular-retained miRNAs (CLmiRNAs), and exosome-enriched miRNAs generally play a dual role. Among them, miR-1298-5p was enriched in CSF exosomes and suppressed glioma progression in vitro and vivo experiments. Interestingly, exosomal miR-1298-5p could promote the immunosuppressive effects of myeloid-derived suppressor cells (MDSCs) to facilitate glioma. Therefore, we found miR-1298-5p had different effects on glioma cells and MDSCs. Mechanically, downstream signaling pathway analyses showed that miR-1298-5p plays distinct roles in glioma cells and MDSCs via targeting SETD7 and MSH2, respectively. Moreover, reverse verification was performed on the intracellular-retained miRNA miR-9-5p. Thus, we confirmed that tumor-suppressive miRNAs in glioma cells could be eliminated through exosomes and target tumor-associated immune cells to induce tumor-promoting phenotypes. Glioma could get double benefit from it. These findings uncover the mechanisms that glioma selectively sorts miRNAs into exosomes and modulates tumor immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel β-catenin/BCL9 complex inhibitor blocks oncogenic Wnt signaling and disrupts cholesterol homeostasis in colorectal cancer</title>
+      <link>https://example.com/article/35486727/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35486727/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysregulated Wnt/β-catenin signaling is implicated in the pathogenesis of many human cancers, including colorectal cancer (CRC), making it an attractive clinical target. With the aim of inhibiting oncogenic Wnt activity, we developed a high-throughput screening AlphaScreen assay to identify selective small-molecule inhibitors of the interaction between β-catenin and its coactivator BCL9. We identified a compound that consistently bound to β-catenin and specifically inhibited in vivo native β-catenin/BCL9 complex formation in CRC cell lines. This compound inhibited Wnt activity, down-regulated expression of the Wnt/β-catenin signature in gene expression studies, disrupted cholesterol homeostasis, and significantly reduced the proliferation of CRC cell lines and tumor growth in a xenograft mouse model of CRC. This study has therefore identified a specific small-molecule inhibitor of oncogenic Wnt signaling, which may have value as a probe for functional studies and has important implications for the development of novel therapies in patients with CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Long noncoding RNA LINC01606 protects colon cancer cells from ferroptotic cell death and promotes stemness by SCD1-Wnt/β-catenin-TFE3 feedback loop signalling</title>
       <link>https://example.com/article/35485210/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
@@ -6134,6 +6482,38 @@
     </item>
     
     <item>
+      <title>Functional genetic screen identifies ITPR3/calcium/RELB axis as a driver of colorectal cancer metastatic liver colonization</title>
+      <link>https://example.com/article/35487218/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35487218/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Loss of ITPR3 in colorectal cancer cells inhibits metastatic liver colonization&lt;/li&gt;
+&lt;li&gt;RELB acts downstream of ITPR3/calcium to promote colorectal cancer liver metastasis&lt;/li&gt;
+&lt;li&gt;ITPR3 and RELB regulate survival in response to hypoxia and substratum detachment&lt;/li&gt;
+&lt;li&gt;Exposure of colorectal cancer cells to ITPR3 inhibitor caffeine reduces liver metastasis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metastatic colonization is the primary cause of death from colorectal cancer (CRC). We employed genome-scale in vivo short hairpin RNA (shRNA) screening and validation to identify 26 promoters of CRC liver colonization. Among these genes, we identified a cluster that contains multiple targetable genes, including ITPR3, which promoted liver-metastatic colonization and elicited similar downstream gene expression programs. ITPR3 is a caffeine-sensitive inositol 1,4,5-triphosphate (IP3) receptor that releases calcium from the endoplasmic reticulum and enhanced metastatic colonization by inducing expression of RELB, a transcription factor that is associated with non-canonical NF-κB signaling. Genetic, cell biological, pharmacologic, and clinical association studies revealed that ITPR3 and RELB drive CRC colony formation by promoting cell survival upon substratum detachment or hypoxic exposure. RELB was sufficient to drive colonization downstream of ITPR3. Our findings implicate the ITPR3/calcium/RELB axis in CRC metastatic colony formation and uncover multiple clinico-pathologically associated targetable proteins as drivers of CRC metastatic colonization.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Long noncoding RNA TLNC1 promotes the growth and metastasis of liver cancer via inhibition of p53 signaling</title>
       <link>https://example.com/article/35477447/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
@@ -6143,6 +6523,34 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; RNA-seq was performed with clinical hepatoma tissues and paired adjacent normal liver tissues to identify differentially expressed lncRNAs. qPCR was utilized to examine the expression levels of lncRNAs. We studied the function of TLNC1 in cell growth and metastasis of hepatoma with both cell and mouse models. RNA-seq, RNA pull-down coupled with mass spectrometry, RNA immunoprecipitation, dual luciferase reporter assay, and surface plasmon resonance analysis were used to analyze the functional mechanism of TLNC1.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Based on the intersection of our own RNA-seq, TCGA RNA-seq, and TCGA survival analysis data, TLNC1 was identified as a potential tumorigenic lncRNA of liver cancer. TLNC1 significantly enhanced the growth and metastasis of hepatoma cells both in vitro and in vivo. TLNC1 exerted its tumorigenic function through interaction with TPR and inducing the TPR-mediated transportation of p53 from nucleus to cytoplasm, thus repressing the transcription of p53 target genes and finally contributing to the progression of liver cancer.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; TLNC1 is a promising prognostic factor of liver cancer, and the TLNC1-TPR-p53 axis can serve as a potential therapeutic target for hepatoma treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Role of lncSLCO1C1 in gastric cancer progression and resistance to oxaliplatin therapy</title>
+      <link>https://example.com/article/35474446/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35474446/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Gastric carcinoma (GC) is one of the most deadly diseases due to tumour metastasis and resistance to therapy. Understanding the molecular mechanism of tumour progression and drug resistance will improve therapeutic efficacy and develop novel intervention strategies.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Differentially expressed long non-coding RNAs (lncRNAs) in clinical specimens were identified by LncRNA microarrays and validated in different clinical cohorts by quantitative real-time polymerase chain reaction (qRT-PCR), in situ hybridisation and bioinformatics analysis. Biological functions of lncRNA were investigated by using cell proliferation assays, migration assays, xenograft tumour models and bioinformatics analysis. Effects of lncSLCO1C1 on GC cell survival were assessed by comet assays and immunofluorescence assays. Underlying molecular mechanisms were further explored by using a number of technologies including RNA pull-down, mass spectrometry analysis, RNA immunoprecipitation, co-immunoprecipitation, miRNA sequencing, luciferase reporter assays and molecular modelling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LncSLCO1C1 was highly upregulated in GC tissue samples and associated with GC patients&amp;rsquo; poor overall survival. Overexpression of lncSLCO1C1 promoted proliferation and migration, whereas decreased lncSLCO1C1 expression produced the opposite effects. lncSLCO1C1 also mediated tumour resistance to chemotherapy with oxaliplatin by reducing DNA damage and increasing cell proliferation. Despite sequence overlapping between lncSLCO1C1 and PDE3A, alternations of PDE3A expression had no effect on the GC cell progression, indicating that lncSLCO1C1, not PDE3A, related with the progression of GC cells. Mechanistically, lncSLCO1C1 serves as a scaffold for the structure-specific recognition protein 1 (SSRP1)/H2A/H2B complex and regulates the function of SSRP1 in reducing DNA damage. Meanwhile, lncSLCO1C1 functions as a sponge to adsorb miR-204-5p and miR-211-5p that target SSRP1 mRNA, and thus increases SSRP1 expression. Patients with high expressions of both lncSLCO1C1 and SSRP1 have poor overall survival, highlighting the role of lncSLCO1C1 in GC progression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; LncSLCO1C1 promotes GC progression by enhancing cell growth and preventing DNA damage via interacting and scaffolding the SSRP1/H2A/H2b complex and absorbing both miR-211-5p and miR-204-5p to increase SSRP1 expression.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6196,6 +6604,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Based on the cross-analysis of the Gene Expression Omnibus (GEO) database and the data of our center, we explored a new molecule, hsa_circ_0078297 (circ-MTHFD1L), related to chemotherapy resistance. QRT-PCR was used to detect the expression of circRNAs, miRNAs, and mRNAs in human PDAC tissues and their matched normal tissues. The interaction between circ-MTHFD1L and miR-615-3p/RPN6 signal axis was confirmed by a series of experiments such as Dual-luciferase reporter assay, fluorescence in situ hybridization (FISH) RNA immunoprecipitation (RIP) assays.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Circ-MTHFD1L was significantly increased in PDAC tissues and cells. And in PDAC patients, the higher the expression level of circ-MTHFD1L, the worse the prognosis. Mechanism analysis showed that circ-MTHFD1L, as an endogenous miR-615-3p sponge, upregulates the expression of RPN6, thereby promoting DNA damage repair and exerting its effect on enhancing gemcitabine chemotherapy resistance. More importantly, we also found that Silencing circ-MTHFD1L combined with olaparib can increase the sensitivity of pancreatic cancer to gemcitabine.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Circ-MTHFD1L maintains PDAC gemcitabine resistance through the miR-615-3p/RPN6 signal axis. Circ-MTHFD1L may be a molecular marker for the effective treatment of PDAC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Germline MBD4 deficiency causes a multi-tumor predisposition syndrome</title>
+      <link>https://example.com/article/35460607/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35460607/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We report an autosomal recessive, multi-organ tumor predisposition syndrome, caused by bi-allelic loss-of-function germline variants in the base excision repair (BER) gene MBD4. We identified five individuals with bi-allelic MBD4 variants within four families and these individuals had a personal and/or family history of adenomatous colorectal polyposis, acute myeloid leukemia, and uveal melanoma. MBD4 encodes a glycosylase involved in repair of G:T mismatches resulting from deamination of 5&amp;rsquo;-methylcytosine. The colorectal adenomas from MBD4-deficient individuals showed a mutator phenotype attributable to mutational signature SBS1, consistent with the function of MBD4. MBD4-deficient polyps harbored somatic mutations in similar driver genes to sporadic colorectal tumors, although AMER1 mutations were more common and KRAS mutations less frequent. Our findings expand the role of BER deficiencies in tumor predisposition. Inclusion of MBD4 in genetic testing for polyposis and multi-tumor phenotypes is warranted to improve disease management.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8891,6 +9324,38 @@
       <guid>https://example.com/article/18355723/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We screened small molecules to identify two compounds, which we named RSL3 and RSL5, that have increased lethality in the presence of oncogenic RAS. Counter screening with biologically active compounds defined aspects of the mechanism of action for RSL3 and RSL5, such as a nonapoptotic, MEK-dependent, and iron-dependent oxidative cell death. Erastin, a previously reported compound with RAS-selective lethality, showed similar properties. RNA interference experiments targeting voltage-dependent anion channel 3 (VDAC3), a target of erastin, demonstrated that RSL5 is a scaffold that acts through VDACs to activate the observed pathway. RSL3 activated a similar death mechanism but in a VDAC-independent manner. We found that cells transformed with oncogenic RAS have increased iron content relative to their normal cell counterparts through upregulation of transferrin receptor 1 and downregulation of ferritin heavy chain 1 and ferritin light chain.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
