@@ -5,12 +5,44 @@
     <link>https://example.com/tag/single-cell/</link>
       <atom:link href="https://example.com/tag/single-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Single Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Single Cell</title>
       <link>https://example.com/tag/single-cell/</link>
     </image>
+    
+    <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Single-cell transcriptomics reveals a mechanosensitive injury signaling pathway in early diabetic nephropathy</title>
@@ -1381,6 +1413,70 @@
     </item>
     
     <item>
+      <title>Combined protein and nucleic acid imaging reveals virus-dependent B cell and macrophage immunosuppression of tissue microenvironments</title>
+      <link>https://example.com/article/35447093/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35447093/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of a method (PANINI) for multiplexed nucleic acid and protein imaging&lt;/li&gt;
+&lt;li&gt;Identification of orchestrated immune events in response to SIV infection&lt;/li&gt;
+&lt;li&gt;IL-10 levels in B cells and macrophages correlate with immunosuppression&lt;/li&gt;
+&lt;li&gt;Tissue microenvironmental cues can influence SIV viral transcription state&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Understanding the mechanisms of HIV tissue persistence necessitates the ability to visualize tissue microenvironments where infected cells reside; however, technological barriers limit our ability to dissect the cellular components of these HIV reservoirs. Here, we developed protein and nucleic acid in situ imaging (PANINI) to simultaneously quantify DNA, RNA, and protein levels within these tissue compartments. By coupling PANINI with multiplexed ion beam imaging (MIBI), we measured over 30 parameters simultaneously across archival lymphoid tissues from healthy or simian immunodeficiency virus (SIV)-infected nonhuman primates. PANINI enabled the spatial dissection of cellular phenotypes, functional markers, and viral events resulting from infection. SIV infection induced IL-10 expression in lymphoid B cells, which correlated with local macrophage M2 polarization. This highlights a potential viral mechanism for conditioning an immunosuppressive tissue environment for virion production. The spatial multimodal framework here can be extended to decipher tissue responses in other infectious diseases and tumor biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Progenitor potential of lung epithelial organoid cells in a transplantation model</title>
+      <link>https://example.com/article/35417699/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35417699/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alveolar organoid cells engraft into the alveolar space&lt;/li&gt;
+&lt;li&gt;Transplanted lung alveolar cells have transcriptional signature of native AT2 cells&lt;/li&gt;
+&lt;li&gt;Transplanted alveolar cells proliferate and retain organoid-forming capacity&lt;/li&gt;
+&lt;li&gt;Organoid cells undergo changes to transitional cell states upon transplantation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lung progenitor cells are crucial for regeneration following injury, yet it is unclear whether lung progenitor cells can be functionally engrafted after transplantation. We transplanted organoid cells derived from alveolar type II (AT2) cells enriched by SCA1-negative status (SNO) or multipotent SCA1-positive progenitor cells (SPO) into injured mouse lungs. Transplanted SNO cells are retained in the alveolar regions, whereas SPO cells incorporate into airway and alveolar regions. Single-cell transcriptomics demonstrate that transplanted SNO cells are comparable to native AT2 cells. Transplanted SPO cells exhibit transcriptional hallmarks of alveolar and airway cells, as well as transitional cell states identified in disease. Transplanted cells proliferate after re-injury of recipient mice and retain organoid-forming capacity. Thus, lung epithelial organoid cells exhibit progenitor cell functions after reintroduction to the lung. This study reveals methods to interrogate lung progenitor cell potential and model transitional cell states relevant to pathogenic features of lung disease &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell and spatial analysis reveal interaction of FAP&#43; fibroblasts and SPP1&#43; macrophages in colorectal cancer</title>
       <link>https://example.com/article/35365629/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
@@ -1462,6 +1558,31 @@
   
 &lt;/ul&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-Cell RNA Sequencing-Based Characterization of Resident Lung Mesenchymal Stromal Cells in Bronchopulmonary Dysplasia</title>
+      <link>https://example.com/article/35445270/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35445270/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Late lung development is a period of alveolar and microvascular formation, which is pivotal in ensuring sufficient and effective gas exchange. Defects in late lung development manifest in premature infants as a chronic lung disease named bronchopulmonary dysplasia (BPD). Numerous studies demonstrated the therapeutic properties of exogenous bone marrow and umbilical cord-derived mesenchymal stromal cells (MSCs) in experimental BPD. However, very little is known regarding the regenerative capacity of resident lung MSCs (L-MSCs) during normal development and in BPD. In this study we aimed to characterize the L-MSC population in homeostasis and upon injury. We used single-cell RNA sequencing (scRNA-seq) to profile in situ Ly6a+ L-MSCs in the lungs of normal and O2-exposed neonatal mice (a well-established model to mimic BPD) at 3 developmental timepoints (postnatal days 3, 7, and 14). Hyperoxia exposure increased the number and altered the expression profile of L-MSCs, particularly by increasing the expression of multiple pro-inflammatory, pro-fibrotic, and anti-angiogenic genes. In order to identify potential changes induced in the L-MSCs transcriptome by storage and culture, we profiled 15 000 Ly6a+ L-MSCs after in vitro culture. We observed great differences in expression profiles of in situ and cultured L-MSCs, particularly those derived from healthy lungs. Additionally, we have identified the location of Ly6a+/Col14a1+ L-MSCs in the developing lung and propose Serpinf1 as a novel, culture-stable marker of L-MSCs. Finally, cell communication analysis suggests inflammatory signals from immune and endothelial cells as main drivers of hyperoxia-induced changes in L-MSCs transcriptome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -2089,38 +2210,6 @@
       <guid>https://example.com/article/24658644/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Defining the transcriptional dynamics of a temporal process such as cell differentiation is challenging owing to the high variability in gene expression between individual cells. Time-series gene expression analyses of bulk cells have difficulty distinguishing early and late phases of a transcriptional cascade or identifying rare subpopulations of cells, and single-cell proteomic methods rely on a priori knowledge of key distinguishing markers. Here we describe Monocle, an unsupervised algorithm that increases the temporal resolution of transcriptome dynamics using single-cell RNA-Seq data collected at multiple time points. Applied to the differentiation of primary human myoblasts, Monocle revealed switch-like changes in expression of key regulatory factors, sequential waves of gene regulation, and expression of regulators that were not known to act in differentiation. We validated some of these predicted regulators in a loss-of function screen. Monocle can in principle be used to recover single-cell gene expression kinetics from a wide array of cellular processes, including differentiation, proliferation and oncogenic transformation.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
-      <link>https://example.com/article/36657444/</link>
-      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36657444/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
-&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
-&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
-&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,7 +5,7 @@
     <link>https://example.com/tag/bioinformatics/</link>
       <atom:link href="https://example.com/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bioinformatics</title>
@@ -13,10 +13,35 @@
     </image>
     
     <item>
+      <title>Application of metabolomics in urolithiasis: the discovery and usage of succinate</title>
+      <link>https://example.com/article/36681678/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36681678/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Urinary stone is conceptualized as a chronic metabolic disorder punctuated by symptomatic stone events. It has been shown that the occurrence of calcium oxalate monohydrate (COM) during stone formation is regulated by crystal growth modifiers. Although crystallization inhibitors have been recognized as a therapeutic modality for decades, limited progress has been made in the discovery of effective modifiers to intervene with stone disease. In this study, we have used metabolomics technologies, a powerful approach to identify biomarkers by screening the urine components of the dynamic progression in a bladder stone model. By in-depth mining and analysis of metabolomics data, we have screened five differential metabolites. Through density functional theory studies and bulk crystallization, we found that three of them (salicyluric, gentisic acid and succinate) could effectively inhibit nucleation in vitro. We thereby assessed the impact of the inhibitors with an EG-induced rat model for kidney stones. Notably, succinate, a key player in the tricarboxylic acid cycle, could decrease kidney calcium deposition and injury in the model. Transcriptomic analysis further showed that the protective effect of succinate was mainly through anti-inflammation, inhibition of cell adhesion and osteogenic differentiation. These findings indicated that succinate may provide a new therapeutic option for urinary stones.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer</title>
-      <link>https://example.com/article/23-01-21-09-08/</link>
+      <link>https://example.com/article/36669472/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-21-09-08/</guid>
+      <guid>https://example.com/article/36669472/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Multiplexed analysis shows intermixed tumor morphologies and molecular gradients&lt;/li&gt;
@@ -76,6 +101,38 @@
       <guid>https://example.com/article/36646895/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pangenomics is emerging as a powerful computational paradigm in bioinformatics. This field uses population-level genome reference structures, typically consisting of a sequence graph, to mitigate reference bias and facilitate analyses that were challenging with previous reference-based methods. In this work, we extend these methods into transcriptomics to analyze sequencing data using the pantranscriptome: a population-level transcriptomic reference. Our toolchain, which consists of additions to the VG toolkit and a standalone tool, RPVG, can construct spliced pangenome graphs, map RNA sequencing data to these graphs, and perform haplotype-aware expression quantification of transcripts in a pantranscriptome. We show that this workflow improves accuracy over state-of-the-art RNA sequencing mapping methods, and that it can efficiently quantify haplotype-specific transcript expression without needing to characterize the haplotypes of a sample beforehand.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2423,6 +2480,63 @@
       <guid>https://example.com/article/35476940/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Classification among coding sequences (CDS) and non-coding RNA (ncRNA) sequences is a challenge and several machine learning models have been developed for the same. Since the frequency of curated CDS is many-folds as compared to that of the ncRNAs, we devised a novel approach to work with the complete datasets from fifteen diverse species. In our proposed binary approach, we replaced all the &amp;lsquo;A&amp;rsquo;s and &amp;lsquo;T&amp;rsquo;s with &amp;lsquo;0&amp;rsquo;s and &amp;lsquo;G&amp;rsquo;s and &amp;lsquo;C&amp;rsquo;s with &amp;lsquo;1&amp;rsquo;s to obtain a binary form of CDS and ncRNAs. The k-mer analysis of these binary sequences revealed that the frequency of binary patterns among the CDS and ncRNAs can be used as features to distinguish among them. Using insights from these distinguishing frequencies, we used k-nearest neighbor classifier to classify among them. Our strategy is not only time-efficient but leads to significantly increased performance metrics in terms of Matthews Correlation Coefficient (MCC), Accuracy, F1 score, Precision, Recall and AUC-ROC, for species like &lt;em&gt;P. paniscus&lt;/em&gt;, &lt;em&gt;M. mulatta&lt;/em&gt;, &lt;em&gt;M. lucifugus&lt;/em&gt;, &lt;em&gt;G. gallus&lt;/em&gt;, &lt;em&gt;C. japonica&lt;/em&gt;, &lt;em&gt;C. abingdonii&lt;/em&gt;, &lt;em&gt;A. carolinensis&lt;/em&gt;, &lt;em&gt;D. melanogaster&lt;/em&gt; and &lt;em&gt;C. elegans&lt;/em&gt; when compared with the conventional ATGC approach. Additionally, we also show that the performance obtained for diverse species tested on the model based on H. sapiens, correlated with the geological evolutionary timeline, thereby further strengthening our approach. Therefore, we propose that CDS and ncRNAs can be efficiently classified using &amp;ldquo;2-character&amp;rdquo; binary frequency as compared to &amp;ldquo;4-character&amp;rdquo; frequency of ATGC approach. Thus, our highly efficient binary approach can replace the more complex ATGC approach successfully.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Combined protein and nucleic acid imaging reveals virus-dependent B cell and macrophage immunosuppression of tissue microenvironments</title>
+      <link>https://example.com/article/35447093/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35447093/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of a method (PANINI) for multiplexed nucleic acid and protein imaging&lt;/li&gt;
+&lt;li&gt;Identification of orchestrated immune events in response to SIV infection&lt;/li&gt;
+&lt;li&gt;IL-10 levels in B cells and macrophages correlate with immunosuppression&lt;/li&gt;
+&lt;li&gt;Tissue microenvironmental cues can influence SIV viral transcription state&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Understanding the mechanisms of HIV tissue persistence necessitates the ability to visualize tissue microenvironments where infected cells reside; however, technological barriers limit our ability to dissect the cellular components of these HIV reservoirs. Here, we developed protein and nucleic acid in situ imaging (PANINI) to simultaneously quantify DNA, RNA, and protein levels within these tissue compartments. By coupling PANINI with multiplexed ion beam imaging (MIBI), we measured over 30 parameters simultaneously across archival lymphoid tissues from healthy or simian immunodeficiency virus (SIV)-infected nonhuman primates. PANINI enabled the spatial dissection of cellular phenotypes, functional markers, and viral events resulting from infection. SIV infection induced IL-10 expression in lymphoid B cells, which correlated with local macrophage M2 polarization. This highlights a potential viral mechanism for conditioning an immunosuppressive tissue environment for virion production. The spatial multimodal framework here can be extended to decipher tissue responses in other infectious diseases and tumor biology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Untargeted metabolomics analysis of omeprazole-enhanced chemosensitivity to cisplatin in mice with non-small cell lung cancer</title>
+      <link>https://example.com/article/35447140/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35447140/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Drug resistance of tumors remains a major barrier in cisplatin (CDDP)-based chemotherapy. Omeprazole (OME) is often utilized during chemotherapy to alleviate gastrointestinal symptoms. In a previous investigation, we demonstrated a protective effect of OME against CDDP-induced kidney injury. To further establish whether OME could enhance chemosensitivity to CDDP and the underlying mechanisms, an in vivo tumor-bearing mouse model with CDDP-resistant A549 non-small cell lung cancer (A549/CDDP) was established in the current study. A high-performance liquid chromatography-time of flight mass spectrometry (HPLC-TOF/MS)-based untargeted metabolomics approach for tumor tissue and serum was employed to explore the mechanisms underlying the enhanced therapeutic effects of co-administration of CDDP and OME. Notably, tumor weights of mice in the CDDP + OME group were significantly decreased compared with those treated with CDDP alone. HE and TUNEL staining revealed more significant apoptosis of tumor cells in the group co-administered CDDP + OME relative to CDDP alone. Overexpression of multidrug resistance-associated protein 2 in CDDP-resistant tumors was significantly reversed upon treatment with CDDP + OME. PCA score plots of the groups co-treated with CDDP + OME were clearly separated from those treated with CDDP alone in metabolomics analysis for tumor and serum samples, clearly suggesting that co-administration of OME enhances the antitumor effect of CDDP. Subsequently, 10 and 7 metabolites in CDDP + OME group with significant changes in tumor and serum compared with CDDP group, respectively, were identified. Pathway analysis both in tumor and serum samples revealed regulation of the metabolism of purines, several amino acids and riboflavin in enhanced chemotherapy with both OME and CDDP. The collective findings provide beneficial novel insights into drug-drug interactions, which could improve the application of CDDP in clinical practice.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -5556,38 +5670,6 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/16199517/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data. The method derives its power by focusing on gene sets, that is, groups of genes that share common biological function, chromosomal location, or regulation. We demonstrate how GSEA yields insights into several cancer-related data sets, including leukemia and lung cancer. Notably, where single-gene analysis finds little similarity between two independent studies of patient survival in lung cancer, GSEA reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
-      <link>https://example.com/article/36657444/</link>
-      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36657444/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
-&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
-&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
-&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

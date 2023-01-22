@@ -5,12 +5,39 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>CRISPR-dCas13-tracing reveals transcriptional memory and limited mRNA export in developing zebrafish embryos</title>
+      <link>https://example.com/article/36658633/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36658633/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Understanding gene transcription and mRNA-protein (mRNP) dynamics in single cells in a multicellular organism has been challenging. The catalytically dead CRISPR-Cas13 (dCas13) system has been used to visualize RNAs in live cells without genetic manipulation. We optimize this system to track developmentally expressed mRNAs in zebrafish embryos and to understand features of endogenous transcription kinetics and mRNP export.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We report that zygotic microinjection of purified CRISPR-dCas13-fluorescent proteins and modified guide RNAs allows single- and dual-color tracking of developmentally expressed mRNAs in zebrafish embryos from zygotic genome activation (ZGA) until early segmentation period without genetic manipulation. Using this approach, we uncover non-synchronized de novo transcription between inter-alleles, synchronized post-mitotic re-activation in pairs of alleles, and transcriptional memory as an extrinsic noise that potentially contributes to synchronized post-mitotic re-activation. We also reveal rapid dCas13-engaged mRNP movement in the nucleus with a corralled and diffusive motion, but a wide varying range of rate-limiting mRNP export, which can be shortened by Alyref and Nxf1 overexpression.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This optimized dCas13-based toolkit enables robust spatial-temporal tracking of endogenous mRNAs and uncovers features of transcription and mRNP motion, providing a powerful toolkit for endogenous RNA visualization in a multicellular developmental organism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Enhanced RNA knockdown efficiency with engineered fusion guide RNAs that function with both CRISPR-CasRx and hammerhead ribozyme</title>
@@ -46,6 +73,38 @@
       <guid>https://example.com/article/36650285/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CRISPR-Cas modules serve as the adaptive nucleic acid immune systems for prokaryotes, and provide versatile tools for nucleic acid manipulation in various organisms. Here, we discovered a new miniature type V system, CRISPR-Casπ (Cas12l) (~860 aa), from the environmental metagenome. Complexed with a large guide RNA (~170 nt) comprising the tracrRNA and crRNA, Casπ (Cas12l) recognizes a unique 5&amp;rsquo; C-rich PAM for DNA cleavage under a broad range of biochemical conditions, and generates gene editing in mammalian cells. Cryo-EM study reveals a &amp;lsquo;bracelet&amp;rsquo; architecture of Casπ effector encircling the DNA target at 3.4 Å resolution, substantially different from the canonical &amp;rsquo;two-lobe&amp;rsquo; architectures of Cas12 and Cas9 nucleases. The large guide RNA serves as a &amp;rsquo;two-arm&amp;rsquo; scaffold for effector assembly. Our study expands the knowledge of DNA targeting mechanisms by CRISPR effectors, and offers an efficient but compact platform for DNA manipulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -751,6 +810,31 @@
     </item>
     
     <item>
+      <title>Toxicological Mechanism of Individual Susceptibility to Formaldehyde-Induced Respiratory Effects</title>
+      <link>https://example.com/article/35438505/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35438505/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Understanding the mechanisms of individual susceptibility to exposure to environmental pollutants has been a challenge in health risk assessment. Here, an integrated approach combining a CRISPR screen in human cells and epidemiological analysis was developed to identify the individual susceptibility to the adverse health effects of air pollutants by taking formaldehyde (FA) and the associated chronic obstructive pulmonary disease (COPD) as a case study. Among the primary hits of CRISPR screening of FA in human A549 cells, HTR4 was the only gene genetically associated with COPD susceptibility in global populations. However, the association between HTR4 and FA-induced respiratory toxicity is unknown in the literature. Adverse outcome pathway (AOP) network analysis of CRISPR screen hits provided a potential mechanistic link between activation of HTR4 (molecular initiating event) and FA-induced lung injury (adverse outcome). Systematic toxicology tests (in vitro and animal experiments) were conducted to reveal the HTR4-involved biological mechanisms underlying the susceptibility to adverse health effects of FA. Functionality and enhanced expression of HTR4 were required for susceptibility to FA-induced lung injury, and FA-induced epigenetic changes could result in enhanced expression of HTR4. Specific epigenetic and genetic characteristics of HTR4 were associated with the progression and prevalence of COPD, respectively, and these genetic risk factors for COPD could be potential biomarkers of individual susceptibility to adverse respiratory effects of FA. These biomarkers could be of great significance for defining subpopulations susceptible to exposure to FA and reducing uncertainty in the next-generation health risk assessment of air pollutants. Our study delineated a novel toxicological pathway mediated by HTR4 in FA-induced lung injury, which could provide a mechanistic understanding of the potential biomarkers of individual susceptibility to adverse respiratory effects of FA.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Fast and sensitive detection of SARS-CoV-2 RNA using suboptimal protospacer adjacent motifs for Cas12a</title>
       <link>https://example.com/article/35314803/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
@@ -1050,38 +1134,6 @@
       <guid>https://example.com/article/27351204/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;SQSTM1 is an adaptor protein that integrates multiple cellular signaling pathways and whose expression is tightly regulated at the transcriptional and post-translational level. Here, we describe a forward genetic screening paradigm exploiting CRISPR-mediated genome editing coupled to a cell selection step by FACS to identify regulators of SQSTM1. Through systematic comparison of pooled libraries, we show that CRISPR is superior to RNAi in identifying known SQSTM1 modulators. A genome-wide CRISPR screen exposed MTOR signalling and the entire macroautophagy machinery as key regulators of SQSTM1 and identified several novel modulators including HNRNPM, SLC39A14, SRRD, PGK1 and the ufmylation cascade. We show that ufmylation regulates SQSTM1 by eliciting a cell type-specific ER stress response which induces SQSTM1 expression and results in its accumulation in the cytosol. This study validates pooled CRISPR screening as a powerful method to map the repertoire of cellular pathways that regulate the fate of an individual target protein.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
-      <link>https://example.com/article/36657444/</link>
-      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36657444/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
-&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
-&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
-&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

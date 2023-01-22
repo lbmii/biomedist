@@ -5,12 +5,62 @@
     <link>https://example.com/tag/cancers/</link>
       <atom:link href="https://example.com/tag/cancers/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cancers</title>
       <link>https://example.com/tag/cancers/</link>
     </image>
+    
+    <item>
+      <title>CD-NTase family member MB21D2 promotes cGAS-mediated antiviral and antitumor immunity</title>
+      <link>https://example.com/article/36681781/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36681781/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;cGAS/DncV-like nucleotidyltransferase (CD-NTase) family members are immune sensors that synthesize diverse nucleotide signals to initiate antiviral response in bacteria and animals. As a founding member of CD-NTase enzyme, cGAS has been identified as a key sensor for cytoplasmic DNA and type I interferons (IFNs) signaling in metazoan. However, the functions of other metazoan CD-NTases remain enigmatic. Here, we showed that Mab-21 domain-containing protein 2 (MB21D2), another member of the CD-NTase family, plays a positive role in modulating the cGAS-STING signaling in myeloid cells. Deficiency of MB21D2 in THP-1 cells or mice macrophages led to impaired production of type I interferon upon DNA stimulation. Consistently, &lt;em&gt;Mb21d2&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice showed more susceptible to infection with DNA virus and faster growth of melanoma, compared to its counterparts. Mechanistically, MB21D2 specially bound with the N-terminal of cGAS, facilitated its liquid phase condensation and DNA-binding activity, leading to the enhanced production of cGAMP and subsequent IFN-β production. Thus, our findings unveiled that the CD-NTase family member MB21D2 contributes to host antiviral and antitumor responses by enhancing cGAS activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Human endoderm stem cells reverse inflammation-related acute liver failure through cystatin SN-mediated inhibition of interferon signaling</title>
+      <link>https://example.com/article/36670290/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36670290/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute liver failure (ALF) is a life-threatening disease that occurs secondary to drug toxicity, infection or a devastating immune response. Orthotopic liver transplantation is an effective treatment but limited by the shortage of donor organs, the requirement for life-long immune suppression and surgical challenges. Stem cell transplantation is a promising alternative therapy for fulminant liver failure owing to the immunomodulatory abilities of stem cells. Here, we report that when transplanted into the liver, human endoderm stem cells (hEnSCs) that are germ layer-specific and nontumorigenic cells derived from pluripotent stem cells are able to effectively ameliorate hepatic injury in multiple rodent and swine drug-induced ALF models. We demonstrate that hEnSCs tune the local immune microenvironment by skewing macrophages/Kupffer cells towards an anti-inflammatory state and by reducing the infiltrating monocytes/macrophages and inflammatory T helper cells. Single-cell transcriptomic analyses of infiltrating and resident monocytes/macrophages isolated from animal livers revealed dramatic changes, including changes in gene expression that correlated with the change of activation states, and dynamic population heterogeneity among these cells after hEnSC transplantation. We further demonstrate that hEnSCs modulate the activation state of macrophages/Kupffer cells via cystatin SN (CST1)-mediated inhibition of interferon signaling and therefore highlight CST1 as a candidate therapeutic agent for diseases that involve over-activation of interferons. We propose that hEnSC transplantation represents a novel and powerful cell therapeutic treatment for ALF.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Chloroquine reduces neutrophil extracellular trap (NET) formation through inhibition of peptidyl arginine deiminase 4 (PAD4)</title>
@@ -39,9 +89,9 @@
     
     <item>
       <title>Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer</title>
-      <link>https://example.com/article/23-01-21-09-08/</link>
+      <link>https://example.com/article/36669472/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-01-21-09-08/</guid>
+      <guid>https://example.com/article/36669472/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Multiplexed analysis shows intermixed tumor morphologies and molecular gradients&lt;/li&gt;
@@ -439,6 +489,38 @@
     </item>
     
     <item>
+      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
+      <link>https://example.com/article/36657444/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36657444/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
+&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
+&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
+&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Oxidative stress-triggered Wnt signaling perturbation characterizes the tipping point of lung adeno-to-squamous transdifferentiation</title>
       <link>https://example.com/article/36627278/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
@@ -687,6 +769,31 @@
       <guid>https://example.com/article/36624314/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Although it has long been known that the immune cell composition has a strong prognostic and predictive value in colorectal cancer (CRC), scoring systems such as the immunoscore (IS) or quantification of intraepithelial lymphocytes are only slowly being adopted into clinical routine use and have their limitations. To address this we established and evaluated a multistain deep learning model (MSDLM) utilizing artificial intelligence (AI) to determine the AImmunoscore (AIS) in more than 1,000 patients with CRC. Our model had high prognostic capabilities and outperformed other clinical, molecular and immune cell-based parameters. It could also be used to predict the response to neoadjuvant therapy in patients with rectal cancer. Using an explainable AI approach, we confirmed that the MSDLM&amp;rsquo;s decisions were based on established cellular patterns of anti-tumor immunity. Hence, the AIS could provide clinicians with a valuable decision-making tool based on the tumor immune microenvironment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Neutrophil Extracellular Traps Promote Metastases of Colorectal Cancers through Activation of ERK Signaling by Releasing Neutrophil Elastase</title>
+      <link>https://example.com/article/36674635/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36674635/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) play important roles in host immunity, as there is increasing evidence of their contribution to the progression of several types of cancers even though their role in colorectal cancers (CRCs) remains unclear. To investigate the clinical relevance of NETs in CRCs, we examined the expression of citrullinated histone H3 using immunohistochemistry and preoperative serum myeloperoxidase-DNA complexes in CRC patients using an enzyme-linked immunosorbent assay. High expression of intratumoral or systemic NETs was found to correlate with poor relapse-free survival (RFS), for which it is an independent prognostic factor. In vitro investigations of CRC cells (HCT116, HT29) revealed that NETs did not affect their proliferation but did promote the migration of CRC cells mediated by neutrophil elastase (NE) released during NETosis to increase extracellular signal-regulated kinase (ERK) activity. In vivo experiments using nude mice (KSN/slc) revealed that NE inhibition suppressed liver metastases in CRC cells, although it did not affect the growth of subcutaneously implanted tumors. Taken together, these results suggest that NET formation correlates with poor prognoses of patients with CRC and that the inhibition of NE could be a potential therapy for CRC metastases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -5575,6 +5682,31 @@
     </item>
     
     <item>
+      <title>Neoadjuvant Intravenous Oncolytic Vaccinia Virus Therapy Promotes Anticancer Immunity in Patients</title>
+      <link>https://example.com/article/35439304/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35439304/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Improving the chances of curing patients with cancer who have had surgery to remove metastatic sites of disease is a priority area for cancer research. &lt;em&gt;Pexa-Vec&lt;/em&gt; (Pexastimogene Devacirepvec; JX-594, TG6006) is a principally immunotherapeutic oncolytic virus that has reached late-phase clinical trials. We report the results of a single-center, nonrandomized biological end point study (trial registration: EudraCT number 2012-000704-15), which builds on the success of the presurgical intravenous delivery of oncolytic viruses to tumors. Nine patients with either colorectal cancer liver metastases or metastatic melanoma were treated with a single intravenous infusion of &lt;em&gt;Pexa-Vec&lt;/em&gt; ahead of planned surgical resection of the metastases. Grade 3 and 4 &lt;em&gt;Pexa-Vec&lt;/em&gt;-associated side effects were lymphopaenia and neutropaenia. &lt;em&gt;Pexa-Vec&lt;/em&gt; was peripherally carried in plasma and was not associated with peripheral blood mononuclear cells. Upon surgical resection, &lt;em&gt;Pexa-Vec&lt;/em&gt; was found in the majority of analyzed tumors. &lt;em&gt;Pexa-Vec&lt;/em&gt; therapy associated with IFNα secretion, chemokine induction, and resulted in transient innate and long-lived adaptive anticancer immunity. In the 2 patients with significant and complete tumor necrosis, a reduction in the peripheral T-cell receptor diversity was observed at the time of surgery. These results support the development of presurgical oncolytic vaccinia virus-based therapies to stimulate anticancer immunity and increase the chances to cure patients with cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>CircCEMIP promotes anoikis-resistance by enhancing protective autophagy in prostate cancer cells</title>
       <link>https://example.com/article/35655258/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
@@ -6698,6 +6830,56 @@
     </item>
     
     <item>
+      <title>PD-1 and ICOS coexpression identifies tumor-reactive CD4&#43; T cells in human solid tumors</title>
+      <link>https://example.com/article/35439168/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35439168/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CD4+ Th cells play a key role in orchestrating immune responses, but the identity of the CD4+ Th cells involved in the antitumor immune response remains to be defined. We analyzed the immune cell infiltrates of head and neck squamous cell carcinoma and colorectal cancers and identified a subset of CD4+ Th cells distinct from FOXP3+ Tregs that coexpressed programmed cell death 1 (PD-1) and ICOS. These tumor-infiltrating lymphocyte CD4+ Th cells (CD4+ Th TILs) had a tissue-resident memory phenotype, were present in MHC class II-rich areas, and proliferated in the tumor, suggesting local antigen recognition. The T cell receptor repertoire of the PD-1+ICOS+ CD4+ Th TILs was oligoclonal, with T cell clones expanded in the tumor, but present at low frequencies in the periphery. Finally, these PD-1+ICOS+ CD4+ Th TILs were shown to recognize both tumor-associated antigens and tumor-specific neoantigens. Our findings provide an approach for isolating tumor-reactive CD4+ Th TILs directly ex vivo that will help define their role in the antitumor immune response and potentially improve future adoptive T cell therapy approaches.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Untargeted metabolomics analysis of omeprazole-enhanced chemosensitivity to cisplatin in mice with non-small cell lung cancer</title>
+      <link>https://example.com/article/35447140/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35447140/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Drug resistance of tumors remains a major barrier in cisplatin (CDDP)-based chemotherapy. Omeprazole (OME) is often utilized during chemotherapy to alleviate gastrointestinal symptoms. In a previous investigation, we demonstrated a protective effect of OME against CDDP-induced kidney injury. To further establish whether OME could enhance chemosensitivity to CDDP and the underlying mechanisms, an in vivo tumor-bearing mouse model with CDDP-resistant A549 non-small cell lung cancer (A549/CDDP) was established in the current study. A high-performance liquid chromatography-time of flight mass spectrometry (HPLC-TOF/MS)-based untargeted metabolomics approach for tumor tissue and serum was employed to explore the mechanisms underlying the enhanced therapeutic effects of co-administration of CDDP and OME. Notably, tumor weights of mice in the CDDP + OME group were significantly decreased compared with those treated with CDDP alone. HE and TUNEL staining revealed more significant apoptosis of tumor cells in the group co-administered CDDP + OME relative to CDDP alone. Overexpression of multidrug resistance-associated protein 2 in CDDP-resistant tumors was significantly reversed upon treatment with CDDP + OME. PCA score plots of the groups co-treated with CDDP + OME were clearly separated from those treated with CDDP alone in metabolomics analysis for tumor and serum samples, clearly suggesting that co-administration of OME enhances the antitumor effect of CDDP. Subsequently, 10 and 7 metabolites in CDDP + OME group with significant changes in tumor and serum compared with CDDP group, respectively, were identified. Pathway analysis both in tumor and serum samples revealed regulation of the metabolism of purines, several amino acids and riboflavin in enhanced chemotherapy with both OME and CDDP. The collective findings provide beneficial novel insights into drug-drug interactions, which could improve the application of CDDP in clinical practice.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The pseudogenes of eukaryotic translation elongation factors (EEFs): Role in cancer and other human diseases</title>
       <link>https://example.com/review/35685457/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
@@ -6723,12 +6905,101 @@
     </item>
     
     <item>
+      <title>Targeting non-coding RNAs to overcome cancer therapy resistance</title>
+      <link>https://example.com/review/35418578/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35418578/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is now well known that non-coding RNAs (ncRNAs), rather than protein-coding transcripts, are the preponderant RNA transcripts. NcRNAs, particularly microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and circular RNAs (circRNAs), are widely appreciated as pervasive regulators of multiple cancer hallmarks such as proliferation, apoptosis, invasion, metastasis, and genomic instability. Despite recent discoveries in cancer therapy, resistance to chemotherapy, radiotherapy, targeted therapy, and immunotherapy continue to be a major setback. Recent studies have shown that ncRNAs also play a major role in resistance to different cancer therapies by rewiring essential signaling pathways. In this review, we present the intricate mechanisms through which dysregulated ncRNAs control resistance to the four major types of cancer therapies. We will focus on the current clinical implications of ncRNAs as biomarkers to predict treatment response (intrinsic resistance) and to detect resistance to therapy after the start of treatment (acquired resistance). Furthermore, we will present the potential of targeting ncRNA to overcome cancer treatment resistance, and we will discuss the challenges of ncRNA-targeted therapy-especially the development of delivery systems.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA PCAT1 activates SOX2 and suppresses radioimmune responses via regulating cGAS/STING signalling in non-small cell lung cancer</title>
+      <link>https://example.com/article/35415876/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35415876/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The expression of long non-coding RNA (lncRNA) prostate cancer-associated ncRNA transcripts 1 (PCAT1) is increased in non-small cell lung cancer (NSCLC). It stimulates tumour growth and metastasis, but its role in the radioimmune responses remain unknown. We aimed to explore the impacts of PCAT1 on tumorigenesis and radioimmune responses and the underlying molecular mechanisms in NSCLC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Comprehensive bioinformatics analysis was performed to identify immunosuppressive lncRNAs involved with tumour invasion in NSCLC. The expression levels of PCAT1 were analysed by in situ hybridisation in 55 paired NSCLC tissues and adjacent normal tissues. Both loss- and gain-of-function assays were performed to examine the effects of PCAT1 and SOX2 on NSCLC cell behaviours in vivo and in vitro. Bioinformatic analyses, chromatin isolation by RNA purification (ChIRP) and dual-luciferase reporter assays were applied to validate the regulatory effects of PCAT1 on SOX2 expression. Chromatin immunoprecipitation, luciferase and rescue assays were utilised to identify the relationship between SOX2 and the cGAS/stimulator of interferon genes (STING) signalling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; PCAT1 was immunosuppressive and related with NSCLC invasion. Increased PCAT1 was negatively correlated with immune cell infiltration in NSCLC. PCAT1 knockdown restrained proliferation, increased apoptosis, and repressed cell metastasis in vivo and in vitro. PCAT1 activated SOX2 that accelerated tumorigenesis and immunosuppression. SOX2 promoted tumour growth through inhibiting cytotoxic T-cell immunity. Moreover, SOX2 restrained cGAS transcription and hampered downstream type I interferon (IFN)-induced immune responses. Inhibition of PCAT1/SOX2 in collaboration with radiation further inhibited tumour growth, and initiated the cGAS/STING signalling pathway, which enhanced the immune responses of radiotherapy in NSCLC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; PCAT1/SOX2 axis promoted tumorigenesis and immunosuppression through inhibition of cGAS/STING signalling-mediated T-cell activation. Inhibition of PCAT1 and SOX2 synergised with radiotherapy to activate the immune response and could serve as potential therapeutic targets.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Carbon Dots as a Potential Therapeutic Agent for the Treatment of Cancer-Related Anemia</title>
       <link>https://example.com/article/35294781/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35294781/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The inflammatory response is tightly regulated, but its regulatory principles are still incompletely understood. Cyclophilin A (CypA) has long been considered as a pro-inflammatory factor. Here, we discover how CypA precisely regulates interleukin-1β (IL-1β)-mediated inflammatory responses. In lipopolysaccharide-treated mice, CypA deficiency initially inhibits and then promotes lung inflammation, which is closely related to IL-1β production. Mechanistically, CypA not only facilitates pro-IL-1β processing by increasing Smurf1-mediated K63-linked ubiquitination in an ATP-dependent manner but also accelerates pro-IL-1β degradation, depending on Smurf1-mediated K48-linked ubiquitination. Moreover, in IL-1β-treated mice, CypA exacerbates lung injury by enhancing cytokine production. It also upregulates the ILK/AKT pathway by inhibiting Cyld-mediated K63-linked ILK deubiquitination, which promotes the epithelial-mesenchymal transition (EMT) to facilitate lung repair. Collectively, CypA promotes inflammation activation by increasing IL-1β production and then promotes inflammation resolution by enhancing redundant pro-IL-1β degradation and IL-1β-induced EMT, indicating the complex and delicate regulation of inflammatory response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hypoxia-induced HIF-1α/lncRNA-PMAN inhibits ferroptosis by promoting the cytoplasmic translocation of ELAVL1 in peritoneal dissemination from gastric cancer</title>
+      <link>https://example.com/article/35447413/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35447413/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Corrigendum to &amp;ldquo;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2213231722001744&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Hypoxia-induced HIF-1α/lncRNA-PMAN inhibits ferroptosis by promoting the cytoplasmic translocation of ELAVL1 in peritoneal dissemination from gastric cancer&lt;/em&gt;&lt;/a&gt;&amp;rdquo; [Redox Biol. 52C (2022) 102312].&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HIF-1⍺ mediates abnormally high expression of PMAN in PM from GC under hypoxia.&lt;/li&gt;
+&lt;li&gt;GC cells suppress ferroptosis by relieving ROS and irons accumulation through HIF-1⍺/PMAN under hypoxia.&lt;/li&gt;
+&lt;li&gt;Inhibition of ferroptosis may contributes to the development of PM from GC.&lt;/li&gt;
+&lt;li&gt;Increased cytoplasmic translocation of ELAVL1 is a key intermediate factor in PMAN inhibition of ferroptosis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Peritoneal metastasis (PM) is the main site of gastric cancer (GC) distant metastasis and indicates an extremely poor prognosis and survival. Hypoxia is a common feature of peritoneal metastases and up-regulation of hypoxia inducible factor 1 alpha (HIF-1α) may be a potential driver in the occurrence of PM. Ferroptosis is a recently discovered form of regulated cell death and closely related to the occurrence and development of tumors. However, the underlying mechanism link HIF-1α to ferroptosis in PM of GC remains unknown. Here, lncRNA-microarrays and RNA library construction/lncRNA-seq results shown that lncRNA-PMAN was highly expressed in PM and significantly modulated by HIF-1α. Upregulation of PMAN is associated with poor prognosis and PM in patients with GC. PMAN was up-regulated by HIF-1α and improved the stability of SLC7A11 mRNA by promoting the cytoplasmic distribution of ELAVL1, which was identified in RNA-pulldown/mass spectrometry results. Accumulation of SLC7A11 increases the level of l-Glutathione (GSH) and inhibits the accumulation of reactive oxygen species (ROS) and irons in the GC cells. Finally protect GC cells against ferroptosis induced by Erastin and RSL3. Our findings have elucidated the effect of HIF-1α/PMAN/ELAVL1 in GC cells ferroptosis and provides theoretical support for the potential diagnostic biomarkers and therapeutic targets for PM in GC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -9218,6 +9489,31 @@
     </item>
     
     <item>
+      <title>Wnt/β-Catenin Signaling, Disease, and Emerging Therapeutic Modalities</title>
+      <link>https://example.com/review/28575679/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/28575679/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The WNT signal transduction cascade is a main regulator of development throughout the animal kingdom. Wnts are also key drivers of most types of tissue stem cells in adult mammals. Unsurprisingly, mutated Wnt pathway components are causative to multiple growth-related pathologies and to cancer. Here, we describe the core Wnt/β-catenin signaling pathway, how it controls stem cells, and contributes to disease. Finally, we discuss strategies for Wnt-based therapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Emerging Biological Principles of Metastasis</title>
       <link>https://example.com/review/28187288/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
@@ -9324,38 +9620,6 @@
       <guid>https://example.com/article/18355723/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We screened small molecules to identify two compounds, which we named RSL3 and RSL5, that have increased lethality in the presence of oncogenic RAS. Counter screening with biologically active compounds defined aspects of the mechanism of action for RSL3 and RSL5, such as a nonapoptotic, MEK-dependent, and iron-dependent oxidative cell death. Erastin, a previously reported compound with RAS-selective lethality, showed similar properties. RNA interference experiments targeting voltage-dependent anion channel 3 (VDAC3), a target of erastin, demonstrated that RSL5 is a scaffold that acts through VDACs to activate the observed pathway. RSL3 activated a similar death mechanism but in a VDAC-independent manner. We found that cells transformed with oncogenic RAS have increased iron content relative to their normal cell counterparts through upregulation of transferrin receptor 1 and downregulation of ferritin heavy chain 1 and ferritin light chain.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
-      <link>https://example.com/article/36657444/</link>
-      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36657444/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Single-cell ATAC-seq profiling of CD8&lt;sup&gt;+&lt;/sup&gt; T cells from several cancer entities&lt;/li&gt;
-&lt;li&gt;Description of entity-overarching functional and dysfunctional T cell states&lt;/li&gt;
-&lt;li&gt;Integration with single-cell RNA-seq data predicts enhancer-promoter interactions&lt;/li&gt;
-&lt;li&gt;CRISPR interference and activation validate enhancer regulation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Despite extensive studies on the chromatin landscape of exhausted T cells, the transcriptional wiring underlying the heterogeneous functional and dysfunctional states of human tumor-infiltrating lymphocytes (TILs) is incompletely understood. Here, we identify gene-regulatory landscapes in a wide breadth of functional and dysfunctional CD8&lt;sup&gt;+&lt;/sup&gt; TIL states covering four cancer entities using single-cell chromatin profiling. We map enhancer-promoter interactions in human TILs by integrating single-cell chromatin accessibility with single-cell RNA-seq data from tumor-entity-matching samples and prioritize cell-state-specific genes by super-enhancer analysis. Besides revealing entity-specific chromatin remodeling in exhausted TILs, our analyses identify a common chromatin trajectory to TIL dysfunction and determine key enhancers, transcriptional regulators, and deregulated genes involved in this process. Finally, we validate enhancer regulation at immunotherapeutically relevant loci by targeting non-coding regulatory elements with potent CRISPR activators and repressors. In summary, our study provides a framework for understanding and manipulating cell-state-specific gene-regulatory cues from human tumor-infiltrating lymphocytes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
