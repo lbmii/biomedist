@@ -5,12 +5,62 @@
     <link>https://example.com/tag/techniques/</link>
       <atom:link href="https://example.com/tag/techniques/index.xml" rel="self" type="application/rss+xml" />
     <description>Techniques</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Techniques</title>
       <link>https://example.com/tag/techniques/</link>
     </image>
+    
+    <item>
+      <title>Mapping nucleolus-associated chromatin interactions using nucleolus Hi-C reveals pattern of heterochromatin interactions</title>
+      <link>https://example.com/article/36681699/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36681699/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As the largest substructures in the nucleus, nucleoli are the sites of ribosome biogenesis. Increasing evidence indicates that nucleoli play a key role in the organization of 3D genome architecture, but systematic studies of nucleolus-associated chromatin interactions are lacking. Here, we developed a nucleolus Hi-C (nHi-C) experimental technique to enrich nucleolus-associated chromatin interactions. Using the nHi-C experiment, we identify 264 high-confidence nucleolus-associated domains (hNADs) that form strong heterochromatin interactions associated with the nucleolus and consist of 24% of the whole genome in HeLa cells. Based on the global hNAD inter-chromosomal interactions, we find five nucleolar organizer region (NOR)-bearing chromosomes formed into two clusters that show different interaction patterns, which is concordant with their epigenetic states and gene expression levels. hNADs can be divided into three groups that display distinct cis/trans interaction signals, interaction frequencies associated with nucleoli, distance from the centromeres, and overlap percentage with lamina-associated domains (LADs). Nucleolus disassembly caused by Actinomycin D (ActD) significantly decreases the strength of hNADs and affects compartment/TAD strength genome-wide. In summary, our results provide a global view of heterochromatin interactions organized around nucleoli and demonstrate that nucleoli act as an inactive inter-chromosomal hub to shape both compartments and TADs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SGPPI: structure-aware prediction of protein-protein interactions in rigorous conditions with graph convolutional network</title>
+      <link>https://example.com/article/36682013/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36682013/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While deep learning (DL)-based models have emerged as powerful approaches to predict protein-protein interactions (PPIs), the reliance on explicit similarity measures (e.g. sequence similarity and network neighborhood) to known interacting proteins makes these methods ineffective in dealing with novel proteins. The advent of AlphaFold2 presents a significant opportunity and also a challenge to predict PPIs in a straightforward way based on monomer structures while controlling bias from protein sequences. In this work, we established Structure and Graph-based Predictions of Protein Interactions (SGPPI), a structure-based DL framework for predicting PPIs, using the graph convolutional network. In particular, SGPPI focused on protein patches on the protein-protein binding interfaces and extracted the structural, geometric and evolutionary features from the residue contact map to predict PPIs. We demonstrated that our model outperforms traditional machine learning methods and state-of-the-art DL-based methods using non-representation-bias benchmark datasets. Moreover, our model trained on human dataset can be reliably transferred to predict yeast PPIs, indicating that SGPPI can capture converging structural features of protein interactions across various species.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>CRISPR-dCas13-tracing reveals transcriptional memory and limited mRNA export in developing zebrafish embryos</title>
@@ -248,6 +298,31 @@
       <guid>https://example.com/article/apn.2.1.016012/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Structured illumination microscopy (SIM) has been widely used in live-cell superresolution (SR) imaging. However, conventional physical model-based SIM SR reconstruction algorithms are prone to artifacts in handling raw images with low signal-to-noise ratios (SNRs). Deep-learning (DL)-based methods can address this challenge but may lead to degradation and hallucinations. By combining the physical inversion model with a total deep variation (TDV) regularization, we propose a hybrid restoration method (TDV-SIM) that outperforms conventional or DL methods in suppressing artifacts and hallucinations while maintaining resolutions. We demonstrate the performance superiority of TDV-SIM in restoring actin filaments, endoplasmic reticulum, and mitochondrial cristae from extremely low SNR raw images. Thus TDV-SIM represents the ideal method for prolonged live-cell SR imaging with minimal exposure and photodamage. Overall, TDV-SIM proves the power of integrating model-based reconstruction methods with DL ones, possibly leading to the rapid exploration of similar strategies in high-fidelity reconstructions of other microscopy methods.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A single-cell massively parallel reporter assay detects cell-type-specific gene regulation</title>
+      <link>https://example.com/article/36635387/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36635387/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Massively parallel reporter gene assays are key tools in regulatory genomics but cannot be used to identify cell-type-specific regulatory elements without performing assays serially across different cell types. To address this problem, we developed a single-cell massively parallel reporter assay (scMPRA) to measure the activity of libraries of cis-regulatory sequences (CRSs) across multiple cell types simultaneously. We assayed a library of core promoters in a mixture of HEK293 and K562 cells and showed that scMPRA is a reproducible, highly parallel, single-cell reporter gene assay that detects cell-type-specific cis-regulatory activity. We then measured a library of promoter variants across multiple cell types in live mouse retinas and showed that subtle genetic variants can produce cell-type-specific effects on cis-regulatory activity. We anticipate that scMPRA will be widely applicable for studying the role of CRSs across diverse cell types.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1407,31 +1482,6 @@
       <guid>https://example.com/article/36446858/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hepatocytes are very difficult to expand in vitro. A few studies have demonstrated that chemical cocktails with growth factors or Wnt ligands can support long-term expansion of hepatocytes via dedifferentiation. However, the culture conditions are complex, and clonal expansion of hepatic progenitors with full differentiation capacity are rarely reported. Here, we discover IL6, combined with EGF and HGF, promotes long-term expansion (&amp;gt;30 passages in ~150 days with theoretical expansion of ~1035 times) of primary mouse hepatocytes in vitro in simple 2D culture, by converting hepatocytes into induced hepatic progenitor cells (iHPCs), which maintain the capacity of differentiation into hepatocytes. IL6 also supports the establishment of single hepatocyte-derived iHPC clones. The summation of the downstream STAT3, ERK and AKT pathways induces a number of transcription factors which support rapid growth. This physiological and simple way may provide ideas for culturing previously difficult-to-culture cell types and support their future applications.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
-      <link>https://example.com/article/22120467/</link>
-      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/22120467/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between -150 mV and +150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio &amp;gt;10. Arch(D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch(D95N) also resolved individual action potentials. Microbial rhodopsin-based voltage indicators promise to enable optical interrogation of complex neural circuits and electrophysiology in systems for which electrode-based techniques are challenging.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2676,6 +2726,131 @@
     </item>
     
     <item>
+      <title>Analysis of extracellular vesicle DNA at the single-vesicle level by nano-flow cytometry</title>
+      <link>https://example.com/article/35373518/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35373518/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It has been demonstrated recently that extracellular vesicles (EVs) carry DNA; however, many fundamental features of DNA in EVs (EV-DNA) remain elusive. In this study, a laboratory-built nano-flow cytometer (nFCM) that can detect single EVs as small as 40 nm in diameter and single DNA fragments of 200 bp upon SYTO 16 staining was used to study EV-DNA at the single-vesicle level. Through simultaneous side-scatter and fluorescence (FL) detection of single particles and with the combination of enzymatic treatment, present study revealed that: (1) naked DNA or DNA associated with non-vesicular entities is abundantly presented in EV samples prepared from cell culture medium by ultracentrifugation; (2) the quantity of EV-DNA in individual EVs exhibits large heterogeneity and the population of DNA positive (DNA&lt;sup&gt;+&lt;/sup&gt;) EVs varies from 30% to 80% depending on the cell type; (3) external EV-DNA is mainly localized on relatively small size EVs (&lt;em&gt;e.g.&lt;/em&gt; &amp;lt;100 nm for HCT-15 cell line) and the secretion of external DNA&lt;sup&gt;+&lt;/sup&gt; EVs can be significantly reduced by exosome secretion pathway inhibition; (4) internal EV-DNA is mainly packaged inside the lumen of relatively large EVs (&lt;em&gt;e.g.&lt;/em&gt; 80-200 nm for HCT-15 cell line); (5) double-stranded DNA (dsDNA) is the predominant form of both the external and internal EV-DNA; (6) histones (H3) are not found in EVs, and EV-DNA is not associated with histone proteins and (7) genotoxic drug induces an enhanced release of DNA&lt;sup&gt;+&lt;/sup&gt; EVs, and the number of both external DNA&lt;sup&gt;+&lt;/sup&gt; EVs and internal DNA&lt;sup&gt;+&lt;/sup&gt; EVs as well as the DNA content in single EVs increase significantly. This study provides direct and conclusive experimental evidence for an in-depth understanding of how DNA is associated with EVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Bioprinting of Patient-Derived Organoids for Predicting Cancer Therapy Responses</title>
+      <link>https://example.com/article/35358375/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35358375/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer models, which are biologically representative of patient tumors, can predict the treatment responses and help determine the most appropriate cancer treatment for individual patients. Here, a point-of-care testing system called acoustically bioprinted patient-derived microtissues (PDMs) that can model cancer invasion and predict treatment response in individual patients with colorectal cancer (CRC), is reported. The PDMs are composed of patient-derived colorectal tumors and healthy organoids which can be precisely arranged by acoustic bioprinting approach for recapulating primary tissue&amp;rsquo;s architecture. Particularly, these tumor organoids can be efficiently generated and can apprehend histological, genomic, and phenotypical characteristics of primary tumors. Consequently, these PDMs allow physiologically relevant in vitro drug (5-fluorouracil) screens, thus predicting the paired patient&amp;rsquo;s responses to chemotherapy. A correlation between organoid invasion speed and normalized spreading speed of the paired patients is further established. It provides a quantitative indicator to help doctors make better decisions on ultimate anus-preserving operation for extremely low CRC patients. Thus, by combing acoustic bioprinting and organoid cultures, this method may open an avenue to establish complex 3D tissue models for precision and personalized medicine.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Biorecognition Layer Based On Biotin-Containing [1]Benzothieno[3,2- b][1]benzothiophene Derivative for Biosensing by Electrolyte-Gated Organic Field-Effect Transistors</title>
+      <link>https://example.com/article/35357127/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35357127/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Requirements of speed and simplicity in testing stimulate the development of modern biosensors. Electrolyte-gated organic field-effect transistors (EGOFETs) are a promising platform for ultrasensitive, fast, and reliable detection of biological molecules for low-cost, point-of-care bioelectronic sensing. Biosensitivity of the EGOFET devices can be achieved by modification with receptors of one of the electronic active interfaces of the transistor gate or organic semiconductor surface. Functionalization of the latter gives the advantage in the creation of a planar architecture and compact devices for lab-on-chip design. Herein, we propose a universal, fast, and simple technique based on doctor blading and Langmuir-Schaefer methods for functionalization of the semiconducting surface of C8-BTBT-C8, allowing the fabrication of a large-scale biorecognition layer based on the novel functional derivative of BTBT-containing biotin fragments as a foundation for further biomodification. The fabricated devices are very efficient and operate stably in phosphate-buffered saline solution with high reproducibility of electrical properties in the EGOFET regime. The development of biorecognition properties of the proposed biolayer is based on the streptavidin-biotin interactions between the consecutive layers and can be used for a wide variety of receptors. As a proof-of-concept, we demonstrate the specific response of the BTBT-based biorecognition layer in EGOFETs to influenza A virus (H7N1 strain). The elaborated approach to biorecognition layer formation is appropriate but not limited to aptamer-based receptor molecules and can be further applied for fabricating several biosensors for various analytes on one substrate and paves the way for &amp;ldquo;electronic tongue&amp;rdquo; creation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting Xist with compounds that disrupt RNA structure and X inactivation</title>
+      <link>https://example.com/article/35355011/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35355011/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although more than 98% of the human genome is non-coding, nearly all of the drugs on the market target one of about 700 disease-related proteins. The historical reluctance to invest in non-coding RNA stems partly from requirements for drug targets to adopt a single stable conformation. Most RNAs can adopt several conformations of similar stabilities. RNA structures also remain challenging to determine. Nonetheless, an increasing number of diseases are now being attributed to non-coding RNA and the ability to target them would vastly expand the chemical space for drug development. Here we devise a screening strategy and identify small molecules that bind the non-coding RNA prototype Xist. The X1 compound has drug-like properties and binds specifically the RepA motif of Xist in vitro and in vivo. Small-angle X-ray scattering analysis reveals that RepA can adopt multiple conformations but favours one structure in solution. X1 binding reduces the conformational space of RepA, displaces cognate interacting protein factors (PRC2 and SPEN), suppresses histone H3K27 trimethylation, and blocks initiation of X-chromosome inactivation. X1 inhibits cell differentiation and growth in a female-specific manner. Thus, RNA can be systematically targeted by drug-like compounds that disrupt RNA structure and epigenetic function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>X-ray Dark-Field CT for Early Detection of Radiation-induced Lung Injury in a Murine Model</title>
+      <link>https://example.com/article/35348380/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35348380/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Online supplemental material is available for this article&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Dendritic branch structure compartmentalizes voltage-dependent calcium influx in cortical layer 2/3 pyramidal cells</title>
       <link>https://example.com/article/35319464/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
@@ -2701,12 +2876,111 @@
     </item>
     
     <item>
+      <title>Multifunction-Harnessed Afterglow Nanosensor for Molecular Imaging of Acute Kidney Injury In Vivo</title>
+      <link>https://example.com/article/35315219/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35315219/</guid>
+      <description>&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Fast and sensitive detection of SARS-CoV-2 RNA using suboptimal protospacer adjacent motifs for Cas12a</title>
       <link>https://example.com/article/35314803/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35314803/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CRISPR-based assays for the detection of nucleic acids are highly specific, yet they are not fast, sensitive or easy to use. Here we report a one-step fluorescence assay for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA in nasopharyngeal samples, with a sample-to-answer time of less than 20 minutes and a sensitivity comparable to that of quantitative real-time PCR with reverse transcription (RT-qPCR). The assay uses suboptimal protospacer adjacent motifs, allowing for flexibility in the design of CRISPR RNAs and slowing down the kinetics of Cas12a-mediated collateral cleavage of fluorescent DNA reporters and cis cleavage of substrates, which leads to stronger fluorescence owing to the accumulation of amplicons generated by isothermal recombinase polymerase amplification. In a set of 204 nasopharyngeal samples with RT-qPCR cycle thresholds ranging from 18.1 to 35.8, the assay detected SARS-CoV-2 with a sensitivity of 94.2% and a specificity of 100%, without the need for RNA extraction. Rapid and sensitive assays for nucleic acid testing in one pot that allow for flexibility in assay design may aid the development of reliable point-of-care nucleic acid testing.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>mSRFR: a machine learning model using microalgal signature features for ncRNA classification</title>
+      <link>https://example.com/article/35313925/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35313925/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This work presents mSRFR (microalgae SMOTE Random Forest Relief model), a classification tool for noncoding RNAs (ncRNAs) in microalgae, including green algae, diatoms, golden algae, and cyanobacteria. First, the SMOTE technique was applied to address the challenge of imbalanced data due to the different numbers of microalgae ncRNAs from different species in the EBI RNA-central database. Then the top 20 significant features from a total of 106 features, including sequence-based, secondary structure, base-pair, and triplet sequence-structure features, were selected using the Relief feature selection method. Next, ten-fold cross-validation was applied to choose a classifier algorithm with the highest performance among Support Vector Machine, Random Forest, Decision Tree, Naïve Bayes, K-nearest Neighbor, and Neural Network, based on the receiver operating characteristic (ROC) area. The results showed that the Random Forest classifier achieved the highest ROC area of 0.992. Then, the Random Forest algorithm was selected and compared with other tools, including RNAcon, CPC, CPC2, CNCI, and CPPred. Our model achieved a high accuracy of about 97% and a low false-positive rate of about 2% in predicting the test dataset of microalgae. Furthermore, the top features from Relief revealed that the %GA dinucleotide is a signature feature of microalgal ncRNAs when compared to &lt;em&gt;Escherichia coli&lt;/em&gt;, &lt;em&gt;Saccharomyces cerevisiae&lt;/em&gt;, &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;, and &lt;em&gt;Homo sapiens&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Analysis, Exploration, and Visualization of RNA-Seq Data with SeqCVIBE</title>
+      <link>https://example.com/article/35314664/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35314664/</guid>
+      <description>&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Near-infrared fluorescence imaging during ex vivo lung perfusion: Noninvasive real-time evaluation of regional lung perfusion and edema</title>
+      <link>https://example.com/article/35382935/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35382935/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; &lt;em&gt;Ex vivo&lt;/em&gt; lung perfusion (EVLP) is an excellent platform to evaluate donor lung function before transplantation, but novel methods are needed to accurately confirm transplant quality. Near-infrared fluorescence (NIRF) imaging with indocyanine green (ICG) has been used in various clinical perioperative applications to evaluate tissue perfusion. We used NIRF imaging during pig and human EVLP to evaluate donor lung perfusion and edema.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Pig lungs with various degrees of lung injury (n = 10) and human lungs rejected from clinical transplantation (n = 3) were imaged during EVLP using intravascular ICG and a SPY Elite (Stryker) NIRF imaging unit. Optimal ICG and imaging conditions, and perfusion and edema quantification methods, were established. Pig lung transplants with extended graft preservation (n = 5) and control native lungs (n = 6) were also imaged.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A single ICG dose resulted in sustained donor lung NIRF throughout the EVLP. Even and homogenous ICG signal was demonstrated in areas of normal lung. Low NIRF was present in regions with poor tissue perfusion, and rapid, intense ICG accumulation occurred in damaged and edematous areas. Segmental perfusion defects were common in the peripheral and elevated regions of the lungs, and serial imaging showed gradual perfusion recovery during EVLP. Impaired microvascular reperfusion, indicated by a decreased NIRF ingress rate, was detected in transplanted pig lungs early after reperfusion.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; NIRF imaging enables noninvasive real-time evaluation of lung perfusion and edema during EVLP. Prospective clinical studies are needed to determine the role of NIRF imaging in donor lung assessment and selection, and prediction of posttransplant outcomes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2764,6 +3038,35 @@
       <guid>https://example.com/article/34857954/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The endometrium, the mucosal lining of the uterus, undergoes dynamic changes throughout the menstrual cycle in response to ovarian hormones. We have generated dense single-cell and spatial reference maps of the human uterus and three-dimensional endometrial organoid cultures. We dissect the signaling pathways that determine cell fate of the epithelial lineages in the lumenal and glandular microenvironments. Our benchmark of the endometrial organoids reveals the pathways and cell states regulating differentiation of the secretory and ciliated lineages both in vivo and in vitro. In vitro downregulation of WNT or NOTCH pathways increases the differentiation efficiency along the secretory and ciliated lineages, respectively. We utilize our cellular maps to deconvolute bulk data from endometrial cancers and endometriotic lesions, illuminating the cell types dominating in each of these disorders. These mechanistic insights provide a platform for future development of treatments for common conditions including endometriosis and endometrial carcinoma.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A DNA Nanoraft-Based Cytokine Delivery Platform for Alleviation of Acute Kidney Injury</title>
+      <link>https://example.com/article/34723467/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34723467/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Correction to “&lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acsnano.2c02862&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;A DNA Nanoraft-Based Cytokine Delivery Platform for Alleviation of Acute Kidney Injury&lt;/em&gt;&lt;/a&gt;”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cytokine immunotherapy represents an attractive strategy to stimulate robust immune responses for renal injury repair in ischemic acute kidney injury (AKI). However, its clinical application is hindered by its nonspecificity to kidney, short circulation half-life, and severe side effects. An ideal cytokine immunotherapy for AKI requires preferential delivery of cytokines with accurate dosage to the kidney and sustained-release of cytokines to stimulate the immune responses. Herein, we developed a DNA nanoraft cytokine by precisely arranging interleukin-33 (IL-33) nanoarray on rectangle DNA origami, through which IL-33 can be preferentially delivered to the kidney for alleviation of AKI. A nanoraft carrying precisely quantified IL-33 predominantly accumulated in the kidney for up to 48 h. Long-term sustained-release of IL-33 from nanoraft induced rapid expansion of type 2 innate lymphoid cells (ILC 2s) and regulatory T cells (Tregs) and achieved better treatment efficiency compared to free IL-33 treatment. Thus, our study demonstrates that a nanoraft can serve as a structurally well-defined delivery platform for cytokine immunotherapy in ischemic AKI and other renal diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3837,6 +4140,31 @@
       <guid>https://example.com/article/24391999/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Development of improved fluorescent voltage indicators is a key challenge in neuroscience, but progress has been hampered by the low throughput of patch-clamp characterization. We introduce a line of non-fluorescent HEK cells that stably express NaV 1.3 and KIR 2.1 and generate spontaneous electrical action potentials. These cells enable rapid, electrode-free screening of speed and sensitivity of voltage sensitive dyes or fluorescent proteins on a standard fluorescence microscope. We screened a small library of mutants of archaerhodopsin 3 (Arch) in spiking HEK cells and identified two mutants with greater voltage-sensitivity than found in previously published Arch voltage indicators.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
+      <link>https://example.com/article/22120467/</link>
+      <pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22120467/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between -150 mV and +150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio &amp;gt;10. Arch(D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch(D95N) also resolved individual action potentials. Microbial rhodopsin-based voltage indicators promise to enable optical interrogation of complex neural circuits and electrophysiology in systems for which electrode-based techniques are challenging.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

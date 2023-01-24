@@ -38,31 +38,6 @@
     </item>
     
     <item>
-      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
-      <link>https://example.com/article/22120467/</link>
-      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/22120467/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between -150 mV and +150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio &amp;gt;10. Arch(D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch(D95N) also resolved individual action potentials. Microbial rhodopsin-based voltage indicators promise to enable optical interrogation of complex neural circuits and electrophysiology in systems for which electrode-based techniques are challenging.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
       <title>Optogenetic stimulation of pre-Bötzinger complex reveals novel circuit interactions in swallowing-breathing coordination</title>
       <link>https://example.com/article/35858334/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
@@ -225,6 +200,31 @@
       <guid>https://example.com/article/24391999/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Development of improved fluorescent voltage indicators is a key challenge in neuroscience, but progress has been hampered by the low throughput of patch-clamp characterization. We introduce a line of non-fluorescent HEK cells that stably express NaV 1.3 and KIR 2.1 and generate spontaneous electrical action potentials. These cells enable rapid, electrode-free screening of speed and sensitivity of voltage sensitive dyes or fluorescent proteins on a standard fluorescence microscope. We screened a small library of mutants of archaerhodopsin 3 (Arch) in spiking HEK cells and identified two mutants with greater voltage-sensitivity than found in previously published Arch voltage indicators.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
+      <link>https://example.com/article/22120467/</link>
+      <pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/22120467/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between -150 mV and +150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio &amp;gt;10. Arch(D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch(D95N) also resolved individual action potentials. Microbial rhodopsin-based voltage indicators promise to enable optical interrogation of complex neural circuits and electrophysiology in systems for which electrode-based techniques are challenging.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

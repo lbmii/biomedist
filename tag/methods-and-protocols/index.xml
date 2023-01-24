@@ -5,12 +5,87 @@
     <link>https://example.com/tag/methods-and-protocols/</link>
       <atom:link href="https://example.com/tag/methods-and-protocols/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods and Protocols</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Methods and Protocols</title>
       <link>https://example.com/tag/methods-and-protocols/</link>
     </image>
+    
+    <item>
+      <title>Mapping nucleolus-associated chromatin interactions using nucleolus Hi-C reveals pattern of heterochromatin interactions</title>
+      <link>https://example.com/article/36681699/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36681699/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As the largest substructures in the nucleus, nucleoli are the sites of ribosome biogenesis. Increasing evidence indicates that nucleoli play a key role in the organization of 3D genome architecture, but systematic studies of nucleolus-associated chromatin interactions are lacking. Here, we developed a nucleolus Hi-C (nHi-C) experimental technique to enrich nucleolus-associated chromatin interactions. Using the nHi-C experiment, we identify 264 high-confidence nucleolus-associated domains (hNADs) that form strong heterochromatin interactions associated with the nucleolus and consist of 24% of the whole genome in HeLa cells. Based on the global hNAD inter-chromosomal interactions, we find five nucleolar organizer region (NOR)-bearing chromosomes formed into two clusters that show different interaction patterns, which is concordant with their epigenetic states and gene expression levels. hNADs can be divided into three groups that display distinct cis/trans interaction signals, interaction frequencies associated with nucleoli, distance from the centromeres, and overlap percentage with lamina-associated domains (LADs). Nucleolus disassembly caused by Actinomycin D (ActD) significantly decreases the strength of hNADs and affects compartment/TAD strength genome-wide. In summary, our results provide a global view of heterochromatin interactions organized around nucleoli and demonstrate that nucleoli act as an inactive inter-chromosomal hub to shape both compartments and TADs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SGPPI: structure-aware prediction of protein-protein interactions in rigorous conditions with graph convolutional network</title>
+      <link>https://example.com/article/36682013/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36682013/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While deep learning (DL)-based models have emerged as powerful approaches to predict protein-protein interactions (PPIs), the reliance on explicit similarity measures (e.g. sequence similarity and network neighborhood) to known interacting proteins makes these methods ineffective in dealing with novel proteins. The advent of AlphaFold2 presents a significant opportunity and also a challenge to predict PPIs in a straightforward way based on monomer structures while controlling bias from protein sequences. In this work, we established Structure and Graph-based Predictions of Protein Interactions (SGPPI), a structure-based DL framework for predicting PPIs, using the graph convolutional network. In particular, SGPPI focused on protein patches on the protein-protein binding interfaces and extracted the structural, geometric and evolutionary features from the residue contact map to predict PPIs. We demonstrated that our model outperforms traditional machine learning methods and state-of-the-art DL-based methods using non-representation-bias benchmark datasets. Moreover, our model trained on human dataset can be reliably transferred to predict yeast PPIs, indicating that SGPPI can capture converging structural features of protein interactions across various species.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A single-cell massively parallel reporter assay detects cell-type-specific gene regulation</title>
+      <link>https://example.com/article/36635387/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36635387/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Massively parallel reporter gene assays are key tools in regulatory genomics but cannot be used to identify cell-type-specific regulatory elements without performing assays serially across different cell types. To address this problem, we developed a single-cell massively parallel reporter assay (scMPRA) to measure the activity of libraries of cis-regulatory sequences (CRSs) across multiple cell types simultaneously. We assayed a library of core promoters in a mixture of HEK293 and K562 cells and showed that scMPRA is a reproducible, highly parallel, single-cell reporter gene assay that detects cell-type-specific cis-regulatory activity. We then measured a library of promoter variants across multiple cell types in live mouse retinas and showed that subtle genetic variants can produce cell-type-specific effects on cis-regulatory activity. We anticipate that scMPRA will be widely applicable for studying the role of CRSs across diverse cell types.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Metagenomic sequencing combined with flow cytometry facilitated a novel microbial risk assessment framework for bacterial pathogens in municipal wastewater without cultivation</title>
@@ -1068,12 +1143,211 @@
     </item>
     
     <item>
+      <title>Analysis of extracellular vesicle DNA at the single-vesicle level by nano-flow cytometry</title>
+      <link>https://example.com/article/35373518/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35373518/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It has been demonstrated recently that extracellular vesicles (EVs) carry DNA; however, many fundamental features of DNA in EVs (EV-DNA) remain elusive. In this study, a laboratory-built nano-flow cytometer (nFCM) that can detect single EVs as small as 40 nm in diameter and single DNA fragments of 200 bp upon SYTO 16 staining was used to study EV-DNA at the single-vesicle level. Through simultaneous side-scatter and fluorescence (FL) detection of single particles and with the combination of enzymatic treatment, present study revealed that: (1) naked DNA or DNA associated with non-vesicular entities is abundantly presented in EV samples prepared from cell culture medium by ultracentrifugation; (2) the quantity of EV-DNA in individual EVs exhibits large heterogeneity and the population of DNA positive (DNA&lt;sup&gt;+&lt;/sup&gt;) EVs varies from 30% to 80% depending on the cell type; (3) external EV-DNA is mainly localized on relatively small size EVs (&lt;em&gt;e.g.&lt;/em&gt; &amp;lt;100 nm for HCT-15 cell line) and the secretion of external DNA&lt;sup&gt;+&lt;/sup&gt; EVs can be significantly reduced by exosome secretion pathway inhibition; (4) internal EV-DNA is mainly packaged inside the lumen of relatively large EVs (&lt;em&gt;e.g.&lt;/em&gt; 80-200 nm for HCT-15 cell line); (5) double-stranded DNA (dsDNA) is the predominant form of both the external and internal EV-DNA; (6) histones (H3) are not found in EVs, and EV-DNA is not associated with histone proteins and (7) genotoxic drug induces an enhanced release of DNA&lt;sup&gt;+&lt;/sup&gt; EVs, and the number of both external DNA&lt;sup&gt;+&lt;/sup&gt; EVs and internal DNA&lt;sup&gt;+&lt;/sup&gt; EVs as well as the DNA content in single EVs increase significantly. This study provides direct and conclusive experimental evidence for an in-depth understanding of how DNA is associated with EVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Bioprinting of Patient-Derived Organoids for Predicting Cancer Therapy Responses</title>
+      <link>https://example.com/article/35358375/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35358375/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancer models, which are biologically representative of patient tumors, can predict the treatment responses and help determine the most appropriate cancer treatment for individual patients. Here, a point-of-care testing system called acoustically bioprinted patient-derived microtissues (PDMs) that can model cancer invasion and predict treatment response in individual patients with colorectal cancer (CRC), is reported. The PDMs are composed of patient-derived colorectal tumors and healthy organoids which can be precisely arranged by acoustic bioprinting approach for recapulating primary tissue&amp;rsquo;s architecture. Particularly, these tumor organoids can be efficiently generated and can apprehend histological, genomic, and phenotypical characteristics of primary tumors. Consequently, these PDMs allow physiologically relevant in vitro drug (5-fluorouracil) screens, thus predicting the paired patient&amp;rsquo;s responses to chemotherapy. A correlation between organoid invasion speed and normalized spreading speed of the paired patients is further established. It provides a quantitative indicator to help doctors make better decisions on ultimate anus-preserving operation for extremely low CRC patients. Thus, by combing acoustic bioprinting and organoid cultures, this method may open an avenue to establish complex 3D tissue models for precision and personalized medicine.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>X-ray Dark-Field CT for Early Detection of Radiation-induced Lung Injury in a Murine Model</title>
+      <link>https://example.com/article/35348380/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35348380/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Online supplemental material is available for this article&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Dendritic branch structure compartmentalizes voltage-dependent calcium influx in cortical layer 2/3 pyramidal cells</title>
       <link>https://example.com/article/35319464/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35319464/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Back-propagating action potentials (bAPs) regulate synaptic plasticity by evoking voltage-dependent calcium influx throughout dendrites. Attenuation of bAP amplitude in distal dendritic compartments alters plasticity in a location-specific manner by reducing bAP-dependent calcium influx. However, it is not known if neurons exhibit branch-specific variability in bAP-dependent calcium signals, independent of distance-dependent attenuation. Here, we reveal that bAPs fail to evoke calcium influx through voltage-gated calcium channels (VGCCs) in a specific population of dendritic branches in mouse cortical layer 2/3 pyramidal cells, despite evoking substantial VGCC-mediated calcium influx in sister branches. These branches contain VGCCs and successfully propagate bAPs in the absence of synaptic input; nevertheless, they fail to exhibit bAP-evoked calcium influx due to a branch-specific reduction in bAP amplitude. We demonstrate that these branches have more elaborate branch structure compared to sister branches, which causes a local reduction in electrotonic impedance and bAP amplitude. Finally, we show that bAPs still amplify synaptically-mediated calcium influx in these branches because of differences in the voltage-dependence and kinetics of VGCCs and NMDA-type glutamate receptors. Branch-specific compartmentalization of bAP-dependent calcium signals may provide a mechanism for neurons to diversify synaptic tuning across the dendritic tree.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multifunction-Harnessed Afterglow Nanosensor for Molecular Imaging of Acute Kidney Injury In Vivo</title>
+      <link>https://example.com/article/35315219/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35315219/</guid>
+      <description>&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>mSRFR: a machine learning model using microalgal signature features for ncRNA classification</title>
+      <link>https://example.com/article/35313925/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35313925/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This work presents mSRFR (microalgae SMOTE Random Forest Relief model), a classification tool for noncoding RNAs (ncRNAs) in microalgae, including green algae, diatoms, golden algae, and cyanobacteria. First, the SMOTE technique was applied to address the challenge of imbalanced data due to the different numbers of microalgae ncRNAs from different species in the EBI RNA-central database. Then the top 20 significant features from a total of 106 features, including sequence-based, secondary structure, base-pair, and triplet sequence-structure features, were selected using the Relief feature selection method. Next, ten-fold cross-validation was applied to choose a classifier algorithm with the highest performance among Support Vector Machine, Random Forest, Decision Tree, Naïve Bayes, K-nearest Neighbor, and Neural Network, based on the receiver operating characteristic (ROC) area. The results showed that the Random Forest classifier achieved the highest ROC area of 0.992. Then, the Random Forest algorithm was selected and compared with other tools, including RNAcon, CPC, CPC2, CNCI, and CPPred. Our model achieved a high accuracy of about 97% and a low false-positive rate of about 2% in predicting the test dataset of microalgae. Furthermore, the top features from Relief revealed that the %GA dinucleotide is a signature feature of microalgal ncRNAs when compared to &lt;em&gt;Escherichia coli&lt;/em&gt;, &lt;em&gt;Saccharomyces cerevisiae&lt;/em&gt;, &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;, and &lt;em&gt;Homo sapiens&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Histone Extraction from Human Articular Cartilage for the Study of Epigenetic Regulation in Osteoarthritis</title>
+      <link>https://example.com/article/35328777/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35328777/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Osteoarthritis (OA) is a chronic disease that affects articular cartilage, causing its degeneration. Although OA is one of the most prevalent pathologies globally, there are no definitive treatments available. Recently, research has focused on elucidating the complex interplay that takes place between inflammatory processes and epigenetic regulation, showing that histone post-translational modifications (PTMs) can exert a pronounced effect on the expression of OA-related genes. OA chondrocytes enhance the production of interleukin 1β (IL-1β) and interleukin 8 (IL-8), which are epigenetically regulated. These cytokines upregulate the synthesis of matrix metalloproteinases (MMPs) and aggrecanases, which promote the extracellular matrix (ECM) destruction. This motivates the study of histone PTMs to investigate the epigenetic regulation of proinflammatory molecules, but the absence of specific protocols to extract histones from human articular cartilage has complicated this task. The lack of effective methods can be explained by the structural complexity and low cellularity of this tissue, which are responsible for the biomechanical properties that allow the movement of the joint but also complicate histone isolation. Here, we provide a histone extraction procedure specifically adapted for cryopreserved human articular cartilage that can be useful to understand epigenetic regulation in OA and accelerate the search for novel strategies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Analysis, Exploration, and Visualization of RNA-Seq Data with SeqCVIBE</title>
+      <link>https://example.com/article/35314664/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35314664/</guid>
+      <description>&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Near-infrared fluorescence imaging during ex vivo lung perfusion: Noninvasive real-time evaluation of regional lung perfusion and edema</title>
+      <link>https://example.com/article/35382935/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35382935/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; &lt;em&gt;Ex vivo&lt;/em&gt; lung perfusion (EVLP) is an excellent platform to evaluate donor lung function before transplantation, but novel methods are needed to accurately confirm transplant quality. Near-infrared fluorescence (NIRF) imaging with indocyanine green (ICG) has been used in various clinical perioperative applications to evaluate tissue perfusion. We used NIRF imaging during pig and human EVLP to evaluate donor lung perfusion and edema.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Pig lungs with various degrees of lung injury (n = 10) and human lungs rejected from clinical transplantation (n = 3) were imaged during EVLP using intravascular ICG and a SPY Elite (Stryker) NIRF imaging unit. Optimal ICG and imaging conditions, and perfusion and edema quantification methods, were established. Pig lung transplants with extended graft preservation (n = 5) and control native lungs (n = 6) were also imaged.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A single ICG dose resulted in sustained donor lung NIRF throughout the EVLP. Even and homogenous ICG signal was demonstrated in areas of normal lung. Low NIRF was present in regions with poor tissue perfusion, and rapid, intense ICG accumulation occurred in damaged and edematous areas. Segmental perfusion defects were common in the peripheral and elevated regions of the lungs, and serial imaging showed gradual perfusion recovery during EVLP. Impaired microvascular reperfusion, indicated by a decreased NIRF ingress rate, was detected in transplanted pig lungs early after reperfusion.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; NIRF imaging enables noninvasive real-time evaluation of lung perfusion and edema during EVLP. Prospective clinical studies are needed to determine the role of NIRF imaging in donor lung assessment and selection, and prediction of posttransplant outcomes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1156,6 +1430,35 @@
       <guid>https://example.com/article/34735114/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Metabolomics has been shown to be promising for diverse applications in basic, applied, and clinical research. These applications often require large-scale data, and while the technology to perform such experiments exists, downstream analysis remains challenging. Different tools exist in a variety of ecosystems, but they often do not scale to large data and are not integrated into a single coherent workflow. Moreover, the outcome of processing is very sensitive to a multitude of algorithmic parameters. Hence, parameter optimization is not only critical but also challenging. We present &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt;, a scalable and yet easy-to-use workflow for processing untargeted LC-MS data in metabolomics and lipidomics. The capabilities of &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; include (1) state-of-the-art peak-picking algorithms, (2) a new automated parameter optimization routine, (3) an efficient sample alignment procedure, (4) gap filling by data recursion, and (5) the extraction of consolidated MS&lt;sup&gt;2&lt;/sup&gt; and an isotopic pattern across all samples. Importantly, both the workflow and the parameter optimization were designed for robust analysis of untargeted studies with thousands of individual LC-MS&lt;sup&gt;n&lt;/sup&gt; runs. We compared &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; to two state-of-the-art workflows based on openMS and XCMS. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; was able to detect and align more reproducible features in all data sets considered. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; scaled well, and its analysis of a data set with 2500 LC-MS files consumed 40% less memory and was 6 times faster than that using the XCMS-based workflow. &lt;a href=&#34;https://github.com/zamboni-lab/SLAW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLAW&lt;/a&gt; also extracted 2-fold more isotopic patterns and MS&lt;sup&gt;2&lt;/sup&gt; spectra, which in 60% of the cases led to positive matches against a spectral library.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A DNA Nanoraft-Based Cytokine Delivery Platform for Alleviation of Acute Kidney Injury</title>
+      <link>https://example.com/article/34723467/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34723467/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Correction to “&lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acsnano.2c02862&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;A DNA Nanoraft-Based Cytokine Delivery Platform for Alleviation of Acute Kidney Injury&lt;/em&gt;&lt;/a&gt;”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cytokine immunotherapy represents an attractive strategy to stimulate robust immune responses for renal injury repair in ischemic acute kidney injury (AKI). However, its clinical application is hindered by its nonspecificity to kidney, short circulation half-life, and severe side effects. An ideal cytokine immunotherapy for AKI requires preferential delivery of cytokines with accurate dosage to the kidney and sustained-release of cytokines to stimulate the immune responses. Herein, we developed a DNA nanoraft cytokine by precisely arranging interleukin-33 (IL-33) nanoarray on rectangle DNA origami, through which IL-33 can be preferentially delivered to the kidney for alleviation of AKI. A nanoraft carrying precisely quantified IL-33 predominantly accumulated in the kidney for up to 48 h. Long-term sustained-release of IL-33 from nanoraft induced rapid expansion of type 2 innate lymphoid cells (ILC 2s) and regulatory T cells (Tregs) and achieved better treatment efficiency compared to free IL-33 treatment. Thus, our study demonstrates that a nanoraft can serve as a structurally well-defined delivery platform for cytokine immunotherapy in ischemic AKI and other renal diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1950,6 +2253,31 @@
       <guid>https://example.com/article/28114287/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Single-cell gene expression studies promise to reveal rare cell types and cryptic states, but the high variability of single-cell RNA-seq measurements frustrates efforts to assay transcriptional differences between cells. We introduce the Census algorithm to convert relative RNA-seq expression levels into relative transcript counts without the need for experimental spike-in controls. Analyzing changes in relative transcript counts led to dramatic improvements in accuracy compared to normalized read counts and enabled new statistical tests for identifying developmentally regulated genes. Census counts can be analyzed with widely used regression techniques to reveal changes in cell-fate-dependent gene expression, splicing patterns and allelic imbalances. We reanalyzed single-cell data from several developmental and disease studies, and demonstrate that Census enabled robust analysis at multiple layers of gene regulation. Census is freely available through our updated single-cell analysis toolkit, Monocle 2.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PUMILIO proteins promote colorectal cancer growth via suppressing p21</title>
+      <link>https://example.com/article/35338151/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35338151/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PUMILIO (PUM) proteins belong to the highly conserved PUF family post-transcriptional regulators involved in diverse biological processes. However, their function in carcinogenesis remains under-explored. Here, we report that &lt;em&gt;Pum1&lt;/em&gt; and &lt;em&gt;Pum2&lt;/em&gt; display increased expression in human colorectal cancer (CRC). Intestine-specific knockout of &lt;em&gt;Pum1&lt;/em&gt; and &lt;em&gt;Pum2&lt;/em&gt; in mice significantly inhibits the progression of colitis-associated cancer in the AOM/DSS model. Knockout or knockdown of &lt;em&gt;Pum1&lt;/em&gt; and/or &lt;em&gt;Pum2&lt;/em&gt; in human CRC cells result in a significant decrease in the tumorigenicity and delayed G1/S transition. We identify p21/Cdkn1a as a direct target of PUM1. Abrogation of the PUM1 binding site in the p21 mRNA also results in decreased cancer cell growth and delayed G1/S transition. Furthermore, intravenous injection of nanoparticle-encapsulated anti-&lt;em&gt;Pum1&lt;/em&gt; and &lt;em&gt;Pum2&lt;/em&gt; siRNAs reduces colorectal tumor growth in murine orthotopic colon cancer models. These findings reveal the requirement of PUM proteins for CRC progression and their potential as therapeutic targets.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

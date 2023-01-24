@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snoRNA | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/snorna/</link>
+      <atom:link href="https://example.com/tag/snorna/index.xml" rel="self" type="application/rss+xml" />
+    <description>snoRNA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>snoRNA</title>
+      <link>https://example.com/tag/snorna/</link>
+    </image>
+    
+    <item>
+      <title>Chromatin-associated orphan snoRNA regulates DNA damage-mediated differentiation via a non-canonical complex</title>
+      <link>https://example.com/article/35354054/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35354054/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A subset of orphan chromatin-associated snoRNAs (casnoRNAs) is identified&lt;/li&gt;
+&lt;li&gt;SNORA73 deregulation impacts genome stability and maintains differentiation block&lt;/li&gt;
+&lt;li&gt;The 5′ non-canonical structure is critical for SNORA73 function and PARP1 binding&lt;/li&gt;
+&lt;li&gt;SNORA73 assembles a non-canonical snoRNP to inhibit PARP1 PARylation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Small nucleolar RNAs (snoRNAs) are commonly acknowledged as a class of homogeneous non-coding RNAs that guide ribosomal RNA modifications. However, snoRNAs referred to as orphans have largely unknown functions. Here, we systematically profile chromatin-associated snoRNAs (casnoRNAs) in mammalian cells and identify a subgroup of orphan casnoRNAs responding to DNA damage stress, among which SNORA73 shows the most marked reduction in chromatin enrichment. Downregulated SNORA73 maintains cancer genome stability and differentiation block in hematopoietic malignancy. Mechanistically, casnoRNA the 5&amp;rsquo; end non-canonical structure of SNORA73 is critical for its function and binding to poly (ADP-ribose) polymerase 1 (PARP1). SNORA73 inhibits PARP1 auto-PARylation to affect cancer genome stability by forming a small nucleolar ribonucleoprotein (snoRNP) with PARP1 and canonical H/ACA proteins DKC1/NHP2. Our findings reveal the role of an orphan snoRNA serving as casnoRNA and highlights a link between non-canonical structure of snoRNA and their functional diversity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

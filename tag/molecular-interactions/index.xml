@@ -5,12 +5,37 @@
     <link>https://example.com/tag/molecular-interactions/</link>
       <atom:link href="https://example.com/tag/molecular-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Molecular Interactions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Molecular Interactions</title>
       <link>https://example.com/tag/molecular-interactions/</link>
     </image>
+    
+    <item>
+      <title>SGPPI: structure-aware prediction of protein-protein interactions in rigorous conditions with graph convolutional network</title>
+      <link>https://example.com/article/36682013/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36682013/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While deep learning (DL)-based models have emerged as powerful approaches to predict protein-protein interactions (PPIs), the reliance on explicit similarity measures (e.g. sequence similarity and network neighborhood) to known interacting proteins makes these methods ineffective in dealing with novel proteins. The advent of AlphaFold2 presents a significant opportunity and also a challenge to predict PPIs in a straightforward way based on monomer structures while controlling bias from protein sequences. In this work, we established Structure and Graph-based Predictions of Protein Interactions (SGPPI), a structure-based DL framework for predicting PPIs, using the graph convolutional network. In particular, SGPPI focused on protein patches on the protein-protein binding interfaces and extracted the structural, geometric and evolutionary features from the residue contact map to predict PPIs. We demonstrated that our model outperforms traditional machine learning methods and state-of-the-art DL-based methods using non-representation-bias benchmark datasets. Moreover, our model trained on human dataset can be reliably transferred to predict yeast PPIs, indicating that SGPPI can capture converging structural features of protein interactions across various species.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Co-evolution-based prediction of metal-binding sites in proteomes by machine learning</title>

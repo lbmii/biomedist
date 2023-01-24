@@ -76,5 +76,30 @@
 </description>
     </item>
     
+    <item>
+      <title>Avian influenza viruses suppress innate immunity by inducing trans-transcriptional readthrough via SSU72</title>
+      <link>https://example.com/article/35332300/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35332300/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Innate immunity plays critical antiviral roles. The highly virulent avian influenza viruses (AIVs) H5N1, H7N9, and H5N6 can better escape host innate immune responses than the less virulent seasonal H1N1 virus. Here, we report a mechanism by which transcriptional readthrough (TRT)-mediated suppression of innate immunity occurs post AIV infection. By using cell lines, mouse lungs, and patient PBMCs, we showed that genes on the complementary strand (&amp;ldquo;trans&amp;rdquo; genes) influenced by TRT were involved in the disruption of host antiviral responses during AIV infection. The trans-TRT enhanced viral lethality, and TRT abolishment increased cell viability and STAT1/2 expression. The viral NS1 protein directly bound to SSU72, and degradation of SSU72 induced TRT. SSU72 overexpression reduced TRT and alleviated mouse lung injury. Our results suggest that AIVs infection induce TRT by reducing SSU72 expression, thereby impairing host immune responses, a molecular mechanism acting through the NS1-SSU72-trans-TRT-STAT1/2 axis. Thus, restoration of SSU72 expression might be a potential strategy for preventing AIV pandemics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

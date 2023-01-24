@@ -5,12 +5,37 @@
     <link>https://example.com/tag/single-cell/</link>
       <atom:link href="https://example.com/tag/single-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Single Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Single Cell</title>
       <link>https://example.com/tag/single-cell/</link>
     </image>
+    
+    <item>
+      <title>A single-cell massively parallel reporter assay detects cell-type-specific gene regulation</title>
+      <link>https://example.com/article/36635387/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36635387/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Massively parallel reporter gene assays are key tools in regulatory genomics but cannot be used to identify cell-type-specific regulatory elements without performing assays serially across different cell types. To address this problem, we developed a single-cell massively parallel reporter assay (scMPRA) to measure the activity of libraries of cis-regulatory sequences (CRSs) across multiple cell types simultaneously. We assayed a library of core promoters in a mixture of HEK293 and K562 cells and showed that scMPRA is a reproducible, highly parallel, single-cell reporter gene assay that detects cell-type-specific cis-regulatory activity. We then measured a library of promoter variants across multiple cell types in live mouse retinas and showed that subtle genetic variants can produce cell-type-specific effects on cis-regulatory activity. We anticipate that scMPRA will be widely applicable for studying the role of CRSs across diverse cell types.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Integrated single-cell profiling dissects cell-state-specific enhancer landscapes of human tumor-infiltrating CD8&#43; T cells</title>
@@ -1483,6 +1508,36 @@
       <guid>https://example.com/article/35365629/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Colorectal cancer (CRC) is among the most common malignancies with limited treatments other than surgery. The tumor microenvironment (TME) profiling enables the discovery of potential therapeutic targets. Here, we profile 54,103 cells from tumor and adjacent tissues to characterize cellular composition and elucidate the potential origin and regulation of tumor-enriched cell types in CRC. We demonstrate that the tumor-specific FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages were positively correlated in 14 independent CRC cohorts containing 2550 samples and validate their close localization by immuno-fluorescent staining and spatial transcriptomics. This interaction might be regulated by chemerin, TGF-β, and interleukin-1, which would stimulate the formation of immune-excluded desmoplasic structure and limit the T cell infiltration. Furthermore, we find patients with high FAP or SPP1 expression achieved less therapeutic benefit from an anti-PD-L1 therapy cohort. Our results provide a potential therapeutic strategy by disrupting FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages interaction to improve immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cell-specific cis-regulatory elements and mechanisms of non-coding genetic disease in human retina and retinal organoids</title>
+      <link>https://example.com/article/35303433/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35303433/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell atlas of cis-regulatory elements in developing and adult human retina&lt;/li&gt;
+&lt;li&gt;Correlation of DNA accessibility between human retina and retinal organoids&lt;/li&gt;
+&lt;li&gt;Association of disease-risk loci with cell-class-specific accessibility&lt;/li&gt;
+&lt;li&gt;Modeling of enhancer function at the 5q14.3 retinal disease-risk locus&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

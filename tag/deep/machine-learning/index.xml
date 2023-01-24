@@ -13,6 +13,31 @@
     </image>
     
     <item>
+      <title>SGPPI: structure-aware prediction of protein-protein interactions in rigorous conditions with graph convolutional network</title>
+      <link>https://example.com/article/36682013/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36682013/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While deep learning (DL)-based models have emerged as powerful approaches to predict protein-protein interactions (PPIs), the reliance on explicit similarity measures (e.g. sequence similarity and network neighborhood) to known interacting proteins makes these methods ineffective in dealing with novel proteins. The advent of AlphaFold2 presents a significant opportunity and also a challenge to predict PPIs in a straightforward way based on monomer structures while controlling bias from protein sequences. In this work, we established Structure and Graph-based Predictions of Protein Interactions (SGPPI), a structure-based DL framework for predicting PPIs, using the graph convolutional network. In particular, SGPPI focused on protein patches on the protein-protein binding interfaces and extracted the structural, geometric and evolutionary features from the residue contact map to predict PPIs. We demonstrated that our model outperforms traditional machine learning methods and state-of-the-art DL-based methods using non-representation-bias benchmark datasets. Moreover, our model trained on human dataset can be reliably transferred to predict yeast PPIs, indicating that SGPPI can capture converging structural features of protein interactions across various species.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Antiviral Approaches against Influenza Virus</title>
       <link>https://example.com/review/36645300/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
@@ -269,6 +294,62 @@
       <guid>https://example.com/article/35446533/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Resistive pulse sensing (RPS) is an analytical method that can be used to individually count particles from a small sample. RPS simply monitors the physical characteristics of particles, such as size, shape, and charge density, and the integration of RPS with biosensing is an attractive theme to detect biological particles such as virus and bacteria. In this report, a methodology of biosensing on RPS was investigated. Polydopamine (PD), an adhesive component of mussels, was used as the base material to create a sensing surface. PD adheres to most materials, such as noble metals, metal oxides, semiconductors, and polymers; as a result, PD is a versatile intermediate layer for the fabrication of a biosensing surface. As an example of a biological particle, human influenza A virus (H1N1 subtype) was used to monitor translocation of particles through the pore membrane. When virus-specific ligands (6&amp;rsquo;-sialyllactose) were immobilized on the pore surface, the translocation time of the virus particles was considerably extended. The detailed translocation data suggest that the viral particles were trapped on the sensing surface by specific interactions. In addition, virus translocation processes on different pore surfaces were distinguished using machine learning. The result shows that the simple and versatile PD-based biosensor surface design was effective. This advanced RPS measurement system could be a promising analytical technique.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning approach identified a gene signature predictive of the severity of renal damage caused by chronic cadmium accumulation</title>
+      <link>https://example.com/article/35405588/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35405588/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Modeling chronic Cd induced nephrotoxicity in normal and diabetic conditions in mice.&lt;/li&gt;
+&lt;li&gt;Mechanisms underlying Cd induced renal injury revealed via transcriptome profiling.&lt;/li&gt;
+&lt;li&gt;Gene signature predictive of the susceptibility to Cd nephrotoxicity by deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epidemiology studies have indicated that environmental cadmium exposure, even at low levels, will result in chronic cadmium accumulation in the kidney with profound adverse consequences and that the diabetic population is more susceptible. However, the underlying mechanisms are yet not fully understood. In the present study, we applied an animal model to study chronic cadmium exposure-induced renal injury and performed whole transcriptome profiling studies. Repetitive CdCl&lt;sub&gt;2&lt;/sub&gt; exposure resulted in cadmium accumulation and remarkable renal injuries in the animals. The diabetic ob/ob mice manifested increased severity of renal injury compared with the wild type C57BL/6 J littermate controls. RNA-Seq data showed that cadmium treatment induced dramatic gene expression changes in a dose-dependent manner. Among the differentially expressed genes include the apoptosis hallmark genes which significantly demarcated the treatment effects. Pathway enrichment and network analyses revealed biological oxidation (mainly glucuronidation) as one of the major stress responses induced by cadmium treatment. We next implemented a deep learning algorithm in conjunction with cloud computing and discovered a gene signature that can predict the degree of renal injury induced by cadmium treatment. The present study provided, for the first time, a comprehensive mechanistic understanding of chronic cadmium-induced nephrotoxicity in normal and diabetic populations at the whole genome level.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>mSRFR: a machine learning model using microalgal signature features for ncRNA classification</title>
+      <link>https://example.com/article/35313925/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35313925/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This work presents mSRFR (microalgae SMOTE Random Forest Relief model), a classification tool for noncoding RNAs (ncRNAs) in microalgae, including green algae, diatoms, golden algae, and cyanobacteria. First, the SMOTE technique was applied to address the challenge of imbalanced data due to the different numbers of microalgae ncRNAs from different species in the EBI RNA-central database. Then the top 20 significant features from a total of 106 features, including sequence-based, secondary structure, base-pair, and triplet sequence-structure features, were selected using the Relief feature selection method. Next, ten-fold cross-validation was applied to choose a classifier algorithm with the highest performance among Support Vector Machine, Random Forest, Decision Tree, Naïve Bayes, K-nearest Neighbor, and Neural Network, based on the receiver operating characteristic (ROC) area. The results showed that the Random Forest classifier achieved the highest ROC area of 0.992. Then, the Random Forest algorithm was selected and compared with other tools, including RNAcon, CPC, CPC2, CNCI, and CPPred. Our model achieved a high accuracy of about 97% and a low false-positive rate of about 2% in predicting the test dataset of microalgae. Furthermore, the top features from Relief revealed that the %GA dinucleotide is a signature feature of microalgal ncRNAs when compared to &lt;em&gt;Escherichia coli&lt;/em&gt;, &lt;em&gt;Saccharomyces cerevisiae&lt;/em&gt;, &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;, and &lt;em&gt;Homo sapiens&lt;/em&gt;.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

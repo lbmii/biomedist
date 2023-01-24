@@ -5,12 +5,44 @@
     <link>https://example.com/tag/immunology/</link>
       <atom:link href="https://example.com/tag/immunology/index.xml" rel="self" type="application/rss+xml" />
     <description>Immunology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Immunology</title>
       <link>https://example.com/tag/immunology/</link>
     </image>
+    
+    <item>
+      <title>Dopamine inhibits group 2 innate lymphoid cell-driven allergic lung inflammation by dampening mitochondrial activity</title>
+      <link>https://example.com/article/23-01-24-14-40/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-24-14-40/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The amounts of dopamine are negatively correlated with circulating ILC2 numbers in humans&lt;/li&gt;
+&lt;li&gt;Dopamine suppresses ILC2-driven allergic airway inflammation via DRD1&lt;/li&gt;
+&lt;li&gt;Dopamine constrains ILC2 responses through inhibiting oxidative phosphorylation&lt;/li&gt;
+&lt;li&gt;Local administration of dopamine may represent a promising therapeutic regimen for asthma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neuronal signals have emerged as pivotal regulators of group 2 innate lymphoid cells (ILC2s) that regulate tissue homeostasis and allergic inflammation. The molecular pathways underlying the neuronal regulation of ILC2 responses in lungs remain to be fully elucidated. Here, we found that the abundance of neurotransmitter dopamine was negatively correlated with circulating ILC2 numbers and positively associated with pulmonary function in humans. Dopamine potently suppressed lung ILC2 responses in a DRD1-receptor-dependent manner. Genetic deletion of &lt;em&gt;Drd1&lt;/em&gt; or local ablation of dopaminergic neurons augmented ILC2 responses and allergic lung inflammation. Transcriptome and metabolic analyses revealed that dopamine impaired the mitochondrial oxidative phosphorylation (OXPHOS) pathway in ILC2s. Augmentation of OXPHOS activity with oltipraz antagonized the inhibitory effect of dopamine. Local administration of dopamine alleviated allergen-induced ILC2 responses and airway inflammation. These findings demonstrate that dopamine represents an inhibitory regulator of ILC2 responses in allergic airway inflammation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>CD-NTase family member MB21D2 promotes cGAS-mediated antiviral and antitumor immunity</title>
@@ -473,6 +505,31 @@
     </item>
     
     <item>
+      <title>Molecular fate-mapping of serum antibody responses to repeat immunization</title>
+      <link>https://example.com/article/36646114/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36646114/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The protective efficacy of serum antibody results from the interplay of antigen-specific B cell clones of different affinities and specificities. These cellular dynamics underlie serum-level phenomena such as &amp;ldquo;Original Antigenic Sin&amp;rdquo; (OAS), a proposed propensity of the immune system to rely repeatedly on the first cohort of B cells engaged by an antigenic stimulus when encountering related antigens, in detriment of inducing de novo responses. OAS-type suppression of new, variant-specific antibodies may pose a barrier to vaccination against rapidly evolving viruses such as influenza and SARS-CoV-2. Precise measurement of OAS-type suppression is challenging because cellular and temporal origins cannot readily be ascribed to antibodies in circulation; thus, its impact on subsequent antibody responses remains unclear. Here, we introduce a molecular fate-mapping approach in which serum antibodies derived from specific cohorts of B cells can be differentially detected. We show that serum responses to sequential homologous boosting derive overwhelmingly from primary cohort B cells, while later induction of new antibody responses from naïve B cells is strongly suppressed. Such &amp;ldquo;primary addiction&amp;rdquo; decreases sharply as a function of antigenic distance, allowing reimmunization with divergent viral glycoproteins to produce de novo antibody responses targeting epitopes absent from the priming variant. Our findings have implications for the understanding of OAS and for the design and testing of vaccines against evolving pathogens.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Regulatory T cell and macrophage crosstalk in acute lung injury: future perspectives</title>
       <link>https://example.com/review/36646692/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
@@ -552,6 +609,38 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>p53 engages the cGAS/STING cytosolic DNA sensing pathway for tumor suppression</title>
+      <link>https://example.com/article/36638783/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36638783/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wild-type p53 (WTp53) activates the cytosolic DNA-sensing cGAS/STING pathway&lt;/li&gt;
+&lt;li&gt;WTp53 requires TRIM24 to promote TREX1 degradation&lt;/li&gt;
+&lt;li&gt;TREX1 degradation causes cytosolic DNA accumulation and activation of cGAS/STING&lt;/li&gt;
+&lt;li&gt;Loss of cGAS or STING compromises WTp53’s tumor suppressor activity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tumor suppression by TP53 involves cell-autonomous and non-cell-autonomous mechanisms. TP53 can suppress tumor growth by modulating immune system functions; however, the mechanistic basis for this activity is not well understood. We report that p53 promotes the degradation of the DNA exonuclease TREX1, resulting in cytosolic dsDNA accumulation. We demonstrate that p53 requires the ubiquitin ligase TRIM24 to induce TREX1 degradation. The cytosolic DNA accumulation resulting from TREX1 degradation activates the cytosolic DNA-sensing cGAS/STING pathway, resulting in induction of type I interferons. TREX1 overexpression sufficed to block p53 activation of the cGAS/STING pathway. p53-mediated induction of type I interferon (IFNB1) is suppressed by cGAS/STING knockout, and p53&amp;rsquo;s tumor suppressor activities are compromised by the loss of signaling through the cGAS/STING pathway. Thus, our study reveals that p53 utilizes the cGAS/STING innate immune system pathway for both cell-intrinsic and cell-extrinsic tumor suppressor activities.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -769,6 +858,38 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Acute lung injury (ALI) is a devastating respiratory disorder characterized by rapid alveolar injury, uncontrolled inflammatory response, etc. Onychiol B is a cyathane diterpene originally isolated from fern plants. In this study, onychiol B can inhibit the production and secretion of pro-inflammatory cytokines such as NO, iNOS, IL-6 and TNF-α in LPS-stimulated RAW264.7 cells by restraining the NF-κB and the p38 MAPK pathway. In addition, it prevents the production of ROS and reduces the loss of mitochondrial membrane potential in LPS-stimulated RAW264.7 cells. Furthermore, in the acute lung injury mouse model induced by LPS injected into the trachea, onychiol B alleviates pulmonary edema, reverses inflammatory mediator TNF-α, IL-6, and IL-β secretion in lung. In general, our data show that significant anti-ALI effects of onychiol B would render it a potential candidate for the treatment of inflammatory diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>GATA4 controls regionalization of tissue immunity and commensal-driven immunopathology</title>
+      <link>https://example.com/article/36630917/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36630917/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GATA4 prevents small intestinal inflammation by restricting bacterial colonization&lt;/li&gt;
+&lt;li&gt;GATA4 regulates bacterial colonization in part by regulating IgA and retinol metabolism&lt;/li&gt;
+&lt;li&gt;GATA4 deficiency, SFB, and &lt;em&gt;Citrobacter rodentium&lt;/em&gt; synergize to drive immunopathology&lt;/li&gt;
+&lt;li&gt;Th17 immunity is found in celiac patients with GATA4 deficiency and &lt;em&gt;Actinobacillus&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is growing recognition that regionalization of bacterial colonization and immunity along the intestinal tract has an important role in health and disease. Yet, the mechanisms underlying intestinal regionalization and its dysregulation in disease are not well understood. This study found that regional epithelial expression of the transcription factor GATA4 controls bacterial colonization and inflammatory tissue immunity in the proximal small intestine by regulating retinol metabolism and luminal IgA. Furthermore, in mice without jejunal GATA4 expression, the commensal segmented filamentous bacteria promoted pathogenic inflammatory immune responses that disrupted barrier function and increased mortality upon &lt;em&gt;Citrobacter rodentium&lt;/em&gt; infection. In celiac disease patients, low GATA4 expression was associated with metabolic alterations, mucosal Actinobacillus, and increased IL-17 immunity. Taken together, these results reveal broad impacts of GATA4-regulated intestinal regionalization on bacterial colonization and tissue immunity, highlighting an elaborate interdependence of intestinal metabolism, immunity, and microbiota in homeostasis and disease.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2236,6 +2357,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immune mechanism of gut microbiota and its metabolites in the occurrence and development of cardiovascular diseases</title>
+      <link>https://example.com/review/36590426/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36590426/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The risk of cardiovascular disease (CVD) is associated with unusual changes in the human gut microbiota, most commonly coronary atherosclerotic heart disease, hypertension, and heart failure. Immune mechanisms maintain a dynamic balance between the gut microbiota and the host immune system. When one side changes and the balance is disrupted, different degrees of damage are inflicted on the host and a diseased state gradually develops over time. This review summarizes the immune mechanism of the gut microbiota and its metabolites in the occurrence of common CVDs, discusses the relationship between gut-heart axis dysfunction and the progression of CVD, and lists the currently effective methods of regulating the gut microbiota for the treatment of CVDs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -12809,6 +12955,31 @@
     </item>
     
     <item>
+      <title>Effects of mango and mint pod-based e-cigarette aerosol inhalation on inflammatory states of the brain, lung, heart, and colon in mice</title>
+      <link>https://example.com/article/35411847/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35411847/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While health effects of conventional tobacco are well defined, data on vaping devices, including one of the most popular e-cigarettes which have high nicotine levels, are less established. Prior acute e-cigarette studies have demonstrated inflammatory and cardiopulmonary physiology changes while chronic studies have demonstrated extra-pulmonary effects, including neurotransmitter alterations in reward pathways. In this study we investigated the impact of inhalation of aerosols produced from pod-based, flavored e-cigarettes (JUUL) aerosols three times daily for 3 months on inflammatory markers in the brain, lung, heart, and colon. JUUL aerosol exposure induced upregulation of cytokine and chemokine gene expression and increased HMGB1 and RAGE in the nucleus accumbens in the central nervous system. Inflammatory gene expression increased in the colon, while gene expression was more broadly altered by e-cigarette aerosol inhalation in the lung. Cardiopulmonary inflammatory responses to acute lung injury with lipopolysaccharide were exacerbated in the heart. Flavor-specific findings were detected across these studies. Our findings suggest that daily e-cigarette use may cause neuroinflammation, which may contribute to behavioral changes and mood disorders. In addition, e-cigarette use may cause gut inflammation, which has been tied to poor systemic health, and cardiac inflammation, which leads to cardiovascular disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>HIV-1 Vpr drives a tissue residency-like phenotype during selective infection of resting memory T cells</title>
       <link>https://example.com/article/35417711/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
@@ -12919,6 +13090,56 @@
     </item>
     
     <item>
+      <title>Potent Anti-SARS-CoV-2 Efficacy of COVID-19 Hyperimmune Globulin from Vaccine-Immunized Plasma</title>
+      <link>https://example.com/article/35403837/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35403837/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coronavirus disease 2019 (COVID-19) remains a global public health threat. Hence, more effective and specific antivirals are urgently needed. Here, COVID-19 hyperimmune globulin (COVID-HIG), a passive immunotherapy, is prepared from the plasma of healthy donors vaccinated with BBIBP-CorV (Sinopharm COVID-19 vaccine). COVID-HIG shows high-affinity binding to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike (S) protein, the receptor-binding domain (RBD), the N-terminal domain of the S protein, and the nucleocapsid protein; and blocks RBD binding to human angiotensin-converting enzyme 2 (hACE2). Pseudotyped and authentic virus-based assays show that COVID-HIG displays broad-spectrum neutralization effects on a wide variety of SARS-CoV-2 variants, including D614G, Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1), Kappa (B.1.617.1), Delta (B.1.617.2), and Omicron (B.1.1.529) in vitro. However, a significant reduction in the neutralization titer is detected against Beta, Delta, and Omicron variants. Additionally, assessments of the prophylactic and treatment efficacy of COVID-HIG in an Adv5-hACE2-transduced IFNAR-/- mouse model of SARS-CoV-2 infection show significantly reduced weight loss, lung viral loads, and lung pathological injury. Moreover, COVID-HIG exhibits neutralization potency similar to that of anti-SARS-CoV-2 hyperimmune globulin from pooled convalescent plasma. Overall, the results demonstrate the potential of COVID-HIG against SARS-CoV-2 infection and provide reference for subsequent clinical trials.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Role of exosomal non-coding RNAs from tumor cells and tumor-associated macrophages in the tumor microenvironment</title>
+      <link>https://example.com/review/35405312/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35405312/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exosomes have a crucial role in intercellular communication and mediate interactions between tumor cells and tumor-associated macrophages (TAMs). Exosome-encapsulated non-coding RNAs (ncRNAs) are involved in various physiological processes. Tumor-derived exosomal ncRNAs induce M2 macrophage polarization through signaling pathway activation, signal transduction, and transcriptional and post-transcriptional regulation. Conversely, TAM-derived exosomal ncRNAs promote tumor proliferation, metastasis, angiogenesis, chemoresistance, and immunosuppression. MicroRNAs induce gene silencing by directly targeting mRNAs, whereas lncRNAs and circRNAs act as miRNA sponges to indirectly regulate protein expressions. The role of ncRNAs in tumor-host interactions is ubiquitous. Current research is increasingly focused on the tumor microenvironment. On the basis of the &amp;ldquo;cancer-immunity cycle&amp;rdquo; hypothesis, we discuss the effects of exosomal ncRNAs on immune cells to induce T cell exhaustion, overexpression of programmed cell death ligands, and create a tumor immunosuppressive microenvironment. Furthermore, we discuss potential applications and prospects of exosomal ncRNAs as clinical biomarkers and drug delivery systems.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>LATS1 is a central signal transmitter for achieving full type-I interferon activity</title>
       <link>https://example.com/article/35394840/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
@@ -12994,6 +13215,31 @@
     </item>
     
     <item>
+      <title>IL-17-induced HIF1α drives resistance to anti-PD-L1 via fibroblast-mediated immune exclusion</title>
+      <link>https://example.com/article/35389431/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35389431/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Increasing evidence suggests that intratumoral inflammation has an outsized influence on antitumor immunity. Here, we report that IL-17, a proinflammatory cytokine widely associated with poor prognosis in solid tumors, drives the therapeutic failure of anti-PD-L1. By timing the deletion of IL-17 signaling specifically in cancer-associated fibroblasts (CAFs) in late-stage tumors, we show that IL-17 signaling drives immune exclusion by activating a collagen deposition program in murine models of cutaneous squamous cell carcinoma (cSCC). Ablation of IL-17 signaling in CAFs increased the infiltration of cytotoxic T cells into the tumor mass and sensitized otherwise resistant cSCC to anti-PD-L1 treatment. Mechanistically, the collagen deposition program in CAFs was driven by IL-17-induced translation of HIF1α, which was mediated by direct binding of Act1, the adaptor protein of IL-17 receptor, to a stem-loop structure in the 3&amp;rsquo; untranslated region (UTR) in Hif1α mRNA. Disruption of Act1&amp;rsquo;s binding to Hif1α mRNA abolished IL-17-induced collagen deposition and enhanced anti-PD-L1-mediated tumor regression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Mechanism of taurine reducing inflammation and organ injury in sepsis mice</title>
       <link>https://example.com/article/35421705/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
@@ -13019,12 +13265,669 @@
     </item>
     
     <item>
+      <title>Early IL-17A production helps establish Mycobacterium intracellulare infection in mice</title>
+      <link>https://example.com/article/35363832/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35363832/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nontuberculous mycobacteria (NTM) infection is common in patients with structural lung damage. To address how NTM infection is established and causes lung damage, we established an NTM mouse model by intranasal inoculation of clinical isolates of &lt;em&gt;M. intracellulare&lt;/em&gt;. During the 39-week course of infection, the bacteria persistently grew in the lung and caused progressive granulomatous and fibrotic lung damage with mortality exceeding 50%. Lung neutrophils were significantly increased at 1 week postinfection, reduced at 2 weeks postinfection and increased again at 39 weeks postinfection. IL-17A was increased in the lungs at 1-2 weeks of infection and reduced at 3 weeks postinfection. Depletion of neutrophils during early (0-2 weeks) and late (32-34 weeks) infection had no effect on mortality or lung damage in chronically infected mice. However, neutralization of IL-17A during early infection significantly reduced bacterial burden, fibrotic lung damage, and mortality in chronically infected mice. Since it is known that IL-17A regulates matrix metalloproteinases (MMPs) and that MMPs contribute to the pathogenesis of pulmonary fibrosis, we determined the levels of MMPs in the lungs of &lt;em&gt;M. intracellulare&lt;/em&gt;-infected mice. Interestingly, MMP-3 was significantly reduced by anti-IL-17A neutralizing antibody. Moreover, in vitro data showed that exogenous IL-17A exaggerated the production of MMP-3 by lung epithelial cells upon &lt;em&gt;M. intracellulare&lt;/em&gt; infection. Collectively, our findings suggest that early IL-17A production precedes and promotes organized pulmonary &lt;em&gt;M. intracellulare&lt;/em&gt; infection in mice, at least in part through MMP-3 production.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>lincRNA-Cox2 Functions to Regulate Inflammation in Alveolar Macrophages during Acute Lung Injury</title>
+      <link>https://example.com/article/35365562/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35365562/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our respiratory system is vital to protect us from the surrounding nonsterile environment; therefore, it is critical for a state of homeostasis to be maintained through a balance of inflammatory cues. Recent studies have shown that actively transcribed noncoding regions of the genome are emerging as key regulators of biological processes, including inflammation. &lt;em&gt;lincRNA-Cox2&lt;/em&gt; is one such example of an inflammatory inducible long intergenic noncoding RNA functioning to fine-tune immune gene expression. Using bulk and single-cell RNA sequencing, in addition to FACS, we find that &lt;em&gt;lincRNA-Cox2&lt;/em&gt; is most highly expressed in the lung and is most upregulated after LPS-induced lung injury (acute lung injury [ALI]) within alveolar macrophages, where it functions to regulate inflammation. We previously reported that &lt;em&gt;lincRNA-Cox2&lt;/em&gt; functions to regulate its neighboring protein Ptgs2 in cis, and in this study, we use genetic mouse models to confirm its role in regulating gene expression more broadly in trans during ALI. Il6, Ccl3, and Ccl5 are dysregulated in the &lt;em&gt;lincRNA-Cox2&lt;/em&gt;-deficient mice and can be rescued to wild type levels by crossing the deficient mice with our newly generated &lt;em&gt;lincRNA-Cox2&lt;/em&gt; transgenic mice, confirming that this gene functions in trans. Many genes are specifically regulated by &lt;em&gt;lincRNA-Cox2&lt;/em&gt; within alveolar macrophages originating from the bone marrow because the phenotype can be reversed by transplantation of wild type bone marrow into the &lt;em&gt;lincRNA-Cox2&lt;/em&gt;-deficient mice. In conclusion, we show that &lt;em&gt;lincRNA-Cox2&lt;/em&gt; is a trans-acting long noncoding RNA that functions to regulate immune responses and maintain homeostasis within the lung at baseline and on LPS-induced ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LPS Response Is Impaired by Urban Fine Particulate Matter</title>
+      <link>https://example.com/article/35409273/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35409273/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fine particulate matter (PM&lt;sub&gt;2.5&lt;/sub&gt;) is a complex mixture of components with diverse chemical and physical characteristics associated with increased respiratory and cardiovascular diseases mortality. Our study aimed to investigate the effects of exposure to concentrated PM&lt;sub&gt;2.5&lt;/sub&gt; on LPS-induced lung injury onset. BALB/c male mice were exposed to either filtered air or ambient fine PM&lt;sub&gt;2.5&lt;/sub&gt; in an ambient particle concentrator for 5 weeks. Then, an acute lung injury was induced with nebulized LPS. The animals were euthanized 24 h after the nebulization to either LPS or saline. Inflammatory cells and cytokines (IL-1β, IL-4, IL-5, IL-6, IL-10, IL-17, TNF) were assessed in the blood, bronchoalveolar lavage fluid (BALF), and lung tissue. In addition, lung morphology was assessed by stereological methods. Our results showed that the PM+LPS group showed histological evidence of injury, leukocytosis with increased neutrophils and macrophages, and a mixed inflammatory response profile, with increased KC, IL-6, IL-1β, IL-4, and IL-17. Our analysis shows that there is an interaction between the LPS nebulization and PM&lt;sub&gt;2.5&lt;/sub&gt; exposure, differently modulating the inflammatory response, with a distinct response pattern as compared to LPS or PM&lt;sub&gt;2.5&lt;/sub&gt; exposure alone. Further studies are required to explain the mechanism of immune modulation caused by PM&lt;sub&gt;2.5&lt;/sub&gt; exposure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lung Imaging Reveals Stroke-Induced Impairment in Pulmonary Intravascular Neutrophil Function, a Response Exacerbated with Aging</title>
+      <link>https://example.com/article/35365565/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35365565/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In stroke patients, infection is a significant contributor to morbidity and mortality. Moreover, older stroke patients show an increased risk of developing stroke-associated infection, although the mechanisms underlying this increased susceptibility to infection are unknown. In this study, using an experimental mouse model of ischemic stroke, we showed that older (12-15 mo of age) mice had elevated lung bacterial infection and inflammatory damage after stroke when compared with young (8-10 wk of age) counterparts, despite undergoing the same degree of brain injury. Intravital microscopy of the lung microvasculature revealed that in younger mice, stroke promoted neutrophil arrest in pulmonary microvessels, but this response was not seen in older poststroke mice. In addition, bacterial phagocytosis by neutrophils in the lung microvasculature was reduced by both aging and stroke, such that neutrophils in aged poststroke mice showed the greatest impairment in this function. Analysis of neutrophil migration in vitro and in the cremaster muscle demonstrated that stroke alone did not negatively impact neutrophil migration, but that the combination of increased age and stroke led to reduced effectiveness of neutrophil chemotaxis. Transcriptomic analysis of pulmonary neutrophils using RNA sequencing identified 79 genes that were selectively altered in the context of combined aging and stroke, and they were associated with pathways that control neutrophil chemotaxis. Taken together, the findings of this study show that stroke in older animals results in worsening of neutrophil antibacterial responses and changes in neutrophil gene expression that have the potential to underpin elevated risk of stroke-associated infection in the context of increased age.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Novel insights into NOD-like receptors in renal diseases</title>
+      <link>https://example.com/review/35365780/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35365780/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nucleotide-binding oligomerization domain-like receptors (NLRs), including NLRAs, NLRBs (also known as NAIPs), NLRCs, and NLRPs, are a major subfamily of pattern recognition receptors (PRRs). Owing to a recent surge in research, NLRs have gained considerable attention due to their involvement in mediating the innate immune response and perpetuating inflammatory pathways, which is a central phenomenon in the pathogenesis of multiple diseases, including renal diseases. NLRs are expressed in different renal tissues during pathological conditions, which suggest that these receptors play roles in acute kidney injury, obstructive nephropathy, diabetic nephropathy, IgA nephropathy, lupus nephritis, crystal nephropathy, uric acid nephropathy, and renal cell carcinoma, among others. This review summarises recent progress on the functions of NLRs and their mechanisms in the pathophysiological processes of different types of renal diseases to help us better understand the role of NLRs in the kidney and provide a theoretical basis for NLR-targeted therapy for renal diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell and spatial analysis reveal interaction of FAP&#43; fibroblasts and SPP1&#43; macrophages in colorectal cancer</title>
       <link>https://example.com/article/35365629/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35365629/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Colorectal cancer (CRC) is among the most common malignancies with limited treatments other than surgery. The tumor microenvironment (TME) profiling enables the discovery of potential therapeutic targets. Here, we profile 54,103 cells from tumor and adjacent tissues to characterize cellular composition and elucidate the potential origin and regulation of tumor-enriched cell types in CRC. We demonstrate that the tumor-specific FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages were positively correlated in 14 independent CRC cohorts containing 2550 samples and validate their close localization by immuno-fluorescent staining and spatial transcriptomics. This interaction might be regulated by chemerin, TGF-β, and interleukin-1, which would stimulate the formation of immune-excluded desmoplasic structure and limit the T cell infiltration. Furthermore, we find patients with high FAP or SPP1 expression achieved less therapeutic benefit from an anti-PD-L1 therapy cohort. Our results provide a potential therapeutic strategy by disrupting FAP&lt;sup&gt;+&lt;/sup&gt; fibroblasts and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages interaction to improve immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A study on the roles of long non-coding RNA and circular RNA in the pulmonary injuries induced by polystyrene microplastics</title>
+      <link>https://example.com/article/35390562/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35390562/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lung injury and inflammation occurred after SD rats were treated with 0, 0.5, 1 and 2 mg/200 μL 100 nm PS-MPs for 14 days.&lt;/li&gt;
+&lt;li&gt;Gene sequencing detected a series of altered lncRNA and circRNA after treatment of 100 nm PS-MPs in rats.&lt;/li&gt;
+&lt;li&gt;LncRNA XLOC_031479, lncRNA XLOC_014188, circRNA 014924, circRNA 006,603 and circ 003,982 may be potential targets for lung damage caused by PS-MPs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microplastics (MPs) pollution has become a global concern due to its close relation to the environment and human health. Recently, more and more studies have pointed out the existence of MPs in the air, but its potential inhalation toxicity is unclear. Polystyrene Microplastics (PS-MPs) is one of the representative MPs. Besides, non-coding RNA plays crucial roles in regulating gene expression. Therefore, this study aims to provide new insights into the molecular exploration of PS-MPs inhalation. In this study, Sprague Dawley（SD）rats were treated with 100 nm, 500 nm, 1 μm and 2.5 μm PS-MPs for three days. And then intra-tracheal instillation of saline or 100 nm PS-MPs with 0, 0.5, 1 and 2 mg/200 μL were performed in SD rats every two days for two consecutive weeks. The deposition of PS-MPs was observed through immunofluorescence. Lung histological alternations were observed in haematoxylin and eosin (H&amp;amp;E) staining sections. The expressions of pro-inflammatory cytokines were quantified by ELISA and qPCR. Genome-wide transcriptomic profiling of long noncoding RNAs (lncRNAs), circular RNAs (circRNAs) in rats lung were done by ribosomal RNA depleted RNA sequencing and verified by qRT-PCR. We observed that 100 nm and 1 μm PS-MPs could deposite in the lungs. In addition, pathological examination shows alveolar destruction and bronchial epithelium arranged in a mess in PS-MPs groups. Furthermore, the expressions of pro-inflammatory cytokines IL-6, TNF-α and IL-1β were upregulated in PS-MPs exposed rats. Sequencing results showed that 269 circRNAs and 109 lncRNAs were differentially expressed in lung tissue of the saline and PS-MPs exposed rats. The upregulated expressions of lncRNA XLOC_031479, circRNA 014924 and circRNA 006603 and the downregulated expressions of lncRNA XLOC_014188 and circ003982 were identified by qRT-PCR in MPs group. The identified novel circRNAs and lncRNAs may paly important role in the development of lung inflammation caused by PS-MPs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Hemostasis: Platelet Innate Immune Interactions and Thromboinflammation</title>
+      <link>https://example.com/review/35409226/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35409226/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is accumulating evidence that platelets play roles beyond their traditional functions in thrombosis and hemostasis, e.g., in inflammatory processes, infection and cancer, and that they interact, stimulate and regulate cells of the innate immune system such as neutrophils, monocytes and macrophages. In this review, we will focus on platelet activation in hemostatic and inflammatory processes, as well as platelet interactions with neutrophils and monocytes/macrophages. We take a closer look at the contributions of major platelet receptors GPIb, α&lt;sub&gt;IIb&lt;/sub&gt;β&lt;sub&gt;3&lt;/sub&gt;, TLT-1, CLEC-2 and Toll-like receptors (TLRs) as well as secretions from platelet granules on platelet-neutrophil aggregate and neutrophil extracellular trap (NET) formation in atherosclerosis, transfusion-related acute lung injury (TRALI) and COVID-19. Further, we will address platelet-monocyte and macrophage interactions during cancer metastasis, infection, sepsis and platelet clearance.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Microbiota-dependent activation of the myeloid calcineurin-NFAT pathway inhibits B7H3- and B7H4-dependent anti-tumor immunity in colorectal cancer</title>
+      <link>https://example.com/article/35364006/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35364006/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial recognition activates myeloid calcineurin and NFAT in colorectal cancer&lt;/li&gt;
+&lt;li&gt;NFAT-dependent IL-6 promotes expression of co-inhibitory B7H3 and B7H4 by tumors&lt;/li&gt;
+&lt;li&gt;B7H3/B7H4 inhibit CD8+ T cells while their blockade elicits protective T cell responses&lt;/li&gt;
+&lt;li&gt;B7H3/B7H4 expression in CRC correlates with poor CD8+ T cell infiltration and survival&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bacterial sensing by intestinal tumor cells contributes to tumor growth through cell-intrinsic activation of the calcineurin-NFAT axis, but the role of this pathway in other intestinal cells remains unclear. Here, we found that myeloid-specific deletion of calcineurin in mice activated protective CD8+ T cell responses and inhibited colorectal cancer (CRC) growth. Microbial sensing by myeloid cells promoted calcineurin- and NFAT-dependent interleukin 6 (IL-6) release, expression of the co-inhibitory molecules B7H3 and B7H4 by tumor cells, and inhibition of CD8+ T cell-dependent anti-tumor immunity. Accordingly, targeting members of this pathway activated protective CD8+ T cell responses and inhibited primary and metastatic CRC growth. B7H3 and B7H4 were expressed by the majority of human primary CRCs and metastases, which was associated with low numbers of tumor-infiltrating CD8+ T cells and poor survival. Therefore, a microbiota-, calcineurin-, and B7H3/B7H4-dependent pathway controls anti-tumor immunity, revealing additional targets for immune checkpoint inhibition in microsatellite-stable CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NEDD4 attenuates phosgene-induced acute lung injury through the inhibition of Notch1 activation</title>
+      <link>https://example.com/article/35355403/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35355403/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Phosgene gas leakage can cause life-threatening acute lung injury (ALI), which is characterized by inflammation, increased vascular permeability, pulmonary oedema and oxidative stress. Although the downregulation of neuronal precursor cell-expressed developmentally downregulated 4 (NEDD4) is known to be associated with inflammation and oxidative damage, its functions in phosgene-induced ALI remain unclear. In this study, rats with phosgene-induced ALI were intravenously injected with NEDD4-overexpressing lentiviruses to determine the functions of NEDD4 in this inflammatory condition. NEDD4 expression was decreased in the lung parenchyma of phosgene-exposed control rats, whereas its expression level was high in the NEDD4-overexpressing rats. Phosgene exposure increased the wet-to-dry lung weight ratio, but NEDD4 abrogated this effect. NEDD4 overexpression attenuated phosgene-induced lung inflammation, lowering the high lung injury score (based on total protein, inflammatory cells and inflammatory factors in bronchoalveolar lavage fluid) and also reduced phosgene-induced oxidative stress and cell apoptosis. Finally, NEDD4 was found to interact with Notch1, enhancing its ubiquitination and thereby its degradation, thus attenuating the inflammatory responses to ALI. Therefore, we demonstrated that NEDD4 plays a protective role in alleviating phosgene-induced ALI, suggesting that enhancing the effect of NEDD4 may be a new approach for treating phosgene-induced ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Inflammatory blockade prevents injury to the developing pulmonary gas exchange surface in preterm primates</title>
+      <link>https://example.com/article/35353543/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35353543/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Perinatal inflammatory stress is associated with early life morbidity and lifelong consequences for pulmonary health. Chorioamnionitis, an inflammatory condition affecting the placenta and fluid surrounding the developing fetus, affects 25 to 40% of preterm births. Severe chorioamnionitis with preterm birth is associated with significantly increased risk of pulmonary disease and secondary infections in childhood, suggesting that fetal inflammation may markedly alter the development of the lung. Here, we used intra-amniotic lipopolysaccharide (LPS) challenge to induce experimental chorioamnionitis in a prenatal rhesus macaque (&lt;em&gt;Macaca mulatta&lt;/em&gt;) model that mirrors structural and temporal aspects of human lung development. Inflammatory injury directly disrupted the developing gas exchange surface of the primate lung, with extensive damage to alveolar structure, particularly the close association and coordinated differentiation of alveolar type 1 pneumocytes and specialized alveolar capillary endothelium. Single-cell RNA sequencing analysis defined a multicellular alveolar signaling niche driving alveologenesis that was extensively disrupted by perinatal inflammation, leading to a loss of gas exchange surface and alveolar simplification, with notable resemblance to chronic lung disease in newborns. Blockade of the inflammatory cytokines interleukin-1β and tumor necrosis factor-α ameliorated LPS-induced inflammatory lung injury by blunting stromal responses to inflammation and modulating innate immune activation in myeloid cells, restoring structural integrity and key signaling networks in the developing alveolus. These data provide new insight into the pathophysiology of developmental lung injury and suggest that modulating inflammation is a promising therapeutic approach to prevent fetal consequences of chorioamnionitis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Inhibition of bromodomain extraterminal histone readers alleviates skin fibrosis in experimental models of scleroderma</title>
+      <link>https://example.com/article/35349485/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35349485/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Binding of the bromodomain and extraterminal domain proteins (BETs) to acetylated histone residues is critical for gene transcription. We sought to determine the antifibrotic efficacy and potential mechanisms of BET inhibition in systemic sclerosis (SSc). Blockade of BETs was done using a pan-BET inhibitor, JQ1; BRD2 inhibitor, BIC1; or BRD4 inhibitors AZD5153 or ARV825. BET inhibition, specifically BRD4 blockade, showed antifibrotic effects in an animal model of SSc and in patient-derived diffuse cutaneous SSc (dcSSc) fibroblasts. Transcriptome analysis of JQ1-treated dcSSc fibroblasts revealed differentially expressed genes related to extracellular matrix, cell cycle, and calcium (Ca&lt;sup&gt;2+&lt;/sup&gt;) signaling. The antifibrotic effect of BRD4 inhibition was mediated at least in part by downregulation of Ca&lt;sup&gt;2+&lt;/sup&gt;/calmodulin-dependent protein kinase II α and reduction of intracellular Ca&lt;sup&gt;2+&lt;/sup&gt; concentrations. On the basis of these results, we propose targeting Ca&lt;sup&gt;2+&lt;/sup&gt; pathways or BRD4 as potentially novel therapeutic approaches for progressive tissue fibrosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Alkyl organophosphate flame retardants (OPFRs) induce lung inflammation and aggravate OVA-simulated asthmatic response via the NF-кB signaling pathway</title>
+      <link>https://example.com/article/35358787/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35358787/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TnBP and TBOEP caused pulmonary damages by inflammation and oxidative stress.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fkbp5&lt;/em&gt;/&lt;em&gt;Nos3&lt;/em&gt;/MAPK/NF-κB signal pathway was upregulated when exposing to TnBP and TBOEP.&lt;/li&gt;
+&lt;li&gt;TnBP aggravated OVA induced asthmatic inflammatory response with overexpression of IgE.&lt;/li&gt;
+&lt;li&gt;TnBP facilitated OVA-induced asthma by upregulating PI3K/Akt/NF-кB signaling pathway.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alkyl organophosphate flame retardants (OPFRs), tri-n-butyl phosphate (TnBP) and tris(2-butoxyethyl) phosphate (TBOEP), are ubiquitously detected in indoor and outdoor environments and their inhalation may result in lung damage. This study examined pulmonary toxicity after exposure to TnBP or TBOEP and investigated aggravation of inflammation and immunoreaction by TnBP in an ovalbumin (OVA)-induced mice model. Transcriptomics were used to further reveal the underlying mechanism. Exposure to TnBP or TBOEP resulted in pathological damage, including edema and thickened alveolar septum. In comparison with the control, enhanced levels of superoxide dismutase (SOD) (&lt;em&gt;p&lt;/em&gt; &amp;lt; 0.01 in TnBP (High) group and &lt;em&gt;p&lt;/em&gt; &amp;lt; 0.05 in TBOEP (High) group), glutathione peroxidase (GSH-px) (&lt;em&gt;p&lt;/em&gt; &amp;lt; 0.05), malondialdehyde (MDA) (&lt;em&gt;p&lt;/em&gt; &amp;lt; 0.01), and cytokines under a dose-dependent relationship were noted, and the expression of the Fkbp5/Nos3/MAPK/NF-кB signaling pathway (&lt;em&gt;p&lt;/em&gt; &amp;lt; 0.01) was upregulated in the TnBP and TBOEP groups. Moreover, the combined exposure of TnBP and OVA exacerbated the allergic inflammatory response, including airway hyperresponsiveness, leukocytosis, cellular exudation and infiltration, secretion of inflammatory mediators, and higher expression of IgE (&lt;em&gt;p&lt;/em&gt; &amp;lt; 0.01). Transcriptomics results demonstrated that the PI3K/Akt/NF-кB signal pathway was involved in TnBP-aggravated asthmatic mice. Exposure to TnBP or TBOEP resulted in oxidative damage and leukocyte-induced lung injury. TnBP can further facilitate OVA-induced asthma through an inflammatory response. This study is the first to reveal the pulmonary toxicity and potential mechanism induced by OPFRs through an in-vivo model.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mouse circulating extracellular vesicles contain virus-derived siRNAs active in antiviral immunity</title>
+      <link>https://example.com/article/35343600/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35343600/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Induction and suppression of antiviral RNA interference (RNAi) has been observed in mammals during infection with at least seven distinct RNA viruses, including some that are pathogenic in humans. However, while the cell-autonomous immune response mediated by antiviral RNAi is gradually being recognized, little is known about systemic antiviral RNAi in mammals. Furthermore, extracellular vesicles (EVs) also function in viral signal spreading and host immunity. Here, we show that upon antiviral RNAi activation, virus-derived small-interfering RNAs (vsiRNAs) from Nodamura virus (NoV), Sindbis virus (SINV), and Zika virus (ZIKV) enter the murine bloodstream via EVs for systemic circulation. vsiRNAs in the EVs are biologically active, since they confer RNA-RNA homology-dependent antiviral activity in both cultured cells and infant mice. Moreover, we demonstrate that vaccination with a live-attenuated virus, rendered deficient in RNAi suppression, induces production of stably maintained vsiRNAs and confers protective immunity against virus infection in mice. This suggests that vaccination with live-attenuated VSR (viral suppressor of RNAi)-deficient mutant viruses could be a new strategy to induce immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Beneficial effects of aloperine on inflammation and oxidative stress by suppressing necroptosis in lipopolysaccharide-induced acute lung injury mouse model</title>
+      <link>https://example.com/article/35397283/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35397283/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Alveolar epithelial cell death, inflammation, and oxidative stress are typical features of acute lung injury (ALI). Aloperine (Alo), an alkaloid isolated from Sophora alopecuroides, has been reported to display various biological effects, such as anti-inflammatory, immunoregulatory, and anti-oxidant properties. In this study, we investigated the effects and mechanisms of Alo in treating a lipopolysaccharide (LPS)-induced ALI in a murine model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The effects of Alo in LPS-induced ALI were investigated in C57BL/6 mice. The RIPK1 inhibitor (Nec-1) and the RIPK3 inhibitor (GSK&#39;872) were used to evaluate the relationship of necroptosis, NF-κB activation, and PDC subunits in LPS-treated mouse alveolar epithelial cells (MLE-12). Then the effects of Alo on necroptosis, inflammation, and oxidative stress of LPS-stimulated MLE-12 cells were evaluated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Alo significantly attenuated histopathological lung injuries and reduced lung wet/dry ratio in LPS-induced ALI mice. Alo also remarkedly reduced total protein and neutrophils recruitment in bronchoalveolar lavage fluid of ALI mice. Meanwhile, Alo ameliorated the LPS-induced necroptosis in the lungs of ALI mice. The RIPK3 inhibitor GSK&#39;872, but not the RIPK1 inhibitor Nec-1, reversed LPS-induced p65 phosphorylation and translocation to the nucleus in MLE-12 cells. GSK&#39;872 also reversed the LPS-induced increase in ROS and binding of RIPK3 and PDC subunits in MLE-12 cells. Moreover, Alo down-regulated the levels of p-RIPK1, p-RIPK3, p-MLKL, p-p65, the translocation of p65 to the nucleus, and reduced the expression of IL-6 and IL-8 in LPS-stimulated MLE-12 cells. Alo also inhibited the binding of RIPK3 and PDC-E1α, PDC-E1β, PDC-E2, and PDC-E3 and the ROS production in LPS-treated MLE-12 cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; The present study validated the beneficial effects of Alo on LPS-induced ALI , suggesting Alo may be a new drug candidate against ALI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>lncRNA MEG3 restrained the M1 polarization of microglia in acute spinal cord injury through the HuR/A20/NF-κB axis</title>
+      <link>https://example.com/article/35338543/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35338543/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The M1 polarization of microglia and neuroinflammation restrict the treatment of acute spinal cord injury (ASCI), and long non-coding ribonucleic acid (lncRNA) maternally expressed gene 3 (MEG3) expression is lessened in ASCI. However, the function and mechanism of lncRNA MEG3 in the M1 polarization of microglia and neuroinflammation in ASCI are unclear. The expressions of lncRNA MEG3 in ASCI mouse spinal cord tissues and lipopolysaccharide (LPS)-treated primary microglia and BV2 cells were quantified through a quantitative real-time polymerase chain reaction. In-vitro assays were conducted to explore the function of lncRNA MEG3 in the M1 polarization of microglia and neuroinflammation in ASCI. RNA degradation, RNA immunoprecipitation, RNA pull-down, cycloheximide-chase, and ubiquitination analyses were carried out to probe into the mechanism of lncRNA MEG3 in the M1 polarization of microglia and neuroinflammation in ASCI. The lncRNA MEG3 expression was lessened in the ASCI mouse spinal cord tissues and LPS-treated primary microglia and BV2 cells, and the overexpression of lncRNA MEG3 restrained the M1 polarization of microglia and the neuroinflammation by regulating the NF-κB signaling pathway. For the investigation of the potential mechanism of such, the overexpression of lncRNA MEG3 restrained the M1 polarization of microglia through the HuR/A20/NF-κB axis and boosted the motor function recovery and neuroinflammation relief in the mice with SCI. The overexpression of lncRNA MEG3 restrained the M1 polarization of microglia through the HuR/A20/NF-κB axis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mannan-decorated pathogen-like polymeric nanoparticles as nanovaccine carriers for eliciting superior anticancer immunity</title>
+      <link>https://example.com/article/35364489/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35364489/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Using nanotechnology for cancer vaccine design holds great promise because of the intrinsic feature of nanoparticles in being captured by antigen-presenting cells (APCs). However, there are still obstacles in current nanovaccine systems in achieving efficient tumor therapeutic effects, which could partially be attributed to the unsatisfactory vaccine carrier design. Herein, we report a mannan-decorated pathogen-like polymeric nanoparticle as a protein vaccine carrier for eliciting robust anticancer immunity. This nanovaccine was constructed as a core-shell structure with mannan as the shell, polylactic acid-polyethylenimine (PLA-PEI) assembled nanoparticle as the core, and protein antigens and Toll-like receptor 9 (TLR9) agonist CpG absorbed onto the PLA-PEI core via electrostatic interactions. Compared to other hydrophilic materials, mannan decoration could greatly enhance the lymph node draining ability of the nanovaccine and promote the capturing by the CD8&lt;sup&gt;+&lt;/sup&gt; dendritic cells (DCs) in the lymph node, while PLA-PEI as the inner core could enhance antigen endosome escape thus promoting the antigen cross-presentation. In addition, mannan itself as a TLR4 agonist could synergize with CpG for maximally activating the DCs. Excitingly, we observed in several murine tumor models that using this nanovaccine alone could elicit robust immune response in vivo and result in superior anti-tumor effects with 50% of mice completely cured. This study strongly evidenced that mannan decoration and a rationally designed nanovaccine system could be quite robust in tumor vaccine therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Vitamin D receptor upregulates tight junction protein claudin-5 against colitis-associated tumorigenesis</title>
+      <link>https://example.com/article/35338345/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35338345/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tight junctions are essential for barrier integrity, inflammation, and cancer. Vitamin D and the vitamin D receptor (VDR) play important roles in colorectal cancer (CRC). Using the human CRC database, we found colonic VDR expression was low and significantly correlated with a reduction of Claudin-5 mRNA and protein. In the colon of VDRΔIEC mice, deletion of intestinal VDR led to lower protein and mRNA levels of Claudin-5. Intestinal permeability was increased in the VDR&lt;sup&gt;-/-&lt;/sup&gt; colon cancer model. Lacking VDR and a reduction of Claudin-5 are associated with an increased number of tumors in the VDR&lt;sup&gt;-/-&lt;/sup&gt; and VDR&lt;sup&gt;ΔIEC&lt;/sup&gt; mice. Furthermore, gain and loss functional studies have identified CLDN-5 as a downstream target of VDR. We identified the Vitamin D response element (VDRE) binding sites in a reporter system showed that VDRE in the Claudin-5 promoter is required for vitamin D3-induced Claudin-5 expression. Conditional epithelial VDR overexpression protected against the loss of &lt;em&gt;Claudin-5&lt;/em&gt; in response to inflammation and tumorigenesis in vivo. We also reported fecal VDR reduction in a colon cancer model. This study advances the understanding of how VDR regulates intestinal barrier functions in tumorigenesis and the possibility for identifying new biomarker and therapeutic targets to restore VDR-dependent functions in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Avian influenza viruses suppress innate immunity by inducing trans-transcriptional readthrough via SSU72</title>
+      <link>https://example.com/article/35332300/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35332300/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Innate immunity plays critical antiviral roles. The highly virulent avian influenza viruses (AIVs) H5N1, H7N9, and H5N6 can better escape host innate immune responses than the less virulent seasonal H1N1 virus. Here, we report a mechanism by which transcriptional readthrough (TRT)-mediated suppression of innate immunity occurs post AIV infection. By using cell lines, mouse lungs, and patient PBMCs, we showed that genes on the complementary strand (&amp;ldquo;trans&amp;rdquo; genes) influenced by TRT were involved in the disruption of host antiviral responses during AIV infection. The trans-TRT enhanced viral lethality, and TRT abolishment increased cell viability and STAT1/2 expression. The viral NS1 protein directly bound to SSU72, and degradation of SSU72 induced TRT. SSU72 overexpression reduced TRT and alleviated mouse lung injury. Our results suggest that AIVs infection induce TRT by reducing SSU72 expression, thereby impairing host immune responses, a molecular mechanism acting through the NS1-SSU72-trans-TRT-STAT1/2 axis. Thus, restoration of SSU72 expression might be a potential strategy for preventing AIV pandemics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Neutrophil-vascular interactions drive myeloperoxidase accumulation in the brain in Alzheimer&#39;s disease</title>
+      <link>https://example.com/article/35331340/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35331340/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Introduction:&lt;/em&gt; Neutrophil accumulation is a well-established feature of Alzheimer&amp;rsquo;s disease (AD) and has been linked to cognitive impairment by modulating disease-relevant neuroinflammatory and vascular pathways. Neutrophils express high levels of the oxidant-generating enzyme myeloperoxidase (MPO), however there has been controversy regarding the cellular source and localisation of MPO in the AD brain.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materials and methods:&lt;/em&gt; We used immunostaining and immunoassays to quantify the accumulation of neutrophils in human AD tissue microarrays and in the brains of APP/PS1 mice. We also used multiplexed immunolabelling to define the presence of NETs in AD.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; There was an increase in neutrophils in AD brains as well as in the murine APP/PS1 model of AD. Indeed, MPO expression was almost exclusively confined to S100A8-positive neutrophils in both human AD and murine APP/PS1 brains. The vascular localisation of neutrophils in both human AD and mouse models of AD was striking and driven by enhanced neutrophil adhesion to small vessels. We also observed rare infiltrating neutrophils and deposits of MPO around plaques. Citrullinated histone H3, a marker of neutrophil extracellular traps (NETs), was also detected in human AD cases at these sites, indicating the presence of extracellular MPO in the vasculature. Finally, there was a reduction in the endothelial glycocalyx in AD that may be responsible for non-productive neutrophil adhesion to the vasculature.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our report indicates that vascular changes may drive neutrophil adhesion and NETosis, and that neutrophil-derived MPO may lead to vascular oxidative stress and be a relevant therapeutic target in AD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Growth differentiation factor-15 preserves Klotho expression in acute kidney injury and kidney fibrosis</title>
+      <link>https://example.com/article/35337892/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35337892/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Growth differentiation factor-15 (GDF15) is a member of the GDF subfamily with potential kidney protective functions. Here, we explored the impact of GDF15 on the expression of the kidney protective factor Klotho in models of acute kidney injury and kidney fibrosis in mice. GDF15 was the most upregulated GDF family gene in experimental toxic acute kidney injury and in kidney fibrosis transcriptomics. GDF15 function was explored in toxic acute kidney injury in genetically modified mice and following treatment with GDF15. &lt;em&gt;Gdf15&lt;/em&gt;-deficient mice developed more severe toxic acute kidney injury (folic acid or cisplatin) while GDF15 overexpression or GDF15 administration were protective. Kidney expression of Klotho was more severely depressed in &lt;em&gt;Gdf15&lt;/em&gt;-deficient mice and was preserved by GDF15 overexpression or GDF15 treatment. Moreover, increased plasma calcitriol levels inversely correlated with kidney Klotho across models with diverse levels of GDF15 availability. Kidney fibrosis induced by unilateral ureteral obstruction was more severe in &lt;em&gt;Gdf15&lt;/em&gt;-deficient mice while GDF15 overexpression decreased kidney injury and preserved Klotho expression. GDF15 increased Klotho expression in vivo in healthy mice, in cultured tubular cells, and prevented Klotho downregulation by inflammatory factors in tubular cells by preventing transcription factor NF-ĸB activation. Thus, spontaneous increased kidney expression of endogenous GDF15 is not enough to prevent kidney injury, but further increments in GDF15 are kidney protecting and preserve expression of the kidney protective factor Klotho within the kidney in acute and chronic settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Stimulator of Interferon Genes (STING) Promotes Staphylococcus aureus-Induced Extracellular Traps Formation via the ROS-ERK Signaling Pathway</title>
+      <link>https://example.com/article/35399524/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35399524/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stimulator of interferon genes (STING) is a cytosolic DNA sensor or directly recognizes bacterial cyclic dinucleotides, which is required for the detection of microbial infection. Extracellular traps (ETs) are known to be part of the antimicrobial defense system. However, the implication of STING in ETs formation during microbial infection remains unknown. Here, we showed that STING contributed to &lt;em&gt;Staphylococcus aureus&lt;/em&gt; (&lt;em&gt;S. aureus&lt;/em&gt;)-induced ETs formation through the ROS-ERK signaling. STING deficiency exhibited decreased cell-free DNA (cfDNA) level, reduced expression of citrullinated histone H3 (CitH3), and diminished DNA colocalization with CitH3 and myeloperoxidase (MPO). Interestingly, NADPH oxidase-derived reactive oxygen species (ROS) promoted ETs formation, accompanied by increased activation of extracellular signal-regulated kinase 1 and 2 (ERK1/2) in &lt;em&gt;S. aureus&lt;/em&gt;-stimulated bone marrow-derived macrophages (BMDMs). Corresponding to less ROS production, decreased ERK1/2 activation was shown in STING-/- BMDMs after &lt;em&gt;S. aureus&lt;/em&gt; infection. Importantly, inhibiting the ROS-ERK signal reduced the ETs formation and the differences disappeared between WT and STING&lt;sup&gt;-/&lt;/sup&gt;- BMDMs after &lt;em&gt;S. aureus&lt;/em&gt; infection. Moreover, STING&lt;sup&gt;-/&lt;/sup&gt; BMDMs exhibited significantly increased levels of extracellular bacteria compared to WT BMDMs regardless of phagocytosis. In addition, such differences disappeared after DNase I treatment. DNase I treatment also facilitated pathogen colonization without affecting the inflammatory cells infiltration and pro-inflammatory factors secretion following pulmonary &lt;em&gt;S. aureus&lt;/em&gt; infection. Furthermore, STING&lt;sup&gt;-/&lt;/sup&gt; mice presented decreased levels of cfDNA and CitH3, along with increased bacterial colonization compared to WT mice. Altogether, these findings highlighted that STING promoted ETs formation via the ROS-ERK signal for host defense against &lt;em&gt;S. aureus&lt;/em&gt; infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lactylation-driven METTL3-mediated RNA m6A modification promotes immunosuppression of tumor-infiltrating myeloid cells</title>
+      <link>https://example.com/article/35320754/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35320754/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;H3K18 lactylation increases Mettl3 expression in tumor-infiltrating myeloid cells&lt;/li&gt;
+&lt;li&gt;METTL3-mediated m&lt;sup&gt;6&lt;/sup&gt;A modification on Jak1 mRNA promotes its protein translation&lt;/li&gt;
+&lt;li&gt;METTL3/m&lt;sup&gt;6&lt;/sup&gt;A/JAK1/STAT3 axis strengthens immunosuppressive functions of myeloid cells&lt;/li&gt;
+&lt;li&gt;Lactylation on zinc-finger domain of METTL3 enhances its capture of m&lt;sup&gt;6&lt;/sup&gt;A-modified RNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nanotechnology-based therapeutics for targeting inflammatory lung diseases</title>
+      <link>https://example.com/review/35315290/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35315290/</guid>
+      <description>&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>AdMSC-derived exosomes alleviate acute lung injury via transferring mitochondrial component to improve homeostasis of alveolar macrophages</title>
+      <link>https://example.com/article/35401830/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35401830/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Aberrant activation of macrophages with mitochondria dismiss was proved to be associated with pathogenesis of ALI (acute lung injury). Exosomes from adipose-derived mesenchymal stem cells (AdMSC-Exos) have been distinguished by their low immunogenicity, lack of tumorigenicity, and high clinical safety, but their role in treating ALI and the mechanism involved need to be defined. In this study, we sought to investigate whether the mitochondrial donation from AdMSC-Exos provides profound protection against LPS-induced ALI in mice, accompanied by improvement of macrophage mitochondrial function.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; C57BL/6 mice were orotracheally instilled with LPS (1 mg/kg). AdMSC-Exos were administered via the tail vein 4 h after LPS inhalation. Flow cytometry, H&amp;amp;E, Quantitative Real-Time PCR, immunofluorescence (IF), confocal microscopy imaging was conducted to investigate lung tissue inflammation and macrophage mitochondrial function. And further observe the transfer of exosomes and the effect on mitochondrial function of MH-S cells through &lt;em&gt;in vitro&lt;/em&gt; experiments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; AdMSC-Exos can transfer the stem cell-derived mitochondria components to alveolar macrophages in a dose-dependent manner. Likely through complementing the damaged mitochondria, AdMSC-Exos exhibited the ability to elevate the level of mtDNA, mitochondrial membrane potential (MMP), OXPHOS activity and ATP generation, while reliving mROS stress in LPS-challenged macrophages. Restoring mitochondrial integrity via AdMSC-Exos treatment enabled macrophages shifting to anti-inflammatory phenotype, as featured with the down-regulation of IL-1β, TNF-α and iNOS secretion and increase in production of anti-inflammatory cytokines IL-10 and Arg-1. As we depleted alveolar macrophages using clodronate liposomes, the protective role for AdMSC-Exos was largely abrogated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; AdMSC-Exos can effectively donate mitochondria component improved macrophages mitochondrial integrity and oxidative phosphorylation level, leading to the resumption of metabolic and immune homeostasis of airway macrophages and mitigating lung inflammatory pathology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Histone Extraction from Human Articular Cartilage for the Study of Epigenetic Regulation in Osteoarthritis</title>
+      <link>https://example.com/article/35328777/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35328777/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Osteoarthritis (OA) is a chronic disease that affects articular cartilage, causing its degeneration. Although OA is one of the most prevalent pathologies globally, there are no definitive treatments available. Recently, research has focused on elucidating the complex interplay that takes place between inflammatory processes and epigenetic regulation, showing that histone post-translational modifications (PTMs) can exert a pronounced effect on the expression of OA-related genes. OA chondrocytes enhance the production of interleukin 1β (IL-1β) and interleukin 8 (IL-8), which are epigenetically regulated. These cytokines upregulate the synthesis of matrix metalloproteinases (MMPs) and aggrecanases, which promote the extracellular matrix (ECM) destruction. This motivates the study of histone PTMs to investigate the epigenetic regulation of proinflammatory molecules, but the absence of specific protocols to extract histones from human articular cartilage has complicated this task. The lack of effective methods can be explained by the structural complexity and low cellularity of this tissue, which are responsible for the biomechanical properties that allow the movement of the joint but also complicate histone isolation. Here, we provide a histone extraction procedure specifically adapted for cryopreserved human articular cartilage that can be useful to understand epigenetic regulation in OA and accelerate the search for novel strategies.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -13069,6 +13972,211 @@
     </item>
     
     <item>
+      <title>A Combined Transcriptomic and Proteomic Approach to Reveal the Effect of Mogroside V on OVA-Induced Pulmonary Inflammation in Mice</title>
+      <link>https://example.com/article/35371026/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35371026/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mogroside V is a bioactive ingredient extracted from the natural food Siraitia grosvenorii which possesses functions that stimulate lung humidification and cough relief activities, but its underlying mechanisms were rarely studied. To estimate its potential protective effect on ovalbumin (OVA)-induced pulmonary inflammation and understand its system-wide mechanism, integrated omics was applied in this study. Mogroside V effectively reduced the levels of IgE, TNF-α, and IL-5 in OVA-induced mice. The results of RNA-seq and data-independent acquisition proteomics approach revealed that 944 genes and 341 proteins were differentially expressed in the normal control group (NC) and ovalbumin-induced control group (OC) and 449 genes and 259 proteins were differentially expressed between the OC and the group treated with 50 mg/kg mogroside V (MV). After a combined analysis of the transcriptome and the proteome, 93 major pathways were screened, and we discovered that mogroside V exerts an anti-inflammation effect in the lung via NF-κB and JAK-STAT, both of which are among the signaling pathways mentioned above. In addition, we found that the key regulatory molecules (Igha, Ighg1, NF-κB, Jak1, and Stat1) in the two pathways were activated in inflammation and inhibited by mogroside V. Thus, mogroside V may be the main bioactivity component in S. grosvenorii that exerts lung humidification and cough relief effects.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hyperphosphatemia increases inflammation to exacerbate anemia and skeletal muscle wasting independently of FGF23-FGFR4 signaling</title>
+      <link>https://example.com/article/35302487/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35302487/</guid>
+      <description>&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IL-22 Plays a Dual Role in the Amniotic Cavity: Tissue Injury and Host Defense against Microbes in Preterm Labor</title>
+      <link>https://example.com/article/35304419/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35304419/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IL-22 is a multifaceted cytokine with both pro- and anti-inflammatory functions that is implicated in multiple pathologies. However, the role of IL-22 in maternal-fetal immunity in late gestation is poorly understood. In this study, we first showed that IL-22&lt;sup&gt;+&lt;/sup&gt; T cells coexpressing retinoic acid-related orphan receptor γt (ROR-γt) are enriched at the human maternal-fetal interface of women with preterm labor and birth, which was confirmed by in silico analysis of single-cell RNA sequencing data. T cell activation leading to preterm birth in mice was preceded by a surge in IL-22 in the maternal circulation and amniotic cavity; however, systemic administration of IL-22 in mice did not induce adverse perinatal outcomes. Next, using an ex vivo human system, we showed that IL-22 can cross from the choriodecidua to the intra-amniotic space, where its receptors (&lt;em&gt;Il22ra1&lt;/em&gt;, &lt;em&gt;Il10rb&lt;/em&gt;, and &lt;em&gt;Il22ra2&lt;/em&gt;) are highly expressed by murine gestational and fetal tissues in late pregnancy. Importantly, amniotic fluid concentrations of IL-22 were elevated in women with sterile or microbial intra-amniotic inflammation, suggesting a dual role for this cytokine. The intra-amniotic administration of IL-22 alone shortened gestation and caused neonatal death in mice, with the latter outcome involving lung maturation and inflammation. IL-22 plays a role in host response by participating in the intra-amniotic inflammatory milieu preceding &lt;em&gt;Ureaplasma parvum&lt;/em&gt;-induced preterm birth in mice, which was rescued by the deficiency of IL-22. Collectively, these data show that IL-22 alone is capable of causing fetal injury leading to neonatal death and can participate in host defense against microbial invasion of the amniotic cavity leading to preterm labor and birth.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NLRP3 inflammasome is involved in the mechanism of the mitigative effect of lycopene on sulfamethoxazole-induced inflammatory damage in grass carp kidneys</title>
+      <link>https://example.com/article/35314330/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35314330/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Freshwater environmental antibiotic pollution is becoming more severe because of the irregular use of sulfonamide antibiotics. Sulfamethoxazole (SMZ) is a kind of antibiotic that can cause harm to the urinary systems of organisms. However, the toxic impacts of environment-related concentrations of antibiotics in fish have not been thoroughly studied. Lycopene (LYC) has the property of alleviating antibiotic toxicity by diminishing oxidative stress and inflammation. This investigation is intended to examine the instrument of the mitigative part of LYC on SMZ-caused renal inflammatory injury in grass carp. Grass carp were born with SMZ (0. 3 μg L-1) and LYC (10 mg/kg body weight) for 30 days. Serum was used to measure creatinine (CREA) and urea nitrogen (BUN) contents; what is more, kidneys were used to measure histological structure, oxidative stress indicators, relative expressions of cytokines, and inflammatory factors. We found that SMZ exposure significantly increased oxidative stress, characterized by decreased catalase activity (CAT) and superoxide dismutase (SOD). In addition, inflammation-related factors: interleukin (IL-18, IL-6, and IL-1β), an apoptotic speck-containing protein with a card (ASC), NOD-like receptor protein3 (NLRP3), cysteinyl aspartate specific proteinase-1 (caspase-1), tumor necrosis factor-α (TNF-α), and nuclear factor-activated B cells (NF-κB) expression increased significantly contrasted with those control group. Inflammatory reactions and ultrastructural changes accompany. LYC administration alleviated the changes mentioned above. In conclusion, In conclusion, these results suggest a protective effect of LYC dietary supplements against kidney damage caused by SMZ. LYC is expected to prevent and treat oxidative stress and chronic inflammation caused by antibiotics as a critical component in the fish breeding diet.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>IL-6 Prevents Lung Macrophage Death and Lung Inflammation Injury by Inhibiting GSDME- and GSDMD-Mediated Pyroptosis during Pneumococcal Pneumosepsis</title>
+      <link>https://example.com/article/35297653/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35297653/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pneumococcal pneumonia has been a significant cause of morbidity and mortality throughout human history. Failing to control pneumococcal pneumonia and resolve ongoing inflammation in a host can cause sepsis, namely pneumococcal pneumosepsis, and death ensues. Few theories have suggested an optimally therapeutic option for this infectious disease. The interleukin-6 (IL-6, a cytokine featuring pleiotropic activity) theory, proposed here, implies that IL-6 acts as a protector against pneumococcal pneumosepsis. IL-6 prevents lung macrophage death and lung inflammation injury by inhibiting a caspase-3-GSDME-mediated switch from apoptosis to pyroptosis and inhibiting caspase-1-GSDMD-mediated classic pyroptosis during pneumococcal pneumosepsis. Thus, IL-6 is an important determinant for controlling bacterial invasion and a homeostatic coordinator of pneumococcal pneumosepsis. This study clarifies a novel mechanism of occurrence and development of pneumonia and secondary sepsis following a Streptococcus pneumoniae infection. It is important for the early identification and treatment of pneumococcal pneumosepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Immune phenotypic linkage between colorectal cancer and liver metastasis</title>
+      <link>https://example.com/article/35303421/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35303421/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Immune cell phenotypic linkage with colorectal cancer and liver metastasis depicted&lt;/li&gt;
+&lt;li&gt;Malignancy-associated exhausted and regulatory T cells show diverse TCR dependency&lt;/li&gt;
+&lt;li&gt;SPP1&lt;sup&gt;+&lt;/sup&gt; TAMs are malignancy associated and are linked to liver metastasis&lt;/li&gt;
+&lt;li&gt;DCs are mainly associated with host organ except a malignancy-associated DC3 subset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The tumor microenvironment (TME) is connected to immunotherapy responses, but it remains unclear how cancer cells and host tissues differentially influence the immune composition within TME. Here, we performed single-cell analyses for autologous samples from liver metastasized colorectal cancer to disentangle factors shaping TME. By aligning CD45&lt;sup&gt;+&lt;/sup&gt; cells across different tissues, we classified exhausted CD8&lt;sup&gt;+&lt;/sup&gt; T cells (Texs) and activated regulatory T cells as M-type, whose phenotypes were associated with the malignancy, while natural killer and mucosal-associated invariant T cells were defined as N-type, whose phenotypes were associated with the niche. T cell receptor sharing between Texs in primary and metastatic tumors implicated the presence of common peripheral non-exhausted precursors. For myeloid cells, a subset of dendritic cells (DC3s) and SPP1&lt;sup&gt;+&lt;/sup&gt; macrophages were M-type, and the latter were predominant in liver metastasis, indicating its pro-metastasis role. Our analyses bridge immune phenotypes of primary and metastatic tumors, thereby helping to understand the tumor-specific contexture and identify the pro-metastasis components.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>NLRC4 Deficiency Leads to Enhanced Phosphorylation of MLKL and Necroptosis</title>
+      <link>https://example.com/article/35301258/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35301258/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hosts rely on the innate immune system to clear pathogens in response to infection. Pathogen-associated molecular patterns bind to innate immune receptors and engage activation of downstream signaling to initiate a host immune response to fight infection. A key component of this innate response is programmed cell death. Recent work has highlighted significant cross-talk and functional redundancy between cell death pathways, leading to the discovery of PANoptosis, an inflammatory programmed cell death pathway dependent on PANoptosomes, which are innate immune danger-sensing complexes that activate inflammatory cell death and contain caspases with or without inflammasome components and receptor interacting protein homotypic interaction motif-containing proteins. Although PANoptosis has been characterized in response to a growing number of pathogens, inflammatory diseases, and cancer, its role and the functional consequences of PANoptotic component modulation during NLR family CARD domain-containing protein 4 (NLRC4) activation by &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt; infection remain unknown. In this study, we show that P. aeruginosa can induce PANoptosis in mouse bone marrow-derived macrophages (BMDMs). Only the combined deletion of caspase-1, -11, -8, and RIPK3 protected mouse BMDMs from cell death. Moreover, we showed that PANoptotic components act in a compensatory manner; in the absence of NAIP5 and NLRC4 during P. aeruginosa challenge, activation of caspase-1, -3, -7, and -8 was reduced, whereas alternative cell death molecules such as RIPK1 and MLKL were activated in mouse BMDMs. Taken together, these data highlight the extensive cross-talk between cell death signaling molecules and showcase the plasticity of the system.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nanoformulation of a carbon monoxide releasing molecule protects against cyclosporin A-induced nephrotoxicity and renal fibrosis via the suppression of the NLRP3 inflammasome mediated TGF-β/Smad pathway</title>
+      <link>https://example.com/article/35304324/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35304324/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cyclosporin A (CsA) induced nephrotoxicity i.e., renal fibrosis is a critical clinical problem in renal transplant patients, in which chronic inflammatory response is the major cause. Previously, we developed a nano-drug delivery system for carbon monoxide (CO), a multi-functional gaseous molecule with a potent anti-inflammatory effect, i.e., SMA/CORM2, which showed therapeutic potential in several inflammatory disease models. Accordingly, in this study, we explored the potential and usefulness of SMA/CORM2 on CsA induced renal fibrosis. When mice were exposed to CsA for 4 weeks, severe injuries in the kidney as revealed by decreased kidney function and histological examination, and activation of NLRP3 inflammasome, as well as renal fibrosis along with the upregulation of transforming growth factor β (TGFβ)/Smad signaling molecule were observed, whereas SMA/CORM2 (1 mg/kg) treatment remarkably ameliorated the inflammatory injury and fibrosis in the kidney. CO is the major effector molecule of SMA/CORM2 which significantly suppressed the activation of NLRP3 inflammasome, and induced the downregulation of TGFβ/Smad signaling. Inhibition of NLRP3 inflammasome by its inhibitor MCC950 also similarly decreased TGFβ/Smad expression and subsequently improved kidney injury and renal fibrosis, suggesting SMA/CORM2 induced suppression of TGFβ/Smad signaling and renal signaling via an NLRP3 inflammasome-dependent pathway. Compared to native CORM2, SMA/CORM2 exhibited better therapeutic/preventive effects owing to its superior water-solubility and bioavailability. These findings strongly indicated the applicability of SMA/CORM2 as an enhanced permeability and retention (EPR) effect-based nanomedicine for CsA induced renal fibrosis as well as other inflammatory diseases. STATEMENT OF SIGNIFICANCE: Carbon monoxide (CO) is an important gaseous signaling molecule that plays a crucial role in the maintenance of homeostasis. Because of its versatile functions, it exhibits the potential as the target molecule for many diseases, including inflammatory diseases and cancer. The development of stable and disease-targeted delivery systems of CO is thus of interest and importance. Previously we developed a nano micellar CO donor SMA/CORM2 which shows superior bioavailability and therapeutic potential in many inflammatory disease models. We reported here, SMA/CORM2, through controlled release of CO, greatly ameliorated CsA-induced renal fibrosis via suppressing the NLRP3 inflammasome mediated TGF-β/Smad pathway. These findings suggest a new anti-inflammatory mechanism of CO, which also provides a new approach for controlling CsA-induced nephrotoxicity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Delicate regulation of IL-1β-mediated inflammation by cyclophilin A</title>
       <link>https://example.com/article/35294882/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
@@ -13094,12 +14202,112 @@
     </item>
     
     <item>
+      <title>Fengreqing Oral Liquid Exerts Anti-Inflammatory Effects by Promoting Apoptosis and Inhibiting PI3K/AKT and NF-κB Signaling Pathways</title>
+      <link>https://example.com/article/35370749/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35370749/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fengreqing oral liquid (FOL), a Chinese patent drug frequently used in clinical practice in China, is effective in treating inflammatory diseases of the upper respiratory tract such as colds and flu. However, its anti-inflammatory effects and mechanisms remain to be elucidated. In this study, the anti-inflammatory effects of FOL and its mechanisms on PI3K/AKT and NF-κB signaling pathways in LPS-induced RAW264.7 cells were explored, as well as the regulatory effect of FOL on apoptosis. In addition, the potential of FOL for the treatment of acute lung injury was explored in LPS-induced ALI mice. The results showed that treatment with FOL significantly reduced the levels of interleukin 1β (IL-1β), interleukin 6 (IL-6), nitric oxide (NO), and tumor necrosis factor α (TNF-α) in the supernatant of LPS-induced RAW264.7 cells, and also significantly reduced the phosphorylated protein levels of PI3K and AKT in the PI3K/AKT signaling pathway and also protein levels of NF-κB p50, phosphorylated NF-κB p65, and IκBα in the NF-κB signaling pathway. In addition, the results showed that FOL induced apoptosis in LPS-induced RAW264.7 cells at the level of 80%-90%, and significantly increased the protein expression levels of the pro-apoptotic Bax and cleaved-caspase-3. In LPS-induced ALI mice, FOL administration showed inhibition of IL-1β, IL-6, and TNF-α in Bronchoalveolar lavage fluid (BALF) and decreased protein expression levels of PI3K, AKT, NF-κB p50, and NF-κB p65, and elevated protein expression levels of Bax and cleaved-caspase-3 significantly. These results suggest that FOL may exert anti-inflammatory effects by inhibiting the PI3K/AKT signaling pathway to promote apoptosis and leading to attenuated activation of the NF-κB signaling pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An Optimized Two-Herb Chinese Food as Medicine Formula Reduces Cisplatin-Induced Nephrotoxicity in the Treatment of Lung Cancer in Mice</title>
+      <link>https://example.com/article/35355712/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35355712/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chemotherapy is considered a most effective way to treat cancer. However, it is very common that chemotherapy causes unbearable mental and physical side effects to cancer patients, which ultimately reduces the patients&amp;rsquo; confidence of overcoming diseases and compromises the treatment of chemotherapy. Cisplatin (DDP), a widely used anticancer agent for various types of cancers, also damages nontumor cells and tissues, which are mostly related to the activation of the inflammation pathway. Previously, we have discovered a few rational formulas of food as medicine materials that reduced systemic inflammation in &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; models. Hence, this study reports the ability of an optimized traditional Chinese anti-inflammatory formulation capable of synergizing the antitumor effect of DDP &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;. More significantly, by formulation of two anti-inflammatory herbal medicine, the &lt;em&gt;Chrysanthemum&lt;/em&gt; × &lt;em&gt;morifolium&lt;/em&gt; (Ramat.) Hemsl [Asteraceae] and &lt;em&gt;Lonicera japonica&lt;/em&gt; Thunb [Caprifoliaceae] with a mediator &lt;em&gt;Glycyrrhiza uralensis&lt;/em&gt; Fisch. ex DC [Fabaceae], a best formula relieved the kidney damage imposed by DDP. Treatments of various combinations of major chemical components of the three herbs also exhibited a similar trend for lowering the DDP-induced nephrotoxicity; however, contrary to that of the formula of herbal extracts, all chemical formulas could not recover the body weight and food intake of the tumor-bearing mice treated by DDP. Our findings suggested that the therapeutic index of DDP-based chemotherapy was able to be improved by minimizing toxicities from the two-herb formula to inhibit the inflammation in mouse tumor models and DDP-induced acute kidney injury mouse models.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Peramivir, an Anti-Influenza Virus Drug, Exhibits Potential Anti-Cytokine Storm Effects</title>
+      <link>https://example.com/article/35296098/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35296098/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coronavirus Disease 2019 (COVID-19) infected by Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) has been declared a public health emergency of international concerns. Cytokine storm syndrome (CSS) is a critical clinical symptom of severe COVID-19 patients, and the macrophage is recognized as the direct host cell of SARS-CoV-2 and potential drivers of CSS. In the present study, peramivir was identified to reduce TNF-α by partly intervention of NF-κB activity in LPS-induced macrophage model. &lt;em&gt;In vivo&lt;/em&gt;, peramivir reduced the multi-cytokines in serum and bronchoalveolar lavage fluid (BALF), alleviated the acute lung injury and prolonged the survival time in mice. In human peripheral blood mononuclear cells (hPBMCs), peramivir could also inhibit the release of TNF-α. Collectively, we proposed that peramivir might be a candidate for the treatment of COVID-19 and other infections related CSS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Identification and establishment of type IV interferon and the characterization of interferon-υ including its class II cytokine receptors IFN-υR1 and IL-10R2</title>
       <link>https://example.com/article/35194032/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35194032/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Interferons (IFNs) are critical soluble factors in the immune system and are composed of three types, (I, II and III) that utilize different receptor complexes IFN-αR1/IFN-αR2, IFN-γR1/IFN-γR2, and IFN-λR1/IL-10R2, respectively. Here we identify IFN-υ from the genomic sequences of vertebrates. The members of class II cytokine receptors, IFN-υR1 and IL-10R2, are identified as the receptor complex of IFN-υ, and are associated with IFN-υ stimulated gene expression and antiviral activity in zebrafish (Danio rerio) and African clawed frog (Xenopus laevis). IFN-υ and IFN-υR1 are separately located at unique and highly conserved loci, being distinct from all other three-type IFNs. IFN-υ and IFN-υR1 are phylogenetically clustered with class II cytokines and class II cytokine receptors, respectively. Therefore, the finding of this IFN ligand-receptor system may be considered as a type IV IFN, in addition to the currently recognized three types of IFNs in vertebrates.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Prompt Antiviral Action of Pulmonary CD8&#43; TRM Cells Is Mediated by Rapid IFN-γ Induction and Its Downstream ISGs in the Lung</title>
+      <link>https://example.com/article/35296070/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35296070/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Growing lines of evidence supported the importance of CD8&lt;sup&gt;+&lt;/sup&gt; lung tissue resident memory T (T&lt;sub&gt;RM&lt;/sub&gt;) cells in protection against respiratory viruses, exemplified by influenza A virus. However, the underlying &lt;em&gt;in vivo&lt;/em&gt; mechanism remains largely undetermined. Here, we used mouse infection models to dissect &lt;em&gt;in vivo&lt;/em&gt; cross-protective activity of lung CD8&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells. By simultaneously interrogating transcriptional dynamics in lung CD8&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells and surrounding tissues during the early course of infection, we demonstrated that lung CD8&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells react to antigen re-exposure within hours, manifested by IFN-γ upregulation, and a tissue-wide interferon-stimulated gene (ISG) program is subsequently elicited. Using antibody-mediated IFN-γ neutralization and IFN-γ receptor knockout mice, we could show that the induction of several important antiviral ISGs required IFN-γ signaling, so did the suppression of key inflammatory cytokines. Interestingly, there were also examples of ISGs unaffected in the absence of IFN-γ activity. Collectively, focusing on &lt;em&gt;in situ&lt;/em&gt; characterization of lung CD8&lt;sup&gt;+&lt;/sup&gt; T&lt;sub&gt;RM&lt;/sub&gt; cells during very early stage of infection, a critical period of host antiviral defense that has been poorly investigated, our studies highlight that these cells, once triggered by antigen re-exposure, are programmed to produce IFN-γ expeditiously to promote a lung-wide antiviral response for effective virus control.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -13688,6 +14896,35 @@
       <guid>https://example.com/article/34731629/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Interferon regulatory factor 3 (IRF3) is an essential transductor for initiation of many immune responses. Here, we show that lncRNA-ISIR directly binds IRF3 to promote its phosphorylation, dimerization, and nuclear translocation, along with enhanced target gene productions. In vivo lncRNA-ISIR deficiency results in reduced IFN production, uncontrolled viral replication, and increased mortality. The human homolog, AK131315, also binds IRF3 and promotes its activation. More important, AK131315 expression is positively correlated with type I interferon (IFN-I) level and severity in patients with lupus. Mechanistically, in resting cells, IRF3 is bound to suppressor protein Flightless-1 (Fli-1), which keeps its inactive state. Upon infection, IFN-I-induced lncRNA-ISIR binds IRF3 at DNA-binding domain in cytoplasm and removes Fli-1&amp;rsquo;s association from IRF3, consequently facilitating IRF3 activation. Our results demonstrate that IFN-I-inducible lncRNA-ISIR feedback strengthens IRF3 activation by removing suppressive Fli-1 in immune responses, revealing a method of lncRNA-mediated modulation of transcription factor (TF) activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A DNA Nanoraft-Based Cytokine Delivery Platform for Alleviation of Acute Kidney Injury</title>
+      <link>https://example.com/article/34723467/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34723467/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erratum in:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Correction to “&lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acsnano.2c02862&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;A DNA Nanoraft-Based Cytokine Delivery Platform for Alleviation of Acute Kidney Injury&lt;/em&gt;&lt;/a&gt;”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cytokine immunotherapy represents an attractive strategy to stimulate robust immune responses for renal injury repair in ischemic acute kidney injury (AKI). However, its clinical application is hindered by its nonspecificity to kidney, short circulation half-life, and severe side effects. An ideal cytokine immunotherapy for AKI requires preferential delivery of cytokines with accurate dosage to the kidney and sustained-release of cytokines to stimulate the immune responses. Herein, we developed a DNA nanoraft cytokine by precisely arranging interleukin-33 (IL-33) nanoarray on rectangle DNA origami, through which IL-33 can be preferentially delivered to the kidney for alleviation of AKI. A nanoraft carrying precisely quantified IL-33 predominantly accumulated in the kidney for up to 48 h. Long-term sustained-release of IL-33 from nanoraft induced rapid expansion of type 2 innate lymphoid cells (ILC 2s) and regulatory T cells (Tregs) and achieved better treatment efficiency compared to free IL-33 treatment. Thus, our study demonstrates that a nanoraft can serve as a structurally well-defined delivery platform for cytokine immunotherapy in ischemic AKI and other renal diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

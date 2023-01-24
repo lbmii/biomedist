@@ -5,12 +5,44 @@
     <link>https://example.com/tag/mitochondria/</link>
       <atom:link href="https://example.com/tag/mitochondria/index.xml" rel="self" type="application/rss+xml" />
     <description>Mitochondria</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Mitochondria</title>
       <link>https://example.com/tag/mitochondria/</link>
     </image>
+    
+    <item>
+      <title>Dopamine inhibits group 2 innate lymphoid cell-driven allergic lung inflammation by dampening mitochondrial activity</title>
+      <link>https://example.com/article/23-01-24-14-40/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-24-14-40/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The amounts of dopamine are negatively correlated with circulating ILC2 numbers in humans&lt;/li&gt;
+&lt;li&gt;Dopamine suppresses ILC2-driven allergic airway inflammation via DRD1&lt;/li&gt;
+&lt;li&gt;Dopamine constrains ILC2 responses through inhibiting oxidative phosphorylation&lt;/li&gt;
+&lt;li&gt;Local administration of dopamine may represent a promising therapeutic regimen for asthma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neuronal signals have emerged as pivotal regulators of group 2 innate lymphoid cells (ILC2s) that regulate tissue homeostasis and allergic inflammation. The molecular pathways underlying the neuronal regulation of ILC2 responses in lungs remain to be fully elucidated. Here, we found that the abundance of neurotransmitter dopamine was negatively correlated with circulating ILC2 numbers and positively associated with pulmonary function in humans. Dopamine potently suppressed lung ILC2 responses in a DRD1-receptor-dependent manner. Genetic deletion of &lt;em&gt;Drd1&lt;/em&gt; or local ablation of dopaminergic neurons augmented ILC2 responses and allergic lung inflammation. Transcriptome and metabolic analyses revealed that dopamine impaired the mitochondrial oxidative phosphorylation (OXPHOS) pathway in ILC2s. Augmentation of OXPHOS activity with oltipraz antagonized the inhibitory effect of dopamine. Local administration of dopamine alleviated allergen-induced ILC2 responses and airway inflammation. These findings demonstrate that dopamine represents an inhibitory regulator of ILC2 responses in allergic airway inflammation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Formyl peptide receptor 2 activation by mitochondrial formyl peptides stimulates the neutrophil proinflammatory response via the ERK pathway and exacerbates ischemia-reperfusion injury</title>
@@ -1466,6 +1498,44 @@
     </item>
     
     <item>
+      <title>Mitochondria bridge HIF signaling and ferroptosis blockage in acute kidney injury</title>
+      <link>https://example.com/review/35387983/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35387983/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ferroptosis, a form of regulated cell death, plays an important role in acute kidney injury (AKI). Previous studies have shown that prolyl hydroxylase domain protein (PHD) inhibitors that activate HIF signaling provide strong protection against AKI, which is characterized by marked cell death. However, the relationship between PHD inhibition/HIF signaling and ferroptosis in AKI has not been elucidated. Here, we review recent studies to explore the issue. First, we will review the literature concerning the functions of HIF in promoting mitophagy, suppressing mitochondrial respiration and modulating redox homeostasis. Second, we will describe the current understanding of ferroptosis and its role in AKI, particularly from the perspective of mitochondrial dysfunction. Finally, we will discuss the possibility that mitochondria link PHD inhibition/HIF signaling and ferroptosis in AKI. In conclusion, we propose that HIF may protect renal cells against ferroptosis in AKI by reducing mitochondrial oxidative stress and damage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Facts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ferroptosis plays an important role in the development of AKI.&lt;/li&gt;
+&lt;li&gt;Activation of HIF signaling provides protection against AKI.&lt;/li&gt;
+&lt;li&gt;Mitochondrial ROS facilitate ferroptosis in many cases.&lt;/li&gt;
+&lt;li&gt;HIF signaling regulates multiple mitochondrial activities, including mitochondrial oxidative capacity, redox homeostasis and autophagy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Open questions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can HIF signaling alleviate ferroptosis in AKI with different etiologies?&lt;/li&gt;
+&lt;li&gt;Is mitochondrial pathway decisive for HIF-offered protection in situations like AKI, given that HIF signaling has extensive downstream effects?&lt;/li&gt;
+&lt;li&gt;Would PHD inhibitors be effective in AKI prevention and treatment clinically?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Meldonium Ameliorates Hypoxia-Induced Lung Injury and Oxidative Stress by Regulating Platelet-Type Phosphofructokinase-Mediated Glycolysis</title>
       <link>https://example.com/article/35450040/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
@@ -1497,6 +1567,59 @@
       <guid>https://example.com/article/35432374/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Chrysin has been proven to possess antiviral properties, but the precise underlying anti-influenza mechanism and its anti-influenza efficacy in vivo are largely unclear. In this study, we investigated the involvement of chrysin in the blockade of cell cycle and apoptosis in distinct cell lines subjected to two H1N1 influenza A virus (IAV) strains, as well as its anti-IAV activity in vivo. Here, we found an early unidentified finding that chrysin strongly impeded IAV replication through a mechanism that was autonomous of innate antiviral immune activation and viral protein interaction. Surprisingly, chrysin can suppress IAV-induced cell cycle arrest in the G0/G1 phase by downregulating the expression levels of P53 and P21 while promoting Cyclin D1/CDK4 and Cyclin E1/CDK2 activation. Furthermore, chrysin dramatically inhibited the IAV-triggered mitochondrial apoptotic pathway by altering the balance of Bax/Bcl-xl and reducing caspase-9 and caspase-3 activation. Accumulated reactive oxygen species (ROS) reduction may contribute to the inhibitory role of chrysin in cell cycle arrest and apoptosis following IAV infection. Notably, chrysin preferably inhibited IAV replication in the upper respiratory tract, indicating that it might be a promising drug for restraining the spread of respiratory viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>AdMSC-derived exosomes alleviate acute lung injury via transferring mitochondrial component to improve homeostasis of alveolar macrophages</title>
+      <link>https://example.com/article/35401830/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35401830/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rationale:&lt;/em&gt; Aberrant activation of macrophages with mitochondria dismiss was proved to be associated with pathogenesis of ALI (acute lung injury). Exosomes from adipose-derived mesenchymal stem cells (AdMSC-Exos) have been distinguished by their low immunogenicity, lack of tumorigenicity, and high clinical safety, but their role in treating ALI and the mechanism involved need to be defined. In this study, we sought to investigate whether the mitochondrial donation from AdMSC-Exos provides profound protection against LPS-induced ALI in mice, accompanied by improvement of macrophage mitochondrial function.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; C57BL/6 mice were orotracheally instilled with LPS (1 mg/kg). AdMSC-Exos were administered via the tail vein 4 h after LPS inhalation. Flow cytometry, H&amp;amp;E, Quantitative Real-Time PCR, immunofluorescence (IF), confocal microscopy imaging was conducted to investigate lung tissue inflammation and macrophage mitochondrial function. And further observe the transfer of exosomes and the effect on mitochondrial function of MH-S cells through &lt;em&gt;in vitro&lt;/em&gt; experiments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; AdMSC-Exos can transfer the stem cell-derived mitochondria components to alveolar macrophages in a dose-dependent manner. Likely through complementing the damaged mitochondria, AdMSC-Exos exhibited the ability to elevate the level of mtDNA, mitochondrial membrane potential (MMP), OXPHOS activity and ATP generation, while reliving mROS stress in LPS-challenged macrophages. Restoring mitochondrial integrity via AdMSC-Exos treatment enabled macrophages shifting to anti-inflammatory phenotype, as featured with the down-regulation of IL-1β, TNF-α and iNOS secretion and increase in production of anti-inflammatory cytokines IL-10 and Arg-1. As we depleted alveolar macrophages using clodronate liposomes, the protective role for AdMSC-Exos was largely abrogated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; AdMSC-Exos can effectively donate mitochondria component improved macrophages mitochondrial integrity and oxidative phosphorylation level, leading to the resumption of metabolic and immune homeostasis of airway macrophages and mitigating lung inflammatory pathology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial Protein Akap 1 Deletion Exacerbates Endoplasmic Reticulum Stress in Mice Exposed to Hyperoxia</title>
+      <link>https://example.com/article/35370705/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35370705/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) and its severe manifestation, acute respiratory distress syndrome (ARDS), are treated with high concentrations of supplementary oxygen. However, prolonged exposure to high oxygen concentrations stimulates the production of reactive oxygen species (ROS), which damages the mitochondria and accumulates misfolded proteins in the endoplasmic reticulum (ER). The mitochondrial protein A-kinase anchoring protein 1 (&lt;em&gt;Akap1&lt;/em&gt;) is critical for mitochondrial homeostasis. It is known that &lt;em&gt;Akap1&lt;/em&gt; deficiency results in heart damage, neuronal development impairment, and mitochondrial malfunction in preclinical studies. Our laboratory recently revealed that deleting &lt;em&gt;Akap1&lt;/em&gt; increases the severity of hyperoxia-induced ALI in mice. To assess the role of &lt;em&gt;Akap1&lt;/em&gt; deletion in ER stress in lung injury, wild-type and &lt;em&gt;Akap1&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice were exposed to hyperoxia for 48 h. This study indicates that &lt;em&gt;Akap1&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice exposed to hyperoxia undergo ER stress, which is associated with an increased expression of BiP, JNK phosphorylation, eIF2α phosphorylation, ER stress-induced cell death, and autophagy. This work demonstrates that deleting &lt;em&gt;Akap1&lt;/em&gt; results in increased ER stress in the lungs of mice and that hyperoxia exacerbates ER stress-related consequences.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
