@@ -5,12 +5,40 @@
     <link>https://example.com/tag/metabolism/</link>
       <atom:link href="https://example.com/tag/metabolism/index.xml" rel="self" type="application/rss+xml" />
     <description>Metabolism</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Metabolism</title>
       <link>https://example.com/tag/metabolism/</link>
     </image>
+    
+    <item>
+      <title>Molecular differences of angiogenic versus vessel co-opting colorectal cancer liver metastases at single-cell resolution</title>
+      <link>https://example.com/article/36691028/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36691028/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Colorectal cancer liver metastases (CRCLM) are associated with a poor prognosis, reflected by a five-year survival rate of 14%. Anti-angiogenic therapy through anti-VEGF antibody administration is one of the limited therapies available. However, only a subgroup of metastases uses sprouting angiogenesis to secure their nutrients and oxygen supply, while others rely on vessel co-option (VCO). The distinct mode of vascularization is reflected by specific histopathological growth patterns (HGPs), which have proven prognostic and predictive significance. Nevertheless, their molecular mechanisms are poorly understood.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We evaluated CRCLM from 225 patients regarding their HGP and clinical data. Moreover, we performed spatial (21,804 spots) and single-cell (22,419 cells) RNA sequencing analyses to explore molecular differences in detail, further validated in vitro through immunohistochemical analysis and patient-derived organoid cultures.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We detected specific metabolic alterations and a signature of WNT signalling activation in metastatic cancer cells related to the VCO phenotype. Importantly, in the corresponding healthy liver of CRCLM displaying sprouting angiogenesis, we identified a predominantly expressed capillary subtype of endothelial cells, which could be further explored as a possible predictor for HGP relying on sprouting angiogenesis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; These findings may prove to be novel therapeutic targets to the treatment of CRCLM, in special the ones relying on VCO.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Application of metabolomics in urolithiasis: the discovery and usage of succinate</title>
@@ -2162,6 +2190,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The pro-inflammatory activation of microglia is a hallmark of Alzheimer&amp;rsquo;s disease (AD), and this process involves a switch from oxidative phosphorylation (OXPHOS) toward glycolysis. Here, we show how a positive feedback loop in microglia drives AD pathogenesis, and we demonstrate that inhibiting this cycle in microglia can ameliorate Aβ burden and cognitive deficits in an AD mouse model (5XFAD). After first detecting elevated histone lactylation in brain samples from both 5XFAD mice and individuals with AD, we observed that H4K12la levels are elevated in Aβ plaque-adjacent microglia. This lactate-dependent histone modification is enriched at the promoters of glycolytic genes and activates transcription, thereby increasing glycolytic activity. Ultimately, the glycolysis/H4K12la/PKM2 positive feedback loop exacerbates microglial dysfunction in AD. Pharmacologic inhibition of PKM2 attenuated microglial activation, and microglia-specific ablation of Pkm2 improved spatial learning and memory in AD mice. Thus, our study illustrates that disruption of the positive feedback loop may be a potential therapeutic approach for the treatment of AD.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The arginine methyltransferase PRMT7 promotes extravasation of monocytes resulting in tissue injury in COPD</title>
+      <link>https://example.com/article/35288557/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35288557/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extravasation of monocytes into tissue and to the site of injury is a fundamental immunological process, which requires rapid responses via post translational modifications (PTM) of proteins. Protein arginine methyltransferase 7 (PRMT7) is an epigenetic factor that has the capacity to mono-methylate histones on arginine residues. Here we show that in chronic obstructive pulmonary disease (COPD) patients, PRMT7 expression is elevated in the lung tissue and localized to the macrophages. In mouse models of COPD, lung fibrosis and skin injury, reduced expression of PRMT7 associates with decreased recruitment of monocytes to the site of injury and hence less severe symptoms. Mechanistically, activation of NF-κB/RelA in monocytes induces PRMT7 transcription and consequential mono-methylation of histones at the regulatory elements of RAP1A, which leads to increased transcription of this gene that is responsible for adhesion and migration of monocytes. Persistent monocyte-derived macrophage accumulation leads to ALOX5 over-expression and accumulation of its metabolite LTB4, which triggers expression of ACSL4 a ferroptosis promoting gene in lung epithelial cells. Conclusively, inhibition of arginine mono-methylation might offer targeted intervention in monocyte-driven inflammatory conditions that lead to extensive tissue damage if left untreated.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

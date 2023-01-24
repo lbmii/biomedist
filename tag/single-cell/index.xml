@@ -5,12 +5,40 @@
     <link>https://example.com/tag/single-cell/</link>
       <atom:link href="https://example.com/tag/single-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Single Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Single Cell</title>
       <link>https://example.com/tag/single-cell/</link>
     </image>
+    
+    <item>
+      <title>Molecular differences of angiogenic versus vessel co-opting colorectal cancer liver metastases at single-cell resolution</title>
+      <link>https://example.com/article/36691028/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36691028/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Colorectal cancer liver metastases (CRCLM) are associated with a poor prognosis, reflected by a five-year survival rate of 14%. Anti-angiogenic therapy through anti-VEGF antibody administration is one of the limited therapies available. However, only a subgroup of metastases uses sprouting angiogenesis to secure their nutrients and oxygen supply, while others rely on vessel co-option (VCO). The distinct mode of vascularization is reflected by specific histopathological growth patterns (HGPs), which have proven prognostic and predictive significance. Nevertheless, their molecular mechanisms are poorly understood.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We evaluated CRCLM from 225 patients regarding their HGP and clinical data. Moreover, we performed spatial (21,804 spots) and single-cell (22,419 cells) RNA sequencing analyses to explore molecular differences in detail, further validated in vitro through immunohistochemical analysis and patient-derived organoid cultures.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We detected specific metabolic alterations and a signature of WNT signalling activation in metastatic cancer cells related to the VCO phenotype. Importantly, in the corresponding healthy liver of CRCLM displaying sprouting angiogenesis, we identified a predominantly expressed capillary subtype of endothelial cells, which could be further explored as a possible predictor for HGP relying on sprouting angiogenesis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; These findings may prove to be novel therapeutic targets to the treatment of CRCLM, in special the ones relying on VCO.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A single-cell massively parallel reporter assay detects cell-type-specific gene regulation</title>

@@ -5,12 +5,40 @@
     <link>https://example.com/tag/cell-death/</link>
       <atom:link href="https://example.com/tag/cell-death/index.xml" rel="self" type="application/rss+xml" />
     <description>Cell Death</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cell Death</title>
       <link>https://example.com/tag/cell-death/</link>
     </image>
+    
+    <item>
+      <title>RAGE inhibition alleviates lipopolysaccharides-induced lung injury via directly suppressing autophagic apoptosis of type II alveolar epithelial cells</title>
+      <link>https://example.com/article/36691012/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36691012/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Advanced glycation end product receptor (RAGE) acts as a receptor of pro-inflammatory ligands and is highly expressed in alveolar epithelial cells (AECs). Autophagy in AECs has received much attention recently. However, the roles of autophagy and RAGE in the pathogenesis of acute lung injury remain unclear. Therefore, this study aimed to explore whether RAGE activation signals take part in the dysfunction of alveolar epithelial barrier through autophagic death.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Acute lung injury animal models were established using C57BL/6 and Ager gene knockout (Ager -/- mice) mice in this study. A549 cells and primary type II alveolar epithelial (ATII) cells were treated with siRNA to reduce Ager gene expression. Autophagy was inhibited by 3-methyladenine (3-MA). Lung injury was assessed by histopathological examination. Cell viability was estimated by cell counting kit-8 (CCK-8) assay. The serum and bronchoalveolar lavage fluid (BALF) levels of interleukin (IL)-6, IL-8 and soluble RAGE (sRAGE) were evaluated by Enzyme-linked immunosorbent assay (ELISA). The involvement of RAGE signals, autophagy and apoptosis was assessed using western blots, immunohistochemistry, immunofluorescence, transmission electron microscopy and TUNEL test.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The expression of RAGE was promoted by lipopolysaccharide (LPS), which was associated with activation of autophagy both in mice lung tissues and A549 cells as well as primary ATII cells. sRAGE in BALF was positively correlated with IL-6 and IL-8 levels. Compared with the wild-type mice, inflammation and apoptosis in lung tissues were alleviated in Ager-/- mice. Persistently activated autophagy contributed to cell apoptosis, whereas the inhibition of autophagy by 3-MA protected lungs from damage. In addition, Ager knockdown inhibited LPS-induced autophagy activation and attenuated lung injury. In vitro, knockdown of RAGE significantly suppressed the activation of LPS-induced autophagy and apoptosis of A549 and primary ATII cells. Furthermore, RAGE activated the downstream STAT3 signaling pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; RAGE plays an essential role in the pathogenesis of ATII cells injury. Our results suggested that RAGE inhibition alleviated LPS-induced lung injury by directly suppressing autophagic apoptosis of alveolar epithelial cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Chloroquine reduces neutrophil extracellular trap (NET) formation through inhibition of peptidyl arginine deiminase 4 (PAD4)</title>
@@ -924,6 +952,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Crosstalk between mitophagy and innate immunity in viral infection</title>
+      <link>https://example.com/review/36590405/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36590405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mitochondria are important organelles involved in cell metabolism and programmed cell death in eukaryotic cells and are closely related to the innate immunity of host cells against viruses. Mitophagy is a process in which phagosomes selectively phagocytize damaged or dysfunctional mitochondria to form autophagosomes and is degraded by lysosomes, which control mitochondrial mass and maintain mitochondrial dynamics and cellular homeostasis. Innate immunity is an important part of the immune system and plays a vital role in eliminating viruses. Viral infection causes many physiological and pathological alterations in host cells, including mitophagy and innate immune pathways. Accumulating evidence suggests that some virus promote self-replication through regulating mitophagy-mediated innate immunity. Clarifying the regulatory relationships among mitochondria, mitophagy, innate immunity, and viral infection will shed new insight for pathogenic mechanisms and antiviral strategies. This review systemically summarizes the activation pathways of mitophagy and the relationship between mitochondria and innate immune signaling pathways, and then discusses the mechanisms of viruses on mitophagy and innate immunity and how viruses promote self-replication by regulating mitophagy-mediated innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -6598,6 +6651,64 @@
     </item>
     
     <item>
+      <title>The arginine methyltransferase PRMT7 promotes extravasation of monocytes resulting in tissue injury in COPD</title>
+      <link>https://example.com/article/35288557/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35288557/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extravasation of monocytes into tissue and to the site of injury is a fundamental immunological process, which requires rapid responses via post translational modifications (PTM) of proteins. Protein arginine methyltransferase 7 (PRMT7) is an epigenetic factor that has the capacity to mono-methylate histones on arginine residues. Here we show that in chronic obstructive pulmonary disease (COPD) patients, PRMT7 expression is elevated in the lung tissue and localized to the macrophages. In mouse models of COPD, lung fibrosis and skin injury, reduced expression of PRMT7 associates with decreased recruitment of monocytes to the site of injury and hence less severe symptoms. Mechanistically, activation of NF-κB/RelA in monocytes induces PRMT7 transcription and consequential mono-methylation of histones at the regulatory elements of RAP1A, which leads to increased transcription of this gene that is responsible for adhesion and migration of monocytes. Persistent monocyte-derived macrophage accumulation leads to ALOX5 over-expression and accumulation of its metabolite LTB4, which triggers expression of ACSL4 a ferroptosis promoting gene in lung epithelial cells. Conclusively, inhibition of arginine mono-methylation might offer targeted intervention in monocyte-driven inflammatory conditions that lead to extensive tissue damage if left untreated.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Poly(rC)-binding protein 1 represses ferritinophagy-mediated ferroptosis in head and neck cancer</title>
+      <link>https://example.com/article/35290903/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35290903/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PCBP1 expression is related to head and neck cancer survival and response to ferroptosis inducers.&lt;/li&gt;
+&lt;li&gt;Knockdown of PCBP1 increased ferroptosis sensitivity by inducing an increased labile iron pool.&lt;/li&gt;
+&lt;li&gt;PCBP1 negatively regulated ferritinophagy by the 3′-UTR binding of BECN1 mRNA.&lt;/li&gt;
+&lt;li&gt;Knockdown of PCBP1 increased lipid peroxidation by ALOX15 expression.&lt;/li&gt;
+&lt;li&gt;PCBP1 depletion promoted ferroptosis susceptibility in vitro and in vivo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A cytosolic iron chaperone poly(rC)-binding protein 1 (PCBP1) is a multifunctional RNA-binding protein involving gene transcription, RNA regulation, and iron loading to ferritins. PCBP1 is also known to repress autophagy, but the role of PCBP1 in ferritinophagy and ferroptosis remains unrevealed. Therefore, we examined the role of PCBP1 in ferritinophagy-mediated ferroptosis in head and neck cancer (HNC) cells. The effects of system xc&lt;sup&gt;-&lt;/sup&gt; cystine/glutamate antiporter (xCT) inhibitors and PCBP1 gene silencing/overexpression were tested on HNC cell lines and mouse tumor xenograft models. These effects were analyzed by assessing cell viability and death, lipid reactive oxygen species and iron production, lipid, malondialdehyde, mRNA/protein expression, and autophagy flux assays. Interaction between PCBP1 and BECN1 mRNA was also examined by luciferase and RNA-protein pull-down assays. PCBP1 gene silencing increased autophagosome generation and autophagic flux. Conversely, PCBP1 upregulation inhibited autophagy activation via direct binding to the CU-rich elements on the 3&amp;rsquo;-untranslated region (3&amp;rsquo;-UTR) of BECN1 mRNA. The internal deletion or mutation of the 3&amp;rsquo;-UTR F2 region recovered BECN1 mRNA stability repressed by PCBP1, resulting in enhanced ferritinophagy-mediated ferroptosis. Besides, PCBP1 knockdown promoted polyunsaturated fatty acid peroxidation by increasing ALOX15 expression. Further, excess iron accumulation caused mitochondrial dysfunction in PCBP1-suppressed cells. A ferroptosis inducer sulfasalazine significantly suppressed tumor growth in mice with the transplantation of PCBP1-silenced HNC. Our data suggest that the dual functions of PCBP1 repressing BECN1 and ALOX15 mRNAs contribute to attenuating cancer susceptibility to ferroptosis inducers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Ubiquitin ligase E3 HUWE1/MULE targets transferrin receptor for degradation and suppresses ferroptosis in acute liver injury</title>
       <link>https://example.com/article/35260822/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
@@ -9245,31 +9356,6 @@
       <guid>https://example.com/review/21953325/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Anoikis is a programmed cell death occurring upon cell detachment from the correct extracellular matrix, thus disrupting integrin ligation. It is a critical mechanism in preventing dysplastic cell growth or attachment to an inappropriate matrix. Anoikis prevents detached epithelial cells from colonizing elsewhere and is thus essential for tissue homeostasis and development. As anchorage-independent growth and epithelial-mesenchymal transition, two features associated with anoikis resistance, are crucial steps during tumour progression and metastatic spreading of cancer cells, anoikis deregulation has now evoked particular attention from the scientific community. The aim of this review is to analyse the molecular mechanisms governing both anoikis and anoikis resistance, focusing on their regulation in physiological processes, as well as in several diseases, including metastatic cancers, cardiovascular diseases and diabetes.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Crosstalk between mitophagy and innate immunity in viral infection</title>
-      <link>https://example.com/review/36590405/</link>
-      <pubDate>Mon, 26 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/review/36590405/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mitochondria are important organelles involved in cell metabolism and programmed cell death in eukaryotic cells and are closely related to the innate immunity of host cells against viruses. Mitophagy is a process in which phagosomes selectively phagocytize damaged or dysfunctional mitochondria to form autophagosomes and is degraded by lysosomes, which control mitochondrial mass and maintain mitochondrial dynamics and cellular homeostasis. Innate immunity is an important part of the immune system and plays a vital role in eliminating viruses. Viral infection causes many physiological and pathological alterations in host cells, including mitophagy and innate immune pathways. Accumulating evidence suggests that some virus promote self-replication through regulating mitophagy-mediated innate immunity. Clarifying the regulatory relationships among mitochondria, mitophagy, innate immunity, and viral infection will shed new insight for pathogenic mechanisms and antiviral strategies. This review systemically summarizes the activation pathways of mitophagy and the relationship between mitochondria and innate immune signaling pathways, and then discusses the mechanisms of viruses on mitophagy and innate immunity and how viruses promote self-replication by regulating mitophagy-mediated innate immunity.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

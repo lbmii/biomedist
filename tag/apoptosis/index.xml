@@ -5,12 +5,40 @@
     <link>https://example.com/tag/apoptosis/</link>
       <atom:link href="https://example.com/tag/apoptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Apoptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Apoptosis</title>
       <link>https://example.com/tag/apoptosis/</link>
     </image>
+    
+    <item>
+      <title>RAGE inhibition alleviates lipopolysaccharides-induced lung injury via directly suppressing autophagic apoptosis of type II alveolar epithelial cells</title>
+      <link>https://example.com/article/36691012/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36691012/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Advanced glycation end product receptor (RAGE) acts as a receptor of pro-inflammatory ligands and is highly expressed in alveolar epithelial cells (AECs). Autophagy in AECs has received much attention recently. However, the roles of autophagy and RAGE in the pathogenesis of acute lung injury remain unclear. Therefore, this study aimed to explore whether RAGE activation signals take part in the dysfunction of alveolar epithelial barrier through autophagic death.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Acute lung injury animal models were established using C57BL/6 and Ager gene knockout (Ager -/- mice) mice in this study. A549 cells and primary type II alveolar epithelial (ATII) cells were treated with siRNA to reduce Ager gene expression. Autophagy was inhibited by 3-methyladenine (3-MA). Lung injury was assessed by histopathological examination. Cell viability was estimated by cell counting kit-8 (CCK-8) assay. The serum and bronchoalveolar lavage fluid (BALF) levels of interleukin (IL)-6, IL-8 and soluble RAGE (sRAGE) were evaluated by Enzyme-linked immunosorbent assay (ELISA). The involvement of RAGE signals, autophagy and apoptosis was assessed using western blots, immunohistochemistry, immunofluorescence, transmission electron microscopy and TUNEL test.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The expression of RAGE was promoted by lipopolysaccharide (LPS), which was associated with activation of autophagy both in mice lung tissues and A549 cells as well as primary ATII cells. sRAGE in BALF was positively correlated with IL-6 and IL-8 levels. Compared with the wild-type mice, inflammation and apoptosis in lung tissues were alleviated in Ager-/- mice. Persistently activated autophagy contributed to cell apoptosis, whereas the inhibition of autophagy by 3-MA protected lungs from damage. In addition, Ager knockdown inhibited LPS-induced autophagy activation and attenuated lung injury. In vitro, knockdown of RAGE significantly suppressed the activation of LPS-induced autophagy and apoptosis of A549 and primary ATII cells. Furthermore, RAGE activated the downstream STAT3 signaling pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; RAGE plays an essential role in the pathogenesis of ATII cells injury. Our results suggested that RAGE inhibition alleviated LPS-induced lung injury by directly suppressing autophagic apoptosis of alveolar epithelial cells.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Protective effect of soloxolone derivatives in carrageenan- and LPS-driven acute inflammation: Pharmacological profiling and their effects on key inflammation-related processes</title>
