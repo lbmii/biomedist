@@ -39,5 +39,30 @@
 </description>
     </item>
     
+    <item>
+      <title>Reovirus infection is regulated by NPC1 and endosomal cholesterol homeostasis</title>
+      <link>https://example.com/article/35263388/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35263388/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cholesterol homeostasis is required for the replication of many viruses, including Ebola virus, hepatitis C virus, and human immunodeficiency virus-1. Niemann-Pick C1 (NPC1) is an endosomal-lysosomal membrane protein involved in cholesterol trafficking from late endosomes and lysosomes to the endoplasmic reticulum. We identified NPC1 in CRISPR and RNA interference screens as a putative host factor for infection by mammalian orthoreovirus (reovirus). Following internalization via clathrin-mediated endocytosis, the reovirus outer capsid is proteolytically removed, the endosomal membrane is disrupted, and the viral core is released into the cytoplasm where viral transcription, genome replication, and assembly take place. We found that reovirus infection is significantly impaired in cells lacking NPC1, but infection is restored by treatment of cells with hydroxypropyl-β-cyclodextrin, which binds and solubilizes cholesterol. Absence of NPC1 did not dampen infection by infectious subvirion particles, which are reovirus disassembly intermediates that bypass the endocytic pathway for infection of target cells. NPC1 is not required for reovirus attachment to the plasma membrane, internalization into cells, or uncoating within endosomes. Instead, NPC1 is required for delivery of transcriptionally active reovirus core particles from endosomes into the cytoplasm. These findings suggest that cholesterol homeostasis, ensured by NPC1 transport activity, is required for reovirus penetration into the cytoplasm, pointing to a new function for NPC1 and cholesterol homeostasis in viral infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

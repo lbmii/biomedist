@@ -1470,6 +1470,31 @@
     </item>
     
     <item>
+      <title>Scanning laser-induced endothelial injury: a standardized and reproducible thrombosis model for intravital microscopy</title>
+      <link>https://example.com/article/35273275/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35273275/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vascular injury models are indispensable for studying thrombotic processes in vivo. Amongst the available methods for inducing thrombosis, laser-induced endothelial injury (LIEI) has several unique advantages. However, a lack of methodological standardization and expensive instrumentation remain significant problems decreasing reproducibility and impeding the adoption of LIEI in the wider scientific community. In this, study, we developed a standardized protocol for scanning laser-induced endothelial injury (scanning-LIEI) of murine mesenteric veins using the intrinsic 405 nm laser of a conventional laser scanning confocal microscope. We show that our model produces thrombi with prominent core-shell architectures and minimal radiation-related fluorescence artefacts. In comparison with previous methods, the scanning-LIEI model exhibits reduced experimental variability, enabling the demonstration of dose-response effects for anti-thrombotic drugs using small animal cohorts. Scanning-LIEI using the intrinsic 405 nm laser of a confocal laser scanning microscope represents a new method to induce standardized vascular injury with improved reproducibility of thrombus formation. The reduced need for instrument customisation and user experience means that this model could be more readily adopted in the research community.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Chemical-induced chromatin remodeling reprograms mouse ESCs to totipotent-like stem cells</title>
       <link>https://example.com/article/35143761/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
@@ -1508,6 +1533,31 @@
       <guid>https://example.com/article/34857954/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The endometrium, the mucosal lining of the uterus, undergoes dynamic changes throughout the menstrual cycle in response to ovarian hormones. We have generated dense single-cell and spatial reference maps of the human uterus and three-dimensional endometrial organoid cultures. We dissect the signaling pathways that determine cell fate of the epithelial lineages in the lumenal and glandular microenvironments. Our benchmark of the endometrial organoids reveals the pathways and cell states regulating differentiation of the secretory and ciliated lineages both in vivo and in vitro. In vitro downregulation of WNT or NOTCH pathways increases the differentiation efficiency along the secretory and ciliated lineages, respectively. We utilize our cellular maps to deconvolute bulk data from endometrial cancers and endometriotic lesions, illuminating the cell types dominating in each of these disorders. These mechanistic insights provide a platform for future development of treatments for common conditions including endometriosis and endometrial carcinoma.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Flow Synthesis of Peptide-PNA Conjugates</title>
+      <link>https://example.com/article/35233452/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35233452/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antisense peptide nucleic acids (PNAs) have yet to translate to the clinic because of poor cellular uptake, limited solubility, and rapid elimination. Cell-penetrating peptides (CPPs) covalently attached to PNAs may facilitate clinical development by improving uptake into cells. We report an efficient technology that utilizes a fully automated fast-flow instrument to manufacture CPP-conjugated PNAs (PPNAs) in a single shot. The machine is rapid, with each amide bond being formed in 10 s. Anti-IVS2-654 PPNA synthesized with this instrument presented threefold activity compared to transfected PNA in a splice-correction assay. We demonstrated the utility of this approach by chemically synthesizing eight anti-SARS-CoV-2 PPNAs in 1 day. A PPNA targeting the 5&amp;rsquo; untranslated region of SARS-CoV-2 genomic RNA reduced the viral titer by over 95% in a live virus infection assay (IC&lt;sub&gt;50&lt;/sub&gt; = 0.8 μM). Our technology can deliver PPNA candidates to further investigate their potential as antiviral agents.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2206,6 +2256,33 @@
       <guid>https://example.com/article/italk/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Crosstalk between tumor cells and other cells within the tumor microenvironment (TME) plays a crucial role in tumor progression, metastases, and therapy resistance. We present &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt;, a computational approach to characterize and illustrate intercellular communication signals in the multicellular tumor ecosystem using single-cell RNA sequencing data. &lt;a href=&#34;https://github.com/Coolgenome/iTALK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTALK&lt;/a&gt; can in principle be used to dissect the complexity, diversity, and dynamics of cell-cell communication from a wide range of cellular processes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DeepM6ASeq: prediction and characterization of m6A-containing sequences using deep learning</title>
+      <link>https://example.com/article/30598068/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30598068/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; N6-methyladensine (m6A) is a common and abundant RNA methylation modification found in various species. As a type of post-transcriptional methylation, m6A plays an important role in diverse RNA activities such as alternative splicing, an interplay with microRNAs and translation efficiency. Although existing tools can predict m6A at single-base resolution, it is still challenging to extract the biological information surrounding m6A sites.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We implemented a deep learning framework, named &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt;, to predict m6A-containing sequences and characterize surrounding biological features based on miCLIP-Seq data, which detects m6A sites at single-base resolution. &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt; showed better performance as compared to other machine learning classifiers. Moreover, an independent test on m6A-Seq data, which identifies m6A-containing genomic regions, revealed that our model is competitive in predicting m6A-containing sequences. The learned motifs from &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt; correspond to known m6A readers. Notably, &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt; also identifies a newly recognized m6A reader: FMR1. Besides, we found that a saliency map in the deep learning model could be utilized to visualize locations of m6A sites.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conculsion:&lt;/em&gt; We developed a deep-learning-based framework to predict and characterize m6A-containing sequences and hope to help investigators to gain more insights for m6A research.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

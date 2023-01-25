@@ -5,12 +5,44 @@
     <link>https://example.com/tag/ion-channel/</link>
       <atom:link href="https://example.com/tag/ion-channel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ion Channel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Ion Channel</title>
       <link>https://example.com/tag/ion-channel/</link>
     </image>
+    
+    <item>
+      <title>Cytosolic DNA sensing by cGAS/STING promotes TRPV2-mediated Ca2&#43; release to protect stressed replication forks</title>
+      <link>https://example.com/article/23-01-25-15-54/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-25-15-54/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Replication stress induces TRPV2-mediated Ca&lt;sup&gt;2+&lt;/sup&gt; release from the ER&lt;/li&gt;
+&lt;li&gt;STING binds to and represses TRPV2 on the ER in the absence of replication stress&lt;/li&gt;
+&lt;li&gt;Cytosolic self-DNA-induced cGAMP promotes STING dissociation from TRPV2 and Ca&lt;sup&gt;2+&lt;/sup&gt; efflux&lt;/li&gt;
+&lt;li&gt;Oncogene-induced replication stress also activates the Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent fork protection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The protection of DNA replication forks under stress is essential for genome maintenance and cancer suppression. One mechanism of fork protection involves an elevation in intracellular Ca&lt;sup&gt;2+&lt;/sup&gt; ([Ca&lt;sup&gt;2+&lt;/sup&gt;]&lt;sub&gt;i&lt;/sub&gt;), which in turn activates CaMKK2 and AMPK to prevent uncontrolled fork processing by Exo1. How replication stress triggers [Ca&lt;sup&gt;2+&lt;/sup&gt;]&lt;sub&gt;i&lt;/sub&gt; elevation is unclear. Here, we report a role of cytosolic self-DNA (cytosDNA) and the ion channel TRPV2 in [Ca&lt;sup&gt;2+&lt;/sup&gt;]&lt;sub&gt;i&lt;/sub&gt; induction and fork protection. Replication stress leads to the generation of ssDNA and dsDNA species that, upon translocation into cytoplasm, trigger the activation of the sensor protein cGAS and the production of cGAMP. The subsequent binding of cGAMP to STING causes its dissociation from TRPV2, leading to TRPV2 derepression and Ca&lt;sup&gt;2+&lt;/sup&gt; release from the ER, which in turn activates the downstream signaling cascade to prevent fork degradation. This Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent genome protection pathway is also activated in response to replication stress caused by oncogene activation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>DNA topoisomerase 2-associated proteins PATL1 and PATL2 regulate the biogenesis of hERG K&#43; channels</title>

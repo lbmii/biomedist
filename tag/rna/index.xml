@@ -5,12 +5,62 @@
     <link>https://example.com/tag/rna/</link>
       <atom:link href="https://example.com/tag/rna/index.xml" rel="self" type="application/rss+xml" />
     <description>RNA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>RNA</title>
       <link>https://example.com/tag/rna/</link>
     </image>
+    
+    <item>
+      <title>Precise transcript targeting by CRISPR-Csm complexes</title>
+      <link>https://example.com/article/36690762/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36690762/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Robust and precise transcript targeting in mammalian cells remains a difficult challenge using existing approaches due to inefficiency, imprecision and subcellular compartmentalization. Here we show that the clustered regularly interspaced short palindromic repeats (CRISPR)-Csm complex, a multiprotein effector from type III CRISPR immune systems in prokaryotes, provides surgical RNA ablation of both nuclear and cytoplasmic transcripts. As part of the most widely occurring CRISPR adaptive immune pathway, CRISPR-Csm uses a programmable RNA-guided mechanism to find and degrade target RNA molecules without inducing indiscriminate trans-cleavage of cellular RNAs, giving it an important advantage over the CRISPR-Cas13 family of enzymes. Using single-vector delivery of the &lt;em&gt;Streptococcus thermophilus&lt;/em&gt; Csm complex, we observe high-efficiency RNA knockdown (90-99%) and minimal off-target effects in human cells, outperforming existing technologies including short hairpin RNA- and Cas13-mediated knockdown. We also find that catalytically inactivated Csm achieves specific and durable RNA binding, a property we harness for live-cell RNA imaging. These results establish the feasibility and efficacy of multiprotein CRISPR-Cas effector complexes as RNA-targeting tools in eukaryotes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA GAS5 suppresses inflammatory responses by inhibiting HMGB1 release via miR-155-5p/SIRT1 axis in sepsis</title>
+      <link>https://example.com/article/36693551/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36693551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sepsis comprises a lethal immunologic response due to infection. Increasingly, evidence has demonstrated the important role of long non-coding RNA growth arrest-specific transcript 5 (GAS5) in the regulation of sepsis. Nevertheless, the mechanisms by which GAS5 participates in the progression of sepsis remain unclear. Our study demonstrated the role and underlying mechanism of GAS5 in regulating lipopolysaccharide (LPS)-induced inflammation. In this study, GAS5 expression was found to be markedly decreased in serum samples of sepsis patients and a sepsis mouse model, and was negatively related with HMGB1 expression. GAS5 overexpression inhibited cell inflammatory responses by decreasing HMGB1 release. Furthermore, GAS5 inhibited LPS-mediated hyperacetylation and the release of HMGB1 by increasing the expression of sirtuin1 (SIRT1). Additionally, upregulated GAS5 attenuated inflammatory responses in vitro and vivo, and the knockdown of a miR-155-5p mimic and SIRT1 rescued the effects of GAS5 upregulation. Mechanistically, GAS5 sponged miR-155-5p to upregulate SIRT1, thereby inhibiting HMGB1 acetylation and release. In conclusion, our findings indicate that GAS5 suppresses inflammatory responses by modulating the miR-155-5p/SIRT1/HMGB1 axis in sepsis, providing a novel therapeutic target for inflammation in sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Comprehensive analysis of long noncoding RNAs and lncRNA-mRNA networks in snakehead (Channa argus) response to Nocardia seriolae infection</title>
@@ -393,6 +443,38 @@
       <guid>https://example.com/article/36607143/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The development of efficient nanomedicines to repress the repolarization of M1 phenotype macrophages and therefore inhibit pro-inflammatory cytokine overexpression for anti-inflammatory therapy is still a challenging task. We report here an original gene delivery nanoplatform based on pyrrolidinium-modified amphiphilic generation 1 phosphorus dendron (C12G1) nanomicelles with a rigid phosphorous dendron structure. The nanomicelles display higher gene delivery efficiency than the counterpart materials of pyrrolidinium-modified G1 phosphorus dendrimers, and meanwhile exhibit excellent cytocompatibility. The C12G1 nanomicelles can be employed to co-deliver the miRNA-146a mimic (miR-146a mimic) and miRNA-429 inhibitor (miR-429i) to inhibit the Toll-like receptor-4 signaling pathway and p38 mitogen-activated protein kinase signaling pathway, respectively, thus causing repression of M1 phenotype alveolar macrophage polarization. The developed C12G1/miR-mixture polyplexes enable efficient therapy of lipopolysaccharide-activated alveolar macrophages &lt;em&gt;in vitro&lt;/em&gt; and an acute lung injury mouse model &lt;em&gt;in vivo&lt;/em&gt;. The generated cationic phosphorus dendron nanomicelles may hold promising potential for anti-inflammatory gene therapy of other inflammatory diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Glucose dissociates DDX21 dimers to regulate mRNA splicing and tissue differentiation</title>
+      <link>https://example.com/article/36608661/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36608661/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Glucose directly binds to the DDX21 ATP-binding domain and dissociates DDX21 dimers&lt;/li&gt;
+&lt;li&gt;DDX21 monomers exit the nucleolus to integrate into nuclear RNA processing complexes&lt;/li&gt;
+&lt;li&gt;DDX21 regulates tissue differentiation in an ATPase-independent manner&lt;/li&gt;
+&lt;li&gt;DDX21 binds splicing factors to regulate splicing of key pro-differentiation genes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Glucose is a universal bioenergy source; however, its role in controlling protein interactions is unappreciated, as are its actions during differentiation-associated intracellular glucose elevation. Azido-glucose click chemistry identified glucose binding to a variety of RNA binding proteins (RBPs), including the DDX21 RNA helicase, which was found to be essential for epidermal differentiation. Glucose bound the ATP-binding domain of DDX21, altering protein conformation, inhibiting helicase activity, and dissociating DDX21 dimers. Glucose elevation during differentiation was associated with DDX21 re-localization from the nucleolus to the nucleoplasm where DDX21 assembled into larger protein complexes containing RNA splicing factors. DDX21 localized to specific SCUGSDGC motif in mRNA introns in a glucose-dependent manner and promoted the splicing of key pro-differentiation genes, including GRHL3, KLF4, OVOL1, and RBPJ. These findings uncover a biochemical mechanism of action for glucose in modulating the dimerization and function of an RNA helicase essential for tissue differentiation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6460,6 +6542,31 @@
     </item>
     
     <item>
+      <title>The Role of Long Noncoding RNA MALAT1 in Diabetic Polyneuropathy and the Impact of Its Silencing in the Dorsal Root Ganglion by a DNA/RNA Heteroduplex Oligonucleotide</title>
+      <link>https://example.com/article/35276003/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35276003/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diabetic polyneuropathy (DPN) is the most common complication of diabetes, yet its pathophysiology has not been established. Accumulating evidence suggests that long noncoding RNA metastasis-associated lung adenocarcinoma transcript 1 (MALAT1) plays pivotal roles in the regulation of cell growth and survival during diabetic complications. This study aimed to investigate the impact of MALAT1 silencing in dorsal root ganglion (DRG) sensory neurons, using an α-tocopherol-conjugated DNA/RNA heteroduplex oligonucleotide (Toc-HDO), on the peripheral nervous system of diabetic mice. We identified MALAT1 upregulation in the DRG of chronic diabetic mice that suggested either a pathological change or one that might be protective, and systemic intravenous injection of Toc-HDO effectively inhibited its gene expression. However, we unexpectedly noted that this intervention paradoxically exacerbated disease with increased thermal and mechanical nociceptive thresholds, indicating further sensory loss, greater sciatic-tibial nerve conduction slowing, and additional declines of intraepidermal nerve fiber density in the hind paw footpads. Serine/arginine-rich splicing factors, which are involved in pre-mRNA splicing by interacting with MALAT1, reside in nuclear speckles in wild-type and diabetic DRG neurons; MALAT1 silencing was associated with their disruption. The findings provide evidence for an important role that MALAT1 plays in DPN, suggesting neuroprotection and regulation of pre-mRNA splicing in nuclear speckles. This is also the first example in which a systemically delivered nucleotide therapy had a direct impact on DRG diabetic neurons and their axons.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Microarray Analysis Reveals the Changes in Circular RNA Expression and Molecular Mechanisms in Mice With Ventilator-Induced Lung Injury</title>
       <link>https://example.com/article/35360228/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
@@ -6470,6 +6577,138 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Niclosamide induces miR-148a to inhibit PXR and sensitize colon cancer stem cells to chemotherapy</title>
+      <link>https://example.com/article/35276090/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35276090/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;miR-148a&lt;/em&gt; expression is decreased in colon cancer stem cells&lt;/li&gt;
+&lt;li&gt;Forced expression of &lt;em&gt;miR-148a&lt;/em&gt; inhibits colon cancer stem cell chemoresistance&lt;/li&gt;
+&lt;li&gt;High-content screening identified niclosamide as a potent &lt;em&gt;miR-148a&lt;/em&gt; inducer&lt;/li&gt;
+&lt;li&gt;Niclosamide induces &lt;em&gt;miR-148a&lt;/em&gt; expression, inhibits PXR expression in CSCs and prevents tumor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tumor recurrence is often attributed to cancer stem cells (CSCs). We previously demonstrated that down-regulation of Pregnane X Receptor (PXR) decreases the chemoresistance of CSCs and prevents colorectal cancer recurrence. Currently, no PXR inhibitor is usable in clinic. Here, we identify &lt;em&gt;miR-148a&lt;/em&gt; as a targetable element upstream of PXR signaling in CSCs, which when over-expressed decreases PXR expression and impairs tumor relapse after chemotherapy in mouse tumor xenografts. We then develop a fluorescent reporter screen for &lt;em&gt;miR-148a&lt;/em&gt; activators and identify the anti-helminthic drug niclosamide as an inducer of &lt;em&gt;miR-148a&lt;/em&gt; expression. Consequently, niclosamide decreased PXR expression and CSC numbers in colorectal cancer patient-derived cell lines and synergized with chemotherapeutic agents to prevent CSC chemoresistance and tumor recurrence in vivo. Our study suggests that endogenous miRNA inducers is a viable strategy to down-regulate PXR and illuminates niclosamide as a neoadjuvant repurposing strategy to prevent tumor relapse in colon cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Loss of NPPA-AS1 promotes heart regeneration by stabilizing SFPQ-NONO heteromer-induced DNA repair</title>
+      <link>https://example.com/article/35247074/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35247074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The role of long non-coding RNA (lncRNA) in endogenous cardiac regeneration remains largely elusive. The mammalian cardiomyocyte is capable of regeneration for a brief period after birth. This fact allows the exploration of the roles of critical lncRNAs in the regulation of cardiac regeneration. Through a cardiac regeneration model by apical resection (AR) of the left ventricle in neonatal mice, we identified an lncRNA named natriuretic peptide A antisense RNA 1 (NPPA-AS1), which negatively regulated cardiomyocyte proliferation. In neonates, NPPA-AS1 deletion did not affect heart development, but was sufficient to prolong the postnatal window of regeneration after AR. In adult mice, NPPA-AS1 deletion improved cardiac function and reduced infarct size after myocardial infarction (MI), associated with a significant improvement in cardiomyocyte proliferation. Further analysis showed that NPPA-AS1 interacted with DNA repair-related molecule splicing factor, proline- and glutamine-rich (SFPQ). A heteromer of SFPQ and non-POU domain-containing octamer-binding protein (NONO) was required for double-strand DNA break repair, but NPPA-AS1 was competitively bound with SFPQ due to the overlapped binding sites of SFPQ and NONO. NPPA-AS1 deletion promoted the binding of SFPQ-NONO heteromer, decreased DNA damage, and activated cardiomyocyte cell cycle re-entry. Together, loss of NPPA-AS1 promoted cardiomyocyte proliferation by stabilizing SFPQ-NONO heteromer-induced DNA repair and exerted a therapeutic effect against MI in adult mice. Consequently, NPPA-AS1 may be a novel target for stimulating cardiac regeneration to treat MI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Role of autophagy and transcriptome regulation in acute brain injury</title>
+      <link>https://example.com/review/35259350/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35259350/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy is an evolutionarily conserved intracellular system that routes distinct cytoplasmic cargo to lysosomes for degradation and recycling. Accumulating evidence highlight the mechanisms of autophagy, such as clearance of proteins, carbohydrates, lipids and damaged organelles. The critical role of autophagy in selective degradation of the transcriptome is still emerging and could shape the total proteome of the cell, and thus can regulate the homeostasis under stressful conditions. Unregulated autophagy that potentiates secondary brain damage is a key pathological features of acute CNS injuries such as stroke and traumatic brain injury. This review discussed the mutual modulation of autophagy and RNA and its significance in mediating the functional consequences of acute CNS injuries.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Landscape of adenosine-to-inosine RNA recoding across human tissues</title>
+      <link>https://example.com/article/35246538/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35246538/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA editing by adenosine deaminases changes the information encoded in the mRNA from its genomic blueprint. Editing of protein-coding sequences can introduce novel, functionally distinct, protein isoforms and diversify the proteome. The functional importance of a few recoding sites has been appreciated for decades. However, systematic methods to uncover these sites perform poorly, and the full repertoire of recoding in human and other mammals is unknown. Here we present a new detection approach, and analyze 9125 GTEx RNA-seq samples, to produce a highly-accurate atlas of 1517 editing sites within the coding region and their editing levels across human tissues. Single-cell RNA-seq data shows protein recoding contributes to the variability across cell subpopulations. Most highly edited sites are evolutionary conserved in non-primate mammals, attesting for adaptation. This comprehensive set can facilitate understanding of the role of recoding in human physiology and diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Unlocking the secrets of long non-coding RNAs in asthma</title>
+      <link>https://example.com/review/35246486/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35246486/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anoikis is a programmed cell death occurring upon cell detachment from the correct extracellular matrix, thus disrupting integrin ligation. It is a critical mechanism in preventing dysplastic cell growth or attachment to an inappropriate matrix. Anoikis prevents detached epithelial cells from colonizing elsewhere and is thus essential for tissue homeostasis and development. As anchorage-independent growth and epithelial-mesenchymal transition, two features associated with anoikis resistance, are crucial steps during tumour progression and metastatic spreading of cancer cells, anoikis deregulation has now evoked particular attention from the scientific community. The aim of this review is to analyse the molecular mechanisms governing both anoikis and anoikis resistance, focusing on their regulation in physiological processes, as well as in several diseases, including metastatic cancers, cardiovascular diseases and diabetes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -6877,6 +7116,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In animals, PIWI-interacting RNAs (piRNAs) silence transposons, fight viral infections, and regulate gene expression. piRNA biogenesis concludes with 3′ terminal trimming and 2′-O-methylation. Both trimming and methylation influence piRNA stability. Our biochemical data show that multiple mechanisms destabilize unmethylated mouse piRNAs, depending on whether the piRNA 5′ or 3′ sequence is complementary to a trigger RNA. Unlike target-directed degradation of microRNAs, complementarity-dependent destabilization of piRNAs in mice and flies is blocked by 3′ terminal 2′-O-methylation and does not require base pairing to both the piRNA seed and the 3′ sequence. In flies, 2′-O-methylation also protects small interfering RNAs (siRNAs) from complementarity-dependent destruction. By contrast, pre-piRNA trimming protects mouse piRNAs from a degradation pathway unaffected by trigger complementarity. In testis lysate and &lt;em&gt;in vivo&lt;/em&gt;, internal or 3′ terminal uridine- or guanine-rich tracts accelerate pre-piRNA decay. Loss of both trimming and 2′-O-methylation causes the mouse piRNA pathway to collapse, demonstrating that these modifications collaborate to stabilize piRNAs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-541-5p REgulates Type II Alveolar Epithelial Cell Proliferation and Activity by Modulating the HMGB1 Expression</title>
+      <link>https://example.com/article/35271544/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35271544/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is characterized by excessive production of inflammatory factors and alveolar epithelial damage, type II alveolar epithelial (ATII) cells participate in the repairment of the damaged lung tissue in ALI. Recently, microRNAs (miRNAs) have been found to play crucial roles in the amelioration of various inflammation-induced diseases, including ALI. However, the biological function and the mechanisms of action of miRNAs in the regulation of inflammation, and how ATII cells repair damaged lung tissue in ALI remain unknown. In this study, a model of ALI was established using LPS, and ATII cells were isolated and treated with LPS. Hematoxylin and eosin staining revealed the injury to lung tissues. In this study we found that miR-541-5p expression was significantly decreased in ALI tissue and in the LPS-induced ATII cell model. Additionally, the LPS-induced model showed suppression of ATII cell proliferation and activity. Furthermore, overexpression of miR-541-5p was found to promote cell activity and proliferation in the LPS-induced ATII cell model. Moreover, a luciferase assay illustrated that HMGB1 is a target of miR-541-5p, HMGB1 knockdown blocked the inhibitory effect of miR-541-5p on LPS-induced ATII cells. Ultimately, our study demonstrated that expression of p38, JNK, and ERK in LPS-induced ATII cells increased significantly. These results suggest that miR-541-5p is a key effector in ALI tissue, and that LPS-induced ATII cells act by regulating HMGB1 expression. This effect may be related to excessive activation of the JNK/ERK/p38 signaling pathway.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

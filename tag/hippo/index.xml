@@ -169,5 +169,39 @@
 </description>
     </item>
     
+    <item>
+      <title>Airway secretory cell fate conversion via YAP-mTORC1-dependent essential amino acid metabolism</title>
+      <link>https://example.com/article/35285539/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35285539/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tissue homeostasis requires lineage fidelity of stem cells. Dysregulation of cell fate specification and differentiation leads to various diseases, yet the cellular and molecular mechanisms governing these processes remain elusive. We demonstrate that YAP/TAZ activation reprograms airway secretory cells, which subsequently lose their cellular identity and acquire squamous alveolar type 1 (AT1) fate in the lung. This cell fate conversion is mediated via distinctive transitional cell states of damage-associated transient progenitors (DATPs), recently shown to emerge during injury repair in mouse and human lungs. We further describe a YAP/TAZ signaling cascade to be integral for the fate conversion of secretory cells into AT1 fate, by modulating mTORC1/ATF4-mediated amino acid metabolism &lt;em&gt;in vivo&lt;/em&gt;. Importantly, we observed aberrant activation of the YAP/TAZ-mTORC1-ATF4 axis in the altered airway epithelium of bronchiolitis obliterans syndrome, including substantial emergence of DATPs and AT1 cells with severe pulmonary fibrosis. Genetic and pharmacologic inhibition of mTORC1 activity suppresses lineage alteration and subepithelial fibrosis driven by YAP/TAZ activation, proposing a potential therapeutic target for human fibrotic lung diseases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Synopsis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The molecular programs underlying injury-induced plasticity in the lung epithelium remain unclear. Here, combined genetic and expression analysis uncovers YAP/TAZ as a driver of cell fate-converting metabolic signaling in the airways, offering new potential targets for human lung diseases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sustained YAP/TAZ activation in airway secretory cells induces differentiation into squamous alveolar type 1 (AT1) fate, perturbed tissue architecture, and fibrosis.&lt;/li&gt;
+&lt;li&gt;Single-cell profiling shows transient cell states of damage-associated transient progenitors (DATPs) during secretory-to-AT1 cell transition.&lt;/li&gt;
+&lt;li&gt;YAP/TAZ-dependent uptake of essential amino acids via the Slc7a5/LAT1 is required for the acquisition of DATP-AT1 cell fates.&lt;/li&gt;
+&lt;li&gt;mTORC1 and ATF4 mediate YAP/TAZ-dependent amino acid metabolism and cell fate conversion in ex vivo organoids and in vivo mouse lungs.&lt;/li&gt;
+&lt;li&gt;Patients with pulmonary fibrosis show aberrant activation of YAP/TAZ and mTORC1-ATF4 signaling in the airways.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

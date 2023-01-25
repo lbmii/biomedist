@@ -5,12 +5,37 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>Precise transcript targeting by CRISPR-Csm complexes</title>
+      <link>https://example.com/article/36690762/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36690762/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Robust and precise transcript targeting in mammalian cells remains a difficult challenge using existing approaches due to inefficiency, imprecision and subcellular compartmentalization. Here we show that the clustered regularly interspaced short palindromic repeats (CRISPR)-Csm complex, a multiprotein effector from type III CRISPR immune systems in prokaryotes, provides surgical RNA ablation of both nuclear and cytoplasmic transcripts. As part of the most widely occurring CRISPR adaptive immune pathway, CRISPR-Csm uses a programmable RNA-guided mechanism to find and degrade target RNA molecules without inducing indiscriminate trans-cleavage of cellular RNAs, giving it an important advantage over the CRISPR-Cas13 family of enzymes. Using single-vector delivery of the &lt;em&gt;Streptococcus thermophilus&lt;/em&gt; Csm complex, we observe high-efficiency RNA knockdown (90-99%) and minimal off-target effects in human cells, outperforming existing technologies including short hairpin RNA- and Cas13-mediated knockdown. We also find that catalytically inactivated Csm achieves specific and durable RNA binding, a property we harness for live-cell RNA imaging. These results establish the feasibility and efficacy of multiprotein CRISPR-Cas effector complexes as RNA-targeting tools in eukaryotes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>CRISPR-dCas13-tracing reveals transcriptional memory and limited mRNA export in developing zebrafish embryos</title>
@@ -21,6 +46,33 @@
 &lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Understanding gene transcription and mRNA-protein (mRNP) dynamics in single cells in a multicellular organism has been challenging. The catalytically dead CRISPR-Cas13 (dCas13) system has been used to visualize RNAs in live cells without genetic manipulation. We optimize this system to track developmentally expressed mRNAs in zebrafish embryos and to understand features of endogenous transcription kinetics and mRNP export.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We report that zygotic microinjection of purified CRISPR-dCas13-fluorescent proteins and modified guide RNAs allows single- and dual-color tracking of developmentally expressed mRNAs in zebrafish embryos from zygotic genome activation (ZGA) until early segmentation period without genetic manipulation. Using this approach, we uncover non-synchronized de novo transcription between inter-alleles, synchronized post-mitotic re-activation in pairs of alleles, and transcriptional memory as an extrinsic noise that potentially contributes to synchronized post-mitotic re-activation. We also reveal rapid dCas13-engaged mRNP movement in the nucleus with a corralled and diffusive motion, but a wide varying range of rate-limiting mRNP export, which can be shortened by Alyref and Nxf1 overexpression.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This optimized dCas13-based toolkit enables robust spatial-temporal tracking of endogenous mRNAs and uncovers features of transcription and mRNP motion, providing a powerful toolkit for endogenous RNA visualization in a multicellular developmental organism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Doxycycline-dependent Cas9-expressing pig resources for conditional in vivo gene nullification and activation</title>
+      <link>https://example.com/article/36650523/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36650523/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; CRISPR-based toolkits have dramatically increased the ease of genome and epigenome editing. SpCas9 is the most widely used nuclease. However, the difficulty of delivering SpCas9 and inability to modulate its expression in vivo hinder its widespread adoption in large animals.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here, to circumvent these obstacles, a doxycycline-inducible SpCas9-expressing (DIC) pig model was generated by precise knock-in of the binary tetracycline-inducible expression elements into the Rosa26 and Hipp11 loci, respectively. With this pig model, in vivo and/or in vitro genome and epigenome editing could be easily realized. On the basis of the DIC system, a convenient Cas9-based conditional knockout strategy was devised through controlling the expression of rtTA component by tissue-specific promoter, which allows the one-step generation of germline-inherited pigs enabling in vivo spatiotemporal control of gene function under simple chemical induction. To validate the feasibility of in vivo gene mutation with DIC pigs, primary and metastatic pancreatic ductal adenocarcinoma was developed by delivering a single AAV6 vector containing TP53-sgRNA, LKB1-sgRNA, and mutant human KRAS gene into the adult pancreases.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Together, these results suggest that DIC pig resources will provide a powerful tool for conditional in vivo genome and epigenome modification for fundamental and applied research.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -872,6 +924,58 @@
 &lt;p&gt;Copper is an essential cofactor for all organisms, and yet it becomes toxic if concentrations exceed a threshold maintained by evolutionarily conserved homeostatic mechanisms. How excess copper induces cell death, however, is unknown. Here, we show in human cells that copper-dependent, regulated cell death is distinct from known death mechanisms and is dependent on mitochondrial respiration. We show that copper-dependent death occurs by means of direct binding of copper to lipoylated components of the tricarboxylic acid (TCA) cycle. This results in lipoylated protein aggregation and subsequent iron-sulfur cluster protein loss, which leads to proteotoxic stress and ultimately cell death. These findings may explain the need for ancient copper homeostatic mechanisms.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Copper induces cell death&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cell death is an essential, finely tuned process that is critical for the removal of damaged and superfluous cells. Multiple forms of programmed and nonprogrammed cell death have been identified, including apoptosis, ferroptosis, and necroptosis. Tsvetkov et al. investigated whether abnormal copper ion elevations may sensitize cells toward a previously unidentified death pathway (see the Perspective by Kahlson and Dixon). By performing CRISPR/Cas9 screens, several genes were identified that could protect against copper-induced cell killing. Using genetically modified cells and a mouse model of a copper overload disorder, the researchers report that excess copper promotes the aggregation of lipoylated proteins and links mitochondrial metabolism to copper-dependent death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Reovirus infection is regulated by NPC1 and endosomal cholesterol homeostasis</title>
+      <link>https://example.com/article/35263388/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35263388/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cholesterol homeostasis is required for the replication of many viruses, including Ebola virus, hepatitis C virus, and human immunodeficiency virus-1. Niemann-Pick C1 (NPC1) is an endosomal-lysosomal membrane protein involved in cholesterol trafficking from late endosomes and lysosomes to the endoplasmic reticulum. We identified NPC1 in CRISPR and RNA interference screens as a putative host factor for infection by mammalian orthoreovirus (reovirus). Following internalization via clathrin-mediated endocytosis, the reovirus outer capsid is proteolytically removed, the endosomal membrane is disrupted, and the viral core is released into the cytoplasm where viral transcription, genome replication, and assembly take place. We found that reovirus infection is significantly impaired in cells lacking NPC1, but infection is restored by treatment of cells with hydroxypropyl-β-cyclodextrin, which binds and solubilizes cholesterol. Absence of NPC1 did not dampen infection by infectious subvirion particles, which are reovirus disassembly intermediates that bypass the endocytic pathway for infection of target cells. NPC1 is not required for reovirus attachment to the plasma membrane, internalization into cells, or uncoating within endosomes. Instead, NPC1 is required for delivery of transcriptionally active reovirus core particles from endosomes into the cytoplasm. These findings suggest that cholesterol homeostasis, ensured by NPC1 transport activity, is required for reovirus penetration into the cytoplasm, pointing to a new function for NPC1 and cholesterol homeostasis in viral infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>VPS29 Exerts Opposing Effects on Endocytic Viral Entry</title>
+      <link>https://example.com/article/35229640/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35229640/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emerging zoonotic viral pathogens threaten global health, and there is an urgent need to discover host and viral determinants influencing infection. We performed a loss-of-function genome-wide CRISPR screen in a human lung cell line using HCoV-OC43, a human betacoronavirus. One candidate gene, VPS29, a component of the retromer complex, was required for infection by HCoV-OC43, SARS-CoV-2, other endemic- and pandemic-threat coronaviruses, as well as ebolavirus. Notably, we observed a heightened requirement for VPS29 by the recently described Omicron variant of SARS-CoV-2 compared to the ancestral variant. However, VPS29 deficiency had no effect on certain other viruses that enter cells via endosomes and had an opposing, enhancing effect on influenza A virus infection. Deficiency in VPS29 or other retromer components caused changes in endosome morphology and acidity and attenuated the activity of endosomal proteases. These changes in endosome properties caused incoming coronavirus, but not influenza virus particles, to become entrapped therein. Overall, these data show how host regulation of endosome characteristics can influence cellular susceptibility to viral infection and identify a host pathway that could serve as a pharmaceutical target for intervention in zoonotic viral diseases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These data identify a host pathway by which VPS29 and associated factors control the endosomal environment in a manner that influences susceptibility to viral infection. This pathway could serve as a pharmaceutical target for intervention in zoonotic viral diseases, including those caused by coronaviruses, influenza viruses, and filoviruses, all of which are pandemic threats. Our findings show how host regulation of endosome characteristics can influence viral susceptibility in both a positive and negative manner.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

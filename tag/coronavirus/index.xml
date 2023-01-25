@@ -5,12 +5,37 @@
     <link>https://example.com/tag/coronavirus/</link>
       <atom:link href="https://example.com/tag/coronavirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Coronavirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Coronavirus</title>
       <link>https://example.com/tag/coronavirus/</link>
     </image>
+    
+    <item>
+      <title>Immunological and metabolic characteristics of the Omicron variants infection</title>
+      <link>https://example.com/article/36681668/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36681668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Omicron variants of SARS-CoV-2, primarily authenticated in November 2021 in South Africa, has initiated the 5th wave of global pandemics. Here, we systemically examined immunological and metabolic characteristics of Omicron variants infection. We found Omicron resisted to neutralizing antibody targeting receptor binding domain (RBD) of wildtype SARS-CoV-2. Omicron could hardly be neutralized by sera of Corona Virus Disease 2019 (COVID-19) convalescents infected with the Delta variant. Through mass spectrometry on MHC-bound peptidomes, we found that the spike protein of the Omicron variants could generate additional CD8 + T cell epitopes, compared with Delta. These epitopes could induce robust CD8 + T cell responses. Moreover, we found booster vaccination increased the cross-memory CD8 + T cell responses against Omicron. Metabolic regulome analysis of Omicron-specific T cell showed a metabolic profile that promoted the response of memory T cells. Consistently, a greater fraction of memory CD8 + T cells existed in Omicron stimulated peripheral blood mononuclear cells (PBMCs). In addition, CD147 was also a receptor for the Omicron variants, and CD147 antibody inhibited infection of Omicron. CD147-mediated Omicron infection in a human CD147 transgenic mouse model induced exudative alveolar pneumonia. Taken together, our data suggested that vaccination booster and receptor blocking antibody are two effective strategies against Omicron.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>SARS-CoV-2 Z-RNA activates the ZBP1-RIPK3 pathway to promote virus-induced inflammatory responses</title>
@@ -1010,12 +1035,153 @@
     </item>
     
     <item>
+      <title>Histones released by NETosis enhance the infectivity of SARS-CoV-2 by bridging the spike protein subunit 2 and sialic acid on host cells</title>
+      <link>https://example.com/article/35273357/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35273357/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) can capture and kill viruses, such as influenza viruses, human immunodeficiency virus (HIV), and respiratory syncytial virus (RSV), thus contributing to host defense. Contrary to our expectation, we show here that the histones released by NETosis enhance the infectivity of SARS-CoV-2, as found by using live SARS-CoV-2 and two pseudovirus systems as well as a mouse model. The histone H3 or H4 selectively binds to subunit 2 of the spike (S) protein, as shown by a biochemical binding assay, surface plasmon resonance and binding energy calculation as well as the construction of a mutant S protein by replacing four acidic amino acids. Sialic acid on the host cell surface is the key molecule to which histones bridge subunit 2 of the S protein. Moreover, histones enhance cell-cell fusion. Finally, treatment with an inhibitor of NETosis, histone H3 or H4, or sialic acid notably affected the levels of sgRNA copies and the number of apoptotic cells in a mouse model. These findings suggest that SARS-CoV-2 could hijack histones from neutrophil NETosis to promote its host cell attachment and entry process and may be important in exploring pathogenesis and possible strategies to develop new effective therapies for COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The RNA helicase DHX16 recognizes specific viral RNA to trigger RIG-I-dependent innate antiviral immunity</title>
+      <link>https://example.com/article/35263596/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35263596/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An unanchored ubiquitin-binding screen links DHX16 to innate immune recognition&lt;/li&gt;
+&lt;li&gt;DHX16 amplifies RIG-I-dependent innate antiviral immune responses&lt;/li&gt;
+&lt;li&gt;TRIM6 promotes association of unanchored K48-poly-Ub with DHX16&lt;/li&gt;
+&lt;li&gt;DHX16 acts as a pattern recognition receptor sensing splicing signals in vRNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Type I interferons (IFN-I) are essential to establish antiviral innate immunity. Unanchored (or free) polyubiquitin (poly-Ub) has been shown to regulate IFN-I responses. However, few unanchored poly-Ub interactors are known. To identify factors regulated by unanchored poly-Ub in a physiological setting, we developed an approach to isolate unanchored poly-Ub from lung tissue. We identified the RNA helicase DHX16 as a potential pattern recognition receptor (PRR). Silencing of DHX16 in cells and in vivo diminished IFN-I responses against influenza virus. These effects extended to members of other virus families, including Zika and SARS-CoV-2. DHX16-dependent IFN-I production requires RIG-I and unanchored K48-poly-Ub synthesized by the E3-Ub ligase TRIM6. DHX16 recognizes a signal in influenza RNA segments that undergo splicing and requires its RNA helicase motif for direct, high-affinity interactions with specific viral RNAs. Our study establishes DHX16 as a PRR that partners with RIG-I for optimal activation of antiviral immunity requiring unanchored poly-Ub.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Whole-genome sequencing reveals host factors underlying critical COVID-19</title>
+      <link>https://example.com/article/35255492/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35255492/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Critical COVID-19 is caused by immune-mediated inflammatory lung injury. Host genetic variation influences the development of illness requiring critical care1 or hospitalization2-4 after infection with SARS-CoV-2. The GenOMICC (Genetics of Mortality in Critical Care) study enables the comparison of genomes from individuals who are critically ill with those of population controls to find underlying disease mechanisms. Here we use whole-genome sequencing in 7,491 critically ill individuals compared with 48,400 controls to discover and replicate 23 independent variants that significantly predispose to critical COVID-19. We identify 16 new independent associations, including variants within genes that are involved in interferon signalling (IL10RB and PLSCR1), leucocyte differentiation (BCL11A) and blood-type antigen secretor status (FUT2). Using transcriptome-wide association and colocalization to infer the effect of gene expression on disease severity, we find evidence that implicates multiple genes-including reduced expression of a membrane flippase (ATP11A), and increased expression of a mucin (MUC1)-in critical disease. Mendelian randomization provides evidence in support of causal roles for myeloid cell adhesion molecules (SELE, ICAM5 and CD209) and the coagulation factor F8, all of which are potentially druggable targets. Our results are broadly consistent with a multi-component model of COVID-19 pathophysiology, in which at least two distinct mechanisms can predispose to life-threatening disease: failure to control viral replication; or an enhanced tendency towards pulmonary inflammation and intravascular coagulation. We show that comparison between cases of critical illness and population controls is highly efficient for the detection of therapeutically relevant mechanisms of disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>VPS29 Exerts Opposing Effects on Endocytic Viral Entry</title>
+      <link>https://example.com/article/35229640/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35229640/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emerging zoonotic viral pathogens threaten global health, and there is an urgent need to discover host and viral determinants influencing infection. We performed a loss-of-function genome-wide CRISPR screen in a human lung cell line using HCoV-OC43, a human betacoronavirus. One candidate gene, VPS29, a component of the retromer complex, was required for infection by HCoV-OC43, SARS-CoV-2, other endemic- and pandemic-threat coronaviruses, as well as ebolavirus. Notably, we observed a heightened requirement for VPS29 by the recently described Omicron variant of SARS-CoV-2 compared to the ancestral variant. However, VPS29 deficiency had no effect on certain other viruses that enter cells via endosomes and had an opposing, enhancing effect on influenza A virus infection. Deficiency in VPS29 or other retromer components caused changes in endosome morphology and acidity and attenuated the activity of endosomal proteases. These changes in endosome properties caused incoming coronavirus, but not influenza virus particles, to become entrapped therein. Overall, these data show how host regulation of endosome characteristics can influence cellular susceptibility to viral infection and identify a host pathway that could serve as a pharmaceutical target for intervention in zoonotic viral diseases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These data identify a host pathway by which VPS29 and associated factors control the endosomal environment in a manner that influences susceptibility to viral infection. This pathway could serve as a pharmaceutical target for intervention in zoonotic viral diseases, including those caused by coronaviruses, influenza viruses, and filoviruses, all of which are pandemic threats. Our findings show how host regulation of endosome characteristics can influence viral susceptibility in both a positive and negative manner.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Peramivir, an Anti-Influenza Virus Drug, Exhibits Potential Anti-Cytokine Storm Effects</title>
       <link>https://example.com/article/35296098/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35296098/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Coronavirus Disease 2019 (COVID-19) infected by Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) has been declared a public health emergency of international concerns. Cytokine storm syndrome (CSS) is a critical clinical symptom of severe COVID-19 patients, and the macrophage is recognized as the direct host cell of SARS-CoV-2 and potential drivers of CSS. In the present study, peramivir was identified to reduce TNF-α by partly intervention of NF-κB activity in LPS-induced macrophage model. &lt;em&gt;In vivo&lt;/em&gt;, peramivir reduced the multi-cytokines in serum and bronchoalveolar lavage fluid (BALF), alleviated the acute lung injury and prolonged the survival time in mice. In human peripheral blood mononuclear cells (hPBMCs), peramivir could also inhibit the release of TNF-α. Collectively, we proposed that peramivir might be a candidate for the treatment of COVID-19 and other infections related CSS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>BCG vaccination provides protection against IAV but not SARS-CoV-2</title>
+      <link>https://example.com/article/35235831/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35235831/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BCG vaccination provides significant protection against IAV in mice and hamsters&lt;/li&gt;
+&lt;li&gt;BCG provides no protection against SARS-CoV-2 in mice and hamsters&lt;/li&gt;
+&lt;li&gt;SARS-CoV-2 induces pulmonary hemorrhage and disseminates to the bone marrow&lt;/li&gt;
+&lt;li&gt;Monocytes from BCG-vaccinated humans induce more cytokines to IAV than SARS-CoV-2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since the vast majority of species solely rely on innate immunity for host defense, it stands to reason that a critical evolutionary trait like immunological memory evolved in this primitive branch of our immune system. There is ample evidence that vaccines such as bacillus Calmette-Guérin (BCG) induce protective innate immune memory responses (trained immunity) against heterologous pathogens. Here we show that while BCG vaccination significantly reduces morbidity and mortality against influenza A virus (IAV), it fails to provide protection against severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). In contrast to IAV, SARS-CoV-2 infection leads to unique pulmonary vasculature damage facilitating viral dissemination to other organs, including the bone marrow (BM), a central site for BCG-mediated trained immunity. Finally, monocytes from BCG-vaccinated individuals mount an efficient cytokine response to IAV infection, while this response is minimal following SARS-CoV-2. Collectively, our data suggest that the protective capacity of BCG vaccination is contingent on viral pathogenesis and tissue tropism.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

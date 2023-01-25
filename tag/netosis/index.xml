@@ -5,12 +5,40 @@
     <link>https://example.com/tag/netosis/</link>
       <atom:link href="https://example.com/tag/netosis/index.xml" rel="self" type="application/rss+xml" />
     <description>NETosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>NETosis</title>
       <link>https://example.com/tag/netosis/</link>
     </image>
+    
+    <item>
+      <title>Homeostatic, Non-Canonical Role of Macrophage Elastase in Vascular Integrity</title>
+      <link>https://example.com/article/36691905/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36691905/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Matrix metalloproteinase (MMP)-12 is highly expressed in abdominal aortic aneurysms and its elastolytic function has been implicated in the pathogenesis. This concept is challenged, however, by conflicting data. Here, we sought to revisit the role of MMP-12 in abdominal aortic aneurysm.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; &lt;em&gt;Apoe&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; and &lt;em&gt;Mmp12&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt;/&lt;em&gt;Apoe&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice were infused with Ang II (angiotensin). Expression of neutrophil extracellular traps (NETs) markers and complement component 3 (C3) levels were evaluated by immunostaining in aortas of surviving animals. Plasma complement components were analyzed by immunoassay. The effects of a complement inhibitor, IgG-FH1-5 (factor H-immunoglobulin G), and macrophage-specific MMP-12 deficiency on adverse aortic remodeling and death from rupture in Ang II-infused mice were determined.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Unexpectedly, death from aortic rupture was significantly higher in &lt;em&gt;Mmp12&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt;/&lt;em&gt;Apoe&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice. This associated with more neutrophils, citrullinated histone H3 and neutrophil elastase, markers of NETs, and C3 levels in &lt;em&gt;Mmp12&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; aortas. These findings were recapitulated in additional models of abdominal aortic aneurysm. MMP-12 deficiency also led to more pronounced elastic laminae degradation and reduced collagen integrity. Higher plasma C5a in &lt;em&gt;Mmp12&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice pointed to complement overactivation. Treatment with IgG-FH1-5 decreased aortic wall NETosis and reduced adverse aortic remodeling and death from rupture in Ang II-infused &lt;em&gt;Mmp12&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice. Finally, macrophage-specific MMP-12 deficiency recapitulated the effects of global MMP-12 deficiency on complement deposition and NETosis, as well as adverse aortic remodeling and death from rupture in Ang II-infused mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; An MMP-12 deficiency/complement activation/NETosis pathway compromises aortic integrity, which predisposes to adverse vascular remodeling and abdominal aortic aneurysm rupture. Considering these new findings, the role of macrophage MMP-12 in vascular homeostasis demands re-evaluation of MMP-12 function in diverse settings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Chloroquine reduces neutrophil extracellular trap (NET) formation through inhibition of peptidyl arginine deiminase 4 (PAD4)</title>
@@ -838,6 +866,131 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Actin-related protein 2/3 complex regulates neutrophil extracellular trap expulsion and lung damage in abdominal sepsis</title>
+      <link>https://example.com/article/35272488/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35272488/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular trap (NET) formation is a key feature in sepsis. The aim of the present study was to examine the role of the actin cytoskeleton in regulating the expulsion of NETs. Actin-related protein 2/3 (Arp 2/3) complex is an important regulator of F-actin polymerization. Coincubation with CK666, a specific Arp 2/3 inhibitor, decreased 12-phorbol 13-myristate acetate-induced NET formation in vitro. CK666 not only abolished F-actin polymerization but also caused intracellular retention of NETs. Inhibition of Arp 2/3 reduced NET formation on circulating neutrophils and in the bronchoalveolar space in mice undergoing cecal ligation and puncture (CLP). Notably, treatment with CK666 attenuated CLP-induced neutrophil recruitment, edema formation, and tissue damage in the lungs. Moreover, Arp 2/3 inhibition decreased levels of C-X-C motif chemokine ligand 1 (CXCL-1) and interleukin-6 in the lung and plasma of septic animals. Taken together, this study shows that expulsion of NETs is regulated by the actin cytoskeleton and that inhibition of Arp 2/3-dependent F-actin polymerization not only decreases NET formation but also protects against pathological inflammation and tissue damage in septic lung injury. Thus, we suggest that targeting NET release is a novel and useful way to ameliorate lung damage in abdominal sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Histones released by NETosis enhance the infectivity of SARS-CoV-2 by bridging the spike protein subunit 2 and sialic acid on host cells</title>
+      <link>https://example.com/article/35273357/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35273357/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophil extracellular traps (NETs) can capture and kill viruses, such as influenza viruses, human immunodeficiency virus (HIV), and respiratory syncytial virus (RSV), thus contributing to host defense. Contrary to our expectation, we show here that the histones released by NETosis enhance the infectivity of SARS-CoV-2, as found by using live SARS-CoV-2 and two pseudovirus systems as well as a mouse model. The histone H3 or H4 selectively binds to subunit 2 of the spike (S) protein, as shown by a biochemical binding assay, surface plasmon resonance and binding energy calculation as well as the construction of a mutant S protein by replacing four acidic amino acids. Sialic acid on the host cell surface is the key molecule to which histones bridge subunit 2 of the S protein. Moreover, histones enhance cell-cell fusion. Finally, treatment with an inhibitor of NETosis, histone H3 or H4, or sialic acid notably affected the levels of sgRNA copies and the number of apoptotic cells in a mouse model. These findings suggest that SARS-CoV-2 could hijack histones from neutrophil NETosis to promote its host cell attachment and entry process and may be important in exploring pathogenesis and possible strategies to develop new effective therapies for COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tissue accumulation of neutrophil extracellular traps mediates muscle hyperalgesia in a mouse model</title>
+      <link>https://example.com/article/35264677/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35264677/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Accumulation of uric acid (UA) during muscular trauma is a factor involved in the development of muscle hyperalgesia. Neutrophil extracellular traps (NETs), DNA-based reticular structures to capture UA, play a central role in the pain onset of gout attacks; however, the involvement of NETs via the elevation of local UA level in muscle hyperalgesia due to injuries from muscle overuse remains unknown. The triceps surae muscles (TSMs) in the unilateral hindlimb of mice were electrically stimulated to induce excessive muscle contraction. Mechanical withdrawal thresholds, tissue UA levels, neutrophil recruitment, and protein amount of citrullinated histone 3 (citH3), a major marker of NETs, were investigated. Furthermore, whether neutrophil depletion, extracellular DNA cleavage, and administration of the urate-lowering agent febuxostat improved muscle hyperalgesia caused by NET formation was examined. CitH3 expression upon neutrophil recruitment was significantly increased in the stimulated TSMs with increased tissue UA levels, whereas febuxostat administration improved muscle hyperalgesia with decreased citH3 and tissue UA levels, as observed in neutrophil depletion and extracellular DNA digestion. The underlying mechanism of muscle hyperalgesia associated with locally recruited neutrophils forming NETs due to increased tissue UA levels potentially plays a significant role in creating a vicious circle of muscle pain.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Phorbol 12-myristate 13-acetate stimulation under hypoxia induces nuclear swelling with DNA outflow but not extracellular trap formation of neutrophils</title>
+      <link>https://example.com/article/35259405/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35259405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neutrophils stand sentinel over infection and possess diverse antimicrobial weapons, including neutrophil extracellular traps (NETs). NETs are composed of web-like extracellular DNA decorated with antimicrobial substances and can trap and eliminate invading microorganisms. Although phorbol 12-myristate 13-acetate (PMA) is a potent NET inducer, previous studies have demonstrated that not all neutrophils exhibit NET formation even if stimulated by PMA at high concentrations. This study first showed that some neutrophils stimulated by PMA displayed a swollen nucleus but not NET formation and that hypoxic environments suppressed the NET release. Next, characterization of PMA-stimulated neutrophils with a swollen nucleus was accomplished by differentiating between suicidal-type NETosis and apoptosis. Furthermore, the significance of the phenomenon was examined using formalin-fixed, paraffin-embedded human lung disease tissues with and without pneumonia. As a result, histone H3 citrullination, DNA outflow, propidium iodide labeling, resistance to DNase I, and suspended actin rearrangement were characteristics of PMA-stimulated neutrophils with a swollen nucleus distinct from neutrophils that underwent either suicidal-type NETosis or apoptosis. Neutrophils stimulated by PMA under hypoxic conditions secreted matrix metalloproteinase-9 cytotoxic to human lung-derived fibroblasts. Further, deposition of neutrophil-derived citrullinated histone H3+ chromatin substances in pulmonary lesions was greater in patients with pneumonia than in patients without pneumonia and positively correlated with hypoxia-inducible factor-1α expression. The collective findings suggested that neutrophils activated under hypoxic conditions could be putative modulators of hypoxia-related disease manifestations.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular Prerequisites for Neutrophil Extracellular Trap Formation and Evasion Mechanisms of Staphylococcus aureus</title>
+      <link>https://example.com/review/35237275/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35237275/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NETosis is a multi-facetted cellular process that promotes the formation of neutrophil extracellular traps (NETs). NETs as web-like structures consist of DNA fibers armed with granular proteins, histones, and microbicidal peptides, thereby exhibiting pathogen-immobilizing and antimicrobial attributes that maximize innate immune defenses against invading microbes. However, clinically relevant pathogens often tolerate entrapment and even take advantage of the remnants of NETs to cause persistent infections in mammalian hosts. Here, we briefly summarize how &lt;em&gt;Staphylococcus aureus&lt;/em&gt;, a high-priority pathogen and causative agent of fatal diseases in humans as well as animals, catalyzes and concurrently exploits NETs during pathogenesis and recurrent infections. Specifically, we focus on toxigenic and immunomodulatory effector molecules produced by staphylococci that prime NET formation, and further highlight the molecular and underlying principles of suicidal NETosis compared to vital NET-formation by viable neutrophils in response to these stimuli. We also discuss the inflammatory potential of NET-controlled microenvironments, as excessive expulsion of NETs from activated neutrophils provokes local tissue injury and may therefore amplify staphylococcal disease severity in hospitalized or chronically ill patients. Combined with an overview of adaptation and counteracting strategies evolved by S. aureus to impede NET-mediated killing, these insights may stimulate biomedical research activities to uncover novel aspects of NET biology at the host-microbe interface.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

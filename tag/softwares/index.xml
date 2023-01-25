@@ -214,6 +214,33 @@
     </item>
     
     <item>
+      <title>DeepM6ASeq: prediction and characterization of m6A-containing sequences using deep learning</title>
+      <link>https://example.com/article/30598068/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/30598068/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; N6-methyladensine (m6A) is a common and abundant RNA methylation modification found in various species. As a type of post-transcriptional methylation, m6A plays an important role in diverse RNA activities such as alternative splicing, an interplay with microRNAs and translation efficiency. Although existing tools can predict m6A at single-base resolution, it is still challenging to extract the biological information surrounding m6A sites.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We implemented a deep learning framework, named &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt;, to predict m6A-containing sequences and characterize surrounding biological features based on miCLIP-Seq data, which detects m6A sites at single-base resolution. &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt; showed better performance as compared to other machine learning classifiers. Moreover, an independent test on m6A-Seq data, which identifies m6A-containing genomic regions, revealed that our model is competitive in predicting m6A-containing sequences. The learned motifs from &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt; correspond to known m6A readers. Notably, &lt;a href=&#34;https://github.com/rreybeyb/DeepM6ASeq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepM6ASeq&lt;/a&gt; also identifies a newly recognized m6A reader: FMR1. Besides, we found that a saliency map in the deep learning model could be utilized to visualize locations of m6A sites.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conculsion:&lt;/em&gt; We developed a deep-learning-based framework to predict and characterize m6A-containing sequences and hope to help investigators to gain more insights for m6A research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>How to find and install R packages?</title>
       <link>https://example.com/blog/2018-03-18-find-install-r-pkgs/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
