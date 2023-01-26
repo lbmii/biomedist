@@ -381,6 +381,58 @@
     </item>
     
     <item>
+      <title>DeepWalk based method to predict lncRNA-miRNA associations via lncRNA-miRNA-disease-protein-drug graph</title>
+      <link>https://example.com/article/35216549/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35216549/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) play a crucial role in diverse biological processes and have been confirmed to be concerned with various diseases. Largely uncharacterized of the physiological role and functions of lncRNA remains. MicroRNAs (miRNAs), which are usually 20-24 nucleotides, have several critical regulatory parts in cells. LncRNA can be regarded as a sponge to adsorb miRNA and indirectly regulate transcription and translation. Thus, the identification of lncRNA-miRNA associations is essential and valuable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In our work, we present DWLMI to infer the potential associations between lncRNAs and miRNAs by representing them as vectors via a lncRNA-miRNA-disease-protein-drug graph. Specifically, DeepWalk can be used to learn the behavior representation of vertices. The methods of fingerprint, k-mer and MeSH descriptors were mainly used to learn the attribute representation of vertices. By combining the above two kinds of information, unknown lncRNA-miRNA associations can be predicted by the random forest classifier. Under the five-fold cross-validation, the proposed DWLMI model obtained an average prediction accuracy of 95.22% with a sensitivity of 94.35% at the AUC of 98.56%.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The experimental results demonstrated that DWLMI can effectively predict the potential lncRNA-miRNA associated pairs, and the results can provide a new insight for related non-coding RNA researchers in the field of combing biology big data with deep learning.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Shedding light on the hidden human proteome expands immunopeptidome in cancer</title>
+      <link>https://example.com/article/35189633/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35189633/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unrestrained cellular growth and immune escape of a tumor are associated with the incidental errors of the genome and transcriptome. Advances in next-generation sequencing have identified thousands of genomic and transcriptomic aberrations that generate variant peptides that assemble the hidden proteome, further expanding the immunopeptidome. Emerging next-generation sequencing technologies and a number of computational methods estimated the abundance of immune infiltration from bulk transcriptome have advanced our understanding of tumor microenvironments. Here, we will characterize several major types of tumor-specific antigens arising from single-nucleotide variants, insertions and deletions, gene fusion, alternative splicing, RNA editing and non-coding RNAs. Finally, we summarize the current state-of-the-art computational and experimental approaches or resources and provide an integrative pipeline for the identification of candidate tumor antigens. Together, the systematic investigation of the hidden proteome in cancer will help facilitate the development of effective and durable immunotherapy targets for cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Encyclopedia of transcription factor</title>
       <link>https://example.com/tool/2021-08-06-en-tf/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>

@@ -1495,6 +1495,214 @@
     </item>
     
     <item>
+      <title>In Vivo Activation of T-Cell Proliferation by Regulating Cell Surface Receptor Clustering Using a pH-Driven Interlocked DNA Nano-Spring</title>
+      <link>https://example.com/article/35225623/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35225623/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Activation of T-cell proliferation specifically in a tumor is crucial for reducing the autoimmune side effects of antitumor immunotherapy. Herein, we developed a pH-driven interlocked DNA nano-spring (iDNS) to stimulate T-cell activation &lt;em&gt;in vivo&lt;/em&gt; in response to the low pH value in a tumor microenvironment. The interlocked structure of iDNS provide a more rigid scaffold in comparison to double-stranded DNA for ligand assembly, which can help to control the spatial distribution of ligands with more accuracy. We have demonstrated that the pH-driven reversible reconfiguration of iDNS provides a powerful way to regulate the nanoscale distribution of T-cell receptors (CD3) on the cell surface. The relatively low pH value (pH 6.5) in a solid tumor was able to drive the springlike shrinking of iDNS and induce significant T-cell proliferation, leading to an enhanced antitumor effect, thus providing a tool for specifically inducing an immune response in a tumor for immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An mTOR siRNA-Loaded Spermidine/DNA Tetrahedron Nanoplatform with a Synergistic Anti-Inflammatory Effect on Acute Lung Injury</title>
+      <link>https://example.com/article/35167728/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35167728/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acute lung injury (ALI) is characterized by severe inflammation and damage to the lung air-blood barrier, resulting in respiratory function damage and life-threatening outcomes. Macrophage polarization plays an essential role in the occurrence, development, and outcome of ALI. As drug carriers, self-assembled DNA nanostructures can potentially overcome the drawbacks and limitations of traditional anti-inflammatory agents owing to their nontoxicity, programmability, and excellent structural control at the nanoscale. A small interfering RNA (siRNA) and drug dual therapy nanoplatform are proposed and constructed here to combat ALI. The nanoplatform consists of a spermidine-assembled DNA tetrahedron and four mammalian target of rapamycin siRNAs. Spermidine serves as a mediator of drug delivery vehicle synthesis and a drug that alters macrophage polarization. Both spermidine and siRNA exert anti-inflammatory effects in vitro and in vivo by regulating the macrophage phenotype. More importantly, these factors exhibit a synergistic anti-inflammatory effect by promoting macrophage autophagy. For the first time, an anti-inflammatory dual therapy strategy that uses self-assembled DNA nanostructures as nontoxic, programmable delivery vehicles is proposed and demonstrated through this work. Future work on utilizing DNA nanostructures for the treatment of noncancerous diseases such as ALI is highly promising and desirable.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DeepWalk based method to predict lncRNA-miRNA associations via lncRNA-miRNA-disease-protein-drug graph</title>
+      <link>https://example.com/article/35216549/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35216549/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) play a crucial role in diverse biological processes and have been confirmed to be concerned with various diseases. Largely uncharacterized of the physiological role and functions of lncRNA remains. MicroRNAs (miRNAs), which are usually 20-24 nucleotides, have several critical regulatory parts in cells. LncRNA can be regarded as a sponge to adsorb miRNA and indirectly regulate transcription and translation. Thus, the identification of lncRNA-miRNA associations is essential and valuable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In our work, we present DWLMI to infer the potential associations between lncRNAs and miRNAs by representing them as vectors via a lncRNA-miRNA-disease-protein-drug graph. Specifically, DeepWalk can be used to learn the behavior representation of vertices. The methods of fingerprint, k-mer and MeSH descriptors were mainly used to learn the attribute representation of vertices. By combining the above two kinds of information, unknown lncRNA-miRNA associations can be predicted by the random forest classifier. Under the five-fold cross-validation, the proposed DWLMI model obtained an average prediction accuracy of 95.22% with a sensitivity of 94.35% at the AUC of 98.56%.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The experimental results demonstrated that DWLMI can effectively predict the potential lncRNA-miRNA associated pairs, and the results can provide a new insight for related non-coding RNA researchers in the field of combing biology big data with deep learning.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DeepMNE: Deep Multi-Network Embedding for lncRNA-Disease Association Prediction</title>
+      <link>https://example.com/article/35180094/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35180094/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNA (lncRNA) participates in various biological processes, hence its mutations and disorders play an important role in the pathogenesis of multiple human diseases. Identifying disease-related lncRNAs is crucial for the diagnosis, prevention, and treatment of diseases. Although a large number of computational approaches have been developed, effectively integrating multi-omics data and accurately predicting potential lncRNA-disease associations remains a challenge, especially regarding new lncRNAs and new diseases. In this work, we propose a new method with deep multi-network embedding, called &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt;, to discover potential lncRNA-disease associations, especially for novel diseases and lncRNAs. &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; extracts multi-omics data to describe diseases and lncRNAs, and proposes a network fusion method based on deep learning to integrate multi-source information. Moreover, &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; complements the sparse association network and uses kernel neighborhood similarity to construct disease similarity and lncRNA similarity networks. Furthermore, a graph embedding method is adopted to predict potential associations. Experimental results demonstrate that compared to other state-of-the-art methods, &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; has a higher predictive performance on new associations, new lncRNAs and new diseases. Besides, &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; also elicits a considerable predictive performance on perturbed datasets. Additionally, the results of two different types of case studies indicate that &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; can be used as an effective tool for disease-related lncRNA prediction.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A GMR-based assay for quantification of the human response to influenza</title>
+      <link>https://example.com/article/35192997/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35192997/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GMR sensors are used for the first time to monitor the host response to influenza.&lt;/li&gt;
+&lt;li&gt;GMR assay can perform multiplexed quantification of ten influenza-activated genes.&lt;/li&gt;
+&lt;li&gt;GMR assay can diagnose influenza-infected individuals with high accuracy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Detecting and quantifying the host transcriptional response to influenza virus infection can serve as a real-time diagnostic tool for clinical management. We have employed the multiplexing capabilities of GMR sensors to develop a novel assay based on the influenza metasignature (IMS), which can classify influenza infection based on transcript levels. We show that the assay can reliably detect ten IMS transcripts and distinguish subjects with naturally acquired influenza infection from those with other symptomatic viral infections (AUC 0.93, 95% CI: 0.82-1.00). Separately, we validated that the gene IFI27, not included in the IMS panel, has very high single-biomarker accuracy (AUC 0.95, 95% CI: 0.90-0.99) in stratifying patients with influenza. We demonstrate that a portable GMR biosensor can be used as a tool to diagnose influenza infection by measuring the host response, simultaneously highlighting the power of immune system metrics and advancing the field of gene expression-based diagnostics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ex vivo enzymatic treatment converts blood type A donor lungs into universal blood type lungs</title>
+      <link>https://example.com/article/35171649/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35171649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Donor organ allocation is dependent on ABO matching, restricting the opportunity for some patients to receive a life-saving transplant. The enzymes FpGalNAc deacetylase and FpGalactosaminidase, used in combination, have been described to effectively convert group A (ABO-A) red blood cells (RBCs) to group O (ABO-O). Here, we study the safety and preclinical efficacy of using these enzymes to remove A antigen (A-Ag) from human donor lungs using ex vivo lung perfusion (EVLP). First, the ability of these enzymes to remove A-Ag in organ perfusate solutions was examined on five human ABO-A1 RBC samples and three human aortae after static incubation. The enzymes removed greater than 99 and 90% A-Ag from RBCs and aortae, respectively, at concentrations as low as 1 μg/ml. Eight ABO-A1 human lungs were then treated by EVLP. Baseline analyses of A-Ag in lungs revealed expression predominantly in the endothelial and epithelial cells. EVLP of lungs with enzyme-containing perfusate removed over 97% of endothelial A-Ag within 4 hours. No treatment-related acute lung toxicity was observed. An ABO-incompatible transplant was then simulated with an ex vivo model of antibody-mediated rejection using ABO-O plasma as the surrogate for the recipient circulation using three donor lungs. The treatment of donor lungs minimized antibody binding, complement deposition, and antibody-mediated injury as compared with control lungs. These results show that depletion of donor lung A-Ag can be achieved with EVLP treatment. This strategy has the potential to expand ABO-incompatible lung transplantation and lead to improvements in fairness of organ allocation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Type III CRISPR-based RNA editing for programmable control of SARS-CoV-2 and human coronaviruses</title>
+      <link>https://example.com/article/35166837/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35166837/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gene-editing technologies, including the widespread usage of CRISPR endonucleases, have the potential for clinical treatments of various human diseases. Due to the rapid mutations of SARS-CoV-2, specific and effective prevention and treatment by CRISPR toolkits for coronavirus disease 2019 (COVID-19) are urgently needed to control the current pandemic spread. Here, we designed Type III CRISPR endonuclease antivirals for coronaviruses (TEAR-CoV) as a therapeutic to combat SARS-CoV-2 infection. We provided a proof of principle demonstration that TEAR-CoV-based RNA engineering approach leads to RNA-guided transcript degradation both in vitro and in eukaryotic cells, which could be used to broadly target RNA viruses. We report that TEAR-CoV not only cleaves SARS-CoV-2 genome and mRNA transcripts, but also degrades live influenza A virus (IAV), impeding viral replication in cells and in mice. Moreover, bioinformatics screening of gRNAs along RNA sequences reveals that a group of five gRNAs (hCoV-gRNAs) could potentially target 99.98% of human coronaviruses. TEAR-CoV also exerted specific targeting and cleavage of common human coronaviruses. The fast design and broad targeting of TEAR-CoV may represent a versatile antiviral approach for SARS-CoV-2 or potentially other emerging human coronaviruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Normothermic Negative Pressure Ventilation Ex Situ Lung Perfusion: Evaluation of Lung Function and Metabolism</title>
+      <link>https://example.com/article/35225272/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35225272/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lung transplantation (LTx) remains the standard of care for end-stage lung disease. A shortage of suitable donor organs and concerns over donor organ quality exacerbated by excessive geographic transportation distance and stringent donor organ acceptance criteria pose limitations to current LTx efforts. Ex situ lung perfusion (ESLP) is an innovative technology that has shown promise in attenuating these limitations. The physiologic ventilation and perfusion of the lungs outside of the inflammatory milieu of the donor body affords ESLP several advantages over traditional cold static preservation (CSP). There is evidence that negative pressure ventilation (NPV) ESLP is superior to positive pressure ventilation (PPV) ESLP, with PPV inducing more significant ventilator-induced lung injury, pro-inflammatory cytokine production, pulmonary edema, and bullae formation. The NPV advantage is perhaps due to the homogenous distribution of intrathoracic pressure across the entire lung surface. The clinical safety and feasibility of a custom NPV-ESLP device have been demonstrated in a recent clinical trial involving extender criteria donor (ECD) human lungs. Herein, the use of this custom device is described in a juvenile porcine model of normothermic NPV-ESLP over a 12 h duration, paying particular attention to management techniques. Pre-surgical preparation, including ESLP software initialization, priming, and de-airing of the ESLP circuit, and the addition of anti-thrombotic, anti-microbial, and anti-inflammatory agents, is specified. The intraoperative techniques of central line insertion, lung biopsy, exsanguination, blood collection, cardiectomy, and pneumonectomy are described. Furthermore, particular focus is paid to anesthetic considerations, with anesthesia induction, maintenance, and dynamic modifications outlined. The protocol also specifies the custom device&amp;rsquo;s initialization, maintenance, and termination of perfusion and ventilation. Dynamic organ management techniques, including alterations in ventilation and metabolic parameters to optimize organ function, are thoroughly described. Finally, the physiological and metabolic assessment of lung function is characterized and depicted in the representative results.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Chemical-induced chromatin remodeling reprograms mouse ESCs to totipotent-like stem cells</title>
       <link>https://example.com/article/35143761/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
@@ -1508,6 +1716,38 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Totipotent cells have more robust developmental potency than any other cell types, giving rise to both embryonic and extraembryonic tissues. Stable totipotent cell cultures and deciphering the principles of totipotency regulation would be invaluable to understand cell plasticity and lineage segregation in early development. Our approach of remodeling the pericentromeric heterochromatin and re-establishing the totipotency-specific broad H3K4me3 domains promotes the pluri-to-totipotency transition. Our protocol establishes a closer match of mouse 2-cell (2C) embryos than any other 2C-like cells. These totipotent-like stem cells (TLSCs) are stable in culture and possess unique molecular features of the mouse 2C embryo. Functionally, TLSCs are competent for germline transmission and give rise to both embryonic and extraembryonic lineages at high frequency. Therefore, TLSCs represent a highly valuable cell type for studies of totipotency and embryology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Development of human alveolar epithelial cell models to study distal lung biology and disease</title>
+      <link>https://example.com/article/35169685/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35169685/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Human AT2 cells grown in Y-27632 medium are immortalized by SV40 Large T antigen&lt;/li&gt;
+&lt;li&gt;Immortalized AT2 cells are SOX9&lt;sup&gt;+&lt;/sup&gt;/SOX2&lt;sup&gt;+&lt;/sup&gt; in the absence of mature alveolar markers&lt;/li&gt;
+&lt;li&gt;Immortalized AT2 cells form NKX2-1&lt;sup&gt;+&lt;/sup&gt;/AQP5&lt;sup&gt;+&lt;/sup&gt;/GPRC5A&lt;sup&gt;+&lt;/sup&gt; organoids in 3D culture&lt;/li&gt;
+&lt;li&gt;Specific 3D culture conditions induce AT2 marker HTII280 expression in organoids&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many acute and chronic diseases affect the distal lung alveoli. Alveolar epithelial cell (AEC) lines are needed to better model these diseases. We used de-identified human remnant transplant lungs to develop a method to establish AEC lines. The lines grow well in 2-dimensional (2D) culture as epithelial monolayers expressing lung progenitor markers. In 3-dimensional (3D) culture with fibroblasts, Matrigel, and specific media conditions, the cells form alveolar-like organoids expressing mature AEC markers including aquaporin 5 (AQP5), G-protein-coupled receptor class C group 5 member A (GPRC5A), and surface marker HTII280. Single-cell RNA sequencing of an AEC line in 2D versus 3D culture revealed increased cellular heterogeneity and induction of cytokine and lipoprotein signaling in 3D organoids. Our approach yields lung progenitor lines that retain the ability to differentiate along the alveolar cell lineage despite long-term expansion and provides a valuable system to model and study the distal lung &lt;em&gt;in vitro&lt;/em&gt;.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

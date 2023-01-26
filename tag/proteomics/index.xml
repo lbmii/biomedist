@@ -5,12 +5,43 @@
     <link>https://example.com/tag/proteomics/</link>
       <atom:link href="https://example.com/tag/proteomics/index.xml" rel="self" type="application/rss+xml" />
     <description>Proteomics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Proteomics</title>
       <link>https://example.com/tag/proteomics/</link>
     </image>
+    
+    <item>
+      <title>Zinc finger protein 521 attenuates osteoarthritis via the histone deacetylases 4 in the nucleus</title>
+      <link>https://example.com/article/36694467/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36694467/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zfp521 promotes chondrocytes proliferation and inhibits apoptosis.&lt;/li&gt;
+&lt;li&gt;Zfp521 maintains chondrocytes extracellular matrix homeostasis.&lt;/li&gt;
+&lt;li&gt;Zfp521 attenuates osteoarthritis via HDAC4 in the cell nucleus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To determine whether zinc finger protein 521 (Zfp521) has a chondroprotective effect by maintaining extracellular matrix (ECM) homeostasis to attenuate osteoarthritis (OA). In chondrocytes, Zfp521 was overexpressed or silenced to detect its effects on proliferation, apoptosis, and ECM homeostasis. Adenovirus encoding Zfp521 was injected into the knee joints of anterior cruciate ligament transection rats to test its efficacy against OA. Combined with proteomic analysis, the molecular mechanism of Zfp521 in cartilage degeneration was further explored. An intra-articular injection of adenovirus carrying a Zfp521 sequence showed a chondroprotective effect against OA. The molecular mechanism around Zfp521 was classified at the molecular, cellular, histological, and functional levels. It was reported that Zfp521 could effectively promote cartilage proliferation, inhibit apoptosis, and maintain the balance of anabolism and catabolism of ECM. Moreover, it was confirmed that Zfp521 exerted its effect better by upregulating histone deacetylases 4 (HDAC4) in the nucleus and was significantly weakened in the absence of HDAC4 in the nucleus. Overall, Zfp521 better exerts its efficacy against OA by increasing the HDAC4 content in the nucleus, making it a promising strategy for OA treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Urine proteomic signatures predicting the progression from premalignancy to malignant gastric cancer</title>

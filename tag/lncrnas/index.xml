@@ -2281,6 +2281,115 @@
     </item>
     
     <item>
+      <title>DeepWalk based method to predict lncRNA-miRNA associations via lncRNA-miRNA-disease-protein-drug graph</title>
+      <link>https://example.com/article/35216549/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35216549/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) play a crucial role in diverse biological processes and have been confirmed to be concerned with various diseases. Largely uncharacterized of the physiological role and functions of lncRNA remains. MicroRNAs (miRNAs), which are usually 20-24 nucleotides, have several critical regulatory parts in cells. LncRNA can be regarded as a sponge to adsorb miRNA and indirectly regulate transcription and translation. Thus, the identification of lncRNA-miRNA associations is essential and valuable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In our work, we present DWLMI to infer the potential associations between lncRNAs and miRNAs by representing them as vectors via a lncRNA-miRNA-disease-protein-drug graph. Specifically, DeepWalk can be used to learn the behavior representation of vertices. The methods of fingerprint, k-mer and MeSH descriptors were mainly used to learn the attribute representation of vertices. By combining the above two kinds of information, unknown lncRNA-miRNA associations can be predicted by the random forest classifier. Under the five-fold cross-validation, the proposed DWLMI model obtained an average prediction accuracy of 95.22% with a sensitivity of 94.35% at the AUC of 98.56%.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The experimental results demonstrated that DWLMI can effectively predict the potential lncRNA-miRNA associated pairs, and the results can provide a new insight for related non-coding RNA researchers in the field of combing biology big data with deep learning.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA MIR122HG is a precursor for miR-122-5p and negatively regulates the TAK1-induced innate immune response in teleost fish</title>
+      <link>https://example.com/article/35218771/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35218771/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long noncoding RNAs (lncRNAs) are a diverse subset of RNA species of noncoding transcripts that are usually longer than 200 nt. However, the biological role and function of many lncRNAs have not been fully identified. It has been shown that one potential function of lncRNAs is to act as a precursor miRNA and promote the production of multiple miRNAs. However, the function of the miiuy croaker lncRNA MIR122HG has not been explored. In the present study, we show that this differentially expressed teleost fish lncRNA can act as the host gene of miR-122-5p, regulate its expression, and indirectly regulate the expression of potential inflammatory target protein transforming growth factor-β-activated kinase 1. We show that MIR122HG can negatively regulate the transforming growth factor-β-activated kinase 1-triggered NF-κB and interferon regulatory factor 3 signaling pathways and subsequently attenuate the innate immune response. In addition, MIR122HG can promote the replication of Siniperca chuatsi rhabdovirus and exacerbate the pathological effects caused by viral infection. We conclude that the study of lncRNA-miRNA-mRNA interaction through bioinformatics analysis or experimental-supported analysis can provide information for further elucidation of the functions of fish lncRNAs in innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification and characterization of long non-coding RNA Carip in modulating spatial learning and memory</title>
+      <link>https://example.com/article/35196493/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35196493/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Carip&lt;/em&gt; specifically binds to CaMKIIβ&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Carip&lt;/em&gt; affects the phosphorylation of AMPA and NMDA receptors&lt;/li&gt;
+&lt;li&gt;Deficiency of &lt;em&gt;Carip&lt;/em&gt; causes dysfunction of synaptic transmission and attenuated LTP&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Carip&lt;/em&gt; KO impairs spatial learning and memory in mice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CaMKII has long been known to be a key effector for synaptic plasticity. Recent studies have shown that a variety of modulators interact with the subunits of CaMKII to regulate the long-term potentiation (LTP) of hippocampal neurons. However, whether long non-coding RNAs modulate the activity of CaMKII and affect synaptic plasticity is still elusive. Here, we identify a previously uncharacterized long non-coding RNA &lt;em&gt;Carip&lt;/em&gt; that functions as a scaffold, specifically interacts with CaMKIIβ, and regulates the phosphorylation of α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) and N-methyl-d-aspartate (NMDA) receptor subunits in the hippocampus. The absence of &lt;em&gt;Carip&lt;/em&gt; causes dysfunction of synaptic transmission and attenuates LTP in hippocampal CA3-CA1 synapses, which further leads to impairment of spatial learning and memory. In summary, our findings demonstrate that &lt;em&gt;Carip&lt;/em&gt; modulates long-term synaptic plasticity by changing AMPA receptor and NMDA receptor activities, thereby affecting spatial learning and memory in mice.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DeepMNE: Deep Multi-Network Embedding for lncRNA-Disease Association Prediction</title>
+      <link>https://example.com/article/35180094/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35180094/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNA (lncRNA) participates in various biological processes, hence its mutations and disorders play an important role in the pathogenesis of multiple human diseases. Identifying disease-related lncRNAs is crucial for the diagnosis, prevention, and treatment of diseases. Although a large number of computational approaches have been developed, effectively integrating multi-omics data and accurately predicting potential lncRNA-disease associations remains a challenge, especially regarding new lncRNAs and new diseases. In this work, we propose a new method with deep multi-network embedding, called &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt;, to discover potential lncRNA-disease associations, especially for novel diseases and lncRNAs. &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; extracts multi-omics data to describe diseases and lncRNAs, and proposes a network fusion method based on deep learning to integrate multi-source information. Moreover, &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; complements the sparse association network and uses kernel neighborhood similarity to construct disease similarity and lncRNA similarity networks. Furthermore, a graph embedding method is adopted to predict potential associations. Experimental results demonstrate that compared to other state-of-the-art methods, &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; has a higher predictive performance on new associations, new lncRNAs and new diseases. Besides, &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; also elicits a considerable predictive performance on perturbed datasets. Additionally, the results of two different types of case studies indicate that &lt;a href=&#34;https://github.com/Mayingjun20179/DeepMNE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMNE&lt;/a&gt; can be used as an effective tool for disease-related lncRNA prediction.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Increased expression of HOXA11-AS attenuates endometrial decidualization in recurrent implantation failure patients</title>
       <link>https://example.com/article/35114391/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
@@ -2339,6 +2448,38 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Immune system gene regulation perturbation has been found to be a major cause of the development of various types of cancer. Numbers of mechanisms contribute to gene expression regulation, thus, systematically identification of potential regulons of immune-related pathways is critical to cancer immunotherapy. Here, we comprehensively chart the landscape of transcription factors, microRNAs, RNA binding proteins and long noncoding RNAs regulation in 17 immune-related pathways across 33 cancers. The potential immunology regulons are likely to exhibit higher expressions in immune cells, show expression perturbations in cancer, and are significantly correlated with immune cell infiltrations. We also identify a panel of clinically relevant immunology regulons across cancers. Moreover, the regulon atlas of immune-related pathways helps prioritizing cancer-related genes (i.e. ETV7, miR-146a-5p, ZFP36 and HCP5). We further identified two molecular subtypes of glioma (cold and hot tumour phenotypes), which were characterized by differences in immune cell infiltrations, expression of checkpoints, and prognosis. Finally, we developed a user-friendly resource, &lt;a href=&#34;http://bio-bigdata.hrbmu.edu.cn/ImmReg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImmReg&lt;/a&gt;, with multiple modules to visualize, browse, and download immunology regulation. Our study provides a comprehensive landscape of immunology regulons, which will shed light on future development of RNA-based cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Curcumenol triggered ferroptosis in lung cancer cells via lncRNA H19/miR-19b-3p/FTH1 axis</title>
+      <link>https://example.com/article/35224289/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35224289/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Curcumenol exhibited its anticancer activity by triggering ferroptosis both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Loss of lncRNA H19 leads to ferroptotic cell death in lung cancer.&lt;/li&gt;
+&lt;li&gt;LncRNA H19 plays an important role in curcumenol-induced ferroptotic cell death in lung cancer.&lt;/li&gt;
+&lt;li&gt;Curcumenol induced ferroptosis through a ceRNA network based on lncRNA H19/miR-19b-3p/FTH1 axis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Curcumenol, an effective ingredient of Wenyujin, has been reported that exerted its antitumor potential in a few cancer types. However, the effect and molecular mechanism of curcumenol in lung cancer are largely unknown. Here, we found that curcumenol induced cell death and suppressed cell proliferation in lung cancer cells. Next, we demonstrated that ferroptosis was the predominant method that contributed to curcumenol-induced cell death of lung cancer &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;vivo&lt;/em&gt; for the first time. Subsequently, using RNA sequencing, we found that the long non-coding RNA H19 (lncRNA H19) was significantly downregulated in lung cancer cells treated with curcumenol, when compared to untreated controls. Overexpression of lncRNA H19 eliminated the anticancer effect of curcumenol, while lncRNA H19 knockdown promoted ferroptosis induced by curcumenol treatment. Mechanistically, we showed that lncRNA H19 functioned as a competing endogenous RNA to bind to miR-19b-3p, thereby enhanced the transcription activity of its endogenous target, ferritin heavy chain 1 (FTH1), a marker of ferroptosis. In conclusion, our data show that the natural product curcumenol exerted its antitumor effects on lung cancer by triggering ferroptosis, and the lncRNA H19/miR-19b-3p/FTH1 axis plays an essential role in curcumenol-induced ferroptotic cell death. Therefore, our findings will hopefully provide a valuable drug for treating lung cancer patients.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2709,6 +2850,31 @@
 &lt;p&gt;Long noncoding RNAs (lncRNAs) involved in the regulation of antiviral innate immune responses need to be further identified. By functionally screening the lncRNAs in macrophages, here we identified lncRNA &lt;em&gt;Malat1&lt;/em&gt;, abundant in the nucleus but significantly down-regulated after viral infection, as a negative regulator of antiviral type I IFN (IFN-I) production. &lt;em&gt;Malat1&lt;/em&gt; directly bound to the transactive response DNA-binding protein (TDP43) in the nucleus and prevented activation of TDP43 by blocking the activated caspase-3-mediated TDP43 cleavage to TDP35. The cleaved TDP35 increased the nuclear IRF3 protein level by binding and degrading &lt;em&gt;Rbck1&lt;/em&gt; pre-mRNA to prevent IRF3 proteasomal degradation upon viral infection, thus selectively promoting antiviral IFN-I production. Deficiency of &lt;em&gt;Malat1&lt;/em&gt; enhanced antiviral innate responses in vivo, accompanying the increased IFN-I production and reduced viral burden. Importantly, the reduced &lt;em&gt;MALAT1&lt;/em&gt;, augmented IRF3, and increased &lt;em&gt;IFNA&lt;/em&gt; mRNA were found in peripheral blood mononuclear cells (PBMCs) from systemic lupus erythematosus (SLE) patients. Therefore, the down-regulation of &lt;em&gt;MALAT1&lt;/em&gt; in virus-infected cells or in human cells from autoimmune diseases will increase host resistance against viral infection or lead to autoinflammatory interferonopathies via the increased type I IFN production. Our results demonstrate that the nuclear &lt;em&gt;Malat1&lt;/em&gt; suppresses antiviral innate responses by targeting TDP43 activation via RNA-RBP interactive network, adding insight to the molecular regulation of innate responses and autoimmune pathogenesis.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;LncRNAs have been identified as regulating antiviral innate responses via different targets through various ways. Whether there is an abundant and highly conserved lncRNA in the nucleus which may regulate antiviral innate signaling through a new mechanism remains to be investigated. Here, we identify that viral infection-reduced expression of &lt;em&gt;Malat1&lt;/em&gt; feedback promotes IRF3-initiated type I IFN production in the innate response against viral infection. &lt;em&gt;Malat1&lt;/em&gt; binds to TDP43 and prevents its cleavage mediated by activated caspase-3. The cleaved TDP35 inhibits IRF3 degradation through promoting the degradation of pre-mRNA of Rbck1, an E3 ubiquitin ligase targeting IRF3. Aberrant &lt;em&gt;MALAT1&lt;/em&gt; reduction and IRF3 activation are found in SLE patients, providing one mechanistic explanation for why SLE patients always have type I interferonopathies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long non-coding RNA HCAR promotes endochondral bone repair by upregulating VEGF and MMP13 in hypertrophic chondrocyte through sponging miR-15b-5p</title>
+      <link>https://example.com/article/35224160/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35224160/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Endochondral bone formation is an important route for bone repair. Although emerging evidence has revealed the functions of long non-coding RNAs (lncRNAs) in bone and cartilage development, the effect of lncRNAs in endochondral bone repair is still largely unknown. Here, we identified a lncRNA, named Hypertrophic Chondrocyte Angiogenesis-related lncRNA (HCAR), and proved it to promote the endochondral bone repair by upregulating the expression of matrix metallopeptidase 13 (Mmp13) and vascular endothelial growth factor α (Vegfa) in hypertrophic chondrocytes. Lnc-HCAR knockdown in hypertrophic chondrocytes restrained the cartilage matrix remodeling and decrease the CD31hiEmcnhi vessels number in a bone repair model. Mechanistically, we proved that lnc-HCAR was mainly enriched in the cytoplasm using fluorescence in situ hybridization (FISH) assay, and it acted as a molecular sponge for miR-15b-5p. Further, in hypertrophic chondrocytes, lnc-HCAR competitively bound to miR-15b-5p to increase Vegfa and Mmp13 expression. Our results proved that lncRNA is deeply involved in endochondral bone repair, which will provide a new theoretical basis for future strategies for promoting fracture healing.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

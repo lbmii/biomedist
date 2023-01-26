@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stomatology | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/stomatology/</link>
+      <atom:link href="https://example.com/tag/stomatology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stomatology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Stomatology</title>
+      <link>https://example.com/tag/stomatology/</link>
+    </image>
+    
+    <item>
+      <title>Loss of IκBζ Drives Dentin Formation via Altered H3K4me3 Status</title>
+      <link>https://example.com/article/35193410/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35193410/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enforced enrichment of the active promoter marks trimethylation of histone H3 lysine 4 (H3K4me3) and acetylation of histone H3 lysine 27 (H3K27ac) by inhibiting histone demethylases and deacetylases is positively associated with hard tissue formation through the induction of osteo/odontogenic differentiation. However, the key endogenous epigenetic modulator of odontoblasts to regulate the expression of genes coding dentin extracellular matrix (ECM) proteins has not been identified. We focused on nuclear factor (NF)-κB inhibitor ζ (IκBζ), which was originally identified as the transcriptional regulator of NF-κB and recently regarded as the NF-κB-independent epigenetic modulator, and found that IκBζ null mice exhibit a thicker dentin width and narrower pulp chamber, with aged mice having more marked phenotypes. At 6 mo of age, dentin fluorescent labeling revealed significantly accelerated dentin synthesis in the incisors of IκBζ null mice. In the molars of IκBζ null mice, marked tertiary dentin formation adjacent to the pulp horn was observed. Mechanistically, the expression of COL1A2 and COL1A1 collagen genes increased more in the odontoblast-rich fraction of IκBζ null mice than in wild type in vivo, similar to human odontoblast-like cells transfected with small interfering RNA for IκBζ compared with cells transfected with control siRNA in vitro. Furthermore, the direct binding of IκBζ to the COL1A2 promoter suppressed COL1A2 expression and the local active chromatin status marked by H3K4me3. Based on whole-genome identification of H3K4me3 enrichment, ECM and ECM organization-related gene loci were selectively activated by the knockdown of IκBζ, which consistently resulted in the upregulation of these genes. Collectively, this study suggested that IκBζ is the key negative regulator of dentin formation in odontoblasts by inhibiting dentin ECM- and ECM organization-related gene expression through an altered local chromatin status marked by H3K4me3. Therefore, IκBζ is a potential target for epigenetically improving the clinical outcomes of dentin regeneration therapies such as pulp capping.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

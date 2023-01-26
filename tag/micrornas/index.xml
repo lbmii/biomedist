@@ -63,6 +63,31 @@
     </item>
     
     <item>
+      <title>MiR-20a-5p alleviates kidney ischemia/reperfusion injury by targeting ACSL4-dependent ferroptosis</title>
+      <link>https://example.com/article/36695612/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36695612/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ischemia/reperfusion injury (IRI) is prone to occur after kidney transplantation, leading to delayed graft function (DGF). MicroRNAs play a crucial role in the pathogenesis of ischemia/reperfusion-induced acute kidney injury, and miR-20a-5p was found to be the most significantly upregulated gene in a DGF patient cohort. However, the roles of microRNAs in transplanted kidneys remain largely unknown. In this study, we found that miR-20a-5p was upregulated in the kidneys of acute kidney injury mice and in patients with DGF. We identified early growth response-1 as a critical upstream target and verified the binding of early growth response-1 to a predicted sequence in the promoter region of the miR-20a-5p gene. Functionally, the miR-20a-5p mimic attenuated IRI and postischemic renal fibrosis, whereas the miR-20a-5p inhibitor delivery aggravated IRI and fibrosis. Importantly, delivery of the miR-20a-5p mimic or inhibitor in the donor kidneys attenuated or aggravated renal loss and structural damage in cold storage transplantation injury. Furthermore, our study identified miR-20a-5p as a negative regulator of acyl-CoA synthetase long-chain family member 4 (ACSL4) by targeting the 3&amp;rsquo; untranslated region of ACSL4 mRNA, thereby inhibiting ACSL4-dependent ferroptosis. Our results suggest a potential therapeutic application of miR-20a-5p in kidney transplantation through the inhibition of ACSL4-dependent ferroptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>microRNA-33 deficiency in macrophages enhances autophagy, improves mitochondrial homeostasis, and protects against lung fibrosis</title>
       <link>https://example.com/article/36626225/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
@@ -2131,6 +2156,139 @@
     </item>
     
     <item>
+      <title>DeepWalk based method to predict lncRNA-miRNA associations via lncRNA-miRNA-disease-protein-drug graph</title>
+      <link>https://example.com/article/35216549/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35216549/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) play a crucial role in diverse biological processes and have been confirmed to be concerned with various diseases. Largely uncharacterized of the physiological role and functions of lncRNA remains. MicroRNAs (miRNAs), which are usually 20-24 nucleotides, have several critical regulatory parts in cells. LncRNA can be regarded as a sponge to adsorb miRNA and indirectly regulate transcription and translation. Thus, the identification of lncRNA-miRNA associations is essential and valuable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In our work, we present DWLMI to infer the potential associations between lncRNAs and miRNAs by representing them as vectors via a lncRNA-miRNA-disease-protein-drug graph. Specifically, DeepWalk can be used to learn the behavior representation of vertices. The methods of fingerprint, k-mer and MeSH descriptors were mainly used to learn the attribute representation of vertices. By combining the above two kinds of information, unknown lncRNA-miRNA associations can be predicted by the random forest classifier. Under the five-fold cross-validation, the proposed DWLMI model obtained an average prediction accuracy of 95.22% with a sensitivity of 94.35% at the AUC of 98.56%.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The experimental results demonstrated that DWLMI can effectively predict the potential lncRNA-miRNA associated pairs, and the results can provide a new insight for related non-coding RNA researchers in the field of combing biology big data with deep learning.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA MIR122HG is a precursor for miR-122-5p and negatively regulates the TAK1-induced innate immune response in teleost fish</title>
+      <link>https://example.com/article/35218771/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35218771/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long noncoding RNAs (lncRNAs) are a diverse subset of RNA species of noncoding transcripts that are usually longer than 200 nt. However, the biological role and function of many lncRNAs have not been fully identified. It has been shown that one potential function of lncRNAs is to act as a precursor miRNA and promote the production of multiple miRNAs. However, the function of the miiuy croaker lncRNA MIR122HG has not been explored. In the present study, we show that this differentially expressed teleost fish lncRNA can act as the host gene of miR-122-5p, regulate its expression, and indirectly regulate the expression of potential inflammatory target protein transforming growth factor-β-activated kinase 1. We show that MIR122HG can negatively regulate the transforming growth factor-β-activated kinase 1-triggered NF-κB and interferon regulatory factor 3 signaling pathways and subsequently attenuate the innate immune response. In addition, MIR122HG can promote the replication of Siniperca chuatsi rhabdovirus and exacerbate the pathological effects caused by viral infection. We conclude that the study of lncRNA-miRNA-mRNA interaction through bioinformatics analysis or experimental-supported analysis can provide information for further elucidation of the functions of fish lncRNAs in innate immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cucurbitacin E Triggers Cellular Senescence in Colon Cancer Cells via Regulating the miR-371b-5p/TFAP4 Signaling Pathway</title>
+      <link>https://example.com/article/35192356/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35192356/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The induction of cellular senescence is considered as a potent strategy to suppress cancer progression. Cucurbitacin E (CE) belongs to the triterpenoids and has received substantial attention for its antineoplastic property. However, the function of CE on cellular senescence remained elusive. Herein, we revealed that CE significantly induced cellular senescence in colorectal cancer (CRC) cells. The CE effects on the cellular senescence in CRC cells were confirmed by observing the common features of the senescence, such as the enhanced activity of senescence-associated β-galactosidase, γ-H2AX positive staining, and upregulation of senescence-associated proteins including p53, p27, and p21. Moreover, CE exerted pro-senescent effects in CRC cells via attenuating the transcription factor activating enhancer-binding protein 4 (TFAP4) expression, and the ectopic expression of TFAP4 blocked the CE-induced senescence. Mechanistically, CE treatment caused a robust increase in miR-371b-5p, which markedly repressed TFAP4. In contrast, silencing of miR-371b-5p counteracted the percentages of CE-induced senescent cells from 37.49 ± 2.61 to 7.06 ± 0.91% in HCT-116 cells via derepressing TFAP4 to attenuate the expression of p53, p21, and p16. Altogether, these results demonstrated that dietary CE induces CRC cellular senescence via modulating the miR-371b-5p/TFAP4 axis and presents opportunities for potential therapeutic strategies against CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-200c-targeted contactin 1 facilitates the replication of influenza A virus by accelerating the degradation of MAVS</title>
+      <link>https://example.com/article/35171955/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35171955/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A viruses (IAVs) continuously challenge the poultry industry and human health. Elucidation of the host factors that modulate the IAV lifecycle is vital for developing antiviral drugs and vaccines. In this study, we infected A549 cells with IAVs and found that host protein contactin-1 (CNTN1), a member of the immunoglobulin superfamily, enhanced viral replication. Bioinformatic prediction and experimental validation indicated that the expression of CNTN1 was reduced by microRNA-200c (miR-200c) through directly targeting. We further showed that CNTN1-modulated viral replication in A549 cells is dependent on type I interferon signaling. Co-immunoprecipitation experiments revealed that CNTN1 specifically interacts with MAVS and promotes its proteasomal degradation by removing its K63-linked ubiquitination. Moreover, we discovered that the deubiquitinase USP25 is recruited by CNTN1 to catalyze the deubiquitination of K63-linked MAVS. Consequently, the CNTN1-induced degradation cascade of MAVS blocked RIG-I-MAVS-mediated interferon signaling, leading to enhanced viral replication. Taken together, our data reveal novel roles of CNTN1 in the type I interferon pathway and regulatory mechanism of IAV replication.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>miR-137 and miR-122, two outer subventricular zone non-coding RNAs, regulate basal progenitor expansion and neuronal differentiation</title>
+      <link>https://example.com/article/35172154/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35172154/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;oSVZ-expressed microRNAs 137 and 122 promote superficial layer identity of neurons&lt;/li&gt;
+&lt;li&gt;miR-137 promotes basal progenitor proliferation and layer 2/3 neuron generation&lt;/li&gt;
+&lt;li&gt;miR-122 slows down neuronal differentiation pace&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mammalian circadian rhythm is established by the negative feedback loops consisting of a set of clock genes, which lead to the circadian expression of thousands of downstream genes in vivo. As genome-wide transcription is organized under the high-order chromosome structure, it is largely uncharted how circadian gene expression is influenced by chromosome architecture. We focus on the function of chromatin structure proteins cohesin as well as CTCF (CCCTC-binding factor) in circadian rhythm. Using circular chromosome conformation capture sequencing, we systematically examined the interacting loci of a Bmal1-bound super-enhancer upstream of a clock gene Nr1d1 in mouse liver. These interactions are largely stable in the circadian cycle and cohesin binding sites are enriched in the interactome. Global analysis showed that cohesin-CTCF co-binding sites tend to insulate the phases of circadian oscillating genes while cohesin-non-CTCF sites are associated with high circadian rhythmicity of transcription. A model integrating the effects of cohesin and CTCF markedly improved the mechanistic understanding of circadian gene expression. Further experiments in cohesin knockout cells demonstrated that cohesin is required at least in part for driving the circadian gene expression by facilitating the enhancer-promoter looping. This study provided a novel insight into the relationship between circadian transcriptome and the high-order chromosome structure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Sympathetic Neurostress Drives Osteoblastic Exosomal MiR-21 Transfer to Disrupt Bone Homeostasis and Promote Osteopenia</title>
       <link>https://example.com/article/35312228/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
@@ -2166,6 +2324,38 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Immune system gene regulation perturbation has been found to be a major cause of the development of various types of cancer. Numbers of mechanisms contribute to gene expression regulation, thus, systematically identification of potential regulons of immune-related pathways is critical to cancer immunotherapy. Here, we comprehensively chart the landscape of transcription factors, microRNAs, RNA binding proteins and long noncoding RNAs regulation in 17 immune-related pathways across 33 cancers. The potential immunology regulons are likely to exhibit higher expressions in immune cells, show expression perturbations in cancer, and are significantly correlated with immune cell infiltrations. We also identify a panel of clinically relevant immunology regulons across cancers. Moreover, the regulon atlas of immune-related pathways helps prioritizing cancer-related genes (i.e. ETV7, miR-146a-5p, ZFP36 and HCP5). We further identified two molecular subtypes of glioma (cold and hot tumour phenotypes), which were characterized by differences in immune cell infiltrations, expression of checkpoints, and prognosis. Finally, we developed a user-friendly resource, &lt;a href=&#34;http://bio-bigdata.hrbmu.edu.cn/ImmReg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImmReg&lt;/a&gt;, with multiple modules to visualize, browse, and download immunology regulation. Our study provides a comprehensive landscape of immunology regulons, which will shed light on future development of RNA-based cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Curcumenol triggered ferroptosis in lung cancer cells via lncRNA H19/miR-19b-3p/FTH1 axis</title>
+      <link>https://example.com/article/35224289/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35224289/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Curcumenol exhibited its anticancer activity by triggering ferroptosis both &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Loss of lncRNA H19 leads to ferroptotic cell death in lung cancer.&lt;/li&gt;
+&lt;li&gt;LncRNA H19 plays an important role in curcumenol-induced ferroptotic cell death in lung cancer.&lt;/li&gt;
+&lt;li&gt;Curcumenol induced ferroptosis through a ceRNA network based on lncRNA H19/miR-19b-3p/FTH1 axis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Curcumenol, an effective ingredient of Wenyujin, has been reported that exerted its antitumor potential in a few cancer types. However, the effect and molecular mechanism of curcumenol in lung cancer are largely unknown. Here, we found that curcumenol induced cell death and suppressed cell proliferation in lung cancer cells. Next, we demonstrated that ferroptosis was the predominant method that contributed to curcumenol-induced cell death of lung cancer &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;vivo&lt;/em&gt; for the first time. Subsequently, using RNA sequencing, we found that the long non-coding RNA H19 (lncRNA H19) was significantly downregulated in lung cancer cells treated with curcumenol, when compared to untreated controls. Overexpression of lncRNA H19 eliminated the anticancer effect of curcumenol, while lncRNA H19 knockdown promoted ferroptosis induced by curcumenol treatment. Mechanistically, we showed that lncRNA H19 functioned as a competing endogenous RNA to bind to miR-19b-3p, thereby enhanced the transcription activity of its endogenous target, ferritin heavy chain 1 (FTH1), a marker of ferroptosis. In conclusion, our data show that the natural product curcumenol exerted its antitumor effects on lung cancer by triggering ferroptosis, and the lncRNA H19/miR-19b-3p/FTH1 axis plays an essential role in curcumenol-induced ferroptotic cell death. Therefore, our findings will hopefully provide a valuable drug for treating lung cancer patients.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2407,6 +2597,31 @@
       <guid>https://example.com/article/33099584/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hepatic apoptosis and the initiated liver inflammation play the initial roles in inflammation-induced hepatocarcinogenesis. Molecular mechanisms underlying the regulation of hepatocyte apoptosis and their roles in hepatocarcinogenesis have attracted much attention. A set of microRNAs (miRNAs) have been determined to be dysregulated in hepatocellular carcinoma (HCC) and participated in cancer progression, however, the roles of these dysregulated miRNAs in carcinogenesis are still poorly understood. We previously analyzed the dysregulated miRNAs in HCC using high-throughput sequencing, and found that miR-199a/b-3p was abundantly expressed in human normal liver while markedly decreased in HCC, which promotes HCC progression. Whether miR-199a/b-3p participates in HCC carcinogenesis is still unknown up to now. Hence, we focused on the role and mechanism of miR-199a/b-3p in hepatocarcinogenesis in this study. Hepatic miR-199a/b-3p was determined to be expressed by miR-199a-2 gene in mice, and we constructed miR-199a-2 knockout and hepatocyte-specific miR-199a-2 knockout mice. Diethylnitrosamine (DEN)-induced hepatocarcinogenesis were markedly increased by hepatocyte-specific miR-199a-3p knockout, which is mediated by the enhanced hepatocyte apoptosis and hepatic injury by DEN administration. In acetaminophen (APAP)-induced acute hepatic injury model, hepatocyte-specific miR-199a-3p knockout also aggravated hepatic apoptosis. By proteomic screening and reporter gene validation, we identified and verified that hepatic programed cell death 4 (PDCD4), which promotes apoptosis, was directly targeted by miR-199a-3p. Furthermore, we confirmed that miR-199a-3p-suppressed hepatocyte apoptosis and hepatic injury by targeting and suppressing PDCD4. Thus, hepatic miR-199a-3p inhibits hepatocyte apoptosis and hepatocarcinogenesis, and decreased miR-199a-3p in hepatocytes may aggravate hepatic injury and HCC development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long non-coding RNA HCAR promotes endochondral bone repair by upregulating VEGF and MMP13 in hypertrophic chondrocyte through sponging miR-15b-5p</title>
+      <link>https://example.com/article/35224160/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35224160/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Endochondral bone formation is an important route for bone repair. Although emerging evidence has revealed the functions of long non-coding RNAs (lncRNAs) in bone and cartilage development, the effect of lncRNAs in endochondral bone repair is still largely unknown. Here, we identified a lncRNA, named Hypertrophic Chondrocyte Angiogenesis-related lncRNA (HCAR), and proved it to promote the endochondral bone repair by upregulating the expression of matrix metallopeptidase 13 (Mmp13) and vascular endothelial growth factor α (Vegfa) in hypertrophic chondrocytes. Lnc-HCAR knockdown in hypertrophic chondrocytes restrained the cartilage matrix remodeling and decrease the CD31hiEmcnhi vessels number in a bone repair model. Mechanistically, we proved that lnc-HCAR was mainly enriched in the cytoplasm using fluorescence in situ hybridization (FISH) assay, and it acted as a molecular sponge for miR-15b-5p. Further, in hypertrophic chondrocytes, lnc-HCAR competitively bound to miR-15b-5p to increase Vegfa and Mmp13 expression. Our results proved that lncRNA is deeply involved in endochondral bone repair, which will provide a new theoretical basis for future strategies for promoting fracture healing.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
