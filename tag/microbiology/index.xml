@@ -7402,6 +7402,31 @@
     </item>
     
     <item>
+      <title>Epithelial LIF signaling limits apoptosis and lung injury during bacterial pneumonia</title>
+      <link>https://example.com/article/35137631/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35137631/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During bacterial pneumonia, alveolar epithelial cells are critical for maintaining gas exchange and providing antimicrobial as well as pro-immune properties. We previously demonstrated that leukemia inhibitory factor (LIF), an IL-6 family cytokine, is produced by type II alveolar epithelial cells (ATII) and is critical for tissue protection during bacterial pneumonia. However, the target cells and mechanisms of LIF-mediated protection remain unknown. Here, we demonstrate that antibody-induced LIF blockade remodels the lung epithelial transcriptome in association with increased apoptosis. Based on these data, we performed pneumonia studies using a novel mouse model in which LIFR (the unique receptor for LIF) is absent in lung epithelium. Although LIFR is expressed on the surface of epithelial cells, its absence only minimally contributed to tissue protection during pneumonia. Single-cell RNA-sequencing (scRNAseq) was conducted to identify adult murine lung cell types most prominently expressing &lt;em&gt;Lifr&lt;/em&gt;, revealing endothelial cells, mesenchymal cells, and ATIIs as major sources of &lt;em&gt;Lifr&lt;/em&gt;. Sequencing data indicated that ATII cells were significantly impacted by pneumonia, with additional differences observed in response to LIF neutralization, including but not limited to gene programs related to cell death, injury, and inflammation. Overall, our data suggest that LIF signaling on epithelial cells alters responses in this cell type during pneumonia. However, our results also suggest separate and perhaps more prominent roles of LIFR in other cell types, such as endothelial cells or mesenchymal cells, which provide grounds for future investigation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Fast and sensitive detection of SARS-CoV-2 RNA using suboptimal protospacer adjacent motifs for Cas12a</title>
       <link>https://example.com/article/35314803/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
@@ -8457,6 +8482,32 @@
     </item>
     
     <item>
+      <title>RF-Net 2: Fast Inference of Virus Reassortment and Hybridization Networks</title>
+      <link>https://example.com/article/35150239/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35150239/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation:&lt;/em&gt; A phylogenetic network is a powerful model to represent entangled evolutionary histories with both divergent (speciation) and convergent (&lt;em&gt;e.g.&lt;/em&gt;, hybridization, reassortment, recombination) evolution. The standard approach to inference of hybridization networks is to (i) reconstruct rooted gene trees and (ii) leverage gene tree discordance for network inference. Recently, we introduced a method called &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; for accurate inference of virus reassortment and hybridization networks from input gene trees in the presence of errors commonly found in phylogenetic trees. While &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; demonstrated the ability to accurately infer networks with up to four reticulations from erroneous input gene trees, its application was limited by the number of reticulations it could handle in a reasonable amount of time. This limitation is particularly restrictive in the inference of the evolutionary history of segmented RNA viruses such as influenza A virus (IAV), where reassortment is one of the major mechanisms shaping the evolution of these pathogens.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here, we expand the functionality of &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; that makes it significantly more applicable in practice. Crucially, we introduce a fast extension to &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt;, called Fast-RF-Net, that can handle large numbers of reticulations without sacrificing accuracy. Additionally, we develop automatic stopping criteria to select the appropriate number of reticulations heuristically and implement a feature for &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; to output error-corrected input gene trees. We then conduct a comprehensive study of the original method and its novel extensions and confirm their efficacy in practice using extensive simulation and empirical influenza A virus evolutionary analyses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Intestinal butyrate-metabolizing species contribute to autoantibody production and bone erosion in rheumatoid arthritis</title>
       <link>https://example.com/article/35148177/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
@@ -8467,6 +8518,351 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Targeting stem-loop 1 of the SARS-CoV-2 5&#39; UTR to suppress viral translation and Nsp1 evasion</title>
+      <link>https://example.com/article/35149555/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35149555/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The COVID-19 pandemic and the ever-evolving variants of SARS-CoV-2 are taking a toll on human health. Despite the successful rollout of vaccines, effective therapies are still urgently needed. Our studies here showing that Nsp1 selectively blocks translation of host but not viral proteins by proper coordination of its N- and C-terminal domains to advance our understanding on SARS-CoV-2 pathogenesis. Our finding that stem-loop 1, a highly conserved sequence in the SARS-CoV-2 5′ UTR, is necessary and sufficient for bypassing Nsp1-mediated shutdown led to the design of antisense oligonucleotides targeting this sequence that make viral translation susceptible to Nsp1 shutdown, interfere with viral replication, and protect SARS-CoV-2–infected mice. This strategy of turning SARS-CoV-2’s own virulence against itself could be harnessed therapeutically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 is a highly pathogenic virus that evades antiviral immunity by interfering with host protein synthesis, mRNA stability, and protein trafficking. The SARS-CoV-2 nonstructural protein 1 (Nsp1) uses its C-terminal domain to block the messenger RNA (mRNA) entry channel of the 40S ribosome to inhibit host protein synthesis. However, how SARS-CoV-2 circumvents Nsp1-mediated suppression for viral protein synthesis and if the mechanism can be targeted therapeutically remain unclear. Here, we show that N- and C-terminal domains of Nsp1 coordinate to drive a tuned ratio of viral to host translation, likely to maintain a certain level of host fitness while maximizing replication. We reveal that the stem-loop 1 (SL1) region of the SARS-CoV-2 5&amp;rsquo; untranslated region (5&amp;rsquo; UTR) is necessary and sufficient to evade Nsp1-mediated translational suppression. Targeting SL1 with locked nucleic acid antisense oligonucleotides inhibits viral translation and makes SARS-CoV-2 5&amp;rsquo; UTR vulnerable to Nsp1 suppression, hindering viral replication in vitro at a nanomolar concentration, as well as providing protection against SARS-CoV-2-induced lethality in transgenic mice expressing human ACE2. Thus, SL1 allows Nsp1 to switch infected cells from host to SARS-CoV-2 translation, presenting a therapeutic target against COVID-19 that is conserved among immune-evasive variants. This unique strategy of unleashing a virus&amp;rsquo; own virulence mechanism against itself could force a critical trade-off between drug resistance and pathogenicity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An adjuvant strategy enabled by modulation of the physical properties of microbial ligands expands antigen immunogenicity</title>
+      <link>https://example.com/article/35148840/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35148840/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Size and solubility of microbial ligands determine the immune response&lt;/li&gt;
+&lt;li&gt;Fungal mannans are directly drained to the LN to drive cell accrual via interferon release&lt;/li&gt;
+&lt;li&gt;Tuning mannan physical properties broadens epitope specificity of SARS-CoV-2 anti-Spike antibodies&lt;/li&gt;
+&lt;li&gt;An adjuvant formulation of mannan/alum induces heterosubtypic immunity against IAV&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Activation of the innate immune system via pattern recognition receptors (PRRs) is key to generate lasting adaptive immunity. PRRs detect unique chemical patterns associated with invading microorganisms, but whether and how the physical properties of PRR ligands influence the development of the immune response remains unknown. Through the study of fungal mannans, we show that the physical form of PRR ligands dictates the immune response. Soluble mannans are immunosilent in the periphery but elicit a potent pro-inflammatory response in the draining lymph node (dLN). By modulating the physical form of mannans, we developed a formulation that targets both the periphery and the dLN. When combined with viral glycoprotein antigens, this mannan formulation broadens epitope recognition, elicits potent antigen-specific neutralizing antibodies, and confers protection against viral infections of the lung. Thus, the physical properties of microbial ligands determine the outcome of the immune response and can be harnessed for vaccine development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial, temporal and molecular dynamics of swine influenza virus-specific CD8 tissue resident memory T cells</title>
+      <link>https://example.com/article/35145208/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35145208/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For the first time we have defined naïve, central memory, effector memory and differentiated effector porcine CD8 T cells and analyzed their distribution in lymphoid and respiratory tissues after influenza infection or immunization, using peptide-MHC tetramers of three influenza nucleoprotein (NP) epitopes. The hierarchy of response to the three epitopes changes during the response in different tissues. Most NP-specific CD8 T cells in broncho-alveolar lavage (BAL) and lung are tissue resident memory cells (TRM) that express CD69 and downregulate CD45RA and CCR7. NP-specific cells isolated from BAL express genes characteristic of TRM, but gene expression differs at 7, 21 and 63 days post infection. In all tissues the frequency of NP-specific CD8 cells declines over 63 days almost to background levels but is best maintained in BAL. The kinetic of influenza specific memory CD8 T cell in this natural host species differs from that in small animal models.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cytochrome P450 Monooxygenase for Catalyzing C-42 Hydroxylation of the Glycine-Derived Fragment in Hangtaimycin Biosynthesis</title>
+      <link>https://example.com/article/35138108/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35138108/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A hybrid &lt;em&gt;trans&lt;/em&gt;-AT PKS/NRPS gene cluster htm was identified with defined boundaries for hangtaimycin biosynthesis in &lt;em&gt;Streptomyces spectabilis&lt;/em&gt; CPCC200148. Deoxyhangtaimycin, a new derivative of hangtaimycin, was identified from the htm11 gene knockout mutant. In vitro biochemical assays demonstrated that the cytochrome P450 monooxygenase Htm11 was responsible for the stereoselective hydroxylation of deoxyhangtaimycin to hangtaimycin. More importantly, deoxyhangtaimycin showed activity against influenza A virus at the micromolar level, highlighting its potential as an antiviral lead compound.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Streptococcus pneumoniae colonization associates with impaired adaptive immune responses against SARS-CoV-2</title>
+      <link>https://example.com/article/35139037/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35139037/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;BackgroundAlthough recent epidemiological data suggest that pneumococci may contribute to the risk of SARS-CoV-2 disease, cases of coinfection with Streptococcus pneumoniae in patients with coronavirus disease 2019 (COVID-19) during hospitalization have been reported infrequently. This apparent contradiction may be explained by interactions of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and pneumococci in the upper airway, resulting in the escape of SARS-CoV-2 from protective host immune responses.MethodsHere, we investigated the relationship of these 2 respiratory pathogens in 2 distinct cohorts of health care workers with asymptomatic or mildly symptomatic SARS-CoV-2 infection identified by systematic screening and patients with moderate to severe disease who presented to the hospital. We assessed the effect of coinfection on host antibody, cellular, and inflammatory responses to the virus.ResultsIn both cohorts, pneumococcal colonization was associated with diminished antiviral immune responses, which primarily affected mucosal IgA levels among individuals with mild or asymptomatic infection and cellular memory responses in infected patients.ConclusionOur findings suggest that S. pneumoniae impair host immunity to SARS-CoV-2 and raise the question of whether pneumococcal carriage also enables immune escape of other respiratory viruses and facilitates reinfection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Disulfiram inhibits neutrophil extracellular trap formation and protects rodents from acute lung injury and SARS-CoV-2 infection</title>
+      <link>https://example.com/review/35133984/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35133984/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute lung injury has few treatment options and a high mortality rate. Upon injury, neutrophils infiltrate the lungs and form neutrophil extracellular traps (NETs), damaging the lungs and driving an exacerbated immune response. Unfortunately, no drug preventing NET formation has completed clinical development. Here, we report that disulfiram - an FDA-approved drug for alcohol use disorder - dramatically reduced NETs, increased survival, improved blood oxygenation, and reduced lung edema in a transfusion-related acute lung injury (TRALI) mouse model. We then tested whether disulfiram could confer protection in the context of SARS-CoV-2 infection, as NETs are elevated in patients with severe COVID-19. In SARS-CoV-2-infected golden hamsters, disulfiram reduced NETs and perivascular fibrosis in the lungs, and it downregulated innate immune and complement/coagulation pathways, suggesting that it could be beneficial for patients with COVID-19. In conclusion, an existing FDA-approved drug can block NET formation and improve disease course in 2 rodent models of lung injury for which treatment options are limited.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Differential interferon-α subtype induced immune signatures are associated with suppression of SARS-CoV-2 infection</title>
+      <link>https://example.com/article/35131898/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35131898/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Type I interferons (IFN-I) exhibit various biological effects during viral infections, and they have been successfully used for clinical treatment of viral diseases. Humans express 12 IFNα subtypes, which strongly differ in their antiviral responses against different viruses. Here we analyzed the antiviral activity of all human IFNα subtypes against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) to identify the underlying immune signatures and explore their therapeutic potential. Our data provide a systemic pattern of antiviral host effector responses mediated by high antiviral IFN-I, which could help to identify key cellular effectors targeted in novel therapeutic approaches against SARS-CoV-2 infection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Type I interferons (IFN-I) exert pleiotropic biological effects during viral infections, balancing virus control versus immune-mediated pathologies, and have been successfully employed for the treatment of viral diseases. Humans express 12 IFN-alpha (α) subtypes, which activate downstream signaling cascades and result in distinct patterns of immune responses and differential antiviral responses. Inborn errors in IFN-I immunity and the presence of anti-IFN autoantibodies account for very severe courses of COVID-19; therefore, early administration of IFN-I may be protective against life-threatening disease. Here we comprehensively analyzed the antiviral activity of all IFNα subtypes against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) to identify the underlying immune signatures and explore their therapeutic potential. Prophylaxis of primary human airway epithelial cells (hAEC) with different IFNα subtypes during SARS-CoV-2 infection uncovered distinct functional classes with high, intermediate, and low antiviral IFNs. In particular, IFNα5 showed superior antiviral activity against SARS-CoV-2 infection in vitro and in SARS-CoV-2-infected mice in vivo. Dose dependency studies further displayed additive effects upon coadministration with the broad antiviral drug remdesivir in cell culture. Transcriptomic analysis of IFN-treated hAEC revealed different transcriptional signatures, uncovering distinct, intersecting, and prototypical genes of individual IFNα subtypes. Global proteomic analyses systematically assessed the abundance of specific antiviral key effector molecules which are involved in IFN-I signaling pathways, negative regulation of viral processes, and immune effector processes for the potent antiviral IFNα5. Taken together, our data provide a systemic, multimodular definition of antiviral host responses mediated by defined IFN-I. This knowledge will support the development of novel therapeutic approaches against SARS-CoV-2.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Protein disulfide isomerases (PDIs) negatively regulate ebolavirus structural glycoprotein expression in the endoplasmic reticulum (ER) via the autophagy-lysosomal pathway</title>
+      <link>https://example.com/article/35130104/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35130104/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zaire ebolavirus (EBOV) causes a severe hemorrhagic fever in humans and non-human primates with high morbidity and mortality. EBOV infection is dependent on its structural glycoprotein (GP), but high levels of GP expression also trigger cell rounding, detachment, and downregulation of many surface molecules that is thought to contribute to its high pathogenicity. Thus, EBOV has evolved an RNA editing mechanism to reduce its GP expression and increase its fitness. We now report that the GP expression is also suppressed at the protein level in cells by protein disulfide isomerases (PDIs). Although PDIs promote oxidative protein folding by catalyzing correct disulfide formation in the endoplasmic reticulum (ER), PDIA3/ERp57 adversely triggered the GP misfolding by targeting GP cysteine residues and activated the unfolded protein response (UPR). Abnormally folded GP was targeted by ER-associated protein degradation (ERAD) machinery and, unexpectedly, was degraded via the macroautophagy/autophagy-lysosomal pathway, but not the proteasomal pathway. PDIA3 also decreased the GP expression from other ebolavirus species but increased the GP expression from Marburg virus (MARV), which is consistent with the observation that MARV-GP does not cause cell rounding and detachment, and MARV does not regulate its GP expression via RNA editing during infection. Furthermore, five other PDIs also had a similar inhibitory activity to EBOV-GP. Thus, PDIs negatively regulate ebolavirus glycoprotein expression, which balances the viral life cycle by maximizing their infection but minimizing their cellular effect. We suggest that ebolaviruses hijack the host protein folding and ERAD machinery to increase their fitness via reticulophagy during infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dihydroartemisinin attenuates pulmonary inflammation and fibrosis in rats by suppressing JAK2/STAT3 signaling</title>
+      <link>https://example.com/article/35120332/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35120332/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2, has induced a worldwide pandemic since early 2020. COVID-19 causes pulmonary inflammation, secondary pulmonary fibrosis (PF); however, there are still no effective treatments for PF. The present study aimed to explore the inhibitory effect of dihydroartemisinin (DHA) on pulmonary inflammation and PF, and its molecular mechanism. Morphological changes and collagen deposition were analyzed using hematoxylin-eosin staining, Masson staining, and the hydroxyproline content. DHA attenuated early alveolar inflammation and later PF in a bleomycin-induced rat PF model, and inhibited the expression of interleukin (IL)-1β, IL-6, tumor necrosis factor α (TNFα), and chemokine (C-C Motif) Ligand 3 (CCL3) in model rat serum. Further molecular analysis revealed that both pulmonary inflammation and PF were associated with increased transforming growth factor-β1 (TGF-β1), Janus activated kinase 2 (JAK2), and signal transducer and activator 3(STAT3) expression in the lung tissues of model rats. DHA reduced the inflammatory response and PF in the lungs by suppressing TGF-β1, JAK2, phosphorylated (p)-JAK2, STAT3, and p-STAT3. Thus, DHA exerts therapeutic effects against bleomycin-induced pulmonary inflammation and PF by inhibiting JAK2-STAT3 activation. DHA inhibits alveolar inflammation, and attenuates lung injury and fibrosis, possibly representing a therapeutic candidate to treat PF associated with COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nanocurcumin Potently Inhibits SARS-CoV-2 Spike Protein-Induced Cytokine Storm by Deactivation of MAPK/NF-κB Signaling in Epithelial Cells</title>
+      <link>https://example.com/article/35112841/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35112841/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interleukin-mediated deep cytokine storm, an aggressive inflammatory response to SARS-CoV-2 virus infection in COVID-19 patients, is correlated directly with lung injury, multi-organ failure, and poor prognosis of severe COVID-19 patients. Curcumin (CUR), a phenolic antioxidant compound obtained from turmeric (&lt;em&gt;Curcuma longa L.&lt;/em&gt;), is well-known for its strong anti-inflammatory activity. However, its &lt;em&gt;in vivo&lt;/em&gt; efficacy is constrained due to poor bioavailability. Herein, we report that CUR-encapsulated polysaccharide nanoparticles (CUR-PS-NPs) potently inhibit the release of cytokines, chemokines, and growth factors associated with damage of SARS-CoV-2 spike protein (CoV2-SP)-stimulated liver Huh7.5 and lung A549 epithelial cells. Treatment with CUR-PS-NPs effectively attenuated the interaction of ACE2 and CoV2-SP. The effects of CUR-PS-NPs were linked to reduced NF-κB/MAPK signaling which in turn decreased CoV2-SP-mediated phosphorylation of p38 MAPK, p42/44 MAPK, and p65/NF-κB as well as nuclear p65/NF-κB expression. The findings of the study strongly indicate that organic NPs of CUR can be used to control hyper-inflammatory responses and prevent lung and liver injuries associated with CoV2-SP-mediated cytokine storm.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A chitosan-mediated inhalable nanovaccine against SARS-CoV-2</title>
+      <link>https://example.com/article/35126879/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35126879/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), with several antigenic variants, has grown into a global challenge, and the rapid establishment of an immune barrier is crucial to achieving long-term control of the virus. This has led to a great demand for easy preparation and scalable vaccines, especially in low-income countries. Here, we present an inhalable nanovaccine comprising chitosan and SARS-CoV-2 spike protein. The chitosan-mediated nanovaccine enabled a strong spike-specific antibody immune response and augmented local mucosal immunity in bronchoalveolar lavage and lungs, which might be capable of protecting the host from infection without systemic toxicity. In addition, the enhanced adaptive immunity stimulated by chitosan showed potential protection against SARS-CoV-2. Furthermore, inhalation of the nanovaccine induced a comparable antibody response compared to intramuscular injection. This inhalable nanovaccine against SARS-CoV-2 offers a convenient and compliant strategy to reduce the use of needles and the need for medical staff.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>CBASS phage defense and evolution of antiviral nucleotide signaling</title>
+      <link>https://example.com/review/35123147/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35123147/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cyclic oligonucleotide-based antiphage signaling system (CBASS) immunity is a widespread form of antiphage defense in bacteria and archaea. Each CBASS operon encodes a cGAS/DncV-like Nucleotidyltransferase (CD-NTase) enzyme that synthesizes a nucleotide second messenger in response to viral infection. An associated Cap effector protein then binds the nucleotide signal and executes cell death to destroy the host cell and block phage propagation. Here we build upon recent advances to establish rules controlling each step of CBASS activation and antiphage defense. Comparative analysis of CBASS, CRISPR, Pycsar, and cGAS-STING immunity provides insight into the evolution of phage defense and animal innate immunity and highlights new questions emerging in the role of nucleotide second messenger signaling in host-virus interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nitric oxide: Clinical applications in critically ill patients</title>
+      <link>https://example.com/review/35123061/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35123061/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iNO is a selective pulmonary vasodilator approved for treatment of persistent pulmonary hypertension of the newborn (PPHN).&lt;/li&gt;
+&lt;li&gt;iNO improves oxygenation and decreases ECMO use in PPHN.&lt;/li&gt;
+&lt;li&gt;iNO has potential clinical applications in the presence of endothelial dysfunction.&lt;/li&gt;
+&lt;li&gt;iNO may be used in ARDS and PH of the adults and may prevent ischemia/reperfusion injury.&lt;/li&gt;
+&lt;li&gt;iNO may have direct antimicrobial effect and may play a viricidal effect against Sars-CoV-2.&lt;/li&gt;
+&lt;li&gt;iNO can be generated by pulsed electrical discharge and is safe for humans.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Inhaled nitric oxide (iNO) acts as a selective pulmonary vasodilator and it is currently approved by the FDA for the treatment of persistent pulmonary hypertension of the newborn. iNO has been demonstrated to effectively decrease pulmonary artery pressure and improve oxygenation, while decreasing extracorporeal life support use in hypoxic newborns affected by persistent pulmonary hypertension. Also, iNO seems a safe treatment with limited side effects. Despite the promising beneficial effects of NO in the preclinical literature, there is still a lack of high quality evidence for the use of iNO in clinical settings. A variety of clinical applications have been suggested in and out of the critical care environment, aiming to use iNO in respiratory failure and pulmonary hypertension of adults or as a preventative measure of hemolysis-induced vasoconstriction, ischemia/reperfusion injury and as a potential treatment of renal failure associated with cardiopulmonary bypass. In this narrative review we aim to present a comprehensive summary of the potential use of iNO in several clinical conditions with its suggested benefits, including its recent application in the scenario of the COVID-19 pandemic. Randomized controlled trials, meta-analyses, guidelines, observational studies and case-series were reported and the main findings summarized. Furthermore, we will describe the toxicity profile of NO and discuss an innovative proposed strategy to produce iNO. Overall, iNO exhibits a wide range of potential clinical benefits, that certainly warrants further efforts with randomized clinical trials to determine specific therapeutic roles of iNO.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -8536,12 +8932,94 @@
     </item>
     
     <item>
+      <title>Vasculature-on-a-chip platform with innate immunity enables identification of angiopoietin-1 derived peptide as a therapeutic for SARS-CoV-2 induced inflammation</title>
+      <link>https://example.com/article/35142777/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35142777/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coronavirus disease 2019 (COVID-19) was primarily identified as a novel disease causing acute respiratory syndrome. However, as the pandemic progressed various cases of secondary organ infection and damage by severe respiratory syndrome coronavirus 2 (SARS-CoV-2) have been reported, including a breakdown of the vascular barrier. As SARS-CoV-2 gains access to blood circulation through the lungs, the virus is first encountered by the layer of endothelial cells and immune cells that participate in host defense. Here, we developed an approach to study SARS-CoV-2 infection using vasculature-on-a-chip. We first modeled the interaction of virus alone with the endothelialized vasculature-on-a-chip, followed by the studies of the interaction of the virus exposed-endothelial cells with peripheral blood mononuclear cells (PBMCs). In an endothelial model grown on a permeable microfluidic bioscaffold under flow conditions, both human coronavirus (HCoV)-NL63 and SARS-CoV-2 presence diminished endothelial barrier function by disrupting VE-cadherin junctions and elevating the level of pro-inflammatory cytokines such as interleukin (IL)-6, IL-8, and angiopoietin-2. Inflammatory cytokine markers were markedly more elevated upon SARS-CoV-2 infection compared to HCoV-NL63 infection. Introduction of PBMCs with monocytes into the vasculature-on-a-chip upon SARS-CoV-2 infection further exacerbated cytokine-induced endothelial dysfunction, demonstrating the compounding effects of inter-cellular crosstalk between endothelial cells and monocytes in facilitating the hyperinflammatory state. Considering the harmful effects of SARS-CoV-2 on endothelial cells, even without active virus proliferation inside the cells, a potential therapeutic approach is critical. We identified angiopoietin-1 derived peptide, QHREDGS, as a potential therapeutic capable of profoundly attenuating the inflammatory state of the cells consistent with the levels in non-infected controls, thereby improving the barrier function and endothelial cell survival against SARS-CoV-2 infection in the presence of PBMC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An encodable multiplex microsphere-phase amplification sensing platform detects SARS-CoV-2 mutations</title>
+      <link>https://example.com/article/35131697/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35131697/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Super-multiple parallel and accurate detection of SARS-CoV-2 mutations using an encodable MMPA sensing platform.&lt;/li&gt;
+&lt;li&gt;Compared to traditional qPCR, the sensitivity of the assay reached a low detection level of 28 copies/reaction.&lt;/li&gt;
+&lt;li&gt;Successful discrimination of SARS-CoV-2 variants from wild-type virus.
+= 100% positive and 100% negative agreement with sequencing results for SARS-CoV-2 variants detection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 variants of concern (VOCs) contain several single-nucleotide variants (SNVs) at key sites in the receptor-binding region (RBD) that enhance infectivity and transmission, as well as cause immune escape, resulting in an aggravation of the coronavirus disease 2019 (COVID-19) pandemic. Emerging VOCs have sparked the need for a diagnostic method capable of simultaneously monitoring these SNVs. To date, no highly sensitive, efficient clinical tool exists to monitor SNVs simultaneously. Here, an encodable multiplex microsphere-phase amplification (MMPA) sensing platform that combines primer-coded microsphere technology with dual fluorescence decoding strategy to detect SARS-CoV-2 RNA and simultaneously identify 10 key SNVs in the RBD. MMPA limits the amplification refractory mutation system PCR (ARMS-PCR) reaction for specific target sequence to the surface of a microsphere with specific fluorescence coding. This effectively solves the problem of non-specific amplification among primers and probes in multiplex PCR. For signal detection, specific fluorescence codes inside microspheres are used to determine the corresponding relationship between the microspheres and the SNV sites, while the report probes hybridized with PCR products are used to detect the microsphere amplification intensity. The MMPA platform offers a lower SARS-CoV-2 RNA detection limit of 28 copies/reaction, the ability to detect a respiratory pathogen panel without cross-reactivity, and a SNV analysis accuracy level comparable to that of sequencing. Moreover, this super-multiple parallel SNVs detection method enables a timely updating of the panel of detected SNVs that accompanies changing VOCs, and presents a clinical availability that traditional sequencing methods do not.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>OTUD7B deubiquitinates SQSTM1/p62 and promotes IRF3 degradation to regulate antiviral immunity</title>
       <link>https://example.com/article/35100065/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35100065/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Deubiquitination plays an important role in the regulation of the crosstalk between macroautophagy/autophagy and innate immune signaling, yet its regulatory mechanisms are not fully understood. Here we identify the deubiquitinase OTUD7B as a negative regulator of antiviral immunity by targeting IRF3 (interferon regulatory factor 3) for selective autophagic degradation. Mechanistically, OTUD7B interacts with IRF3, and activates IRF3-associated cargo receptor SQSTM1/p62 (sequestosome 1) by removing its K63-linked poly-ubiquitin chains at lysine 7 (K7) to enhance SQSTM1 oligomerization. Moreover, viral infection increased the expression of OTUD7B, which forms a negative feedback loop by promoting IRF3 degradation to balance type I interferon (IFN) signaling. Taken together, our study reveals a specific role of OTUD7B in mediating the activation of cargo receptors in a substrate-dependent manner, which could be a potential target against excessive immune responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Generation of a pdmH1N1 2018 Influenza A Reporter Virus Carrying a mCherry Fluorescent Protein in the PA Segment</title>
+      <link>https://example.com/article/35127568/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35127568/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A virus (IAV) is a major human pathogen associated with significant morbidity and mortality worldwide. Through serial passage in mice, we generated a recombinant pdmH1N1 2009 IAV, A/Guangdong/GLW/2018 (GLW/18-MA), which encodes an mCherry gene fused to the C-terminal of a polymerase acidic (PA) segment and demonstrated comparable growth kinetics to the wild-type. Nine mutations were identified in the GLW/18-MA genome: PA (I61M, E351G, and G631S), NP (E292G), HA1 (T164I), HA2 (N117S and P160S), NA (W61R), and NEP (K44R). The recombinant IAV reporter expresses mCherry, a red fluorescent protein, at a high level and maintains its genetic integrity after five generations of serial passages in Madin-Darby Canine Kidney cells (MDCK) cells. Moreover, the imaging is noninvasive and permits the monitoring of infection in living mice. Treatment with oseltamivir or baicalin followed by infection with the reporter IAV led to a decrease in fluorescent protein signal in living mice. This result demonstrates that the IAV reporter virus is a powerful tool to study viral pathogenicity and transmission and to develop and evaluate novel anti-viral drugs, inhibitors, and vaccines in the future.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8625,6 +9103,31 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
 &lt;p&gt;Having identified Toxoplasma infection as a natural stress that induced OMM remodeling and the shedding of SPOTs, we next dissected how these structures are formed. We found that the secreted effector protein TgMAF1 (Toxoplasma gondii mitochondrial association factor 1), which tethers the host OMM to the parasite vacuole membrane, was required for SPOT formation. TgMAF1 led to a decrease in the amount of mitochondrial proteins during infection. In particular, the OMM proteins mitofusin 1 and mitofusin 2 were degraded during infection. These proteins, which mediate a nutritional defense against Toxoplasma by promoting mitochondrial uptake of fatty acids, localized to SPOTs. The ability of TgMAF1 to induce SPOTs depended on its binding to the host OMM import receptor TOM70 (translocase of the outer membrane 70), whose import function TgMAF1 impaired. TOM70 was required for optimal parasite growth and enabled an interaction between TgMAF1 and the OMM translocase SAM50 (sorting assembly machinery 50 kDa subunit), which is a key component of the OMM-IMM mitochondrial intermembrane space bridging (MIB) complex. The genetic ablation of SAM50 and the overexpression of an OMM-targeted protein induced the formation of SPOT-like structures independently of infection.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Because SAM50 is the only component of mitochondrial import machinery that bridges the OMM and IMM, it is in a position to translate OMM stress into the removal of compromised OMM. TgMAF1 behaves as a mitochondrial preprotein that uses the host receptor TOM70 to interact with SAM50. This enables Toxoplasma to hijack a cellular response to OMM stress—the formation of SPOTs—and drive the constitutive shedding of the OMM. Consequently, levels of mitochondrial proteins that restrict parasite growth are depleted, and import machinery that is required for mitochondrial biogenesis is sequestered on SPOTs. In an infection-independent context, however, we propose that SPOT-like structures could mitigate OMM stress by enabling the excision of dysfunctional OMM machinery, such as import receptors or translocases during defective import. Our finding that OMM remodeling occurs during infection and infection-independent scenarios sheds light on potential cellular mechanisms that safeguard OMM function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 prolonged infection during advanced HIV disease evolves extensive immune escape</title>
+      <link>https://example.com/article/35120605/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35120605/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Characterizing SARS-CoV-2 evolution in specific geographies may help predict properties of the variants that come from these regions. We mapped neutralization of a SARS-CoV-2 strain that evolved over 6 months from ancestral virus in a person with advanced HIV disease in South Africa; this person was infected prior to emergence of the Beta and Delta variants. We longitudinally tracked the evolved virus and tested it against self-plasma and convalescent plasma from ancestral, Beta, and Delta infections. Early virus was similar to ancestral, but it evolved a multitude of mutations found in Omicron and other variants. It showed substantial but incomplete Pfizer BNT162b2 escape, weak neutralization by self-plasma, and despite pre-dating Delta, it also showed extensive escape of Delta infection-elicited neutralization. This example is consistent with the notion that SARS-CoV-2 evolving in individual immune-compromised hosts, including those with advanced HIV disease, may gain immune escape of vaccines and enhanced escape of Delta immunity, and this has implications for vaccine breakthrough and reinfections.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

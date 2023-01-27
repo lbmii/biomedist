@@ -1631,6 +1631,139 @@
     </item>
     
     <item>
+      <title>RF-Net 2: Fast Inference of Virus Reassortment and Hybridization Networks</title>
+      <link>https://example.com/article/35150239/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35150239/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation:&lt;/em&gt; A phylogenetic network is a powerful model to represent entangled evolutionary histories with both divergent (speciation) and convergent (&lt;em&gt;e.g.&lt;/em&gt;, hybridization, reassortment, recombination) evolution. The standard approach to inference of hybridization networks is to (i) reconstruct rooted gene trees and (ii) leverage gene tree discordance for network inference. Recently, we introduced a method called &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; for accurate inference of virus reassortment and hybridization networks from input gene trees in the presence of errors commonly found in phylogenetic trees. While &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; demonstrated the ability to accurately infer networks with up to four reticulations from erroneous input gene trees, its application was limited by the number of reticulations it could handle in a reasonable amount of time. This limitation is particularly restrictive in the inference of the evolutionary history of segmented RNA viruses such as influenza A virus (IAV), where reassortment is one of the major mechanisms shaping the evolution of these pathogens.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here, we expand the functionality of &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; that makes it significantly more applicable in practice. Crucially, we introduce a fast extension to &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt;, called Fast-RF-Net, that can handle large numbers of reticulations without sacrificing accuracy. Additionally, we develop automatic stopping criteria to select the appropriate number of reticulations heuristically and implement a feature for &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; to output error-corrected input gene trees. We then conduct a comprehensive study of the original method and its novel extensions and confirm their efficacy in practice using extensive simulation and empirical influenza A virus evolutionary analyses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An adjuvant strategy enabled by modulation of the physical properties of microbial ligands expands antigen immunogenicity</title>
+      <link>https://example.com/article/35148840/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35148840/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Size and solubility of microbial ligands determine the immune response&lt;/li&gt;
+&lt;li&gt;Fungal mannans are directly drained to the LN to drive cell accrual via interferon release&lt;/li&gt;
+&lt;li&gt;Tuning mannan physical properties broadens epitope specificity of SARS-CoV-2 anti-Spike antibodies&lt;/li&gt;
+&lt;li&gt;An adjuvant formulation of mannan/alum induces heterosubtypic immunity against IAV&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Activation of the innate immune system via pattern recognition receptors (PRRs) is key to generate lasting adaptive immunity. PRRs detect unique chemical patterns associated with invading microorganisms, but whether and how the physical properties of PRR ligands influence the development of the immune response remains unknown. Through the study of fungal mannans, we show that the physical form of PRR ligands dictates the immune response. Soluble mannans are immunosilent in the periphery but elicit a potent pro-inflammatory response in the draining lymph node (dLN). By modulating the physical form of mannans, we developed a formulation that targets both the periphery and the dLN. When combined with viral glycoprotein antigens, this mannan formulation broadens epitope recognition, elicits potent antigen-specific neutralizing antibodies, and confers protection against viral infections of the lung. Thus, the physical properties of microbial ligands determine the outcome of the immune response and can be harnessed for vaccine development.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial, temporal and molecular dynamics of swine influenza virus-specific CD8 tissue resident memory T cells</title>
+      <link>https://example.com/article/35145208/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35145208/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For the first time we have defined naïve, central memory, effector memory and differentiated effector porcine CD8 T cells and analyzed their distribution in lymphoid and respiratory tissues after influenza infection or immunization, using peptide-MHC tetramers of three influenza nucleoprotein (NP) epitopes. The hierarchy of response to the three epitopes changes during the response in different tissues. Most NP-specific CD8 T cells in broncho-alveolar lavage (BAL) and lung are tissue resident memory cells (TRM) that express CD69 and downregulate CD45RA and CCR7. NP-specific cells isolated from BAL express genes characteristic of TRM, but gene expression differs at 7, 21 and 63 days post infection. In all tissues the frequency of NP-specific CD8 cells declines over 63 days almost to background levels but is best maintained in BAL. The kinetic of influenza specific memory CD8 T cell in this natural host species differs from that in small animal models.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cytochrome P450 Monooxygenase for Catalyzing C-42 Hydroxylation of the Glycine-Derived Fragment in Hangtaimycin Biosynthesis</title>
+      <link>https://example.com/article/35138108/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35138108/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A hybrid &lt;em&gt;trans&lt;/em&gt;-AT PKS/NRPS gene cluster htm was identified with defined boundaries for hangtaimycin biosynthesis in &lt;em&gt;Streptomyces spectabilis&lt;/em&gt; CPCC200148. Deoxyhangtaimycin, a new derivative of hangtaimycin, was identified from the htm11 gene knockout mutant. In vitro biochemical assays demonstrated that the cytochrome P450 monooxygenase Htm11 was responsible for the stereoselective hydroxylation of deoxyhangtaimycin to hangtaimycin. More importantly, deoxyhangtaimycin showed activity against influenza A virus at the micromolar level, highlighting its potential as an antiviral lead compound.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Generation of a pdmH1N1 2018 Influenza A Reporter Virus Carrying a mCherry Fluorescent Protein in the PA Segment</title>
+      <link>https://example.com/article/35127568/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35127568/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A virus (IAV) is a major human pathogen associated with significant morbidity and mortality worldwide. Through serial passage in mice, we generated a recombinant pdmH1N1 2009 IAV, A/Guangdong/GLW/2018 (GLW/18-MA), which encodes an mCherry gene fused to the C-terminal of a polymerase acidic (PA) segment and demonstrated comparable growth kinetics to the wild-type. Nine mutations were identified in the GLW/18-MA genome: PA (I61M, E351G, and G631S), NP (E292G), HA1 (T164I), HA2 (N117S and P160S), NA (W61R), and NEP (K44R). The recombinant IAV reporter expresses mCherry, a red fluorescent protein, at a high level and maintains its genetic integrity after five generations of serial passages in Madin-Darby Canine Kidney cells (MDCK) cells. Moreover, the imaging is noninvasive and permits the monitoring of infection in living mice. Treatment with oseltamivir or baicalin followed by infection with the reporter IAV led to a decrease in fluorescent protein signal in living mice. This result demonstrates that the IAV reporter virus is a powerful tool to study viral pathogenicity and transmission and to develop and evaluate novel anti-viral drugs, inhibitors, and vaccines in the future.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Enantiomer-dependent immunological response to chiral nanoparticles</title>
       <link>https://example.com/article/35046606/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>

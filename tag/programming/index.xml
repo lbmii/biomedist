@@ -1089,6 +1089,32 @@
     </item>
     
     <item>
+      <title>RF-Net 2: Fast Inference of Virus Reassortment and Hybridization Networks</title>
+      <link>https://example.com/article/35150239/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35150239/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motivation:&lt;/em&gt; A phylogenetic network is a powerful model to represent entangled evolutionary histories with both divergent (speciation) and convergent (&lt;em&gt;e.g.&lt;/em&gt;, hybridization, reassortment, recombination) evolution. The standard approach to inference of hybridization networks is to (i) reconstruct rooted gene trees and (ii) leverage gene tree discordance for network inference. Recently, we introduced a method called &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; for accurate inference of virus reassortment and hybridization networks from input gene trees in the presence of errors commonly found in phylogenetic trees. While &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; demonstrated the ability to accurately infer networks with up to four reticulations from erroneous input gene trees, its application was limited by the number of reticulations it could handle in a reasonable amount of time. This limitation is particularly restrictive in the inference of the evolutionary history of segmented RNA viruses such as influenza A virus (IAV), where reassortment is one of the major mechanisms shaping the evolution of these pathogens.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here, we expand the functionality of &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; that makes it significantly more applicable in practice. Crucially, we introduce a fast extension to &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt;, called Fast-RF-Net, that can handle large numbers of reticulations without sacrificing accuracy. Additionally, we develop automatic stopping criteria to select the appropriate number of reticulations heuristically and implement a feature for &lt;a href=&#34;https://github.com/flu-crew/rf-net-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RF-Net&lt;/a&gt; to output error-corrected input gene trees. We then conduct a comprehensive study of the original method and its novel extensions and confirm their efficacy in practice using extensive simulation and empirical influenza A virus evolutionary analyses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>SLAW: A Scalable and Self-Optimizing Processing Workflow for Untargeted LC-MS</title>
       <link>https://example.com/article/34735114/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>

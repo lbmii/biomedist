@@ -569,6 +569,37 @@
     </item>
     
     <item>
+      <title>SCANNER: a web platform for annotation, visualization and sharing of single cell RNA-seq data</title>
+      <link>https://example.com/article/35134150/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35134150/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, efficient scRNA-seq methods have been developed, enabling the transcriptome profiling of single cells massively in parallel. Meanwhile, its high dimensionality and complexity bring challenges to the data analysis and require extensive collaborations between biologists and bioinformaticians and/or biostatisticians. The communication between these two units demands a platform for easy data sharing and exploration. Here we developed Single-Cell Transcriptomics Annotated Viewer (&lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt;), as a public web resource for the scientific community, for sharing and analyzing scRNA-seq data in a collaborative manner. It is easy-to-use without requiring special software or extensive coding skills. Moreover, it equipped a real-time database for secure data management and enables an efficient investigation of the activation of gene sets on a single-cell basis. Currently, &lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt; hosts a database of 19 types of cancers and COVID-19, as well as healthy samples from lungs of smokers and non-smokers, human brain cells and peripheral blood mononuclear cells (PBMC). The database will be frequently updated with datasets from new studies. Using &lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt;, we identified a larger proportion of cancer-associated fibroblasts cells and more active fibroblast growth-related genes in melanoma tissues in female patients compared to male patients. Moreover, we found ACE2 is mainly expressed in lung pneumocytes, secretory cells and ciliated cells and differentially expressed in lungs of smokers and never smokers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Points&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt; provides a new web resource to bridge the data analysis and the biological experiment units.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt; enables comprehensive and dynamic analysis, visualization, functional annotation and easy data sharing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt; hosts a real-time database for data and user management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Mapping the temporal and spatial dynamics of the human endometrium in vivo and in vitro</title>
       <link>https://example.com/article/34857954/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>

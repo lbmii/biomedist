@@ -69,5 +69,37 @@
 </description>
     </item>
     
+    <item>
+      <title>E3 ligase RNF167 and deubiquitinase STAMBPL1 modulate mTOR and cancer progression</title>
+      <link>https://example.com/article/35114100/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35114100/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RNF167 and STAMBPL1 modulate Sestrin2 ubiquitination in response to leucine status&lt;/li&gt;
+&lt;li&gt;Ubiquitinated Sestrin2 inhibits mTORC1 activity by sequestering GATOR2&lt;/li&gt;
+&lt;li&gt;Suppression of STAMBPL1 function inhibits tumor growth&lt;/li&gt;
+&lt;li&gt;STAMBPL1 is a potential therapeutic target in colorectal cancer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The mTOR complex 1 (mTORC1) is an essential metabolic hub that coordinates cellular metabolism with the availability of nutrients, including amino acids. Sestrin2 has been identified as a cytosolic leucine sensor that transmits leucine status signals to mTORC1. In this study, we identify an E3 ubiquitin ligase RING finger protein 167 (RNF167) and a deubiquitinase STAMBPL1 that function in concert to control the polyubiquitination level of Sestrin2 in response to leucine availability. Ubiquitination of Sestrin2 promotes its interaction with GATOR2 and inhibits mTORC1 signaling. Bioinformatic analysis reveals decreased RNF167 expression and increased STAMBPL1 expression in gastric and colorectal tumors. Knockout of STAMBPL1 or correction of the heterozygous STAMBPL1 mutation in a human colon cancer cell line suppresses xenograft tumor growth. Lastly, a cell-permeable peptide that blocks the STAMBPL1-Sestrin2 interaction inhibits mTORC1 and provides a potential option for cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
