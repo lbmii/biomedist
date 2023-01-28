@@ -5,12 +5,44 @@
     <link>https://example.com/tag/single-cell/</link>
       <atom:link href="https://example.com/tag/single-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Single Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Single Cell</title>
       <link>https://example.com/tag/single-cell/</link>
     </image>
+    
+    <item>
+      <title>Immune checkpoint HLA-E:CD94-NKG2A mediates evasion of circulating tumor cells from NK cell surveillance</title>
+      <link>https://example.com/article/23-01-29-19-05/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-29-19-05/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distinct immune-tumor interactions in circulation, primary, and metastatic lesions&lt;/li&gt;
+&lt;li&gt;CTCs escape from NK surveillance by hijacking immune checkpoint HLA-E:CD94-NKG2A&lt;/li&gt;
+&lt;li&gt;Blockade of HLA-E:CD94-NKG2A prevents PDAC tumor metastasis via blood circulation&lt;/li&gt;
+&lt;li&gt;CTCs upregulate immune checkpoint molecule HLA-E by engaging platelet-derived RGS18&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circulating tumor cells (CTCs), shed by primary malignancies, function as “seeds” for distant metastasis. However, it is still largely unknown how CTCs escape immune surveillance. Here, we characterize the transcriptomes of human pancreatic ductal adenocarcinoma CTCs, primary, and metastatic lesions at single-cell scale. Cell-interaction analysis and functional studies in vitro and in vivo reveal that CTCs and natural killer (NK) cells interact via the immune checkpoint molecule pair HLA-E:CD94-NKG2A. Disruption of this interaction by blockade of NKG2A or knockdown of HLA-E expression enhances NK-mediated tumor cell killing in vitro and prevents tumor metastasis in vivo. Mechanistic studies indicate that platelet-derived RGS18 promotes the expression of HLA-E through AKT-GSK3β-CREB signaling, and overexpression of RGS18 facilitates pancreatic tumor hepatic metastasis. In conclusion, platelet-derived RGS18 protects CTCs from NK-mediated immune surveillance by engaging the immune checkpoint HLA-E:CD94-NKG2A. Interruption of the suppressive signaling prevents tumor metastasis in vivo by immune elimination of CTCs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Molecular differences of angiogenic versus vessel co-opting colorectal cancer liver metastases at single-cell resolution</title>
@@ -22,6 +54,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We evaluated CRCLM from 225 patients regarding their HGP and clinical data. Moreover, we performed spatial (21,804 spots) and single-cell (22,419 cells) RNA sequencing analyses to explore molecular differences in detail, further validated in vitro through immunohistochemical analysis and patient-derived organoid cultures.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We detected specific metabolic alterations and a signature of WNT signalling activation in metastatic cancer cells related to the VCO phenotype. Importantly, in the corresponding healthy liver of CRCLM displaying sprouting angiogenesis, we identified a predominantly expressed capillary subtype of endothelial cells, which could be further explored as a possible predictor for HGP relying on sprouting angiogenesis.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; These findings may prove to be novel therapeutic targets to the treatment of CRCLM, in special the ones relying on VCO.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Transformer for one stop interpretable cell type annotation</title>
+      <link>https://example.com/article/36641532/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641532/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Consistent annotation transfer from reference dataset to query dataset is fundamental to the development and reproducibility of single-cell research. Compared with traditional annotation methods, deep learning based methods are faster and more automated. A series of useful single cell analysis tools based on autoencoder architecture have been developed but these struggle to strike a balance between depth and interpretability. Here, we present &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;, a multi-head self-attention deep learning model based on Transformer that enables interpretable cell type annotation using biologically understandable entities, such as pathways or regulons. We show that &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt; achieves fast and accurate one-stop annotation and batch-insensitive integration while providing biologically interpretable insights for understanding cellular behavior during development and disease progressions. We demonstrate &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;&amp;rsquo;s advantages by applying it to scRNA-seq data of tumor-infiltrating immune cells, and CD14&lt;sup&gt;+&lt;/sup&gt; monocytes in COVID-19 to reveal rare cell types, heterogeneity and dynamic trajectories associated with disease progression and severity.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

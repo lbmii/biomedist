@@ -63,6 +63,31 @@
     </item>
     
     <item>
+      <title>Transformer for one stop interpretable cell type annotation</title>
+      <link>https://example.com/article/36641532/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641532/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Consistent annotation transfer from reference dataset to query dataset is fundamental to the development and reproducibility of single-cell research. Compared with traditional annotation methods, deep learning based methods are faster and more automated. A series of useful single cell analysis tools based on autoencoder architecture have been developed but these struggle to strike a balance between depth and interpretability. Here, we present &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;, a multi-head self-attention deep learning model based on Transformer that enables interpretable cell type annotation using biologically understandable entities, such as pathways or regulons. We show that &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt; achieves fast and accurate one-stop annotation and batch-insensitive integration while providing biologically interpretable insights for understanding cellular behavior during development and disease progressions. We demonstrate &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;&amp;rsquo;s advantages by applying it to scRNA-seq data of tumor-infiltrating immune cells, and CD14&lt;sup&gt;+&lt;/sup&gt; monocytes in COVID-19 to reveal rare cell types, heterogeneity and dynamic trajectories associated with disease progression and severity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Hybrid reconstruction of the physical model with the deep learning that improves structured illumination microscopy</title>
       <link>https://example.com/article/apn.2.1.016012/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
@@ -377,6 +402,34 @@
 &lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Long non-coding RNAs (lncRNAs) play a crucial role in diverse biological processes and have been confirmed to be concerned with various diseases. Largely uncharacterized of the physiological role and functions of lncRNA remains. MicroRNAs (miRNAs), which are usually 20-24 nucleotides, have several critical regulatory parts in cells. LncRNA can be regarded as a sponge to adsorb miRNA and indirectly regulate transcription and translation. Thus, the identification of lncRNA-miRNA associations is essential and valuable.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; In our work, we present DWLMI to infer the potential associations between lncRNAs and miRNAs by representing them as vectors via a lncRNA-miRNA-disease-protein-drug graph. Specifically, DeepWalk can be used to learn the behavior representation of vertices. The methods of fingerprint, k-mer and MeSH descriptors were mainly used to learn the attribute representation of vertices. By combining the above two kinds of information, unknown lncRNA-miRNA associations can be predicted by the random forest classifier. Under the five-fold cross-validation, the proposed DWLMI model obtained an average prediction accuracy of 95.22% with a sensitivity of 94.35% at the AUC of 98.56%.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The experimental results demonstrated that DWLMI can effectively predict the potential lncRNA-miRNA associated pairs, and the results can provide a new insight for related non-coding RNA researchers in the field of combing biology big data with deep learning.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Validation and utility of ARDS subphenotypes identified by machine-learning models using clinical data: an observational, multicohort, retrospective analysis</title>
+      <link>https://example.com/article/35026177/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35026177/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Two acute respiratory distress syndrome (ARDS) subphenotypes (hyperinflammatory and hypoinflammatory) with distinct clinical and biological features and differential treatment responses have been identified using latent class analysis (LCA) in seven individual cohorts. To facilitate bedside identification of subphenotypes, clinical classifier models using readily available clinical variables have been described in four randomised controlled trials. We aimed to assess the performance of these models in observational cohorts of ARDS.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In this observational, multicohort, retrospective study, we validated two machine-learning clinical classifier models for assigning ARDS subphenotypes in two observational cohorts of patients with ARDS: Early Assessment of Renal and Lung Injury (EARLI; n=335) and Validating Acute Lung Injury Markers for Diagnosis (VALID; n=452), with LCA-derived subphenotypes as the gold standard. The primary model comprised only vital signs and laboratory variables, and the secondary model comprised all predictors in the primary model, with the addition of ventilatory variables and demographics. Model performance was assessed by calculating the area under the receiver operating characteristic curve (AUC) and calibration plots, and assigning subphenotypes using a probability cutoff value of 0·5 to determine sensitivity, specificity, and accuracy of the assignments. We also assessed the performance of the primary model in EARLI using data automatically extracted from an electronic health record (EHR; EHR-derived EARLI cohort). In Large Observational Study to Understand the Global Impact of Severe Acute Respiratory Failure (LUNG SAFE; n=2813), a multinational, observational ARDS cohort, we applied a custom classifier model (with fewer variables than the primary model) to determine the prognostic value of the subphenotypes and tested their interaction with the positive end-expiratory pressure (PEEP) strategy, with 90-day mortality as the dependent variable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Findings:&lt;/em&gt; The primary clinical classifier model had an area under receiver operating characteristic curve (AUC) of 0·92 (95% CI 0·90-0·95) in EARLI and 0·88 (0·84-0·91) in VALID. Performance of the primary model was similar when using exclusively EHR-derived predictors compared with manually curated predictors (AUC=0·88 [95% CI 0·81-0·94] vs 0·92 [0·88-0·97]). In LUNG SAFE, 90-day mortality was higher in patients assigned the hyperinflammatory subphenotype than in those with the hypoinflammatory phenotype (414 [57%] of 725 vs 694 [33%] of 2088; p&amp;lt;0·0001). There was a significant treatment interaction with PEEP strategy and ARDS subphenotype (p=0·041), with lower 90-day mortality in the high PEEP group of patients with the hyperinflammatory subphenotype (hyperinflammatory subphenotype: 169 [54%] of 313 patients in the high PEEP group vs 127 [62%] of 205 patients in the low PEEP group; hypoinflammatory subphenotype: 231 [34%] of 675 patients in the high PEEP group vs 233 [32%] of 734 patients in the low PEEP group).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Interpretation:&lt;/em&gt; Classifier models using clinical variables alone can accurately assign ARDS subphenotypes in observational cohorts. Application of these models can provide valuable prognostic information and could inform management strategies for personalised treatment, including application of PEEP, once prospectively validated.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -85,5 +85,30 @@
 </description>
     </item>
     
+    <item>
+      <title>Dicer dependent tRNA derived small RNAs promote nascent RNA silencing</title>
+      <link>https://example.com/article/35048990/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35048990/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In mammalian cells, small non-coding RNAs (sncRNAs) negatively regulate gene expression in a pathway known as RNA interference (RNAi). RNAi can be categorized into post-transcriptional gene silencing (PTGS), which involves the cleavage of target messenger RNA (mRNA) or inhibition of translation in the cytoplasm, and transcriptional gene silencing (TGS), which is mediated by the establishment of repressive epigenetic marks at target loci. Transfer RNAs (tRNAs), which are essential for translation, can be processed into small ncRNAs, termed tRNA-derived small RNAs (tsRNAs). The biogenesis of tsRNAs and their role in gene expression regulation has not yet been fully understood. Here, we show that Dicer dependent tsRNAs promote gene silencing through a mechanism distinct from PTGS and TGS. tsRNAs can lead to downregulation of target genes by targeting introns via nascent RNA silencing (NRS) in nuclei. Furthermore, we show that Ago2 slicer activity is required for this mechanism. Synthetic tsRNAs can significantly reduce expression of a target gene at both RNA and protein levels. Target genes regulated by NRS are associated with various diseases, which further underpins its biological significance. Finally, we show that NRS is evolutionarily conserved and has the potential to be explored as a novel synthetic sRNA based therapeutic.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

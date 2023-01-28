@@ -1620,6 +1620,31 @@
     </item>
     
     <item>
+      <title>CRBPDL: Identification of circRNA-RBP interaction sites using an ensemble neural network approach</title>
+      <link>https://example.com/article/35051187/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35051187/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are non-coding RNAs with a special circular structure produced formed by the reverse splicing mechanism. Increasing evidence shows that circular RNAs can directly bind to RNA-binding proteins (RBP) and play an important role in a variety of biological activities. The interactions between circRNAs and RBPs are key to comprehending the mechanism of posttranscriptional regulation. Accurately identifying binding sites is very useful for analyzing interactions. In past research, some predictors on the basis of machine learning (ML) have been presented, but prediction accuracy still needs to be ameliorated. Therefore, we present a novel calculation model, &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, which uses an Adaboost integrated deep hierarchical network to identify the binding sites of circular RNA-RBP. &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; combines five different feature encoding schemes to encode the original RNA sequence, uses deep multiscale residual networks (MSRN) and bidirectional gating recurrent units (BiGRUs) to effectively learn high-level feature representations, it is sufficient to extract local and global context information at the same time. Additionally, a self-attention mechanism is employed to train the robustness of the &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;. Ultimately, the Adaboost algorithm is applied to integrate deep learning (DL) model to improve prediction performance and reliability of the model. To verify the usefulness of &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, we compared the efficiency with state-of-the-art methods on 37 circular RNA data sets and 31 linear RNA data sets. Moreover, results display that &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; is capable of performing universal, reliable, and robust.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>circMine: a comprehensive database to integrate, analyze and visualize human disease-related circRNA transcriptome</title>
       <link>https://example.com/article/34530446/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>

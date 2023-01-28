@@ -5,12 +5,37 @@
     <link>https://example.com/tag/python/</link>
       <atom:link href="https://example.com/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Python</title>
       <link>https://example.com/tag/python/</link>
     </image>
+    
+    <item>
+      <title>Transformer for one stop interpretable cell type annotation</title>
+      <link>https://example.com/article/36641532/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641532/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Consistent annotation transfer from reference dataset to query dataset is fundamental to the development and reproducibility of single-cell research. Compared with traditional annotation methods, deep learning based methods are faster and more automated. A series of useful single cell analysis tools based on autoencoder architecture have been developed but these struggle to strike a balance between depth and interpretability. Here, we present &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;, a multi-head self-attention deep learning model based on Transformer that enables interpretable cell type annotation using biologically understandable entities, such as pathways or regulons. We show that &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt; achieves fast and accurate one-stop annotation and batch-insensitive integration while providing biologically interpretable insights for understanding cellular behavior during development and disease progressions. We demonstrate &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;&amp;rsquo;s advantages by applying it to scRNA-seq data of tumor-infiltrating immune cells, and CD14&lt;sup&gt;+&lt;/sup&gt; monocytes in COVID-19 to reveal rare cell types, heterogeneity and dynamic trajectories associated with disease progression and severity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Methods for inference and analysis of cell-cell communication</title>
@@ -188,6 +213,56 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>CRBPDL: Identification of circRNA-RBP interaction sites using an ensemble neural network approach</title>
+      <link>https://example.com/article/35051187/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35051187/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are non-coding RNAs with a special circular structure produced formed by the reverse splicing mechanism. Increasing evidence shows that circular RNAs can directly bind to RNA-binding proteins (RBP) and play an important role in a variety of biological activities. The interactions between circRNAs and RBPs are key to comprehending the mechanism of posttranscriptional regulation. Accurately identifying binding sites is very useful for analyzing interactions. In past research, some predictors on the basis of machine learning (ML) have been presented, but prediction accuracy still needs to be ameliorated. Therefore, we present a novel calculation model, &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, which uses an Adaboost integrated deep hierarchical network to identify the binding sites of circular RNA-RBP. &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; combines five different feature encoding schemes to encode the original RNA sequence, uses deep multiscale residual networks (MSRN) and bidirectional gating recurrent units (BiGRUs) to effectively learn high-level feature representations, it is sufficient to extract local and global context information at the same time. Additionally, a self-attention mechanism is employed to train the robustness of the &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;. Ultimately, the Adaboost algorithm is applied to integrate deep learning (DL) model to improve prediction performance and reliability of the model. To verify the usefulness of &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, we compared the efficiency with state-of-the-art methods on 37 circular RNA data sets and 31 linear RNA data sets. Moreover, results display that &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; is capable of performing universal, reliable, and robust.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiRNA-disease association prediction based on meta-paths</title>
+      <link>https://example.com/article/35018405/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35018405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since miRNAs can participate in the posttranscriptional regulation of gene expression, they may provide ideas for the development of new drugs or become new biomarkers for drug targets or disease diagnosis. In this work, we propose an miRNA-disease association prediction method based on meta-paths (&lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt;). First, an miRNA-disease-gene heterogeneous information network was constructed, and seven symmetrical meta-paths were defined according to different semantics. After constructing the initial feature vector for the node, the vector information carried by all nodes on the meta-path instance is extracted and aggregated to update the feature vector of the starting node. Then, the vector information obtained by the nodes on different meta-paths is aggregated. Finally, miRNA and disease embedding feature vectors are used to calculate their associated scores. Compared with the other methods, &lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt; obtained the highest AUC value of 0.9214. Among the top 50 predicted miRNAs for lung neoplasms, esophageal neoplasms, colon neoplasms and breast neoplasms, 49, 48, 49 and 50 have been verified. Furthermore, for breast neoplasms, we deleted all the known associations between breast neoplasms and miRNAs from the training set. These results also show that for new diseases without known related miRNA information, our model can predict their potential miRNAs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

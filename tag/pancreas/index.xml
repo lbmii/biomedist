@@ -5,12 +5,44 @@
     <link>https://example.com/tag/pancreas/</link>
       <atom:link href="https://example.com/tag/pancreas/index.xml" rel="self" type="application/rss+xml" />
     <description>Pancreas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Pancreas</title>
       <link>https://example.com/tag/pancreas/</link>
     </image>
+    
+    <item>
+      <title>Immune checkpoint HLA-E:CD94-NKG2A mediates evasion of circulating tumor cells from NK cell surveillance</title>
+      <link>https://example.com/article/23-01-29-19-05/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-01-29-19-05/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distinct immune-tumor interactions in circulation, primary, and metastatic lesions&lt;/li&gt;
+&lt;li&gt;CTCs escape from NK surveillance by hijacking immune checkpoint HLA-E:CD94-NKG2A&lt;/li&gt;
+&lt;li&gt;Blockade of HLA-E:CD94-NKG2A prevents PDAC tumor metastasis via blood circulation&lt;/li&gt;
+&lt;li&gt;CTCs upregulate immune checkpoint molecule HLA-E by engaging platelet-derived RGS18&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circulating tumor cells (CTCs), shed by primary malignancies, function as “seeds” for distant metastasis. However, it is still largely unknown how CTCs escape immune surveillance. Here, we characterize the transcriptomes of human pancreatic ductal adenocarcinoma CTCs, primary, and metastatic lesions at single-cell scale. Cell-interaction analysis and functional studies in vitro and in vivo reveal that CTCs and natural killer (NK) cells interact via the immune checkpoint molecule pair HLA-E:CD94-NKG2A. Disruption of this interaction by blockade of NKG2A or knockdown of HLA-E expression enhances NK-mediated tumor cell killing in vitro and prevents tumor metastasis in vivo. Mechanistic studies indicate that platelet-derived RGS18 promotes the expression of HLA-E through AKT-GSK3β-CREB signaling, and overexpression of RGS18 facilitates pancreatic tumor hepatic metastasis. In conclusion, platelet-derived RGS18 protects CTCs from NK-mediated immune surveillance by engaging the immune checkpoint HLA-E:CD94-NKG2A. Interruption of the suppressive signaling prevents tumor metastasis in vivo by immune elimination of CTCs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Chloroquine reduces neutrophil extracellular trap (NET) formation through inhibition of peptidyl arginine deiminase 4 (PAD4)</title>

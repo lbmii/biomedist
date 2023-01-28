@@ -113,6 +113,34 @@
     </item>
     
     <item>
+      <title>Platelet-Derived Drug Targets and Biomarkers of Ischemic Stroke-The First Dynamic Human LC-MS Proteomic Study</title>
+      <link>https://example.com/article/35268287/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35268287/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The aim of this dynamic LC-MS (liquid chromatography and mass spectrometry) human platelet proteomic study was to identify the potential proteins candidates for biomarkers of acute ischemic stroke (AIS), their changes during the acute phase of stroke and to define potential novel drug targets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; A total of 32 patients (18-80 years old) were investigated that presented symptoms of AIS lasting less than 24 h from the onset, confirmed by neurological examination and/or new cerebral ischemia visualized in the CT (computed-tomography) scans. The analysis of platelet proteome was performed using LC-MS at baseline, and then on the third and seventh day from the onset of symptoms. The control group was demographically matched without any clinical signs of acute brain injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The differences between platelets, at 24 h after first symptoms of stroke subjects and the control group included: β-amyloid A4 and amyloid-like protein 2, coactosin-like protein, thymidine phosphorylase 4 (TYMP-4), interferon regulatory factor 7 (IRF7), vitamin K-dependent protein S, histone proteins (H2A type 1 and 1-A, H2A types 2B and J, H2Av, -z, and -x), and platelet basic protein. The dynamic changes in the platelet protein concentration involved thrombospondin-1, thrombospondin-2, filamin A, B, and C.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This is the first human dynamic LC-MS proteomic study that differentiates platelet proteome in the acute phase of ischemic stroke in time series and compares the results with healthy controls. Identified proteins may be considered as future markers of ischemic stroke or therapeutic drug targets. Thymidine phosphorylase 4 (TYMP-4) holds promise as an interesting drug target in the management or prevention of ischemic stroke.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>SLAW: A Scalable and Self-Optimizing Processing Workflow for Untargeted LC-MS</title>
       <link>https://example.com/article/34735114/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
@@ -144,34 +172,6 @@
       <guid>https://example.com/article/30944337/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Large-scale metabolite annotation is a challenge in liquid chromatogram-mass spectrometry (LC-MS)-based untargeted metabolomics. Here, we develop a metabolic reaction network (MRN)-based recursive algorithm (MetDNA) that expands metabolite annotations without the need for a comprehensive standard spectral library. MetDNA is based on the rationale that seed metabolites and their reaction-paired neighbors tend to share structural similarities resulting in similar MS2 spectra. MetDNA characterizes initial seed metabolites using a small library of MS2 spectra, and utilizes their experimental MS2 spectra as surrogate spectra to annotate their reaction-paired neighbor metabolites, which subsequently serve as the basis for recursive analysis. Using different LC-MS platforms, data acquisition methods, and biological samples, we showcase the utility and versatility of MetDNA and demonstrate that about 2000 metabolites can cumulatively be annotated from one experiment. Our results demonstrate that MetDNA substantially expands metabolite annotation, enabling quantitative assessment of metabolic pathways and facilitating integrative multi-omics analysis.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Platelet-Derived Drug Targets and Biomarkers of Ischemic Stroke-The First Dynamic Human LC-MS Proteomic Study</title>
-      <link>https://example.com/article/35268287/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/35268287/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The aim of this dynamic LC-MS (liquid chromatography and mass spectrometry) human platelet proteomic study was to identify the potential proteins candidates for biomarkers of acute ischemic stroke (AIS), their changes during the acute phase of stroke and to define potential novel drug targets.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; A total of 32 patients (18-80 years old) were investigated that presented symptoms of AIS lasting less than 24 h from the onset, confirmed by neurological examination and/or new cerebral ischemia visualized in the CT (computed-tomography) scans. The analysis of platelet proteome was performed using LC-MS at baseline, and then on the third and seventh day from the onset of symptoms. The control group was demographically matched without any clinical signs of acute brain injury.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The differences between platelets, at 24 h after first symptoms of stroke subjects and the control group included: β-amyloid A4 and amyloid-like protein 2, coactosin-like protein, thymidine phosphorylase 4 (TYMP-4), interferon regulatory factor 7 (IRF7), vitamin K-dependent protein S, histone proteins (H2A type 1 and 1-A, H2A types 2B and J, H2Av, -z, and -x), and platelet basic protein. The dynamic changes in the platelet protein concentration involved thrombospondin-1, thrombospondin-2, filamin A, B, and C.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This is the first human dynamic LC-MS proteomic study that differentiates platelet proteome in the acute phase of ischemic stroke in time series and compares the results with healthy controls. Identified proteins may be considered as future markers of ischemic stroke or therapeutic drug targets. Thymidine phosphorylase 4 (TYMP-4) holds promise as an interesting drug target in the management or prevention of ischemic stroke.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

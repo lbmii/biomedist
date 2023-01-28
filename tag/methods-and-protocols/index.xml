@@ -88,6 +88,31 @@
     </item>
     
     <item>
+      <title>Transformer for one stop interpretable cell type annotation</title>
+      <link>https://example.com/article/36641532/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641532/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Consistent annotation transfer from reference dataset to query dataset is fundamental to the development and reproducibility of single-cell research. Compared with traditional annotation methods, deep learning based methods are faster and more automated. A series of useful single cell analysis tools based on autoencoder architecture have been developed but these struggle to strike a balance between depth and interpretability. Here, we present &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;, a multi-head self-attention deep learning model based on Transformer that enables interpretable cell type annotation using biologically understandable entities, such as pathways or regulons. We show that &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt; achieves fast and accurate one-stop annotation and batch-insensitive integration while providing biologically interpretable insights for understanding cellular behavior during development and disease progressions. We demonstrate &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;&amp;rsquo;s advantages by applying it to scRNA-seq data of tumor-infiltrating immune cells, and CD14&lt;sup&gt;+&lt;/sup&gt; monocytes in COVID-19 to reveal rare cell types, heterogeneity and dynamic trajectories associated with disease progression and severity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A single-cell massively parallel reporter assay detects cell-type-specific gene regulation</title>
       <link>https://example.com/article/36635387/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
@@ -1918,6 +1943,31 @@
     </item>
     
     <item>
+      <title>Rational design of stable heptamethine cyanines and development of a biomarker-activatable probe for detecting acute lung/kidney injuries via NIR-II fluorescence imaging</title>
+      <link>https://example.com/article/35018902/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35018902/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Developing high-quality dyes to construct activatable probes for analyte sensing via NIR-II fluorescence is critical for attaining enhanced imaging depths and resolution. Heptamethine cyanines can serve this purpose; however, they usually have poor stability and a tendency to self-aggregate. Herein, we present a design strategy involving the installation of pyridinium and tert-butyl groups onto the central cyclohexenyl core to increase steric crowding, enhance water solubility, and provide a site for the incorporation of analyte-responsive elements. The resulting NP-N dyes emit NIR-II light and can outperform benchmark heptamethine cyanines such as ICG. Using HP-N1, we developed HP-H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; and showed that NIR-II fluorescence signals could be enhanced when treating with H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;. HP-H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; was subsequently evaluated in murine models of acute lung injury and acute kidney injury. This strategy unlocks the potential of heptamethine cyanines and is applicable to examples with extended conjugation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Generation of a pdmH1N1 2018 Influenza A Reporter Virus Carrying a mCherry Fluorescent Protein in the PA Segment</title>
       <link>https://example.com/article/35127568/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
@@ -1956,6 +2006,91 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Many acute and chronic diseases affect the distal lung alveoli. Alveolar epithelial cell (AEC) lines are needed to better model these diseases. We used de-identified human remnant transplant lungs to develop a method to establish AEC lines. The lines grow well in 2-dimensional (2D) culture as epithelial monolayers expressing lung progenitor markers. In 3-dimensional (3D) culture with fibroblasts, Matrigel, and specific media conditions, the cells form alveolar-like organoids expressing mature AEC markers including aquaporin 5 (AQP5), G-protein-coupled receptor class C group 5 member A (GPRC5A), and surface marker HTII280. Single-cell RNA sequencing of an AEC line in 2D versus 3D culture revealed increased cellular heterogeneity and induction of cytokine and lipoprotein signaling in 3D organoids. Our approach yields lung progenitor lines that retain the ability to differentiate along the alveolar cell lineage despite long-term expansion and provides a valuable system to model and study the distal lung &lt;em&gt;in vitro&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Saliva-based COVID-19 detection: A rapid antigen test of SARS-CoV-2 nucleocapsid protein using an electrical-double-layer gated field-effect transistor-based biosensing system</title>
+      <link>https://example.com/article/35043033/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35043033/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Electrical double layer-gated BioFETs enable COVID-19 testing in artificial saliva.&lt;/li&gt;
+&lt;li&gt;The BioFET system validates rapid turnarounds within 30 min.&lt;/li&gt;
+&lt;li&gt;The detection limit of SARS-CoV-2 nucleocapsid protein is ≈ 3 pM.&lt;/li&gt;
+&lt;li&gt;Cross-reactivity is negligible when antigen concentrations surpass 4 ng/mL.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Facing the unstopped surges of COVID-19, an insufficient capacity of diagnostic testing jeopardizes the control of disease spread. Due to a centralized setting and a long turnaround, real-time reverse transcription polymerase chain reaction (real-time RT-PCR), the gold standard of viral detection, has fallen short in timely reflecting the epidemic status quo during an urgent outbreak. As such, a rapid screening tool is necessitated to help contain the spread of COVID-19 amid the countries where the vaccine implementations have not been widely deployed. In this work, we propose a saliva-based COVID-19 antigen test using the electrical double layer (EDL)-gated field-effect transistor-based biosensor (BioFET). The detection of SARS-CoV-2 nucleocapsid (N) protein is validated with limits of detection (LoDs) of 0.34 ng/mL (7.44 pM) and 0.14 ng/mL (2.96 pM) in 1× PBS and artificial saliva, respectively. The specificity is inspected with types of antigens, exhibiting low cross-reactivity among MERS-CoV, Influenza A virus, and Influenza B virus. This portable system is embedded with Bluetooth communication and user-friendly interfaces that are fully compatible with digital health, feasibly leading to an on-site turnaround, an effective management, and a proactive response taken by medical providers and frontline health workers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Validation and utility of ARDS subphenotypes identified by machine-learning models using clinical data: an observational, multicohort, retrospective analysis</title>
+      <link>https://example.com/article/35026177/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35026177/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Two acute respiratory distress syndrome (ARDS) subphenotypes (hyperinflammatory and hypoinflammatory) with distinct clinical and biological features and differential treatment responses have been identified using latent class analysis (LCA) in seven individual cohorts. To facilitate bedside identification of subphenotypes, clinical classifier models using readily available clinical variables have been described in four randomised controlled trials. We aimed to assess the performance of these models in observational cohorts of ARDS.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In this observational, multicohort, retrospective study, we validated two machine-learning clinical classifier models for assigning ARDS subphenotypes in two observational cohorts of patients with ARDS: Early Assessment of Renal and Lung Injury (EARLI; n=335) and Validating Acute Lung Injury Markers for Diagnosis (VALID; n=452), with LCA-derived subphenotypes as the gold standard. The primary model comprised only vital signs and laboratory variables, and the secondary model comprised all predictors in the primary model, with the addition of ventilatory variables and demographics. Model performance was assessed by calculating the area under the receiver operating characteristic curve (AUC) and calibration plots, and assigning subphenotypes using a probability cutoff value of 0·5 to determine sensitivity, specificity, and accuracy of the assignments. We also assessed the performance of the primary model in EARLI using data automatically extracted from an electronic health record (EHR; EHR-derived EARLI cohort). In Large Observational Study to Understand the Global Impact of Severe Acute Respiratory Failure (LUNG SAFE; n=2813), a multinational, observational ARDS cohort, we applied a custom classifier model (with fewer variables than the primary model) to determine the prognostic value of the subphenotypes and tested their interaction with the positive end-expiratory pressure (PEEP) strategy, with 90-day mortality as the dependent variable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Findings:&lt;/em&gt; The primary clinical classifier model had an area under receiver operating characteristic curve (AUC) of 0·92 (95% CI 0·90-0·95) in EARLI and 0·88 (0·84-0·91) in VALID. Performance of the primary model was similar when using exclusively EHR-derived predictors compared with manually curated predictors (AUC=0·88 [95% CI 0·81-0·94] vs 0·92 [0·88-0·97]). In LUNG SAFE, 90-day mortality was higher in patients assigned the hyperinflammatory subphenotype than in those with the hypoinflammatory phenotype (414 [57%] of 725 vs 694 [33%] of 2088; p&amp;lt;0·0001). There was a significant treatment interaction with PEEP strategy and ARDS subphenotype (p=0·041), with lower 90-day mortality in the high PEEP group of patients with the hyperinflammatory subphenotype (hyperinflammatory subphenotype: 169 [54%] of 313 patients in the high PEEP group vs 127 [62%] of 205 patients in the low PEEP group; hypoinflammatory subphenotype: 231 [34%] of 675 patients in the high PEEP group vs 233 [32%] of 734 patients in the low PEEP group).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Interpretation:&lt;/em&gt; Classifier models using clinical variables alone can accurately assign ARDS subphenotypes in observational cohorts. Application of these models can provide valuable prognostic information and could inform management strategies for personalised treatment, including application of PEEP, once prospectively validated.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiRNA-disease association prediction based on meta-paths</title>
+      <link>https://example.com/article/35018405/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35018405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since miRNAs can participate in the posttranscriptional regulation of gene expression, they may provide ideas for the development of new drugs or become new biomarkers for drug targets or disease diagnosis. In this work, we propose an miRNA-disease association prediction method based on meta-paths (&lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt;). First, an miRNA-disease-gene heterogeneous information network was constructed, and seven symmetrical meta-paths were defined according to different semantics. After constructing the initial feature vector for the node, the vector information carried by all nodes on the meta-path instance is extracted and aggregated to update the feature vector of the starting node. Then, the vector information obtained by the nodes on different meta-paths is aggregated. Finally, miRNA and disease embedding feature vectors are used to calculate their associated scores. Compared with the other methods, &lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt; obtained the highest AUC value of 0.9214. Among the top 50 predicted miRNAs for lung neoplasms, esophageal neoplasms, colon neoplasms and breast neoplasms, 49, 48, 49 and 50 have been verified. Furthermore, for breast neoplasms, we deleted all the known associations between breast neoplasms and miRNAs from the training set. These results also show that for new diseases without known related miRNA information, our model can predict their potential miRNAs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2912,6 +3047,31 @@
       <guid>https://example.com/article/28114287/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Single-cell gene expression studies promise to reveal rare cell types and cryptic states, but the high variability of single-cell RNA-seq measurements frustrates efforts to assay transcriptional differences between cells. We introduce the Census algorithm to convert relative RNA-seq expression levels into relative transcript counts without the need for experimental spike-in controls. Analyzing changes in relative transcript counts led to dramatic improvements in accuracy compared to normalized read counts and enabled new statistical tests for identifying developmentally regulated genes. Census counts can be analyzed with widely used regression techniques to reveal changes in cell-fate-dependent gene expression, splicing patterns and allelic imbalances. We reanalyzed single-cell data from several developmental and disease studies, and demonstrate that Census enabled robust analysis at multiple layers of gene regulation. Census is freely available through our updated single-cell analysis toolkit, Monocle 2.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Noninvasive intratracheal intubation to study the pathology and physiology of mouse lung</title>
+      <link>https://example.com/article/24300823/</link>
+      <pubDate>Fri, 08 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/24300823/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The use of a model that mimics the condition of lung diseases in humans is critical for studying the pathophysiology and/or etiology of a particular disease and for developing therapeutic intervention. With the increasing availability of knockout and transgenic derivatives, together with a vast amount of genetic information, mice provide one of the best models to study the molecular mechanisms underlying the pathology and physiology of lung diseases. Inhalation, intranasal instillation, intratracheal instillation, and intratracheal intubation are the most widely used techniques by a number of investigators to administer materials of interest to mouse lungs. There are pros and cons for each technique depending on the goals of a study. Here a noninvasive intratracheal intubation method that can directly deliver exogenous materials to mouse lungs is presented. This technique was applied to administer bleomycin to mouse lungs as a model to study pulmonary fibrosis.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

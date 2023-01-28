@@ -5,12 +5,37 @@
     <link>https://example.com/tag/necroptosis/</link>
       <atom:link href="https://example.com/tag/necroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Necroptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Necroptosis</title>
       <link>https://example.com/tag/necroptosis/</link>
     </image>
+    
+    <item>
+      <title>ZIF-8 Nanoparticles Evoke Pyroptosis for High-Efficiency Cancer Immunotherapy</title>
+      <link>https://example.com/article/36629270/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36629270/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although zeolitic imidazolate framework-8 (ZIF-8) has been applied in various tumor therapies, the intrinsic immunogenicity remains unclear. Here, we initiatively discover that ZIF-8 nanoparticles (NPs) can intrinsically induce pyroptosis by a caspase-1/gasdermin D (GSDMD)-dependent pathway. The pyroptotic cell death is accompanied by necrosis and immunogenic cell death (ICD) simultaneously for efficient in situ immunity initiation. Meanwhile, carbonyl cyanide m-chlorophenyl hydrazone (CCCP), a mitochondrial depolarizing agent, is successfully loaded into ZIF-8 NPs and found to further enhance the pyroptosis process. Collectively, the obtained Pluronic F127-modified CCCP-incorporated ZIF-8 NPs (F127ZIF-8CCCP NPs) activate antitumor immunity and reprogram immunosuppressive tumor microenvironment (TME), realizing high-efficiency tumor growth inhibition. This work will facilitate biomedicine applications of ZIF-8 and provide good inspiration for pyroptosis-induced cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>OASL phase condensation induces amyloid-like fibrillation of RIPK3 to promote virus-induced necroptosis</title>

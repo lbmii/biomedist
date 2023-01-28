@@ -6834,12 +6834,193 @@
     </item>
     
     <item>
+      <title>CRBPDL: Identification of circRNA-RBP interaction sites using an ensemble neural network approach</title>
+      <link>https://example.com/article/35051187/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35051187/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are non-coding RNAs with a special circular structure produced formed by the reverse splicing mechanism. Increasing evidence shows that circular RNAs can directly bind to RNA-binding proteins (RBP) and play an important role in a variety of biological activities. The interactions between circRNAs and RBPs are key to comprehending the mechanism of posttranscriptional regulation. Accurately identifying binding sites is very useful for analyzing interactions. In past research, some predictors on the basis of machine learning (ML) have been presented, but prediction accuracy still needs to be ameliorated. Therefore, we present a novel calculation model, &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, which uses an Adaboost integrated deep hierarchical network to identify the binding sites of circular RNA-RBP. &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; combines five different feature encoding schemes to encode the original RNA sequence, uses deep multiscale residual networks (MSRN) and bidirectional gating recurrent units (BiGRUs) to effectively learn high-level feature representations, it is sufficient to extract local and global context information at the same time. Additionally, a self-attention mechanism is employed to train the robustness of the &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;. Ultimately, the Adaboost algorithm is applied to integrate deep learning (DL) model to improve prediction performance and reliability of the model. To verify the usefulness of &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, we compared the efficiency with state-of-the-art methods on 37 circular RNA data sets and 31 linear RNA data sets. Moreover, results display that &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; is capable of performing universal, reliable, and robust.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dicer dependent tRNA derived small RNAs promote nascent RNA silencing</title>
+      <link>https://example.com/article/35048990/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35048990/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In mammalian cells, small non-coding RNAs (sncRNAs) negatively regulate gene expression in a pathway known as RNA interference (RNAi). RNAi can be categorized into post-transcriptional gene silencing (PTGS), which involves the cleavage of target messenger RNA (mRNA) or inhibition of translation in the cytoplasm, and transcriptional gene silencing (TGS), which is mediated by the establishment of repressive epigenetic marks at target loci. Transfer RNAs (tRNAs), which are essential for translation, can be processed into small ncRNAs, termed tRNA-derived small RNAs (tsRNAs). The biogenesis of tsRNAs and their role in gene expression regulation has not yet been fully understood. Here, we show that Dicer dependent tsRNAs promote gene silencing through a mechanism distinct from PTGS and TGS. tsRNAs can lead to downregulation of target genes by targeting introns via nascent RNA silencing (NRS) in nuclei. Furthermore, we show that Ago2 slicer activity is required for this mechanism. Synthetic tsRNAs can significantly reduce expression of a target gene at both RNA and protein levels. Target genes regulated by NRS are associated with various diseases, which further underpins its biological significance. Finally, we show that NRS is evolutionarily conserved and has the potential to be explored as a novel synthetic sRNA based therapeutic.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>BMSC-Derived Exosomes Carrying lncRNA-ZFAS1 Alleviate Pulmonary Ischemia/Reperfusion Injury by UPF1-Mediated mRNA Decay of FOXD1</title>
       <link>https://example.com/article/36652050/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36652050/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bone marrow-derived mesenchymal stem cells (BMSCs) exert protective effects against pulmonary ischemia/reperfusion (I/R) injury; however, the potential mechanism involved in their protective ability remains unclear. Thus, this study aimed to explore the function and underlying mechanism of BMSC-derived exosomal lncRNA-ZFAS1 in pulmonary I/R injury. Pulmonary I/R injury models were established in mice and hypoxia/reoxygenation (H/R)-exposed primary mouse lung microvascular endothelial cells (LMECs). Exosomes were extracted from BMSCs. Target molecule expression was assessed by qRT-PCR and Western blotting. Pathological changes in the lungs, pulmonary edema, apoptosis, pro-inflammatory cytokine levels, SOD, MPO activities, and MDA level were measured. The proliferation, apoptosis, and migration of LMECs were detected by CCK-8, EdU staining, flow cytometry, and scratch assay. Dual-luciferase reporter assay, RNA pull-down, RIP, and ChIP assays were performed to validate the molecular interaction. In the mouse model of pulmonary I/R injury, BMSC-Exos treatment relieved lung pathological injury, reduced lung W/D weight ratio, and restrained apoptosis and inflammation, whereas exosomal ZFAS1 silencing abolished these beneficial effects. In addition, the proliferation, migration inhibition, apoptosis, and inflammation in H/R-exposed LMECs were repressed by BMSC-derived exosomal ZFAS1. Mechanistically, ZFAS1 contributed to FOXD1 mRNA decay via interaction with UPF1, thereby leading to Gal-3 inactivation. Furthermore, FOXD1 depletion strengthened the weakened protective effect of ZFAS1-silenced BMSC-Exos on pulmonary I/R injury. ZFAS1 delivered by BMSC-Exos results in FOXD1 mRNA decay and subsequent Gal-3 inactivation via direct interaction with UPF1, thereby attenuating pulmonary I/R injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long non-coding RNA OIP5-AS1 (Cyrano): A context-specific regulator of normal and disease processes</title>
+      <link>https://example.com/review/35040588/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35040588/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding (lnc) RNAs have been implicated in a plethora of normal biological functions, and have also emerged as key molecules in various disease processes. OIP5-AS1, also commonly known by the alias &lt;em&gt;Cyrano&lt;/em&gt;, is a lncRNA that displays broad expression across multiple tissues, with significant enrichment in particular contexts including within the nervous system and skeletal muscle. Thus far, this multifaceted lncRNA has been found to have regulatory functions in normal cellular processes including cell proliferation and survival, as well as in the development and progression of a myriad disease states. These widespread effects on normal and disease states have been found to be mediated through context-specific intermolecular interactions with dozens of miRNAs and proteins identified to date. This review explores recent studies to highlight OIP5-AS1&amp;rsquo;s contextual yet pleiotropic roles in normal homeostatic functions as well as disease oetiology and progression, which may influence its utility in the generation of future theranostics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A novel promoter-associated non-coding small RNA paGLI1 recruits FUS/P65 to transactivate GLI1 gene expression and promotes infiltrating glioma progression</title>
+      <link>https://example.com/article/35051534/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35051534/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discovery of the first sense promoter-associated ncRNA derived from GLI1 (paGLI1), which is overexpressed in diffusely infiltrating gliomas.&lt;/li&gt;
+&lt;li&gt;PaGLI1 promotes GLI1 gene transcription by interacting with paGLI1 DNA, binding to and recruitment of transcription factor complex FUS/P65 to the GLI1 promoter, which results in enhancement of glioma cell proliferation and invasiveness.&lt;/li&gt;
+&lt;li&gt;Over-expression of paGLI1 is a significant unfavorable prognosticator for both disease-specific and progression-free survival in glioma patients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Glioma-associated oncogene homolog 1 (GLI1) is a core component of the Hedgehog (HH) signalling pathway and is a transcription activator of numerous oncogenes, such as SOX9, VEGFA, BCL2, and CDK2. The complex regulation of GLI1 involves numerous pathways and molecules, including HH-dependent and independent, epigenetic and post-transcriptional mechanisms. Here, we report the discovery, characterization and function of a novel sense promoter-associated ncRNA, paGLI1 that is overexpressed in infiltrating glioma. We show that paGLI1 promotes GLI1 gene transcription through binding to and recruitment of the transcription factor complex FUS/P65 by interacting with paGLI1 DNA sequence. This interaction facilitates FUS/P65 binding to the GLI1 promoter to activate GLI1 transcription and hence its downstream oncogenes, which results in enhancement of glioma cell proliferation and invasiveness. Importantly, over-expression of paGLI1 is a significant unfavorable prognosticator for both disease-specific and progression-free survival in glioma patients, with relative risks being 2.932 (95% confidence interval: 1.280 to 6.713) (P &amp;lt; 0.05) and 2.284 (95% confidence interval: 1.051 to 4.966) (P &amp;lt; 0.05), respectively. The novel paGLI1/FUS/P65 regulatory mechanisms play important roles in infiltrating glioma progression and may serve as potential targets for future therapeutics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Essential role of MALAT1 in reducing traumatic brain injury</title>
+      <link>https://example.com/article/35017438/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35017438/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a highly evolutionary conserved long non-coding RNA, metastasis associated lung adenocarcinoma transcript 1 (MALAT1) was first demonstrated to be related to lung tumor metastasis by promoting angiogenesis. To investigate the role of MALAT1 in traumatic brain injury, we established mouse models of controlled cortical impact and cell models of oxygen-glucose deprivation to mimic traumatic brain injury in vitro and in vivo. The results revealed that MALAT1 silencing in vitro inhibited endothelial cell viability and tube formation but increased migration. In MALAT1-deficient mice, endothelial cell proliferation in the injured cortex, functional vessel density and cerebral blood flow were reduced. Bioinformatic analyses and RNA pull-down assays validated enhancer of zeste homolog 2 (EZH2) as a downstream factor of MALAT1 in endothelial cells. Jagged-1, the Notch homolog 1 (NOTCH1) agonist, reversed the MALAT1 deficiency-mediated impairment of angiogenesis. Taken together, our results suggest that MALAT1 controls the key processes of angiogenesis following traumatic brain injury in an EZH2/NOTCH1-dependent manner.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic RNA Fitness Landscapes of a Group I Ribozyme during Changes to the Experimental Environment</title>
+      <link>https://example.com/article/35020916/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35020916/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fitness landscapes of protein and RNA molecules can be studied experimentally using high-throughput techniques to measure the functional effects of numerous combinations of mutations. The rugged topography of these molecular fitness landscapes is important for understanding and predicting natural and experimental evolution. Mutational effects are also dependent upon environmental conditions, but the effects of environmental changes on fitness landscapes remains poorly understood. Here, we investigate the changes to the fitness landscape of a catalytic RNA molecule while changing a single environmental variable that is critical for RNA structure and function. Using high-throughput sequencing of in vitro selections, we mapped a fitness landscape of the Azoarcus group I ribozyme under eight different concentrations of magnesium ions (1-48 mM MgCl2). The data revealed the magnesium dependence of 16,384 mutational neighbors, and from this, we investigated the magnesium induced changes to the topography of the fitness landscape. The results showed that increasing magnesium concentration improved the relative fitness of sequences at higher mutational distances while also reducing the ruggedness of the mutational trajectories on the landscape. As a result, as magnesium concentration was increased, simulated populations evolved toward higher fitness faster. Curve-fitting of the magnesium dependence of individual ribozymes demonstrated that deep sequencing of in vitro reactions can be used to evaluate the structural stability of thousands of sequences in parallel. Overall, the results highlight how environmental changes that stabilize structures can also alter the ruggedness of fitness landscapes and alter evolutionary processes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiRNA-disease association prediction based on meta-paths</title>
+      <link>https://example.com/article/35018405/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35018405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since miRNAs can participate in the posttranscriptional regulation of gene expression, they may provide ideas for the development of new drugs or become new biomarkers for drug targets or disease diagnosis. In this work, we propose an miRNA-disease association prediction method based on meta-paths (&lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt;). First, an miRNA-disease-gene heterogeneous information network was constructed, and seven symmetrical meta-paths were defined according to different semantics. After constructing the initial feature vector for the node, the vector information carried by all nodes on the meta-path instance is extracted and aggregated to update the feature vector of the starting node. Then, the vector information obtained by the nodes on different meta-paths is aggregated. Finally, miRNA and disease embedding feature vectors are used to calculate their associated scores. Compared with the other methods, &lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt; obtained the highest AUC value of 0.9214. Among the top 50 predicted miRNAs for lung neoplasms, esophageal neoplasms, colon neoplasms and breast neoplasms, 49, 48, 49 and 50 have been verified. Furthermore, for breast neoplasms, we deleted all the known associations between breast neoplasms and miRNAs from the training set. These results also show that for new diseases without known related miRNA information, our model can predict their potential miRNAs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6964,6 +7145,31 @@
       <guid>https://example.com/article/35312228/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Innervation and extracellular vesicle secretion co-exist in the local tissue microenvironment for message transfer, but whether they are interconnected to regulate organ homeostasis remains unknown. Sympatho-adrenergic activation is implicated in stress-induced depression and leads to bone loss, but the mechanisms and therapeutics are incompletely elucidated. Here, it is revealed that sympathetic neurostress through the β1/2 -adrenergic receptor (β1/2-AR) signaling triggers the transcription response of a microRNA, miR-21, in osteoblasts, which is transferred to osteoclast progenitors via exosomes for dictating osteoclastogenesis. After confirming that miR-21 deficiency retards the β1/2-AR agonist isoproterenol (ISO)-induced osteopenia, it is shown that the pharmacological inhibition of exosome release by two clinically-relevant drugs, dimethyl amiloride and omeprazole, suppresses osteoblastic miR-21 transfer and ameliorates bone loss under both ISO and chronic variable stress (CVS)-induced depression conditions. A targeted delivery approach to specifically silence osteoblastic miR-21 is further applied, which is effective in rescuing the bone remodeling balance and ameliorating ISO- and CVS-induced osteopenias. These results decipher a previously unrecognized paradigm that neural cues drive exosomal microRNA communication to regulate organ homeostasis and help to establish feasible strategies to counteract bone loss under psychological stresses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LncEDCH1 improves mitochondrial function to reduce muscle atrophy by interacting with SERCA2</title>
+      <link>https://example.com/article/35024244/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35024244/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skeletal muscle is a regulator of the body&amp;rsquo;s energy expenditure and metabolism. Abnormal regulation of skeletal muscle-specific genes leads to various muscle diseases. Long non-coding RNAs (lncRNAs) have been demonstrated to play important roles in muscle growth and muscle atrophy. To explore the potential function of muscle-associated lncRNA, we analyzed our previous RNA-sequencing data and selected the lncRNA (&lt;em&gt;LncEDCH1&lt;/em&gt;) as the research object. In this study, we report that &lt;em&gt;LncEDCH1&lt;/em&gt; is specifically enriched in skeletal muscle, and its transcriptional activity is positively regulated by transcription factor SP1. &lt;em&gt;LncEDCH1&lt;/em&gt; regulates myoblast proliferation and differentiation &lt;em&gt;in vitro&lt;/em&gt;. &lt;em&gt;In vivo&lt;/em&gt;, &lt;em&gt;LncEDCH1&lt;/em&gt; reduces intramuscular fat deposition, activates slow-twitch muscle phenotype, and inhibits muscle atrophy. Mechanistically, &lt;em&gt;LncEDCH1&lt;/em&gt; binds to sarcoplasmic/ER calcium ATPase 2 (SERCA2) protein to enhance SERCA2 protein stability and increase SERCA2 activity. Meanwhile, &lt;em&gt;LncEDCH1&lt;/em&gt; improves mitochondrial efficiency possibly through a SERCA2-mediated activation of the AMPK pathway. Our findings provide a strategy for using &lt;em&gt;LncEDCH1&lt;/em&gt; as an effective regulator for the treatment of muscle atrophy and energy metabolism.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

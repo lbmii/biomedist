@@ -223,6 +223,31 @@
     </item>
     
     <item>
+      <title>Transformer for one stop interpretable cell type annotation</title>
+      <link>https://example.com/article/36641532/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641532/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Consistent annotation transfer from reference dataset to query dataset is fundamental to the development and reproducibility of single-cell research. Compared with traditional annotation methods, deep learning based methods are faster and more automated. A series of useful single cell analysis tools based on autoencoder architecture have been developed but these struggle to strike a balance between depth and interpretability. Here, we present &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;, a multi-head self-attention deep learning model based on Transformer that enables interpretable cell type annotation using biologically understandable entities, such as pathways or regulons. We show that &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt; achieves fast and accurate one-stop annotation and batch-insensitive integration while providing biologically interpretable insights for understanding cellular behavior during development and disease progressions. We demonstrate &lt;a href=&#34;https://github.com/JackieHanLab/TOSICA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOSICA&lt;/a&gt;&amp;rsquo;s advantages by applying it to scRNA-seq data of tumor-infiltrating immune cells, and CD14&lt;sup&gt;+&lt;/sup&gt; monocytes in COVID-19 to reveal rare cell types, heterogeneity and dynamic trajectories associated with disease progression and severity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>A single-cell massively parallel reporter assay detects cell-type-specific gene regulation</title>
       <link>https://example.com/article/36635387/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
@@ -2892,6 +2917,34 @@
     </item>
     
     <item>
+      <title>Platelet-Derived Drug Targets and Biomarkers of Ischemic Stroke-The First Dynamic Human LC-MS Proteomic Study</title>
+      <link>https://example.com/article/35268287/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35268287/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The aim of this dynamic LC-MS (liquid chromatography and mass spectrometry) human platelet proteomic study was to identify the potential proteins candidates for biomarkers of acute ischemic stroke (AIS), their changes during the acute phase of stroke and to define potential novel drug targets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; A total of 32 patients (18-80 years old) were investigated that presented symptoms of AIS lasting less than 24 h from the onset, confirmed by neurological examination and/or new cerebral ischemia visualized in the CT (computed-tomography) scans. The analysis of platelet proteome was performed using LC-MS at baseline, and then on the third and seventh day from the onset of symptoms. The control group was demographically matched without any clinical signs of acute brain injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The differences between platelets, at 24 h after first symptoms of stroke subjects and the control group included: β-amyloid A4 and amyloid-like protein 2, coactosin-like protein, thymidine phosphorylase 4 (TYMP-4), interferon regulatory factor 7 (IRF7), vitamin K-dependent protein S, histone proteins (H2A type 1 and 1-A, H2A types 2B and J, H2Av, -z, and -x), and platelet basic protein. The dynamic changes in the platelet protein concentration involved thrombospondin-1, thrombospondin-2, filamin A, B, and C.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This is the first human dynamic LC-MS proteomic study that differentiates platelet proteome in the acute phase of ischemic stroke in time series and compares the results with healthy controls. Identified proteins may be considered as future markers of ischemic stroke or therapeutic drug targets. Thymidine phosphorylase 4 (TYMP-4) holds promise as an interesting drug target in the management or prevention of ischemic stroke.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Loss of IκBζ Drives Dentin Formation via Altered H3K4me3 Status</title>
       <link>https://example.com/article/35193410/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
@@ -3044,6 +3097,31 @@
     </item>
     
     <item>
+      <title>CRBPDL: Identification of circRNA-RBP interaction sites using an ensemble neural network approach</title>
+      <link>https://example.com/article/35051187/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35051187/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are non-coding RNAs with a special circular structure produced formed by the reverse splicing mechanism. Increasing evidence shows that circular RNAs can directly bind to RNA-binding proteins (RBP) and play an important role in a variety of biological activities. The interactions between circRNAs and RBPs are key to comprehending the mechanism of posttranscriptional regulation. Accurately identifying binding sites is very useful for analyzing interactions. In past research, some predictors on the basis of machine learning (ML) have been presented, but prediction accuracy still needs to be ameliorated. Therefore, we present a novel calculation model, &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, which uses an Adaboost integrated deep hierarchical network to identify the binding sites of circular RNA-RBP. &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; combines five different feature encoding schemes to encode the original RNA sequence, uses deep multiscale residual networks (MSRN) and bidirectional gating recurrent units (BiGRUs) to effectively learn high-level feature representations, it is sufficient to extract local and global context information at the same time. Additionally, a self-attention mechanism is employed to train the robustness of the &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;. Ultimately, the Adaboost algorithm is applied to integrate deep learning (DL) model to improve prediction performance and reliability of the model. To verify the usefulness of &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt;, we compared the efficiency with state-of-the-art methods on 37 circular RNA data sets and 31 linear RNA data sets. Moreover, results display that &lt;a href=&#34;https://github.com/nmt315320/CRBPDL.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRBPDL&lt;/a&gt; is capable of performing universal, reliable, and robust.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>SCANNER: a web platform for annotation, visualization and sharing of single cell RNA-seq data</title>
       <link>https://example.com/article/35134150/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
@@ -3088,6 +3166,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Many acute and chronic diseases affect the distal lung alveoli. Alveolar epithelial cell (AEC) lines are needed to better model these diseases. We used de-identified human remnant transplant lungs to develop a method to establish AEC lines. The lines grow well in 2-dimensional (2D) culture as epithelial monolayers expressing lung progenitor markers. In 3-dimensional (3D) culture with fibroblasts, Matrigel, and specific media conditions, the cells form alveolar-like organoids expressing mature AEC markers including aquaporin 5 (AQP5), G-protein-coupled receptor class C group 5 member A (GPRC5A), and surface marker HTII280. Single-cell RNA sequencing of an AEC line in 2D versus 3D culture revealed increased cellular heterogeneity and induction of cytokine and lipoprotein signaling in 3D organoids. Our approach yields lung progenitor lines that retain the ability to differentiate along the alveolar cell lineage despite long-term expansion and provides a valuable system to model and study the distal lung &lt;em&gt;in vitro&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MiRNA-disease association prediction based on meta-paths</title>
+      <link>https://example.com/article/35018405/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35018405/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since miRNAs can participate in the posttranscriptional regulation of gene expression, they may provide ideas for the development of new drugs or become new biomarkers for drug targets or disease diagnosis. In this work, we propose an miRNA-disease association prediction method based on meta-paths (&lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt;). First, an miRNA-disease-gene heterogeneous information network was constructed, and seven symmetrical meta-paths were defined according to different semantics. After constructing the initial feature vector for the node, the vector information carried by all nodes on the meta-path instance is extracted and aggregated to update the feature vector of the starting node. Then, the vector information obtained by the nodes on different meta-paths is aggregated. Finally, miRNA and disease embedding feature vectors are used to calculate their associated scores. Compared with the other methods, &lt;a href=&#34;https://github.com/LiangYu-Xidian/MDPBMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDPBMP&lt;/a&gt; obtained the highest AUC value of 0.9214. Among the top 50 predicted miRNAs for lung neoplasms, esophageal neoplasms, colon neoplasms and breast neoplasms, 49, 48, 49 and 50 have been verified. Furthermore, for breast neoplasms, we deleted all the known associations between breast neoplasms and miRNAs from the training set. These results also show that for new diseases without known related miRNA information, our model can predict their potential miRNAs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6198,34 +6301,6 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/16199517/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data. The method derives its power by focusing on gene sets, that is, groups of genes that share common biological function, chromosomal location, or regulation. We demonstrate how GSEA yields insights into several cancer-related data sets, including leukemia and lung cancer. Notably, where single-gene analysis finds little similarity between two independent studies of patient survival in lung cancer, GSEA reveals many biological pathways in common. The GSEA method is embodied in a freely available software package, together with an initial database of 1,325 biologically defined gene sets.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://example.com/&#34; &gt;
-      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Platelet-Derived Drug Targets and Biomarkers of Ischemic Stroke-The First Dynamic Human LC-MS Proteomic Study</title>
-      <link>https://example.com/article/35268287/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/35268287/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The aim of this dynamic LC-MS (liquid chromatography and mass spectrometry) human platelet proteomic study was to identify the potential proteins candidates for biomarkers of acute ischemic stroke (AIS), their changes during the acute phase of stroke and to define potential novel drug targets.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; A total of 32 patients (18-80 years old) were investigated that presented symptoms of AIS lasting less than 24 h from the onset, confirmed by neurological examination and/or new cerebral ischemia visualized in the CT (computed-tomography) scans. The analysis of platelet proteome was performed using LC-MS at baseline, and then on the third and seventh day from the onset of symptoms. The control group was demographically matched without any clinical signs of acute brain injury.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The differences between platelets, at 24 h after first symptoms of stroke subjects and the control group included: β-amyloid A4 and amyloid-like protein 2, coactosin-like protein, thymidine phosphorylase 4 (TYMP-4), interferon regulatory factor 7 (IRF7), vitamin K-dependent protein S, histone proteins (H2A type 1 and 1-A, H2A types 2B and J, H2Av, -z, and -x), and platelet basic protein. The dynamic changes in the platelet protein concentration involved thrombospondin-1, thrombospondin-2, filamin A, B, and C.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This is the first human dynamic LC-MS proteomic study that differentiates platelet proteome in the acute phase of ischemic stroke in time series and compares the results with healthy controls. Identified proteins may be considered as future markers of ischemic stroke or therapeutic drug targets. Thymidine phosphorylase 4 (TYMP-4) holds promise as an interesting drug target in the management or prevention of ischemic stroke.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

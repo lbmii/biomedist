@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lysosome/</link>
       <atom:link href="https://example.com/tag/lysosome/index.xml" rel="self" type="application/rss+xml" />
     <description>Lysosome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Lysosome</title>
       <link>https://example.com/tag/lysosome/</link>
     </image>
+    
+    <item>
+      <title>Tex2 is required for lysosomal functions at TMEM55-dependent ER membrane contact sites</title>
+      <link>https://example.com/article/36705603/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36705603/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ER tubules form and maintain membrane contact sites (MCSs) with late endosomes/lysosomes (LE/lys). The molecular composition and cellular functions of these MCSs are poorly understood. Here, we find that Tex2, an SMP domain-containing lipid transfer protein conserved in metazoan and yeast, is a tubular ER protein and is recruited to ER-LE/lys MCSs by TMEM55, phosphatases that convert PI(4,5)P2 to PI5P on LE/lys. We show that the Tex2-TMEM55 interaction occurs between an N-terminal region of Tex2 and a catalytic motif in the PTase domain of TMEM55. The Tex2-TMEM55 interaction can be regulated by endosome-resident type 2 PI4K activities. Functionally, Tex2 knockout results in defects in lysosomal trafficking, digestive capacity, and lipid composition of LE/lys membranes. Together, our data identify Tex2 as a tubular ER protein that resides at TMEM55-dependent ER-LE/lys MCSs required for lysosomal functions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>TFEB-mediated lysosomal exocytosis alleviates high fat diet-induced lipotoxicity in the kidney</title>

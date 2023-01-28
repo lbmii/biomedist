@@ -5,12 +5,37 @@
     <link>https://example.com/tag/phase-separation/</link>
       <atom:link href="https://example.com/tag/phase-separation/index.xml" rel="self" type="application/rss+xml" />
     <description>Phase Separation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Phase Separation</title>
       <link>https://example.com/tag/phase-separation/</link>
     </image>
+    
+    <item>
+      <title>Rabphilin-3A undergoes phase separation to regulate GluN2A mobility and surface clustering</title>
+      <link>https://example.com/article/36693856/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36693856/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N-methyl-D-aspartate receptors (NMDARs) are essential for excitatory neurotransmission and synaptic plasticity. GluN2A and GluN2B, two predominant Glu2N subunits of NMDARs in the hippocampus and the cortex, display distinct clustered distribution patterns and mobility at synaptic and extrasynaptic sites. However, how GluN2A clusters are specifically organized and stabilized remains poorly understood. Here, we found that the previously reported GluN2A-specific binding partner Rabphilin-3A (Rph3A) has the ability to undergo phase separation, which relies on arginine residues in its N-terminal domain. Rph3A phase separation promotes GluN2A clustering by binding GluN2A&amp;rsquo;s C-terminal domain. A complex formed by Rph3A, GluN2A, and the scaffolding protein PSD95 promoted Rph3A phase separation. Disrupting Rph3A&amp;rsquo;s phase separation suppressed the synaptic and extrasynaptic surface clustering, synaptic localization, stability, and synaptic response of GluN2A in hippocampal neurons. Together, our results reveal the critical role of Rph3A phase separation in determining the organization and stability of GluN2A in the neuronal surface.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Niche stiffness sustains cancer stemness via TAZ and NANOG phase separation</title>
