@@ -5,12 +5,62 @@
     <link>https://example.com/tag/biomaterials/</link>
       <atom:link href="https://example.com/tag/biomaterials/index.xml" rel="self" type="application/rss+xml" />
     <description>Biomaterials</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Biomaterials</title>
       <link>https://example.com/tag/biomaterials/</link>
     </image>
+    
+    <item>
+      <title>A natural biological adhesive from snail mucus for wound repair</title>
+      <link>https://example.com/article/36693849/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36693849/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The discovery of natural adhesion phenomena and mechanisms has advanced the development of a new generation of tissue adhesives in recent decades. In this study, we develop a natural biological adhesive from snail mucus gel, which consists a network of positively charged protein and polyanionic glycosaminoglycan. The malleable bulk adhesive matrix can adhere to wet tissue through multiple interactions. The biomaterial exhibits excellent haemostatic activity, biocompatibility and biodegradability, and it is effective in accelerating the healing of full-thickness skin wounds in both normal and diabetic male rats. Further mechanistic study shows it effectively promotes the polarization of macrophages towards the anti-inflammatory phenotype, alleviates inflammation in chronic wounds, and significantly improves epithelial regeneration and angiogenesis. Its abundant heparin-like glycosaminoglycan component is the main active ingredient. These findings provide theoretical and material insights into bio-inspired tissue adhesives and bioengineered scaffold designs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bioactive glass-elicited stem cell-derived extracellular vesicles regulate M2 macrophage polarization and angiogenesis to improve tendon regeneration and functional recovery</title>
+      <link>https://example.com/article/36641814/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36641814/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Effective countermeasures for tendon injury remains unsatisfactory. Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs)-based therapy via regulation of Mφ-mediated angiogenesis has emerged as a promising strategy for tissue regeneration. Still, approaches to tailor the functions of EVs to treat tendon injuries have been limited. We reported a novel strategy by applying MSC-EVs boosted with bioactive glasses (BG). BG-elicited EVs (EVB) showed up-regulation of medicinal miRNAs, including miR-199b-3p and miR-125a-5p, which play a pivotal role in M2 Mφ-mediated angiogenesis. EVB accelerated angiogenesis via the reprogrammed anti-inflammatory M2 Mφs compared with naïve MSC-EVs (EVN). In rodent Achilles tendon rupture model, EVB local administration activated anti-inflammatory responses via M2 polarization and led to a spatial correlation between M2 Mφs and newly formed blood vessels. Our results showed that EVB outperformed EVN in promoting tenogenesis and in reducing detrimental morphological changes without causing heterotopic ossification. Biomechanical test revealed that EVB significantly improved ultimate load, stiffness, and tensile modulus of the repaired tendon, along with a positive correlation between M2/M1 ratio and biomechanical properties. On the basis of the boosted nature to reprogram regenerative microenvironment, EVB holds considerable potential to be developed as a next-generation therapeutic modality for enhancing functional regeneration to achieve satisfying tendon regeneration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Cationic phosphorus dendron nanomicelles deliver microRNA mimics and microRNA inhibitors for enhanced anti-inflammatory therapy of acute lung injury</title>
@@ -1098,6 +1148,31 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Acute lung injury (ALI) is associated with excessive inflammatory response, leading to acute respiratory distress syndrome (ARDS) without timely treatment. A fewer effective drugs are available currently to treat the ALI/ARDS. Herein, a therapeutic nanoplatform with reactive oxygen species (ROS)-responsiveness was developed for the regulation of inflammation. Dexamethasone acetate (Dex) was encapsulated into poly(thioketal) polymers to form polymeric nanoparticles (NPs) (PTKNPs@Dex). The NPs were composed of poly(1,4-phenyleneacetonedimethylene thioketal) (PPADT) and polythioketal urethane (PTKU), in which the thioketal bonds could be cleaved by the high level of ROS at the ALI site. The PTKNPs@Dex could accumulate in the pulmonary inflammatory sites and release the encapsulated payloads rapidly, leading to the decreased ROS level, less generation of pro-inflammatory cytokines, and reduced lung injury and mortality of mice. RNA sequencing (RNA-seq) analysis showed that the therapeutic efficacy of the NPs was associated with the modulation of many immune and inflammation-linked pathways. These findings provide a newly developed nanoplatform for the efficient treatment of ALI/ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Transforming the Chemical Structure and Bio-Nano Activity of Doxorubicin by Ultrasound for Selective Killing of Cancer Cells</title>
+      <link>https://example.com/article/35100658/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35100658/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reconfiguring the structure and selectivity of existing chemotherapeutics represents an opportunity for developing novel tumor-selective drugs. Here, as a proof-of-concept, the use of high-frequency sound waves is demonstrated to transform the nonselective anthracycline doxorubicin into a tumor selective drug molecule. The transformed drug self-aggregates in water to form ≈200 nm nanodrugs without requiring organic solvents, chemical agents, or surfactants. The nanodrugs preferentially interact with lipid rafts in the mitochondria of cancer cells. The mitochondrial localization of the nanodrugs plays a key role in inducing reactive oxygen species mediated selective death of breast cancer, colorectal carcinoma, ovarian carcinoma, and drug-resistant cell lines. Only marginal cytotoxicity (80-100% cell viability) toward fibroblasts and cardiomyocytes is observed, even after administration of high doses of the nanodrug (25-40 µg mL&lt;sup&gt;-1&lt;/sup&gt;). Penetration, cytotoxicity, and selectivity of the nanodrugs in tumor-mimicking tissues are validated by using a 3D coculture of cancer and healthy cells and 3D cell-collagen constructs in a perfusion bioreactor. The nanodrugs exhibit tropism for lung and limited accumulation in the liver and spleen, as suggested by in vivo biodistribution studies. The results highlight the potential of this approach to transform the structure and bioactivity of anticancer drugs and antibiotics bearing sono-active moieties.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

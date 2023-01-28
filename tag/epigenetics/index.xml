@@ -5,12 +5,44 @@
     <link>https://example.com/tag/epigenetics/</link>
       <atom:link href="https://example.com/tag/epigenetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Epigenetics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Epigenetics</title>
       <link>https://example.com/tag/epigenetics/</link>
     </image>
+    
+    <item>
+      <title>PTBP1-activated co-transcriptional splicing controls epigenetic status of pluripotent stem cells</title>
+      <link>https://example.com/article/36626906/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36626906/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PTBP1 promotes co-transcriptional splicing of many introns in embryonic stem cells&lt;/li&gt;
+&lt;li&gt;Some of these introns are retained in mature mRNAs when PTBP1 is downregulated&lt;/li&gt;
+&lt;li&gt;Retention of a PTBP1-activated intron dampens DNMT3B expression in neurons&lt;/li&gt;
+&lt;li&gt;DNMT3B downregulation prevents ectopic methylation of neuronal genes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many spliceosomal introns are excised from nascent transcripts emerging from RNA polymerase II (RNA Pol II). The extent of cell-type-specific regulation and possible functions of such co-transcriptional events remain poorly understood. We examined the role of the RNA-binding protein PTBP1 in this process using an acute depletion approach followed by the analysis of chromatin- and RNA Pol II-associated transcripts. We show that PTBP1 activates the co-transcriptional excision of hundreds of introns, a surprising effect given that this protein is known to promote intron retention. Importantly, some co-transcriptionally activated introns fail to complete their splicing without PTBP1. In a striking example, retention of a PTBP1-dependent intron triggers nonsense-mediated decay of transcripts encoding DNA methyltransferase DNMT3B. We provide evidence that this regulation facilitates the natural decline in DNMT3B levels in developing neurons and protects differentiation-specific genes from ectopic methylation. Thus, PTBP1-activated co-transcriptional splicing is a widespread phenomenon mediating epigenetic control of cellular identity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>UHRF1-mediated ferroptosis promotes pulmonary fibrosis via epigenetic repression of GPX4 and FSP1 genes</title>

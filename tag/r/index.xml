@@ -1009,6 +1009,31 @@
     </item>
     
     <item>
+      <title>MethReg: estimating the regulatory potential of DNA methylation in gene transcription</title>
+      <link>https://example.com/article/35100398/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35100398/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epigenome-wide association studies often detect many differentially methylated sites, and many are located in distal regulatory regions. To further prioritize these significant sites, there is a critical need to better understand the functional impact of CpG methylation. Recent studies demonstrated that CpG methylation-dependent transcriptional regulation is a widespread phenomenon. Here, we present &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt;, an R/Bioconductor package that analyzes matched DNA methylation and gene expression data, along with external transcription factor (TF) binding information, to evaluate, prioritize and annotate CpG sites with high regulatory potential. At these CpG sites, TF-target gene associations are often only present in a subset of samples with high (or low) methylation levels, so they can be missed by analyses that use all samples. Using colorectal cancer and Alzheimer&amp;rsquo;s disease datasets, we show &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt; significantly enhances our understanding of the regulatory roles of DNA methylation in complex diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>SLAW: A Scalable and Self-Optimizing Processing Workflow for Untargeted LC-MS</title>
       <link>https://example.com/article/34735114/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
@@ -1091,6 +1116,33 @@
       <guid>https://example.com/article/33597522/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Understanding global communications among cells requires accurate representation of cell-cell signaling links and effective systems-level analyses of those links. We construct a database of interactions among ligands, receptors and their cofactors that accurately represent known heteromeric molecular complexes. We then develop &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt;, a tool that is able to quantitatively infer and analyze intercellular communication networks from single-cell RNA-sequencing (scRNA-seq) data. &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; predicts major signaling inputs and outputs for cells and how those cells and signals coordinate for functions using network analysis and pattern recognition approaches. Through manifold learning and quantitative contrasts, &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; classifies signaling pathways and delineates conserved and context-specific pathways across different datasets. Applying &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; to mouse and human skin datasets shows its ability to extract complex signaling patterns. Our versatile and easy-to-use toolkit &lt;a href=&#34;https://github.com/sqjin/CellChat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellChat&lt;/a&gt; and &lt;a href=&#34;http://www.cellchat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;a web-based Explorer&lt;/strong&gt;&lt;/a&gt; will help discover novel intercellular communications and build cell-cell communication atlases in diverse tissues.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>intePareto: an R package for integrative analyses of RNA-Seq and ChIP-Seq data</title>
+      <link>https://example.com/article/33372591/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33372591/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; RNA-Seq, the high-throughput sequencing (HT-Seq) of mRNAs, has become an essential tool for characterizing gene expression differences between different cell types and conditions. Gene expression is regulated by several mechanisms, including epigenetically by post-translational histone modifications which can be assessed by ChIP-Seq (Chromatin Immuno-Precipitation Sequencing). As more and more biological samples are analyzed by the combination of ChIP-Seq and RNA-Seq, the integrated analysis of the corresponding data sets becomes, theoretically, a unique option to study gene regulation. However, technically such analyses are still in their infancy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here we introduce &lt;a href=&#34;https://cran.r-project.org/web/packages/intePareto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;intePareto&lt;/a&gt;, a computational tool for the integrative analysis of RNA-Seq and ChIP-Seq data. With &lt;a href=&#34;https://cran.r-project.org/web/packages/intePareto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;intePareto&lt;/a&gt; we match RNA-Seq and ChIP-Seq data at the level of genes, perform differential expression analysis between biological conditions, and prioritize genes with consistent changes in RNA-Seq and ChIP-Seq data using Pareto optimization.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; &lt;a href=&#34;https://cran.r-project.org/web/packages/intePareto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;intePareto&lt;/a&gt; facilitates comprehensive understanding of high dimensional transcriptomic and epigenomic data. Its superiority to a naive differential gene expression analysis with RNA-Seq and available integrative approach is demonstrated by analyzing a public dataset.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

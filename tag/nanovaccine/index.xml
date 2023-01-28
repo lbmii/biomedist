@@ -5,12 +5,37 @@
     <link>https://example.com/tag/nanovaccine/</link>
       <atom:link href="https://example.com/tag/nanovaccine/index.xml" rel="self" type="application/rss+xml" />
     <description>Nanovaccine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Nanovaccine</title>
       <link>https://example.com/tag/nanovaccine/</link>
     </image>
+    
+    <item>
+      <title>Lyophilized mRNA-lipid nanoparticle vaccines with long-term stability and high antigenicity against SARS-CoV-2</title>
+      <link>https://example.com/article/36683074/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36683074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Advanced mRNA vaccines play vital roles against SARS-CoV-2. However, most current mRNA delivery platforms need to be stored at -20 °C or -70 °C due to their poor stability, which severely restricts their availability. Herein, we develop a lyophilization technique to prepare SARS-CoV-2 mRNA-lipid nanoparticle vaccines with long-term thermostability. The physiochemical properties and bioactivities of lyophilized vaccines showed no change at 25 °C over 6 months, and the lyophilized SARS-CoV-2 mRNA vaccines could elicit potent humoral and cellular immunity whether in mice, rabbits, or rhesus macaques. Furthermore, in the human trial, administration of lyophilized Omicron mRNA vaccine as a booster shot also engendered strong immunity without severe adverse events, where the titers of neutralizing antibodies against Omicron BA.1/BA.2/BA.4 were increased by at least 253-fold after a booster shot following two doses of the commercial inactivated vaccine, CoronaVac. This lyophilization platform overcomes the instability of mRNA vaccines without affecting their bioactivity and significantly improves their accessibility, particularly in remote regions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Splenic-targeting biomimetic nanovaccine for elevating protective immunity against virus infection</title>

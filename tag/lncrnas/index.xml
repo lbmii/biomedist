@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lncrnas/</link>
       <atom:link href="https://example.com/tag/lncrnas/index.xml" rel="self" type="application/rss+xml" />
     <description>lncRNAs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>lncRNAs</title>
       <link>https://example.com/tag/lncrnas/</link>
     </image>
+    
+    <item>
+      <title>The endothelial-enriched lncRNA LINC00607 mediates angiogenic function</title>
+      <link>https://example.com/article/36700983/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36700983/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNAs (lncRNAs) can act as regulatory RNAs which, by altering the expression of target genes, impact on the cellular phenotype and cardiovascular disease development. Endothelial lncRNAs and their vascular functions are largely undefined. Deep RNA-Seq and FANTOM5 CAGE analysis revealed the lncRNA &lt;em&gt;LINC00607&lt;/em&gt; to be highly enriched in human endothelial cells. &lt;em&gt;LINC00607&lt;/em&gt; was induced in response to hypoxia, arteriosclerosis regression in non-human primates, post-atherosclerotic cultured endothelial cells from patients and also in response to propranolol used to induce regression of human arteriovenous malformations. siRNA knockdown or CRISPR/Cas9 knockout of &lt;em&gt;LINC00607&lt;/em&gt; attenuated VEGF-A-induced angiogenic sprouting. &lt;em&gt;LINC00607&lt;/em&gt; knockout in endothelial cells also integrated less into newly formed vascular networks in an in vivo assay in SCID mice. Overexpression of &lt;em&gt;LINC00607&lt;/em&gt; in CRISPR knockout cells restored normal endothelial function. RNA- and ATAC-Seq after &lt;em&gt;LINC00607&lt;/em&gt; knockout revealed changes in the transcription of endothelial gene sets linked to the endothelial phenotype and in chromatin accessibility around ERG-binding sites. Mechanistically, &lt;em&gt;LINC00607&lt;/em&gt; interacted with the SWI/SNF chromatin remodeling protein BRG1. CRISPR/Cas9-mediated knockout of BRG1 in HUVEC followed by CUT&amp;amp;RUN revealed that BRG1 is required to secure a stable chromatin state, mainly on ERG-binding sites. In conclusion, &lt;em&gt;LINC00607&lt;/em&gt; is an endothelial-enriched lncRNA that maintains ERG target gene transcription by interacting with the chromatin remodeler BRG1 to ultimately mediate angiogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>LncRNA GAS5 suppresses inflammatory responses by inhibiting HMGB1 release via miR-155-5p/SIRT1 axis in sepsis</title>
@@ -2488,12 +2513,180 @@
     </item>
     
     <item>
+      <title>Long noncoding RNA LHFPL3-AS2 suppresses metastasis of non-small cell lung cancer by interacting with SFPQ to regulate TXNIP expression</title>
+      <link>https://example.com/article/35101541/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35101541/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Differential expression lncRNA profiles in 37 paired samples of NSCLC tumorous tissues and adjacent nontumorous tissues.&lt;/li&gt;
+&lt;li&gt;LHFPL3-AS2 was a novel NSCLC suppressor.&lt;/li&gt;
+&lt;li&gt;LHFPL3-AS2 functions its role by specifically interacting with SFPQ to regulate TXNIP expression.&lt;/li&gt;
+&lt;li&gt;LHFPL3-AS2 was regulated by EGR1 under hypoxia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lung cancer is the most common cancer and the leading cause of cancer deaths worldwide. In addition to coding genes, the contribution of long noncoding RNA (lncRNA) to non-small cell lung cancer (NSCLC) remains unclear. Here, we explored lncRNA expression profiles by Affymetrix Gene Chip Human Transcriptome Array 2.0 in 37 paired samples of tumorous NSCLC tissues and adjacent nontumorous tissues. We showed that LHFPL3-AS2 is a novel lncRNA, significantly decreased in NSCLC tissues. LHFPL3-AS2 was further validated in an additional 93 paired samples of NSCLC. Low levels of LHFPL3-AS2 expression were highly correlated with poor overall survival, TNM stage, and metastasis of NSCLC patients. Enhanced expression of LHFPL3-AS2 inhibited NSCLC invasion and metastasis in vitro and in vivo. Moreover, downregulation of LHFPL3-AS2 reduced its specific interaction with SFPQ, resulting in more SFPQ binding to the promoter of TXNIP and causing the transcriptional repression of TXNIP, thus finally promoting the migration and invasion of NSCLC cells. Furthermore, LHFPL3-AS2 was shown to be regulated by EGR1 under hypoxia.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long noncoding RNA EIF1AX-AS1 promotes endometrial cancer cell apoptosis by affecting EIF1AX mRNA stabilization</title>
+      <link>https://example.com/article/35080085/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35080085/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long noncoding RNAs (lncRNAs) have been found to play an important role in the occurrence and development of endometrial carcinoma (EC). Here, using RNA sequencing analysis, we systemically screened and identified the lncRNA eukaryotic translation initiation factor 1A, X-linked (EIF1AX)-AS1, which is aberrantly downregulated in clinical EC tissues and closely correlated with tumor type. &lt;em&gt;EIF1AX-AS1&lt;/em&gt; markedly inhibited EC cell proliferation and promoted apoptosis in vitro and in vivo. Mechanistically, &lt;em&gt;EIF1AX-AS1&lt;/em&gt; interacts with &lt;em&gt;EIF1AX&lt;/em&gt; mRNA and poly C binding protein 1 (PCBP1), which promote &lt;em&gt;EIF1AX&lt;/em&gt; mRNA degradation. Intriguingly, by interacting with internal ribosome entry site-related protein Y-box binding protein 1 (YBX-1), EIF1AX promotes c-Myc translation through the internal ribosome entry site pathway. c-Myc promotes &lt;em&gt;EIF1AX&lt;/em&gt; transcription and thus forms a feed-forward loop to regulate EC cell proliferation. Taken together, these data reveal new insights into the biology driving EC proliferation and highlights the potential of lncRNAs as biomarkers for prognosis and future therapeutic targets for cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of lncRNA biogenesis as revealed by nascent transcriptomics</title>
+      <link>https://example.com/review/35079163/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35079163/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Erratum in:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Author Correction: &lt;a href=&#34;https://www.nature.com/articles/s41580-022-00551-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Mechanisms of lncRNA biogenesis as revealed by nascent transcriptomics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mammalian genomes express two principal gene categories through RNA polymerase II-mediated transcription: protein-coding transcription units and non-coding RNA transcription units. Non-coding RNAs are further divided into relatively abundant structural RNAs, such as small nuclear RNAs, and into a myriad of long non-coding RNAs (lncRNAs) of often low abundance and low stability. Although at least some lncRNA synthesis may reflect transcriptional &amp;rsquo;noise&amp;rsquo;, recent studies define unique functions for either specific lncRNAs or for the process of lncRNA synthesis. Notably, the transcription, processing and metabolism of lncRNAs are regulated differently from protein-coding genes. In this Review, we provide insight into the regulation of lncRNA transcription and processing gleaned from the application of recently devised nascent transcriptomics technology. We first compare and contrast different methodologies for studying nascent transcription. We then discuss the molecular mechanisms regulating lncRNA transcription, especially transcription initiation and termination, which emphasize fundamental differences in their expression as compared with protein-coding genes. When perturbed, lncRNA misregulation leads to genomic stress such as transcription-replication conflict and R-loop-mediated DNA damage. We discuss many unresolved but important questions about the synthesis and potential functions of lncRNAs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA glycoLINC assembles a lower glycolytic metabolon to promote glycolysis</title>
+      <link>https://example.com/article/35081364/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35081364/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exogenous serine deficiency upregulates the lncRNA glycoLINC via c-MYC&lt;/li&gt;
+&lt;li&gt;GlycoLINC facilitates metabolon formation between glycolytic “payoff” phase enzymes&lt;/li&gt;
+&lt;li&gt;Glycolytic flux and vital cellular ATP levels are maintained by the metabolon&lt;/li&gt;
+&lt;li&gt;The metabolon enables adaptation to metabolic stress, promoting cancer cell survival&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non-covalent complexes of glycolytic enzymes, called metabolons, were postulated in the 1970s, but the concept has been controversial. Here we show that a c-Myc-responsive long noncoding RNA (lncRNA) that we call glycoLINC (gLINC) acts as a backbone for metabolon formation between all four glycolytic payoff phase enzymes (PGK1, PGAM1, ENO1, and PKM2) along with lactate dehydrogenase A (LDHA). The gLINC metabolon enhances glycolytic flux, increases ATP production, and enables cell survival under serine deprivation. Furthermore, gLINC overexpression in cancer cells promotes xenograft growth in mice fed a diet deprived of serine, suggesting that cancer cells employ gLINC during metabolic reprogramming. We propose that gLINC makes a functional contribution to cancer cell adaptation and provide the first example of a lncRNA-facilitated metabolon.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineered exosome as targeted lncRNA MEG3 delivery vehicles for osteosarcoma therapy</title>
+      <link>https://example.com/article/35077741/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35077741/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exosomes as nanosized membrane vesicles, could targeted deliver therapeutic agents by modification with target ligands. Exosome-derived non-coding RNAs play a vital role in the development of tumors. Previous evidences reveal that long non-coding RNA maternally expressed gene 3 (lncRNA MEG3) has anti-tumor properties. Whereas, the inhibitory effects of exosome-derived lncRNA MEG3 in osteosarcoma (OS) remain largely unknown. In this study, we utilize the engineering technology to combine exosome and lncRNA for tumor-targeting therapy of OS. We elucidated the anti-OS effects of lncRNA MEG3, and then prepared the c(RGDyK)-modified and MEG3-loaded exosomes (cRGD-Exo-MEG3). The engineered exosomes cRGD-Exo-MEG3 could deliver more efficiently to OS cells both in vitro and in vivo. In this way, cRGD-Exo-MEG3 facilitate the anti-OS effects of MEG3 significantly, with the help of enhanced tumor-targeting therapy. This study elucidates that engineered exosomes as targeted lncRNA MEG3 delivery vehicles have potentially therapeutic effects for OS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>BMSC-Derived Exosomes Carrying lncRNA-ZFAS1 Alleviate Pulmonary Ischemia/Reperfusion Injury by UPF1-Mediated mRNA Decay of FOXD1</title>
       <link>https://example.com/article/36652050/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36652050/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bone marrow-derived mesenchymal stem cells (BMSCs) exert protective effects against pulmonary ischemia/reperfusion (I/R) injury; however, the potential mechanism involved in their protective ability remains unclear. Thus, this study aimed to explore the function and underlying mechanism of BMSC-derived exosomal lncRNA-ZFAS1 in pulmonary I/R injury. Pulmonary I/R injury models were established in mice and hypoxia/reoxygenation (H/R)-exposed primary mouse lung microvascular endothelial cells (LMECs). Exosomes were extracted from BMSCs. Target molecule expression was assessed by qRT-PCR and Western blotting. Pathological changes in the lungs, pulmonary edema, apoptosis, pro-inflammatory cytokine levels, SOD, MPO activities, and MDA level were measured. The proliferation, apoptosis, and migration of LMECs were detected by CCK-8, EdU staining, flow cytometry, and scratch assay. Dual-luciferase reporter assay, RNA pull-down, RIP, and ChIP assays were performed to validate the molecular interaction. In the mouse model of pulmonary I/R injury, BMSC-Exos treatment relieved lung pathological injury, reduced lung W/D weight ratio, and restrained apoptosis and inflammation, whereas exosomal ZFAS1 silencing abolished these beneficial effects. In addition, the proliferation, migration inhibition, apoptosis, and inflammation in H/R-exposed LMECs were repressed by BMSC-derived exosomal ZFAS1. Mechanistically, ZFAS1 contributed to FOXD1 mRNA decay via interaction with UPF1, thereby leading to Gal-3 inactivation. Furthermore, FOXD1 depletion strengthened the weakened protective effect of ZFAS1-silenced BMSC-Exos on pulmonary I/R injury. ZFAS1 delivered by BMSC-Exos results in FOXD1 mRNA decay and subsequent Gal-3 inactivation via direct interaction with UPF1, thereby attenuating pulmonary I/R injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>LINC02362 attenuates hepatocellular carcinoma progression through the miR-516b-5p/ SOSC2 axis</title>
+      <link>https://example.com/article/34990401/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34990401/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hepatocellular carcinoma (HCC) is one of the most death-related cancers worldwide. Identifying cancer-associated genes and uncovering the vital molecular mechanisms of HCC progression contribute greatly to the prognosis and novel therapeutic strategies for HCC patients. Although lncRNAs have been proved to be critical modulators of various cellular processes, the functions of lncRNAs in HCC progression are just emerging. Here, we found that a long non-coding RNA (lncRNA) named &lt;em&gt;LINC02362&lt;/em&gt;, whose biological effects have yet been unveiled in cancers, was associated with a better prognosis in patients with HCC. Gain-of-function analyses showed that &lt;em&gt;LINC02362&lt;/em&gt; inhibited the survival, migration, invasion and epithelial-to-mesenchymal transition (EMT) of HCC cells. Moreover, miR-516b-5p was enriched as a target of &lt;em&gt;LINC02362&lt;/em&gt;, which functioned as a sponge to regulate the endogenous levels of &lt;em&gt;miR-516b-5p&lt;/em&gt;. Furthermore, we confirmed that &lt;em&gt;SOSC2&lt;/em&gt; served as a downstream target gene which was negatively controlled by &lt;em&gt;miR-516b-5p&lt;/em&gt;. Importantly, a series of rescue experiments indicated that the tumor-suppressive effects of &lt;em&gt;LINC02362&lt;/em&gt; were achieved through the modulation of the &lt;em&gt;miR-516b-5p/SOSC2&lt;/em&gt; axis. In summary, we identified &lt;em&gt;LINC02362&lt;/em&gt; as a candidate tumor-inhibitory lncRNA that might serve as a biomarker for the prognosis of HCC and a promising therapeutic agent for patients with HCC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

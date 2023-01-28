@@ -5,12 +5,37 @@
     <link>https://example.com/tag/methods-and-protocols/</link>
       <atom:link href="https://example.com/tag/methods-and-protocols/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods and Protocols</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Methods and Protocols</title>
       <link>https://example.com/tag/methods-and-protocols/</link>
     </image>
+    
+    <item>
+      <title>Massively parallel knock-in engineering of human T cells</title>
+      <link>https://example.com/article/36702900/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36702900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The efficiency of targeted knock-in for cell therapeutic applications is generally low, and the scale is limited. In this study, we developed CLASH, a system that enables high-efficiency, high-throughput knock-in engineering. In CLASH, Cas12a/Cpf1 mRNA combined with pooled adeno-associated viruses mediate simultaneous gene editing and precise transgene knock-in using massively parallel homology-directed repair, thereby producing a pool of stably integrated mutant variants each with targeted gene editing. We applied this technology in primary human T cells and performed time-coursed CLASH experiments in blood cancer and solid tumor models using CD3, CD8 and CD4 T cells, enabling pooled generation and unbiased selection of favorable CAR-T variants. Emerging from CLASH experiments, a unique CRISPR RNA (crRNA) generates an exon3 skip mutant of PRDM1 in CAR-Ts, which leads to increased proliferation, stem-like properties, central memory and longevity in these cells, resulting in higher efficacy in vivo across multiple cancer models, including a solid tumor model. The versatility of CLASH makes it broadly applicable to diverse cellular and therapeutic engineering applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Mapping nucleolus-associated chromatin interactions using nucleolus Hi-C reveals pattern of heterochromatin interactions</title>
@@ -94,6 +119,31 @@
       <guid>https://example.com/article/imt2.77/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;No abstract available.&lt;/em&gt;&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Photoacoustic Probe with Blood-Brain Barrier Crossing Ability for Imaging Oxidative Stress Dynamics in the Mouse Brain</title>
+      <link>https://example.com/article/36597890/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36597890/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spatiotemporal assessment of the oxidative stress dynamics in the brain is crucial for understanding the molecular mechanism underlying neurodegenerative diseases. However, existing oxidative stress probes have poor blood-brain barrier permeability or poor penetration depth, making them unsuitable for brain imaging. Herein, we developed a photoacoustic probe that enables real-time imaging of oxidative stress dynamics in the mouse brain. The probe not only responds to oxidative stress in a reversible and ratiometric manner, but it can also cross the blood-brain barrier of the mouse brain. Notably, the probe displayed excellent photoacoustic imaging of oxidative stress dynamics in the brains of Parkinson&amp;rsquo;s disease mouse models. In addition, we investigated the antioxidant properties of natural polyphenols in the brain of a Parkinson&amp;rsquo;s disease mouse model using the probe as an imaging agent and suggested the potential of the probe for screening anti-oxidative stress agents.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -488,6 +538,31 @@
       <guid>https://example.com/article/36574652/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Unraveling cell-cell interaction is fundamental to understanding many biological processes. To date, genetic tools for labeling neighboring cells in mammals are not available. Here, we developed a labeling strategy based on the Cre-induced intercellular labeling protein (CILP). Cre-expressing donor cells release a lipid-soluble and membrane-permeable fluorescent protein that is then taken up by recipient cells, enabling fluorescent labeling of neighboring cells. Using CILP, we specifically labeled endothelial cells surrounding a special population of hepatocytes in adult mice and revealed their distinct gene signatures. Our results highlight the potential of CILP as a platform to reveal cell-cell interactions and communications &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanical stimulation on a microfluidic device to highly enhance small extracellular vesicle secretion of mesenchymal stem cells</title>
+      <link>https://example.com/article/36619203/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36619203/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Small extracellular vesicles (sEVs) are recognized as promising detection biomarkers and attractive delivery vehicles, showing great potential in diagnosis and treatment of diseases. However, the applications of sEVs are usually restricted by their poor secretion amount from donor cells under routine cell culture conditions, which is especially true for mesenchymal stem cells (MSCs) due to their limited expansion and early senescence. Here, a microfluidic device is proposed for boosting sEV secretion from MSCs derived from human fetal bone marrow (BM-MSCs). As the cells rapidly pass through a microfluidic channel with a series of narrow squeezing ridges, mechanical stimulation permeabilizes the cell membrane, thus promoting them to secrete more sEVs into extracellular space. In this study, the microfluidic device demonstrates that mechanical-squeezing effect could increase the secretion amount of sEVs from the BM-MSCs by approximately 4-fold, while maintaining cellular growth state of the stem cells. Further, the secreted sEVs are efficiently taken up by immortalized human corneal epithelial cells and accelerate corneal epithelial wound healing in vitro, indicating that this technique wound not affect the functionality of sEVs and demonstrating the application potentials of this technique.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1818,6 +1893,31 @@
     </item>
     
     <item>
+      <title>MethReg: estimating the regulatory potential of DNA methylation in gene transcription</title>
+      <link>https://example.com/article/35100398/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35100398/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epigenome-wide association studies often detect many differentially methylated sites, and many are located in distal regulatory regions. To further prioritize these significant sites, there is a critical need to better understand the functional impact of CpG methylation. Recent studies demonstrated that CpG methylation-dependent transcriptional regulation is a widespread phenomenon. Here, we present &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt;, an R/Bioconductor package that analyzes matched DNA methylation and gene expression data, along with external transcription factor (TF) binding information, to evaluate, prioritize and annotate CpG sites with high regulatory potential. At these CpG sites, TF-target gene associations are often only present in a subset of samples with high (or low) methylation levels, so they can be missed by analyses that use all samples. Using colorectal cancer and Alzheimer&amp;rsquo;s disease datasets, we show &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt; significantly enhances our understanding of the regulatory roles of DNA methylation in complex diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Generation of a pdmH1N1 2018 Influenza A Reporter Virus Carrying a mCherry Fluorescent Protein in the PA Segment</title>
       <link>https://example.com/article/35127568/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
@@ -1856,6 +1956,37 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Many acute and chronic diseases affect the distal lung alveoli. Alveolar epithelial cell (AEC) lines are needed to better model these diseases. We used de-identified human remnant transplant lungs to develop a method to establish AEC lines. The lines grow well in 2-dimensional (2D) culture as epithelial monolayers expressing lung progenitor markers. In 3-dimensional (3D) culture with fibroblasts, Matrigel, and specific media conditions, the cells form alveolar-like organoids expressing mature AEC markers including aquaporin 5 (AQP5), G-protein-coupled receptor class C group 5 member A (GPRC5A), and surface marker HTII280. Single-cell RNA sequencing of an AEC line in 2D versus 3D culture revealed increased cellular heterogeneity and induction of cytokine and lipoprotein signaling in 3D organoids. Our approach yields lung progenitor lines that retain the ability to differentiate along the alveolar cell lineage despite long-term expansion and provides a valuable system to model and study the distal lung &lt;em&gt;in vitro&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SERS-based dual-mode DNA aptasensors for rapid classification of SARS-CoV-2 and influenza A/H1N1 infection</title>
+      <link>https://example.com/article/34987275/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34987275/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dual-mode SERS-based DNA aptasensor to diagnose two viruses has been developed.&lt;/li&gt;
+&lt;li&gt;DNA aptamers-immobilized on Au nanopopcorn substrate was used as a sensing template.&lt;/li&gt;
+&lt;li&gt;This sensor enables rapid differentiation between SARS-CoV-2 and influenza A infection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We developed a dual-mode surface-enhanced Raman scattering (SERS)-based aptasensor that can accurately diagnose and distinguish severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and influenza A/H1N1 at the same time. Herein, DNA aptamers that selectively bind to SARS-CoV-2 and influenza A/H1N1 were immobilized together on Au nanopopcorn substrate. Raman reporters (Cy3 and RRX), attached to the terminal of DNA aptamers, could generate strong SERS signals in the nanogap of the Au nanopopcorn substrate. Additionally, the internal standard Raman reporter (4-MBA) was immobilized on the Au nanopopcorn substrate along with aptamer DNAs to reduce errors caused by changes in the measurement environment. When SARS-CoV-2 or influenza A virus approaches the Au nanopopcorn substrate, the corresponding DNA aptamer selectively detaches from the substrate due to the significant binding affinity between the corresponding DNA aptamer and the virus. As a result, the related SERS intensity decreases with increasing target virus concentration. Thus, it is possible to determine whether a suspected patient is infected with SARS-CoV-2 or influenza A using this SERS-based DNA aptasensor. Furthermore, this sensor enables a quantitative evaluation of the target virus concentration with high sensitivity without being affected by cross-reactivity. Therefore, this SERS-based diagnostic platform is considered a conceptually new diagnostic tool that rapidly discriminates against these two respiratory diseases to prevent their spread.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

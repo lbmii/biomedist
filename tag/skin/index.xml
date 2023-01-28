@@ -5,12 +5,37 @@
     <link>https://example.com/tag/skin/</link>
       <atom:link href="https://example.com/tag/skin/index.xml" rel="self" type="application/rss+xml" />
     <description>Skin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Skin</title>
       <link>https://example.com/tag/skin/</link>
     </image>
+    
+    <item>
+      <title>A natural biological adhesive from snail mucus for wound repair</title>
+      <link>https://example.com/article/36693849/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36693849/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The discovery of natural adhesion phenomena and mechanisms has advanced the development of a new generation of tissue adhesives in recent decades. In this study, we develop a natural biological adhesive from snail mucus gel, which consists a network of positively charged protein and polyanionic glycosaminoglycan. The malleable bulk adhesive matrix can adhere to wet tissue through multiple interactions. The biomaterial exhibits excellent haemostatic activity, biocompatibility and biodegradability, and it is effective in accelerating the healing of full-thickness skin wounds in both normal and diabetic male rats. Further mechanistic study shows it effectively promotes the polarization of macrophages towards the anti-inflammatory phenotype, alleviates inflammation in chronic wounds, and significantly improves epithelial regeneration and angiogenesis. Its abundant heparin-like glycosaminoglycan component is the main active ingredient. These findings provide theoretical and material insights into bio-inspired tissue adhesives and bioengineered scaffold designs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Intradermally delivered mRNA-encapsulating extracellular vesicles for collagen-replacement therapy</title>

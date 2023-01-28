@@ -5,12 +5,37 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>Massively parallel knock-in engineering of human T cells</title>
+      <link>https://example.com/article/36702900/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36702900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The efficiency of targeted knock-in for cell therapeutic applications is generally low, and the scale is limited. In this study, we developed CLASH, a system that enables high-efficiency, high-throughput knock-in engineering. In CLASH, Cas12a/Cpf1 mRNA combined with pooled adeno-associated viruses mediate simultaneous gene editing and precise transgene knock-in using massively parallel homology-directed repair, thereby producing a pool of stably integrated mutant variants each with targeted gene editing. We applied this technology in primary human T cells and performed time-coursed CLASH experiments in blood cancer and solid tumor models using CD3, CD8 and CD4 T cells, enabling pooled generation and unbiased selection of favorable CAR-T variants. Emerging from CLASH experiments, a unique CRISPR RNA (crRNA) generates an exon3 skip mutant of PRDM1 in CAR-Ts, which leads to increased proliferation, stem-like properties, central memory and longevity in these cells, resulting in higher efficacy in vivo across multiple cancer models, including a solid tumor model. The versatility of CLASH makes it broadly applicable to diverse cellular and therapeutic engineering applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Precise transcript targeting by CRISPR-Csm complexes</title>
@@ -1113,6 +1138,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Alternative functions of CRISPR-Cas systems in the evolutionary arms race</title>
+      <link>https://example.com/review/34992260/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34992260/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRISPR-Cas systems of bacteria and archaea comprise chromosomal loci with typical repetitive clusters and associated genes encoding a range of Cas proteins. Adaptation of CRISPR arrays occurs when virus-derived and plasmid-derived sequences are integrated as new CRISPR spacers. Cas proteins use CRISPR-derived RNA guides to specifically recognize and cleave nucleic acids of invading mobile genetic elements. Apart from this role as an adaptive immune system, some CRISPR-associated nucleases are hijacked by mobile genetic elements: viruses use them to attack their prokaryotic hosts, and transposons have adopted CRISPR systems for guided transposition. In addition, some CRISPR-Cas systems control the expression of genes involved in bacterial physiology and virulence. Moreover, pathogenic bacteria may use their Cas nuclease activity indirectly to evade the human immune system or directly to invade the nucleus and damage the chromosomal DNA of infected human cells. Thus, the evolutionary arms race has led to the expansion of exciting variations in CRISPR mechanisms and functionalities. In this Review, we explore the latest insights into the diverse functions of CRISPR-Cas systems beyond adaptive immunity and discuss the implications for the development of CRISPR-based applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

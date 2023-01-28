@@ -5,12 +5,37 @@
     <link>https://example.com/tag/microbiology/</link>
       <atom:link href="https://example.com/tag/microbiology/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiology</title>
       <link>https://example.com/tag/microbiology/</link>
     </image>
+    
+    <item>
+      <title>Lyophilized mRNA-lipid nanoparticle vaccines with long-term stability and high antigenicity against SARS-CoV-2</title>
+      <link>https://example.com/article/36683074/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36683074/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Advanced mRNA vaccines play vital roles against SARS-CoV-2. However, most current mRNA delivery platforms need to be stored at -20 °C or -70 °C due to their poor stability, which severely restricts their availability. Herein, we develop a lyophilization technique to prepare SARS-CoV-2 mRNA-lipid nanoparticle vaccines with long-term thermostability. The physiochemical properties and bioactivities of lyophilized vaccines showed no change at 25 °C over 6 months, and the lyophilized SARS-CoV-2 mRNA vaccines could elicit potent humoral and cellular immunity whether in mice, rabbits, or rhesus macaques. Furthermore, in the human trial, administration of lyophilized Omicron mRNA vaccine as a booster shot also engendered strong immunity without severe adverse events, where the titers of neutralizing antibodies against Omicron BA.1/BA.2/BA.4 were increased by at least 253-fold after a booster shot following two doses of the commercial inactivated vaccine, CoronaVac. This lyophilization platform overcomes the instability of mRNA vaccines without affecting their bioactivity and significantly improves their accessibility, particularly in remote regions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>CD-NTase family member MB21D2 promotes cGAS-mediated antiviral and antitumor immunity</title>
@@ -101,6 +126,37 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CCR7-triggered DC migration toward draining lymph nodes is critical for the initiation of protective immunity and maintenance of immune tolerance. How to promote CCR7-mediated DC migration to determine T cell responses under inflammatory and homeostatic conditions remains poorly understood. Here we demonstrate that the Extl1 (Exostosin like glycosyltransferase 1) promotes CCR7-triggered DC migration in a heparan sulfate proteoglycans (HSPG)-dependent manner. Mechanistically, Extl1 mediates HSPG production via its glycosyltransferase domain to inhibit C1q expression. Extl1/HSPG axis relieves C1q-mediated restriction of CCR7 surface expression and internalization, and thus enhances CCR7-dependent migratory signaling activation. Consequently, Extl1 is required for DC-mediated Th1 and Th17 responses in immune defense against bacterial infection and for Treg cell development in the prevention of autoimmunity. Our study adds mechanistic insights to the regulation of CCR7-triggered DC migration in immunity and tolerance and provides a potential target for the treatment of infectious and autoimmune diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Type I interferon/STAT1 signaling regulates UBE2M-mediated antiviral innate immunity in a negative feedback manner</title>
+      <link>https://example.com/article/36662617/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36662617/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UBE2M inhibits STUB1-mediated RIG-I degradation to resist RNA virus infection&lt;/li&gt;
+&lt;li&gt;IFN-I/STAT1 negatively regulates UBE2M-induced antiviral immunity via TRIM21&lt;/li&gt;
+&lt;li&gt;mEVs/TRIM21-ΔRING are promising antiviral reagents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Type I interferon (IFN-I) signaling is central to inducing antiviral innate immunity. However, the mechanisms for IFN-I signaling self-regulation are still largely unknown. Here, we report that RNA virus-infected macrophages with UBE2M deficiency produced decreased IFN-I expression in a RIG-I-dependent manner, causing an aggravated viral infection. Mechanistically, UBE2M inhibits RIG-I degradation by preventing the interaction of RIG-I and E3 ligase STUB1, resulting in antiviral IFN-I signaling activation. Simultaneously, IFN-I signaling-activated STAT1 facilitates the transcription of &lt;em&gt;Trim21&lt;/em&gt;, leading to increased UBE2M degradation and blunted antiviral immunity. Translationally, oral administration of milk-derived extracellular vesicles containing RING domain-truncated TRIM21 (TRIM21-ΔRING) lacking E3 ligase activity efficiently transfers TRIM21-ΔRING into macrophages. TRIM21-ΔRING suppresses UBE2M degradation by competitively binding to UBE2M with TRIM21, thereby enhancing antiviral immunity. Overall, we reveal a negative feedback loop of IFN-I signaling and develop a reagent to improve innate immunity against RNA viruses.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -7007,6 +7063,37 @@
     </item>
     
     <item>
+      <title>APOL1 Risk Variants, Acute Kidney Injury, and Death in Participants With African Ancestry Hospitalized With COVID-19 From the Million Veteran Program</title>
+      <link>https://example.com/article/35089317/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35089317/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Importance:&lt;/em&gt; Coronavirus disease 2019 (COVID-19) confers significant risk of acute kidney injury (AKI). Patients with COVID-19 with AKI have high mortality rates.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Individuals with African ancestry with 2 copies of apolipoprotein L1 (APOL1) variants G1 or G2 (high-risk group) have significantly increased rates of kidney disease. We tested the hypothesis that the APOL1 high-risk group is associated with a higher-risk of COVID-19-associated AKI and death.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design, setting, and participants:&lt;/em&gt; This retrospective cohort study included 990 participants with African ancestry enrolled in the Million Veteran Program who were hospitalized with COVID-19 between March 2020 and January 2021 with available genetic information.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Exposures:&lt;/em&gt; The primary exposure was having 2 APOL1 risk variants (RV) (APOL1 high-risk group), compared with having 1 or 0 risk variants (APOL1 low-risk group).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Main outcomes and measures:&lt;/em&gt; The primary outcome was AKI. The secondary outcomes were stages of AKI severity and death. Multivariable logistic regression analyses adjusted for preexisting comorbidities, medications, and inpatient AKI risk factors; 10 principal components of ancestry were performed to study these associations. We performed a subgroup analysis in individuals with normal kidney function prior to hospitalization (estimated glomerular filtration rate ≥60 mL/min/1.73 m2).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Of the 990 participants with African ancestry, 905 (91.4%) were male with a median (IQR) age of 68 (60-73) years. Overall, 392 (39.6%) patients developed AKI, 141 (14%) developed stages 2 or 3 AKI, 28 (3%) required dialysis, and 122 (12.3%) died. One hundred twenty-five (12.6%) of the participants were in the APOL1 high-risk group. Patients categorized as APOL1 high-risk group had significantly higher odds of AKI (adjusted odds ratio [OR], 1.95; 95% CI, 1.27-3.02; &lt;em&gt;P&lt;/em&gt; = .002), higher AKI severity stages (OR, 2.03; 95% CI, 1.37-2.99; &lt;em&gt;P&lt;/em&gt; &amp;lt; .001), and death (OR, 2.15; 95% CI, 1.22-3.72; &lt;em&gt;P&lt;/em&gt; = .007). The association with AKI persisted in the subgroup with normal kidney function (OR, 1.93; 95% CI, 1.15-3.26; &lt;em&gt;P&lt;/em&gt; = .01). Data analysis was conducted between February 2021 and April 2021.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions and relevance:&lt;/em&gt; In this cohort study of veterans with African ancestry hospitalized with COVID-19 infection, APOL1 kidney risk variants were associated with higher odds of AKI, AKI severity, and death, even among individuals with prior normal kidney function.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Early IL-17A production helps establish Mycobacterium intracellulare infection in mice</title>
       <link>https://example.com/article/35363832/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
@@ -8903,6 +8990,31 @@
     </item>
     
     <item>
+      <title>SARS-CoV-2 Infection and Lung Regeneration</title>
+      <link>https://example.com/review/35107300/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35107300/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The lung is the primary site of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-induced immunopathology whereby the virus enters the host cells by binding to angiotensin-converting enzyme 2 (ACE2). Sophisticated regeneration and repair programs exist in the lungs to replenish injured cell populations. However, known resident stem/progenitor cells have been demonstrated to express ACE2, raising a substantial concern regarding the long-term consequences of impaired lung regeneration after SARS-CoV-2 infection. Moreover, clinical treatments may also affect lung repair from antiviral drug candidates to mechanical ventilation. In this review, we highlight how SARS-CoV-2 disrupts a program that governs lung homeostasis. We also summarize the current efforts of targeted therapy and supportive treatments for COVID-19 patients. In addition, we discuss the pros and cons of cell therapy with mesenchymal stem cells or resident lung epithelial stem/progenitor cells in preventing post-acute sequelae of COVID-19. We propose that, in addition to symptomatic treatments being developed and applied in the clinic, targeting lung regeneration is also essential to restore lung homeostasis in COVID-19 patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Streptococcal pyrogenic exotoxin B cleaves GSDMA and triggers pyroptosis</title>
       <link>https://example.com/article/35110732/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
@@ -8957,6 +9069,63 @@
     </item>
     
     <item>
+      <title>Host glycocalyx captures HIV proximal to the cell surface via oligomannose-GlcNAc glycan-glycan interactions to support viral entry</title>
+      <link>https://example.com/article/35108536/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35108536/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viral glycan shield acts as a cellular attachment factor&lt;/li&gt;
+&lt;li&gt;Viral oligomannose initiates host cell attachment&lt;/li&gt;
+&lt;li&gt;This initial attachment is a specific, non-electrostatic interaction&lt;/li&gt;
+&lt;li&gt;Blocking this interaction may present a pan-specific suppression mechanism&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here, we present ultrastructural analyses showing that incoming HIV are captured near the lymphocyte surface in a virion-glycan-dependent manner. Biophysical analyses show that removal of either virion- or cell-associated N-glycans impairs virus-cell binding, and a similar glycan-dependent relationship is observed between purified HIV envelope (Env) and primary T cells. Trimming of N-glycans from either HIV or Env does not inhibit protein-protein interactions. Glycan arrays reveal HIV preferentially binds to N-acetylglucosamine and mannose. Interfering with these glycan-based interactions reduces HIV infectivity. These glycan interactions are distinct from previously reported glycan-lectin and non-specific electrostatic charge-based interactions. Specific glycan-glycan-mediated attachment occurs prior to virus entry and enhances efficiency of infection. Binding and fluorescent imaging data support glycan-glycan interactions as being responsible, at least in part, for initiating contact between HIV and the host cell, prior to viral Env-cellular CD4 engagement.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Human cytomegalovirus protein RL1 degrades the antiviral factor SLFN11 via recruitment of the CRL4 E3 ubiquitin ligase complex</title>
+      <link>https://example.com/article/35105802/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35105802/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Human cytomegalovirus (HCMV) is an important human pathogen and a paradigm of viral immune evasion, targeting intrinsic, innate, and adaptive immunity. We have employed two orthogonal multiplexed tandem mass tag-based proteomic screens to identify host proteins down-regulated by viral factors expressed during the latest phases of viral infection. This approach revealed that the HIV-1 restriction factor Schlafen-11 (SLFN11) was degraded by the poorly characterized, late-expressed HCMV protein RL1, via recruitment of the Cullin4-RING E3 Ubiquitin Ligase (CRL4) complex. SLFN11 potently restricted HCMV infection, inhibiting the formation and spread of viral plaques. Overall, we show that a restriction factor previously thought only to inhibit RNA viruses additionally restricts HCMV. We define the mechanism of viral antagonism and also describe an important resource for revealing additional molecules of importance in antiviral innate immunity and viral immune evasion.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>An encodable multiplex microsphere-phase amplification sensing platform detects SARS-CoV-2 mutations</title>
       <link>https://example.com/article/35131697/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
@@ -8989,12 +9158,216 @@
     </item>
     
     <item>
+      <title>m6A modifications regulate intestinal immunity and rotavirus infection</title>
+      <link>https://example.com/article/35098923/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35098923/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N6-methyladenosine (m6A) is an abundant mRNA modification and affects many biological processes. However, how m6A levels are regulated during physiological or pathological processes such as virus infections, and the in vivo function of m6A in the intestinal immune defense against virus infections are largely unknown. Here, we uncover a novel antiviral function of m6A modification during rotavirus (RV) infection in small bowel intestinal epithelial cells (IECs). We found that rotavirus infection induced global m6A modifications on mRNA transcripts by down-regulating the m6a eraser ALKBH5. Mice lacking the m6A writer enzymes METTL3 in IECs (&lt;em&gt;Mettl3&lt;/em&gt;ΔIEC) were resistant to RV infection and showed increased expression of interferons (IFNs) and IFN-stimulated genes (ISGs). Using RNA-sequencing and m6A RNA immuno-precipitation (RIP)-sequencing, we identified IRF7, a master regulator of IFN responses, as one of the primary m6A targets during virus infection. In the absence of METTL3, IECs showed increased &lt;em&gt;Irf7&lt;/em&gt; mRNA stability and enhanced type I and III IFN expression. Deficiency in IRF7 attenuated the elevated expression of IFNs and ISGs and restored susceptibility to RV infection in &lt;em&gt;Mettl3&lt;/em&gt;ΔIEC mice. Moreover, the global m6A modification on mRNA transcripts declined with age in mice, with a significant drop from 2 weeks to 3 weeks post birth, which likely has broad implications for the development of intestinal immune system against enteric viruses early in life. Collectively, we demonstrated a novel host m6A-IRF7-IFN antiviral signaling cascade that restricts rotavirus infection &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>OTUD7B deubiquitinates SQSTM1/p62 and promotes IRF3 degradation to regulate antiviral immunity</title>
       <link>https://example.com/article/35100065/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35100065/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Deubiquitination plays an important role in the regulation of the crosstalk between macroautophagy/autophagy and innate immune signaling, yet its regulatory mechanisms are not fully understood. Here we identify the deubiquitinase OTUD7B as a negative regulator of antiviral immunity by targeting IRF3 (interferon regulatory factor 3) for selective autophagic degradation. Mechanistically, OTUD7B interacts with IRF3, and activates IRF3-associated cargo receptor SQSTM1/p62 (sequestosome 1) by removing its K63-linked poly-ubiquitin chains at lysine 7 (K7) to enhance SQSTM1 oligomerization. Moreover, viral infection increased the expression of OTUD7B, which forms a negative feedback loop by promoting IRF3 degradation to balance type I interferon (IFN) signaling. Taken together, our study reveals a specific role of OTUD7B in mediating the activation of cargo receptors in a substrate-dependent manner, which could be a potential target against excessive immune responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A case of convergent evolution: Several viral and bacterial pathogens hijack RSK kinases through a common linear motif</title>
+      <link>https://example.com/article/35091472/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35091472/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Successful microbial infections typically involve the subversion of host immune pathways by pathogen-specific virulence factors. Here, we uncovered that viruses and bacteria independently evolved effectors targeting the same conserved loop of the mitogen-activated protein kinase (MAPK) p90-ribosomal S6-kinases (RSKs). Kinase usurpation relies on a previously unidentified short linear motif (SLiM) shared by these virulence factors. Mechanistically, RSK kinase binding prevents its dephosphorylation, thus promoting its phosphorylating activity. Remarkably, while viruses and bacteria evolved an identical mechanism of kinase activation, downstream effect diverged, effectively disarming different arms of the immune system according to their own need. This is a prominent illustration of trans-kingdom convergent evolution across microbial pathogens to usurp key signaling kinases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microbes have been coevolving with their host for millions of years, exploiting host resources to their own benefit. We show that viral and bacterial pathogens convergently evolved to hijack cellular mitogen-activated protein kinase (MAPK) p90-ribosomal S6-kinases (RSKs). Theiler’s virus leader (L) protein binds RSKs and prevents their dephosphorylation, thus maintaining the kinases active. Recruitment of RSKs enables L-protein-mediated inhibition of eukaryotic translation initiation factor 2 alpha kinase 2 (EIF2AK2 or PKR) and stress granule formation. Strikingly, ORF45 protein of Kaposi’s sarcoma-associated herpesvirus (KSHV) and YopM protein of Yersinia use the same peptide motif as L to recruit and activate RSKs. All three proteins interact with a conserved surface-located loop of RSKs, likely acting as an allosteric regulation site. Some unrelated viruses and bacteria thus evolved to harness RSKs in a common fashion, yet to target distinct aspects of innate immunity. As documented for Varicella zoster virus ORF11, additional pathogens likely evolved to hijack RSKs, using a similar short linear motif.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Emulating Membrane Protein Environments─How Much Lipid Is Required for a Native Structure: Influenza S31N M2</title>
+      <link>https://example.com/article/35089701/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35089701/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This report investigates the homotetrameric membrane protein structure of the S31N M2 protein from Influenza A virus in the presence of a high molar ratio of lipid. The structured regions of this protein include a single transmembrane helix and an amphipathic helix. Two structures of the S31N M2 conductance domain from Influenza A virus have been deposited in the Protein Data Bank (PDB). These structures present different symmetries about the channel main axis. We present new magic angle spinning and oriented sample solid-state NMR spectroscopic data for S31N M2 in liquid crystalline lipid bilayers using protein tetramer:lipid molar ratios ranging from 1:120 to 1:240. The data is consistent with an essentially 4-fold-symmetric structure very similar to the M2 WT structure that also has a single conformation for the four monomers, except at the His37 and Trp41 functional sites when characterized in samples with a high molar ratio of lipid. While detergent solubilization is well recognized today as a nonideal environment for small membrane proteins, here we discuss the influence of a high lipid to protein ratio for samples of the S31N M2 protein to stabilize an essentially 4-fold-symmetric conformation of the M2 membrane protein. While it is generally accepted that the chemical and physical properties of the native environment of membrane proteins needs to be reproduced judiciously to achieve the native protein structure, here we show that not only the character of the emulated membrane environment is important but also the abundance of the environment is important for achieving the native structure. This is a critical finding as a membrane protein spectroscopist&amp;rsquo;s goal is always to generate a sample with the highest possible protein sensitivity while obtaining spectra of the native-like structure.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Human genetic and immunological determinants of critical COVID-19 pneumonia</title>
+      <link>https://example.com/review/35090163/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35090163/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 infection is benign in most individuals but, in around 10% of cases, it triggers hypoxaemic COVID-19 pneumonia, which leads to critical illness in around 3% of cases. The ensuing risk of death (approximately 1% across age and gender) doubles every five years from childhood onwards and is around 1.5 times greater in men than in women. Here we review the molecular and cellular determinants of critical COVID-19 pneumonia. Inborn errors of type I interferons (IFNs), including autosomal TLR3 and X-chromosome-linked TLR7 deficiencies, are found in around 1-5% of patients with critical pneumonia under 60 years old, and a lower proportion in older patients. Pre-existing auto-antibodies neutralizing IFNα, IFNβ and/or IFNω, which are more common in men than in women, are found in approximately 15-20% of patients with critical pneumonia over 70 years old, and a lower proportion in younger patients. Thus, at least 15% of cases of critical COVID-19 pneumonia can be explained. The TLR3- and TLR7-dependent production of type I IFNs by respiratory epithelial cells and plasmacytoid dendritic cells, respectively, is essential for host defence against SARS-CoV-2. In ways that can depend on age and sex, insufficient type I IFN immunity in the respiratory tract during the first few days of infection may account for the spread of the virus, leading to pulmonary and systemic inflammation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Landscapes of Host-Virus Arms Races</title>
+      <link>https://example.com/review/35080919/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35080919/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vertebrate immune systems suppress viral infection using both innate restriction factors and adaptive immunity. Viruses mutate to escape these defenses, driving hosts to counterevolve to regain fitness. This cycle recurs repeatedly, resulting in an evolutionary arms race whose outcome depends on the pace and likelihood of adaptation by host and viral genes. Although viruses evolve faster than their vertebrate hosts, their proteins are subject to numerous functional constraints that impact the probability of adaptation. These constraints are globally defined by evolutionary landscapes, which describe the fitness and adaptive potential of all possible mutations. We review deep mutational scanning experiments mapping the evolutionary landscapes of both host and viral proteins engaged in arms races. For restriction factors and some broadly neutralizing antibodies, landscapes favor the host, which may help to level the evolutionary playing field against rapidly evolving viruses. We discuss the biophysical underpinnings of these landscapes and their therapeutic implications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MGF360-9L Is a Major Virulence Factor Associated with the African Swine Fever Virus by Antagonizing the JAK/STAT Signaling Pathway</title>
+      <link>https://example.com/article/35076286/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35076286/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;African swine fever (ASF)-an aggressive infectious disease caused by the African swine fever virus (ASFV)-is significantly unfavorable for swine production. ASFV has a complex structure and encodes 150-167 proteins; however, the function of most of these proteins is unknown. This study identified ASFV MGF360-9L as a negative regulator of the interferon (IFN)-β signal. Further evidence showed that MGF360-9L interacts with signal transducer and activator of transcription (STAT) 1 and STAT2 and degrades STAT1 and STAT2 through apoptosis and ubiquitin-proteasome pathways, respectively. Subsequently, the activation of IFN-β signaling was inhibited. Naturally isolated or genetically manipulated live attenuated viruses are known to protect against the virulent parental ASFV strains. Therefore, through homologous recombination, we deleted MGF360-9L from the virulent ASFV CN/GS/2018 strain to construct a recombinant strain, ASFV-Δ360-9L. Compared with the parent ASFV CN/GS/2018 strain, the replication level of ASFV-Δ360-9L decreased in primary porcine alveolar macrophage cultures at 24 h postinfection, but the difference is unlikely to be biologically relevant. Notably, ASFV-Δ360-9L was partially attenuated in pigs. To our knowledge, this study is the first to uncover the function of MGF360-9L during ASFV infection. MGF360-9L inhibits IFN-β signaling through the targeted degradation of STAT1 and STAT2. Furthermore, MGF360-9L is a key virulence gene of ASFV. Our findings reveal a new mechanism by which ASFV inhibits host antiviral response; this might facilitate the development of live attenuated ASFV vaccines.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;African swine fever-an acute, febrile, hemorrhagic, highly contacting, and highly lethal disease caused by African swine fever virus (ASFV)-jeopardizes the global pig industry. Understanding the mechanism ASFV employs to evade host defense during infection is essential for developing targeted drugs and vaccines against ASFV. To our knowledge, this study identifies the mechanism of innate immunity against by MGF360-9L and the effect of MGF360-9L on ASFV pathogenicity. The results showed that MGF360-9L may help ASFV escape the host immunity by degrading STAT1 and STAT2 and thus inhibiting IFN-β signaling. MGF360-9L is also an important virulence factor of ASFV. The deletion of MGF360-9L reduces ASFV virulence in pigs. This study explored a new mechanism of ASFV against innate immunity and identified a new ASFV virulence factor; these findings may guide the development of live attenuated ASFV vaccines.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 NSP5 and N protein counteract the RIG-I signaling pathway by suppressing the formation of stress granules</title>
+      <link>https://example.com/article/35075101/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35075101/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a highly pathogenic human coronavirus, SARS-CoV-2 has to counteract an intricate network of antiviral host responses to establish infection and spread. The nucleic acid-induced stress response is an essential component of antiviral defense and is closely related to antiviral innate immunity. However, whether SARS-CoV-2 regulates the stress response pathway to achieve immune evasion remains elusive. In this study, SARS-CoV-2 NSP5 and N protein were found to attenuate antiviral stress granule (avSG) formation. Moreover, NSP5 and N suppressed IFN expression induced by infection of Sendai virus or transfection of a synthetic mimic of dsRNA, poly (I:C), inhibiting TBK1 and IRF3 phosphorylation, and restraining the nuclear translocalization of IRF3. Furthermore, HEK293T cells with ectopic expression of NSP5 or N protein were less resistant to vesicular stomatitis virus infection. Mechanistically, NSP5 suppressed avSG formation and disrupted RIG-I-MAVS complex to attenuate the RIG-I-mediated antiviral immunity. In contrast to the multiple targets of NSP5, the N protein specifically targeted cofactors upstream of RIG-I. The N protein interacted with G3BP1 to prevent avSG formation and to keep the cofactors G3BP1 and PACT from activating RIG-I. Additionally, the N protein also affected the recognition of dsRNA by RIG-I. This study revealed the intimate correlation between SARS-CoV-2, the stress response, and innate antiviral immunity, shedding light on the pathogenic mechanism of COVID-19.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic and biological properties of H10N3 avian influenza viruses: A potential pandemic candidate?</title>
+      <link>https://example.com/article/35067005/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35067005/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The continued emergence of human illness caused by avian influenza viruses (AIVs) demonstrates the threat of strains such as H5N1, H7N9, H10N8, and now H10N3. The genetic and biological properties of H10N3 viruses are not fully understood. In this study, three H10N3 strains isolated from live poultry markets (LPMs) were systematically studied. Genome sequencing showed that the poultry-origin viruses are highly homologous to the human H10N3 isolate. The three avian strains were A/chicken/Jiangsu/0146/2021(abbreviated as JS146, H10N3), A/chicken/Jiangsu/0169/2021 (JS169, H10N3), and A/chicken/Jiangsu/0189/2021(JS189, H10N3). Animal studies indicated that all three viruses are highly pathogenic to mice and that all could replicate efficiently in mouse nasal turbinate and lungs despite maintaining their avian receptor binding affinity. We also found that these viruses replicated efficiently in A549 cells and chicken embryos. The strain JS146 had sensitivity to the neuraminidase-targeting drugs oseltamivir and zanamivir, whereas JS169 and JS189 were more resistant; genetic comparison implied that a substitution at NA position 368 conferred drug resistance. Importantly, several key molecular markers associated with mammalian adaptation had been detected in both avian and human-isolated H10N3 influenza viruses in the HA (G228S), PB2 (I292V and A588V), PB1 (M317V and I368V), and PA (A343S, K356R and S409N) protein. The above work contributes new insight into the biology of this potentially zoonotic subtype and provides evidence supporting the continued epidemiological monitoring of human infections caused by AIV subtype H10N3.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -9147,6 +9520,31 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
     </item>
     
     <item>
+      <title>Viral Interference between Respiratory Viruses</title>
+      <link>https://example.com/review/35075991/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/35075991/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Multiple respiratory viruses can concurrently or sequentially infect the respiratory tract and lead to virus‒virus interactions. Infection by a first virus could enhance or reduce infection and replication of a second virus, resulting in positive (additive or synergistic) or negative (antagonistic) interaction. The concept of viral interference has been demonstrated at the cellular, host, and population levels. The mechanisms involved in viral interference have been evaluated in differentiated airway epithelial cells and in animal models susceptible to the respiratory viruses of interest. A likely mechanism is the interferon response that could confer a temporary nonspecific immunity to the host. During the coronavirus disease pandemic, nonpharmacologic interventions have prevented the circulation of most respiratory viruses. Once the sanitary restrictions are lifted, circulation of seasonal respiratory viruses is expected to resume and will offer the opportunity to study their interactions, notably with severe acute respiratory syndrome coronavirus 2.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Berberine Relieves Metabolic Syndrome in Mice by Inhibiting Liver Inflammation Caused by a High-Fat Diet and Potential Association With Gut Microbiota</title>
       <link>https://example.com/article/35095784/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
@@ -9247,12 +9645,145 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
     </item>
     
     <item>
+      <title>MCMV-based vaccine vectors expressing full-length viral proteins provide long-term humoral immune protection upon a single-shot vaccination</title>
+      <link>https://example.com/article/34992275/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34992275/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Global pandemics caused by influenza or coronaviruses cause severe disruptions to public health and lead to high morbidity and mortality. There remains a medical need for vaccines against these pathogens. CMV (cytomegalovirus) is a β-herpesvirus that induces uniquely robust immune responses in which remarkably large populations of antigen-specific CD8+ T cells are maintained for a lifetime. Hence, CMV has been proposed and investigated as a novel vaccine vector for expressing antigenic peptides or proteins to elicit protective cellular immune responses against numerous pathogens. We generated two recombinant murine CMV (MCMV) vaccine vectors expressing hemagglutinin (HA) of influenza A virus (MCMVHA) or the spike protein of severe acute respiratory syndrome coronavirus 2 (MCMVS). A single injection of MCMVs expressing either viral protein induced potent neutralizing antibody responses, which strengthened over time. Importantly, MCMVHA-vaccinated mice were protected from illness following challenge with the influenza virus, and we excluded that this protection was due to the effects of memory T cells. Conclusively, we show here that MCMV vectors induce not only long-term cellular immunity but also humoral responses that provide long-term immune protection against clinically relevant respiratory pathogens.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>MVIP: multi-omics portal of viral infection</title>
       <link>https://example.com/article/34718748/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/34718748/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Virus infections are huge threats to living organisms and cause many diseases, such as COVID-19 caused by SARS-CoV-2, which has led to millions of deaths. To develop effective strategies to control viral infection, we need to understand its molecular events in host cells. Virus related functional genomic datasets are growing rapidly, however, an integrative platform for systematically investigating host responses to viruses is missing. Here, we developed a user-friendly multi-omics portal of viral infection named as &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt;. We manually collected available high-throughput sequencing data under viral infection, and unified their detailed metadata including virus, host species, infection time, assay, and target, etc. We processed multi-layered omics data of more than 4900 viral infected samples from 77 viruses and 33 host species with standard pipelines, including RNA-seq, ChIP-seq, and CLIP-seq, etc. In addition, we integrated these genome-wide signals into customized genome browsers, and developed multiple dynamic charts to exhibit the information, such as time-course dynamic and differential gene expression profiles, alternative splicing changes and enriched GO/KEGG terms. Furthermore, we implemented several tools for efficiently mining the virus-host interactions by virus, host and genes. &lt;a href=&#34;https://mvip.whu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MVIP&lt;/a&gt; would help users to retrieve large-scale functional information and promote the understanding of virus-host interactions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fibrotic lung disease inhibits immune responses to staphylococcal pneumonia via impaired neutrophil and macrophage function</title>
+      <link>https://example.com/article/34990413/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34990413/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Idiopathic pulmonary fibrosis (IPF) is a progressive and fatal disease characterized by collagen deposition within the lung interstitium. Bacterial infection is associated with increased morbidity and more rapid mortality in IPF patient populations, and pathogens such as methicillin-resistant Staphylococcus aureus (MRSA) are commonly isolated from the lungs of hospitalized patients with IPF. Despite this, the effects of fibrotic lung injury on critical immune responses to infection remain unknown. In the present study, we show that, like humans with IPF, fibrotic mice infected with MRSA exhibit increased morbidity and mortality compared with uninfected fibrotic mice. We determine that fibrosis conferred a defect in MRSA clearance compared with nonfibrotic mice, resulting from blunted innate immune responses. We show that fibrosis inhibited neutrophil intracellular killing of MRSA through impaired neutrophil elastase release and oxidative radical production. Additionally, we demonstrate that lung macrophages from fibrotic mice have impaired phagocytosis of MRSA. Our study describes potentially novel impairments of antimicrobial responses upon pulmonary fibrosis development, and our findings suggest a possible mechanism for why patients with IPF are at greater risk of morbidity and mortality related to infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optical recording of action potentials in mammalian neurons using a microbial rhodopsin</title>
+      <link>https://example.com/article/34995938/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34995938/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Post-Covid pulmonary fibrosis is evident following severe COVID-19. There is an urgent need to identify the cellular and pathophysiological characteristics of chronic lung squeals of Covid-19 for the development of future preventive and/or therapeutic interventions. Tissue-resident memory T (TRM) cells can mediate local immune protection against infections and cancer. Less beneficially, lung TRM cells cause chronic airway inflammation and fibrosis by stimulating pathologic inflammation. The effects of Janus kinase (JAK), an inducer pathway of cytokine storm, inhibition on acute Covid-19 cases have been previously evaluated. Here, we propose that Tofacitinib by targeting the CD8+ TRM cells could be a potential candidate for the treatment of chronic lung diseases induced by acute SARS-CoV-2 infection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pandemic Influenza Infection Promotes Streptococcus pneumoniae Infiltration, Necrotic Damage, and Proteomic Remodeling in the Heart</title>
+      <link>https://example.com/article/35089061/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35089061/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For over a century, it has been reported that primary influenza infection promotes the development of a lethal form of bacterial pulmonary disease. More recently, pneumonia events caused by both viruses and bacteria have been directly associated with cardiac damage. Importantly, it is not known whether viral-bacterial synergy extends to extrapulmonary organs such as the heart. Using label-free quantitative proteomics and molecular approaches, we report that primary infection with pandemic influenza A virus leads to increased Streptococcus pneumoniae translocation to the myocardium, leading to general biological alterations. We also observed that each infection alone led to proteomic changes in the heart, and these were exacerbated in the secondary bacterial infection (SBI) model. Gene ontology analysis of significantly upregulated proteins showed increased innate immune activity, oxidative processes, and changes to ion homeostasis during SBI. Immunoblots confirmed increased complement and antioxidant activity in addition to increased expression of angiotensin-converting enzyme 2. Using an &lt;em&gt;in vitro&lt;/em&gt; model of sequential infection in human cardiomyocytes, we observed that influenza enhances S. pneumoniae cytotoxicity by promoting oxidative stress enhancing bacterial toxin-induced necrotic cell death. Influenza infection was found to increase receptors that promote bacterial adhesion, such as polymeric immunoglobulin receptor and fibronectin leucine-rich transmembrane protein 1 in cardiomyocytes. Finally, mice deficient in programmed necrosis (i.e., necroptosis) showed enhanced innate immune responses, decreased virus-associated pathways, and promotion of mitochondrial function upon SBI. The presented results provide the first &lt;em&gt;in vivo&lt;/em&gt; evidence that influenza infection promotes S. pneumoniae infiltration, necrotic damage, and proteomic remodeling of the heart.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adverse cardiac events are a common complication of viral and bacterial pneumonia. For over a century, it has been recognized that influenza infection promotes severe forms of pulmonary disease mainly caused by the bacterium Streptococcus pneumoniae. The extrapulmonary effects of secondary bacterial infections to influenza virus are not known. In the present study, we used a combination of quantitative proteomics and molecular approaches to assess the underlying mechanisms of how influenza infection promotes bacteria-driven cardiac damage and proteome remodeling. We further observed that programmed necrosis (i.e., necroptosis) inhibition leads to reduced damage and proteome changes associated with health.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SERS-based dual-mode DNA aptasensors for rapid classification of SARS-CoV-2 and influenza A/H1N1 infection</title>
+      <link>https://example.com/article/34987275/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34987275/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dual-mode SERS-based DNA aptasensor to diagnose two viruses has been developed.&lt;/li&gt;
+&lt;li&gt;DNA aptamers-immobilized on Au nanopopcorn substrate was used as a sensing template.&lt;/li&gt;
+&lt;li&gt;This sensor enables rapid differentiation between SARS-CoV-2 and influenza A infection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We developed a dual-mode surface-enhanced Raman scattering (SERS)-based aptasensor that can accurately diagnose and distinguish severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and influenza A/H1N1 at the same time. Herein, DNA aptamers that selectively bind to SARS-CoV-2 and influenza A/H1N1 were immobilized together on Au nanopopcorn substrate. Raman reporters (Cy3 and RRX), attached to the terminal of DNA aptamers, could generate strong SERS signals in the nanogap of the Au nanopopcorn substrate. Additionally, the internal standard Raman reporter (4-MBA) was immobilized on the Au nanopopcorn substrate along with aptamer DNAs to reduce errors caused by changes in the measurement environment. When SARS-CoV-2 or influenza A virus approaches the Au nanopopcorn substrate, the corresponding DNA aptamer selectively detaches from the substrate due to the significant binding affinity between the corresponding DNA aptamer and the virus. As a result, the related SERS intensity decreases with increasing target virus concentration. Thus, it is possible to determine whether a suspected patient is infected with SARS-CoV-2 or influenza A using this SERS-based DNA aptasensor. Furthermore, this sensor enables a quantitative evaluation of the target virus concentration with high sensitivity without being affected by cross-reactivity. Therefore, this SERS-based diagnostic platform is considered a conceptually new diagnostic tool that rapidly discriminates against these two respiratory diseases to prevent their spread.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10859,6 +11390,31 @@ To carry out these diverse functions, mitochondria must communicate with the cyt
       <guid>https://example.com/article/33326766/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Viruses have evolved multiple strategies to evade elimination by the immune system. Here we examined the contribution of host long noncoding RNAs (lncRNAs) in viral immune evasion. By functional screening of lncRNAs whose expression decreased upon viral infection of macrophages, we identified a lncRNA (lncRNA-GM, Gene Symbol: AK189470.1) that promoted type I interferon (IFN-I) production and inhibited viral replication. Deficiency of lncRNA-GM in mice increased susceptibility to viral infection and impaired IFN-I production. Mechanistically, lncRNA-GM bound to glutathione S-transferase M1 (GSTM1) and blocked GSTM1 interaction with the kinase TBK1, reducing GSTM1-mediated S-glutathionylation of TBK1. Decreased S-glutathionylation enhanced TBK1 activity and downstream production of antiviral mediators. Viral infection reprogrammed intracellular glutathione metabolism and furthermore, an oxidized glutathione mimetic could inhibit TBK1 activity and promote viral replication. Our findings reveal regulation of TBK1 by S-glutathionylation and provide insight into the viral mediated metabolic changes that impact innate immunity and viral evasion.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cancer and the Microbiome-Influence of the Commensal Microbiota on Cancer, Immune Responses, and Immunotherapy</title>
+      <link>https://example.com/article/33253684/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33253684/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The commensal microbiota has been implicated in the regulation of a diverse array of physiological processes, both within the gastrointestinal tract and at distant tissue sites. Cancer is no exception, and distinct aspects of the microbiota have been reported to have either pro- or anti-tumor effects. The functional role of the microbiota in regulating not only mucosal but also systemic immune responses has led to investigations into the impact on cancer immunotherapies, particularly with agents targeting the immunologic checkpoints PD-1 and CTLA-4. Microbial sequencing and reconstitution of germ-free mice have indicated both positive and negative regulatory bacteria likely exist, which either promote or interfere with immunotherapy efficacy. These collective findings have led to the development of clinical trials pursuing microbiome-based therapeutic interventions, with the hope of expanding immunotherapy efficacy. This review summarizes recent knowledge about the relationship between the host microbiota and cancer and anti-tumor immune response, with implications for cancer therapy.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

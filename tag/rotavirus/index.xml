@@ -5,12 +5,37 @@
     <link>https://example.com/tag/rotavirus/</link>
       <atom:link href="https://example.com/tag/rotavirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Rotavirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Rotavirus</title>
       <link>https://example.com/tag/rotavirus/</link>
     </image>
+    
+    <item>
+      <title>m6A modifications regulate intestinal immunity and rotavirus infection</title>
+      <link>https://example.com/article/35098923/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35098923/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N6-methyladenosine (m6A) is an abundant mRNA modification and affects many biological processes. However, how m6A levels are regulated during physiological or pathological processes such as virus infections, and the in vivo function of m6A in the intestinal immune defense against virus infections are largely unknown. Here, we uncover a novel antiviral function of m6A modification during rotavirus (RV) infection in small bowel intestinal epithelial cells (IECs). We found that rotavirus infection induced global m6A modifications on mRNA transcripts by down-regulating the m6a eraser ALKBH5. Mice lacking the m6A writer enzymes METTL3 in IECs (&lt;em&gt;Mettl3&lt;/em&gt;ΔIEC) were resistant to RV infection and showed increased expression of interferons (IFNs) and IFN-stimulated genes (ISGs). Using RNA-sequencing and m6A RNA immuno-precipitation (RIP)-sequencing, we identified IRF7, a master regulator of IFN responses, as one of the primary m6A targets during virus infection. In the absence of METTL3, IECs showed increased &lt;em&gt;Irf7&lt;/em&gt; mRNA stability and enhanced type I and III IFN expression. Deficiency in IRF7 attenuated the elevated expression of IFNs and ISGs and restored susceptibility to RV infection in &lt;em&gt;Mettl3&lt;/em&gt;ΔIEC mice. Moreover, the global m6A modification on mRNA transcripts declined with age in mice, with a significant drop from 2 weeks to 3 weeks post birth, which likely has broad implications for the development of intestinal immune system against enteric viruses early in life. Collectively, we demonstrated a novel host m6A-IRF7-IFN antiviral signaling cascade that restricts rotavirus infection &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Entirely plasmid-based reverse genetics system for rotaviruses</title>

@@ -1006,6 +1006,31 @@
     </item>
     
     <item>
+      <title>MethReg: estimating the regulatory potential of DNA methylation in gene transcription</title>
+      <link>https://example.com/article/35100398/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35100398/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epigenome-wide association studies often detect many differentially methylated sites, and many are located in distal regulatory regions. To further prioritize these significant sites, there is a critical need to better understand the functional impact of CpG methylation. Recent studies demonstrated that CpG methylation-dependent transcriptional regulation is a widespread phenomenon. Here, we present &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt;, an R/Bioconductor package that analyzes matched DNA methylation and gene expression data, along with external transcription factor (TF) binding information, to evaluate, prioritize and annotate CpG sites with high regulatory potential. At these CpG sites, TF-target gene associations are often only present in a subset of samples with high (or low) methylation levels, so they can be missed by analyses that use all samples. Using colorectal cancer and Alzheimer&amp;rsquo;s disease datasets, we show &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt; significantly enhances our understanding of the regulatory roles of DNA methylation in complex diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>scMethBank: a database for single-cell whole genome DNA methylation maps</title>
       <link>https://example.com/article/34570235/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>

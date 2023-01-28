@@ -5,12 +5,37 @@
     <link>https://example.com/tag/gene-editing/</link>
       <atom:link href="https://example.com/tag/gene-editing/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene Editing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gene Editing</title>
       <link>https://example.com/tag/gene-editing/</link>
     </image>
+    
+    <item>
+      <title>Massively parallel knock-in engineering of human T cells</title>
+      <link>https://example.com/article/36702900/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36702900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The efficiency of targeted knock-in for cell therapeutic applications is generally low, and the scale is limited. In this study, we developed CLASH, a system that enables high-efficiency, high-throughput knock-in engineering. In CLASH, Cas12a/Cpf1 mRNA combined with pooled adeno-associated viruses mediate simultaneous gene editing and precise transgene knock-in using massively parallel homology-directed repair, thereby producing a pool of stably integrated mutant variants each with targeted gene editing. We applied this technology in primary human T cells and performed time-coursed CLASH experiments in blood cancer and solid tumor models using CD3, CD8 and CD4 T cells, enabling pooled generation and unbiased selection of favorable CAR-T variants. Emerging from CLASH experiments, a unique CRISPR RNA (crRNA) generates an exon3 skip mutant of PRDM1 in CAR-Ts, which leads to increased proliferation, stem-like properties, central memory and longevity in these cells, resulting in higher efficacy in vivo across multiple cancer models, including a solid tumor model. The versatility of CLASH makes it broadly applicable to diverse cellular and therapeutic engineering applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Precise transcript targeting by CRISPR-Csm complexes</title>

@@ -3019,6 +3019,31 @@
     </item>
     
     <item>
+      <title>MethReg: estimating the regulatory potential of DNA methylation in gene transcription</title>
+      <link>https://example.com/article/35100398/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35100398/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epigenome-wide association studies often detect many differentially methylated sites, and many are located in distal regulatory regions. To further prioritize these significant sites, there is a critical need to better understand the functional impact of CpG methylation. Recent studies demonstrated that CpG methylation-dependent transcriptional regulation is a widespread phenomenon. Here, we present &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt;, an R/Bioconductor package that analyzes matched DNA methylation and gene expression data, along with external transcription factor (TF) binding information, to evaluate, prioritize and annotate CpG sites with high regulatory potential. At these CpG sites, TF-target gene associations are often only present in a subset of samples with high (or low) methylation levels, so they can be missed by analyses that use all samples. Using colorectal cancer and Alzheimer&amp;rsquo;s disease datasets, we show &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/MethReg.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MethReg&lt;/a&gt; significantly enhances our understanding of the regulatory roles of DNA methylation in complex diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>SCANNER: a web platform for annotation, visualization and sharing of single cell RNA-seq data</title>
       <link>https://example.com/article/35134150/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
@@ -3556,6 +3581,33 @@ In both cases, the selected motifs are manually curated. Specifically, our curat
       <guid>https://example.com/article/33119759/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Taxonomic and functional research of microorganisms has increasingly relied upon genome-based data and methods. As the depository of the Global Catalogue of Microorganisms (GCM) 10K prokaryotic type strain sequencing project, &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Catalogue of Type Strain (gcType)&lt;/a&gt; has published 1049 type strain genomes sequenced by the GCM 10K project which are preserved in global culture collections with a valid published status. Additionally, the information provided through &lt;a href=&#34;http://gctype.wdcm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gcType&lt;/a&gt; includes &amp;gt;12 000 publicly available type strain genome sequences from GenBank incorporated using quality control criteria and standard data annotation pipelines to form a high-quality reference database. This database integrates type strain sequences with their phenotypic information to facilitate phenotypic and genotypic analyses. Multiple formats of cross-genome searches and interactive interfaces have allowed extensive exploration of the database&amp;rsquo;s resources. In this study, we describe web-based data analysis pipelines for genomic analyses and genome-based taxonomy, which could serve as a one-stop platform for the identification of prokaryotic species. The number of type strain genomes that are published will continue to increase as the GCM 10K project increases its collaboration with culture collections worldwide. Data of this project is shared with the International Nucleotide Sequence Database Collaboration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>intePareto: an R package for integrative analyses of RNA-Seq and ChIP-Seq data</title>
+      <link>https://example.com/article/33372591/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/33372591/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; RNA-Seq, the high-throughput sequencing (HT-Seq) of mRNAs, has become an essential tool for characterizing gene expression differences between different cell types and conditions. Gene expression is regulated by several mechanisms, including epigenetically by post-translational histone modifications which can be assessed by ChIP-Seq (Chromatin Immuno-Precipitation Sequencing). As more and more biological samples are analyzed by the combination of ChIP-Seq and RNA-Seq, the integrated analysis of the corresponding data sets becomes, theoretically, a unique option to study gene regulation. However, technically such analyses are still in their infancy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Here we introduce &lt;a href=&#34;https://cran.r-project.org/web/packages/intePareto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;intePareto&lt;/a&gt;, a computational tool for the integrative analysis of RNA-Seq and ChIP-Seq data. With &lt;a href=&#34;https://cran.r-project.org/web/packages/intePareto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;intePareto&lt;/a&gt; we match RNA-Seq and ChIP-Seq data at the level of genes, perform differential expression analysis between biological conditions, and prioritize genes with consistent changes in RNA-Seq and ChIP-Seq data using Pareto optimization.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; &lt;a href=&#34;https://cran.r-project.org/web/packages/intePareto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;intePareto&lt;/a&gt; facilitates comprehensive understanding of high dimensional transcriptomic and epigenomic data. Its superiority to a naive differential gene expression analysis with RNA-Seq and available integrative approach is demonstrated by analyzing a public dataset.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

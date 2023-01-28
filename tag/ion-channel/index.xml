@@ -247,5 +247,30 @@
 </description>
     </item>
     
+    <item>
+      <title>The volume-regulated anion channel LRRC8C suppresses T cell function by regulating cyclic dinucleotide transport and STING-p53 signaling</title>
+      <link>https://example.com/article/35105987/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35105987/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The volume-regulated anion channel (VRAC) is formed by LRRC8 proteins and is responsible for the regulatory volume decrease (RVD) after hypotonic cell swelling. Besides chloride, VRAC transports other molecules, for example, immunomodulatory cyclic dinucleotides (CDNs) including 2&#39;3&amp;rsquo;cGAMP. Here, we identify LRRC8C as a critical component of VRAC in T cells, where its deletion abolishes VRAC currents and RVD. T cells of &lt;em&gt;Lrrc8c&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice have increased cell cycle progression, proliferation, survival, Ca&lt;sup&gt;2+&lt;/sup&gt; influx and cytokine production-a phenotype associated with downmodulation of p53 signaling. Mechanistically, LRRC8C mediates the transport of 2&#39;3&amp;rsquo;cGAMP in T cells, resulting in STING and p53 activation. Inhibition of STING recapitulates the phenotype of LRRC8C-deficient T cells, whereas overexpression of p53 inhibits their enhanced T cell function. &lt;em&gt;Lrrc8c&lt;sup&gt;-/-&lt;/sup&gt;&lt;/em&gt; mice have exacerbated T cell-dependent immune responses, including immunity to influenza A virus infection and experimental autoimmune encephalomyelitis. Our results identify cGAMP uptake through LRRC8C and STING-p53 signaling as a new inhibitory signaling pathway in T cells and adaptive immunity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
