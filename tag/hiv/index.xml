@@ -247,5 +247,32 @@
 </description>
     </item>
     
+    <item>
+      <title>Conformation of HIV-1 Envelope Governs Rhesus CD4 Usage and Simian-Human Immunodeficiency Virus Replication</title>
+      <link>https://example.com/article/35012342/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35012342/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Infection of rhesus macaques with simian-human immunodeficiency viruses (SHIVs) is the preferred model system for vaccine development because SHIVs encode human immunodeficiency virus type 1 (HIV-1) envelope glycoproteins (Envs)-a key target of HIV-1 neutralizing antibodies. Since the goal of vaccines is to prevent new infections, SHIVs encoding circulating HIV-1 Env are desired as challenge viruses. Development of such biologically relevant SHIVs has been challenging, as they fail to infect rhesus macaques, mainly because most circulating HIV-1 Envs do not use rhesus CD4 (rhCD4) receptor for viral entry. Most primary HIV-1 Envs exist in a closed conformation and occasionally transit to a downstream, open conformation through an obligate intermediate conformation. Here, we provide genetic evidence that open Env conformations can overcome the rhCD4 entry barrier and increase replication of SHIVs in rhesus lymphocytes. Consistent with prior studies, we found that circulating HIV-1 Envs do not use rhCD4 efficiently for viral entry. However, by using HIV-1 Envs with single amino acid substitutions that alter their conformational state, we found that transitions to intermediate and open Env conformations allow usage of physiological levels of rhCD4 for viral entry. We engineered these single amino acid substitutions in the transmitted/founder HIV-1BG505 Envs encoded by SHIV-BG505 and found that open Env conformation enhances SHIV replication in rhesus lymphocytes. Lastly, CD4-mediated SHIV pulldown, sensitivity to soluble CD4, and fusogenicity assays indicated that open Env conformation promotes efficient rhCD4 binding and viral-host membrane fusion. These findings identify the conformational state of HIV-1 Env as a major determinant for rhCD4 usage, viral fusion, and SHIV replication.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rhesus macaques are a critical animal model for preclinical testing of HIV-1 vaccine and prevention approaches. However, HIV-1 does not replicate in rhesus macaques, and thus, chimeric simian-human immunodeficiency viruses (SHIVs), which encode HIV-1 envelope glycoproteins (Envs), are used as surrogate challenge viruses to infect rhesus macaques for modeling HIV-1 infection. Development of SHIVs encoding Envs from clinically relevant, circulating HIV-1 variants has been extremely challenging, as such SHIVs replicate poorly, if at all, in rhesus lymphocytes. This is most probably because many circulating HIV-1 Envs do not use rhesus CD4 efficiently for viral entry. In this study, we identified conformational state of HIV-1 envelope as a key determinant for rhesus CD4 usage, viral-host membrane fusion, and SHIV replication in rhesus lymphocytes.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

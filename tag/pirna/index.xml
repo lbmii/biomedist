@@ -5,12 +5,37 @@
     <link>https://example.com/tag/pirna/</link>
       <atom:link href="https://example.com/tag/pirna/index.xml" rel="self" type="application/rss+xml" />
     <description>piRNA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>piRNA</title>
       <link>https://example.com/tag/pirna/</link>
     </image>
+    
+    <item>
+      <title>piRNAs Interact with Cold-Shock Domain-Containing RNA Binding Proteins and Regulate Neuronal Gene Expression During Differentiation</title>
+      <link>https://example.com/article/34982407/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34982407/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;piRNAs (PIWI-interacting RNAs) are a class of small non-coding RNAs (ncRNAs) abundantly expressed in germline cells and involved in suppressing the transposon activity. Interestingly, recent studies have found piRNA expression in the central nervous system (CNS), yet the underlying biological significance remains largely unknown. In this study, we investigated the expression and function of piRNAs during the retinoic acid (RA)-mediated neuronal differentiation in NT2 cells, a human embryonal carcinoma cell line. We identified a cohort of differentially expressed piRNAs by microarray. Two piRNAs, DQ582359 and DQ596268, were increasingly upregulated during the RA-induced differentiation and involved in regulating the expression of neuronal markers, MAP2 and TUBB3. Furthermore, these piRNAs were found to associate with cold-shock domain (CSD)-containing RNA binding proteins, DIS3, DIS3L2, and YB-1. Markedly, overexpression of these piRNAs further enhanced the protein levels of MAP2 and TUBB3, potentially by downregulating DIS3, DIS3L2, and YB-1. Hence, our study has identified a novel somatic function of piRNAs in regulating neuronal gene expression. The interaction of piRNA with some CSD-containing proteins can be further explored to enhance neuronal differentiation to treat neurodegenerative diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Terminal modification, sequence, length, and PIWI-protein identity determine piRNA stability</title>

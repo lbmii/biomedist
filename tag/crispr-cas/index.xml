@@ -1178,6 +1178,34 @@
     </item>
     
     <item>
+      <title>CRISPRi links COVID-19 GWAS loci to LZTFL1 and RAVER1</title>
+      <link>https://example.com/article/34998241/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34998241/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; To identify host genetic variants (SNPs) associated with COVID-19 disease severity, a number of genome-wide association studies (GWAS) have been conducted. Since most of the identified variants are located at non-coding regions, such variants are presumed to affect the expression of neighbouring genes, thereby influencing COVID-19 disease severity. However, it remains largely unknown which genes are influenced by such COVID-19 GWAS loci.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; CRISPRi (interference)-mediated gene expression analysis was performed to identify genes functionally regulated by COVID-19 GWAS loci by targeting regions near the loci (SNPs) in lung epithelial cell lines. The expression of CRISPRi-identified genes was investigated using COVID-19-contracted human and monkey lung single-nucleus/cell (sn/sc) RNA-seq datasets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Findings:&lt;/em&gt; CRISPRi analysis indicated that a region near rs11385942 at chromosome 3p21.31 (locus of highest significance with COVID-19 disease severity at intron 5 of LZTFL1) significantly affected the expression of LZTFL1 (P&amp;lt;0.05), an airway cilia regulator. A region near rs74956615 at chromosome 19p13.2 (locus located at the 3&amp;rsquo; untranslated exonic region of RAVER1), which is associated with critical illness in COVID-19, affected the expression of RAVER1 (P&amp;lt;0.05), a coactivator of MDA5 (IFIH1), which induces antiviral response genes, including ICAM1. The sn/scRNA-seq datasets indicated that the MDA5/RAVER1-ICAM1 pathway was activated in lung epithelial cells of COVID-19-resistant monkeys but not those of COVID-19-succumbed humans.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Interpretation:&lt;/em&gt; Patients with risk alleles of rs11385942 and rs74956615 may be susceptible to critical illness in COVID-19 in part through weakened airway viral clearance via LZTFL1-mediated ciliogenesis and diminished antiviral immune response via the MDA5/RAVER1 pathway, respectively.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Genome-wide CRISPRi/a screens in human neurons link lysosomal failure to ferroptosis</title>
       <link>https://example.com/article/34031600/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
