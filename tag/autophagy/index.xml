@@ -5,12 +5,37 @@
     <link>https://example.com/tag/autophagy/</link>
       <atom:link href="https://example.com/tag/autophagy/index.xml" rel="self" type="application/rss+xml" />
     <description>Autophagy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Autophagy</title>
       <link>https://example.com/tag/autophagy/</link>
     </image>
+    
+    <item>
+      <title>Kirenol inhibits inflammation challenged by lipopolysaccharide through the AMPK-mTOR-ULK1 autophagy pathway</title>
+      <link>https://example.com/article/36706589/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36706589/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kirenol is a bioactive substance isolated from &lt;em&gt;Herba Siegesbeckiae&lt;/em&gt;. Although the anti-inflammatory activity of kirenol has been well documented, its role in autophagy remains unknown. The present study aimed to investigate the protective role of kirenol on inflammation challenged by lipopolysaccharide (LPS) in acute lung injury (ALI) cell and mouse models and unravel the underlying mechanisms, with a particular focus on autophagy. For this purpose, an ALI cell and mouse models were established, and the effects of kirenol on the expression of molecules related to inflammation and autophagy were examined. The present results revealed that kirenol could significantly inhibit inflammatory cytokines secretion in cells and in the mice injured by LPS; this effect may be attributed to enhanced autophagy as evidenced by the up-regulation of LC3-II and the down-regulation of p62 both in vitro and in vivo. Phosphorylated AMPK and ULK1 increased, while phosphorylated mTOR decreased in the kirenol-treated ALI cell model. Moreover, inhibition of autophagy using AMPK inhibitor or 3-MA or chloroquine (CQ) reversed the anti-inflammatory and autophagy-enhancement effects of kirenol exposure in vitro, indicating that kirenol could enhance autophagy by activating the AMPK-mTOR-ULK1 pathway. The results of RNA sequencing suggested that kirenol was strongly related to the biological functions of acute inflammatory response and the AMPK signaling pathway. Further in vivo ALI mouse model studies demonstrated the protective role of kirenol against lung inflammation, such as improved histopathology, decreased lung edema, and leukocyte infiltration were abolished by 3-MA. These findings implicate that kirenol can inhibit LPS-induced inflammation via the AMPK-mTOR-ULK1 autophagy pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>RAGE inhibition alleviates lipopolysaccharides-induced lung injury via directly suppressing autophagic apoptosis of type II alveolar epithelial cells</title>

@@ -5,12 +5,44 @@
     <link>https://example.com/tag/metabolism/</link>
       <atom:link href="https://example.com/tag/metabolism/index.xml" rel="self" type="application/rss+xml" />
     <description>Metabolism</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Metabolism</title>
       <link>https://example.com/tag/metabolism/</link>
     </image>
+    
+    <item>
+      <title>The temporal characteristics of the disruption of gut microbiota, serum metabolome, and cytokines by silica exposure in wistar rats</title>
+      <link>https://example.com/article/36706523/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36706523/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Silica exposure causes impaired lung function and lung tissue damage in wistar rats.&lt;/li&gt;
+&lt;li&gt;At different stages, the changes of intestinal microflora in rats were different after silica exposure.&lt;/li&gt;
+&lt;li&gt;Serum metabolites and disrupted multiple metabolic pathways differed after varied silica exposure exposure duration.&lt;/li&gt;
+&lt;li&gt;The inflammation-metabolite-gut microbiota interaction axis varies at different stages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Silicosis is one of the most frequent, rapidly developing, and lethal types of pneumoconiosis. However, our understanding of the underlying mechanisms of its pathogenesis and progress remains unclear. We investigated the fundamental processes of silicosis incidence and progression using a combination of lung function testing, histopathology, 16 S rRNA, untargeted metabolomics, and cytokine chips at different exposure times (4 or 8 weeks). The results show that silica exposure damages lung tissue reduces lung function, and increases with time. Cytokines with time-specific properties were found in lung lavage fluid: IFN-γ (4 weeks; _P_＜0.05), TNF-α, M-CSF, GM-CSF (8 weeks; _P_＜0.01). In addition, silica exposure for different periods interferes to varying degrees with the metabolism of lipids. The composition of the intestinal microbiota changed with increasing exposure time and there were time-specific: &lt;em&gt;Allobaculum&lt;/em&gt;, &lt;em&gt;Turicibacter&lt;/em&gt;、 &lt;em&gt;Jeotgalicoccu&lt;/em&gt;、 &lt;em&gt;Coprococcus 1&lt;/em&gt; (4 weeks; _P_＜0.05), &lt;em&gt;Ruminococcaceae NK4A214 group&lt;/em&gt;、 &lt;em&gt;Ruminiclostridium 5&lt;/em&gt; (8 weeks; _P_＜0.05). We found strong associations between cytokines, gut microbiota changes, and metabolic disturbances at different exposure times. These results suggest that time-specific changes in crosstalk among cytokines, the gut microbiota, and metabolites may be a potential mechanism for silica-induced lung injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Activation of NLRP3 inflammasome in lung epithelial cells triggers radiation-induced lung injury</title>

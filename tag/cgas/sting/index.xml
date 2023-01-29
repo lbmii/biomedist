@@ -766,5 +766,32 @@
 </description>
     </item>
     
+    <item>
+      <title>STING-Mediated Interferon Induction by Herpes Simplex Virus 1 Requires the Protein Tyrosine Kinase Syk</title>
+      <link>https://example.com/article/34933455/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34933455/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The nature and the intensity of innate immune response to virus infection determine the course of pathogenesis in the host. Among the many pathogen-associated molecular pattern recognition receptors, STING, an endoplasmic reticulum (ER)-associated protein, plays a pivotal role in triggering responses to microbial or cellular cytoplasmic DNA. Herpes simplex virus 1 (HSV-1), a common human pathogen, activates STING signaling, and the resultant induction of type I interferon causes inhibition of virus replication. In this context, we have observed that phosphorylation of Tyr245 of STING by epidermal growth factor receptor kinase is necessary for interferon induction. Here, we report that phosphorylation of Tyr240 by the tyrosine kinase Syk is essential for all signaling activities of STING. Our analysis showed that upon ligand-binding, STING dimerizes and interacts with membrane-bound EGFR, which autophosphorylates and provides the platform for the recruitment of cytoplasmic Syk to the signaling complex and its activation. Activated Syk phosphorylates Tyr240 of STING, followed by phosphorylation of Tyr245 by epidermal growth factor receptor (EGFR). Pharmacological or genetic ablation of Syk activity resulted in an arrest of STING in the ER compartment and a complete block of gene induction. Consequently, in the absence of Syk, HSV-1 could not induce interferon, and it replicated more robustly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The innate immune response to virus infection leads to interferon production and inhibition of viral replication. STING, an ER-bound protein, mediates such a response to cytoplasmic cellular or microbial DNA. HSV-1, a DNA virus, activates STING, and it replicates more efficiently in the absence of STING signaling. We demonstrate that phosphorylation of Tyr240 of STING by the protein tyrosine kinase Syk is essential for STING-mediated gene induction. To signal, ligand-activated STING recruits two kinases, Syk and EGFR, which phosphorylate Tyr240 and Tyr245, respectively. The dependence of STING signaling on Syk has broad significance, because STING plays a major role in many microbial, mitochondrial, and autoimmune diseases as well as in cancer development and therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
