@@ -155,6 +155,204 @@
     </item>
     
     <item>
+      <title>Gene annotation of GPL16686 with R</title>
+      <link>https://example.com/blog/2022-12-25-gpl16570/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2022-12-25-gpl16570/</guid>
+      <description>&lt;p&gt;Commomly, researchers have developed many R packages for gene annotation and host them in &lt;a href=&#34;https://www.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. For most data series from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCBI Gene Expression Omnibus (GEO)&lt;/a&gt;, we can find annotation packages. Yet, we may encounter with some data series without such packages, such as &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE65783&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;Previously, 4 ways to 👉&lt;u&gt;&lt;em&gt;&lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/u&gt; were introduced, which can be accessed by clicking the name underlined and in italic.&lt;/p&gt;
+&lt;p&gt;Here shares are the scripts for gene annotation of data series &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE65783&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; from GEO.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;rm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;list&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;ls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;())&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load R packages&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GEOquery&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;clusterProfiler&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;org.Mm.eg.db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load GEO platform data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gseID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GSE65783&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# platformID &amp;lt;- &amp;#34;GPL16570&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;load&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;paste0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gseID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;.GPL.Rdata&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# check gpl with View() OR head()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# result of View() shown in Figure 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;View&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ID&amp;#34;&lt;/span&gt;                    &lt;span class=&#34;s&#34;&gt;&amp;#34;probeset_id&amp;#34;&lt;/span&gt;           &lt;span class=&#34;s&#34;&gt;&amp;#34;SPOT_ID&amp;#34;&lt;/span&gt;               &lt;span class=&#34;s&#34;&gt;&amp;#34;seqname&amp;#34;&lt;/span&gt;               &lt;span class=&#34;s&#34;&gt;&amp;#34;strand&amp;#34;&lt;/span&gt;                &lt;span class=&#34;s&#34;&gt;&amp;#34;start&amp;#34;&lt;/span&gt;        
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[7]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;stop&amp;#34;&lt;/span&gt;                  &lt;span class=&#34;s&#34;&gt;&amp;#34;total_probes&amp;#34;&lt;/span&gt;          &lt;span class=&#34;s&#34;&gt;&amp;#34;gene_assignment&amp;#34;&lt;/span&gt;       &lt;span class=&#34;s&#34;&gt;&amp;#34;mrna_assignment&amp;#34;&lt;/span&gt;       &lt;span class=&#34;s&#34;&gt;&amp;#34;swissprot&amp;#34;&lt;/span&gt;             &lt;span class=&#34;s&#34;&gt;&amp;#34;unigene&amp;#34;&lt;/span&gt;      
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[13]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GO_biological_process&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GO_cellular_component&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GO_molecular_function&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;pathway&amp;#34;&lt;/span&gt;               &lt;span class=&#34;s&#34;&gt;&amp;#34;protein_domains&amp;#34;&lt;/span&gt;       &lt;span class=&#34;s&#34;&gt;&amp;#34;crosshyb_type&amp;#34;&lt;/span&gt;        
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[19]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;category&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-result-of-viewgpl&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Result of View(gpl)&#34; srcset=&#34;
+               /media/res-view-GPL16570_hue7cb36991408f54d2ea2d0ce1cd2d913_167131_76e11e93a04c49f208dbbc1f22d18350.webp 400w,
+               /media/res-view-GPL16570_hue7cb36991408f54d2ea2d0ce1cd2d913_167131_d2978be2e0ae5d5fd91aa32a49fbebb2.webp 760w,
+               /media/res-view-GPL16570_hue7cb36991408f54d2ea2d0ce1cd2d913_167131_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/res-view-GPL16570_hue7cb36991408f54d2ea2d0ce1cd2d913_167131_76e11e93a04c49f208dbbc1f22d18350.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;436&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Result of View(gpl)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;look through the result table and look up gene IDs. In Figure 1, we will find genes, including Gene Symbols and ENTREZ IDs, in &lt;code&gt;Column 9&lt;/code&gt; with column name of &lt;code&gt;gene_assignment&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Extract required infornmations conaining probe IDs and Genes.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl[&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Delete columns without genes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl_Sense[gpl_Sense[&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;!=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;---&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;View&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-result-of-selected-gpl&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Result of Selected gpl&#34; srcset=&#34;
+               /media/res-view-GPL16570_Sense_hub755bf2a927c65bd537477cd590f1577_147934_e38744256e7938ca75ed007c9963ca82.webp 400w,
+               /media/res-view-GPL16570_Sense_hub755bf2a927c65bd537477cd590f1577_147934_573ac33980bc81f96a8f47f6caae86bd.webp 760w,
+               /media/res-view-GPL16570_Sense_hub755bf2a927c65bd537477cd590f1577_147934_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/res-view-GPL16570_Sense_hub755bf2a927c65bd537477cd590f1577_147934_e38744256e7938ca75ed007c9963ca82.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;587&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Result of Selected gpl
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Defined a function to extract genes from &lt;code&gt;Column 9&lt;/code&gt;, namely, &lt;code&gt;gene_assignment&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;geneEXT&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;df&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sep&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;//&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stringr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;genelists&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nf&#34;&gt;for &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;nrow&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;df&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;split_i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;str_split&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;df[i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gene_assignment&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sep&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;simplify&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;gene_i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;split_i&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;[length&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;split_i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# Extract the last element (ENTREZID)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;genelists[i]&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gene_i&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# Create a Gene vector&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nf&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;genelists&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Extract genes with the self-defined function above&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;geneSUM&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;geneEXT&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sep&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;// &amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Generate pre-ids data frame&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;data.frame&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;geneSUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210855&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;18777&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210869&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;21399&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210887&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;108664&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210904&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;18387&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210912&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;12421&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210947&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;620393&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Now, ids_V0 contains probe IDS genes in &lt;code&gt;ENTREZID&lt;/code&gt; format but not displayed as &lt;code&gt;SYMBOL&lt;/code&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Convert ENTREZID to gene SYMBOL&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;geneSYMBOL&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;bitr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;geneSUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                   &lt;span class=&#34;n&#34;&gt;fromType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;ENTREZID&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                   &lt;span class=&#34;n&#34;&gt;toType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;SYMBOL&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                   &lt;span class=&#34;n&#34;&gt;OrgDb&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;org.Mm.eg.db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s&#34;&gt;&amp;#39;select()&amp;#39;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;returned&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;mapping&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;between&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;keys&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;columns&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Warning&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;message&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;In&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;bitr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;geneSUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fromType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ENTREZID&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;toType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;SYMBOL&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;OrgDb&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;org.Mm.eg.db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;m&#34;&gt;2.79&lt;/span&gt;% &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gene&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;IDs&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;are&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fail&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;map...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;geneSYMBOL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# OR View(geneSYMBOL)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;SYMBOL&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;18777&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Lypla1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;21399&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;Tcea1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;108664&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Atp6v1h&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;18387&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;Oprk1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;12421&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Rb1cc1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;620393&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Alkal1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;Pay attention to the &lt;u&gt;&lt;strong&gt;Warning message&lt;/strong&gt;&lt;/u&gt; when running bitr().&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;&lt;strong&gt;2.79% of input gene IDs are fail to map&amp;hellip;&lt;/strong&gt;&lt;/u&gt; means probes without annotation exist.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Now we have got &lt;font color = &#34;#01B468&#34;&gt;&lt;strong&gt;genes as &lt;u&gt;SYMBOLs&lt;/u&gt;&lt;/strong&gt;&lt;/font&gt;, but they are in different tables with probes. So we need to merge them together.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# check the data type of probes and genes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;geneSYMBOL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;data.frame&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;data.frame&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# merge two data frames of probes and genes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ids_V0[ids_V0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%in%&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;geneSYMBOL&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;merge&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;geneSYMBOL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;             &lt;span class=&#34;n&#34;&gt;by&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;ENTREZID&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt;        &lt;span class=&#34;n&#34;&gt;SYMBOL&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;100009600&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17524590&lt;/span&gt;         &lt;span class=&#34;n&#34;&gt;Zglp1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;100009609&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17493037&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;Vmn2r65&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;100009614&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17234709&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;Gm10024&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;100009664&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17248721&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;F630206G17Rik&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;100012&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17432514&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;Oog3&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;100017&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17431350&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;Ldlrap1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;dim&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;26283&lt;/span&gt;     &lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finish with saving ids as &lt;code&gt;Rdata&lt;/code&gt;, which can be loaded with &lt;code&gt;Load()&lt;/code&gt; quickly.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;save&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ids.Rdata&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Combining genome-wide association studies highlight novel loci involved in human facial variation</title>
       <link>https://example.com/article/36565798/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
@@ -185,7 +383,7 @@
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/blog/2022-12-09-gpl16686/</guid>
       <description>&lt;p&gt;Commomly, researchers have developed many R packages for gene annotation and host them in &lt;a href=&#34;https://www.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. For most data series from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCBI Gene Expression Omnibus (GEO)&lt;/a&gt;, we can find annotation packages. Yet, we may encounter with some data series without such packages, such as &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;GSE179445&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;.&lt;/p&gt;
-&lt;p&gt;Previously, 4 ways to 👉&lt;u&gt;&lt;em&gt;&lt;a href=&#34;https://example.com/blog/2022-11-01-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/u&gt; were introduced, which can be accessed by clicking the name underlined and in italic.&lt;/p&gt;
+&lt;p&gt;Previously, 4 ways to 👉&lt;u&gt;&lt;em&gt;&lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/u&gt; were introduced, which can be accessed by clicking the name underlined and in italic.&lt;/p&gt;
 &lt;p&gt;Here shares are the scripts for gene annotation of data series &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;GSE179445&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; from GEO.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;rm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;list&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;ls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;())&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -1246,7 +1444,7 @@
   
     
     
-    &lt;tr&gt;  &lt;th&gt;&lt;/th&gt;  &lt;th&gt;GPL&lt;/th&gt;  &lt;th&gt;Organism&lt;/th&gt;  &lt;th&gt;Bioc_Package&lt;/th&gt;  &lt;th&gt;&lt;/th&gt;  &lt;th&gt;Chip_Name&lt;/th&gt;  &lt;/tr&gt;
+    &lt;tr&gt;  &lt;th&gt;&lt;/th&gt;  &lt;th&gt;GPL&lt;/th&gt;  &lt;th&gt;Organism&lt;/th&gt;  &lt;th&gt;Bioc_Package&lt;/th&gt;  &lt;th&gt;Chip_Name&lt;/th&gt;  &lt;/tr&gt;
   
   
     &lt;tr&gt;
@@ -1265,10 +1463,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74a.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1296,10 +1490,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74B] Affymetrix Murine Genome U74B Array&lt;/td&gt;
         
       
@@ -1321,10 +1511,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74c.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1352,10 +1538,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HC_G110] Affymetrix Human Cancer Array&lt;/td&gt;
         
       
@@ -1377,10 +1559,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mu11ksuba.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1408,10 +1586,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[Mu11KsubB] Affymetrix Murine 11K SubB Array&lt;/td&gt;
         
       
@@ -1433,10 +1607,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mu19ksuba.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1464,10 +1634,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[Mu19KsubB] Affymetrix Murine 19K SubB Array&lt;/td&gt;
         
       
@@ -1489,10 +1655,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mu19ksubc.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1520,10 +1682,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu6800] Affymetrix Human Full Length HuGeneFL Array&lt;/td&gt;
         
       
@@ -1545,10 +1703,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74av2.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1576,10 +1730,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74Bv2] Affymetrix Murine Genome U74B Version 2 Array&lt;/td&gt;
         
       
@@ -1601,10 +1751,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74cv2.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1632,10 +1778,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[RG_U34A] Affymetrix Rat Genome U34 Array&lt;/td&gt;
         
       
@@ -1657,10 +1799,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;rgu34b.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1688,10 +1826,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[RG_U34C] Affymetrix Rat Genome U34 Array&lt;/td&gt;
         
       
@@ -1713,10 +1847,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;rnu34.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1744,10 +1874,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[RT_U34] Affymetrix Rat Toxicology U34 Array&lt;/td&gt;
         
       
@@ -1769,10 +1895,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95av2.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1800,10 +1922,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95B] Affymetrix Human Genome U95B Array&lt;/td&gt;
         
       
@@ -1825,10 +1943,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95c.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1856,10 +1970,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95D] Affymetrix Human Genome U95D Array&lt;/td&gt;
         
       
@@ -1881,10 +1991,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95e.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1912,10 +2018,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U133A] Affymetrix Human Genome U133A Array&lt;/td&gt;
         
       
@@ -1937,10 +2039,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hgu133b.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -1968,10 +2066,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu35KsubA] Affymetrix Human 35K SubA Array&lt;/td&gt;
         
       
@@ -1993,10 +2087,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hu35ksubb.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2024,10 +2114,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu35KsubC] Affymetrix Human 35K SubC Array&lt;/td&gt;
         
       
@@ -2049,10 +2135,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hu35ksubd.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2080,10 +2162,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-Focus] Affymetrix Human HG-Focus Target Array&lt;/td&gt;
         
       
@@ -2105,10 +2183,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;moe430a.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2136,10 +2210,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[MOE430B] Affymetrix Mouse Expression 430B Array&lt;/td&gt;
         
       
@@ -2161,10 +2231,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;rae230a.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2192,10 +2258,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[RAE230B] Affymetrix Rat Expression 230B Array&lt;/td&gt;
         
       
@@ -2217,10 +2279,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hgu133plus2.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2248,10 +2306,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array&lt;/td&gt;
         
       
@@ -2273,10 +2327,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hgug4111a.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2304,10 +2354,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-012097 Human 1A Microarray (V2) G4110B (Feature Number version)&lt;/td&gt;
         
       
@@ -2329,10 +2375,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;mouse430a2.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2360,10 +2402,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[U133_X3P] Affymetrix Human X3P Array&lt;/td&gt;
         
       
@@ -2385,10 +2423,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;rat2302.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2416,10 +2450,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-012391 Whole Human Genome Oligo Microarray G4112A (Feature Number version)&lt;/td&gt;
         
       
@@ -2441,10 +2471,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;h20kcod.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2472,10 +2498,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;GE Healthcare/Amersham Biosciences CodeLink? ADME Rat 16-Assay Bioarray&lt;/td&gt;
         
       
@@ -2497,10 +2519,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hthgu133a.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2528,10 +2546,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;CodeLink UniSet Human I Bioarray&lt;/td&gt;
         
       
@@ -2553,10 +2567,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hgug4100a.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2584,10 +2594,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina human-6 v1.0 expression beadchip&lt;/td&gt;
         
       
@@ -2609,10 +2615,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;illuminaHumanv2.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2640,10 +2642,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version]&lt;/td&gt;
         
       
@@ -2665,10 +2663,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;illuminaHumanv3.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2696,10 +2690,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array&lt;/td&gt;
         
       
@@ -2721,10 +2711,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;IlluminaHumanMethylation27k.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2752,10 +2738,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina HumanHT-12 V4.0 expression beadchip&lt;/td&gt;
         
       
@@ -2777,10 +2759,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hugene11sttranscriptcluster.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2808,10 +2786,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version)&lt;/td&gt;
         
       
@@ -2833,10 +2807,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;IlluminaHumanMethylation450k.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2864,10 +2834,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U219] Affymetrix Human Genome U219 Array&lt;/td&gt;
         
       
@@ -2889,10 +2855,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;GGHumanMethCancerPanelv1.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
@@ -2920,10 +2882,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HT_HG-U133B] Affymetrix HT Human Genome U133B Array [custom CDF: ENTREZ brainarray v. 14]&lt;/td&gt;
         
       
@@ -2933,6 +2891,30 @@
       
         
           &lt;td data-table-dtype=&#34;number&#34;&gt;61&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL16570&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPL16570&lt;/a&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;font color=&#34;red&#34;&gt;&lt;em&gt;No bioconductor package availabe&lt;/em&gt;&lt;/font&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MoGene-2_0-st] Affymetrix Mouse Gene 2.0 ST Array [transcript (gene) version]&lt;a href=&#34;../2022-12-25-GPL16570/&#34;&gt;R Code Annotation&lt;/a&gt;&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;62&lt;/td&gt;
         
       
         
@@ -2948,10 +2930,6 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
-        
-      
-        
           &lt;td data-table-dtype=&#34;text&#34;&gt;[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version] &lt;a href=&#34;../2022-12-09-gpl16686/&#34;&gt;R Code Annotation&lt;/a&gt;&lt;/td&gt;
         
       
@@ -2960,7 +2938,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;62&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;63&lt;/td&gt;
         
       
         
@@ -2973,10 +2951,6 @@
       
         
           &lt;td data-table-dtype=&#34;text&#34;&gt;hthgu133a.db&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
         
       
         
