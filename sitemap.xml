@@ -218,9 +218,13 @@
   <url>
     <loc>https://example.com/article/36682013/</loc><lastmod>2023-01-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/blog/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/circadian-rhythm/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36690266/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/data-mining/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36668816/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -232,11 +236,17 @@
   <url>
     <loc>https://example.com/tag/extracellular-vesicles/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/blog/2022-12-25-gpl16570/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/heart/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36670290/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/immunotherapy/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/programming/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/r/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36657813/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -393,8 +403,6 @@
     <loc>https://example.com/tag/data-science/</loc><lastmod>2023-01-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/data-visualization/</loc><lastmod>2023-01-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/programming/</loc><lastmod>2023-01-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/python/</loc><lastmod>2023-01-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -700,8 +708,6 @@
   <url>
     <loc>https://example.com/article/36599300/</loc><lastmod>2023-01-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/r/</loc><lastmod>2023-01-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/tag/respiratory-syncytial-virus/</loc><lastmod>2023-01-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/hep.0000000000000186/</loc><lastmod>2023-01-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -715,8 +721,6 @@
     <loc>https://example.com/article/36594089/</loc><lastmod>2023-01-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/vsolassobag/</loc><lastmod>2023-01-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/blog/</loc><lastmod>2023-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/cell-communication/</loc><lastmod>2023-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -863,10 +867,6 @@
     <loc>https://example.com/article/36571572/</loc><lastmod>2022-12-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36567344/</loc><lastmod>2022-12-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/data-mining/</loc><lastmod>2022-12-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/blog/2022-12-25-gpl16570/</loc><lastmod>2022-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36566209/</loc><lastmod>2022-12-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

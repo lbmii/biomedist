@@ -5,7 +5,7 @@
     <link>https://example.com/tag/data-mining/</link>
       <atom:link href="https://example.com/tag/data-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Mining</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Data Mining</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Gene annotation of GPL16686 with R</title>
+      <title>Gene annotation of GPL16570 with R</title>
       <link>https://example.com/blog/2022-12-25-gpl16570/</link>
-      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/blog/2022-12-25-gpl16570/</guid>
       <description>&lt;p&gt;Commomly, researchers have developed many R packages for gene annotation and host them in &lt;a href=&#34;https://www.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. For most data series from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCBI Gene Expression Omnibus (GEO)&lt;/a&gt;, we can find annotation packages. Yet, we may encounter with some data series without such packages, such as &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE65783&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;.&lt;/p&gt;
 &lt;p&gt;Previously, 4 ways to 👉&lt;u&gt;&lt;em&gt;&lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/u&gt; were introduced, which can be accessed by clicking the name underlined and in italic.&lt;/p&gt;
