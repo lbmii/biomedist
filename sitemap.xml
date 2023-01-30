@@ -172,11 +172,17 @@
   <url>
     <loc>https://example.com/article/36694467/</loc><lastmod>2023-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/blog/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36694464/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/coronavirus/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/tag/data-mining/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36693372/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/blog/2023-01-23-gpl10787/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36683074/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -188,11 +194,17 @@
   <url>
     <loc>https://example.com/article/36690762/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/tag/programming/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/r/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/article/36688918/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/vaccines/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/virology/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/blog/2023-01-22-gpl15887/</loc><lastmod>2023-01-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36690281/</loc><lastmod>2023-01-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -218,13 +230,9 @@
   <url>
     <loc>https://example.com/article/36682013/</loc><lastmod>2023-01-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/tag/circadian-rhythm/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36690266/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/data-mining/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36668816/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -236,17 +244,13 @@
   <url>
     <loc>https://example.com/tag/extracellular-vesicles/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/2022-12-25-gpl16570/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/blog/2023-01-20-gpl16570/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/heart/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36670290/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/immunotherapy/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/programming/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/r/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36657813/</loc><lastmod>2023-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1490,7 +1494,7 @@
   <url>
     <loc>https://example.com/article/36344490/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/blog/2022-11-07-peobe-re-annot-seqmap/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/article/36344775/</loc><lastmod>2022-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

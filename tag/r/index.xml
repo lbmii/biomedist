@@ -5,7 +5,7 @@
     <link>https://example.com/tag/r/</link>
       <atom:link href="https://example.com/tag/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>R</title>
@@ -13,10 +13,262 @@
     </image>
     
     <item>
+      <title>Gene annotation of GPL10787 with R</title>
+      <link>https://example.com/blog/2023-01-23-gpl10787/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2023-01-23-gpl10787/</guid>
+      <description>&lt;p&gt;Commomly, researchers have developed many R packages for gene annotation and host them in &lt;a href=&#34;https://www.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. For most data series from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCBI Gene Expression Omnibus (GEO)&lt;/a&gt;, we can find annotation packages. Yet, we may encounter with some data series without such packages, such as &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE94522&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;Previously, 4 ways to 👉&lt;u&gt;&lt;em&gt;&lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/u&gt; were introduced, which can be accessed by clicking the name underlined and in italic.&lt;/p&gt;
+&lt;p&gt;Here shares are the scripts for gene annotation of data series &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE94522&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; from GEO.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;rm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;list&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;ls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;())&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load R packages&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# library(GEOquery)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# library(clusterProfiler)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# library(org.Mm.eg.db)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load GEO platform data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gseID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GSE94522&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# platformID &amp;lt;- &amp;#34;GPL10787&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;load&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;paste0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gseID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;.GPL.Rdata&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# check gpl with View() OR head()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# result of View() shown in Figure 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;View&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ID&amp;#34;&lt;/span&gt;           &lt;span class=&#34;s&#34;&gt;&amp;#34;SPOT_ID&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;CONTROL_TYPE&amp;#34;&lt;/span&gt;   &lt;span class=&#34;s&#34;&gt;&amp;#34;REFSEQ&amp;#34;&lt;/span&gt;             &lt;span class=&#34;s&#34;&gt;&amp;#34;GB_ACC&amp;#34;&lt;/span&gt;                &lt;span class=&#34;s&#34;&gt;&amp;#34;GENE&amp;#34;&lt;/span&gt;            &lt;span class=&#34;s&#34;&gt;&amp;#34;GENE_SYMBOL&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;GENE_NAME&amp;#34;&lt;/span&gt;           
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[9]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;UNIGENE_ID&amp;#34;&lt;/span&gt;   &lt;span class=&#34;s&#34;&gt;&amp;#34;ENSEMBL_ID&amp;#34;&lt;/span&gt;     &lt;span class=&#34;s&#34;&gt;&amp;#34;TIGR_ID&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;ACCESSION_STRING&amp;#34;&lt;/span&gt;   &lt;span class=&#34;s&#34;&gt;&amp;#34;CHROMOSOMAL_LOCATION&amp;#34;&lt;/span&gt;  &lt;span class=&#34;s&#34;&gt;&amp;#34;CYTOBAND&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;DESCRIPTION&amp;#34;&lt;/span&gt;        &lt;span class=&#34;s&#34;&gt;&amp;#34;GO_ID&amp;#34;&lt;/span&gt;               
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[17]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;SEQUENCE&amp;#34;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-result-of-viewgpl&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;res-view-GPL10787.png&#34; alt=&#34;Result of View(gpl)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Result of View(gpl)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;look through the result table and look up gene IDs. In Figure 1, we will find genes in &lt;code&gt;Column 5-10&lt;/code&gt; in different formats. In addition, we will see probes for CONTROLs both POSITIVE and NEGATIVE as labeled in &lt;code&gt;Column 3&lt;/code&gt; with column named with &lt;code&gt;CONTROL_TYPE&lt;/code&gt;. Just delete them as below:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Delete probes for controls&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl[gpl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CONTROL_TYPE&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;FALSE&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;For gene annotation, probe IDs and genes are sufficient. So we need to extract these columns and delete unwanted ones. Here, we extract columns named with &lt;code&gt;ID (Column 1)&lt;/code&gt;, &lt;code&gt;GENE (Column 6)&lt;/code&gt; and &lt;code&gt;GENE_SYMBOL (Column 7)&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Delete unwanted columns&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl[&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;               &lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GENE&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;GENE_SYMBOL&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;12&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_30_P01017425&lt;/span&gt;   &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;            
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;13&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_30_P01017426&lt;/span&gt;   &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;            
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;14&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_30_P01017427&lt;/span&gt;   &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;            
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;15&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_30_P01017428&lt;/span&gt;   &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;            
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;16&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_30_P01017429&lt;/span&gt;   &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;            
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;17&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_30_P01017430&lt;/span&gt;   &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Delete NAs and Generate ids&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;na.omit&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Check for blanks&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;is.na&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;99735&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Rename the columns of ids&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#39;probe_id&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;ENTREZID&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;SYMBOL&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;duplicated&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;SYMBOL&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;16263&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_51_P100034&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;69674&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Mif4gd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;16264&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_51_P100174&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;17427&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;Mns1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;16265&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_51_P100208&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;330908&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Opcml&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;16266&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_51_P100289&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;20807&lt;/span&gt;    &lt;span class=&#34;n&#34;&gt;Srf&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;16267&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_51_P100298&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;20908&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;Stx3&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;16268&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;A_51_P100309&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;18390&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Oprm1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ids[&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-2&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finish with saving ids as &lt;code&gt;Rdata&lt;/code&gt;, which can be loaded with &lt;code&gt;Load()&lt;/code&gt; quickly.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;save&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ids.Rdata&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Gene annotation of GPL15887 with R</title>
+      <link>https://example.com/blog/2023-01-22-gpl15887/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2023-01-22-gpl15887/</guid>
+      <description>&lt;p&gt;Commomly, researchers have developed many R packages for gene annotation and host them in &lt;a href=&#34;https://www.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. For most data series from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCBI Gene Expression Omnibus (GEO)&lt;/a&gt;, we can find annotation packages. Yet, we may encounter with some data series without such packages, such as &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100900&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE100900&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;Previously, 4 ways to 👉&lt;u&gt;&lt;em&gt;&lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/u&gt; were introduced, which can be accessed by clicking the name underlined and in italic.&lt;/p&gt;
+&lt;p&gt;Here shares are the scripts for gene annotation of data series &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100900&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE100900&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; from GEO.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;rm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;list&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;ls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;())&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load R packages&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GEOquery&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;clusterProfiler&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;org.Mm.eg.db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# load GEO platform data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gseID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;GSE100900&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# platformID &amp;lt;- &amp;#34;GPL15887&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;load&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;paste0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gseID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;.GPL.Rdata&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# check gpl with View() OR head()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# result of View() shown in Figure 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;View&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ID&amp;#34;&lt;/span&gt;          &lt;span class=&#34;s&#34;&gt;&amp;#34;GB_ACC&amp;#34;&lt;/span&gt;      &lt;span class=&#34;s&#34;&gt;&amp;#34;DESCRIPTION&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;SPOT_ID&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-result-of-viewgpl&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;res-view-GPL15887.png&#34; alt=&#34;Result of View(gpl)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Result of View(gpl)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;look through the result table and look up gene IDs. In Figure 1, we will find genes in &lt;code&gt;Column 2&lt;/code&gt; with column name of &lt;code&gt;GB_ACC&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Extract required infornmations conaining probe IDs and Genes.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;bitr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GB_ACC&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;n&#34;&gt;fromType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ACCNUM&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;n&#34;&gt;toType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;SYMBOL&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;ENTREZID&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;n&#34;&gt;OrgDb&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;org.Mm.eg.db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s&#34;&gt;&amp;#39;select()&amp;#39;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;returned&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;many&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;mapping&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;between&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;keys&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;columns&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Warning&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;message&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;In&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;bitr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GB_ACC&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fromType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ACCNUM&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;toType&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;SYMBOL&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ENTREZID&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;m&#34;&gt;17.96&lt;/span&gt;% &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gene&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;IDs&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;are&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fail&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;map...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;ACCNUM&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;SYMBOL&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB000096&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Gata2&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;14461&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB000490&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Nr5a1&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;26423&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001425&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Stard9&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;668880&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001435&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;Kif7&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;16576&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001539&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Grwd1&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;101612&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001750&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Rabep1&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;54189&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;Pay attention to the &lt;u&gt;&lt;strong&gt;Warning message&lt;/strong&gt;&lt;/u&gt; when running bitr().&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;&lt;strong&gt;17.96% of input gene IDs are fail to map&amp;hellip;&lt;/strong&gt;&lt;/u&gt; means probes without annotation exist.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Delete duplicated probes&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;duplicated&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ACCNUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt;  &lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;36240&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;49&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gene.Entrezid[&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;duplicated&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ACCNUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;duplicated&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ACCNUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;36240&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Extract annotated probes&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;probes.sense&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl[gpl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;GB_ACC&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%in%&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ACCNUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probes.sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ID&amp;#34;&lt;/span&gt;          &lt;span class=&#34;s&#34;&gt;&amp;#34;GB_ACC&amp;#34;&lt;/span&gt;      &lt;span class=&#34;s&#34;&gt;&amp;#34;DESCRIPTION&amp;#34;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;SPOT_ID&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Delete unwanted columns&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;probes.sense&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;probes.sense[&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probes.sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ID&amp;#34;&lt;/span&gt;     &lt;span class=&#34;s&#34;&gt;&amp;#34;GB_ACC&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;dim&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probes.sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;36240&lt;/span&gt;     &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;dim&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;36240&lt;/span&gt;     &lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Rename the columns of probes table and generate ids data frame&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Rename the columns of probes table&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;colnames&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probes.sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;probe_id&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ACCNUM&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Generate ids&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;merge&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probes.sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gene.Entrezid&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;by&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ACCNUM&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;ACCNUM&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;SYMBOL&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB000096&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB000096&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Gata2&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;14461&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB000490&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB000490&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Nr5a1&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;26423&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001425&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001425&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Stard9&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;668880&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001435&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001435&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;Kif7&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;16576&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001539&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001539&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;Grwd1&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;101612&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001750&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AB001750&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Rabep1&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;54189&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;dim&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;36240&lt;/span&gt;     &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finish with saving ids as &lt;code&gt;Rdata&lt;/code&gt;, which can be loaded with &lt;code&gt;Load()&lt;/code&gt; quickly.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;save&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ids.Rdata&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/blog/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Blog &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Gene annotation of GPL16570 with R</title>
-      <link>https://example.com/blog/2022-12-25-gpl16570/</link>
+      <link>https://example.com/blog/2023-01-20-gpl16570/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/2022-12-25-gpl16570/</guid>
+      <guid>https://example.com/blog/2023-01-20-gpl16570/</guid>
       <description>&lt;p&gt;Commomly, researchers have developed many R packages for gene annotation and host them in &lt;a href=&#34;https://www.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. For most data series from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCBI Gene Expression Omnibus (GEO)&lt;/a&gt;, we can find annotation packages. Yet, we may encounter with some data series without such packages, such as &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE65783&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;.&lt;/p&gt;
 &lt;p&gt;Previously, 4 ways to 👉&lt;u&gt;&lt;em&gt;&lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/u&gt; were introduced, which can be accessed by clicking the name underlined and in italic.&lt;/p&gt;
 &lt;p&gt;Here shares are the scripts for gene annotation of data series &lt;font color = &#34;#FF00FF&#34;&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSE65783&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; from GEO.&lt;/p&gt;
@@ -119,7 +371,11 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Extract genes with the self-defined function above&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;geneSUM&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;geneEXT&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sep&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;// &amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Generate pre-ids data frame&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;data.frame&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;nrow&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;length&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;geneSUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;data.frame&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;gpl_Sense&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ID&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;n&#34;&gt;ENTREZID&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;geneSUM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
@@ -130,6 +386,12 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210904&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;18387&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210912&lt;/span&gt;    &lt;span class=&#34;m&#34;&gt;12421&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;17210947&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;620393&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ids_V0[ids_V0[&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;!=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;---&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;duplicated&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids_V0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;probe_id&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Result:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kc&#34;&gt;FALSE&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;29435&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Now, ids_V0 contains probe IDS genes in &lt;code&gt;ENTREZID&lt;/code&gt; format but not displayed as &lt;code&gt;SYMBOL&lt;/code&gt;.
@@ -552,14 +814,14 @@
     </item>
     
     <item>
-      <title>Gene probes re-annotation with SeqMap and R</title>
-      <link>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</link>
+      <title>Gene probes re-annotation with SeqMap and R (GPL10558)</title>
+      <link>https://example.com/blog/2022-11-07-peobe-re-annot-seqmap/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</guid>
+      <guid>https://example.com/blog/2022-11-07-peobe-re-annot-seqmap/</guid>
       <description>&lt;h4 id=&#34;font-color--019858preparation-workfont&#34;&gt;&lt;font color = &#34;#019858&#34;&gt;&lt;strong&gt;Preparation Work:&lt;/strong&gt;&lt;/font&gt;&lt;/h4&gt;
 &lt;p&gt;Before starting for re-annotation, preparatory work includes:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Download probe annotation table from GEO (See how in &lt;a href=&#34;https://example.com/blog/2022-12-09-gpl16686/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Download probe annotation table from GEO (See how in &lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Download genome annotation file from GENCODE (See how in &lt;a href=&#34;https://example.com/blog/2022-11-01-dl-genome-annot-gencode/&#34;&gt;&lt;strong&gt;Download genome annotation files from GENCODE&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Download and unzip &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SeqMap&lt;/a&gt; Software for re-annotation&lt;/li&gt;
 &lt;li&gt;Install &lt;a href=&#34;https://www.r-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
@@ -2366,7 +2628,7 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL1261&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL1261&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPL1261&lt;/a&gt;&lt;/td&gt;
         
       
         
@@ -2750,6 +3012,30 @@
         
       
         
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10787&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPL10787&lt;/a&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;font color=&#34;red&#34;&gt;&lt;em&gt;No bioconductor package availabe&lt;/em&gt;&lt;/font&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-028005 SurePrint G3 Mouse GE 8x60K Microarray (Probe Name version)&lt;a href=&#34;../2023-01-23-GPL10787/&#34;&gt;R Code Annotation&lt;/a&gt;&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;56&lt;/td&gt;
+        
+      
+        
           &lt;td data-table-dtype=&#34;text&#34;&gt;GPL11532&lt;/td&gt;
         
       
@@ -2770,7 +3056,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;56&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;57&lt;/td&gt;
         
       
         
@@ -2794,7 +3080,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;57&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;58&lt;/td&gt;
         
       
         
@@ -2818,7 +3104,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;58&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;59&lt;/td&gt;
         
       
         
@@ -2842,7 +3128,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;59&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;60&lt;/td&gt;
         
       
         
@@ -2866,7 +3152,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;60&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;61&lt;/td&gt;
         
       
         
@@ -2890,7 +3176,31 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;61&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;62&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL15887&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPL15887&lt;/a&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;font color=&#34;red&#34;&gt;&lt;em&gt;No bioconductor package availabe&lt;/em&gt;&lt;/font&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;NimbleGen Mouse gene expression array [100718_MM9_EXP] (gene-level version)&lt;a href=&#34;../2023-01-22-GPL15887/&#34;&gt;R Code Annotation&lt;/a&gt;&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;63&lt;/td&gt;
         
       
         
@@ -2906,7 +3216,7 @@
         
       
         
-          &lt;td data-table-dtype=&#34;text&#34;&gt;[MoGene-2_0-st] Affymetrix Mouse Gene 2.0 ST Array [transcript (gene) version]&lt;a href=&#34;../2022-12-25-GPL16570/&#34;&gt;R Code Annotation&lt;/a&gt;&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MoGene-2_0-st] Affymetrix Mouse Gene 2.0 ST Array [transcript (gene) version]&lt;a href=&#34;../2023-01-20-GPL16570/&#34;&gt;R Code Annotation&lt;/a&gt;&lt;/td&gt;
         
       
     &lt;/tr&gt;
@@ -2914,7 +3224,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;62&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;64&lt;/td&gt;
         
       
         
@@ -2938,7 +3248,7 @@
     &lt;tr&gt;
       
         
-          &lt;td data-table-dtype=&#34;number&#34;&gt;63&lt;/td&gt;
+          &lt;td data-table-dtype=&#34;number&#34;&gt;65&lt;/td&gt;
         
       
         

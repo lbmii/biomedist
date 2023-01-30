@@ -37,7 +37,7 @@
 36,[GPL571](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL571),Homo sapiens,hgu133a2.db,[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array
 37,GPL886,Homo sapiens,hgug4111a.db,Agilent-011871 Human 1B Microarray G4111A (Feature Number version)
 38,GPL887,Homo sapiens,hgug4110b.db,Agilent-012097 Human 1A Microarray (V2) G4110B (Feature Number version)
-39,GPL1261,Mus musculus,mouse430a2.db,[Mouse430_2] Affymetrix Mouse Genome 430 2.0 Array
+39,[GPL1261](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL1261),Mus musculus,mouse430a2.db,[Mouse430_2] Affymetrix Mouse Genome 430 2.0 Array
 40,GPL1352,Homo sapiens,u133x3p.db,[U133_X3P] Affymetrix Human X3P Array
 41,GPL1355,Rattus norvegicus,rat2302.db,[Rat230_2] Affymetrix Rat Genome 230 2.0 Array
 42,GPL1708,Homo sapiens,hgug4112a.db,Agilent-012391 Whole Human Genome Oligo Microarray G4112A (Feature Number version)
@@ -53,12 +53,14 @@
 52,GPL8300,Homo sapiens,hgu95av2.db,[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array
 53,GPL8490,Homo sapiens,IlluminaHumanMethylation27k.db,Illumina HumanMethylation27 BeadChip (HumanMethylation27_270596_v.1.2)
 54,GPL10558,Homo sapiens,illuminaHumanv4.db,Illumina HumanHT-12 V4.0 expression beadchip
-55,GPL11532,Homo sapiens,hugene11sttranscriptcluster.db,[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version]
-56,GPL13497,Homo sapiens,HsAgilentDesign026652.db,Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version)
-57,GPL13534,Homo sapiens,IlluminaHumanMethylation450k.db,Illumina HumanMethylation450 BeadChip (HumanMethylation450_15017482)
-58,GPL13667,Homo sapiens,hgu219.db,[HG-U219] Affymetrix Human Genome U219 Array
-59,GPL15380,Homo sapiens,GGHumanMethCancerPanelv1.db,Illumina Sentrix Array Matrix (SAM) - GoldenGate Methylation Cancer Panel I
-60,GPL15396,Homo sapiens,hthgu133b.db,[HT_HG-U133B] Affymetrix HT Human Genome U133B Array [custom CDF: ENTREZ brainarray v. 14]
-61,[GPL16570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL16570),Mus musculus,"<font color=""red"">_No bioconductor package availabe_</font>",[MoGene-2_0-st] Affymetrix Mouse Gene 2.0 ST Array [transcript (gene) version][R Code Annotation](../2022-12-25-GPL16570/)
-62,[GPL16686](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL16686),Homo sapiens,"<font color=""red"">_No bioconductor package availabe_</font>",[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version] [R Code Annotation](../2022-12-09-gpl16686/)
-63,GPL17897,Homo sapiens,hthgu133a.db,[HT_HG-U133A] Affymetrix Human Genome U133A Array (custom CDF: HTHGU133A_Hs_ENTREZG.cdf version 17.0.0)
+55,[GPL10787](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10787),Mus musculus,"<font color=""red"">_No bioconductor package availabe_</font>",Agilent-028005 SurePrint G3 Mouse GE 8x60K Microarray (Probe Name version)[R Code Annotation](../2023-01-23-GPL10787/)
+56,GPL11532,Homo sapiens,hugene11sttranscriptcluster.db,[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version]
+57,GPL13497,Homo sapiens,HsAgilentDesign026652.db,Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version)
+58,GPL13534,Homo sapiens,IlluminaHumanMethylation450k.db,Illumina HumanMethylation450 BeadChip (HumanMethylation450_15017482)
+59,GPL13667,Homo sapiens,hgu219.db,[HG-U219] Affymetrix Human Genome U219 Array
+60,GPL15380,Homo sapiens,GGHumanMethCancerPanelv1.db,Illumina Sentrix Array Matrix (SAM) - GoldenGate Methylation Cancer Panel I
+61,GPL15396,Homo sapiens,hthgu133b.db,[HT_HG-U133B] Affymetrix HT Human Genome U133B Array [custom CDF: ENTREZ brainarray v. 14]
+62,[GPL15887](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL15887),Mus musculus,"<font color=""red"">_No bioconductor package availabe_</font>",NimbleGen Mouse gene expression array [100718_MM9_EXP] (gene-level version)[R Code Annotation](../2023-01-22-GPL15887/)
+63,[GPL16570](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL16570),Mus musculus,"<font color=""red"">_No bioconductor package availabe_</font>",[MoGene-2_0-st] Affymetrix Mouse Gene 2.0 ST Array [transcript (gene) version][R Code Annotation](../2023-01-20-GPL16570/)
+64,[GPL16686](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL16686),Homo sapiens,"<font color=""red"">_No bioconductor package availabe_</font>",[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version] [R Code Annotation](../2022-12-09-gpl16686/)
+65,GPL17897,Homo sapiens,hthgu133a.db,[HT_HG-U133A] Affymetrix Human Genome U133A Array (custom CDF: HTHGU133A_Hs_ENTREZG.cdf version 17.0.0)

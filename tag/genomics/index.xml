@@ -38,14 +38,14 @@
     </item>
     
     <item>
-      <title>Gene probes re-annotation with SeqMap and R</title>
-      <link>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</link>
+      <title>Gene probes re-annotation with SeqMap and R (GPL10558)</title>
+      <link>https://example.com/blog/2022-11-07-peobe-re-annot-seqmap/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/2022-11-07-peobe-re-annot-aeqmap/</guid>
+      <guid>https://example.com/blog/2022-11-07-peobe-re-annot-seqmap/</guid>
       <description>&lt;h4 id=&#34;font-color--019858preparation-workfont&#34;&gt;&lt;font color = &#34;#019858&#34;&gt;&lt;strong&gt;Preparation Work:&lt;/strong&gt;&lt;/font&gt;&lt;/h4&gt;
 &lt;p&gt;Before starting for re-annotation, preparatory work includes:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Download probe annotation table from GEO (See how in &lt;a href=&#34;https://example.com/blog/2022-12-09-gpl16686/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Download probe annotation table from GEO (See how in &lt;a href=&#34;https://example.com/blog/2019-12-07-r-get-geo-platform/&#34;&gt;&lt;strong&gt;Get GEO platform annotation file and import into R&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Download genome annotation file from GENCODE (See how in &lt;a href=&#34;https://example.com/blog/2022-11-01-dl-genome-annot-gencode/&#34;&gt;&lt;strong&gt;Download genome annotation files from GENCODE&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Download and unzip &lt;a href=&#34;https://jhui2014.github.io/seqmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SeqMap&lt;/a&gt; Software for re-annotation&lt;/li&gt;
 &lt;li&gt;Install &lt;a href=&#34;https://www.r-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
