@@ -5,12 +5,37 @@
     <link>https://example.com/tag/softwares/</link>
       <atom:link href="https://example.com/tag/softwares/index.xml" rel="self" type="application/rss+xml" />
     <description>Softwares</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Softwares</title>
       <link>https://example.com/tag/softwares/</link>
     </image>
+    
+    <item>
+      <title>CYCLER—a novel tool for the full isoform assembly and quantification of circRNAs</title>
+      <link>https://example.com/article/36478276/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36478276/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Splicing is one key mechanism determining the state of any eukaryotic cell. Apart from linear splice variants, circular splice variants (circRNAs) can arise via non-canonical splicing involving a back-splice junction (BSJ). Most existing methods only identify circRNAs via the corresponding BSJ, but do not aim to estimate their full sequence identity or to identify different, alternatively spliced circular isoforms arising from the same BSJ. We here present &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt;, the first computational method for identifying the full sequence identity of new and alternatively spliced circRNAs and their abundances while simultaneously co-estimating the abundances of known linear splicing isoforms. We show that &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; significantly outperforms existing methods in terms of F score and quantification of transcripts in simulated data. In a in a comparative study with long-read data, we also show the advantages of &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; compared to existing methods. When analysing Drosophila melanogaster data, &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; uncovers biological patterns of circRNA expression that other methods fail to observe.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Circular visualization for high-throughput data</title>

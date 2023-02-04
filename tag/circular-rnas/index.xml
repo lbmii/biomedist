@@ -331,6 +331,31 @@
     </item>
     
     <item>
+      <title>CYCLER—a novel tool for the full isoform assembly and quantification of circRNAs</title>
+      <link>https://example.com/article/36478276/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36478276/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Splicing is one key mechanism determining the state of any eukaryotic cell. Apart from linear splice variants, circular splice variants (circRNAs) can arise via non-canonical splicing involving a back-splice junction (BSJ). Most existing methods only identify circRNAs via the corresponding BSJ, but do not aim to estimate their full sequence identity or to identify different, alternatively spliced circular isoforms arising from the same BSJ. We here present &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt;, the first computational method for identifying the full sequence identity of new and alternatively spliced circRNAs and their abundances while simultaneously co-estimating the abundances of known linear splicing isoforms. We show that &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; significantly outperforms existing methods in terms of F score and quantification of transcripts in simulated data. In a in a comparative study with long-read data, we also show the advantages of &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; compared to existing methods. When analysing Drosophila melanogaster data, &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; uncovers biological patterns of circRNA expression that other methods fail to observe.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>circCsnk1g3- and circAnkib1-regulated interferon responses in sarcoma promote tumorigenesis by shaping the immune microenvironment</title>
       <link>https://example.com/article/36433954/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
@@ -599,6 +624,31 @@
 &lt;p&gt;Circular RNAs (circRNAs) have been found to have the potential to code proteins. Internal ribosome entry sites (IRESs) are key RNA regulatory elements for the translation of proteins by circRNAs through a cap-independent mechanism. IRES can be identified by bicistronic assay, but the method is time-consuming and laborious. Therefore, it is important to develop computational methods for facilitating IRES identification, evaluation, and design in circRNAs.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In this study, we proposed DeepCIP, a multimodal deep learning approach for circRNA IRES prediction, by exploiting both sequence and structure information. As far as we know, DeepCIP is the first predictor for circRNA IRESs, which consists of an RNA processing module, an S-LSTM module, a GCN module, a feature fusion module, and an ensemble module. The comparative studies show that DeepCIP outperforms other comparative methods and justify the effectiveness of the sequence model and structure model of DeepCIP for extracting features. We found that the integration of structural information on the basis of sequence information effectively improves predictive performance. For the real circRNA IRES prediction, DeepCIP also outperforms other methods. DeepCIP may facilitate the study of the coding potential of circRNAs as well as the design of circRNA drugs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circ_CEA promotes the interaction between the p53 and cyclin-dependent kinases 1 as a scaffold to inhibit the apoptosis of gastric cancer</title>
+      <link>https://example.com/article/36167685/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36167685/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) have been reported to play essential roles in tumorigenesis and progression. This study aimed to identify dysregulated circRNAs in gastric cancer (GC) and investigate the functions and underlying mechanism of these circRNAs in GC development. Here, we identify circ_CEA, a circRNA derived from the back-splicing of CEA cell adhesion molecule 5 (CEA) gene, as a novel oncogenic driver of GC. Circ_CEA is significantly upregulated in GC tissues and cell lines. Circ_CEA knockdown suppresses GC progression, and enhances stress-induced apoptosis in vitro and in vivo. Mechanistically, circ_CEA interacts with p53 and cyclin-dependent kinases 1 (CDK1) proteins. It serves as a scaffold to enhance the association between p53 and CDK1. As a result, circ_CEA promotes CDK1-mediated p53 phosphorylation at Ser315, then decreases p53 nuclear retention and suppresses its activity, leading to the downregulation of p53 target genes associated with apoptosis. These findings suggest that circ_CEA protects GC cells from stress-induced apoptosis, via acting as a protein scaffold and interacting with p53 and CDK1 proteins. Combinational therapy of targeting circ_CEA and chemo-drug caused more cell apoptosis, decreased tumor volume and alleviated side effect induced by chemo-drug. Therefore, targeting circ_CEA might present a novel treatment strategy for GC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

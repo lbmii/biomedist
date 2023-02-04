@@ -532,6 +532,31 @@
     </item>
     
     <item>
+      <title>RNA splicing dysregulation and the hallmarks of cancer</title>
+      <link>https://example.com/review/36627445/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36627445/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dysregulated RNA splicing is a molecular feature that characterizes almost all tumour types. Cancer-associated splicing alterations arise from both recurrent mutations and altered expression of &lt;em&gt;trans&lt;/em&gt;-acting factors governing splicing catalysis and regulation. Cancer-associated splicing dysregulation can promote tumorigenesis via diverse mechanisms, contributing to increased cell proliferation, decreased apoptosis, enhanced migration and metastatic potential, resistance to chemotherapy and evasion of immune surveillance. Recent studies have identified specific cancer-associated isoforms that play critical roles in cancer cell transformation and growth and demonstrated the therapeutic benefits of correcting or otherwise antagonizing such cancer-associated mRNA isoforms. Clinical-grade small molecules that modulate or inhibit RNA splicing have similarly been developed as promising anticancer therapeutics. Here, we review splicing alterations characteristic of cancer cell transcriptomes, dysregulated splicing’s contributions to tumour initiation and progression, and existing and emerging approaches for targeting splicing for cancer therapy. Finally, we discuss the outstanding questions and challenges that must be addressed to translate these findings into the clinic.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Spt4 promotes cellular senescence by activating non-coding RNA transcription in ribosomal RNA gene clusters</title>
       <link>https://example.com/article/36640349/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
@@ -1271,6 +1296,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>CYCLER—a novel tool for the full isoform assembly and quantification of circRNAs</title>
+      <link>https://example.com/article/36478276/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36478276/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Splicing is one key mechanism determining the state of any eukaryotic cell. Apart from linear splice variants, circular splice variants (circRNAs) can arise via non-canonical splicing involving a back-splice junction (BSJ). Most existing methods only identify circRNAs via the corresponding BSJ, but do not aim to estimate their full sequence identity or to identify different, alternatively spliced circular isoforms arising from the same BSJ. We here present &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt;, the first computational method for identifying the full sequence identity of new and alternatively spliced circRNAs and their abundances while simultaneously co-estimating the abundances of known linear splicing isoforms. We show that &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; significantly outperforms existing methods in terms of F score and quantification of transcripts in simulated data. In a in a comparative study with long-read data, we also show the advantages of &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; compared to existing methods. When analysing Drosophila melanogaster data, &lt;a href=&#34;https://github.com/stiv1n/CYCLeR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYCLeR&lt;/a&gt; uncovers biological patterns of circRNA expression that other methods fail to observe.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -2431,6 +2481,31 @@
       <guid>https://example.com/article/36171426/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The precise regulation of gene expression is fundamental to neurodevelopment, plasticity and cognitive function. Although several studies have profiled transcription in the developing human brain, there is a gap in understanding of accompanying translational regulation. In this study, we performed ribosome profiling on 73 human prenatal and adult cortex samples. We characterized the translational regulation of annotated open reading frames (ORFs) and identified thousands of previously unknown translation events, including small ORFs that give rise to human-specific and/or brain-specific microproteins, many of which we independently verified using proteomics. Ribosome profiling in stem-cell-derived human neuronal cultures corroborated these findings and revealed that several neuronal activity-induced non-coding RNAs encode previously undescribed microproteins. Physicochemical analysis of brain microproteins identified a class of proteins that contain arginine-glycine-glycine (RGG) repeats and, thus, may be regulators of RNA metabolism. This resource expands the known translational landscape of the human brain and illuminates previously unknown brain-specific protein products.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circ_CEA promotes the interaction between the p53 and cyclin-dependent kinases 1 as a scaffold to inhibit the apoptosis of gastric cancer</title>
+      <link>https://example.com/article/36167685/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36167685/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) have been reported to play essential roles in tumorigenesis and progression. This study aimed to identify dysregulated circRNAs in gastric cancer (GC) and investigate the functions and underlying mechanism of these circRNAs in GC development. Here, we identify circ_CEA, a circRNA derived from the back-splicing of CEA cell adhesion molecule 5 (CEA) gene, as a novel oncogenic driver of GC. Circ_CEA is significantly upregulated in GC tissues and cell lines. Circ_CEA knockdown suppresses GC progression, and enhances stress-induced apoptosis in vitro and in vivo. Mechanistically, circ_CEA interacts with p53 and cyclin-dependent kinases 1 (CDK1) proteins. It serves as a scaffold to enhance the association between p53 and CDK1. As a result, circ_CEA promotes CDK1-mediated p53 phosphorylation at Ser315, then decreases p53 nuclear retention and suppresses its activity, leading to the downregulation of p53 target genes associated with apoptosis. These findings suggest that circ_CEA protects GC cells from stress-induced apoptosis, via acting as a protein scaffold and interacting with p53 and CDK1 proteins. Combinational therapy of targeting circ_CEA and chemo-drug caused more cell apoptosis, decreased tumor volume and alleviated side effect induced by chemo-drug. Therefore, targeting circ_CEA might present a novel treatment strategy for GC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

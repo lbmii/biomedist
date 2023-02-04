@@ -5,12 +5,37 @@
     <link>https://example.com/tag/mitochondria/</link>
       <atom:link href="https://example.com/tag/mitochondria/index.xml" rel="self" type="application/rss+xml" />
     <description>Mitochondria</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Mitochondria</title>
       <link>https://example.com/tag/mitochondria/</link>
     </image>
+    
+    <item>
+      <title>Mitochondria metabolism sets the species-specific tempo of neuronal development</title>
+      <link>https://example.com/article/36705539/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36705539/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neuronal development in the human cerebral cortex is considerably prolonged compared to that of other mammals. We explored whether mitochondria influence the species-specific timing of cortical neuron maturation. By comparing human and mouse cortical neuronal maturation at high temporal and cell resolution, we found a slower mitochondria development in human cortical neurons compared with that in the mouse, together with lower mitochondria metabolic activity, particularly that of oxidative phosphorylation. Stimulation of mitochondria metabolism in human neurons resulted in accelerated development in vitro and in vivo, leading to maturation of cells weeks ahead of time, whereas its inhibition in mouse neurons led to decreased rates of maturation. Mitochondria are thus important regulators of the pace of neuronal development underlying human-specific brain neoteny.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Dopamine inhibits group 2 innate lymphoid cell-driven allergic lung inflammation by dampening mitochondrial activity</title>

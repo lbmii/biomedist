@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lc-ms/</link>
       <atom:link href="https://example.com/tag/lc-ms/index.xml" rel="self" type="application/rss+xml" />
     <description>LC-MS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>LC-MS</title>
       <link>https://example.com/tag/lc-ms/</link>
     </image>
+    
+    <item>
+      <title>Interrogation of the mammalian gut-brain axis using LC-MS/MS-based targeted metabolomics with in vitro bacterial and organoid cultures and in vivo gnotobiotic mouse models</title>
+      <link>https://example.com/review/36352124/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36352124/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interest in the communication between the gastrointestinal tract and central nervous system, known as the gut-brain axis, has prompted the development of quantitative analytical platforms to analyze microbe- and host-derived signals. This protocol enables investigations into connections between microbial colonization and intestinal and brain neurotransmitters and contains strategies for the comprehensive evaluation of metabolites in in vitro (organoids) and in vivo mouse model systems. Here we present an optimized workflow that includes procedures for preparing these gut-brain axis model systems: (stage 1) growth of microbes in defined media; (stage 2) microinjection of intestinal organoids; and (stage 3) generation of animal models including germ-free (no microbes), specific-pathogen-free (complete gut microbiota) and specific-pathogen-free re-conventionalized (germ-free mice associated with a complete gut microbiota from a specific-pathogen-free mouse), and &lt;em&gt;Bifidobacterium dentium&lt;/em&gt; and &lt;em&gt;Bacteroides ovatus&lt;/em&gt; mono-associated mice (germ-free mice colonized with a single gut microbe). We describe targeted liquid chromatography-tandem mass spectrometry-based metabolomics methods for analyzing microbially derived short-chain fatty acids and neurotransmitters from these samples. Unlike other protocols that commonly examine only stool samples, this protocol includes bacterial cultures, organoid cultures and in vivo samples, in addition to monitoring the metabolite content of stool samples. The incorporation of three experimental models (microbes, organoids and animals) enhances the impact of this protocol. The protocol requires 3 weeks of murine colonization with microbes and ~1-2 weeks for liquid chromatography-tandem mass spectrometry-based instrumental and quantitative analysis, and sample post-processing and normalization.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Metabolite annotation from knowns to unknowns through knowledge-guided multi-layer metabolic networking</title>

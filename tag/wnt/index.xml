@@ -5,12 +5,37 @@
     <link>https://example.com/tag/wnt/</link>
       <atom:link href="https://example.com/tag/wnt/index.xml" rel="self" type="application/rss+xml" />
     <description>Wnt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Wnt</title>
       <link>https://example.com/tag/wnt/</link>
     </image>
+    
+    <item>
+      <title>Tmem88 confines ectodermal Wnt2bb signaling in pharyngeal arch artery progenitors for balancing cell cycle progression and cell fate decision</title>
+      <link>https://example.com/article/23-02-04-21-09/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-02-04-21-09/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pharyngeal arch artery (PAA) progenitors undergo proliferative expansion and angioblast differentiation to build vessels connecting the heart with the dorsal aortae. However, it remains unclear whether and how these two processes are orchestrated. Here we demonstrate that Tmem88 is required to fine-tune PAA progenitor proliferation and differentiation. Loss of zebrafish &lt;em&gt;tmem88a/b&lt;/em&gt; leads to an excessive expansion and a failure of differentiation of PAA progenitors. Moreover, &lt;em&gt;tmem88a/b&lt;/em&gt; deficiency enhances &lt;em&gt;cyclin D1&lt;/em&gt; expression in PAA progenitors via aberrant Wnt signal activation. Mechanistically, cyclin D1-CDK4/6 promotes progenitor proliferation through accelerating the G1/S transition while suppressing angioblast differentiation by phosphorylating Nkx2.5/Smad3. Ectodermal Wnt2bb signaling is confined by Tmem88 in PAA progenitors to ensure a balance between proliferation and differentiation. Therefore, the proliferation and angioblast differentiation of PAA progenitors manifest an inverse relationship and are delicately regulated by cell cycle machinery downstream of the Tmem88-Wnt pathway.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Molecular differences of angiogenic versus vessel co-opting colorectal cancer liver metastases at single-cell resolution</title>

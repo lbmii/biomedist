@@ -5,12 +5,37 @@
     <link>https://example.com/tag/adipose/</link>
       <atom:link href="https://example.com/tag/adipose/index.xml" rel="self" type="application/rss+xml" />
     <description>Adipose</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Adipose</title>
       <link>https://example.com/tag/adipose/</link>
     </image>
+    
+    <item>
+      <title>Transcriptomic profiling reveals sex-specific molecular signatures of adipose endothelial cells under obesogenic conditions</title>
+      <link>https://example.com/article/36624843/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36624843/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Female mice display greater adipose angiogenesis and maintain healthier adipose tissue than do males upon high-fat diet feeding. Through transcriptome analysis of endothelial cells (EC) from the white adipose tissue of male and female mice high-fat-fed for 7 weeks, we found that adipose EC exhibited pronouncedly sex-distinct transcriptomes. Genes upregulated in female adipose EC were associated with proliferation, oxidative phosphorylation, and chromatin remodeling contrasting the dominant enrichment for genes related to inflammation and a senescence-associated secretory of male EC. Similar sex-biased phenotypes of adipose EC were detectable in a dataset of aged EC. The highly proliferative phenotype of female EC was observed also in culture conditions. In turn, male EC displayed greater inflammatory potential than female EC in culture, based on basal and tumor necrosis factor alpha-stimulated patterns of gene expression. Our study provides insights into molecular programs that distinguish male and female EC responses to pathophysiological conditions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Light modulates glucose metabolism by a retina-hypothalamus-brown adipose tissue axis</title>

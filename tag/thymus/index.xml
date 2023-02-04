@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thymus | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/thymus/</link>
+      <atom:link href="https://example.com/tag/thymus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thymus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Thymus</title>
+      <link>https://example.com/tag/thymus/</link>
+    </image>
+    
+    <item>
+      <title>Pre-T cell receptor self-MHC sampling restricts thymocyte dedifferentiation</title>
+      <link>https://example.com/article/36410718/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36410718/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Programming T cells to distinguish self from non-self is a vital, multi-step process that occurs in the thymus. Signalling through the pre-T cell receptor (preTCR), a CD3-associated heterodimer comprising an invariant pTα chain and a clone-specific β chain, is a critical early checkpoint in thymocyte development within the αβ T cell lineage. PreTCRs arrayed on CD4&lt;sup&gt;-&lt;/sup&gt;CD8&lt;sup&gt;-&lt;/sup&gt; double-negative thymocytes ligate peptides bound to major histocompatibility complex molecules (pMHC) on thymic stroma, similar to αβ T cell receptors that appear on CD4&lt;sup&gt;+&lt;/sup&gt;CD8&lt;sup&gt;+&lt;/sup&gt; double-positive thymocytes, but via a different molecular docking strategy. Here we show the consequences of these distinct interactions for thymocyte progression using synchronized fetal thymic progenitor cultures that differ in the presence or absence of pMHC on support stroma, and single-cell transcriptomes at key thymocyte developmental transitions. Although major histocompatibility complex (MHC)-negative stroma fosters αβ T cell differentiation, the absence of preTCR-pMHC interactions leads to deviant thymocyte transcriptional programming associated with dedifferentiation. Highly proliferative double-negative and double-positive thymocyte subsets emerge, with antecedent characteristics of T cell lymphoblastic and myeloid malignancies. Compensatory upregulation of diverse MHC class Ib proteins in B2m/H2-Ab1 MHC-knockout mice partially safeguards in vivo thymocyte progression, although disseminated double-positive thymic tumours may develop with ageing. Thus, as well as promoting β chain repertoire broadening for subsequent αβ T cell receptor utilization, preTCR-pMHC interactions limit cellular plasticity to facilitate normal thymocyte differentiation and proliferation that, if absent, introduce developmental vulnerabilities.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
