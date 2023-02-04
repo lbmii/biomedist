@@ -5,12 +5,37 @@
     <link>https://example.com/tag/electron-microscopy/</link>
       <atom:link href="https://example.com/tag/electron-microscopy/index.xml" rel="self" type="application/rss+xml" />
     <description>Electron Microscopy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Electron Microscopy</title>
       <link>https://example.com/tag/electron-microscopy/</link>
     </image>
+    
+    <item>
+      <title>Unexpected moves: a conformational change in MutSα enables high-affinity DNA mismatch binding</title>
+      <link>https://example.com/article/36715327/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36715327/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The DNA mismatch repair protein MutSα recognizes wrongly incorporated DNA bases and initiates their correction during DNA replication. Dysfunctions in mismatch repair lead to a predisposition to cancer. Here, we study the homozygous mutation V63E in MSH2 that was found in the germline of a patient with suspected constitutional mismatch repair deficiency syndrome who developed colorectal cancer before the age of 30. Characterization of the mutant in mouse models, as well as slippage and repair assays, shows a mildly pathogenic phenotype. Using cryogenic electron microscopy and surface plasmon resonance, we explored the mechanistic effect of this mutation on MutSα function. We discovered that V63E disrupts a previously unappreciated interface between the mismatch binding domains (MBDs) of MSH2 and MSH6 and leads to reduced DNA binding. Our research identifies this interface as a &amp;lsquo;safety lock&amp;rsquo; that ensures high-affinity DNA binding to increase replication fidelity. Our mechanistic model explains the hypomorphic phenotype of the V63E patient mutation and other variants in the MBD interface.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>ELI trifocal microscope: a precise system to prepare target cryo-lamellae for in situ cryo-ET study</title>

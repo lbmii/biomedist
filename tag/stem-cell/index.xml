@@ -5,12 +5,37 @@
     <link>https://example.com/tag/stem-cell/</link>
       <atom:link href="https://example.com/tag/stem-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Stem Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Stem Cell</title>
       <link>https://example.com/tag/stem-cell/</link>
     </image>
+    
+    <item>
+      <title>Cortical interneuron development is affected in 4H leukodystrophy</title>
+      <link>https://example.com/article/36729681/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36729681/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4H leukodystrophy is a rare genetic disorder classically characterized by hypomyelination, hypodontia and hypogonadotropic hypogonadism. With the discovery that 4H is caused by mutations that affect RNA polymerase III, mainly involved in the transcription of small non-coding RNAs, also patients with atypical presentations with mainly a neuronal phenotype were identified. Pathomechanisms of 4H brain abnormalities are still unknown and research is hampered by a lack of preclinical models. We aimed to identify cells and pathways that are affected by 4H mutations using induced pluripotent stem cell models. RNA sequencing analysis on induced pluripotent stem cell-derived cerebellar cells revealed several differentially expressed genes between 4H patients and control samples, including reduced ARX expression. As ARX is involved in early brain and interneuron development, we studied and confirmed interneuron changes in primary tissue of 4H patients. Subsequently, we studied interneuron changes in more depth and analyzed induced pluripotent stem cell-derived cortical neuron cultures for changes in neuronal morphology, synaptic balance, network activity and myelination. We showed a decreased percentage of GABAergic synapses in 4H, which correlated to increased neuronal network activity. Treatment of cultures with GABA antagonists led to a significant increase in neuronal network activity in control cells but not in 4H cells, also pointing to lack of inhibitory activity in 4H. Myelination and oligodendrocyte maturation in cultures with 4H neurons was normal, and treatment with sonic hedgehog agonist SAG did not improve 4H related neuronal phenotypes. qPCR analysis revealed increased expression of parvalbumin interneuron marker ERBB4, suggesting that the development rather than generation of interneurons may be affected in 4H. Together, these results indicate that interneurons are involved, possibly parvalbumin interneurons, in disease mechanisms of 4H leukodystrophy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>YAP-regulated type II alveolar epithelial cell differentiation mediated by human umbilical cord-derived mesenchymal stem cells in acute respiratory distress syndrome</title>

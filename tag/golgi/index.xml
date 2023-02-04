@@ -5,12 +5,41 @@
     <link>https://example.com/tag/golgi/</link>
       <atom:link href="https://example.com/tag/golgi/index.xml" rel="self" type="application/rss+xml" />
     <description>Golgi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Golgi</title>
       <link>https://example.com/tag/golgi/</link>
     </image>
+    
+    <item>
+      <title>Mast cell-mediated inflammation relies on insulin-regulated aminopeptidase controlling cytokine export from the Golgi</title>
+      <link>https://example.com/article/36708814/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36708814/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Upon activation, mast cells rapidly release preformed inflammatory mediators from large cytoplasmic granules via regulated exocytosis. This acute degranulation is followed by a late activation phase involving synthesis and secretion of cytokines, growth factors and other inflammatory molecules via the constitutive pathway that remains ill-defined.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; Here we investigate the role for an insulin-responsive vesicle (IRV)-like endosomal compartment, marked by insulin-regulated aminopeptidase (IRAP), in the secretion of TNF-α- and IL-6 in mast cells and macrophages.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Murine ko mouse models (IRAPko and kit-Wsh/sh) were used to study inflammatory disease models and to measure and mechanistically investigate cytokine secretion and degranulation in bone-marrow-derived mast cells in vitro.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We show that IRAPko mice are protected from TNF-α-dependent kidney injury and inflammatory arthritis. In the absence of IRAP, TNF-α and IL-6 but not IL-10 fail to be efficiently secreted. Moreover, chemical targeting of IRAP+ endosomes reduced pro-inflammatory cytokine secretion. Mechanistically, impaired TNF-α export from the Golgi and reduced co-localization of VAMP3+ TNF-α transport vesicles with Stx4 was observed in IRAPko mast cells, while VAMP8-dependent exocytosis of secretory granules was facilitated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our study describes a novel role for IRAP in mast cell-mediated inflammation through the regulation of exocytic trafficking of cytokines.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Precise Monitoring and Assessing Treatment Response of Sepsis-Induced Acute Lung Hypoxia with a Nitroreductase-Activated Golgi-Targetable Fluorescent Probe</title>

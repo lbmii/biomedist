@@ -5,12 +5,37 @@
     <link>https://example.com/tag/epigenetics/</link>
       <atom:link href="https://example.com/tag/epigenetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Epigenetics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Epigenetics</title>
       <link>https://example.com/tag/epigenetics/</link>
     </image>
+    
+    <item>
+      <title>G9a/GLP Targeting Ameliorates Pulmonary Vascular Remodeling in Pulmonary Arterial Hypertension</title>
+      <link>https://example.com/article/36724371/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36724371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pulmonary arterial hypertension (PAH) is characterized by progressive vascular remodeling of small pulmonary arteries (PAs) causing sustained elevation of PA pressure, right ventricular failure and death. Similar to cancer cells, PA smooth muscle cells (PASMCs), which play a key role in pulmonary vascular remodeling, have adopted multiple mechanisms to sustain their survival and proliferation in the presence of stress. The histone methyltransferase G9a and its partner protein GLP have been shown to exert oncogenic effects and to serve as a buffer against an exaggerated transcriptional response. Therefore, we hypothesized that up-regulation of G9a/GLP in PAH plays a pivotal role in pulmonary vascular remodeling by maintaining the abnormal phenotype of PAH-PASMCs. We found that G9a is increases in PASMCs from PAH patients as well as in remodeled PAs from animal models. Pharmacological inhibition of G9a/GLP activity using BIX01294 and UNC0642 significantly reduced the pro-survival and pro-proliferative potentials of cultured PAH-PASMCs. Using RNA sequencing, further exploration revealed that G9a/GLP promotes extracellular matrix production and affords protection against the negative effects of an overactive stress response. Finally, we found that therapeutic treatment with BIX01294 reduced pulmonary vascular remodeling and lowered mean PA pressure in Fawn-Hooded rats. Treatment of Sugen/hypoxia-challenged mice with BIX01294 also improved pulmonary hemodynamics and right ventricular function. In conclusion, these findings indicate that G9a/GLP inhibition may represent a new therapeutic approach in PAH.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>PTBP1-activated co-transcriptional splicing controls epigenetic status of pluripotent stem cells</title>

@@ -5,12 +5,39 @@
     <link>https://example.com/tag/bioinformatics/</link>
       <atom:link href="https://example.com/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Bioinformatics</title>
       <link>https://example.com/tag/bioinformatics/</link>
     </image>
+    
+    <item>
+      <title>High-throughput droplet-based analysis of influenza A virus genetic reassortment by single-virus RNA sequencing</title>
+      <link>https://example.com/article/36730204/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36730204/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A viruses (IAVs) represent a major worldwide health threat. Wild aquatic birds are the natural reservoir of IAVs, which also infect other species including domestic poultry and mammals. Pigs are “mixing vessels” where IAVs from different strains can reassort, posing a continuous threat of zoonotic infections, and animal–human reassortant IAVs episodically generate severe pandemics. We demonstrate large-scale quantitative assessment of reassortment between two circulating human IAVs using high-throughput droplet microfluidics. Our method will enable i) a better understanding of the rules underlying reassortment and ii) scrutinization of reassortment between zoonotic animal viruses and human seasonal viruses, to identify those representing a threat to human health. This provides an additional predictive parameter to complement existing Pandemic Influenza Risk Assessment Tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The segmented RNA genome of influenza A viruses (IAVs) enables viral evolution through genetic reassortment after multiple IAVs coinfect the same cell, leading to viruses harboring combinations of eight genomic segments from distinct parental viruses. Existing data indicate that reassortant genotypes are not equiprobable; however, the low throughput of available virology techniques does not allow quantitative analysis. Here, we have developed a high-throughput single-cell droplet microfluidic system allowing encapsulation of IAV-infected cells, each cell being infected by a single progeny virion resulting from a coinfection process. Customized barcoded primers for targeted viral RNA sequencing enabled the analysis of 18,422 viral genotypes resulting from coinfection with two circulating human H1N1pdm09 and H3N2 IAVs. Results were highly reproducible, confirmed that genetic reassortment is far from random, and allowed accurate quantification of reassortants including rare events. In total, 159 out of the 254 possible reassortant genotypes were observed but with widely varied prevalence (from 0.038 to 8.45%). In cells where eight segments were detected, all 112 possible pairwise combinations of segments were observed. The inclusion of data from single cells where less than eight segments were detected allowed analysis of pairwise cosegregation between segments with very high confidence. Direct coupling analysis accurately predicted the fraction of pairwise segments and full genotypes. Overall, our results indicate that a large proportion of reassortant genotypes can emerge upon coinfection and be detected over a wide range of frequencies, highlighting the power of our tool for systematic and exhaustive monitoring of the reassortment potential of IAVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Molecular differences of angiogenic versus vessel co-opting colorectal cancer liver metastases at single-cell resolution</title>
@@ -85,7 +112,14 @@
 
 &lt;figure  id=&#34;figure-result-of-viewgpl&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;res-view-GPL10787.png&#34; alt=&#34;Result of View(gpl)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Result of View(gpl)&#34; srcset=&#34;
+               /media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_c8b33b650808a52006e0b59907401667.webp 400w,
+               /media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_a18649e4a3ec11c5a06f53bd91a8f8a7.webp 760w,
+               /media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_c8b33b650808a52006e0b59907401667.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Result of View(gpl)
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -190,7 +224,14 @@
 
 &lt;figure  id=&#34;figure-result-of-viewgpl&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;res-view-GPL15887.png&#34; alt=&#34;Result of View(gpl)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Result of View(gpl)&#34; srcset=&#34;
+               /media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_0da8d624cdb2f17a5a69398690297573.webp 400w,
+               /media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_9dda080234e5fc29b6836e06d78ef651.webp 760w,
+               /media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_0da8d624cdb2f17a5a69398690297573.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;633&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Result of View(gpl)
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1301,6 +1342,35 @@
   
 &lt;/ul&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Proteomic Analysis of NETosis in Trauma: Emergence of SerpinB1 as a Key Player</title>
+      <link>https://example.com/article/36730076/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36730076/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Release of neutrophil extracellular traps (NETosis) may mediate post-injury organ dysfunction, but mechanisms remain unclear. The intracellular serine protease inhibitor (serpin) B1 is vital to neutrophil function and has been shown to restrict NETosis in inflammatory settings. In this study, we utilized discovery proteomics to identify the proteomic signature of trauma-induced NETosis. We hypothesized that serpinB1 would be a major component of this NET protein profile and associated with adverse outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; This was a post hoc analysis of data collected as part of the COMBAT randomized clinical trial. Blood was collected from injured patients at a single Level I Trauma Center. Proteomic analyses were performed through targeted liquid chromatography coupled with mass spectrometry. Abundances of serpinB1 and known NETosis markers were analyzed with patient and injury characteristics, clinical data, and outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; SerpinB1 levels on ED arrival were significantly correlated with proteomic markers of NETosis, including core histones, transketolase, and S100A8/A9 proteins. More severely injured patients had elevated serpinB1 and NETosis markers on ED arrival. Levels of serpinB1 and top NETosis markers were significantly elevated on ED arrival in non-survivors and patients with fewer ventilator- and ICU-free days. In proteome-wide ROC analysis, serpinB1 was consistently among the top proteins associated with adverse outcomes. Among NETosis markers, levels of serpinB1 early in the patient&amp;rsquo;s course exhibited the greatest separation between patients with fewer and greater ventilator- and ICU-free days. Gene Ontology analysis of top predictors of adverse outcomes further supports NETosis as a potential mediator of post-injury organ dysfunction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; We have identified a proteomic signature of trauma-induced NETosis, and NETosis is an early process following severe injury that may mediate organ dysfunction. In addition, serpinB1 is a major component of this NET protein profile that may serve as an early marker of excessive NETosis after injury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Evidence:&lt;/em&gt; Level III, Prognostic/Epidemiological.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -3734,6 +3804,33 @@
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/tool/&#34; &gt;
       Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A high-quality genome and comparison of short- versus long-read transcriptome of the palaearctic duck Aythya fuligula (tufted duck)</title>
+      <link>https://example.com/article/34927191/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34927191/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The tufted duck is a non-model organism that experiences high mortality in highly pathogenic avian influenza outbreaks. It belongs to the same bird family (Anatidae) as the mallard, one of the best-studied natural hosts of low-pathogenic avian influenza viruses. Studies in non-model bird species are crucial to disentangle the role of the host response in avian influenza virus infection in the natural reservoir. Such endeavour requires a high-quality genome assembly and transcriptome.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Findings:&lt;/em&gt; This study presents the first high-quality, chromosome-level reference genome assembly of the tufted duck using the Vertebrate Genomes Project pipeline. We sequenced RNA (complementary DNA) from brain, ileum, lung, ovary, spleen, and testis using Illumina short-read and Pacific Biosciences long-read sequencing platforms, which were used for annotation. We found 34 autosomes plus Z and W sex chromosomes in the curated genome assembly, with 99.6% of the sequence assigned to chromosomes. Functional annotation revealed 14,099 protein-coding genes that generate 111,934 transcripts, which implies a mean of 7.9 isoforms per gene. We also identified 246 small RNA families.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; This annotated genome contributes to continuing research into the host response in avian influenza virus infections in a natural reservoir. Our findings from a comparison between short-read and long-read reference transcriptomics contribute to a deeper understanding of these competing options. In this study, both technologies complemented each other. We expect this annotation to be a foundation for further comparative and evolutionary genomic studies, including many waterfowl relatives with differing susceptibilities to avian influenza viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
     &lt;/a&gt;
   &lt;/li&gt;
   

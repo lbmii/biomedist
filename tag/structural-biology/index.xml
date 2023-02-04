@@ -5,12 +5,37 @@
     <link>https://example.com/tag/structural-biology/</link>
       <atom:link href="https://example.com/tag/structural-biology/index.xml" rel="self" type="application/rss+xml" />
     <description>Structural Biology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Structural Biology</title>
       <link>https://example.com/tag/structural-biology/</link>
     </image>
+    
+    <item>
+      <title>Unexpected moves: a conformational change in MutSα enables high-affinity DNA mismatch binding</title>
+      <link>https://example.com/article/36715327/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36715327/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The DNA mismatch repair protein MutSα recognizes wrongly incorporated DNA bases and initiates their correction during DNA replication. Dysfunctions in mismatch repair lead to a predisposition to cancer. Here, we study the homozygous mutation V63E in MSH2 that was found in the germline of a patient with suspected constitutional mismatch repair deficiency syndrome who developed colorectal cancer before the age of 30. Characterization of the mutant in mouse models, as well as slippage and repair assays, shows a mildly pathogenic phenotype. Using cryogenic electron microscopy and surface plasmon resonance, we explored the mechanistic effect of this mutation on MutSα function. We discovered that V63E disrupts a previously unappreciated interface between the mismatch binding domains (MBDs) of MSH2 and MSH6 and leads to reduced DNA binding. Our research identifies this interface as a &amp;lsquo;safety lock&amp;rsquo; that ensures high-affinity DNA binding to increase replication fidelity. Our mechanistic model explains the hypomorphic phenotype of the V63E patient mutation and other variants in the MBD interface.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>ELI trifocal microscope: a precise system to prepare target cryo-lamellae for in situ cryo-ET study</title>
@@ -313,6 +338,31 @@
 &lt;li&gt;MePCE interaction with Larp7 is RNA dependent and reveals unexpected motifs&lt;/li&gt;
 &lt;li&gt;7SK RNA transitions from nascent linear to circular conformation upon core assembly&lt;/li&gt;
 &lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Structure-guided glyco-engineering of ACE2 for improved potency as soluble SARS-CoV-2 decoy receptor</title>
+      <link>https://example.com/article/34927585/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34927585/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Infection and viral entry of SARS-CoV-2 crucially depends on the binding of its Spike protein to angiotensin converting enzyme 2 (ACE2) presented on host cells. Glycosylation of both proteins is critical for this interaction. Recombinant soluble human ACE2 can neutralize SARS-CoV-2 and is currently undergoing clinical tests for the treatment of COVID-19. We used 3D structural models and molecular dynamics simulations to define the ACE2 N-glycans that critically influence Spike-ACE2 complex formation. Engineering of ACE2 N-glycosylation by site-directed mutagenesis or glycosidase treatment resulted in enhanced binding affinities and improved virus neutralization without notable deleterious effects on the structural stability and catalytic activity of the protein. Importantly, simultaneous removal of all accessible N-glycans from recombinant soluble human ACE2 yields a superior SARS-CoV-2 decoy receptor with promise as effective treatment for COVID-19 patients.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

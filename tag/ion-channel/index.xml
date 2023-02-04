@@ -5,12 +5,40 @@
     <link>https://example.com/tag/ion-channel/</link>
       <atom:link href="https://example.com/tag/ion-channel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ion Channel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Ion Channel</title>
       <link>https://example.com/tag/ion-channel/</link>
     </image>
+    
+    <item>
+      <title>Sesamin Induces the Transdifferentiation of Type II Alveolar Epithelial Cells via AnnexinA1 and TRPV1</title>
+      <link>https://example.com/article/36735045/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36735045/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; Acute lung injury (ALI) with high rates of morbidity is often accompanied by the apoptosis in the type I alveolar epithelial cells (ATIs). Thus, the transdifferentiation of type II alveolar epithelial cells (ATIIs) into ATIs is crucial for the maintenance of alveolar epithelial functions. We aimed to elucidate the role of sesamin in the transdifferentiation of ATIIs to ATIs and the involvement of the TRPV1/AKT pathway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; In vivo, the mouse model of ALI was simulated by intraperitoneal and intratracheal injections of lipopolysaccharide (LPS), respectively. The protective effects of sesamin on ALI were investigated using the survival rate, lung/body weight ratio, histological analysis of lung with HE staining, and mRNA levels of inflammatory factors. Western blot analysis and immunofluorescence detection of ATIs marker AQP5 were used to evaluate the protective effect of sesamin on ATIs. Western blot, EdU, and qPCR analyses were applied to detect changes in apoptosis, proliferation, and transdifferentiation markers of ATII A549 cell lines. Small interfering RNA (siRNA) was used to detect the involvement and relationships between the sesamin receptors (ANXA1 and TRPV1) and the AKT pathway in transdifferentiation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Sesamin (200 mg/kg) significantly improved LPS-induced ALI and inhibited LPS-induced ATIs reduction. A low concentration of sesamin (20 μM) promoted the transdifferentiation of ATIIs to ATIs. Both ANXA1 and TRPV1 were involved in sesamin-promoted transdifferentiation, while the P-AKT (S473) level was down-regulated by TRPV1 siRNA.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Sesamin may promote transdifferentiation of ATII to ATI to ultimately rescue ALI, with TRPV1/AKT pathway involved in this transdifferentiation. This study revealed a novel role of sesamin in promoting the transdifferentiation of ATIIs to ATIs, providing experimental supports for the potential targets of ALI therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Cytosolic DNA sensing by cGAS/STING promotes TRPV2-mediated Ca2&#43; release to protect stressed replication forks</title>
@@ -51,6 +79,31 @@
       <guid>https://example.com/article/36608291/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The human ether-a-go-go-related gene (hERG) K&lt;sup&gt;+&lt;/sup&gt; channel conducts a rapidly activating delayed rectifier K&lt;sup&gt;+&lt;/sup&gt; current (I&lt;sub&gt;Kr&lt;/sub&gt;), which is essential for normal electrical activity of the heart. Precise regulation of hERG channel biogenesis is critical for serving its physiological functions, and deviations from the regulation result in human diseases. However, the mechanism underlying the precise regulation of hERG channel biogenesis remains elusive. Here, by using forward genetic screen, we found that PATR-1, the &lt;em&gt;Caenorhabditis elegans&lt;/em&gt; homolog of the yeast DNA topoisomerase 2-associated protein PAT1, is a critical regulator for the biogenesis of UNC-103, the ERG K&lt;sup&gt;+&lt;/sup&gt; channel in &lt;em&gt;C. elegans&lt;/em&gt;. A loss-of-function mutation in patr-1 down-regulates the expression level of UNC-103 proteins and suppresses the phenotypic defects resulted from a gain-of-function mutation in the unc-103 gene. Furthermore, downregulation of PATL1 and PATL2, the human homologs of PAT1, decreases protein levels and the current density of native hERG channels in SH-SY5Y cells and human-induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs). Knockdown of PATL1 and PATL2 elongates the duration of action potentials in hiPSC-CMs, suggesting that PATL1 and PATL2 affect the function of hERG channels and hence electrophysiological characteristics in the human heart. Further studies found that PATL1 and PATL2 interact with TFIIE, a general transcription factor required for forming the RNA polymerase II preinitiation complex, and dual-luciferase reporter assays indicated that PATL1 and PATL2 facilitate the transcription of hERG mRNAs. Together, our study discovers that evolutionarily conserved DNA topoisomerase 2-associated proteins regulate the biogenesis of hERG channels via a transcriptional mechanism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The ion transporter Na&#43;-K&#43;-ATPase enables pathological B cell survival in the kidney microenvironment of lupus nephritis</title>
+      <link>https://example.com/article/36724234/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36724234/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The kidney is a comparatively hostile microenvironment characterized by highsodium concentrations; however, lymphocytes infiltrate and survive therein in autoimmune diseases such as lupus. The effects of sodium-lymphocyte interactions on tissue injury in autoimmune diseases and the mechanisms used by infiltrating lymphocytes to survive the highsodium environment of the kidney are not known. Here, we show that kidney-infiltrating B cells in lupus adapt to elevated sodium concentrations and that expression of sodium potassium adenosine triphosphatase (Na&lt;sup&gt;+&lt;/sup&gt;-K&lt;sup&gt;+&lt;/sup&gt;-ATPase) correlates with the ability of infiltrating cells to survive. Pharmacological inhibition of Na&lt;sup&gt;+&lt;/sup&gt;-K&lt;sup&gt;+&lt;/sup&gt;-ATPase and genetic knockout of Na&lt;sup&gt;+&lt;/sup&gt;-K&lt;sup&gt;+&lt;/sup&gt;-ATPase γ subunit resulted in reduced B cell infiltration into kidneys and amelioration of proteinuria. B cells in human lupus nephritis biopsies also had high expression of Na&lt;sup&gt;+&lt;/sup&gt;-K&lt;sup&gt;+&lt;/sup&gt;-ATPase. Our study reveals that kidney-infiltrating B cells in lupus initiate a tissue adaption program in response to sodium stress and identifies Na&lt;sup&gt;+&lt;/sup&gt;-K&lt;sup&gt;+&lt;/sup&gt;-ATPase as an organ-specific therapeutic target.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

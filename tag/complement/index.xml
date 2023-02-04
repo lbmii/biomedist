@@ -5,12 +5,40 @@
     <link>https://example.com/tag/complement/</link>
       <atom:link href="https://example.com/tag/complement/index.xml" rel="self" type="application/rss+xml" />
     <description>Complement</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Complement</title>
       <link>https://example.com/tag/complement/</link>
     </image>
+    
+    <item>
+      <title>Robust rank aggregation for gene list integration and meta-analysis</title>
+      <link>https://example.com/article/36735376/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36735376/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The dysfunction of complement factor H (CFH), the main soluble complement negative regulator, potentiates various complement-induced renal injuries. However, insights into the underlying mechanism of CFH dysfunction remain limited. In this study, we investigated whether extracellular protease-mediated degradation accounts for CFH dysfunction in complement-mediated renal injuries.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; An unbiased interactome of lupus mice kidneys identified CFH-binding protease. In vitro cleavage assay clarified CFH degradation. Pristane-induced SLE or renal ischemia-reperfusion (I/R) injury models were used in wild-type and ADAMTS7-/- mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We identified the metalloprotease ADAMTS7 as a CFH-binding protein in lupus kidneys. Moreover, the upregulation of ADAMTS7 correlated with CFH reduction in both lupus mice and patients. Mechanistically, ADAMTS7 is directly bound to CFH complement control protein (CCP) 1-4 domain and degraded CCP 1-7 domain through multiple cleavages. In mice with lupus nephritis or renal I/R injury, ADAMTS7 deficiency alleviated complement activation and related renal pathologies, but without affecting complement-mediated bactericidal activity. Adeno-associated virus-mediated CFH silencing compromised these protective effects of ADAMTS7 knockout against complement-mediated renal injuries in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; ADAMTS7-mediated CFH degradation potentiates complement activation and related renal injuries. ADAMTS7 would be a promising anticomplement therapeutic target that does not increase bacterial infection risk.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Endothelial-specific loss of Krüppel-Like Factor 4 triggers complement-mediated endothelial injury</title>

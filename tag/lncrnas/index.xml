@@ -5,12 +5,37 @@
     <link>https://example.com/tag/lncrnas/</link>
       <atom:link href="https://example.com/tag/lncrnas/index.xml" rel="self" type="application/rss+xml" />
     <description>lncRNAs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>lncRNAs</title>
       <link>https://example.com/tag/lncrnas/</link>
     </image>
+    
+    <item>
+      <title>T-REX17 is a transiently expressed non-coding RNA essential for human endoderm formation</title>
+      <link>https://example.com/article/36719724/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36719724/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long non-coding RNAs (lncRNAs) have emerged as fundamental regulators in various biological processes, including embryonic development and cellular differentiation. Despite much progress over the past decade, the genome-wide annotation of lncRNAs remains incomplete and many known non-coding loci are still poorly characterized. Here, we report the discovery of a previously unannotated lncRNA that is transcribed 230 kb upstream of the &lt;em&gt;SOX17&lt;/em&gt; gene and located within the same topologically associating domain. We termed it &lt;em&gt;T-REX17&lt;/em&gt; (&lt;u&gt;T&lt;/u&gt;ranscript &lt;u&gt;R&lt;/u&gt;egulating &lt;u&gt;E&lt;/u&gt;ndoderm and activated by so&lt;u&gt;X17&lt;/u&gt;) and show that it is induced following SOX17 activation but its expression is more tightly restricted to early definitive endoderm. Loss of &lt;em&gt;T-REX17&lt;/em&gt; affects crucial functions independent of SOX17 and leads to an aberrant endodermal transcriptome, signaling pathway deregulation and epithelial to mesenchymal transition defects. Consequently, cells lacking the lncRNA cannot further differentiate into more mature endodermal cell types. Taken together, our study identified and characterized &lt;em&gt;T-REX17&lt;/em&gt; as a transiently expressed and essential non-coding regulator in early human endoderm differentiation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The endothelial-enriched lncRNA LINC00607 mediates angiogenic function</title>

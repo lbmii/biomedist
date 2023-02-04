@@ -5,12 +5,166 @@
     <link>https://example.com/tag/virology/</link>
       <atom:link href="https://example.com/tag/virology/index.xml" rel="self" type="application/rss+xml" />
     <description>Virology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Virology</title>
       <link>https://example.com/tag/virology/</link>
     </image>
+    
+    <item>
+      <title>High-throughput droplet-based analysis of influenza A virus genetic reassortment by single-virus RNA sequencing</title>
+      <link>https://example.com/article/36730204/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36730204/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A viruses (IAVs) represent a major worldwide health threat. Wild aquatic birds are the natural reservoir of IAVs, which also infect other species including domestic poultry and mammals. Pigs are “mixing vessels” where IAVs from different strains can reassort, posing a continuous threat of zoonotic infections, and animal–human reassortant IAVs episodically generate severe pandemics. We demonstrate large-scale quantitative assessment of reassortment between two circulating human IAVs using high-throughput droplet microfluidics. Our method will enable i) a better understanding of the rules underlying reassortment and ii) scrutinization of reassortment between zoonotic animal viruses and human seasonal viruses, to identify those representing a threat to human health. This provides an additional predictive parameter to complement existing Pandemic Influenza Risk Assessment Tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The segmented RNA genome of influenza A viruses (IAVs) enables viral evolution through genetic reassortment after multiple IAVs coinfect the same cell, leading to viruses harboring combinations of eight genomic segments from distinct parental viruses. Existing data indicate that reassortant genotypes are not equiprobable; however, the low throughput of available virology techniques does not allow quantitative analysis. Here, we have developed a high-throughput single-cell droplet microfluidic system allowing encapsulation of IAV-infected cells, each cell being infected by a single progeny virion resulting from a coinfection process. Customized barcoded primers for targeted viral RNA sequencing enabled the analysis of 18,422 viral genotypes resulting from coinfection with two circulating human H1N1pdm09 and H3N2 IAVs. Results were highly reproducible, confirmed that genetic reassortment is far from random, and allowed accurate quantification of reassortants including rare events. In total, 159 out of the 254 possible reassortant genotypes were observed but with widely varied prevalence (from 0.038 to 8.45%). In cells where eight segments were detected, all 112 possible pairwise combinations of segments were observed. The inclusion of data from single cells where less than eight segments were detected allowed analysis of pairwise cosegregation between segments with very high confidence. Direct coupling analysis accurately predicted the fraction of pairwise segments and full genotypes. Overall, our results indicate that a large proportion of reassortant genotypes can emerge upon coinfection and be detected over a wide range of frequencies, highlighting the power of our tool for systematic and exhaustive monitoring of the reassortment potential of IAVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus</title>
+      <link>https://example.com/article/36724259/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36724259/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are single-stranded, closed-circular RNAs, which bind to other RNAs or proteins to regulate their functions. The importance of circRNAs during virus infection has been largely elusive. Here, we identified that a circRNA, hsa_circ_0001400, is induced upon infection with various pathogenic viruses including Kaposi sarcoma herpesvirus (KSHV) and controls viral and human gene expression so that infected human cells have less virus production but better cell growth. KSHV has two phases: latent and lytic cycle. circ_0001400 biases cells to the latent cycle during which viruses express only a limited number of genes to survive for the life of the host. Our results revealed a novel virus-host interaction via circRNAs to maintain latency after infection with an oncogenic virus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non-coding RNAs (ncRNAs) play important roles in host-pathogen interactions; oncogenic viruses like Kaposi’s sarcoma herpesvirus (KSHV) employ ncRNAs to establish a latent reservoir and persist for the life of the host. We previously reported that KSHV infection alters a novel class of RNA, circular RNAs (circRNAs). CircRNAs are alternative splicing isoforms and regulate gene expression, but their importance in infection is largely unknown. Here, we showed that a human circRNA, hsa_circ_0001400, is induced by various pathogenic viruses, namely KSHV, Epstein-Barr virus, and human cytomegalovirus. The induction of circRNAs including circ_0001400 by KSHV is co-transcriptionally regulated, likely at splicing. Consistently, screening for circ_0001400-interacting proteins identified a splicing factor, PNISR. Functional studies using infected primary endothelial cells revealed that circ_0001400 inhibits KSHV lytic transcription and virus production. Simultaneously, the circRNA promoted cell cycle, inhibited apoptosis, and induced immune genes. RNA-pull down assays identified transcripts interacting with circ_0001400, including TTI1, which is a component of the pro-growth mTOR complexes. We thus identified a circRNA that is pro-growth and anti-lytic replication. These results support a model in which KSHV induces circ_0001400 expression to maintain latency. Since circ_0001400 is induced by multiple viruses, this novel viral strategy may be widely employed by other viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Candida albicans can foster gut dysbiosis and systemic inflammation during HIV infection</title>
+      <link>https://example.com/article/36722096/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36722096/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Candida albicans&lt;/em&gt; (&lt;em&gt;C. albicans&lt;/em&gt;) is a ubiquitous fungal commensal component of the human microbiota, and under certain circumstances, such as during an immunocompromised state, it may initiate different types of infection. Moreover, &lt;em&gt;C. albicans&lt;/em&gt; continuously and reciprocally interacts with the host immune system as well as with other elements of the gut microbiota, thus contributing significantly to both gut homeostasis and host immunity. People living with HIV (PLWH), including those receiving antiretroviral therapy, are characterized by a depletion of CD4+ T-cells and dysbiosis in their gut. &lt;em&gt;C. albicans&lt;/em&gt; colonization is frequent in PLWH, causing both a high prevalence and high morbidity. Gut barrier damage and elevated levels of microbial translocation are also fairly common in this population. Herein, we take a closer look at the reciprocity among &lt;em&gt;C. albicans&lt;/em&gt;, gut microbiota, HIV, and the host immune system, thus throwing some light on this complex interplay.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The SARS-CoV-2 Spike S1 Protein Induces Global Proteomic Changes in ATII-Like Rat L2 Cells that are attenuated by Hyaluronan</title>
+      <link>https://example.com/article/36719087/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36719087/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The COVID-19 pandemic continues to impose a major impact on global health and economy since its identification in early 2020, causing significant morbidity and mortality worldwide. Caused by the SARS-CoV-2 virus, along with a growing number of variants, COVID-19 has led to 651,918,402 confirmed cases, and 6,656,601 deaths worldwide. Despite advances in our understanding of COVID19 pathogenesis, the precise mechanism by which SARS-CoV2 causes epithelial injury is incompletely understood. In this current study, robust application of global-discovery proteomics identified highly significant induced changes by the Spike S1 protein of SARS-CoV-2 in the proteome of alveolar type II (ATII)-like Rat L2 cells that lack ACE2 receptors. Systems biology analysis revealed that the S1 induced proteomics changes were associated with three significant network hubs: E2F1, CREB1/ RelA, and ROCK2/ RhoA. We also found that pre-treatment of L2 cells with High Molecular Weight Hyaluronan (HMW-HA), greatly attenuated the S1 effects on the proteome. Western blotting analysis and cell cycle measurements confirmed the S1-upregulation of E2F1 and ROCK2/RhoA in L2 cells and the protective effects of HMW-HA. Taken as a whole, our studies revealed profound and novel biological changes that contribute to our current understanding of both S1 and Hyaluronan biology. This data shows that the S1 protein may contribute to epithelial injury induced by SARS-CoV-2. In addition, our work supports the potential benefit of HMW-HA in ameliorating SARS CoV2 induced cell injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>An Innate Checkpoint Determines Immune Dysregulation and Immunopathology during Pulmonary Murine Coronavirus Infection</title>
+      <link>https://example.com/article/36715496/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36715496/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hallmarks of life-threatening, coronavirus-induced disease include dysregulated antiviral immunity and immunopathological tissue injury. Nevertheless, the sampling of symptomatic patients overlooks the initial inflammatory sequela culminating in severe coronavirus-induced disease, leaving a fundamental gap in our understanding of the early mechanisms regulating anticoronavirus immunity and preservation of tissue integrity. In this study, we delineate the innate regulators controlling pulmonary infection using a natural mouse coronavirus. Within hours of infection, the cellular landscape of the lung was transcriptionally remodeled altering host metabolism, protein synthesis, and macrophage maturation. Genetic perturbation revealed that these transcriptional programs were type I IFN dependent and critically controlled both host cell survival and viral spread. Unrestricted viral replication overshooting protective IFN responses culminated in increased IL-1β and alarmin production and triggered compensatory neutrophilia, interstitial inflammation, and vascular injury. Thus, type I IFNs critically regulate early viral burden, which serves as an innate checkpoint determining the trajectory of coronavirus dissemination and immunopathology.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Host Recovery from Respiratory Viral Infection</title>
+      <link>https://example.com/review/36716750/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36716750/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emerging and re-emerging respiratory viral infections pose a tremendous threat to human society, as exemplified by the ongoing COVID-19 pandemic. Upon viral invasion of the respiratory tract, the host initiates coordinated innate and adaptive immune responses to defend against the virus and to promote repair of the damaged tissue. However, dysregulated host immunity can also cause acute morbidity, hamper lung regeneration, and/or lead to chronic tissue sequelae. Here, we review our current knowledge of the immune mechanisms regulating antiviral protection, host pathogenesis, inflammation resolution, and lung regeneration following respiratory viral infections, mainly using influenza virus and SARS-CoV-2 infections as examples. We hope that this review sheds light on future research directions to elucidate the cellular and molecular cross talk regulating host recovery and to pave the way to the development of pro-repair therapeutics to augment lung regeneration following viral injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Lyophilized mRNA-lipid nanoparticle vaccines with long-term stability and high antigenicity against SARS-CoV-2</title>
@@ -7449,6 +7603,81 @@
     </item>
     
     <item>
+      <title>Nonclassical autophagy activation pathways are essential for production of infectious Influenza A virus in vitro</title>
+      <link>https://example.com/article/34931347/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34931347/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy is a critical mechanism deployed by eukaryotic cells in response to stress, including viral infection, to boost the innate antimicrobial responses. However, an increasing number of pathogens hijack the autophagic machinery to facilitate their own replication. Influenza A virus (IAV), responsible for several global pandemics, has an intricate dependence on autophagy for successful replication in mammalian cells. To elucidate key chokepoints in the host stress responses facilitating IAV replication, we constructed a meta-transcriptome of IAV and host gene expression dynamics during early (1-3 hpi), mid (4-6 hpi), and late (8-12 hpi) stages of the viral replication cycle at two multiplicities of infection (MOI): 1 and 5. We supplemented the global transcriptome study with phosphoproteomic analysis of stress-activated protein kinase (SAPK/JNK) signaling in lung carcinoma (predominantly used as an in vitro model of IAV replication) and normal human bronchial epithelial cells. We report significant differences in the activation profiles of autophagy regulating genes upon IAV infection at the two MOI as well as divergent dependence on ULK1 signaling within the normal and cancer cells. Regardless of the cell model, JNK-Thr187 signaling was crucial for the production of infectious viral particles.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Structure-guided glyco-engineering of ACE2 for improved potency as soluble SARS-CoV-2 decoy receptor</title>
+      <link>https://example.com/article/34927585/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34927585/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Infection and viral entry of SARS-CoV-2 crucially depends on the binding of its Spike protein to angiotensin converting enzyme 2 (ACE2) presented on host cells. Glycosylation of both proteins is critical for this interaction. Recombinant soluble human ACE2 can neutralize SARS-CoV-2 and is currently undergoing clinical tests for the treatment of COVID-19. We used 3D structural models and molecular dynamics simulations to define the ACE2 N-glycans that critically influence Spike-ACE2 complex formation. Engineering of ACE2 N-glycosylation by site-directed mutagenesis or glycosidase treatment resulted in enhanced binding affinities and improved virus neutralization without notable deleterious effects on the structural stability and catalytic activity of the protein. Importantly, simultaneous removal of all accessible N-glycans from recombinant soluble human ACE2 yields a superior SARS-CoV-2 decoy receptor with promise as effective treatment for COVID-19 patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>VLDLR and ApoER2 are receptors for multiple alphaviruses</title>
+      <link>https://example.com/article/34929721/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34929721/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alphaviruses, like many other arthropod-borne viruses, infect vertebrate species and insect vectors separated by hundreds of millions of years of evolutionary history. Entry into evolutionarily divergent host cells can be accomplished by recognition of different cellular receptors in different species, or by binding to receptors that are highly conserved across species. Although multiple alphavirus receptors have been described1-3, most are not shared among vertebrate and invertebrate hosts. Here we identify the very low-density lipoprotein receptor (VLDLR) as a receptor for the prototypic alphavirus Semliki forest virus. We show that the E2 and E1 glycoproteins (E2-E1) of Semliki forest virus, eastern equine encephalitis virus and Sindbis virus interact with the ligand-binding domains (LBDs) of VLDLR and apolipoprotein E receptor 2 (ApoER2), two closely related receptors. Ectopic expression of either protein facilitates cellular attachment, and internalization of virus-like particles, a VLDLR LBD-Fc fusion protein or a ligand-binding antagonist block Semliki forest virus E2-E1-mediated infection of human and mouse neurons in culture. The administration of a VLDLR LBD-Fc fusion protein has protective activity against rapidly fatal Semliki forest virus infection in mouse neonates. We further show that invertebrate receptor orthologues from mosquitoes and worms can serve as functional alphavirus receptors. We propose that the ability of some alphaviruses to infect a wide range of hosts is a result of their engagement of evolutionarily conserved lipoprotein receptors and contributes to their pathogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Viral manipulation of host cell necroptosis and pyroptosis</title>
       <link>https://example.com/review/34933805/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
@@ -7474,12 +7703,87 @@
     </item>
     
     <item>
+      <title>A virus-derived microRNA targets immune response genes during SARS-CoV-2 infection</title>
+      <link>https://example.com/article/34914162/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34914162/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SARS-CoV-2 infection results in impaired interferon response in patients with severe COVID-19. However, how SARS-CoV-2 interferes with host immune responses is incompletely understood. Here, we sequence small RNAs from SARS-CoV-2-infected human cells and identify a microRNA (miRNA) derived from a recently evolved region of the viral genome. We show that the virus-derived miRNA produces two miRNA isoforms in infected cells by the enzyme Dicer, which are loaded into Argonaute proteins. Moreover, the predominant miRNA isoform targets the 3&amp;rsquo;UTR of interferon-stimulated genes and represses their expression in a miRNA-like fashion. Finally, the two viral miRNA isoforms were detected in nasopharyngeal swabs from COVID-19 patients. We propose that SARS-CoV-2 can potentially employ a virus-derived miRNA to hijack the host miRNA machinery, which could help to evade the interferon-mediated immune response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The short isoform of the host antiviral protein ZAP acts as an inhibitor of SARS-CoV-2 programmed ribosomal frameshifting</title>
       <link>https://example.com/article/34893599/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/34893599/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Programmed ribosomal frameshifting (PRF) is a fundamental gene expression event in many viruses, including SARS-CoV-2. It allows production of essential viral, structural and replicative enzymes that are encoded in an alternative reading frame. Despite the importance of PRF for the viral life cycle, it is still largely unknown how and to what extent cellular factors alter mechanical properties of frameshift elements and thereby impact virulence. This prompted us to comprehensively dissect the interplay between the SARS-CoV-2 frameshift element and the host proteome. We reveal that the short isoform of the zinc-finger antiviral protein (ZAP-S) is a direct regulator of PRF in SARS-CoV-2 infected cells. ZAP-S overexpression strongly impairs frameshifting and inhibits viral replication. Using in vitro ensemble and single-molecule techniques, we further demonstrate that ZAP-S directly interacts with the SARS-CoV-2 RNA and interferes with the folding of the frameshift RNA element. Together, these data identify ZAP-S as a host-encoded inhibitor of SARS-CoV-2 frameshifting and expand our understanding of RNA-based gene regulation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Porcine reproductive and respiratory syndrome virus nsp4 positively regulates cellular cholesterol to inhibit type I interferon production</title>
+      <link>https://example.com/article/34911669/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34911669/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cellular cholesterol plays an important role in the life cycles of enveloped viruses. Previous studies by our group and other groups have demonstrated that the depletion of cellular cholesterol by methyl-β-cyclodextrin (MβCD) reduces the proliferation of porcine reproductive and respiratory syndrome virus (PRRSV), a porcine Arterivirus that has been devastating the swine industry worldwide for over two decades. However, how PRRSV infection regulates cholesterol synthesis is not fully understood. In this study, we showed that PRRSV infection upregulated the activity of protein phosphatase 2 (PP2A), which subsequently activated 3-hydroxy-3-methylglutaryl coenzyme A reductase (HMGCR), the rate-limiting enzyme in the cholesterol synthesis pathway, to increase the levels of cellular cholesterol. By screening the PRRSV-encoded proteins, we showed that nsp4 dominated the upregulation of cellular cholesterol, independently of the 3C-like protease activity of nsp4. A mutation analysis showed that domain I (amino acids 1-80) of PRRSV nsp4 interacted with PR65 alpha (PR65α), the structural subunit, and PP2Ac, the catalytic subunit, of PP2A. Importantly, domain I of nsp4 inhibited Sendai virus-induced interferon β production, and this inhibitory effect was eliminated by Lovastatin, an HMGCR inhibitor, indicating that the upregulation of cellular cholesterol by nsp4 is a strategy used by PRRSV to suppress the antiviral innate immunity of its host. Collectively, we here demonstrated the mechanism by which PRRSV regulates cellular cholesterol synthesis and reported a novel strategy by which PRRSV evades its host&amp;rsquo;s antiviral innate immune response.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 infection triggers profibrotic macrophage responses and lung fibrosis</title>
+      <link>https://example.com/article/34914922/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34914922/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19-induced &amp;ldquo;acute respiratory distress syndrome&amp;rdquo; (ARDS) is associated with prolonged respiratory failure and high mortality, but the mechanistic basis of lung injury remains incompletely understood. Here, we analyze pulmonary immune responses and lung pathology in two cohorts of patients with COVID-19 ARDS using functional single-cell genomics, immunohistology, and electron microscopy. We describe an accumulation of CD163-expressing monocyte-derived macrophages that acquired a profibrotic transcriptional phenotype during COVID-19 ARDS. Gene set enrichment and computational data integration revealed a significant similarity between COVID-19-associated macrophages and profibrotic macrophage populations identified in idiopathic pulmonary fibrosis. COVID-19 ARDS was associated with clinical, radiographic, histopathological, and ultrastructural hallmarks of pulmonary fibrosis. Exposure of human monocytes to SARS-CoV-2, but not influenza A virus or viral RNA analogs, was sufficient to induce a similar profibrotic phenotype in vitro. In conclusion, we demonstrate that SARS-CoV-2 triggers profibrotic macrophage responses and pronounced fibroproliferative ARDS.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -10125,6 +10429,31 @@
       <guid>https://example.com/article/26962948/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Human cytomegalovirus (hCMV), a ubiquitous beta-herpesvirus, has been associated with several autoimmune diseases. However, the direct role of hCMV in inducing autoimmune disorders remains unclear. Here we report the identification of an autoantibody that recognizes a group of peptides with a conserved motif matching the Pp150 protein of hCMV (anti-Pp150) and is shared among patients with various autoimmune diseases. Anti-Pp150 also recognizes the single-pass membrane protein CIP2A and induces the death of CD56(bright) NK cells, a natural killer cell subset whose expansion is correlated with autoimmune disease. Consistent with this finding, the percentage of circulating CD56(bright) NK cells is reduced in patients with several autoimmune diseases and negatively correlates with anti-Pp150 concentration. CD56(bright) NK cell death occurs via both antibody- and complement-dependent cytotoxicity. Our findings reveal that a shared hCMV-induced autoantibody is involved in the decrease of CD56(bright) NK cells and may thus contribute to the onset of autoimmune disorders.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lung-Targeted Transgene Expression of Nanocomplexed Ad5 Enhances Immune Response in the Presence of Preexisting Immunity</title>
+      <link>https://example.com/article/36714358/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36714358/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recombinant adenovirus serotype 5 (Ad5) vector has been widely applied in vaccine development targeting infectious diseases, such as Ebola virus disease and coronavirus disease 2019 (COVID-19). However, the high prevalence of preexisting anti-vector immunity compromises the immunogenicity of Ad5-based vaccines. Thus, there is a substantial unmet need to minimize preexisting immunity while improving the insert-induced immunity of Ad5 vectors. Herein, we address this need by utilizing biocompatible nanoparticles to modulate Ad5-host interactions. We show that positively charged human serum albumin nanoparticles ((+)HSAnp), which are capable of forming a complex with Ad5, significantly increase the transgene expression of Ad5 in both coxsackievirus-adenovirus receptor-positive and -negative cells. Furthermore, in charge- and dose-dependent manners, Ad5/(+)HSAnp complexes achieve robust (up to 227-fold higher) and long-term (up to 60 days) transgene expression in the lungs of mice following intranasal instillation. Importantly, in the presence of preexisting anti-Ad5 immunity, complexed Ad5-based Ebola and COVID-19 vaccines significantly enhance antigen-specific humoral response and mucosal immunity. These findings suggest that viral aggregation and charge modification could be leveraged to engineer enhanced viral vectors for vaccines and gene therapies.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,12 +5,39 @@
     <link>https://example.com/tag/influenza-virus/</link>
       <atom:link href="https://example.com/tag/influenza-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Influenza Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Influenza Virus</title>
       <link>https://example.com/tag/influenza-virus/</link>
     </image>
+    
+    <item>
+      <title>High-throughput droplet-based analysis of influenza A virus genetic reassortment by single-virus RNA sequencing</title>
+      <link>https://example.com/article/36730204/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36730204/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Influenza A viruses (IAVs) represent a major worldwide health threat. Wild aquatic birds are the natural reservoir of IAVs, which also infect other species including domestic poultry and mammals. Pigs are “mixing vessels” where IAVs from different strains can reassort, posing a continuous threat of zoonotic infections, and animal–human reassortant IAVs episodically generate severe pandemics. We demonstrate large-scale quantitative assessment of reassortment between two circulating human IAVs using high-throughput droplet microfluidics. Our method will enable i) a better understanding of the rules underlying reassortment and ii) scrutinization of reassortment between zoonotic animal viruses and human seasonal viruses, to identify those representing a threat to human health. This provides an additional predictive parameter to complement existing Pandemic Influenza Risk Assessment Tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The segmented RNA genome of influenza A viruses (IAVs) enables viral evolution through genetic reassortment after multiple IAVs coinfect the same cell, leading to viruses harboring combinations of eight genomic segments from distinct parental viruses. Existing data indicate that reassortant genotypes are not equiprobable; however, the low throughput of available virology techniques does not allow quantitative analysis. Here, we have developed a high-throughput single-cell droplet microfluidic system allowing encapsulation of IAV-infected cells, each cell being infected by a single progeny virion resulting from a coinfection process. Customized barcoded primers for targeted viral RNA sequencing enabled the analysis of 18,422 viral genotypes resulting from coinfection with two circulating human H1N1pdm09 and H3N2 IAVs. Results were highly reproducible, confirmed that genetic reassortment is far from random, and allowed accurate quantification of reassortants including rare events. In total, 159 out of the 254 possible reassortant genotypes were observed but with widely varied prevalence (from 0.038 to 8.45%). In cells where eight segments were detected, all 112 possible pairwise combinations of segments were observed. The inclusion of data from single cells where less than eight segments were detected allowed analysis of pairwise cosegregation between segments with very high confidence. Direct coupling analysis accurately predicted the fraction of pairwise segments and full genotypes. Overall, our results indicate that a large proportion of reassortant genotypes can emerge upon coinfection and be detected over a wide range of frequencies, highlighting the power of our tool for systematic and exhaustive monitoring of the reassortment potential of IAVs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Interactomics: dozens of viruses, co-evolving with humans, including the influenza A virus, may actively distort human ageing</title>
@@ -2009,6 +2036,31 @@
 &lt;p&gt;The interferon-induced transmembrane proteins (IFITMs) are broad-spectrum antiviral proteins that inhibit the entry of enveloped viruses. We analyzed the effect of IFITMs on the gamma-2 herpesviruses Kaposi&amp;rsquo;s sarcoma-associated herpesvirus (KSHV) and the closely related rhesus monkey rhadinovirus (RRV). We used CRISPR/Cas9-mediated gene knockout to generate A549 cells, human foreskin fibroblasts (HFF), and human umbilical vein endothelial cells (HUVEC) with combined IFITM1/2/3 knockout and identified IFITMs as cell-dependent inhibitors of KSHV and RRV infection in A549 cells and HFF but not HUVEC. IFITM overexpression revealed IFITM1 as the relevant IFITM that inhibits KSHV and RRV infection. Fluorescent KSHV particles did not pronouncedly colocalize with IFITM-positive compartments. However, we found that KSHV and RRV glycoprotein-mediated cell-cell fusion is enhanced upon IFITM1/2/3 knockout. Taken together, we identified IFITM1 as a cell-dependent restriction factor of KSHV and RRV that acts at the level of membrane fusion. Of note, our results indicate that recombinant IFITM overexpression may lead to results that are not representative for the situation at endogenous levels. Strikingly, we observed that the endotheliotropic KSHV circumvents IFITM-mediated restriction in HUVEC despite high IFITM expression, while influenza A virus (IAV) glycoprotein-driven entry into HUVEC is potently restricted by IFITMs even in the absence of interferon. Mechanistically, we found that KSHV colocalizes less with IFITM1 and IFITM2 in HUVEC than in A549 cells immediately after attachment, potentially contributing to the observed difference in restriction.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;IFITM proteins are the first line of defense against infection by many pathogens and may also have therapeutic importance, as they, among other effectors, mediate the antiviral effect of interferons. Neither their function against herpesviruses nor their mechanism of action is well understood. We report here that in some cells but not in, for example, primary umbilical vein endothelial cells, IFITM1 restricts KSHV and RRV and that, mechanistically, this is likely effected by reducing the fusogenicity of the cell membrane. Further, we demonstrate potent inhibition of IAV glycoprotein-driven infection of cells of extrapulmonary origin by high constitutive IFITM expression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nonclassical autophagy activation pathways are essential for production of infectious Influenza A virus in vitro</title>
+      <link>https://example.com/article/34931347/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34931347/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autophagy is a critical mechanism deployed by eukaryotic cells in response to stress, including viral infection, to boost the innate antimicrobial responses. However, an increasing number of pathogens hijack the autophagic machinery to facilitate their own replication. Influenza A virus (IAV), responsible for several global pandemics, has an intricate dependence on autophagy for successful replication in mammalian cells. To elucidate key chokepoints in the host stress responses facilitating IAV replication, we constructed a meta-transcriptome of IAV and host gene expression dynamics during early (1-3 hpi), mid (4-6 hpi), and late (8-12 hpi) stages of the viral replication cycle at two multiplicities of infection (MOI): 1 and 5. We supplemented the global transcriptome study with phosphoproteomic analysis of stress-activated protein kinase (SAPK/JNK) signaling in lung carcinoma (predominantly used as an in vitro model of IAV replication) and normal human bronchial epithelial cells. We report significant differences in the activation profiles of autophagy regulating genes upon IAV infection at the two MOI as well as divergent dependence on ULK1 signaling within the normal and cancer cells. Regardless of the cell model, JNK-Thr187 signaling was crucial for the production of infectious viral particles.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

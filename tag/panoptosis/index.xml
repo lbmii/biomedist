@@ -5,12 +5,37 @@
     <link>https://example.com/tag/panoptosis/</link>
       <atom:link href="https://example.com/tag/panoptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>PANoptosis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>PANoptosis</title>
       <link>https://example.com/tag/panoptosis/</link>
     </image>
+    
+    <item>
+      <title>ADAR1 and ZBP1 in innate immunity, cell death, and disease</title>
+      <link>https://example.com/review/36710220/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36710220/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ADAR1 and ZBP1 are the only two mammalian proteins that contain Zα domains, which are thought to bind to nucleic acids in the Z-conformation. These two molecules are crucial in regulating diverse biological processes. While ADAR1-mediated RNA editing supports host survival and development, ZBP1-mediated immune responses provide host defense against infection and disease. Recent studies have expanded our understanding of the functions of ADAR1 and ZBP1 beyond their classical roles and established their fundamental regulation of innate immune responses, including NLRP3 inflammasome activation, inflammation, and cell death. Their roles in these processes have physiological impacts across development, infectious and inflammatory diseases, and cancer. In this review, we discuss the functions of ADAR1 and ZBP1 in regulating innate immune responses in development and disease.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>SARS-CoV-2 Z-RNA activates the ZBP1-RIPK3 pathway to promote virus-induced inflammatory responses</title>

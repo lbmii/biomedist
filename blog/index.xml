@@ -57,7 +57,14 @@
 
 &lt;figure  id=&#34;figure-result-of-viewgpl&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;res-view-GPL10787.png&#34; alt=&#34;Result of View(gpl)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Result of View(gpl)&#34; srcset=&#34;
+               /media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_c8b33b650808a52006e0b59907401667.webp 400w,
+               /media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_a18649e4a3ec11c5a06f53bd91a8f8a7.webp 760w,
+               /media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/res-view-GPL10787_hu8981a871c48a8da317f7c33ae0172362_173200_c8b33b650808a52006e0b59907401667.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Result of View(gpl)
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -162,7 +169,14 @@
 
 &lt;figure  id=&#34;figure-result-of-viewgpl&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;res-view-GPL15887.png&#34; alt=&#34;Result of View(gpl)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Result of View(gpl)&#34; srcset=&#34;
+               /media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_0da8d624cdb2f17a5a69398690297573.webp 400w,
+               /media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_9dda080234e5fc29b6836e06d78ef651.webp 760w,
+               /media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/res-view-GPL15887_huaf02594584939d15a936d7267ae346cf_252247_0da8d624cdb2f17a5a69398690297573.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;633&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Result of View(gpl)
     &lt;/figcaption&gt;&lt;/figure&gt;

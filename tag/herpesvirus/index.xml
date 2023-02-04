@@ -5,12 +5,39 @@
     <link>https://example.com/tag/herpesvirus/</link>
       <atom:link href="https://example.com/tag/herpesvirus/index.xml" rel="self" type="application/rss+xml" />
     <description>Herpesvirus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Herpesvirus</title>
       <link>https://example.com/tag/herpesvirus/</link>
     </image>
+    
+    <item>
+      <title>A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus</title>
+      <link>https://example.com/article/36724259/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36724259/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circular RNAs (circRNAs) are single-stranded, closed-circular RNAs, which bind to other RNAs or proteins to regulate their functions. The importance of circRNAs during virus infection has been largely elusive. Here, we identified that a circRNA, hsa_circ_0001400, is induced upon infection with various pathogenic viruses including Kaposi sarcoma herpesvirus (KSHV) and controls viral and human gene expression so that infected human cells have less virus production but better cell growth. KSHV has two phases: latent and lytic cycle. circ_0001400 biases cells to the latent cycle during which viruses express only a limited number of genes to survive for the life of the host. Our results revealed a novel virus-host interaction via circRNAs to maintain latency after infection with an oncogenic virus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non-coding RNAs (ncRNAs) play important roles in host-pathogen interactions; oncogenic viruses like Kaposi’s sarcoma herpesvirus (KSHV) employ ncRNAs to establish a latent reservoir and persist for the life of the host. We previously reported that KSHV infection alters a novel class of RNA, circular RNAs (circRNAs). CircRNAs are alternative splicing isoforms and regulate gene expression, but their importance in infection is largely unknown. Here, we showed that a human circRNA, hsa_circ_0001400, is induced by various pathogenic viruses, namely KSHV, Epstein-Barr virus, and human cytomegalovirus. The induction of circRNAs including circ_0001400 by KSHV is co-transcriptionally regulated, likely at splicing. Consistently, screening for circ_0001400-interacting proteins identified a splicing factor, PNISR. Functional studies using infected primary endothelial cells revealed that circ_0001400 inhibits KSHV lytic transcription and virus production. Simultaneously, the circRNA promoted cell cycle, inhibited apoptosis, and induced immune genes. RNA-pull down assays identified transcripts interacting with circ_0001400, including TTI1, which is a component of the pro-growth mTOR complexes. We thus identified a circRNA that is pro-growth and anti-lytic replication. These results support a model in which KSHV induces circ_0001400 expression to maintain latency. Since circ_0001400 is induced by multiple viruses, this novel viral strategy may be widely employed by other viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Degradation of HDAC10 by autophagy promotes IRF3-mediated antiviral innate immune responses</title>

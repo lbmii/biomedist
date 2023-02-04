@@ -5,12 +5,37 @@
     <link>https://example.com/tag/hiv/</link>
       <atom:link href="https://example.com/tag/hiv/index.xml" rel="self" type="application/rss+xml" />
     <description>HIV</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>HIV</title>
       <link>https://example.com/tag/hiv/</link>
     </image>
+    
+    <item>
+      <title>Candida albicans can foster gut dysbiosis and systemic inflammation during HIV infection</title>
+      <link>https://example.com/article/36722096/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36722096/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Candida albicans&lt;/em&gt; (&lt;em&gt;C. albicans&lt;/em&gt;) is a ubiquitous fungal commensal component of the human microbiota, and under certain circumstances, such as during an immunocompromised state, it may initiate different types of infection. Moreover, &lt;em&gt;C. albicans&lt;/em&gt; continuously and reciprocally interacts with the host immune system as well as with other elements of the gut microbiota, thus contributing significantly to both gut homeostasis and host immunity. People living with HIV (PLWH), including those receiving antiretroviral therapy, are characterized by a depletion of CD4+ T-cells and dysbiosis in their gut. &lt;em&gt;C. albicans&lt;/em&gt; colonization is frequent in PLWH, causing both a high prevalence and high morbidity. Gut barrier damage and elevated levels of microbial translocation are also fairly common in this population. Herein, we take a closer look at the reciprocity among &lt;em&gt;C. albicans&lt;/em&gt;, gut microbiota, HIV, and the host immune system, thus throwing some light on this complex interplay.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Long-primed germinal centres with enduring affinity maturation and clonal migration</title>

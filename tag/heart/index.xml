@@ -5,12 +5,37 @@
     <link>https://example.com/tag/heart/</link>
       <atom:link href="https://example.com/tag/heart/index.xml" rel="self" type="application/rss+xml" />
     <description>Heart</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Heart</title>
       <link>https://example.com/tag/heart/</link>
     </image>
+    
+    <item>
+      <title>Notoginsenoside R1 protects against myocardial ischemia/reperfusion injury in mice via suppressing TAK1-JNK/p38 signaling</title>
+      <link>https://example.com/article/36721009/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36721009/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Previous studies show that notoginsenoside R1 (NG-R1), a novel saponin isolated from Panax notoginseng, protects kidney, intestine, lung, brain and heart from ischemia-reperfusion injury. In this study we investigated the cardioprotective mechanisms of NG-R1 in myocardial ischemia/reperfusion (MI/R) injury in vivo and in vitro. MI/R injury was induced in mice by occluding the left anterior descending coronary artery for 30 min followed by 4 h reperfusion. The mice were treated with NG-R1 (25 mg/kg, i.p.) every 2 h for 3 times starting 30 min prior to ischemic surgery. We showed that NG-R1 administration significantly decreased the myocardial infarction area, alleviated myocardial cell damage and improved cardiac function in MI/R mice. In murine neonatal cardiomyocytes (CMs) subjected to hypoxia/reoxygenation (H/R) in vitro, pretreatment with NG-R1 (25 μM) significantly inhibited apoptosis. We revealed that NG-R1 suppressed the phosphorylation of transforming growth factor β-activated protein kinase 1 (TAK1), JNK and p38 in vivo and in vitro. Pretreatment with JNK agonist anisomycin or p38 agonist P79350 partially abolished the protective effects of NG-R1 in vivo and in vitro. Knockdown of TAK1 greatly ameliorated H/R-induced apoptosis of CMs, and NG-R1 pretreatment did not provide further protection in TAK1-silenced CMs under H/R injury. Overexpression of TAK1 abolished the anti-apoptotic effect of NG-R1 and diminished the inhibition of NG-R1 on JNK/p38 signaling in MI/R mice as well as in H/R-treated CMs. Collectively, NG-R1 alleviates MI/R injury by suppressing the activity of TAK1, subsequently inhibiting JNK/p38 signaling and attenuating cardiomyocyte apoptosis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Exosomes as perioperative therapeutics to limit organ injury</title>
