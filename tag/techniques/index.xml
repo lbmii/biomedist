@@ -38,6 +38,63 @@
     </item>
     
     <item>
+      <title>RT-RPA-Cas12a-based assay facilitates the discrimination of SARS-CoV-2 variants of concern</title>
+      <link>https://example.com/article/23-02-05-11-22/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/23-02-05-11-22/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A SARS-CoV-2 detection method (RRCd) was developed.&lt;/li&gt;
+&lt;li&gt;RRCd can detect and discriminate SARS-CoV-2 mutations.&lt;/li&gt;
+&lt;li&gt;RRCd was validated in 194 clinical samples showing high accuracy and sensitivity.&lt;/li&gt;
+&lt;li&gt;RRCd is independent of bulk and electrical devices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Timely and accurate detection of SARS-CoV-2 variants of concern (VOCs) is urgently needed for pandemic surveillance and control. Great efforts have been made from a mass of scientists in increasing the detection sensitivity and operability, and reducing the turn-around time and cost. Here, we report a nucleic acid testing-based method aiming to detect and discriminate SARS-CoV-2 mutations by combining RT-RPA and CRISPR-Cas12a detecting assays (RRCd). With a detection limit of 10 copies RNA/reaction, RRCd was validated in 194 clinical samples, showing 89% positive predictive agreement and 100% negative predictive agreement, respectively. Critically, using specific crRNAs, representatives of single nucleotide polymorphisms and small deletions in SARS-CoV-2 VOCs including N501Y, T478K and ΔH69-V70 were discriminated by RRCd, demonstrating 100% specificity in clinical samples with C&lt;sub&gt;t&lt;/sub&gt; &amp;lt; 33. The method completes within 65 min and could offer visible results without using any electrical devices, which probably facilitate point-of-care testing of SARS-CoV-2 variants and other epidemic viruses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineered Microparticles for Treatment of Murine Brain Metastasis by Reprograming Tumor Microenvironment and Inhibiting MAPK Pathway</title>
+      <link>https://example.com/article/36698296/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36698296/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Brain metastases (BRM) are common in advanced lung cancer. However, their treatment is challenging due to the blood-brain barrier (BBB) and the immunosuppressive tumor microenvironment (ITME). Microparticles (MPs), a type of extracellular vesicle, can serve as biocompatible drug delivery vehicles that can be further modulated with genetic engineering techniques. MPs prepared from cells induced with different insults are compared and it is found that radiation-treated cell-released microparticles (RMPs) achieve optimal targeting and macrophage activation. The enzyme ubiquitin-specific protease 7 (USP7), which simultaneously regulates tumor growth and reprograms M2 macrophages (M2Φ), is found to be expressed in BRM. Engineered RMPs are then constructed that comprise: 1) the RMP carrier that targets and reprograms M2Φ; 2) a genetically expressed SR-B1-targeting peptide for improved BBB permeability; and 3) a USP7 inhibitor to kill tumor cells and reprogram M2Φ. These RMPs successfully cross the BBB and target M2Φ in vitro and in vivo in mice, effectively reprogramming M2Φ and improving survival in a murine BRM model. Therapeutic effects are further augmented when combined with immune checkpoint blockade. This study provides proof-of-concept for the use of genetically engineered MPs for the treatment of BRM.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Mapping nucleolus-associated chromatin interactions using nucleolus Hi-C reveals pattern of heterochromatin interactions</title>
       <link>https://example.com/article/36681699/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
@@ -1401,6 +1458,56 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cells communicate with each other via receptor-ligand interactions. Here, we describe lentiviral-mediated cell entry by engineered receptor-ligand interaction (ENTER) to display ligand proteins, deliver payloads, and record receptor specificity. We optimize ENTER to decode interactions between T cell receptor (TCR)-MHC peptides, antibody-antigen, and other receptor-ligand pairs. A viral presentation strategy allows ENTER to capture interactions between B cell receptor and any antigen. We engineer ENTER to deliver genetic payloads to antigen-specific T or B cells to selectively modulate cellular behavior in mixed populations. Single-cell readout of ENTER by RNA sequencing (ENTER-seq) enables multiplexed enumeration of antigen specificities, TCR clonality, cell type, and states of individual T cells. ENTER-seq of CMV-seropositive patient blood samples reveals the viral epitopes that drive effector memory T cell differentiation and inter-clonal vs. intra-clonal phenotypic diversity targeting the same epitope. ENTER technology enables systematic discovery of receptor specificity, linkage to cell fates, and antigen-specific cargo delivery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A smart adhesive Janus hydrogel for non-invasive cardiac repair and tissue adhesion prevention</title>
+      <link>https://example.com/article/36509756/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36509756/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Multifunctional hydrogel with asymmetric and reversible adhesion characteristics is essential to handle the obstructions towards bioapplications of trauma removal and postoperative tissue synechia. Herein, we developed a responsively reversible and asymmetrically adhesive Janus hydrogel that enables on-demand stimuli-triggered detachment for efficient myocardial infarction (MI) repair, and synchronously prevents tissue synechia and inflammatory intrusion after surgery. In contrast with most irreversibly and hard-to-removable adhesives, this Janus hydrogel exhibited a reversible adhesion capability and can be noninvasively detached on-demand just by slight biologics. It is interesting that the adhesion behaves exhibited a molecularly encoded adhesion-adaptive stiffening feature similar to the self-protective stress-strain effect of biological tissues. In vitro and in vivo experiments demonstrated that Janus hydrogel can promote the maturation and functions of cardiomyocytes, and facilitate MI repair by reducing oxidative damage and inflammatory response, reconstructing electrical conduction and blood supply in infarcted area. Furthermore, no secondary injury and tissue synechia were triggered after transplantation of Janus hydrogel. This smart Janus hydrogel reported herein offers a potential strategy for clinically transformable cardiac patch and anti-postoperative tissue synechia barrier.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Regulatory Fibroblast-Like Synoviocytes Cell Membrane Coated Nanoparticles: A Novel Targeted Therapy for Rheumatoid Arthritis</title>
+      <link>https://example.com/article/36509660/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36509660/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fibroblast-like synoviocytes (FLS) are the main cell component in the inflamed joints of patients with rheumatoid arthritis (RA). FLS intimately interact with infiltrating T cells. Fibroblasts have potent inhibitory effects on T cells, leading to the resolution of inflammation and immune tolerance. However, this &amp;ldquo;regulatory&amp;rdquo; phenotype is defect in RA, and FLS in RA instead act as &amp;ldquo;proinflammatory&amp;rdquo; phenotype mediating inflammation perpetuation. Signals that orchestrate fibroblast heterogeneity remain unclear. Here, it is demonstrated that different cytokines can induce distinct phenotypes of FLS. Interferon-gamma (IFN-γ) is pivotal in inducing the regulatory phenotype of FLS (which is termed FLSreg ) characterized by high expressions of several inhibitory molecules. Rapamycin enhances the effect of IFN-γ on FLS. Based on the characteristics of FLSreg , a novel biomimetic therapeutic strategy for RA is designed by coating cell membrane derived from FLSreg induced by IFN-γ and rapamycin on nanoparticles, which is called FIRN. FIRN show good efficacy, stability, and inflammatory joint targeting ability in an RA mouse model. The findings clarify how fibroblast phenotypes are modulated in the inflammatory microenvironment and provide insights into novel therapeutic designs for autoimmune diseases based on regulatory fibroblasts.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3924,6 +4031,81 @@
     </item>
     
     <item>
+      <title>HILIC-MS/MS for the Determination of Methylated Adenine Nucleosides in Human Urine</title>
+      <link>https://example.com/article/34902250/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34902250/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N&lt;sup&gt;6&lt;/sup&gt;-methyl-2&amp;rsquo;-deoxyadenosine (m&lt;sup&gt;6&lt;/sup&gt;dA) is a newly discovered DNA epigenetic mark in mammals. N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A), 2&amp;rsquo;-O-methyladenosine (A&lt;sub&gt;m&lt;/sub&gt;), N&lt;sup&gt;6&lt;/sup&gt;,2&amp;rsquo;-O-dimethyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A&lt;sub&gt;m&lt;/sub&gt;), and N&lt;sup&gt;6&lt;/sup&gt;,N&lt;sup&gt;6&lt;/sup&gt;-dimethyladenosine (m&lt;sup&gt;6&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;A) are common RNA modifications. Previous studies illustrated the associations between the aberrations of these methylated adenosines in nucleic acids and cancer. Herein, we developed Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;/graphene-based magnetic dispersive solid-phase extraction for the enrichment and hydrophilic interaction liquid chromatography-mass spectrometry (HILIC-MS/MS) for the measurements of m&lt;sup&gt;6&lt;/sup&gt;dA, m&lt;sup&gt;6&lt;/sup&gt;A, A&lt;sub&gt;m&lt;/sub&gt;, m&lt;sup&gt;6&lt;/sup&gt;A&lt;sub&gt;m&lt;/sub&gt;, and m&lt;sup&gt;6&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;A in human urine samples. We found that malic acid could improve the HILIC-based separation of these modified nucleosides and markedly enhance the sensitivity of their MS detection. With this method, we accurately quantified the contents of these modified adenine nucleosides in urine samples collected from gastric and colorectal cancer patients as well as healthy controls. We found that, relative to healthy controls, urinary m&lt;sup&gt;6&lt;/sup&gt;dA and A&lt;sub&gt;m&lt;/sub&gt; levels are significantly lower for gastric and colorectal cancer patients; while gastric cancer patients also exhibited lower levels of urinary m&lt;sup&gt;6&lt;/sup&gt;A, the trend was opposite for colorectal cancer patients. Together, we developed a robust analytical method for simultaneous measurements of five methylated adenine nucleosides in human urine, and our results revealed an association between the levels of urinary methylated adenine nucleosides and the occurrence of gastric as well as colorectal cancers, suggesting the potential applications of these modified nucleosides as biomarkers for the early detection of these cancers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rescuing ischemic stroke by biomimetic nanovesicles through accelerated thrombolysis and sequential ischemia-reperfusion protection</title>
+      <link>https://example.com/article/34902617/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34902617/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rational design of nanomedicine to accelerate thrombolysis and sequentially avoid thrombolysis-mediated reperfusion injury is still a challenge. Here, we develop a biomimetic nanovesicle (tPA/MNP@PM, tMP) by simple encapsulating melanin nanoparticles (MNP) and tPA with a platelet membrane vesicle (PM), which integrates the thrombus targeting property of PM, the photothermal conversion performance and free radical scavenging property of natural melanin for cascaded ischemic stroke treatment. Benefiting from natural thrombus-targeted adhesion capability of PM, nanovesicles could efficiently target thrombus site. Then near-infrared (NIR) mediated photothermal of MNP could lead to rupture of nanovesicles, thus achieving precise release of tPA in thrombus. Interestingly, local hyperthermia also increases the activity of tPA for accelerating thrombolysis. Afterwards, site specific released MNP (4.5 nm) accompanied by hemoperfusion can cross the BBB and accumulate in cerebral ischemia site, scavenging various free radicals and suppressing inflammation- and immune response-induced injury to achieve neuroprotection after thrombolysis. In addition, the biomimetic nanovesicle could block tPA-induced brain hemorrhage after stroke to improve thrombolytic therapy. The evaluation in ischemic stroke mice confirmed that the simple-prepared nanomedicine with cascaded thrombus targeting, precise thrombolysis and ischemia-reperfusion protection properties can significantly enhance the treatment effect of ischemic stroke. STATEMENT OF SIGNIFICANCE: Ischemic stroke is recognized as a leading cause of death and disability in the world. Rational design of nanomedicine to accelerate thrombolysis and sequentially avoid thrombolysis-mediated reperfusion injury is still a challenge. Herein, a biomimetic nanovesicle (tMP) was developed for sequential ischemic stroke treatment. It could overcome the drawbacks of free tPA for safe thrombolysis: i) platelet membrane biomimetic coating significantly increases thrombus targeting; ii) NIR-mediated photothermal of natural melanin precise controlled release of tPA in thrombus in situ, and local hyperthermia also increases the thrombolytic activity of tPA. Notably, released melanin nanoparticles (4.5 nm) accompanied by hemoperfusion can across BBB and avoid ischemia-reperfusion injury through free radical scavenging and inflammation/immune response suppression.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RNA modifications detection by comparative Nanopore direct RNA sequencing</title>
+      <link>https://example.com/article/34893601/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34893601/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA molecules undergo a vast array of chemical post-transcriptional modifications (PTMs) that can affect their structure and interaction properties. In recent years, a growing number of PTMs have been successfully mapped to the transcriptome using experimental approaches relying on high-throughput sequencing. Oxford Nanopore direct-RNA sequencing has been shown to be sensitive to RNA modifications. We developed and validated Nanocompore, a robust analytical framework that identifies modifications from these data. Our strategy compares an RNA sample of interest against a non-modified control sample, not requiring a training set and allowing the use of replicates. We show that Nanocompore can detect different RNA modifications with position accuracy in vitro, and we apply it to profile m6A in vivo in yeast and human RNAs, as well as in targeted non-coding RNAs. We confirm our results with orthogonal methods and provide novel insights on the co-occurrence of multiple modified residues on individual RNA molecules.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Mapping the temporal and spatial dynamics of the human endometrium in vivo and in vitro</title>
       <link>https://example.com/article/34857954/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
@@ -3984,6 +4166,37 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cytokine immunotherapy represents an attractive strategy to stimulate robust immune responses for renal injury repair in ischemic acute kidney injury (AKI). However, its clinical application is hindered by its nonspecificity to kidney, short circulation half-life, and severe side effects. An ideal cytokine immunotherapy for AKI requires preferential delivery of cytokines with accurate dosage to the kidney and sustained-release of cytokines to stimulate the immune responses. Herein, we developed a DNA nanoraft cytokine by precisely arranging interleukin-33 (IL-33) nanoarray on rectangle DNA origami, through which IL-33 can be preferentially delivered to the kidney for alleviation of AKI. A nanoraft carrying precisely quantified IL-33 predominantly accumulated in the kidney for up to 48 h. Long-term sustained-release of IL-33 from nanoraft induced rapid expansion of type 2 innate lymphoid cells (ILC 2s) and regulatory T cells (Tregs) and achieved better treatment efficiency compared to free IL-33 treatment. Thus, our study demonstrates that a nanoraft can serve as a structurally well-defined delivery platform for cytokine immunotherapy in ischemic AKI and other renal diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A multiplexed circulating tumor DNA detection platform engineered from 3D-coded interlocked DNA rings</title>
+      <link>https://example.com/article/34901530/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34901530/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A platform termed 3D-coded ID rings was created for multiplexed ctDNA detection.&lt;/li&gt;
+&lt;li&gt;This platform was integrated with two schemes: the ID ring scheme and the 3D-coded scheme.&lt;/li&gt;
+&lt;li&gt;The platform could achieve multiplexed detection with detection limit of 500 copies per million in non-invasive specimens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Circulating tumor DNA (ctDNA) is a critical biomarker not only important for the early detection of tumors but also invaluable for personalized treatments. Currently ctDNA detection relies on sequencing. Here, a platform termed three-dimensional-coded interlocked DNA rings (3D-coded ID rings) was created for multiplexed ctDNA identification. The ID rings provide a ctDNA recognition ring that is physically interlocked with a reporter ring. The specific binding of ctDNA to the recognition ring initiates target-responsive cutting via a restriction endonuclease; the cutting then triggers rolling circle amplification on the reporter ring. The signals are further integrated with internal 3D codes for multiplexed readouts. ctDNAs from non-invasive clinical specimens including plasma, feces, and urine were detected and validated at a sensitivity much higher than those obtained through sequencing. This 3D-coded ID ring platform can detect any multiple DNA fragments simultaneously without sequencing. We envision that our platform will facilitate the implementation of future personalized/precision medicine.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

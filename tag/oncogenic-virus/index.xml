@@ -5,12 +5,37 @@
     <link>https://example.com/tag/oncogenic-virus/</link>
       <atom:link href="https://example.com/tag/oncogenic-virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Oncogenic Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Oncogenic Virus</title>
       <link>https://example.com/tag/oncogenic-virus/</link>
     </image>
+    
+    <item>
+      <title>Epstein-Barr virus miR-BART2-5p and miR-BART11-5p regulate cell proliferation, apoptosis, and migration by targeting RB and p21 in gastric carcinoma</title>
+      <link>https://example.com/article/36418188/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36418188/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epstein-Barr virus (EBV) was the first tumor virus discovered in humans and can cause various types of tumors. Molecular classification suggests that EBV-associated gastric cancer (EBVaGC) is a unique subtype of gastric cancer.EBV was also the first virus found to encode its own microRNAs. However, the functions of many miRNAs remain unknown. This study investigated the roles and targets of miR-BART2-5p (BART2-5p) and miR-BART11-5p (BART11-5p) in EBVaGC. The expression of RB and p21 in EBVaGC and EBV negative GC (EBVnGC) cells was evaluated by western blotting. Expression of BART2-5p and BART11-5p in EBVaGC cells was evaluated by droplet digital PCR. The effects of BART2-5p or BART11-5p and their potential mechanisms were further investigated using cell counting kit-8, colony formation assay, flow cytometry analysis, and transwell assay. BART2-5p and BART11-5p were abundantly expressed and RB and p21 were downregulated in EBVaGC cells. BART2-5p regulates RB and p21 expression by directly targeting them. BART11-5p regulates RB expression by directly targeting RB. Both BART2-5p and BART11-5p promoted proliferation and migration of gastric cancer cells, while inhibiting apoptosis and promoting S-phase arrest of the cell cycle. Thus, BART2-5p and BART11-5p play important roles in promoting proliferation and migration, and inhibiting apoptosis in EBVaGC by targeting RB and p21, thus providing new potential therapeutic targets for EBVaGC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Infection phase-dependent dynamics of the viral and host N6-methyladenosine epitranscriptome in the lifecycle of an oncogenic virus in vivo</title>

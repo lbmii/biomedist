@@ -5,12 +5,39 @@
     <link>https://example.com/tag/endoplasmic-reticulum/</link>
       <atom:link href="https://example.com/tag/endoplasmic-reticulum/index.xml" rel="self" type="application/rss+xml" />
     <description>Endoplasmic Reticulum</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Endoplasmic Reticulum</title>
       <link>https://example.com/tag/endoplasmic-reticulum/</link>
     </image>
+    
+    <item>
+      <title>LINC00355 mediates CTNNBIP1 promoter methylation and promotes ER stress-induced podocyte injury in diabetic nephropathy</title>
+      <link>https://example.com/article/36738224/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36738224/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Endoplasmic reticulum stress (ER stress) plays an important role in podocyte injury in diabetic nephropathy. Wnt/β-catenin signaling modulates ER stress, yet the epigenetic regulation of β-catenin in ER stress and podocyte injury remains largely unknown. Herein, we tested the hypothesis that LINC00355 recruits EZH1 to the promoter region of CTNNBIP1 and trimethylates H3K4 to regulate ER-stress induced podocyte injury in DN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LINC00355 is upregulated in podocytes and correlates with renal function decline in DN patients. LINC00355 localizes in the nucleus and exerts biological functions by directly binding EZH1, which epigenetically targets CTNNBIP1 through repressive trimethylation of H3K4 and activates Wnt/β-catenin signaling and ER stress. Further, we provide mechanistic evidences that LINC00355 recruits EZH1 to the promoter region of CTNNBIP1 and regulates ER-stress induced podocyte injury in DN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Innovation and conclusion:&lt;/em&gt; Our data reveal a major role of LINC00355/EZH1/CTNNBIP1 network in triggering podocyte injury, providing new evidences for understanding the role of ER stress in DN.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Tex2 is required for lysosomal functions at TMEM55-dependent ER membrane contact sites</title>

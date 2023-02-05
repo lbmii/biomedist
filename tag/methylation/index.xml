@@ -5,12 +5,39 @@
     <link>https://example.com/tag/methylation/</link>
       <atom:link href="https://example.com/tag/methylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Methylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Methylation</title>
       <link>https://example.com/tag/methylation/</link>
     </image>
+    
+    <item>
+      <title>LINC00355 mediates CTNNBIP1 promoter methylation and promotes ER stress-induced podocyte injury in diabetic nephropathy</title>
+      <link>https://example.com/article/36738224/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36738224/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Endoplasmic reticulum stress (ER stress) plays an important role in podocyte injury in diabetic nephropathy. Wnt/β-catenin signaling modulates ER stress, yet the epigenetic regulation of β-catenin in ER stress and podocyte injury remains largely unknown. Herein, we tested the hypothesis that LINC00355 recruits EZH1 to the promoter region of CTNNBIP1 and trimethylates H3K4 to regulate ER-stress induced podocyte injury in DN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LINC00355 is upregulated in podocytes and correlates with renal function decline in DN patients. LINC00355 localizes in the nucleus and exerts biological functions by directly binding EZH1, which epigenetically targets CTNNBIP1 through repressive trimethylation of H3K4 and activates Wnt/β-catenin signaling and ER stress. Further, we provide mechanistic evidences that LINC00355 recruits EZH1 to the promoter region of CTNNBIP1 and regulates ER-stress induced podocyte injury in DN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Innovation and conclusion:&lt;/em&gt; Our data reveal a major role of LINC00355/EZH1/CTNNBIP1 network in triggering podocyte injury, providing new evidences for understanding the role of ER stress in DN.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>NPY methylated ctDNA is a promising biomarker for treatment response monitoring in metastatic colorectal cancer</title>
@@ -921,6 +948,31 @@
     </item>
     
     <item>
+      <title>The m6A reader IGF2BP3 promotes acute myeloid leukemia progression by enhancing RCC2 stability</title>
+      <link>https://example.com/article/35217832/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/35217832/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N6-methyladenosine (m6A) is the most abundant posttranscriptional modification of mRNA in eukaryotes. Recent evidence suggests that dysregulated m6A-associated proteins and m6A modifications play a pivotal role in the initiation and progression of diseases such as cancer. Here, we identified that IGF2BP3 is specifically overexpressed in acute myeloid leukemia (AML), a subtype of leukemia associated with poor prognosis and high genetic risk. IGF2BP3 is required for maintaining AML cell survival in an m6A-dependent manner, and knockdown of IGF2BP3 dramatically suppresses the apoptosis, reduces the proliferation, and impairs the leukemic capacity of AML cells in vitro and in vivo. Mechanistically, IGF2BP3 interacts with RCC2 mRNA and stabilizes the expression of m6A-modified RNA. Thus, we provided compelling evidence demonstrating that the m6A reader IGF2BP3 contributes to tumorigenesis and poor prognosis in AML and can serve as a target for the development of cancer therapeutics.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Epigenetic modifications in spinal ligament aging</title>
       <link>https://example.com/review/35218968/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
@@ -1115,6 +1167,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We showed that vitamin C deficiency leads to acute tubular necrosis (ATN) using a vitamin C-deficient mouse model (Gulo knock-out). DNA/RNA epigenetic modifications and injured S3 proximal tubule cells were identified in the vitamin C-deficient kidneys using whole-genome bisulfite sequencing, methylated RNA immunoprecipitation sequencing, and single-cell RNA sequencing.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Integrated evidence suggested that epigenetic modifications affected the proximal tubule cells and fenestrated endothelial cells, leading to tubule injury and hypoxia through transcriptional regulation. Strikingly, loss of DNA hydroxymethylation and DNA hypermethylation in vitamin C-deficient kidneys preceded the histologic sign of tubule necrosis, indicating the causality of vitamin C-induced epigenetic modification in ATN. Consistently, prophylactic supplementation of an oxidation-resistant vitamin C derivative, ascorbyl phosphate magnesium, promoted DNA demethylation and prevented the progression of cisplatin-induced ATN.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Vitamin C played a critical role in renal homeostasis and pathogenesis in a mouse model, suggesting vitamin supplementation may be an approach to lower the risk of kidney injury.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>HILIC-MS/MS for the Determination of Methylated Adenine Nucleosides in Human Urine</title>
+      <link>https://example.com/article/34902250/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34902250/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N&lt;sup&gt;6&lt;/sup&gt;-methyl-2&amp;rsquo;-deoxyadenosine (m&lt;sup&gt;6&lt;/sup&gt;dA) is a newly discovered DNA epigenetic mark in mammals. N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A), 2&amp;rsquo;-O-methyladenosine (A&lt;sub&gt;m&lt;/sub&gt;), N&lt;sup&gt;6&lt;/sup&gt;,2&amp;rsquo;-O-dimethyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A&lt;sub&gt;m&lt;/sub&gt;), and N&lt;sup&gt;6&lt;/sup&gt;,N&lt;sup&gt;6&lt;/sup&gt;-dimethyladenosine (m&lt;sup&gt;6&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;A) are common RNA modifications. Previous studies illustrated the associations between the aberrations of these methylated adenosines in nucleic acids and cancer. Herein, we developed Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;/graphene-based magnetic dispersive solid-phase extraction for the enrichment and hydrophilic interaction liquid chromatography-mass spectrometry (HILIC-MS/MS) for the measurements of m&lt;sup&gt;6&lt;/sup&gt;dA, m&lt;sup&gt;6&lt;/sup&gt;A, A&lt;sub&gt;m&lt;/sub&gt;, m&lt;sup&gt;6&lt;/sup&gt;A&lt;sub&gt;m&lt;/sub&gt;, and m&lt;sup&gt;6&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;A in human urine samples. We found that malic acid could improve the HILIC-based separation of these modified nucleosides and markedly enhance the sensitivity of their MS detection. With this method, we accurately quantified the contents of these modified adenine nucleosides in urine samples collected from gastric and colorectal cancer patients as well as healthy controls. We found that, relative to healthy controls, urinary m&lt;sup&gt;6&lt;/sup&gt;dA and A&lt;sub&gt;m&lt;/sub&gt; levels are significantly lower for gastric and colorectal cancer patients; while gastric cancer patients also exhibited lower levels of urinary m&lt;sup&gt;6&lt;/sup&gt;A, the trend was opposite for colorectal cancer patients. Together, we developed a robust analytical method for simultaneous measurements of five methylated adenine nucleosides in human urine, and our results revealed an association between the levels of urinary methylated adenine nucleosides and the occurrence of gastric as well as colorectal cancers, suggesting the potential applications of these modified nucleosides as biomarkers for the early detection of these cancers.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/womb/</link>
       <atom:link href="https://example.com/tag/womb/index.xml" rel="self" type="application/rss+xml" />
     <description>Womb</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Womb</title>
       <link>https://example.com/tag/womb/</link>
     </image>
+    
+    <item>
+      <title>Landscape of pathogenic mutations in premature ovarian insufficiency</title>
+      <link>https://example.com/article/36732629/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36732629/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Premature ovarian insufficiency (POI) is a major cause of female infertility due to early loss of ovarian function. POI is a heterogeneous condition, and its molecular etiology is unclear. To identify genetic variants associated with POI, here we performed whole-exome sequencing in a cohort of 1,030 patients with POI. We detected 195 pathogenic/likely pathogenic variants in 59 known POI-causative genes, accounting for 193 (18.7%) cases. Association analyses comparing the POI cohort with a control cohort of 5,000 individuals without POI identified 20 further POI-associated genes with a significantly higher burden of loss-of-function variants. Functional annotations of these novel 20 genes indicated their involvement in ovarian development and function, including gonadogenesis (LGR4 and PRDM1), meiosis (CPEB1, KASH5, MCMDC2, MEIOSIN, NUP43, RFWD3, SHOC1, SLX4 and STRA8) and folliculogenesis and ovulation (ALOX12, BMP6, H1-8, HMMR, HSD17B1, MST1R, PPM1B, ZAR1 and ZP3). Cumulatively, pathogenic and likely pathogenic variants in known POI-causative and novel POI-associated genes contributed to 242 (23.5%) cases. Further genotype-phenotype correlation analyses indicated that genetic contribution was higher in cases with primary amenorrhea compared to that in cases with secondary amenorrhea. This study expands understanding of the genetic landscape underlying POI and presents insights that have the potential to improve the utility of diagnostic genetic screenings.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>ALKBH5-mediated m6A modification of circCCDC134 facilitates cervical cancer metastasis by enhancing HIF1A transcription</title>

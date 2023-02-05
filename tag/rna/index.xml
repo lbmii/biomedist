@@ -5,12 +5,39 @@
     <link>https://example.com/tag/rna/</link>
       <atom:link href="https://example.com/tag/rna/index.xml" rel="self" type="application/rss+xml" />
     <description>RNA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>RNA</title>
       <link>https://example.com/tag/rna/</link>
     </image>
+    
+    <item>
+      <title>LINC00355 mediates CTNNBIP1 promoter methylation and promotes ER stress-induced podocyte injury in diabetic nephropathy</title>
+      <link>https://example.com/article/36738224/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36738224/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Endoplasmic reticulum stress (ER stress) plays an important role in podocyte injury in diabetic nephropathy. Wnt/β-catenin signaling modulates ER stress, yet the epigenetic regulation of β-catenin in ER stress and podocyte injury remains largely unknown. Herein, we tested the hypothesis that LINC00355 recruits EZH1 to the promoter region of CTNNBIP1 and trimethylates H3K4 to regulate ER-stress induced podocyte injury in DN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; LINC00355 is upregulated in podocytes and correlates with renal function decline in DN patients. LINC00355 localizes in the nucleus and exerts biological functions by directly binding EZH1, which epigenetically targets CTNNBIP1 through repressive trimethylation of H3K4 and activates Wnt/β-catenin signaling and ER stress. Further, we provide mechanistic evidences that LINC00355 recruits EZH1 to the promoter region of CTNNBIP1 and regulates ER-stress induced podocyte injury in DN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Innovation and conclusion:&lt;/em&gt; Our data reveal a major role of LINC00355/EZH1/CTNNBIP1 network in triggering podocyte injury, providing new evidences for understanding the role of ER stress in DN.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus</title>
@@ -71,6 +98,38 @@
       <guid>https://example.com/article/36700983/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Long non-coding RNAs (lncRNAs) can act as regulatory RNAs which, by altering the expression of target genes, impact on the cellular phenotype and cardiovascular disease development. Endothelial lncRNAs and their vascular functions are largely undefined. Deep RNA-Seq and FANTOM5 CAGE analysis revealed the lncRNA &lt;em&gt;LINC00607&lt;/em&gt; to be highly enriched in human endothelial cells. &lt;em&gt;LINC00607&lt;/em&gt; was induced in response to hypoxia, arteriosclerosis regression in non-human primates, post-atherosclerotic cultured endothelial cells from patients and also in response to propranolol used to induce regression of human arteriovenous malformations. siRNA knockdown or CRISPR/Cas9 knockout of &lt;em&gt;LINC00607&lt;/em&gt; attenuated VEGF-A-induced angiogenic sprouting. &lt;em&gt;LINC00607&lt;/em&gt; knockout in endothelial cells also integrated less into newly formed vascular networks in an in vivo assay in SCID mice. Overexpression of &lt;em&gt;LINC00607&lt;/em&gt; in CRISPR knockout cells restored normal endothelial function. RNA- and ATAC-Seq after &lt;em&gt;LINC00607&lt;/em&gt; knockout revealed changes in the transcription of endothelial gene sets linked to the endothelial phenotype and in chromatin accessibility around ERG-binding sites. Mechanistically, &lt;em&gt;LINC00607&lt;/em&gt; interacted with the SWI/SNF chromatin remodeling protein BRG1. CRISPR/Cas9-mediated knockout of BRG1 in HUVEC followed by CUT&amp;amp;RUN revealed that BRG1 is required to secure a stable chromatin state, mainly on ERG-binding sites. In conclusion, &lt;em&gt;LINC00607&lt;/em&gt; is an endothelial-enriched lncRNA that maintains ERG target gene transcription by interacting with the chromatin remodeler BRG1 to ultimately mediate angiogenesis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs</title>
+      <link>https://example.com/article/36696902/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36696902/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Metatranscriptome search yields a 5-fold increase in viroid-like circular RNA diversity&lt;/li&gt;
+&lt;li&gt;Distant relatives of hepatitis delta virus and diverse viroid-like viruses are discovered&lt;/li&gt;
+&lt;li&gt;Viroid-like circular RNAs are targeted by endogenous CRISPR systems&lt;/li&gt;
+&lt;li&gt;Diverse ribozymes and ribozyme combinations identified in viroid-like RNAs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Viroids and viroid-like covalently closed circular (ccc) RNAs are minimal replicators that typically encode no proteins and hijack cellular enzymes for replication. The extent and diversity of viroid-like agents are poorly understood. We developed a computational pipeline to identify viroid-like cccRNAs and applied it to 5,131 metatranscriptomes and 1,344 plant transcriptomes. The search yielded 11,378 viroid-like cccRNAs spanning 4,409 species-level clusters, a 5-fold increase compared to the previously identified viroid-like elements. Within this diverse collection, we discovered numerous putative viroids, satellite RNAs, retrozymes, and ribozy-like viruses. Diverse ribozyme combinations and unusual ribozymes within the cccRNAs were identified. Self-cleaving ribozymes were identified in ambiviruses, some mito-like viruses and capsid-encoding satellite virus-like cccRNAs. The broad presence of viroid-like cccRNAs in diverse transcriptomes and ecosystems implies that their host range is far broader than currently known, and matches to CRISPR spacers suggest that some cccRNAs replicate in prokaryotes.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1129,6 +1188,34 @@
     </item>
     
     <item>
+      <title>High yield engineered nanovesicles from ADSC with enriched miR-21-5p promote angiogenesis in adipose tissue regeneration</title>
+      <link>https://example.com/article/36528594/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36528594/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs) have been found to have a great potential for soft tissue repair due to various biological functions, including pro-angiogenesis and low immunogenicity. However, the low yield and heterogeneity of MSC-EVs limited their clinical transformation. This study was designed to develop a novel adipose-derived stem cell engineered nanovesicles (ADSC-NVs) with high production and explore its pro-angiogenetic effect and application in adipose tissue regeneration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Adipose-derived stem cell-derived extracellular vesicles (ADSC-EVs) were isolated from an EVs-free culture medium for human ADSCs (hADSCs). ADSC-NVs were prepared by sequentially extruding ADSCs followed by iodixanol density gradient ultracentrifugation and were compared with ADSC-EVs in morphology, size distribution, protein contents and yield. The pro-angiogenetic effect of ADSC-NVs in different doses (0, 5, 20 and 80 μg/mL) in vitro was determined using transwell assay, tube formation assay, western blot and qRT-PCR. In vivo, BALB/c nude mice were administered injection of a mixture of fat granules and different dose of ADSC-NVs and grafts were harvested at 12 weeks post-transplantation for further analysis. By analyzing the weight and volume of grafts and histological evaluation, we investigated the effect of ADSC-NVs in vessel formation and adipose tissue regeneration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Our results showed yield of purified ADSC-NVs was approximately 20 times more than that of ADSC-EVs secreted by the same number of ADSCs. In vitro, both ADSC-NVs and ADSC-EVs exhibited a dose-dependent pro-angiogenetic effect, despite their distinct miRNA profiles. These effects of ADSC-NVs may be mediated by enriched miR-21-5p via PTEN inhibition and PI3K/p-Akt signaling activation. Furthermore, after a mixed injection of ADSC-NVs, vessel formation and adipose regeneration were observed in vivo in fat implants.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study developed a potent alternative of ADSC-EVs. ADSC-NVs have a high pro-angiogenesis potential and can be used as cell-free therapeutic biomaterials in soft tissue regeneration.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Somatosensory neurons express specific sets of lincRNAs, and lincRNA CLAP promotes itch sensation in mice</title>
       <link>https://example.com/article/36524339/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
@@ -1554,6 +1641,31 @@
       <guid>https://example.com/article/36300875/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;RNA G-quadruplex (rG4) structures in the 5&amp;rsquo; untranslated region (5&amp;rsquo;UTR) play crucial roles in fundamental cellular processes. ADAR is an important enzyme that binds to double-strand RNA and accounts for the conversion of Adenosine to Inosine in RNA editing. However, so far there is no report on the formation and regulatory role of rG4 on ADAR expression. Here, we identify and characterize a thermostable rG4 structure within the 5&amp;rsquo;UTR of the ADAR1 mRNA and demonstrate its formation and inhibitory role on translation in reporter gene and native gene constructs. We reveal rG4-specific helicase DHX36 interacts with this rG4 in vitro and in cells under knockdown and knockout conditions by GTFH (G-quadruplex-triggered fluorogenic hybridization) probes and modulates translation in an rG4-dependent manner. Our results further substantiate the rG4 structure-DHX36 protein interaction in cells and highlight rG4 to be a key player in controlling ADAR1 translation.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Epstein-Barr virus miR-BART2-5p and miR-BART11-5p regulate cell proliferation, apoptosis, and migration by targeting RB and p21 in gastric carcinoma</title>
+      <link>https://example.com/article/36418188/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36418188/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epstein-Barr virus (EBV) was the first tumor virus discovered in humans and can cause various types of tumors. Molecular classification suggests that EBV-associated gastric cancer (EBVaGC) is a unique subtype of gastric cancer.EBV was also the first virus found to encode its own microRNAs. However, the functions of many miRNAs remain unknown. This study investigated the roles and targets of miR-BART2-5p (BART2-5p) and miR-BART11-5p (BART11-5p) in EBVaGC. The expression of RB and p21 in EBVaGC and EBV negative GC (EBVnGC) cells was evaluated by western blotting. Expression of BART2-5p and BART11-5p in EBVaGC cells was evaluated by droplet digital PCR. The effects of BART2-5p or BART11-5p and their potential mechanisms were further investigated using cell counting kit-8, colony formation assay, flow cytometry analysis, and transwell assay. BART2-5p and BART11-5p were abundantly expressed and RB and p21 were downregulated in EBVaGC cells. BART2-5p regulates RB and p21 expression by directly targeting them. BART11-5p regulates RB expression by directly targeting RB. Both BART2-5p and BART11-5p promoted proliferation and migration of gastric cancer cells, while inhibiting apoptosis and promoting S-phase arrest of the cell cycle. Thus, BART2-5p and BART11-5p play important roles in promoting proliferation and migration, and inhibiting apoptosis in EBVaGC by targeting RB and p21, thus providing new potential therapeutic targets for EBVaGC.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8453,6 +8565,31 @@
     </item>
     
     <item>
+      <title>Highly conserved s2m element of SARS-CoV-2 dimerizes via a kissing complex and interacts with host miRNA-1307-3p</title>
+      <link>https://example.com/article/34908151/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34908151/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ongoing COVID-19 pandemic highlights the necessity for a more fundamental understanding of the coronavirus life cycle. The causative agent of the disease, SARS-CoV-2, is being studied extensively from a structural standpoint in order to gain insight into key molecular mechanisms required for its survival. Contained within the untranslated regions of the SARS-CoV-2 genome are various conserved stem-loop elements that are believed to function in RNA replication, viral protein translation, and discontinuous transcription. While the majority of these regions are variable in sequence, a 41-nucleotide s2m element within the genome 3&amp;rsquo; untranslated region is highly conserved among coronaviruses and three other viral families. In this study, we demonstrate that the SARS-CoV-2 s2m element dimerizes by forming an intermediate homodimeric kissing complex structure that is subsequently converted to a thermodynamically stable duplex conformation. This process is aided by the viral nucleocapsid protein, potentially indicating a role in mediating genome dimerization. Furthermore, we demonstrate that the s2m element interacts with multiple copies of host cellular microRNA (miRNA) 1307-3p. Taken together, our results highlight the potential significance of the dimer structures formed by the s2m element in key biological processes and implicate the motif as a possible therapeutic drug target for COVID-19 and other coronavirus-related diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The emerging roles of circRNAs in cancer and oncology</title>
       <link>https://example.com/review/34912049/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
@@ -8486,12 +8623,143 @@
     </item>
     
     <item>
+      <title>Research progress on the tsRNA classification, function, and application in gynecological malignant tumors</title>
+      <link>https://example.com/review/34907180/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34907180/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A large number of small non-coding RNAs derived from tRNAs, called tRNA-derived small RNA (tsRNAs), have been identified by high-throughput RNA sequencing of cell lines. Further research has revealed that they are not produced via random tRNA degradation, but through degradation by specific nuclease cleavages, such as Elac Ribonuclease Z 2 (ELAC2)/RNase Z, RNase L, Dicer, and angiogenin (ANG), the tsRNAs can be classified into the following types based on the location from which they have been derived from the parental tRNA: tRF-1s, tRF-3s, tRF-5s, tiRNA, and tRF-2s/i-tRFs. Moreover, tsRNAs are a type of small RNAs with diverse functions, including gene expression regulation, anti-apoptosis, translation inhibition, participation in epigenetic regulation, initial virus reverse transcription, promote virus replication and cell-to-cell communication. Certain types of tsRNAs are overexpressed in cancer tissues, but are underexpressed in normal tissues. Therefore, the relationship between tsRNAs and the occurrence and development of cancer has attracted significant research attention. Research advancements have contributed to further discoveries of the biological activities of tsRNAs, but the mechanisms of their biogenesis and functions have not been fully elucidated. This article reviews the classification and biological functions of tsRNAs, and introduces the research progress in gynecological malignancies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circulating Ubiquitous RNA, A Highly Predictive and Prognostic Biomarker in Hospitalized Coronavirus Disease 2019 (COVID-19) Patients</title>
+      <link>https://example.com/article/34894121/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34894121/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Approximately 15-30% of hospitalized coronavirus disease 2019 (COVID-19) patients develop acute respiratory distress syndrome, systemic tissue injury, and/or multi-organ failure leading to death in around 45% of cases. There is a clear need for biomarkers that quantify tissue injury, predict clinical outcomes, and guide the clinical management of hospitalized COVID-19 patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We herein report the quantification by droplet-based digital polymerase chain reaction (ddPCR) of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNAemia and the plasmatic release of a ubiquitous human intracellular marker, the ribonuclease P (RNase P) in order to evaluate tissue injury and cell lysis in the plasma of 139 COVID-19 hospitalized patients at admission.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We confirmed that SARS-CoV-2 RNAemia was associated with clinical severity of COVID-19 patients. In addition, we showed that plasmatic RNase P RNAemia at admission was also highly correlated with disease severity (P &amp;lt; .001) and invasive mechanical ventilation status (P &amp;lt; .001) but not with pulmonary severity. Altogether, these results indicate a consequent cell lysis process in severe and critical patients but not systematically due to lung cell death. Finally, the plasmatic RNase P RNA value was also significantly associated with overall survival.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Viral and ubiquitous blood biomarkers monitored by ddPCR could be useful for the clinical monitoring and the management of hospitalized COVID-19 patients. Moreover, these results could pave the way for new and more personalized circulating biomarkers in COVID-19, and more generally in infectious diseases, specific from each patient organ injury profile.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Circular RNA circCCNT2 is upregulated in the anterior cingulate cortex of individuals with bipolar disorder</title>
+      <link>https://example.com/article/34893581/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34893581/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gene expression dysregulation in the brain has been associated with bipolar disorder, but little is known about the role of non-coding RNAs. Circular RNAs are a novel class of long noncoding RNAs that have recently been shown to be important in brain development and function. However, their potential role in psychiatric disorders, including bipolar disorder, has not been well investigated. In this study, we profiled circular RNAs in the brain tissue of individuals with bipolar disorder. Total RNA sequencing was initially performed in samples from the anterior cingulate cortex of a cohort comprised of individuals with bipolar disorder (N = 13) and neurotypical controls (N = 13) and circular RNAs were identified and analyzed using &amp;ldquo;circtools&amp;rdquo;. Significant circular RNAs were validated by RT-qPCR and replicated in the anterior cingulate cortex in an independent cohort (24 bipolar disorder cases and 27 controls). In addition, we conducted in vitro studies using B-lymphoblastoid cells collected from bipolar cases (N = 19) and healthy controls (N = 12) to investigate how circular RNAs respond following lithium treatment. In the discovery RNA sequencing analysis, 26 circular RNAs were significantly differentially expressed between bipolar disorder cases and controls (FDR &amp;lt; 0.1). Of these, circCCNT2 was RT-qPCR validated showing significant upregulation in bipolar disorder (p = 0.03). This upregulation in bipolar disorder was replicated in an independent post-mortem human anterior cingulate cortex cohort and in B-lymphoblastoid cell culture. Furthermore, circCCNT2 expression was reduced in response to lithium treatment in vitro. Together, our study is the first to associate circCCNT2 to bipolar disorder and lithium treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>LncEDCH1 improves mitochondrial function to reduce muscle atrophy by interacting with SERCA2</title>
       <link>https://example.com/article/35024244/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35024244/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skeletal muscle is a regulator of the body&amp;rsquo;s energy expenditure and metabolism. Abnormal regulation of skeletal muscle-specific genes leads to various muscle diseases. Long non-coding RNAs (lncRNAs) have been demonstrated to play important roles in muscle growth and muscle atrophy. To explore the potential function of muscle-associated lncRNA, we analyzed our previous RNA-sequencing data and selected the lncRNA (&lt;em&gt;LncEDCH1&lt;/em&gt;) as the research object. In this study, we report that &lt;em&gt;LncEDCH1&lt;/em&gt; is specifically enriched in skeletal muscle, and its transcriptional activity is positively regulated by transcription factor SP1. &lt;em&gt;LncEDCH1&lt;/em&gt; regulates myoblast proliferation and differentiation &lt;em&gt;in vitro&lt;/em&gt;. &lt;em&gt;In vivo&lt;/em&gt;, &lt;em&gt;LncEDCH1&lt;/em&gt; reduces intramuscular fat deposition, activates slow-twitch muscle phenotype, and inhibits muscle atrophy. Mechanistically, &lt;em&gt;LncEDCH1&lt;/em&gt; binds to sarcoplasmic/ER calcium ATPase 2 (SERCA2) protein to enhance SERCA2 protein stability and increase SERCA2 activity. Meanwhile, &lt;em&gt;LncEDCH1&lt;/em&gt; improves mitochondrial efficiency possibly through a SERCA2-mediated activation of the AMPK pathway. Our findings provide a strategy for using &lt;em&gt;LncEDCH1&lt;/em&gt; as an effective regulator for the treatment of muscle atrophy and energy metabolism.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long non-coding RNA NORAD/miR-224-3p/MTDH axis contributes to CDDP resistance of esophageal squamous cell carcinoma by promoting nuclear accumulation of β-catenin</title>
+      <link>https://example.com/article/34893064/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34893064/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Cis-diamminedichloro-platinum (CDDP)-based chemotherapy regimens are the most predominant treatment strategies for patients with esophageal squamous cell carcinoma (ESCC). Dysregulated long non-coding RNAs (lncRNAs) contribute to CDDP resistance, which results in treatment failure in ESCC patients. However, the majority of lncRNAs involved in CDDP resistance in ESCC remain to be elucidated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The public Gene Expression Omnibus (GEO) dataset GSE45670 was analysed to reveal potential lncRNAs involved in CDDP resistance of ESCC. Candidate upregulated lncRNAs were detected in ESCC specimens by qRT-PCR to identify crucial lncRNAs. Non-coding RNA activated by DNA damage (NORAD) was selected for further study. Kaplan-Meier analysis and a COX proportional regression model were performed to analyse the potential of NORAD for predicting prognosis of ESCC patients. The role of NORAD in CDDP resistance were determined by conducting gain and loss-of-function experiments in vitro. Fluorescence in situ hybridization (FISH) was performed to determine the subcellular location of NORAD in ESCC cells. A public GEO dataset and bioinformatic algorithms were used to predict the microRNAs (miRNAs) that might be latently sponged by NORAD. qRT-PCR was conducted to verify the expression of candidate miRNAs. Luciferase reporter and Argonaute-2 (Ago2)-RNA immunoprecipitation (RIP) assays were conducted to evaluate the interaction between NORAD and candidate miRNAs. A miRNA rescue experiment was performed to authenticate the NORAD regulatory axis and its effects on CDDP resistance in ESCC cells. Western blotting was conducted to confirm the precise downstream signalling pathway of NORAD. A xenograft mouse model was established to reveal the effect of NORAD on CDDP resistance in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The expression of NORAD was higher in CDDP-resistant ESCC tissues and cells than in CDDP-sensitive tissues and cells. NORAD expression was negatively correlated with the postoperative prognosis of ESCC patients who underwent CDDP-based chemotherapy. NORAD knockdown partially arrested CDDP resistance of ESCC cells. FISH showed that NORAD was located in the cytoplasm in ESCC cells. Furthermore, overlapping results from bioinformatic algorithms analyses and qRT-PCR showed that NORAD could sponge miR-224-3p in ESCC cells. Ago2-RIP demonstrated that NORAD and miR-224-3p occupied the same Ago2 to form an RNA-induced silencing complex (RISC) and subsequently regulated the expression of metadherin (MTDH) in ESCC cells. The NORAD/miR-224-3p/MTDH axis promoted CDDP resistance and progression in ESCC cells by promoting nuclear accumulation of β-catenin in vitro and in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; NORAD upregulates MTDH to promote CDDP resistance and progression in ESCC by sponging miR-224-3p. Our results highlight the potential of NORAD as a therapeutic target in ESCC patients receiving CDDP-based chemotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>RNA modifications detection by comparative Nanopore direct RNA sequencing</title>
+      <link>https://example.com/article/34893601/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34893601/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RNA molecules undergo a vast array of chemical post-transcriptional modifications (PTMs) that can affect their structure and interaction properties. In recent years, a growing number of PTMs have been successfully mapped to the transcriptome using experimental approaches relying on high-throughput sequencing. Oxford Nanopore direct-RNA sequencing has been shown to be sensitive to RNA modifications. We developed and validated Nanocompore, a robust analytical framework that identifies modifications from these data. Our strategy compares an RNA sample of interest against a non-modified control sample, not requiring a training set and allowing the use of replicates. We show that Nanocompore can detect different RNA modifications with position accuracy in vitro, and we apply it to profile m6A in vivo in yeast and human RNAs, as well as in targeted non-coding RNAs. We confirm our results with orthogonal methods and provide novel insights on the co-occurrence of multiple modified residues on individual RNA molecules.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -8540,6 +8808,31 @@
     </item>
     
     <item>
+      <title>miR-221-5p-Mediated Downregulation of JNK2 Aggravates Acute Lung Injury</title>
+      <link>https://example.com/article/34899681/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34899681/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sepsis and acute lung injury (ALI) are linked to mitochondrial dysfunction; however, the underlying mechanism remains elusive. We previously reported that c-Jun N-terminal protein kinase 2 (JNK2) promotes stress-induced mitophagy by targeting small mitochondrial alternative reading frame (smARF) for ubiquitin-mediated proteasomal degradation, thereby preventing mitochondrial dysfunction and restraining inflammasome activation. Here we report that loss of JNK2 exacerbates lung inflammation and injury during sepsis and ALI in mice. JNK2 is downregulated in mice with endotoxic shock or ALI, concomitantly correlated inversely with disease severity. Small RNA sequencing revealed that miR-221-5p, which contains seed sequence matching to JNK2 mRNA 3&amp;rsquo; untranslated region (3&amp;rsquo;UTR), is upregulated in response to lipopolysaccharide, with dynamically inverse correlation with JNK2 mRNA levels. miR-221-5p targets the 3&amp;rsquo;UTR of JNK2 mRNA leading to its downregulation. Accordingly, miR-221-5p exacerbates lung inflammation and injury during sepsis in mice by targeting JNK2. Importantly, in patients with pneumonia in medical intensive care unit, JNK2 mRNA levels in alveolar macrophages flow sorted from non-bronchoscopic broncholaveolar lavage (BAL) fluid were inversely correlated strongly and significantly with the percentage of neutrophils, neutrophil and white blood cell counts in BAL fluid. Our data suggest that miR-221-5p targets JNK2 and thereby aggravates lung inflammation and injury during sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Curcumenol triggered ferroptosis in lung cancer cells via lncRNA H19/miR-19b-3p/FTH1 axis</title>
       <link>https://example.com/article/35224289/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
@@ -8557,6 +8850,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Long non-coding RNAs: Biogenesis, functions, and clinical significance in gastric cancer</title>
+      <link>https://example.com/review/34901389/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34901389/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gastric cancer (GC) is one of the most prevalent malignant tumor types and the third leading cause of cancer-related death worldwide. Its morbidity and mortality are very high due to a lack of understanding about its pathogenesis and the slow development of novel therapeutic strategies. Long non-coding RNAs (lncRNAs) are a class of non-coding RNAs with a length of more than 200 nt. They play crucial roles in a wide spectrum of physiological and pathological processes by regulating the expression of genes involved in proliferation, differentiation, apoptosis, cell cycle, invasion, metastasis, DNA damage, and carcinogenesis. The aberrant expression of lncRNAs has been found in various cancer types. A growing amount of evidence demonstrates that lncRNAs are involved in many aspects of GC pathogenesis, including its occurrence, metastasis, and recurrence, indicating their potential role as novel biomarkers in the diagnosis, prognosis, and therapeutic targets of GC. This review systematically summarizes the biogenesis, biological properties, and functions of lncRNAs and highlights their critical role and clinical significance in GC. This information may contribute to the development of better diagnostics and treatments for GC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

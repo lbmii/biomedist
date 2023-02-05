@@ -165,5 +165,69 @@
 </description>
     </item>
     
+    <item>
+      <title>Long non-coding RNA NORAD/miR-224-3p/MTDH axis contributes to CDDP resistance of esophageal squamous cell carcinoma by promoting nuclear accumulation of β-catenin</title>
+      <link>https://example.com/article/34893064/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34893064/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Cis-diamminedichloro-platinum (CDDP)-based chemotherapy regimens are the most predominant treatment strategies for patients with esophageal squamous cell carcinoma (ESCC). Dysregulated long non-coding RNAs (lncRNAs) contribute to CDDP resistance, which results in treatment failure in ESCC patients. However, the majority of lncRNAs involved in CDDP resistance in ESCC remain to be elucidated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The public Gene Expression Omnibus (GEO) dataset GSE45670 was analysed to reveal potential lncRNAs involved in CDDP resistance of ESCC. Candidate upregulated lncRNAs were detected in ESCC specimens by qRT-PCR to identify crucial lncRNAs. Non-coding RNA activated by DNA damage (NORAD) was selected for further study. Kaplan-Meier analysis and a COX proportional regression model were performed to analyse the potential of NORAD for predicting prognosis of ESCC patients. The role of NORAD in CDDP resistance were determined by conducting gain and loss-of-function experiments in vitro. Fluorescence in situ hybridization (FISH) was performed to determine the subcellular location of NORAD in ESCC cells. A public GEO dataset and bioinformatic algorithms were used to predict the microRNAs (miRNAs) that might be latently sponged by NORAD. qRT-PCR was conducted to verify the expression of candidate miRNAs. Luciferase reporter and Argonaute-2 (Ago2)-RNA immunoprecipitation (RIP) assays were conducted to evaluate the interaction between NORAD and candidate miRNAs. A miRNA rescue experiment was performed to authenticate the NORAD regulatory axis and its effects on CDDP resistance in ESCC cells. Western blotting was conducted to confirm the precise downstream signalling pathway of NORAD. A xenograft mouse model was established to reveal the effect of NORAD on CDDP resistance in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The expression of NORAD was higher in CDDP-resistant ESCC tissues and cells than in CDDP-sensitive tissues and cells. NORAD expression was negatively correlated with the postoperative prognosis of ESCC patients who underwent CDDP-based chemotherapy. NORAD knockdown partially arrested CDDP resistance of ESCC cells. FISH showed that NORAD was located in the cytoplasm in ESCC cells. Furthermore, overlapping results from bioinformatic algorithms analyses and qRT-PCR showed that NORAD could sponge miR-224-3p in ESCC cells. Ago2-RIP demonstrated that NORAD and miR-224-3p occupied the same Ago2 to form an RNA-induced silencing complex (RISC) and subsequently regulated the expression of metadherin (MTDH) in ESCC cells. The NORAD/miR-224-3p/MTDH axis promoted CDDP resistance and progression in ESCC cells by promoting nuclear accumulation of β-catenin in vitro and in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; NORAD upregulates MTDH to promote CDDP resistance and progression in ESCC by sponging miR-224-3p. Our results highlight the potential of NORAD as a therapeutic target in ESCC patients receiving CDDP-based chemotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interferon-α exerts proinflammatory properties in experimental radiation-induced esophagitis: Possible involvement of plasmacytoid dendritic cells</title>
+      <link>https://example.com/article/34890590/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34890590/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Irradiation to esophagus induce IFN-α in the esophageal mucosa.&lt;/li&gt;
+&lt;li&gt;IFN-α induce and promote inflammation in radiation-induced esophagitis.&lt;/li&gt;
+&lt;li&gt;Inhibition of IFN-α ameliorate radiation-induced esophagitis.&lt;/li&gt;
+&lt;li&gt;Depletion or inactivation of pDC reduce IFN-α in radiation-induced esophagitis.&lt;/li&gt;
+&lt;li&gt;Depletion or inactivation of pDC ameliorate radiation-induced esophagitis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; Radiation-induced esophagitis, experienced during radiation therapy for lung cancer and head and neck cancer, is a major dose-limiting side effect of the treatment. This study aimed to elucidate the role of interferon-α (IFN-α) in radiation-induced esophagitis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Main methods:&lt;/em&gt; C57BL/6 mice were exposed to 10 and 25Gy of single thoracic irradiation. Esophageal mucosal damage and inflammatory reactions were assessed for 5 days after irradiation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Key findings:&lt;/em&gt; Irradiation induced esophagitis, characterized by reduction in the thickness of epithelial layer, upregulation of proinflammatory cytokines and chemokines, infiltration of inflammatory cells into the esophageal mucosa, and apoptosis of epithelial cells. Irradiation upregulated the level of gene expression for IFN-α in the esophageal tissue, and the neutralizing antibody against IFN-α ameliorated radiation-induced esophageal mucosal damage, while administration of IFN-α receptor agonist (RO8191) had an inverse effect. Depletion of plasmacytoid dendritic cells (pDCs) by anti-CD317 antibody or pharmacological inactivation with bortezomib suppressed radiation-induced mucosal inflammation and damage, accompanied by decrease in IFN-α expression level.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Significance:&lt;/em&gt; These findings suggest that IFN-α and pDCs exert proinflammatory properties in the pathophysiology of radiation-induced esophagitis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

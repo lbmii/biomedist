@@ -5,12 +5,37 @@
     <link>https://example.com/tag/data-science/</link>
       <atom:link href="https://example.com/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Data Science</title>
       <link>https://example.com/tag/data-science/</link>
     </image>
+    
+    <item>
+      <title>Alternative polyadenylation transcriptome-wide association study identifies APA-linked susceptibility genes in brain disorders</title>
+      <link>https://example.com/article/36737438/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36737438/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alternative polyadenylation (APA) plays an essential role in brain development; however, current transcriptome-wide association studies (TWAS) largely overlook APA in nominating susceptibility genes. Here, we performed a 3&amp;rsquo; untranslated region (3&amp;rsquo;UTR) APA TWAS (3&amp;rsquo;aTWAS) for 11 brain disorders by combining their genome-wide association studies data with 17,300 RNA-seq samples across 2,937 individuals. We identified 354 3&amp;rsquo;aTWAS-significant genes, including known APA-linked risk genes, such as SNCA in Parkinson&amp;rsquo;s disease. Among these 354 genes, ~57% are not significant in traditional expression- and splicing-TWAS studies, since APA may regulate the translation, localization and protein-protein interaction of the target genes independent of mRNA level expression or splicing. Furthermore, we discovered ATXN3 as a 3&amp;rsquo;aTWAS-significant gene for amyotrophic lateral sclerosis, and its modulation substantially impacted pathological hallmarks of amyotrophic lateral sclerosis in vitro. Together, 3&amp;rsquo;aTWAS is a powerful strategy to nominate important APA-linked brain disorder susceptibility genes, most of which are largely overlooked by conventional expression and splicing analyses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Transformer for one stop interpretable cell type annotation</title>
@@ -631,6 +656,31 @@
 &lt;li&gt;&lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt; enables comprehensive and dynamic analysis, visualization, functional annotation and easy data sharing.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thecailab.com/scanner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCANNER&lt;/a&gt; hosts a real-time database for data and user management.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of key immune genes for sepsis-induced ARDS based on bioinformatics analysis</title>
+      <link>https://example.com/article/34898369/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34898369/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Regarding the extremely high mortality caused by sepsis-induced acute respiratory distress syndrome (ARDS), it is urgent to develop new biomarkers of sepsis-induced ARDS for treatment. Here, 532 differential expression genes (DEGs) related to sepsis and 433 DEGs related to sepsis-induced ARDS were screened in the GSE32707 dataset. Compared with sepsis samples, sepsis ARDS samples showed a higher infiltration of activated memory CD4 T cells and naive B cells, but a relatively lower infiltration of CD8 T cells. The pink and green modules which are significantly associated with sepsis-induced ARDS were then screened through co-expression network analysis. Differentially up-regulated GYPE and aberrantly down-regulated HSPB1, were subsequently found in the pink module of ARDS. CD81 and RPL22, two differentially low-expressed genes peculiar to ARDS, were identified in the green module. The function of CD81 was verified at the cellular level, and it was found that the up-regulation of CD81 in A549 could alleviate the LPS-induced injury of A549 cells. More importantly, the overexpressed CD81 can also increase the content of CD4&lt;sup&gt;+&lt;/sup&gt; CD25&lt;sup&gt;+&lt;/sup&gt; Foxp3&lt;sup&gt;+&lt;/sup&gt; Treg in Jurkat cells, and after the co-culture of overexpressed CD81 Jurkat cells with LPS treatment A549 cells, the LPS-induced lung epithelial cell damage can be improved. Overall, four new plasma biomarker candidates were found in sepsis-induced ARDS, and we verified that CD81 may play critical roles in the biological and immunological processes of sepsis-induced ARDS.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

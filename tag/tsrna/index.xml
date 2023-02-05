@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tsRNA | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/tsrna/</link>
+      <atom:link href="https://example.com/tag/tsrna/index.xml" rel="self" type="application/rss+xml" />
+    <description>tsRNA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>tsRNA</title>
+      <link>https://example.com/tag/tsrna/</link>
+    </image>
+    
+    <item>
+      <title>Research progress on the tsRNA classification, function, and application in gynecological malignant tumors</title>
+      <link>https://example.com/review/34907180/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34907180/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A large number of small non-coding RNAs derived from tRNAs, called tRNA-derived small RNA (tsRNAs), have been identified by high-throughput RNA sequencing of cell lines. Further research has revealed that they are not produced via random tRNA degradation, but through degradation by specific nuclease cleavages, such as Elac Ribonuclease Z 2 (ELAC2)/RNase Z, RNase L, Dicer, and angiogenin (ANG), the tsRNAs can be classified into the following types based on the location from which they have been derived from the parental tRNA: tRF-1s, tRF-3s, tRF-5s, tiRNA, and tRF-2s/i-tRFs. Moreover, tsRNAs are a type of small RNAs with diverse functions, including gene expression regulation, anti-apoptosis, translation inhibition, participation in epigenetic regulation, initial virus reverse transcription, promote virus replication and cell-to-cell communication. Certain types of tsRNAs are overexpressed in cancer tissues, but are underexpressed in normal tissues. Therefore, the relationship between tsRNAs and the occurrence and development of cancer has attracted significant research attention. Research advancements have contributed to further discoveries of the biological activities of tsRNAs, but the mechanisms of their biogenesis and functions have not been fully elucidated. This article reviews the classification and biological functions of tsRNAs, and introduces the research progress in gynecological malignancies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

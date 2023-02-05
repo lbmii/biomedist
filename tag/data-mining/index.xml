@@ -5,12 +5,37 @@
     <link>https://example.com/tag/data-mining/</link>
       <atom:link href="https://example.com/tag/data-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Mining</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Data Mining</title>
       <link>https://example.com/tag/data-mining/</link>
     </image>
+    
+    <item>
+      <title>Alternative polyadenylation transcriptome-wide association study identifies APA-linked susceptibility genes in brain disorders</title>
+      <link>https://example.com/article/36737438/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36737438/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alternative polyadenylation (APA) plays an essential role in brain development; however, current transcriptome-wide association studies (TWAS) largely overlook APA in nominating susceptibility genes. Here, we performed a 3&amp;rsquo; untranslated region (3&amp;rsquo;UTR) APA TWAS (3&amp;rsquo;aTWAS) for 11 brain disorders by combining their genome-wide association studies data with 17,300 RNA-seq samples across 2,937 individuals. We identified 354 3&amp;rsquo;aTWAS-significant genes, including known APA-linked risk genes, such as SNCA in Parkinson&amp;rsquo;s disease. Among these 354 genes, ~57% are not significant in traditional expression- and splicing-TWAS studies, since APA may regulate the translation, localization and protein-protein interaction of the target genes independent of mRNA level expression or splicing. Furthermore, we discovered ATXN3 as a 3&amp;rsquo;aTWAS-significant gene for amyotrophic lateral sclerosis, and its modulation substantially impacted pathological hallmarks of amyotrophic lateral sclerosis in vitro. Together, 3&amp;rsquo;aTWAS is a powerful strategy to nominate important APA-linked brain disorder susceptibility genes, most of which are largely overlooked by conventional expression and splicing analyses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Gene annotation of GPL10787 with R</title>
