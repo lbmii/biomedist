@@ -3001,6 +3001,31 @@
     </item>
     
     <item>
+      <title>MicroRNA expression profiling in acute kidney injury</title>
+      <link>https://example.com/article/34871811/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34871811/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this study was to identify miRNAs that regulate AKI and develop their applications as diagnostic biomarkers and therapeutic agents. First, kidney tissues from two different AKI mouse models, namely, AKI induced by the administration of lipopolysaccharide (LPS) causing sepsis (LPS-AKI mice) and AKI induced by renal ischemia-reperfusion injury (IRI-AKI mice), were exhaustively screened for their changes of miRNA expression compared with that of control mice by microarray analysis followed by quantitative RT-PCR. The initial profiling newly identified miRNA-5100, whose expression levels significantly decreased in kidneys in both LPS-AKI mice and IRI-AKI mice. Next, the administration of miRNA-5100-mimic conjugated with a nonviral vector, polyethylenimine nanoparticles (PEI-NPs), via the tail vein significantly induced miRNA-5100 overexpression in the kidney and prevented the development of IRI-AKI mice by inhibiting several apoptosis pathways in vivo. Furthermore, serum levels of miRNA-5100 in patients with AKI were identified as significantly lower than those of healthy subjects. ROC analysis showed that the serum expression level of miRNA-5100 can identify AKI (cut-off value 0.14, AUC 0.96, sensitivity 1.00, specificity 0.833, p&amp;lt;0.05). These results suggest that miRNA-5100 regulates AKI and may be useful as a novel diagnostic biomarker and therapeutic target for AKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>ImmReg: the regulon atlas of immune-related pathways across cancer types</title>
       <link>https://example.com/article/34755873/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
@@ -3011,6 +3036,31 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Immune system gene regulation perturbation has been found to be a major cause of the development of various types of cancer. Numbers of mechanisms contribute to gene expression regulation, thus, systematically identification of potential regulons of immune-related pathways is critical to cancer immunotherapy. Here, we comprehensively chart the landscape of transcription factors, microRNAs, RNA binding proteins and long noncoding RNAs regulation in 17 immune-related pathways across 33 cancers. The potential immunology regulons are likely to exhibit higher expressions in immune cells, show expression perturbations in cancer, and are significantly correlated with immune cell infiltrations. We also identify a panel of clinically relevant immunology regulons across cancers. Moreover, the regulon atlas of immune-related pathways helps prioritizing cancer-related genes (i.e. ETV7, miR-146a-5p, ZFP36 and HCP5). We further identified two molecular subtypes of glioma (cold and hot tumour phenotypes), which were characterized by differences in immune cell infiltrations, expression of checkpoints, and prognosis. Finally, we developed a user-friendly resource, &lt;a href=&#34;http://bio-bigdata.hrbmu.edu.cn/ImmReg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImmReg&lt;/a&gt;, with multiple modules to visualize, browse, and download immunology regulation. Our study provides a comprehensive landscape of immunology regulons, which will shed light on future development of RNA-based cancer immunotherapies.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>preMLI: a pre-trained method to uncover microRNA-lncRNA potential interactions</title>
+      <link>https://example.com/article/34850810/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34850810/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interaction between microribonucleic acid and long non-coding ribonucleic acid plays a very important role in biological processes, and the prediction of the one is of great significance to the study of its mechanism of action. Due to the limitations of traditional biological experiment methods, more and more computational methods are applied to this field. However, the existing methods often have problems, such as inadequate acquisition of potential features of the sequence due to simple coding and the need to manually extract features as input. We propose a deep learning model, preMLI, based on rna2vec pre-training and deep feature mining mechanism. We use rna2vec to train the ribonucleic acid (RNA) dataset and to obtain the RNA word vector representation and then mine the RNA sequence features separately and finally concatenate the two feature vectors as the input of the prediction task. The preMLI performs better than existing methods on benchmark datasets and has cross-species prediction capabilities. Experiments show that both pre-training and deep feature mining mechanisms have a positive impact on the prediction performance of the model. To be more specific, pre-training can provide more accurate word vector representations. The deep feature mining mechanism also improves the prediction performance of the model. Meanwhile, The preMLI only needs RNA sequence as the input of the model and has better cross-species prediction performance than the most advanced prediction models, which have reference value for related research.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -3072,6 +3122,31 @@
   
   &lt;li&gt;
     &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Role of circRNA-miRNA-mRNA interaction network in diabetes and its associated complications</title>
+      <link>https://example.com/review/34853728/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/34853728/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The majority of the non-protein-coding RNAs are being identified with diversified functions that participate in cellular homeostasis. The circular RNAs (circRNAs) are emerging as noncoding transcripts with a key role in the initiation and development of many physiological and pathological conditions. The advancements in high-throughput RNA sequencing and bioinformatics tools help us to identify several circRNA regulatory pathways, one of which is microRNA (miRNA)-mediated regulation. Besides the direct influence over mRNA transcription, the circRNA can also control the target&amp;rsquo;s expression via sponging miRNAs or the RNA-binding proteins. Studies have demonstrated the dysregulation of the circRNA-miRNA-mRNA interaction network in the pathogenesis of many diseases, including diabetes. This intricate mechanism is associated with the pathogenesis of diabetes and its complications. This review will focus on the circRNA-miRNA-mRNA interaction network that influences the gene expression in the progression of diabetes and its associated complications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
   &lt;/li&gt;
   
   

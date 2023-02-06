@@ -119,5 +119,30 @@
 </description>
     </item>
     
+    <item>
+      <title>Dynamic bulge nucleotides in the KSHV PAN ENE triple helix provide a unique binding platform for small molecule ligands</title>
+      <link>https://example.com/article/34871450/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34871450/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cellular and virus-coded long non-coding (lnc) RNAs support multiple roles related to biological and pathological processes. Several lncRNAs sequester their 3&amp;rsquo; termini to evade cellular degradation machinery, thereby supporting disease progression. An intramolecular triplex involving the lncRNA 3&amp;rsquo; terminus, the element for nuclear expression (ENE), stabilizes RNA transcripts and promotes persistent function. Therefore, such ENE triplexes, as presented here in Kaposi&amp;rsquo;s sarcoma-associated herpesvirus (KSHV) polyadenylated nuclear (PAN) lncRNA, represent targets for therapeutic development. Towards identifying novel ligands targeting the PAN ENE triplex, we screened a library of immobilized small molecules and identified several triplex-binding chemotypes, the tightest of which exhibits micromolar binding affinity. Combined biophysical, biochemical, and computational strategies localized ligand binding to a platform created near a dinucleotide bulge at the base of the triplex. Crystal structures of apo (3.3 Å) and ligand-soaked (2.5 Å) ENE triplexes, which include a stabilizing basal duplex, indicate significant local structural rearrangements within this dinucleotide bulge. MD simulations and a modified nucleoside analog interference technique corroborate the role of the bulge and the base of the triplex in ligand binding. Together with recently discovered small molecules that reduce nuclear MALAT1 lncRNA levels by engaging its ENE triplex, our data supports the potential of targeting RNA triplexes with small molecules.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

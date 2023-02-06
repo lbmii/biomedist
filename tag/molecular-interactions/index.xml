@@ -602,6 +602,31 @@
     </item>
     
     <item>
+      <title>preMLI: a pre-trained method to uncover microRNA-lncRNA potential interactions</title>
+      <link>https://example.com/article/34850810/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34850810/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interaction between microribonucleic acid and long non-coding ribonucleic acid plays a very important role in biological processes, and the prediction of the one is of great significance to the study of its mechanism of action. Due to the limitations of traditional biological experiment methods, more and more computational methods are applied to this field. However, the existing methods often have problems, such as inadequate acquisition of potential features of the sequence due to simple coding and the need to manually extract features as input. We propose a deep learning model, preMLI, based on rna2vec pre-training and deep feature mining mechanism. We use rna2vec to train the ribonucleic acid (RNA) dataset and to obtain the RNA word vector representation and then mine the RNA sequence features separately and finally concatenate the two feature vectors as the input of the prediction task. The preMLI performs better than existing methods on benchmark datasets and has cross-species prediction capabilities. Experiments show that both pre-training and deep feature mining mechanisms have a positive impact on the prediction performance of the model. To be more specific, pre-training can provide more accurate word vector representations. The deep feature mining mechanism also improves the prediction performance of the model. Meanwhile, The preMLI only needs RNA sequence as the input of the model and has better cross-species prediction performance than the most advanced prediction models, which have reference value for related research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The chemokine CCL1 triggers an AMFR-SPRY1 pathway that promotes differentiation of lung fibroblasts into myofibroblasts and drives pulmonary fibrosis</title>
       <link>https://example.com/article/34407391/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>

@@ -4131,12 +4131,87 @@
     </item>
     
     <item>
+      <title>A Bright, Renal-Clearable NIR-II Brush Macromolecular Probe with Long Blood Circulation Time for Kidney Disease Bioimaging</title>
+      <link>https://example.com/article/34850517/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34850517/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Early detection of kidney disease is of vital importance due to its current prevalence worldwide. Fluorescence imaging, especially in the second near-infrared window (NIR-II) has been regarded as a promising technique for the early diagnosis of kidney disease due to the superior resolution and sensitivity. However, the reported NIR-II organic renal-clearable probes are hampered by their low brightness (ϵmax Φf&amp;gt;1000 nm &amp;lt;10 M-1 cm-1 ) and limited blood circulation time (t1/2 &amp;lt;2 h), which impede the targeted imaging performance. Herein, we develop the aza-boron-dipyrromethene (aza-BODIPY) brush macromolecular probes (Fudan BDIPY Probes (FBP 912)) with high brightness (ϵmax Φf&amp;gt;1000 nm ≈60 M-1 cm-1 ), which is about 10-fold higher than that of previously reported NIR-II renal-clearable organic probes. FBP 912 exhibits an average diameter of ≈4 nm and high renal clearance efficiency (≈65 % excretion through the kidney within 12 h), showing superior performance for non-invasively diagnosis of renal ischemia-reperfusion injury (RIR) earlier than clinical serum-based protocols. Additionally, the high molecular weight polymer brush enables FBP 912 with prolonged circulation time (t1/2 ≈6.1 h) and higher brightness than traditional PEGylated renal-clearable control fluorophores (t1/2 &amp;lt;2 h), facilitating for 4T1 tumor passive targeted imaging and renal cell carcinoma active targeted imaging with higher signal-to-noise ratio and extended retention time.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>preMLI: a pre-trained method to uncover microRNA-lncRNA potential interactions</title>
+      <link>https://example.com/article/34850810/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34850810/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interaction between microribonucleic acid and long non-coding ribonucleic acid plays a very important role in biological processes, and the prediction of the one is of great significance to the study of its mechanism of action. Due to the limitations of traditional biological experiment methods, more and more computational methods are applied to this field. However, the existing methods often have problems, such as inadequate acquisition of potential features of the sequence due to simple coding and the need to manually extract features as input. We propose a deep learning model, preMLI, based on rna2vec pre-training and deep feature mining mechanism. We use rna2vec to train the ribonucleic acid (RNA) dataset and to obtain the RNA word vector representation and then mine the RNA sequence features separately and finally concatenate the two feature vectors as the input of the prediction task. The preMLI performs better than existing methods on benchmark datasets and has cross-species prediction capabilities. Experiments show that both pre-training and deep feature mining mechanisms have a positive impact on the prediction performance of the model. To be more specific, pre-training can provide more accurate word vector representations. The deep feature mining mechanism also improves the prediction performance of the model. Meanwhile, The preMLI only needs RNA sequence as the input of the model and has better cross-species prediction performance than the most advanced prediction models, which have reference value for related research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Automated Flow Synthesis of Peptide-PNA Conjugates</title>
       <link>https://example.com/article/35233452/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/35233452/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Antisense peptide nucleic acids (PNAs) have yet to translate to the clinic because of poor cellular uptake, limited solubility, and rapid elimination. Cell-penetrating peptides (CPPs) covalently attached to PNAs may facilitate clinical development by improving uptake into cells. We report an efficient technology that utilizes a fully automated fast-flow instrument to manufacture CPP-conjugated PNAs (PPNAs) in a single shot. The machine is rapid, with each amide bond being formed in 10 s. Anti-IVS2-654 PPNA synthesized with this instrument presented threefold activity compared to transfected PNA in a splice-correction assay. We demonstrated the utility of this approach by chemically synthesizing eight anti-SARS-CoV-2 PPNAs in 1 day. A PPNA targeting the 5&amp;rsquo; untranslated region of SARS-CoV-2 genomic RNA reduced the viral titer by over 95% in a live virus infection assay (IC&lt;sub&gt;50&lt;/sub&gt; = 0.8 μM). Our technology can deliver PPNA candidates to further investigate their potential as antiviral agents.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Isolation of Primary Mouse Lung Endothelial Cells</title>
+      <link>https://example.com/article/34842233/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34842233/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Endothelial cells play critical roles in the regulation of vascular tone, immunity, coagulation, and permeability. Endothelial dysfunction occurs in medical conditions including diabetes, atherosclerosis, sepsis, and acute lung injury. A reliable and reproducible method to isolate pure endothelial cells from mice is needed to investigate the role of endothelial cells in the pathogenesis of these and other conditions. In this protocol, lung microvascular endothelial cells were prepared from 5-7 day old neonatal mouse pups. Lungs are harvested, minced, and enzymatically digested with collagenase I, and released cells are cultured overnight. Endothelial cells are then selected using anti-PECAM1 (CD-31) IgG conjugated to magnetic beads, and cells again are cultured to confluence. A secondary cell selection then occurs with anti-ICAM2 (CD-102) IgG conjugated to magnetic beads to increase the purity of the endothelial cells, and the cells again are cultured to confluence. The entire process takes approximately 7-10 days before the cells can be used for experimentation. This simple protocol yields highly pure (purity &amp;gt;92%) endothelial cells that can be immediately used for in vitro studies, including the studies focused on endothelial cytokine and chemokine production, leukocyte-endothelial interactions, endothelial coagulation pathways, and endothelial permeability. With many knockouts and transgenic mouse lines available, this procedure also lends itself to understanding the function of specific genes expressed by endothelial cells in healthy and pathologic responses to injury, infection, and inflammation.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

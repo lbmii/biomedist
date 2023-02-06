@@ -5,12 +5,40 @@
     <link>https://example.com/tag/single-cell/</link>
       <atom:link href="https://example.com/tag/single-cell/index.xml" rel="self" type="application/rss+xml" />
     <description>Single Cell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Single Cell</title>
       <link>https://example.com/tag/single-cell/</link>
     </image>
+    
+    <item>
+      <title>Single-cell transcriptome analysis reveals liver injury induced by glyphosate in mice</title>
+      <link>https://example.com/article/36739397/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36739397/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Glyphosate (GLY), as the active ingredient of the most widely used herbicide worldwide, is commonly detected in the environment and living organisms, including humans. Its toxicity and carcinogenicity in mammals remain controversial. Several studies have demonstrated the hepatotoxicity of GLY; however, the underlying cellular and molecular mechanisms are still largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Using single-cell RNA sequencing (scRNA-seq), immunofluorescent staining, and in vivo animal studies, we analyzed the liver tissues from untreated and GLY-treated mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We generated the first scRNA-seq atlas of GLY-exposed mouse liver. GLY induced varied cell composition, shared or cell-type-specific transcriptional alterations, and dysregulated cell-cell communication and thus exerted hepatotoxicity effects. The oxidative stress and inflammatory response were commonly upregulated in several cell types. We also observed activation and upregulated phagocytosis in macrophages, as well as proliferation and extracellular matrix overproduction in hepatic stellate cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our study provides a comprehensive single-cell transcriptional picture of the toxic effect of GLY in the liver, which offers novel insights into the molecular mechanisms of the GLY-associated hepatotoxicity.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>High-throughput droplet-based analysis of influenza A virus genetic reassortment by single-virus RNA sequencing</title>
@@ -2041,6 +2069,31 @@
       <guid>https://example.com/article/34914922/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;COVID-19-induced &amp;ldquo;acute respiratory distress syndrome&amp;rdquo; (ARDS) is associated with prolonged respiratory failure and high mortality, but the mechanistic basis of lung injury remains incompletely understood. Here, we analyze pulmonary immune responses and lung pathology in two cohorts of patients with COVID-19 ARDS using functional single-cell genomics, immunohistology, and electron microscopy. We describe an accumulation of CD163-expressing monocyte-derived macrophages that acquired a profibrotic transcriptional phenotype during COVID-19 ARDS. Gene set enrichment and computational data integration revealed a significant similarity between COVID-19-associated macrophages and profibrotic macrophage populations identified in idiopathic pulmonary fibrosis. COVID-19 ARDS was associated with clinical, radiographic, histopathological, and ultrastructural hallmarks of pulmonary fibrosis. Exposure of human monocytes to SARS-CoV-2, but not influenza A virus or viral RNA analogs, was sufficient to induce a similar profibrotic phenotype in vitro. In conclusion, we demonstrate that SARS-CoV-2 triggers profibrotic macrophage responses and pronounced fibroproliferative ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Pulmonary Vascular Model From Endothelialized Whole Organ Scaffolds</title>
+      <link>https://example.com/article/34869270/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34869270/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The development of an &lt;em&gt;in vitro&lt;/em&gt; system for the study of lung vascular disease is critical to understanding human pathologies. Conventional culture systems fail to fully recapitulate native microenvironmental conditions and are typically limited in their ability to represent human pathophysiology for the study of disease and drug mechanisms. Whole organ decellularization provides a means to developing a construct that recapitulates structural, mechanical, and biological features of a complete vascular structure. Here, we developed a culture protocol to improve endothelial cell coverage in whole lung scaffolds and used single-cell RNA-sequencing analysis to explore the impact of decellularized whole lung scaffolds on endothelial phenotypes and functions in a biomimetic bioreactor system. Intriguingly, we found that the phenotype and functional signals of primary pulmonary microvascular revert back-at least partially-toward native lung endothelium. Additionally, human induced pluripotent stem cell-derived endothelium cultured in decellularized lung systems start to gain various native human endothelial phenotypes. Vascular barrier function was partially restored, while small capillaries remained patent in endothelial cell-repopulated lungs. To evaluate the ability of the engineered endothelium to modulate permeability in response to exogenous stimuli, lipopolysaccharide (LPS) was introduced into repopulated lungs to simulate acute lung injury. After LPS treatment, proinflammatory signals were significantly increased and the vascular barrier was impaired. Taken together, these results demonstrate a novel platform that recapitulates some pulmonary microvascular functions and phenotypes at a whole organ level. This development may help pave the way for using the whole organ engineering approach to model vascular diseases.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
