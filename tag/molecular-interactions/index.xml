@@ -552,6 +552,31 @@
     </item>
     
     <item>
+      <title>Polycarcin V induces DNA-damage response and enables the profiling of DNA-binding proteins</title>
+      <link>https://example.com/article/36601137/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36601137/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To maintain genomic integrity and avoid diseases, the DNA-damage response (DDR) not only detects and repairs DNA lesions, but also contributes to the resistance to DNA-damaging chemotherapeutics. Targeting the DDR plays a significant role in drug discovery using the principle of synthetic lethality. The incomplete current knowledge of the DDR encouraged us to develop new strategies to identify and study its components and pathways. Polycarcin V, belonging to the C-aryl glycoside natural products, is a light-activatable DNA-intercalating agent that causes DNA damage by forming a covalent [2+2] cycloadduct with thymine residue under 365-450 nm of light irradiation in a DNA-sequence-independent manner. Taking advantage of the light-activatable feature and temporal control of DDR, we designed and synthesized polycarcin V-based bifunctional chemical probes, including one that cross-links DNA to DNA-binding protein to explore the DDR induced by polycarcin V and uncover novel DNA-protein interactions. Utilizing this chemical probe and activity-based protein profiling-stable isotope labeling with amino acids in cell culture, we identified 311 DNA-binding protein candidates, including known DDR factors and additional proteins that may be of interest in discovering new biology. We validated our approach by showing that our probe could specifically cross-link proteins involved in nucleotide excision repair (NER) that repair bulky DNA adducts. Our studies showed that the [2+2] cycloadduct formed by polycarcin V could indeed be repaired by NER in vivo. As a DNA-damaging agent, polycarcin V or its drug-like derivative plus blue light showed promising properties for psoriasis treatment, suggesting that it may itself hold promise for clinic applications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Early rRNA processing is a stress-dependent regulatory event whose inhibition maintains nucleolar integrity</title>
       <link>https://example.com/article/34928368/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
@@ -608,6 +633,31 @@
       <guid>https://example.com/article/34850810/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The interaction between microribonucleic acid and long non-coding ribonucleic acid plays a very important role in biological processes, and the prediction of the one is of great significance to the study of its mechanism of action. Due to the limitations of traditional biological experiment methods, more and more computational methods are applied to this field. However, the existing methods often have problems, such as inadequate acquisition of potential features of the sequence due to simple coding and the need to manually extract features as input. We propose a deep learning model, preMLI, based on rna2vec pre-training and deep feature mining mechanism. We use rna2vec to train the ribonucleic acid (RNA) dataset and to obtain the RNA word vector representation and then mine the RNA sequence features separately and finally concatenate the two feature vectors as the input of the prediction task. The preMLI performs better than existing methods on benchmark datasets and has cross-species prediction capabilities. Experiments show that both pre-training and deep feature mining mechanisms have a positive impact on the prediction performance of the model. To be more specific, pre-training can provide more accurate word vector representations. The deep feature mining mechanism also improves the prediction performance of the model. Meanwhile, The preMLI only needs RNA sequence as the input of the model and has better cross-species prediction performance than the most advanced prediction models, which have reference value for related research.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The 40 S-LARP1 complex reprograms the cellular translatome upon mTOR inhibition to preserve the protein synthetic capacity</title>
+      <link>https://example.com/article/34818049/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34818049/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ribosomes execute the transcriptional program in every cell. Critical to sustain nearly all cellular activities, ribosome biogenesis requires the translation of ~200 factors of which 80 are ribosomal proteins (RPs). As ribosome synthesis depends on RP mRNA translation, a priority within the translatome architecture should exist to ensure the preservation of ribosome biogenesis capacity, particularly under adverse growth conditions. Here, we show that under critical metabolic constraints characterized by mTOR inhibition, LARP1 complexed with the 40S subunit protects from ribophagy the mRNAs regulon for ribosome biogenesis and protein synthesis, acutely preparing the translatome to promptly resume ribosomes production after growth conditions return permissive. Characterizing the LARP1-protected translatome revealed a set of 5′TOP transcript isoforms other than RPs involved in energy production and in mitochondrial function, among other processes, indicating that the mTOR-LARP1-5′TOP axis acts at the translational level as a primary guardian of the cellular anabolic capacity.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

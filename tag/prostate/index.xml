@@ -5,12 +5,44 @@
     <link>https://example.com/tag/prostate/</link>
       <atom:link href="https://example.com/tag/prostate/index.xml" rel="self" type="application/rss+xml" />
     <description>Prostate</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Prostate</title>
       <link>https://example.com/tag/prostate/</link>
     </image>
+    
+    <item>
+      <title>Prostate cancer extracellular vesicle digital scoring assay - a rapid noninvasive approach for quantification of disease-relevant mRNAs</title>
+      <link>https://example.com/article/36711067/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36711067/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prostate Ca (PCa)-derived extracellular vesicles (EV) were isolated via nanosurface.&lt;/li&gt;
+&lt;li&gt;This approach outperformed ultracentrifugation and precipitation.&lt;/li&gt;
+&lt;li&gt;An EV-mRNA signature could distinguish metastatic from localized PCa patients.&lt;/li&gt;
+&lt;li&gt;Changes in this mRNA signature reflected the dynamic clinical status of PCa patients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Optimizing outcomes in prostate cancer (PCa) requires precision in characterization of disease status. This effort was directed at developing a PCa extracellular vesicle (EV) Digital Scoring Assay (DSA) for detecting metastasis and monitoring progression of PCa. PCa EV DSA is comprised of an EV purification device (i.e., EV Click Chip) and reverse-transcription droplet digital PCR that quantifies 11 PCa-relevant mRNA in purified PCa-derived EVs. A Met score was computed for each plasma sample based on the expression of the 11-gene panel using the weighted Z score method. Under optimized conditions, the EV Click Chips outperformed the ultracentrifugation or precipitation method of purifying PCa-derived EVs from artificial plasma samples. Using PCa EV DSA, the Met score distinguished metastatic (n = 20) from localized PCa (n = 20) with an area under the receiver operating characteristic curve of 0.88 (95% CI:0.78-0.98). Furthermore, longitudinal analysis of three PCa patients showed the dynamics of the Met scores reflected clinical behavior even when disease was undetectable by imaging. Overall, a sensitive PCa EV DSA was developed to identify metastatic PCa and reveal dynamic disease states noninvasively. This assay may complement current imaging tools and blood-based tests for timely detection of metastatic progression that can improve care for PCa patients.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>The transcriptional terminator XRN2 and the RNA-binding protein Sam68 link alternative polyadenylation to cell cycle progression in prostate cancer</title>

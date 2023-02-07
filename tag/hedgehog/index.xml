@@ -5,12 +5,37 @@
     <link>https://example.com/tag/hedgehog/</link>
       <atom:link href="https://example.com/tag/hedgehog/index.xml" rel="self" type="application/rss+xml" />
     <description>Hedgehog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Hedgehog</title>
       <link>https://example.com/tag/hedgehog/</link>
     </image>
+    
+    <item>
+      <title>Chemically modified small interfering RNA targeting Hedgehog signaling pathway for rheumatoid arthritis therapy</title>
+      <link>https://example.com/article/36618268/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36618268/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rheumatoid arthritis (RA) is an inflammatory disease that leads to disability; however, existing therapies are still unsatisfactory. Activated fibroblast-like synoviocytes (FLSs) play an essential role in synovitis formation and joint destruction in RA. The Hedgehog signaling pathway is aberrantly activated and contributes to the aggressive phenotype of RA-FLSs. However, it remains uncertain whether inhibiting Smoothened (SMO), a critical component of the Hedgehog signaling pathway, is an effective treatment for RA. Here, we design a series of small interfering RNAs (siRNAs) that specifically target the SMO gene. With precise chemical modifications, siRNAs&amp;rsquo; efficacy and stability are significantly improved, and the off-target effects are minimized. The optimized chemically modified siRNA (si-S1A3-Chol) decreases RA-FLS proliferation and invasiveness without the transfection reagent. Furthermore, si-S1A3-Chol injected intra-articularly effectively alleviates joint destruction and improves motor function in collagen-induced arthritis mouse models. Consequently, our results demonstrate that chemically modified siRNA targeting the Hedgehog signaling pathway may be a potential therapy for RA.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Hedgehog pathway and its inhibitors in chronic obstructive pulmonary disease (COPD)</title>

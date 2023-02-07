@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disulfidptosis | BM Sci-Tech Memento</title>
+    <link>https://example.com/tag/disulfidptosis/</link>
+      <atom:link href="https://example.com/tag/disulfidptosis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Disulfidptosis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Disulfidptosis</title>
+      <link>https://example.com/tag/disulfidptosis/</link>
+    </image>
+    
+    <item>
+      <title>Actin cytoskeleton vulnerability to disulfide stress mediates disulfidptosis</title>
+      <link>https://example.com/article/36747082/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36747082/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SLC7A11-mediated cystine uptake suppresses ferroptosis yet promotes cell death under glucose starvation; the nature of the latter cell death remains unknown. Here we show that aberrant accumulation of intracellular disulfides in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cells under glucose starvation induces a previously uncharacterized form of cell death distinct from apoptosis and ferroptosis. We term this cell death disulfidptosis. Chemical proteomics and cell biological analyses showed that glucose starvation in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cells induces aberrant disulfide bonds in actin cytoskeleton proteins and F-actin collapse in a SLC7A11-dependent manner. CRISPR screens and functional studies revealed that inactivation of the WAVE regulatory complex (which promotes actin polymerization and lamellipodia formation) suppresses disulfidptosis, whereas constitutive activation of Rac promotes disulfidptosis. We further show that glucose transporter inhibitors induce disulfidptosis in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancer cells and suppress SLC7A11&lt;sup&gt;high&lt;/sup&gt; tumour growth. Our results reveal that the susceptibility of the actin cytoskeleton to disulfide stress mediates disulfidptosis and suggest a therapeutic strategy to target disulfidptosis in cancer treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cystine transporter regulation of pentose phosphate pathway dependency and disulfide stress exposes a targetable metabolic vulnerability in cancer</title>
+      <link>https://example.com/article/32231310/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32231310/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SLC7A11-mediated cystine uptake is critical for maintaining redox balance and cell survival. Here we show that this comes at a significant cost for cancer cells with high levels of SLC7A11. Actively importing cystine is potentially toxic due to its low solubility, forcing cancer cells with high levels of SLC7A11 (SLC7A11&lt;sup&gt;high&lt;/sup&gt;) to constitutively reduce cystine to the more soluble cysteine. This presents a significant drain on the cellular NADPH pool and renders such cells dependent on the pentose phosphate pathway. Limiting glucose supply to SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancer cells results in marked accumulation of intracellular cystine, redox system collapse and rapid cell death, which can be rescued by treatments that prevent disulfide accumulation. We further show that inhibitors of glucose transporters selectively kill SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancer cells and suppress SLC7A11&lt;sup&gt;high&lt;/sup&gt; tumour growth. Our results identify a coupling between SLC7A11-associated cystine metabolism and the pentose phosphate pathway, and uncover an accompanying metabolic vulnerability for therapeutic targeting in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

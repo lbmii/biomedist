@@ -5,12 +5,89 @@
     <link>https://example.com/tag/crispr-cas/</link>
       <atom:link href="https://example.com/tag/crispr-cas/index.xml" rel="self" type="application/rss+xml" />
     <description>CRISPR-Cas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>CRISPR-Cas</title>
       <link>https://example.com/tag/crispr-cas/</link>
     </image>
+    
+    <item>
+      <title>Actin cytoskeleton vulnerability to disulfide stress mediates disulfidptosis</title>
+      <link>https://example.com/article/36747082/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36747082/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SLC7A11-mediated cystine uptake suppresses ferroptosis yet promotes cell death under glucose starvation; the nature of the latter cell death remains unknown. Here we show that aberrant accumulation of intracellular disulfides in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cells under glucose starvation induces a previously uncharacterized form of cell death distinct from apoptosis and ferroptosis. We term this cell death disulfidptosis. Chemical proteomics and cell biological analyses showed that glucose starvation in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cells induces aberrant disulfide bonds in actin cytoskeleton proteins and F-actin collapse in a SLC7A11-dependent manner. CRISPR screens and functional studies revealed that inactivation of the WAVE regulatory complex (which promotes actin polymerization and lamellipodia formation) suppresses disulfidptosis, whereas constitutive activation of Rac promotes disulfidptosis. We further show that glucose transporter inhibitors induce disulfidptosis in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancer cells and suppress SLC7A11&lt;sup&gt;high&lt;/sup&gt; tumour growth. Our results reveal that the susceptibility of the actin cytoskeleton to disulfide stress mediates disulfidptosis and suggest a therapeutic strategy to target disulfidptosis in cancer treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Engineered Extracellular Vesicle-Delivered CRISPR/CasRx as a Novel RNA Editing Tool</title>
+      <link>https://example.com/article/36727818/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36727818/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Engineered extracellular vesicles (EVs) are considered excellent delivery vehicles for a variety of therapeutic agents, including nucleic acids, proteins, drugs, and nanomaterials. Recently, several studies have indicated that clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated 9 (Cas9) delivered by EVs enable efficient DNA editing. However, an RNA editing tool delivered by EVs is still unavailable. Here, a signal peptide-optimized and EVs-delivered guide RNA (gRNA) and CRISPR/CasRx (Cas13d) system capable of rapidly inhibiting the expression of targeted genes with quick catabolism after performing their functions is developed. EVs with CRISPR/CasRx and tandem gRNAs targeting pivotal cytokines are further packed whose levels increase substantially over the course of acute inflammatory diseases and find that these engineered EVs inhibit macrophage activation in vitro. More importantly, this system attenuates lipopolysaccharide (LPS)-triggered acute lung injury and sepsis in the acute phase, mitigating organ damage and improving the prognosis in vivo. In summary, a potent tool is provided for short-acting RNA editing, which could be a powerful therapeutic platform for the treatment of acute diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genome editing with natural and engineered CjCas9 orthologs</title>
+      <link>https://example.com/article/36733251/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36733251/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CjCas9 is one of the smallest Cas9 nucleases for mammalian genome editing. However, it requires a long N&lt;sub&gt;4&lt;/sub&gt;RYAC (R=A or G; Y=C or T) protospacer-adjacent motif (PAM), limiting its DNA targeting scope. In this study, we investigated the PAMs of three CjCas9 orthologs, including Hsp1Cas9, Hsp2Cas9, and CcuCas9, by performing a GFP-activation assay. Interestingly, Hsp1Cas9 and CcuCas9 recognized unique N&lt;sub&gt;4&lt;/sub&gt;
+RAA and N&lt;sub&gt;4&lt;/sub&gt;CNA PAMs, respectively. We further generated an Hsp1Cas9-Hsp2Cas9 chimeric Cas9 (Hsp1-Hsp2Cas9), which recognized a simple N&lt;sub&gt;4&lt;/sub&gt;
+CY PAM. Genome-wide off-target analysis revealed that Hsp1-Hsp2Cas9 has very few off-targets compared to SpCas9. By analyzing the crystal structure of CjCas9, we identified eight mutations that can improve the specificity and generate a high-fidelity Hsp1-Hsp2Cas9-Y. Hsp1-Hsp2Cas9-Y enables the knockout of &lt;em&gt;B4GALNT2&lt;/em&gt; and &lt;em&gt;CMAH&lt;/em&gt; in porcine fetal fibroblasts (PFFs). Moreover, we developed a high-fidelity Hsp1-Hsp2Cas9-KY which displayed undetectable off-targets revealed by GUIDE-seq at four tested loci. These natural and engineered Cas9 nucleases enabled efficient genome editing in multiple mammalian cells, expanding the DNA targeting scope.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Massively parallel knock-in engineering of human T cells</title>
@@ -39,9 +116,9 @@
     
     <item>
       <title>RT-RPA-Cas12a-based assay facilitates the discrimination of SARS-CoV-2 variants of concern</title>
-      <link>https://example.com/article/23-02-05-11-22/</link>
+      <link>https://example.com/article/36743821/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/23-02-05-11-22/</guid>
+      <guid>https://example.com/article/36743821/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A SARS-CoV-2 detection method (RRCd) was developed.&lt;/li&gt;
@@ -1294,6 +1371,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; CRISPRi (interference)-mediated gene expression analysis was performed to identify genes functionally regulated by COVID-19 GWAS loci by targeting regions near the loci (SNPs) in lung epithelial cell lines. The expression of CRISPRi-identified genes was investigated using COVID-19-contracted human and monkey lung single-nucleus/cell (sn/sc) RNA-seq datasets.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Findings:&lt;/em&gt; CRISPRi analysis indicated that a region near rs11385942 at chromosome 3p21.31 (locus of highest significance with COVID-19 disease severity at intron 5 of LZTFL1) significantly affected the expression of LZTFL1 (P&amp;lt;0.05), an airway cilia regulator. A region near rs74956615 at chromosome 19p13.2 (locus located at the 3&amp;rsquo; untranslated exonic region of RAVER1), which is associated with critical illness in COVID-19, affected the expression of RAVER1 (P&amp;lt;0.05), a coactivator of MDA5 (IFIH1), which induces antiviral response genes, including ICAM1. The sn/scRNA-seq datasets indicated that the MDA5/RAVER1-ICAM1 pathway was activated in lung epithelial cells of COVID-19-resistant monkeys but not those of COVID-19-succumbed humans.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Interpretation:&lt;/em&gt; Patients with risk alleles of rs11385942 and rs74956615 may be susceptible to critical illness in COVID-19 in part through weakened airway viral clearance via LZTFL1-mediated ciliogenesis and diminished antiviral immune response via the MDA5/RAVER1 pathway, respectively.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Universally Stable and Precise CRISPR-LAMP Detection Platform for Precise Multiple Respiratory Tract Virus Diagnosis Including Mutant SARS-CoV-2 Spike N501Y</title>
+      <link>https://example.com/article/34818890/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34818890/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nowadays, rapid and accurate diagnosis of respiratory tract viruses is an urgent need to prevent another epidemic outbreak. To overcome this problem, we have developed a clustered, regularly interspaced short palindromic repeats (CRISPR) loop mediated amplification (LAMP) technology to detect influenza A virus, influenza B virus, respiratory syncytial A virus, respiratory syncytial B virus, and severe acute respiratory syndrome coronavirus 2, including variants of concern (B.1.1.7), which utilized CRISPR-associated protein 12a (Cas12a) to advance LAMP technology with the sensitivity increased 10 times. To reduce aerosol contamination in CRISPR-LAMP technology, an uracil-DNA-glycosylase-reverse transcription-LAMP system was also developed which can effectively remove dUTP-incorporated LAMP amplicons. In vitro Cas12a cleavage reaction with 28 crRNAs showed that there were no position constraints for Cas12a/CRISPR RNA (crRNA) recognition and cleavage in LAMP amplicons, and even the looped position of LAMP amplicons could be effectively recognized and cleaved. Wild-type or spike N501Y can be detected with a limit of detection of 10 copies/μL (wild-type) even at a 1% ratio level on the background (spike N501Y). Combining UDG-RT-LAMP technology, CRISPR-LAMP design, and mutation detection design, we developed a CRISPR-LAMP detection platform that can precisely diagnose pathogens with better stability and significantly improved point mutation detection efficiency.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

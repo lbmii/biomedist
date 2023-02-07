@@ -92,6 +92,56 @@
     </item>
     
     <item>
+      <title>FTO-dependent m6A modification of Plpp3 in circSCMH1-regulated vascular repair and functional recovery following stroke</title>
+      <link>https://example.com/article/36717587/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36717587/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vascular repair is considered a key restorative measure to improve long-term outcomes after ischemic stroke. N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A), the most prevalent internal modification in eukaryotic mRNAs, functionally mediates vascular repair. However, whether circular RNA SCMH1 (circSCMH1) promotes vascular repair by m&lt;sup&gt;6&lt;/sup&gt;A methylation after stroke remains to be elucidated. Here, we identify the role of circSCMH1 in promoting vascular repair in peri-infarct cortex of male mice and male monkeys after photothrombotic (PT) stroke, and attenuating the ischemia-induced m&lt;sup&gt;6&lt;/sup&gt;A methylation in peri-infarct cortex of male mice after PT stroke. Mechanically, circSCMH1 increased the translocation of ubiquitination-modified fat mass and obesity-associated protein (FTO) into nucleus of endothelial cells (ECs), leading to m&lt;sup&gt;6&lt;/sup&gt;A demethylation of phospholipid phosphatase 3 (Plpp3) mRNA and subsequently the increase of Plpp3 expression in ECs. Our data demonstrate that circSCMH1 enhances vascular repair via FTO-regulated m&lt;sup&gt;6&lt;/sup&gt;A methylation after stroke, providing insights into the mechanism of circSCMH1 in promoting stroke recovery.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Noncoding RNA circBtnl1 suppresses self-renewal of intestinal stem cells via disruption of Atf4 mRNA stability</title>
+      <link>https://example.com/article/36715460/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36715460/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intestinal stem cells (ISCs) at the crypt base are responsible for the regeneration of the intestinal epithelium. However, how ISC self-renewal is regulated still remains unclear. Here we identified a circular RNA, circBtnl1, that is highly expressed in ISCs. Loss of circBtnl1 in mice enhanced ISC self-renewal capacity and epithelial regeneration, without changes in mRNA and protein levels of its parental gene Btnl1. Mechanistically, circBtnl1 and Atf4 mRNA competitively bound the ATP-dependent RNA helicase Ddx3y to impair the stability of Atf4 mRNA in wild-type ISCs. Furthermore, ATF4 activated Sox9 transcription by binding to its promoter via a unique motif, to enhance the self-renewal capacity and epithelial regeneration of ISCs. In contrast, circBtnl1 knockout promoted Atf4 mRNA stability and enhanced ATF4 expression, which caused Sox9 transcription to potentiate ISC stemness. These data indicate that circBtnl1-mediated Atf4 mRNA decay suppresses Sox9 transcription that negatively modulates self-renewal maintenance of ISCs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The endothelial-enriched lncRNA LINC00607 mediates angiogenic function</title>
       <link>https://example.com/article/36700983/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
@@ -7926,12 +7976,90 @@
     </item>
     
     <item>
+      <title>NCYPred: A Bidirectional LSTM Network with Attention for Y RNA and short non-coding RNA classification</title>
+      <link>https://example.com/article/34826297/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34826297/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Short non-coding RNAs (sncRNAs) are involved in multiple cellular processes and can be divided into dozens of classes. Among such classes, Y RNAs have been gaining attention, being essential factors for the initiation of DNA replication on vertebrates, as well as potential tumor biomarkers. Homologs have also been described in nematodes and insects, as well as related sequences in bacteria. Methods capable of accurately predicting Y RNA transcripts are lacking. In this work, we developed an attention-based LSTM network and built a classification model able to classify sncRNAs (including Y RNA) di-rectly from nucleotide sequences. A dataset consisting of 45,447 sncRNA sequences, from a wide range of organisms, ob-tained from Rfam 14.3 was built. Performance evaluation demonstrated that our proposed method, &lt;a href=&#34;https://www.gpea.uem.br/ncypred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCYPred&lt;/a&gt; (Non-Coding/Y RNA Prediction), can accurately predict Y RNA sequences and their homologs, as well as 11 additional classes, achieving results comparable with state-of-the-art methods. We also demonstrate that applying t-SNE on learned sequence represen-tations could be useful for sequence analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>miR-221-5p-Mediated Downregulation of JNK2 Aggravates Acute Lung Injury</title>
       <link>https://example.com/article/34899681/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/34899681/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sepsis and acute lung injury (ALI) are linked to mitochondrial dysfunction; however, the underlying mechanism remains elusive. We previously reported that c-Jun N-terminal protein kinase 2 (JNK2) promotes stress-induced mitophagy by targeting small mitochondrial alternative reading frame (smARF) for ubiquitin-mediated proteasomal degradation, thereby preventing mitochondrial dysfunction and restraining inflammasome activation. Here we report that loss of JNK2 exacerbates lung inflammation and injury during sepsis and ALI in mice. JNK2 is downregulated in mice with endotoxic shock or ALI, concomitantly correlated inversely with disease severity. Small RNA sequencing revealed that miR-221-5p, which contains seed sequence matching to JNK2 mRNA 3&amp;rsquo; untranslated region (3&amp;rsquo;UTR), is upregulated in response to lipopolysaccharide, with dynamically inverse correlation with JNK2 mRNA levels. miR-221-5p targets the 3&amp;rsquo;UTR of JNK2 mRNA leading to its downregulation. Accordingly, miR-221-5p exacerbates lung inflammation and injury during sepsis in mice by targeting JNK2. Importantly, in patients with pneumonia in medical intensive care unit, JNK2 mRNA levels in alveolar macrophages flow sorted from non-bronchoscopic broncholaveolar lavage (BAL) fluid were inversely correlated strongly and significantly with the percentage of neutrophils, neutrophil and white blood cell counts in BAL fluid. Our data suggest that miR-221-5p targets JNK2 and thereby aggravates lung inflammation and injury during sepsis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Methyltransferase-like 14 suppresses growth and metastasis of renal cell carcinoma by decreasing long noncoding RNA NEAT1</title>
+      <link>https://example.com/article/34813676/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34813676/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Growing evidence supports that N6-methyladenosine (m6A) modification acts as a critical regulator involved in tumorigenesis at the mRNA level. However, the role of m6A modification at the noncoding RNA level remains largely unknown. We found that methyltransferase-like 14 (METTL14) was significantly downregulated in renal cell carcinoma (RCC) tissues (n = 580). Gain-of-function and loss-of-function experiments revealed that METTL14 attenuated the proliferation and migration ability of RCC cells in vivo and in vitro. The methylated RNA immunoprecipitation experiments identified that METTL14 decreased the expression of long noncoding RNA nuclear enriched abundant transcript 1_1 (NEAT1_1) in an m6A-dependent manner. Mechanistically, RNA pull-down assay and RNA immunoprecipitation identified NEAT1_1 directly bound to m6A reader YTH N6-methyladenosine RNA binding protein 2 (YTHDF2). Notably, YTHDF2 accelerated the degradation of NEAT1_1 by selectively recognizing METTL14-mediated m6A marks on NEAT1_1. Multivariate analysis suggested that METTL14 downregulation was associated with malignant characteristics and predicted poor prognosis in RCC patients. In conclusion, our results uncover a newly identified METTL14-YTHDF2-NEAT1_1 signaling axis, which facilitates RCC growth and metastasis and provides fresh insight into RCC therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>circRNAome profiling reveals circFgfr2 regulates myogenesis and muscle regeneration via a feedback loop</title>
+      <link>https://example.com/article/34811940/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34811940/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Circular RNAs (circRNAs) represent a novel class of non-coding RNAs formed by a covalently closed loop and play crucial roles in many biological processes. Several circRNAs associated with myogenesis have been reported. However, the dynamic expression, function, and mechanism of circRNAs during myogenesis and skeletal muscle development are largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Strand-specific RNA-sequencing (RNA-seq) and microarray datasets were used to profile the dynamic circRNAome landscape during skeletal muscle development and myogenic differentiation. Bioinformatics analyses were used to characterize the circRNAome and identify candidate circRNAs associated with myogenesis. Bulk and single-cell RNA-seq were performed to identify the downstream genes and pathways of circFgfr2. The primary myoblast cells, C2C12 cells, and animal model were used to assess the function and mechanism of circFgfr2 in myogenesis and muscle regeneration in vitro or in vivo by RT-qPCR, western blotting, dual-luciferase activity assay, RNA immunoprecipitation, RNA fluorescence in situ hybridization, and chromatin immunoprecipitation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We profiled the dynamic circRNAome in pig skeletal muscle across 27 developmental stages and detected 52 918 high-confidence circRNAs. A total of 2916 of these circRNAs are conserved across human, mouse, and pig, including four circRNAs (circFgfr2, circQrich1, circMettl9, and circCamta1) that were differentially expressed (|log2 fold change| &amp;gt; 1 and adjusted P value &amp;lt; 0.05) in various myogenesis systems. We further focused on a conserved circRNA produced from the fibroblast growth factor receptor 2 (Fgfr2) gene, termed circFgfr2, which was found to inhibit myoblast proliferation and promote differentiation and skeletal muscle regeneration. Mechanistically, circFgfr2 acted as a sponge for miR-133 to regulate the mitogen-activated protein kinase kinase kinase 20 (Map3k20) gene and JNK/MAPK pathway. Importantly, transcription factor Kruppel like factor 4 (Klf4), the downstream target of the JNK/MAPK pathway, directly bound to the promoter of circFgfr2 and affected its expression via an miR-133/Map3k20/JNK/Klf4 auto-regulatory feedback loop. RNA binding protein G3BP stress granule assembly factor 1 (G3bp1) inhibited the biogenesis of circFgfr2.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The present study provides a comprehensive circRNA resource for skeletal muscle study. The functional and mechanistic analysis of circFgfr2 uncovered a circRNA-mediated auto-regulatory feedback loop regulating myogenesis and muscle regeneration, which provides new insight to further understand the regulatory mechanism of circRNAs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

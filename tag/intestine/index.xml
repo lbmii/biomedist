@@ -5,12 +5,37 @@
     <link>https://example.com/tag/intestine/</link>
       <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
     <description>Intestine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Intestine</title>
       <link>https://example.com/tag/intestine/</link>
     </image>
+    
+    <item>
+      <title>Celastrol suppresses colorectal cancer via covalent targeting peroxiredoxin 1</title>
+      <link>https://example.com/article/36732502/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36732502/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a terpenoids natural product isolated from the plant Thunder God Vine, Celastrol is widely studied for its pharmacological activities, including anti-tumor activities. The clinical application of Celastrol is strictly limited due to its severe side effects, whereas previously revealed targets and mechanism of Celastrol seldom reduce its in vivo toxicity via structural optimization. Target identification has a far-reaching influence on the development of innovative drugs, and omics data has been widely used for unbiased target prediction. However, it is difficult to enrich target of specific phenotype from thousands of genes or proteins, especially for natural products with broad promising activities. Here, we developed a text-mining-based web-server tool to enrich targets from omics data of inquired compounds. Then peroxiredoxin 1 (PRDX1) was identified as the ROS-manipulating target protein of Celastrol in colorectal cancer. Our solved high-resolution crystal structure revealed the unique covalent binding mode of Celastrol with PRDX1. New derivative compound 19-048 with improved potency against PRDX1 and selectivity towards PRDX2~PRDX6 were synthesized based on crystal structure analysis. Both Celastrol and 19-048 effectively suppressed the proliferation of colorectal cancer cells. The anti-tumor efficacy of Celastrol and 19-048 was significantly diminished on xenograft nude mice bearing PRDX1 knock-down colorectal cancer cells. Several downstream genes of p53 signaling pathway were dramatically up-regulated with Celastrol or 19-048 treatment. Our findings reveal that the side effects of Celastrol could be reduced via structural modification, and PRDX1 inhibition is promising for the treatment of colorectal cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Candida albicans can foster gut dysbiosis and systemic inflammation during HIV infection</title>
@@ -38,12 +63,62 @@
     </item>
     
     <item>
+      <title>Noncoding RNA circBtnl1 suppresses self-renewal of intestinal stem cells via disruption of Atf4 mRNA stability</title>
+      <link>https://example.com/article/36715460/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36715460/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intestinal stem cells (ISCs) at the crypt base are responsible for the regeneration of the intestinal epithelium. However, how ISC self-renewal is regulated still remains unclear. Here we identified a circular RNA, circBtnl1, that is highly expressed in ISCs. Loss of circBtnl1 in mice enhanced ISC self-renewal capacity and epithelial regeneration, without changes in mRNA and protein levels of its parental gene Btnl1. Mechanistically, circBtnl1 and Atf4 mRNA competitively bound the ATP-dependent RNA helicase Ddx3y to impair the stability of Atf4 mRNA in wild-type ISCs. Furthermore, ATF4 activated Sox9 transcription by binding to its promoter via a unique motif, to enhance the self-renewal capacity and epithelial regeneration of ISCs. In contrast, circBtnl1 knockout promoted Atf4 mRNA stability and enhanced ATF4 expression, which caused Sox9 transcription to potentiate ISC stemness. These data indicate that circBtnl1-mediated Atf4 mRNA decay suppresses Sox9 transcription that negatively modulates self-renewal maintenance of ISCs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>NPY methylated ctDNA is a promising biomarker for treatment response monitoring in metastatic colorectal cancer</title>
       <link>https://example.com/article/36716292/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/36716292/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Purpose Analysis of methylation markers in liquid biopsies is a promising technique for the follow-up of metastatic colorectal cancer (mCRC) patients, since they can be used in all patients, regardless of their mutational status. Therefore, we studied the value of NPY methylation analysis in circulating tumor DNA (ctDNA) for accurate response monitoring in mCRC patients in the PANIB trial. Experimental design The PANIB trial was a randomized phase two trial designed to compare FOLFOX plus panitumumab and FOLFOX plus bevacizumab in patients with RAS wild-type unresectable mCRC. The results of sequential liquid biopsies were correlated with results of imaging. Results Forty patients were included from six Belgian hospitals. Analysis of the liquid biopsies revealed that higher baseline levels of methylated ctDNA was associated with a significantly shorter overall survival (HR, 1.015; 95% CI 1.005 -1.025 and p=0.002). Furthermore, thirty-seven patients provided at least two liquid biopsies. Thirty-one of them showed a decrease in the methylation ratio after the start of therapy, which corresponded with stable disease or response on imaging at the first evaluation. When comparing the panitumumab and bevacizumab arm, significantly higher objective response and early tumor shrinkage rates were observed in the panitumumab arm (p=0.048 and p=0.015, respectively). However, due to a small study population, the trial was underpowered to detect a significant difference in survival. Conclusions The results of this study confirm that baseline methylated ctDNA is a prognostic marker and indicate that NPY methylation is a promising marker for response monitoring in patients with mCRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Faeces-derived extracellular vesicles participate in the onset of barrier dysfunction leading to liver diseases</title>
+      <link>https://example.com/article/36708245/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36708245/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The role of extracellular vesicles (EVs) from faeces (fEVs) and small circulating EVs (cEVs) in liver diseases such as non-alcoholic fatty diseases (NAFLD) and non-alcoholic steatohepatitis (NASH) has not been demonstrated. fEVs and cEVs of healthy donors, NAFLD and NASH patients were isolated and characterized. The effects of EVs were evaluated in intestinal, endothelial, Kupffer and stellate cells. Non-muscular myosin light chain kinase (nmMLCK) deficient mice were used in vivo. Bacterial origins of fEVs were analysed by 16s rDNA gene sequencing. fEVs and small cEVs were composed of prokaryotic and eukaryotic origins. Only NASH-fEVs exerted deleterious effects. NASH-fEVs increased intestinal permeability and reduced expression of tight junction proteins that were prevented by nmMLCK inhibition, increased endothelial cell permeability and inflammatory cytokines and chemokines requiring TLR4/lipopolysaccharide pathway. NASH-fEVs and NASH-cEVs activated profibrotic and proinflammatory proteins of hepatic stellate cells. Treatment with NASH-fEVs evoked an increase in intestinal permeability in wild type but not in nmMLCK deficient mice. Bacterial origins of fEVs were different between NAFLD and NASH patients and 16 amplicon sequence variants were differentially abundant. We demonstrate that fEVs actively participate in barrier dysfunctions leading to liver injuries underscoring the role of nmMLCK and lipopolysaccharide carried by fEVs.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6249,6 +6324,31 @@
       <guid>https://example.com/article/34867960/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CpG-oligodeoxynucleotides (CpG-ODNs) constitute an attractive alternative for asthma treatment. However, very little evidence is available from studies on the oral administration of CpG-ODNs in animals. Previously, we developed acid-resistant particles (named ODNcap) as an oral delivery device for ODNs. Here, we showed that free feeding of an ODNcap-containing feed prophylactically attenuates allergic airway inflammation, hyperresponsiveness, and goblet cell hyperplasia in an ovalbumin-induced asthma model. Using transcriptomics-driven approaches, we demonstrated that injury of pulmonary vein cardiomyocytes accompanies allergen inhalation challenge, but is inhibited by ODNcap feeding. We also showed the participation of an airway antimicrobial peptide (Reg3γ) and fecal microbiota in the ODNcap-mediated effects. Collectively, our findings suggest that daily oral ingestion of ODNcap may provide preventive effects on allergic bronchopulmonary insults via regulation of mechanisms involved in the gut-lung connection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Robust rank aggregation for gene list integration and meta-analysisBaicalin inhibits APEC-induced lung injury by regulating gut microbiota and SCFA production</title>
+      <link>https://example.com/article/34821232/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34821232/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Baicalin is a plant-derived flavonoid from Scutellaria baicalensis Georgi with multiple bioactivities and has a protective effect against avian pathogenic Escherichia coli (APEC) infection. However, the underlying mechanism of baicalin against APEC infection is still unknown. Therefore, we aimed to explore whether the protective effects and mechanisms of baicalin on APEC-induced lung inflammation were related to the regulation of gut microbiota. The results showed that baicalin significantly reduced APEC colonization and pro-inflammatory cytokines production, and additionally recovered air-blood barrier integrity in the lungs after APEC challenge. However, depletion of gut microbiota significantly weakened the protective effects of baicalin against APEC infection as mentioned above. Furthermore, baicalin markedly restored the dysbiosis of gut microbiota induced by APEC as well as increased the abundance of short chain fatty acid (SCFA)-producing bacteria and the production of SCFAs including acetic acid, propionic acid and butyric acid, especially acetic acid. In addition, the concentrations of acetic acid and its receptor free fatty acid receptor 2 (FFAR2) were significantly upregulated in the lung tissues after baicalin treatment. In conclusion, gut microbiota played a key role in the pharmacological action of baicalin against APEC-induced lung inflammation. Baicalin remodeled the dysbiosis of gut microbiota caused by APEC and increased the production of SCFAs, especially acetic acid in the gut, and then the increased acetate may circulate to the lungs to activate FFAR2 to defend APEC infection. Together, our study suggested that baicalin inhibited APEC infection through remodeling the gut microbiota dysbiosis and increasing the SCFA production. Furthermore, baicalin may serve as an alternative antibiotic and a novel therapeutic drug to prevent or treat APEC infection.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -5,12 +5,37 @@
     <link>https://example.com/tag/blood/</link>
       <atom:link href="https://example.com/tag/blood/index.xml" rel="self" type="application/rss+xml" />
     <description>Blood</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Blood</title>
       <link>https://example.com/tag/blood/</link>
     </image>
+    
+    <item>
+      <title>A Thrombin-Activated Peptide-Templated Nanozyme for Remedying Ischemic Stroke Via Thrombolytic and Neuroprotective Actions</title>
+      <link>https://example.com/article/36730098/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36730098/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ischemic stroke (IS) is one of the most common causes of disability and death. Thrombolysis and neuroprotection are two current major therapeutic strategies to overcome the ischemic and reperfusion damages. Here, we have designed a novel peptide-templated MnO&lt;sub&gt;2&lt;/sub&gt; nanozyme (PNzyme/MnO&lt;sub&gt;2&lt;/sub&gt;) that integrates the thrombolytic activity of the functional peptides with the ROS scavenging ability of the nanozyme. Through the self-assembled polypeptides that contains multiple functional motifs, the novel peptide-templated nanozyme is able to bind fibrin in the thrombus, cross blood brain barrier, and finally accumulate in the ischemic neuronal tissues, where the thrombolytic motif is &amp;ldquo;switch-on&amp;rdquo; by the action of thrombin. In mice and rat IS models, the PNzyme/MnO&lt;sub&gt;2&lt;/sub&gt; prolonged blood circulation time and exhibited strong thrombolytic action, and reduced the ischemic damages in brain tissues. Moreover, this peptide-templated nanozyme also effectively inhibited the activation of astrocytes and the secretion of pro-inflammatory cytokines. These data indicated that rationally designed PNzyme/MnO&lt;sub&gt;2&lt;/sub&gt; nanozyme exerts both thrombolytic and neuroprotective actions. Giving its long half-life in the blood and ability to target brain thrombi, the biocompatible nanozyme may serve as a novel therapeutic agent to improve the efficacy and prevent secondary thrombosis during the treatment of IS. This article is protected by copyright. All rights reserved.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Immune checkpoint HLA-E:CD94-NKG2A mediates evasion of circulating tumor cells from NK cell surveillance</title>

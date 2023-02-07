@@ -5,12 +5,40 @@
     <link>https://example.com/tag/heart/</link>
       <atom:link href="https://example.com/tag/heart/index.xml" rel="self" type="application/rss+xml" />
     <description>Heart</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Heart</title>
       <link>https://example.com/tag/heart/</link>
     </image>
+    
+    <item>
+      <title>USP25 Ameliorates Pathological Cardiac Hypertrophy by Stabilizing SERCA2a in Cardiomyocytes</title>
+      <link>https://example.com/article/36722348/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36722348/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Pathological cardiac hypertrophy can lead to heart failure and is one of the leading causes of death globally. Understanding the molecular mechanism of pathological cardiac hypertrophy will contribute to the treatment of heart failure. DUBs (deubiquitinating enzymes) are essential to cardiac pathophysiology by precisely controlling protein function, localization, and degradation. This study set out to investigate the role and molecular mechanism of a DUB, USP25 (ubiquitin-specific peptidase 25), in pathological cardiac hypertrophy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The role of USP25 in myocardial hypertrophy was evaluated in murine cardiomyocytes in response to Ang II (angiotensin II) and transverse aortic constriction stimulation and in hypertrophic myocardium tissues of heart failure patients. Liquid chromotography with mass spectrometry/mass spectrometry analysis combined with Co-IP was used to identify SERCA2a (sarcoplasmic/endoplasmic reticulum Ca2+-ATPase 2A), an antihypertrophy protein, as an interacting protein of USP25. To clarify the molecular mechanism of USP25 in the regulation of SERCA2a, we constructed a series of mutant plasmids of USP25. In addition, we overexpressed USP25 and SERCA2a in the heart with adenoassociated virus serotype 9 vectors to validate the biological function of USP25 and SERCA2a interaction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We revealed increased protein level of USP25 in murine cardiomyocytes subject to Ang II and transverse aortic constriction stimulation and in hypertrophic myocardium tissues of patients with heart failure. USP25 deficiency aggravated cardiac hypertrophy and cardiac dysfunction under Ang II and transverse aortic constriction treatment. Mechanistically, USP25 bound to SERCA2a directly via its USP (ubiquitin-specific protease) domain and cysteine at position 178 of USP25 exerts deubiquitination to maintain the stability of the SERCA2a protein by removing the K48 ubiquitin chain and preventing proteasomal pathway degradation, thereby maintaining calcium handling in cardiomyocytes. Moreover, restoration of USP25 expression via adenoassociated virus serotype 9 vectors in USP25-/- mice attenuated Ang II-induced cardiac hypertrophy and cardiac dysfunction, whereas myocardial overexpression of SERCA2a could mimic the effect of USP25.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; We confirmed that USP25 inhibited cardiac hypertrophy by deubiquitinating and stabilizing SERCA2a.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Notoginsenoside R1 protects against myocardial ischemia/reperfusion injury in mice via suppressing TAK1-JNK/p38 signaling</title>
@@ -1643,6 +1671,59 @@
       <guid>https://example.com/article/34856383/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Physiological and pathological cardiovascular processes are tightly regulated by several cellular mechanisms. Non-coding RNAs, including long non-coding RNAs (lncRNAs), represent one important class of molecules involved in regulatory processes within the cell. The lncRNA non-coding repressor of NFAT (NRON) was described as a repressor of the nuclear factor of activated T cells (NFAT) in different in vitro studies. Although the calcineurin/NFAT-signaling pathway is one of the most important pathways in pathological cardiac hypertrophy, a potential regulation of hypertrophy by NRON in vivo has remained unclear. Applying subcellular fractionation and RNA fluorescence in situ hybridization (RNA-FISH), we found that, unlike what is known from T cells, in cardiomyocytes, NRON predominantly localizes to the nucleus. Hypertrophic stimulation in neonatal mouse cardiomyocytes led to a downregulation of NRON, while NRON overexpression led to an increase in expression of hypertrophic markers. To functionally investigate NRON in vivo, we used a mouse model of transverse aortic constriction (TAC)-induced hypertrophy and performed NRON gain- and loss-of-function experiments. Cardiomyocyte-specific NRON overexpression in vivo exacerbated TAC-induced hypertrophy, whereas cardiomyocyte-specific NRON deletion attenuated cardiac hypertrophy in mice. Heart weight, cardiomyocyte cell size, hypertrophic marker gene expression, and left ventricular mass showed a NRON-dependent regulation upon TAC-induced hypertrophy. In line with this, transcriptome profiling revealed an enrichment of anti-hypertrophic signaling pathways upon NRON-knockout during TAC-induced hypertrophy. This set of data refutes the hypothesized anti-hypertrophic role of NRON derived from in vitro studies in non-cardiac cells and suggests a novel regulatory function of NRON in the heart in vivo.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Association between combat-related traumatic injury and cardiovascular risk</title>
+      <link>https://example.com/article/34824088/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34824088/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The association between combat-related traumatic injury (CRTI) and cardiovascular risk is uncertain. This study aimed to investigate the association between CRTI and both metabolic syndrome (MetS) and arterial stiffness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; This was a prospective observational cohort study consisting of 579 male adult UK combat veterans (UK-Afghanistan War 2003-2014) with CRTI who were frequency-matched to 565 uninjured men by age, service, rank, regiment, deployment period and role-in-theatre. Measures included quantification of injury severity (New Injury Severity Score (NISS)), visceral fat area (dual-energy X-ray absorptiometry), arterial stiffness (heart rate-adjusted central augmentation index (cAIx) and pulse wave velocity (PWV)), fasting venous blood glucose, lipids and high-sensitivity C reactive protein (hs-CRP).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Overall the participants were 34.1±5.4 years, with a mean (±SD) time from injury/deployment of 8.3±2.1 years. The prevalence of MetS (18.0% vs 11.8%; adjusted risk ratio 1.46, 95% CI 1.10 to 1.94, p&amp;lt;0.0001) and the mean cAIx (17.61%±8.79% vs 15.23%±8.19%, p&amp;lt;0.0001) were higher among the CRTI versus the uninjured group, respectively. Abdominal waist circumference, visceral fat area, triglycerides, estimated insulin resistance and hs-CRP levels were greater and physical activity and high-density lipoprotein-cholesterol lower with CRTI. There were no significant between-group differences in blood glucose, blood pressure or PWV. CRTI, injury severity (↑NISS), age, socioeconomic status (SEC) and physical activity were independently associated with both MetS and cAIx.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; CRTI is associated with an increased prevalence of MetS and arterial stiffness, which are also influenced by age, injury severity, physical activity and SEC. The longitudinal impact of CRTI on clinical cardiovascular events needs further examination.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Protection of CAPE-pNO2 Against Chronic Myocardial Ischemia by the TGF-Β1/Galectin-3 Pathway In Vivo and In Vitro</title>
+      <link>https://example.com/article/34817763/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34817763/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although it is known that caffeic acid phenethyl ester (CAPE) and its derivatives could ameliorate acute myocardial injury, their effects on chronic myocardial ischemia (CMI) were not reported. This study aimed to investigate the potential effect of caffeic acid p-nitro phenethyl ester (CAPE-pNO&lt;sub&gt;2&lt;/sub&gt;, a derivative of CAPE) on CMI and underlying mechanisms. SD rats were subjected to high-fat-cholesterol-diet (HFCD) and vitamin D3, and the H9c2 cells were treated with LPS to establish CMI model, followed by the respective treatment with saline, CAPE, or CAPE-pNO&lt;sub&gt;2&lt;/sub&gt;. In vivo, CAPE-pNO&lt;sub&gt;2&lt;/sub&gt; could reduce serum lipid levels and improve impaired cardiac function and morphological changes. Data of related assays indicated that CAPE-pNO&lt;sub&gt;2&lt;/sub&gt; downregulated the expression of transforming growth factor-β1 (TGF-β1) and galectin-3 (Gal-3). Besides, CAPE-pNO&lt;sub&gt;2&lt;/sub&gt; decreased collagen deposition, the number of apoptotic cardiomyocytes, and some related downstream proteins of Gal-3 in the CMI rats. Interestingly, the effects of CAPE-pNO&lt;sub&gt;2&lt;/sub&gt; on TGF-β1, Gal-3, and other proteins expressed in the lung were consistent with that in the heart. In vitro, CAPE-pNO&lt;sub&gt;2&lt;/sub&gt; could attenuate the fibrosis, apoptosis, and inflammation by activating TGF-β1/Gal-3 pathway in LPS-induced H9c2 cell. However, CAPE-pNO&lt;sub&gt;2&lt;/sub&gt;-mediated cardioprotection can be eliminated when treated with modified citrus pectin (MCP, an inhibitor of Gal-3). And in comparison, CAPE-pNO&lt;sub&gt;2&lt;/sub&gt; presented stronger effects than CAPE. This study indicates that CAPE-pNO&lt;sub&gt;2&lt;/sub&gt; may ameliorate CMI by suppressing fibrosis, inflammation, and apoptosis via the TGF-β1/Gal-3 pathway in vivo and in vitro.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

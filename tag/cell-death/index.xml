@@ -5,12 +5,37 @@
     <link>https://example.com/tag/cell-death/</link>
       <atom:link href="https://example.com/tag/cell-death/index.xml" rel="self" type="application/rss+xml" />
     <description>Cell Death</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Cell Death</title>
       <link>https://example.com/tag/cell-death/</link>
     </image>
+    
+    <item>
+      <title>Actin cytoskeleton vulnerability to disulfide stress mediates disulfidptosis</title>
+      <link>https://example.com/article/36747082/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36747082/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SLC7A11-mediated cystine uptake suppresses ferroptosis yet promotes cell death under glucose starvation; the nature of the latter cell death remains unknown. Here we show that aberrant accumulation of intracellular disulfides in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cells under glucose starvation induces a previously uncharacterized form of cell death distinct from apoptosis and ferroptosis. We term this cell death disulfidptosis. Chemical proteomics and cell biological analyses showed that glucose starvation in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cells induces aberrant disulfide bonds in actin cytoskeleton proteins and F-actin collapse in a SLC7A11-dependent manner. CRISPR screens and functional studies revealed that inactivation of the WAVE regulatory complex (which promotes actin polymerization and lamellipodia formation) suppresses disulfidptosis, whereas constitutive activation of Rac promotes disulfidptosis. We further show that glucose transporter inhibitors induce disulfidptosis in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancer cells and suppress SLC7A11&lt;sup&gt;high&lt;/sup&gt; tumour growth. Our results reveal that the susceptibility of the actin cytoskeleton to disulfide stress mediates disulfidptosis and suggest a therapeutic strategy to target disulfidptosis in cancer treatment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Neutrophil extracellular trap-associated carbamylation and histones trigger osteoclast formation in rheumatoid arthritis</title>
@@ -9137,6 +9162,31 @@
     </item>
     
     <item>
+      <title>An exploratory text analysis of the autophagy research field</title>
+      <link>https://example.com/article/34812110/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34812110/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After its discovery in the 1950 s, the autophagy research field has seen its annual number of publications climb from tens to thousands. The ever-growing number of autophagy publications is a wealth of information but presents a challenge to researchers, especially those new to the field, who are looking for a general overview of the field to, for example, determine current topics of the field or formulate new hypotheses. Here, we employed text mining tools to extract research trends in the autophagy field, including those of genes, terms, and topics. The publication trend of the field can be separated into three phases. The exponential rise in publication number began in the last phase and is most likely spurred by a series of highly cited research papers published in previous phases. The exponential increase in papers has resulted in a larger variety of research topics, with the majority involving those that are directly physiologically relevant, such as disease and modulating autophagy. Our findings provide researchers a summary of the history of the autophagy research field and perhaps hints of what is to come.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Curcumenol triggered ferroptosis in lung cancer cells via lncRNA H19/miR-19b-3p/FTH1 axis</title>
       <link>https://example.com/article/35224289/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
@@ -10846,6 +10896,31 @@
 &lt;p&gt;The expression of gasdermin B (GSDMB) but no other gasdermins in human embryonic kidney (HEK) 293T cells induced pyroptotic killing by NK cells, accompanied by an interdomain cleavage of GSDMB. These processes were blocked by inhibiting the perforin–granzyme pathway. In vitro profiling of all five human granzymes identified granzyme A (GZMA), which readily cleaved GSDMB, predominantly at Lys&lt;sup&gt;244&lt;/sup&gt; within the interdomain linker. This cleavage unmasked the pore-forming activity of GSDMB. GZMA, delivered into GSDMB-reconstituted cells by electroporation or perforin, induced extensive pyroptosis with interdomain cleavage of GSDMB. These effects were diminished by a K229A/K244A (KK/A) mutation of GSDMB. In cells normally undergoing apoptosis upon GZMA delivery, the additional expression of GZMA-cleavable GSDMB converted apoptosis into pyroptosis. Pyroptotic killing by NK cells was blocked by both the KK/AA mutation and a knockdown of &lt;em&gt;GZMA&lt;/em&gt; expression. Among 39 cell lines, three, including the esophageal carcinoma (OE19 cells), expressed GSDMB and underwent pyroptosis upon GZMA delivery. Knockout experiments revealed that pyroptosis in OE19 cells required the interdomain cleavage of GSDMB. Furthermore, GSDMB expression was up-regulated by interferon-γ (IFN-γ). Approximately one-third of GSDMB-negative cell lines showed IFN-γ–induced GSDMB expression. IFN-γ promoted GZMA- or NK cell–induced pyroptosis in several target cells. Primary T cells, including anti-CD19 chimeric-antigen receptor (CAR) T cells and NY-ESO-1–specific T cell receptor (TCR)–engineered T cells (TCR T cells), also induced pyroptosis in GSDMB-reconstituted cells through cleavage of GSDMB by GZMA. Introducing GZMA-cleavable GSDMB into mouse cancer cells promoted tumor clearance in mice. &lt;em&gt;GSDMB&lt;/em&gt; was highly expressed in certain tissues, particularly digestive tract epithelia, including the derived tumors. GSDMB appeared to be silenced in gastric and esophageal cancers. The Cancer Genome Atlas database recorded a strong positive correlation between &lt;em&gt;GSDMB&lt;/em&gt; expression and patient survival for bladder carcinoma and skin cutaneous melanoma.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;GZMA from cytotoxic lymphocytes cleaves and activates GSDMB to induce target cell pyroptosis. This immune effector mechanism promotes CTL-mediated tumor clearance in mice. High GSDMB expression in the digestive system suggests the importance of GSDMB-mediated immunity in these tissues and will guide immunotherapy for related cancers. Our findings suggest that substrates such as gasdermins, rather than their upstream proteases, determine the nature of cell death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cystine transporter regulation of pentose phosphate pathway dependency and disulfide stress exposes a targetable metabolic vulnerability in cancer</title>
+      <link>https://example.com/article/32231310/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/32231310/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SLC7A11-mediated cystine uptake is critical for maintaining redox balance and cell survival. Here we show that this comes at a significant cost for cancer cells with high levels of SLC7A11. Actively importing cystine is potentially toxic due to its low solubility, forcing cancer cells with high levels of SLC7A11 (SLC7A11&lt;sup&gt;high&lt;/sup&gt;) to constitutively reduce cystine to the more soluble cysteine. This presents a significant drain on the cellular NADPH pool and renders such cells dependent on the pentose phosphate pathway. Limiting glucose supply to SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancer cells results in marked accumulation of intracellular cystine, redox system collapse and rapid cell death, which can be rescued by treatments that prevent disulfide accumulation. We further show that inhibitors of glucose transporters selectively kill SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancer cells and suppress SLC7A11&lt;sup&gt;high&lt;/sup&gt; tumour growth. Our results identify a coupling between SLC7A11-associated cystine metabolism and the pentose phosphate pathway, and uncover an accompanying metabolic vulnerability for therapeutic targeting in SLC7A11&lt;sup&gt;high&lt;/sup&gt; cancers.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

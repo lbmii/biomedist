@@ -967,6 +967,31 @@
     </item>
     
     <item>
+      <title>Integration of whole transcriptome spatial profiling with protein markers</title>
+      <link>https://example.com/article/36593397/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36593397/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spatial transcriptomics and proteomics provide complementary information that independently transformed our understanding of complex biological processes. However, experimental integration of these modalities is limited. To overcome this, we developed Spatial PrOtein and Transcriptome Sequencing (SPOTS) for high-throughput simultaneous spatial transcriptomics and protein profiling. Compared with unimodal measurements, SPOTS substantially improves signal resolution and cell clustering and enhances the discovery power in differential gene expression analysis across tissue regions.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>NetAct: a computational platform to construct core transcription factor regulatory networks using gene activity</title>
       <link>https://example.com/article/36575445/</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
@@ -1076,6 +1101,31 @@
 &lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We first accessed the specific expression pattern and transcriptional variation of 26 RNA modification writers in The Cancer Genome Atlas (TCGA) dataset. Unsupervised consensus clustering was performed to divide patients into two RNA modification clusters. Then, based on the differentially expressed genes (DEGs) among two clusters, RNA modification score (WM-Score) model was established to determine RNA modification-based subtypes and was validated in International Cancer Genome Consortium (ICGC) dataset. What’s more, we manifested the unique status of WM-Score in transcriptional and post-transcriptional regulation, molecular biological characteristics, targeted therapies and immunogenomic patterns.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We documented the tight-knit correlations between transcriptional expression and variation of RNA modification writers. We classified patients into two distinct RNA modification patterns (WM-Score-high and -low), The WM-Score_high subgroup was correlated with worse prognosis, Th2/Th17 cell polarization and oncogenic pathways (&lt;em&gt;e.g.&lt;/em&gt; EMT, TGF-β, and mTORC1 signaling pathways), whereas the WM-Score-low subgroup associated with favorable survival rate and Th1 cell trend. WM-Score model also proved robust predictive power in interpreting transcriptional and post-transcriptional events. Additionally, the potential targeted compounds with related pathways for the WM-Score model were further identified.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Our research unfolds a novel horizon on the interplay network of four RNA modifications in PC. This WM-Score model demonstrated powerful predictive capacity in epigenetic, immunological and biological landscape, providing a theoretical basis for future clinical judgments of PC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cross-species cell-type assignment from single-cell RNA-seq data by a heterogeneous graph neural network</title>
+      <link>https://example.com/article/36526433/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36526433/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cross-species comparative analyses of single-cell RNA sequencing (scRNA-seq) data allow us to explore, at single-cell resolution, the origins of the cellular diversity and evolutionary mechanisms that shape cellular form and function. Cell-type assignment is a crucial step to achieve that. However, the poorly annotated genome and limited known biomarkers hinder us from assigning cell identities for nonmodel species. Here, we design a heterogeneous graph neural network model, CAME, to learn aligned and interpretable cell and gene embeddings for cross-species cell-type assignment and gene module extraction from scRNA-seq data. CAME achieves significant improvements in cell-type characterization across distant species owing to the utilization of non-one-to-one homologous gene mapping ignored by early methods. Our large-scale benchmarking study shows that CAME significantly outperforms five classical methods in terms of cell-type assignment and model robustness to insufficiency and inconsistency of sequencing depths. CAME can transfer the major cell types and interneuron subtypes of human brains to mouse and discover shared cell-type-specific functions in homologous gene modules. CAME can align the trajectories of human and macaque spermatogenesis and reveal their conservative expression dynamics. In short, CAME can make accurate cross-species cell-type assignments even for nonmodel species and uncover shared and divergent characteristics between two species from scRNA-seq data.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

@@ -68,6 +68,33 @@
     </item>
     
     <item>
+      <title>Integrative in situ mapping of single-cell transcriptional states and tissue histopathology in a mouse model of Alzheimer&#39;s disease</title>
+      <link>https://example.com/article/36732642/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36732642/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Complex diseases are characterized by spatiotemporal cellular and molecular changes that may be difficult to comprehensively capture. However, understanding the spatiotemporal dynamics underlying pathology can shed light on disease mechanisms and progression. Here we introduce STARmap PLUS, a method that combines high-resolution spatial transcriptomics with protein detection in the same tissue section. As proof of principle, we analyze brain tissues of a mouse model of Alzheimer&amp;rsquo;s disease at 8 and 13 months of age. Our approach provides a comprehensive cellular map of disease progression. It reveals a core-shell structure where disease-associated microglia (DAM) closely contact amyloid-β plaques, whereas disease-associated astrocyte-like (DAA-like) cells and oligodendrocyte precursor cells (OPCs) are enriched in the outer shells surrounding the plaque-DAM complex. Hyperphosphorylated tau emerges mainly in excitatory neurons in the CA1 region and correlates with the local enrichment of oligodendrocyte subtypes. The STARmap PLUS method bridges single-cell gene expression profiles with tissue histopathology at subcellular resolution, providing a tool to pinpoint the molecular and cellular changes underlying pathology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data availability&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The STARmap PLUS sequencing data are available on &lt;a href=&#34;https://singlecell.broadinstitute.org/single_cell/study/SCP1375&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Single-Cell Portal&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.5281/zenodo.7332091&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Immune checkpoint HLA-E:CD94-NKG2A mediates evasion of circulating tumor cells from NK cell surveillance</title>
       <link>https://example.com/article/36706761/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
@@ -489,6 +516,31 @@
       <guid>https://example.com/article/36536148/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Probing histone modifications at a single-cell level in thousands of cells has been enabled by technologies such as single-cell CUT&amp;amp;Tag. Here we describe nano-CUT&amp;amp;Tag (nano-CT), which allows simultaneous mapping of up to three epigenomic modalities at single-cell resolution using nanobody-Tn5 fusion proteins. Multimodal nano-CT is compatible with starting materials as low as 25,000-200,000 cells and has significantly higher sensitivity and number of fragments per cell than single-cell CUT&amp;amp;Tag. We use nano-CT to simultaneously profile chromatin accessibility, H3K27ac, and H3K27me3 in juvenile mouse brain, allowing for discrimination of more cell types and states than unimodal single-cell CUT&amp;amp;Tag. We also infer chromatin velocity between assay for transposase-accessible chromatin (ATAC) and H3K27ac in the oligodendrocyte lineage and deconvolute H3K27me3 repressive states, finding two sequential waves of H3K27me3 repression at distinct gene modules during oligodendrocyte lineage progression. Given its high resolution, versatility, and multimodal features, nano-CT allows unique insights in epigenetic landscapes in complex biological systems at the single-cell level.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cross-species cell-type assignment from single-cell RNA-seq data by a heterogeneous graph neural network</title>
+      <link>https://example.com/article/36526433/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36526433/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cross-species comparative analyses of single-cell RNA sequencing (scRNA-seq) data allow us to explore, at single-cell resolution, the origins of the cellular diversity and evolutionary mechanisms that shape cellular form and function. Cell-type assignment is a crucial step to achieve that. However, the poorly annotated genome and limited known biomarkers hinder us from assigning cell identities for nonmodel species. Here, we design a heterogeneous graph neural network model, CAME, to learn aligned and interpretable cell and gene embeddings for cross-species cell-type assignment and gene module extraction from scRNA-seq data. CAME achieves significant improvements in cell-type characterization across distant species owing to the utilization of non-one-to-one homologous gene mapping ignored by early methods. Our large-scale benchmarking study shows that CAME significantly outperforms five classical methods in terms of cell-type assignment and model robustness to insufficiency and inconsistency of sequencing depths. CAME can transfer the major cell types and interneuron subtypes of human brains to mouse and discover shared cell-type-specific functions in homologous gene modules. CAME can align the trajectories of human and macaque spermatogenesis and reveal their conservative expression dynamics. In short, CAME can make accurate cross-species cell-type assignments even for nonmodel species and uncover shared and divergent characteristics between two species from scRNA-seq data.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -2069,6 +2121,37 @@
       <guid>https://example.com/article/34914922/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;COVID-19-induced &amp;ldquo;acute respiratory distress syndrome&amp;rdquo; (ARDS) is associated with prolonged respiratory failure and high mortality, but the mechanistic basis of lung injury remains incompletely understood. Here, we analyze pulmonary immune responses and lung pathology in two cohorts of patients with COVID-19 ARDS using functional single-cell genomics, immunohistology, and electron microscopy. We describe an accumulation of CD163-expressing monocyte-derived macrophages that acquired a profibrotic transcriptional phenotype during COVID-19 ARDS. Gene set enrichment and computational data integration revealed a significant similarity between COVID-19-associated macrophages and profibrotic macrophage populations identified in idiopathic pulmonary fibrosis. COVID-19 ARDS was associated with clinical, radiographic, histopathological, and ultrastructural hallmarks of pulmonary fibrosis. Exposure of human monocytes to SARS-CoV-2, but not influenza A virus or viral RNA analogs, was sufficient to induce a similar profibrotic phenotype in vitro. In conclusion, we demonstrate that SARS-CoV-2 triggers profibrotic macrophage responses and pronounced fibroproliferative ARDS.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell landscape of peripheral immune responses to fatal SFTS</title>
+      <link>https://example.com/article/34818556/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34818556/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single-cell landscape of peripheral immune responses is reprogrammed in SFTS&lt;/li&gt;
+&lt;li&gt;Exacerbated IFN-I response is related to hyper-inflammation and fatal outcome in SFTS&lt;/li&gt;
+&lt;li&gt;Intermediate monocytes and IFN-I-inducible plasmablasts are major targets for SFTSV&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Severe fever with thrombocytopenia syndrome (SFTS) is an emerging infectious disease with high fatality. Poor prognosis of SFTS has been associated with dysregulated host immunity; however, the immune patterns associated with pathophysiology involving SFTS exacerbation remain unclear. Here, we show that the single-cell landscape of peripheral immune responses is reprogrammed in SFTS and characterized by monocyte shift to an intermediate type along with complement activation, perturbation of plasmablast composition, and highly exhausted T cells, all correlated with lethal consequences. We identify the overexpression of interferon (IFN)-stimulated genes across most immune cell types after SFTSV infection, which are simultaneously related to older age, high viremia, and a hyperinflammatory response. A retrospective clinical study reveals no efficiency of IFN-α in treating SFTS. These data collectively support the intermediate monocytes and IFN-I-inducible plasmablasts to be major targets for SFTS virus infection, and they indicate the pivotal role of the IFN-I response in exacerbating hyperinflammation and lethal SFTS.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

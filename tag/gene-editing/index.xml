@@ -5,12 +5,64 @@
     <link>https://example.com/tag/gene-editing/</link>
       <atom:link href="https://example.com/tag/gene-editing/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene Editing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Gene Editing</title>
       <link>https://example.com/tag/gene-editing/</link>
     </image>
+    
+    <item>
+      <title>Engineered Extracellular Vesicle-Delivered CRISPR/CasRx as a Novel RNA Editing Tool</title>
+      <link>https://example.com/article/36727818/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36727818/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Engineered extracellular vesicles (EVs) are considered excellent delivery vehicles for a variety of therapeutic agents, including nucleic acids, proteins, drugs, and nanomaterials. Recently, several studies have indicated that clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated 9 (Cas9) delivered by EVs enable efficient DNA editing. However, an RNA editing tool delivered by EVs is still unavailable. Here, a signal peptide-optimized and EVs-delivered guide RNA (gRNA) and CRISPR/CasRx (Cas13d) system capable of rapidly inhibiting the expression of targeted genes with quick catabolism after performing their functions is developed. EVs with CRISPR/CasRx and tandem gRNAs targeting pivotal cytokines are further packed whose levels increase substantially over the course of acute inflammatory diseases and find that these engineered EVs inhibit macrophage activation in vitro. More importantly, this system attenuates lipopolysaccharide (LPS)-triggered acute lung injury and sepsis in the acute phase, mitigating organ damage and improving the prognosis in vivo. In summary, a potent tool is provided for short-acting RNA editing, which could be a powerful therapeutic platform for the treatment of acute diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genome editing with natural and engineered CjCas9 orthologs</title>
+      <link>https://example.com/article/36733251/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36733251/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CjCas9 is one of the smallest Cas9 nucleases for mammalian genome editing. However, it requires a long N&lt;sub&gt;4&lt;/sub&gt;RYAC (R=A or G; Y=C or T) protospacer-adjacent motif (PAM), limiting its DNA targeting scope. In this study, we investigated the PAMs of three CjCas9 orthologs, including Hsp1Cas9, Hsp2Cas9, and CcuCas9, by performing a GFP-activation assay. Interestingly, Hsp1Cas9 and CcuCas9 recognized unique N&lt;sub&gt;4&lt;/sub&gt;
+RAA and N&lt;sub&gt;4&lt;/sub&gt;CNA PAMs, respectively. We further generated an Hsp1Cas9-Hsp2Cas9 chimeric Cas9 (Hsp1-Hsp2Cas9), which recognized a simple N&lt;sub&gt;4&lt;/sub&gt;
+CY PAM. Genome-wide off-target analysis revealed that Hsp1-Hsp2Cas9 has very few off-targets compared to SpCas9. By analyzing the crystal structure of CjCas9, we identified eight mutations that can improve the specificity and generate a high-fidelity Hsp1-Hsp2Cas9-Y. Hsp1-Hsp2Cas9-Y enables the knockout of &lt;em&gt;B4GALNT2&lt;/em&gt; and &lt;em&gt;CMAH&lt;/em&gt; in porcine fetal fibroblasts (PFFs). Moreover, we developed a high-fidelity Hsp1-Hsp2Cas9-KY which displayed undetectable off-targets revealed by GUIDE-seq at four tested loci. These natural and engineered Cas9 nucleases enabled efficient genome editing in multiple mammalian cells, expanding the DNA targeting scope.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Massively parallel knock-in engineering of human T cells</title>

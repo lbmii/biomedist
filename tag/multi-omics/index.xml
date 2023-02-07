@@ -5,12 +5,44 @@
     <link>https://example.com/tag/multi-omics/</link>
       <atom:link href="https://example.com/tag/multi-omics/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-Omics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Multi-Omics</title>
       <link>https://example.com/tag/multi-omics/</link>
     </image>
+    
+    <item>
+      <title>Advancing CAR T cell therapy through the use of multidimensional omics data</title>
+      <link>https://example.com/review/36721024/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/review/36721024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Key points&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multidimensional omics data, encompassing genomics, epigenomics, transcriptomics, T cell receptor-repertoire profiling, proteomics, metabolomics and microbiomics, have been exploited to advance our mechanistic understanding of chimeric antigen receptor (CAR) T cell therapy.&lt;/li&gt;
+&lt;li&gt;Utilization of multi-omics data derived from both tumour and non-malignant tissues at the bulk and/or single-cell levels is a powerful approach to identifying optimal targets for highly efficacious and safe CAR T cell therapy.&lt;/li&gt;
+&lt;li&gt;Integration of bulk and/or single-cell multidimensional omics data has been applied to investigate key determinants of CAR T cell persistence and antitumour efficacy, including T cell states and phenotypes, tumour cell characteristics, the tumour microenvironment and the microbiome.&lt;/li&gt;
+&lt;li&gt;Leveraging multi-omics data promises to elucidate the mechanisms underlying CAR T cell-related toxicities, including cytokine-release syndrome, immune effector cell-associated neurotoxicity syndrome and on-target, off-tumour toxicities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite the notable success of chimeric antigen receptor (CAR) T cell therapies in the treatment of certain haematological malignancies, challenges remain in optimizing CAR designs and cell products, improving response rates, extending the durability of remissions, reducing toxicity and broadening the utility of this therapeutic modality to other cancer types. Data from multidimensional omics analyses, including genomics, epigenomics, transcriptomics, T cell receptor-repertoire profiling, proteomics, metabolomics and/or microbiomics, provide unique opportunities to dissect the complex and dynamic multifactorial phenotypes, processes and responses of CAR T cells as well as to discover novel tumour targets and pathways of resistance. In this Review, we summarize the multidimensional cellular and molecular profiling technologies that have been used to advance our mechanistic understanding of CAR T cell therapies. In addition, we discuss current applications and potential strategies leveraging multi-omics data to identify optimal target antigens and other molecular features that could be exploited to enhance the antitumour activity and minimize the toxicity of CAR T cell therapy. Indeed, fully utilizing multi-omics data will provide new insights into the biology of CAR T cell therapy, further accelerate the development of products with improved efficacy and safety profiles, and enable clinicians to better predict and monitor patient responses.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/review/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Reviews &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title>

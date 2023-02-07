@@ -889,6 +889,31 @@
     </item>
     
     <item>
+      <title>NCYPred: A Bidirectional LSTM Network with Attention for Y RNA and short non-coding RNA classification</title>
+      <link>https://example.com/article/34826297/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34826297/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Short non-coding RNAs (sncRNAs) are involved in multiple cellular processes and can be divided into dozens of classes. Among such classes, Y RNAs have been gaining attention, being essential factors for the initiation of DNA replication on vertebrates, as well as potential tumor biomarkers. Homologs have also been described in nematodes and insects, as well as related sequences in bacteria. Methods capable of accurately predicting Y RNA transcripts are lacking. In this work, we developed an attention-based LSTM network and built a classification model able to classify sncRNAs (including Y RNA) di-rectly from nucleotide sequences. A dataset consisting of 45,447 sncRNA sequences, from a wide range of organisms, ob-tained from Rfam 14.3 was built. Performance evaluation demonstrated that our proposed method, &lt;a href=&#34;https://www.gpea.uem.br/ncypred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCYPred&lt;/a&gt; (Non-Coding/Y RNA Prediction), can accurately predict Y RNA sequences and their homologs, as well as 11 additional classes, achieving results comparable with state-of-the-art methods. We also demonstrate that applying t-SNE on learned sequence represen-tations could be useful for sequence analysis.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Analyze your gene coding potential</title>
       <link>https://example.com/tool/2021-10-18-anal-gene-code/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>

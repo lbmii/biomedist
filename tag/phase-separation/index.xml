@@ -5,12 +5,44 @@
     <link>https://example.com/tag/phase-separation/</link>
       <atom:link href="https://example.com/tag/phase-separation/index.xml" rel="self" type="application/rss+xml" />
     <description>Phase Separation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Phase Separation</title>
       <link>https://example.com/tag/phase-separation/</link>
     </image>
+    
+    <item>
+      <title>Diverse CMT2 neuropathies are linked to aberrant G3BP interactions in stress granules</title>
+      <link>https://example.com/article/36738734/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36738734/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Convergence of diverse CMT2-causing mutant proteins in SG&lt;/li&gt;
+&lt;li&gt;Mutant proteins enter SGs and aberrantly interact with G3BP upon stress&lt;/li&gt;
+&lt;li&gt;Aberrant G3BP interactions perturb the SG network and cause stress vulnerability&lt;/li&gt;
+&lt;li&gt;SG-mediated molecular interplay between genetic and environmental pathways&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Complex diseases often involve the interplay between genetic and environmental factors. Charcot-Marie-Tooth type 2 neuropathies (CMT2) are a group of genetically heterogeneous disorders, in which similar peripheral neuropathology is inexplicably caused by various mutated genes. Their possible molecular links remain elusive. Here, we found that upon environmental stress, many CMT2-causing mutant proteins adopt similar properties by entering stress granules (SGs), where they aberrantly interact with G3BP and integrate into SG pathways. For example, glycyl-tRNA synthetase (GlyRS) is translocated from the cytoplasm into SGs upon stress, where the mutant GlyRS perturbs the G3BP-centric SG network by aberrantly binding to G3BP. This disrupts SG-mediated stress responses, leading to increased stress vulnerability in motoneurons. Disrupting this aberrant interaction rescues SG abnormalities and alleviates motor deficits in CMT2D mice. These findings reveal a stress-dependent molecular link across diverse CMT2 mutants and provide a conceptual framework for understanding genetic heterogeneity in light of environmental stress.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Spermine enhances antiviral and anticancer responses by stabilizing DNA binding with the DNA sensor cGAS</title>

@@ -348,5 +348,33 @@
 </description>
     </item>
     
+    <item>
+      <title>circRNAome profiling reveals circFgfr2 regulates myogenesis and muscle regeneration via a feedback loop</title>
+      <link>https://example.com/article/34811940/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34811940/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Circular RNAs (circRNAs) represent a novel class of non-coding RNAs formed by a covalently closed loop and play crucial roles in many biological processes. Several circRNAs associated with myogenesis have been reported. However, the dynamic expression, function, and mechanism of circRNAs during myogenesis and skeletal muscle development are largely unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Strand-specific RNA-sequencing (RNA-seq) and microarray datasets were used to profile the dynamic circRNAome landscape during skeletal muscle development and myogenic differentiation. Bioinformatics analyses were used to characterize the circRNAome and identify candidate circRNAs associated with myogenesis. Bulk and single-cell RNA-seq were performed to identify the downstream genes and pathways of circFgfr2. The primary myoblast cells, C2C12 cells, and animal model were used to assess the function and mechanism of circFgfr2 in myogenesis and muscle regeneration in vitro or in vivo by RT-qPCR, western blotting, dual-luciferase activity assay, RNA immunoprecipitation, RNA fluorescence in situ hybridization, and chromatin immunoprecipitation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We profiled the dynamic circRNAome in pig skeletal muscle across 27 developmental stages and detected 52 918 high-confidence circRNAs. A total of 2916 of these circRNAs are conserved across human, mouse, and pig, including four circRNAs (circFgfr2, circQrich1, circMettl9, and circCamta1) that were differentially expressed (|log2 fold change| &amp;gt; 1 and adjusted P value &amp;lt; 0.05) in various myogenesis systems. We further focused on a conserved circRNA produced from the fibroblast growth factor receptor 2 (Fgfr2) gene, termed circFgfr2, which was found to inhibit myoblast proliferation and promote differentiation and skeletal muscle regeneration. Mechanistically, circFgfr2 acted as a sponge for miR-133 to regulate the mitogen-activated protein kinase kinase kinase 20 (Map3k20) gene and JNK/MAPK pathway. Importantly, transcription factor Kruppel like factor 4 (Klf4), the downstream target of the JNK/MAPK pathway, directly bound to the promoter of circFgfr2 and affected its expression via an miR-133/Map3k20/JNK/Klf4 auto-regulatory feedback loop. RNA binding protein G3BP stress granule assembly factor 1 (G3bp1) inhibited the biogenesis of circFgfr2.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; The present study provides a comprehensive circRNA resource for skeletal muscle study. The functional and mechanistic analysis of circFgfr2 uncovered a circRNA-mediated auto-regulatory feedback loop regulating myogenesis and muscle regeneration, which provides new insight to further understand the regulatory mechanism of circRNAs.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
