@@ -5,12 +5,43 @@
     <link>https://example.com/tag/kidney/</link>
       <atom:link href="https://example.com/tag/kidney/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Kidney</title>
       <link>https://example.com/tag/kidney/</link>
     </image>
+    
+    <item>
+      <title>Comparing Effectiveness and Safety of SGLT2 Inhibitors vs DPP-4 Inhibitors in Patients With Type 2 Diabetes and Varying Baseline HbA1c Levels</title>
+      <link>https://example.com/article/36745425/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36745425/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Importance:&lt;/em&gt; Sodium-glucose cotransporter 2 inhibitor (SGLT2i) therapy has been associated with cardiovascular benefits and a few adverse events; however, whether the comparative effectiveness and safety profiles vary with differences in baseline hemoglobin A1c (HbA1c) levels is unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; To compare cardiovascular effectiveness and safety of treatment with SGLT2i vs dipeptidyl peptidase 4 inhibitor (DPP-4i) in adults with type 2 diabetes (T2D) (1) overall and (2) at varying baseline HbA1c levels.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Design, setting, and participants:&lt;/em&gt; A new-user comparative effectiveness and safety research study was conducted among 144 614 commercially insured adults, initiating treatment with SGLT2i or DPP-4i and with a recorded T2D diagnosis at baseline and at least 1 HbA1c laboratory result recorded within 3 months before treatment initiation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Interventions:&lt;/em&gt; The intervention consisted of the initiation of treatment with SGLT2i or DPP-4i.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Main outcomes and measures:&lt;/em&gt; Primary outcomes were a composite of myocardial infarction, stroke, or all-cause death (modified major adverse cardiovascular events [MACE]) and hospitalization for heart failure (HHF). Safety outcomes were hypovolemia, fractures, falls, genital infections, diabetic ketoacidosis (DKA), acute kidney injury (AKI), and lower-limb amputation. Incidence rate (IR) per 1000 person-years, hazard ratios (HR) and rate differences (RD) with their 95% CIs were estimated controlling for 128 covariates.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A total of 144 614 eligible adults (mean [SD] age, 62 [12.4] years; 54% male participants) with T2D initiating treatment with a SGLT2i (n = 60 523) or a DPP-4i (n = 84 091) were identified; 44 099 had an HbA1c baseline value of less than 7.5%, 52 986 between 7.5% and 9%, and 47 529 greater than 9%. Overall, 87 274 eligible patients were 1:1 propensity score-matched: 24 052 with HbA1c less than 7.5%; 32 290 with HbA1c between 7.5% and 9%; and 30 932 with HbA1c greater than 9% (to convert percentage of total hemoglobin to proportion of total hemoglobin, multiply by 0.01). The initiation of SGLT2i vs DPP-4i was associated with a reduction in the risk of modified MACE (IR per 1000 person-years 17.13 vs 20.18, respectively; HR, 0.85; 95% CI, 0.75-0.95; RD, -3.02; 95% CI, -5.23 to -0.80) and HHF (IR per 1000 person-years 3.68 vs 8.08, respectively; HR, 0.46; 95% CI, 0.35 to 0.57; RD -4.37; 95% CI, -5.62 to -3.12) over a mean follow-up of 8 months, with no evidence of treatment effect heterogeneity across the HbA1c levels. Treatment with SGLT2i showed an increased risk of genital infections and DKA and a reduced AKI risk compared with DPP-4i. Findings were consistent by HbA1c levels, except for a more pronounced risk of genital infections associated with SGLT2i for HbA1c levels of 7.5% to 9% (IR per 1000 person-years 68.5 vs 22.8, respectively; HR, 3.10; 95% CI, 2.68-3.58; RD, 46.22; 95% CI, 40.54-51.90).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions and relevance:&lt;/em&gt; In this comparative effectiveness and safety research study among adults with T2D, SGLT2i vs DPP-4i treatment initiators had a reduced risk of modified MACE and HHF, an increased risk of genital infections and DKA, and a lower risk of AKI, regardless of baseline HbA1c.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>LINC00355 mediates CTNNBIP1 promoter methylation and promotes ER stress-induced podocyte injury in diabetic nephropathy</title>
@@ -53,6 +84,34 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Carnosic acid (CA) is a polyphenolic diterpene from rosemary extract with anti-tumor and anti-inflammatory activities. Numerous reports have focused on its anti-tumor ability, while the exact mechanisms underlying its anti-inflammation remains unclear. Here, we have identified that CA is a potent inhibitor of NLRP3 inflammasome in vitro and in vivo. CA not only reduces NLRP3 expression by blocking NF-κB activation, but also inhibits NLRP3 inflammasome assembly and activation by suppressing mitochondrial ROS production and interrupting NLRP3-NEK7 interaction. Furthermore, in mouse models, CA alleviates lipopolysaccharide-induced acute systemic inflammation and MSU-induced peritonitis via NLRP3. Taken together, our data demonstrated the inhibitory effect of CA on NLRP3 inflammasome and pointed out the potential application of CA in the treatment of NLRP3-driven diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide Association Study in Acute Tubulointerstitial Nephritis</title>
+      <link>https://example.com/article/36749126/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36749126/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Acute tubulointerstitial nephritis (ATIN) is a rare immune related disease, accounting for about 10% of cases of unexplained acute kidney injury (AKI). Previous elucidation of the relationship between genetic factors that contribute to its pathogenesis was hampered due to small sample sizes and candidate gene design.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; We undertook the first two-stage genome-wide association studies (GWAS) and meta-analysis involving 544 kidney biopsy-defined cases of ATIN and 2,346 controls with Chinese ancestry. We conducted statistical fine-mapping analysis, provided functional annotations of significant variants, estimated single nucleotide polymorphism (SNP)-based heritability, and checked genotype and sub-phenotype correlations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Two genome-wide significant loci, rs35087390 of HLA-DQA1 (&lt;em&gt;P&lt;/em&gt;= 3.01×10&lt;sup&gt;-39&lt;/sup&gt;) on 6p21.32 and rs2417771 of PLEKHA5 on 12p12.3 (&lt;em&gt;P&lt;/em&gt; = 2.14×10&lt;sup&gt;-8&lt;/sup&gt;), emerged from the analysis. HLA imputation using two reference panels suggested that HLA-DRB1-14 mainly drives the HLA risk association. HLA-DRB1 residue 60 belonging to pockets P10 was the key amino acid position. The SNP-based heritability estimates with and without the HLA locus were 20.43% and 10.35%. Different clinical sub-phenotypes (drug-related or tubulointerstitial nephritis and uveitis syndrome) seemed to share the same risk alleles. But HLA risk genotype was associated with disease severity and response rate to immunosuppressive therapy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; We identified two candidate genome regions associated with susceptibility to ATIN. The findings suggest that a genetically conferred risk of immune dysregulation is involved in the pathogenesis of ATIN.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6243,6 +6302,146 @@
     </item>
     
     <item>
+      <title>Newly established LC-MS/MS method for measurement of plasma BH4 as a predictive biomarker for kidney injury in diabetes</title>
+      <link>https://example.com/article/34808334/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34808334/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For the first time LC-MS/MS with our own established protocol was used on human samples.&lt;/li&gt;
+&lt;li&gt;It was confirmed that BH4 is negatively associated with ACR in diabetic human subjects and both BH4 and CPI 2h are independent risk factors for ACR progression.&lt;/li&gt;
+&lt;li&gt;BH4 can be protective for early renal function decline suggesting its deficiency may induce damage on renal function other than ACR progression.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; The clinical research on BH4 is limited because of the difficulties on its measurement. In this study, we used our own established LC-MS/MS method to examine the plasma BH4 levels in diabetes to determine whether it could be used as a biomarker for the prediction of kidney injury in those patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Hospitalized diabetes patients in Renmin Hospital of Wuhan University from Jan to Aug 2021 were recruited. To assess the association between plasma BH4 with ACR or eGFR in diabetes, a total of 142 patients with type 2 diabetes (T2DM) were enrolled. They were divided into three groups by albuminuria levels: normoalbuminuria (n = 68), microalbuminuria (n = 48), and macroalbuminuria (n = 26) according to ACR; or into two groups by eGFR: eGFR≥90 or eGFR&amp;lt;90 ml/min for correlation and logistic regression analysis. Plasma BH4 level was measured by LC-MS/MS along with other biochemical indices.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Plasma BH4 concentrations were decreased as ACR progressed. BH4 (r = -0.55, P &amp;lt; 0.001) and 2h C-Peptide (CP-2h) (r = -0.248, P = 0.003) levels were negatively correlated with ACR. Moreover, multivariable logistic regression analysis showed BH4 concentrations (B = -0.468, P &amp;lt; 0.001) and CP-2h (B = -0.257, P = 0.028) were independently associated with ACR progression. ROC curve showed that BH4 level has a predictive value on ACR (95%CI 0.686-0.841, sensitivity 69.1%, specificity 73%). Moreover, in diabetes patients with eGFR≥90 ml/min, plasma BH4 level (P = 0.008) is higher than those in diabetes with eGFR&amp;lt;90 ml/min and BH4 was remained independently associated with eGFR after multivariable logistic regression analysis (B = -0.193, P = 0.048).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Our established LC-MS/MS method could be used on human plasma BH4 measurements and our data suggested that BH4 level can be used as a biomarker for kidney injury in diabetes indicated by its association with ACR progression and early renal function decline.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Xanthine Oxidoreductase Inhibitors Suppress the Onset of Exercise-Induced AKI in High HPRT Activity Urat1- Uox Double Knockout Mice</title>
+      <link>https://example.com/article/34799437/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34799437/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Hereditary renal hypouricemia type 1 (RHUC1) is caused by URAT1/SLC22A12 dysfunction, resulting in urolithiasis and exercise-induced AKI (EIAKI). However, because there is no useful experimental RHUC1 animal model, the precise pathophysiologic mechanisms underlying EIAKI have yet to be elucidated. We established a high HPRT activity &lt;em&gt;Urat1-Uox&lt;/em&gt; double knockout (DKO) mouse as a novel RHUC1 animal model for investigating the cause of EIAKI and the potential therapeutic effect of xanthine oxidoreductase inhibitors (XOIs).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; The novel &lt;em&gt;Urat1-Uox&lt;/em&gt; DKO mice were used in a forced swimming test as loading exercise to explore the onset mechanism of EIAKI and evaluate related purine metabolism and renal injury parameters.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; &lt;em&gt;Urat1-Uox&lt;/em&gt; DKO mice had uricosuric effects and elevated levels of plasma creatinine and BUN as renal injury markers, and decreased creatinine clearance observed in a forced swimming test. In addition, &lt;em&gt;Urat1-Uox&lt;/em&gt; DKO mice had increased NLRP3 inflammasome activity and downregulated levels of Na&lt;sup&gt;+&lt;/sup&gt;-K&lt;sup&gt;+&lt;/sup&gt;-ATPase protein in the kidney, as Western blot analysis showed. Finally, we demonstrated that topiroxostat and allopurinol, XOIs, improved renal injury and functional parameters of EIAKI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; &lt;em&gt;Urat1-Uox&lt;/em&gt; DKO mice are a useful experimental animal model for human RHUC1. The pathogenic mechanism of EIAKI was found to be due to increased levels of IL-1β via NLRP3 inflammasome signaling and Na&lt;sup&gt;+&lt;/sup&gt;-K&lt;sup&gt;+&lt;/sup&gt;-ATPase dysfunction associated with excessive urinary urate excretion. In addition, XOIs appear to be a promising therapeutic agent for the treatment of EIAKI.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cell stress response impairs de novo NAD&#43; biosynthesis in the kidney</title>
+      <link>https://example.com/article/34793337/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34793337/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The biosynthetic routes leading to de novo nicotinamide adenine dinucleotide (NAD+) production are involved in acute kidney injury (AKI), with a critical role for quinolinate phosphoribosyl transferase (QPRT), a bottleneck enzyme of de novo NAD+ biosynthesis. The molecular mechanisms determining reduced QPRT in AKI, and the role of impaired NAD+ biosynthesis in the progression to chronic kidney disease (CKD), are unknown. We demonstrate that a high urinary quinolinate-to-tryptophan ratio, an indirect indicator of impaired QPRT activity and reduced de novo NAD+ biosynthesis in the kidney, is a clinically applicable early marker of AKI after cardiac surgery and is predictive of progression to CKD in kidney transplant recipients. We also provide evidence that the endoplasmic reticulum (ER) stress response may impair de novo NAD+ biosynthesis by repressing QPRT transcription. In conclusion, NAD+ biosynthesis impairment is an early event in AKI embedded with the ER stress response, and persistent reduction of QPRT expression is associated with AKI to CKD progression. This finding may lead to identification of noninvasive metabolic biomarkers of kidney injury with prognostic and therapeutic implications.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A contemporary simple risk score for prediction of contrast-associated acute kidney injury after percutaneous coronary intervention: derivation and validation from an observational registry</title>
+      <link>https://example.com/article/34793743/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34793743/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Contrast-associated acute kidney injury can occur after percutaneous coronary intervention (PCI). Prediction of the contrast-associated acute kidney injury risk is important for a tailored prevention and mitigation strategy. We sought to develop a simple risk score to estimate contrast-associated acute kidney injury risk based on a large contemporary PCI cohort.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Consecutive patients undergoing PCI at a large tertiary care centre between Jan 1, 2012, and Dec 31, 2020, with available creatinine measurements both before and within 48 h after the procedure, were included; only patients on chronic dialysis were excluded. Patients treated between 2012 and 2017 comprised the derivation cohort and those treated between 2018 and 2020 formed the validation cohort. The primary endpoint was contrast-associated acute kidney injury, defined according to the Acute Kidney Injury Network. Independent predictors of contrast-associated acute kidney injury were derived from multivariate logistic regression analysis. Model 1 included only pre-procedural variables, whereas Model 2 also included procedural variables. A weighted integer score based on the effect estimate of each independent variable was used to calculate the final risk score for each patient. The impact of contrast-associated acute kidney injury on 1-year deaths was also evaluated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Findings:&lt;/em&gt; 32 378 PCI procedures were performed and screened for inclusion in the present analysis. After the exclusion of patients without paired creatinine measurements, patients on chronic dialysis, and multiple procedures, 14 616 patients were included in the derivation cohort (mean age 66·2 years, 29·2% female) and 5606 were included in the validation cohort (mean age 67·0 years, 26·4% female). Contrast-associated acute kidney injury occurred in 860 (4·3%) patients. Independent predictors of contrast-associated acute kidney injury included in Model 1 were: clinical presentation, estimated glomerular filtration rate, left ventricular ejection fraction, diabetes, haemoglobin, basal glucose, congestive heart failure, and age. Additional independent predictors in Model 2 were: contrast volume, peri-procedural bleeding, no flow or slow flow post procedure, and complex PCI anatomy. The occurrence of contrast-associated acute kidney injury in the derivation cohort increased gradually from the lowest to the highest of the four risk score groups in both models (2·3% to 34·9% in Model 1, and 2·0% to 38·8% in Model 2). Inclusion of procedural variables in the model only slightly improved the discrimination of the risk score (C-statistic in the derivation cohort: 0·72 for Model 1 and 0·74 for model 2; in the validation cohort: 0·84 for Model 1 and 0·86 for Model 2). The risk of 1-year deaths significantly increased in patients with contrast-associated acute kidney injury (10·2% vs 2·5%; adjusted hazard ratio 1·76, 95% CI 1·31-2·36; &lt;em&gt;p&lt;/em&gt;=0·0002), which was mainly due to excess 30-day deaths.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Interpretation:&lt;/em&gt; A contemporary simple risk score based on readily available variables from patients undergoing PCI can accurately discriminate the risk of contrast-associated acute kidney injury, the occurrence of which is strongly associated with subsequent death.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A knock-in rat model unravels acute and chronic renal toxicity in glutaric aciduria type I</title>
+      <link>https://example.com/article/34799272/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34799272/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Glutaric aciduria type I (GA-I, OMIM # 231670) is an autosomal recessive inborn error of metabolism caused by deficiency of the mitochondrial enzyme glutaryl-CoA dehydrogenase (GCDH). The principal clinical manifestation in GA-I patients is striatal injury most often triggered by catabolic stress. Early diagnosis by newborn screening programs improved survival and reduced striatal damage in GA-I patients. However, the clinical phenotype is still evolving in the aging patient population. Evaluation of long-term outcome in GA-I patients recently identified glomerular filtration rate (GFR) decline with increasing age. We recently created the first knock-in rat model for GA-I harboring the mutation p.R411W (c.1231 C&amp;gt;T), corresponding to the most frequent GCDH human mutation p.R402W. In this study, we evaluated the effect of an acute metabolic stress in form of high lysine diet (HLD) on young &lt;em&gt;Gcdh&lt;sup&gt;ki/ki&lt;/sup&gt;&lt;/em&gt; rats. We further studied the chronic effect of GCDH deficiency on kidney function in a longitudinal study on a cohort of &lt;em&gt;Gcdh&lt;sup&gt;ki/ki&lt;/sup&gt;&lt;/em&gt; rats by repetitive 68Ga-EDTA positron emission tomography (PET) renography, biochemical and histological analyses. In young &lt;em&gt;Gcdh&lt;sup&gt;ki/ki&lt;/sup&gt;&lt;/em&gt; rats exposed to HLD, we observed a GFR decline and biochemical signs of a tubulopathy. Histological analyses revealed lipophilic vacuoles, thinning of apical brush border membranes and increased numbers of mitochondria in proximal tubular (PT) cells. HLD also altered OXPHOS activities and proteome in kidneys of &lt;em&gt;Gcdh&lt;sup&gt;ki/ki&lt;/sup&gt;&lt;/em&gt; rats. In the longitudinal cohort, we showed a progressive GFR decline in &lt;em&gt;Gcdh&lt;sup&gt;ki/ki&lt;/sup&gt;&lt;/em&gt; rats starting at young adult age and a decline of renal clearance. Histopathological analyses in aged &lt;em&gt;Gcdh&lt;sup&gt;ki/ki&lt;/sup&gt;&lt;/em&gt; rats revealed tubular dilatation, protein accumulation in PT cells and mononuclear infiltrations. These observations confirm that GA-I leads to acute and chronic renal damage. This raises questions on indication for follow-up on kidney function in GA-I patients and possible therapeutic interventions to avoid renal damage.
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A DNA Nanoraft-Based Cytokine Delivery Platform for Alleviation of Acute Kidney Injury</title>
       <link>https://example.com/article/34723467/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -6253,6 +6452,35 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cytokine immunotherapy represents an attractive strategy to stimulate robust immune responses for renal injury repair in ischemic acute kidney injury (AKI). However, its clinical application is hindered by its nonspecificity to kidney, short circulation half-life, and severe side effects. An ideal cytokine immunotherapy for AKI requires preferential delivery of cytokines with accurate dosage to the kidney and sustained-release of cytokines to stimulate the immune responses. Herein, we developed a DNA nanoraft cytokine by precisely arranging interleukin-33 (IL-33) nanoarray on rectangle DNA origami, through which IL-33 can be preferentially delivered to the kidney for alleviation of AKI. A nanoraft carrying precisely quantified IL-33 predominantly accumulated in the kidney for up to 48 h. Long-term sustained-release of IL-33 from nanoraft induced rapid expansion of type 2 innate lymphoid cells (ILC 2s) and regulatory T cells (Tregs) and achieved better treatment efficiency compared to free IL-33 treatment. Thus, our study demonstrates that a nanoraft can serve as a structurally well-defined delivery platform for cytokine immunotherapy in ischemic AKI and other renal diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Oleic acid alleviates LPS-induced acute kidney injury by restraining inflammation and oxidative stress via the Ras/MAPKs/PPAR-γ signaling pathway</title>
+      <link>https://example.com/article/34798521/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34798521/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Rehmannia Glutinosa Libosch. is applied for the treatment of renal and inflammatory-related diseases, and oleic acid (OA) is a compound isolated from Rehmannia Glutinosa Libosch.. Unfortunately, the pharmacological activity of OA on LPS treated acute kidney injury (AKI) has not been investigated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Aims:&lt;/em&gt; The research is aiming to probe the activities of OA on LPS-induced AKI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Information of OA effect on AKI were from network pharmacology. H&amp;amp;E staining, creatinine (CRE) and urea nitrogen (UN) were performed to evaluate the activities of OA on kidney function. Inflammatory factors in serum were measured by cytometric bead array. Increased ratio of reactive oxygen species (ROS) in kidney and immune cells in the peripheral blood were determined by flow cytometry (FCM). PPAR-γ, MAPK and apoptotic signaling pathways were measured by Western blot. Then, a metabolomics approach was utilized to investigate OA&amp;rsquo;s response to AKI. The role of salirasib (FTS, Ras inhibitor) in OA acted on ROS, Ca&lt;sup&gt;2+&lt;/sup&gt;, MMP and Ras signaling pathway in LPS treated NRK-52e cells were investigated by FCM and In-cell western.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; It is proved that OA effetively ameliorated renal function, alleviated inflammatory response and oxidative stress, and transformed apoptotic, MAPK and PPAR-γ signaling pathways in mice with AKI, regulated phenylalanine metabolism, purine metabolism, sphingolipid metabolism, taurine and hypotaurine metabolism, moreover, the role of OA in injury of NRK-52e was blocked by FTS.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; In a word, OA could alleviate AKI by restraining inflammation and oxidative stress via regulating the Ras/MAPKs/PPAR-γ signaling pathway, phenylalanine metabolism, purine metabolism, sphingolipid metabolism and taurine and hypotaurine metabolism, which might be a useful strategy for treating AKI.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;

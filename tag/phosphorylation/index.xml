@@ -5,12 +5,37 @@
     <link>https://example.com/tag/phosphorylation/</link>
       <atom:link href="https://example.com/tag/phosphorylation/index.xml" rel="self" type="application/rss+xml" />
     <description>Phosphorylation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Phosphorylation</title>
       <link>https://example.com/tag/phosphorylation/</link>
     </image>
+    
+    <item>
+      <title>AKT Phosphorylates FAM13A and Promotes Its Degradation via CUL4A/DDB1/DCAF1 E3 Complex</title>
+      <link>https://example.com/article/36749583/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36749583/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Single-nucleotide polymorphisms (SNPs) within FAM13A gene are significantly associated with chronic obstructive pulmonary disease (COPD) and lung function in genome-wide association studies (GWAS). However, how FAM13A protein is regulated under physiological and pathological condition remains largely elusive. Herein, we report that FAM13A is phosphorylated at the Serine 312 residue by AKT kinase after cigarette smoke extract treatment and thereby recognized by the CULLIN4A/DCAF1 E3 ligase complex, rendering the ubiquitination-mediated degradation of FAM13A. More broadly, downregulation of FAM13A protein upon AKT activation, as a general cellular response to acute stress, was also detected in influenza- or naphthalene-injured lungs in mice. Functionally, reduced protein levels of FAM13A leads to accelerated epithelial cell proliferation in murine lungs during recovery phase after injury. In summary, we characterized a novel molecular mechanism that regulates the stability of FAM13A protein, which enables the fine-tuning of lung epithelial repair post injuries. These significant findings will expand our molecular understanding on the regulation of protein stability that may modulate lung epithelial repair implicated in the development of COPD and other lung diseases.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Fructose-1,6-bisphosphatase 1 dephosphorylates IκBα and suppresses colorectal tumorigenesis</title>

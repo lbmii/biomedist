@@ -5,12 +5,37 @@
     <link>https://example.com/tag/microbiome/</link>
       <atom:link href="https://example.com/tag/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiome</title>
       <link>https://example.com/tag/microbiome/</link>
     </image>
+    
+    <item>
+      <title>Microbiota-derived acetate enhances host antiviral response via NLRP3</title>
+      <link>https://example.com/article/36746963/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36746963/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pathogenic viral infections represent a major challenge to human health. Host immune responses to respiratory viruses are closely associated with microbiome and metabolism via the gut-lung axis. It has been known that host defense against influenza A virus (IAV) involves activation of the NLRP3 inflammasome, however, mechanisms behind the protective function of NLRP3 are not fully known. Here we show that an isolated bacterial strain, Bifidobacterium pseudolongum NjM1, enriched in the gut microbiota of Nlrp3-/- mice, protects wild-type but not Nlrp3 deficient mice against IAV infection. This effect depends on the enhanced production of type I interferon (IFN-I) mediated by NjM1-derived acetate. Application of exogenous acetate reproduces the protective effect of NjM1. Mechanistically, NLRP3 bridges GPR43 and MAVS, and promotes the oligomerization and signalling of MAVS; while acetate enhances MAVS aggregation upon GPR43 engagement, leading to elevated IFN-I production. Thus, our data support a model of NLRP3 mediating enhanced induction of IFN-I via acetate-producing bacterium and suggest that the acetate-GPR43-NLRP3-MAVS-IFN-I signalling axis is a potential therapeutic target against respiratory viral infections.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Candida albicans can foster gut dysbiosis and systemic inflammation during HIV infection</title>

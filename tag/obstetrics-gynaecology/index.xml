@@ -5,12 +5,37 @@
     <link>https://example.com/tag/obstetrics-gynaecology/</link>
       <atom:link href="https://example.com/tag/obstetrics-gynaecology/index.xml" rel="self" type="application/rss+xml" />
     <description>Obstetrics &amp; Gynaecology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Obstetrics &amp; Gynaecology</title>
       <link>https://example.com/tag/obstetrics-gynaecology/</link>
     </image>
+    
+    <item>
+      <title>The ubiquitin ligase TRIM21 regulates mutant p53 accumulation and gain-of-function in cancer</title>
+      <link>https://example.com/article/36749630/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36749630/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tumor suppressor TP53 is the most frequently mutated gene in human cancers. Mutant p53 (mutp53) proteins often accumulate to very high levels in human cancers to promote cancer progression through the gain-of-function (GOF) mechanism. Currently, the mechanism underlying mutp53 accumulation and GOF is incompletely understood. Here, we identified TRIM21 as a critical E3 ubiquitin ligase of mutp53 by screening for specific mutp53-interacting proteins. TRIM21 directly interacted with mutp53 but not wild-type p53, resulting in ubiquitination and degradation of mutp53 to suppress mutp53 GOF in tumorigenesis. TRIM21 deficiency in cancer cells promoted mutp53 accumulation and GOF in tumorigenesis. Compared with p53R172H knock-in mice, which displayed mutp53 accumulation specifically in tumors but not normal tissues, TRIM21 deletion in p53R172H knock-in mice resulted in mutp53 accumulation in normal tissues, an earlier tumor onset, and a shortened lifespan of mice. Furthermore, TRIM21 was frequently downregulated in some human cancers, including colorectal and breast cancers, and low TRIM21 expression was associated with poor prognosis in patients with cancers carrying mutp53. Our results revealed a critical mechanism underlying mutp53 accumulation in cancers, and also uncovered an important tumor-suppressive function of TRIM21 and its mechanism in cancers carrying mutp53.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Landscape of pathogenic mutations in premature ovarian insufficiency</title>

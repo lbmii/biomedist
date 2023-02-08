@@ -5,12 +5,62 @@
     <link>https://example.com/tag/intestine/</link>
       <atom:link href="https://example.com/tag/intestine/index.xml" rel="self" type="application/rss+xml" />
     <description>Intestine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
       <title>Intestine</title>
       <link>https://example.com/tag/intestine/</link>
     </image>
+    
+    <item>
+      <title>The ubiquitin ligase TRIM21 regulates mutant p53 accumulation and gain-of-function in cancer</title>
+      <link>https://example.com/article/36749630/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36749630/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tumor suppressor TP53 is the most frequently mutated gene in human cancers. Mutant p53 (mutp53) proteins often accumulate to very high levels in human cancers to promote cancer progression through the gain-of-function (GOF) mechanism. Currently, the mechanism underlying mutp53 accumulation and GOF is incompletely understood. Here, we identified TRIM21 as a critical E3 ubiquitin ligase of mutp53 by screening for specific mutp53-interacting proteins. TRIM21 directly interacted with mutp53 but not wild-type p53, resulting in ubiquitination and degradation of mutp53 to suppress mutp53 GOF in tumorigenesis. TRIM21 deficiency in cancer cells promoted mutp53 accumulation and GOF in tumorigenesis. Compared with p53R172H knock-in mice, which displayed mutp53 accumulation specifically in tumors but not normal tissues, TRIM21 deletion in p53R172H knock-in mice resulted in mutp53 accumulation in normal tissues, an earlier tumor onset, and a shortened lifespan of mice. Furthermore, TRIM21 was frequently downregulated in some human cancers, including colorectal and breast cancers, and low TRIM21 expression was associated with poor prognosis in patients with cancers carrying mutp53. Our results revealed a critical mechanism underlying mutp53 accumulation in cancers, and also uncovered an important tumor-suppressive function of TRIM21 and its mechanism in cancers carrying mutp53.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metal Exposure Promotes Colorectal Tumorigenesis via the Aberrant N6-Methyladenosine Modification of ATP13A3</title>
+      <link>https://example.com/article/36745568/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/36745568/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Element contamination, including that from heavy metals, is associated with gastrointestinal tumorigenesis, but the effects and mechanisms of crucial element exposure associated with colorectal cancer remain unclear. We profiled 56 elements by ICP-MS and used logistic regression, LASSO, BKMR, and GAM to identify colorectal cancer-relevant elements. A series of biochemical experiments were performed to demonstrate the cytotoxicity and the mechanisms of malignant transformation after metal exposure. Using an elementomics approach, we first found that the metal thallium (Tl) was positively correlated with many toxic metals and was associated with a significantly increased risk of colorectal cancer. Acute exposure to Tl induced cytotoxicity and cell death by accelerating the generation of reactive oxygen species and DNA damage. Chronic exposure to Tl led to the inhibition of cell death and thereby induced the malignant transformation of normal colon cells and xenograft tumor formation in nude mice. Furthermore, we describe the first identification of a significant metal quantitative trait locus for the novel colorectal cancer susceptibility locus rs1511625 near &lt;em&gt;ATP13A3&lt;/em&gt;. Mechanistically, Tl increased the level of aberrant N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine (m&lt;sup&gt;6&lt;/sup&gt;A) modification of &lt;em&gt;ATP13A3&lt;/em&gt; via the &lt;em&gt;METLL3/METTL14/ALKBH5-ATP13A3&lt;/em&gt; axis to promote colorectal tumorigenesis. This study provides a basis for the development of public health strategies for reducing metal exposure among populations at high risk for colorectal cancer.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Celastrol suppresses colorectal cancer via covalent targeting peroxiredoxin 1</title>
@@ -5615,6 +5665,35 @@
     </item>
     
     <item>
+      <title>Genomic Stratification of Resectable Colorectal Liver Metastasis Patients and Implications for Adjuvant Therapy and Survival</title>
+      <link>https://example.com/article/34793355/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34793355/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective:&lt;/em&gt; To determine whether genomic risk groups identified by somatic mutation testing of colorectal liver metastasis (CRLM) can be used for &amp;ldquo;molecularly-guided&amp;rdquo; selection for adjuvant systemic chemotherapy and hepatic artery infusion of FUDR (SYS+HAI-FUDR).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Several genomic biomarkers have been associated with clinical phenotype and survival for patients with resectable CRLM. It is unknown whether prognostication afforded by genomic stratification translates into enhanced patient selection for adjuvant hepatic artery infusion therapy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; Consecutive patients with resected CRLM and available mutational characterization via Memorial Sloan Kettering-Integrated Mutation Profiling of Actionable Cancer Targets were reviewed from a prospective institutional database. Patients were stratified into three genomic risk groups based on previously defined alterations in SMAD4, EGFR and the RAS/RAF pathway. The association between SYS+HAI-FUDR and overall survival, relative to adjuvant chemotherapy alone (SYS), was evaluated in each genomic risk group by Cox proportional hazard regression and propensity score matched analyses.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; A total of 334 patients (SYS+HAI-FUDR 204; SYS 130) were identified; the rates of RAS/RAF alterations and SMAD4 inactivation were 47.4% and 11.7%, respectively. After a median follow-up of 58 months, adjuvant SYS+HAI-FUDR was independently associated with a reduced risk of death (HR 0.50, 95%CI 0.26-0.98, &lt;em&gt;P&lt;/em&gt; = 0.045) in the low-risk genomic group, but not in the moderate-risk (HR 1.07, 95%CI 0.5-2.07, &lt;em&gt;P&lt;/em&gt; = 0.749) or high-risk (HR 1.62, 95%CI 0.29-9.12, &lt;em&gt;P&lt;/em&gt; = 0.537) cohorts. Following propensity score matching, adjuvant SYS+HAI-FUDR remained associated with significant improvements in long-term survival selectively in the low-risk genomic cohort (5-year actuarial survival: 89% vs. 68%, &lt;em&gt;P&lt;/em&gt; = 0.019).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Genomic alterations in &lt;em&gt;RAS/RAF&lt;/em&gt;, &lt;em&gt;SMAD4&lt;/em&gt;, and &lt;em&gt;EGFR&lt;/em&gt; may be useful to guide treatment selection in resectable CRLM patients and warrant external validation and integration in future clinical trial design.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Liquidambaric acid inhibits Wnt/β-catenin signaling and colon cancer via targeting TNF receptor-associated factor 2</title>
       <link>https://example.com/article/35108540/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
@@ -5628,6 +5707,34 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Wnt/β-catenin signaling is a well-established driver of colon cancer; however, a targeted therapeutic agent has not reached clinics yet. In the present study, we report that the natural compound liquidambaric acid (LDA) inhibits oncogenic Wnt/β-catenin signaling in vitro and in vivo through its direct target tumor necrosis factor receptor-associated factor 2 (TRAF2). Mechanistically, TRAF2 positively regulates Wnt signaling by interacting with the N-terminal of β-catenin via its TRAF-C domain; this interaction is disrupted in presence of LDA. Particularly, a TRAF2/β-catenin/TCF4/TNIK complex is present in colon cancer cells, where TRAF2 is indispensable for the complex formation, and TRAF2/β-catenin and β-catenin/TCF4 interactions are disrupted upon LDA treatment. Our findings not only highlight that TRAF2 is an oncogenic regulator of Wnt/β-catenin signaling and colon cancer but also provide a lead compound targeting TRAF2 for cancer therapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Precision targeting of the vagal anti-inflammatory pathway attenuates the systemic inflammatory response to burn injury</title>
+      <link>https://example.com/article/34789702/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34789702/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The systemic inflammatory response (SIRS) drives late morbidity and mortality after injury. The α7 nicotinic acetylcholine receptor (α7nAchR) expressed on immune cells regulates the vagal anti-inflammatory pathway that prevents an overwhelming SIRS response to injury. Nonspecific pharmacologic stimulation of the vagus nerve has been evaluated as a potential therapeutic to limit SIRS. Unfortunately, the results of clinical trials have been underwhelming. We hypothesized that directly targeting the α7nAchR would more precisely stimulate the vagal anti-inflammatory pathway on immune cells and decrease gut and lung injury after severe burn.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; C57BL/6 mice underwent 30% total body surface area steam burn. Mice were treated with an intraperitoneal injection of a selective agonist of the α7nAchR (AR-R17779) at 30 minutes postburn. Intestinal permeability to 4 kDa FITC-dextran was measured at multiple time points postinjury. Lung vascular permeability was measured 6 hours after burn injury. Serial behavioral assessments were performed to quantify activity levels.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Intestinal permeability peaked at 6 hours postburn. AR-R17779 decreased burn-induced intestinal permeability in a dose-dependent fashion (&lt;em&gt;p&lt;/em&gt; &amp;lt; 0.001). There was no difference in gut permeability to 4 kDa FITC-dextran between sham and burn-injured animals treated with 5 mg/kg of AR-R17779. While burn injury increased lung permeability 10-fold, AR-R17779 prevented burn-induced lung permeability with no difference compared with sham (&lt;em&gt;p&lt;/em&gt; &amp;lt; 0.01). Postinjury activity levels were significantly improved in burned animals treated with AR-R17779.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; Directly stimulating the α7nAchR prevents burn-induced gut and lung injury. Directly targeting the α7nAChR that mediates the cholinergic anti-inflammatory response may be an improved strategy compared with nonspecific vagal agonists.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6318,12 +6425,90 @@
     </item>
     
     <item>
+      <title>Xenograft cancer vaccines prepared from immunodeficient mice increase tumor antigen diversity and host T cell efficiency against colorectal cancers</title>
+      <link>https://example.com/article/34808284/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34808284/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autologous cancer vaccines (ACVs) are a desirable approach for personalized medicine, but the efficiency of ACVs remains unsatisfactory due to their low immunogenicity. This study developed a platform that can enhance the immunogenicity of ACVs by transplanting the tumors into immunodeficient mice. The CT26 cell line was inoculated into severe combined immunodeficient mice (SCID) for vaccine preparation where escalates tumor development, subsequently diversifying the tumor antigenic topology. CT26/SCID cancer vaccines significantly inhibited tumor growth, increased the amount of tumor infiltrating lymphocytes, and triggered Th-1 predominant immune responses. Tumor antigenic profiles of CT26/SCID cells were further analyzed by liquid chromatography-tandem mass spectrometry. Compared to CT26 parental cells, a total of 428 differentially expressed proteins (DEPs) were detected. These DEPs revealed that CT26/SCID cells overexpressed several novel therapeutic targets, including KNG1, apoA-I and, β2-GPI, which can trigger cytotoxic T cells towards Th-1 predominant immune responses and directly suppress proliferation in tumors. CT26/SCID cancer vaccines can be easily manufactured, while traits of triggering stronger antigen-specific Th-1 immune activity against tumors, are retained. Results of this study provide an effective proof-of-concept of an ACV for personalized cancer immunotherapy.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Free Feeding of CpG-Oligodeoxynucleotide Particles Prophylactically Attenuates Allergic Airway Inflammation and Hyperresponsiveness in Mice</title>
       <link>https://example.com/article/34867960/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/article/34867960/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CpG-oligodeoxynucleotides (CpG-ODNs) constitute an attractive alternative for asthma treatment. However, very little evidence is available from studies on the oral administration of CpG-ODNs in animals. Previously, we developed acid-resistant particles (named ODNcap) as an oral delivery device for ODNs. Here, we showed that free feeding of an ODNcap-containing feed prophylactically attenuates allergic airway inflammation, hyperresponsiveness, and goblet cell hyperplasia in an ovalbumin-induced asthma model. Using transcriptomics-driven approaches, we demonstrated that injury of pulmonary vein cardiomyocytes accompanies allergen inhalation challenge, but is inhibited by ODNcap feeding. We also showed the participation of an airway antimicrobial peptide (Reg3γ) and fecal microbiota in the ODNcap-mediated effects. Collectively, our findings suggest that daily oral ingestion of ODNcap may provide preventive effects on allergic bronchopulmonary insults via regulation of mechanisms involved in the gut-lung connection.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Resolving the difference between left-sided and right-sided colorectal cancer by single-cell sequencing</title>
+      <link>https://example.com/article/34793335/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34793335/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Colorectal cancers (CRCs) exhibit differences in incidence, pathogenesis, molecular pathways, and outcome depending on the location of the tumor. The transcriptomes of 27,927 single human CRC cells from 3 left-sided and 3 right-sided CRC patients were profiled by single-cell RNA-Seq (scRNA-Seq). Right-sided CRC harbors a significant proportion of exhausted CD8&lt;sup&gt;+&lt;/sup&gt; T cells of a highly migratory nature. One cluster of cells from left-sided CRC exhibiting states preceding exhaustion and a high ratio of preexhausted/exhausted T cells were favorable prognostic markers. Notably, we identified a potentially novel RBP4&lt;sup&gt;+&lt;/sup&gt;NTS&lt;sup&gt;+&lt;/sup&gt; subpopulation of cancer cells that exclusively expands in left-sided CRC. Tregs from left-sided CRC showed higher levels of immunotherapy-related genes than those from right-sided CRC, indicating that left-sided CRC may have increased responsiveness to immunotherapy. Antibody-dependent cellular phagocytosis (ADCP) and antibody-dependent cellular cytotoxicity (ADCC) induced by M2-like macrophages were more pronounced in left-sided CRC and correlated with a good prognosis in CRC.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A genome-wide search for determinants of survival in 1926 patients with advanced colorectal cancer with follow-up in over 22,000 patients</title>
+      <link>https://example.com/article/34794066/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34794066/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; While genome-wide association studies (GWAS) have identified germline variants influencing the risk of developing colorectal cancer (CRC), there has been limited examination of the possible role of inherited variation as a determinant of patient outcome.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Patients and methods:&lt;/em&gt; We performed a GWAS for overall survival (OS) in 1926 patients with advanced CRC from the COIN and COIN-B clinical trials. For single nucleotide polymorphisms (SNPs) showing an association with OS (&lt;em&gt;P&lt;/em&gt; &amp;lt; 1.0 × 10&lt;sup&gt;-5&lt;/sup&gt;), we conducted sensitivity analyses based on the time from diagnosis to death and sought independent replications in 5675 patients from the Study of Colorectal Cancer in Scotland (SOCCS) and 16,964 patients from the International Survival Analysis in Colorectal cancer Consortium (ISACC). We analysed the Human Protein Atlas to determine if ERBB4 expression was associated with survival in 438 patients with colon adenocarcinomas.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; The most significant SNP associated with OS was rs79612564 in ERBB4 (hazard ratio [HR] = 1.24, 95% confidence interval [CI] = 1.16-1.32, &lt;em&gt;P&lt;/em&gt; = 1.9 × 10&lt;sup&gt;-7&lt;/sup&gt;). SNPs at 17 loci had suggestive associations for OS and all had similar effects on the time from diagnosis to death. No lead SNPs were independently replicated in the meta-analysis of all patients from SOCCS and ISACC. However, rs79612564 was significant in stage-IV patients from SOCCS (&lt;em&gt;P&lt;/em&gt; = 2.1 × 10&lt;sup&gt;-2&lt;/sup&gt;) but not ISACC (&lt;em&gt;P&lt;/em&gt; = 0.89) and SOCCS combined with COIN and COIN-B attained genome-wide significance (&lt;em&gt;P&lt;/em&gt; = 1.7 × 10&lt;sup&gt;-8&lt;/sup&gt;). Patients with high ERBB4 expression in their colon adenocarcinomas had worse survival (HR = 1.50, 95% CI = 1.1-1.9, &lt;em&gt;P&lt;/em&gt; = 4.6 × 10&lt;sup&gt;-2&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions:&lt;/em&gt; Genetic and expression data support a potential role for rs79612564 in the receptor tyrosine kinase ERBB4 as a predictive biomarker of survival.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -6406,6 +6591,35 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;NLRP6 is important in host defense by inducing functional outcomes including inflammasome activation and interferon production. Here, we show that NLRP6 undergoes liquid-liquid phase separation (LLPS) upon interaction with double-stranded RNA (dsRNA) &lt;em&gt;in vitro&lt;/em&gt; and in cells, and an intrinsically disordered poly-lysine sequence (K350-354) of NLRP6 is important for multivalent interactions, phase separation, and inflammasome activation. &lt;em&gt;Nlrp6&lt;/em&gt;-deficient or &lt;em&gt;Nlrp6&lt;sup&gt;K350-354A&lt;/sup&gt;&lt;/em&gt; mutant mice show reduced inflammasome activation upon mouse hepatitis virus or rotavirus infection, and in steady state stimulated by intestinal microbiota, implicating NLRP6 LLPS in anti-microbial immunity. Recruitment of ASC via helical assembly solidifies NLRP6 condensates, and ASC further recruits and activates caspase-1. Lipoteichoic acid, a known NLRP6 ligand, also promotes NLRP6 LLPS, and DHX15, a helicase in NLRP6-induced interferon signaling, co-forms condensates with NLRP6 and dsRNA. Thus, LLPS of NLRP6 is a common response to ligand stimulation, which serves to direct NLRP6 to distinct functional outcomes depending on the cellular context.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/article/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Articles &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://example.com/&#34; &gt;
+      Alternative to Homepage &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bryodulcosigenin a natural cucurbitane-type triterpenoid attenuates dextran sulfate sodium (DSS)-induced colitis in mice</title>
+      <link>https://example.com/article/34798522/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/article/34798522/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; Bryodulcosigenin (BDG) a cucurbitane-type triterpenoid has been isolated from the roots of Bryonia dioca and possesses marked anti-inflammatory effects, although its beneficial effect against intestinal disorders remains unclear.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose:&lt;/em&gt; To explore the underlying mechanism of BDG on the dysbiosis of chronic ulcerative colitis (UC) and its associated side-effects on lung tissues.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; A chronic UC model was established using 2.5% dextran sulfate sodium (DSS) in mice treated for 64 days and diagnostic assessments, western blot analysis and quantitative real time-PCR were employed to determine the protective mechanism of BDG.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; Oral administration of BDG (10 mg/kg/day) significantly improved colon length, disease activity index, and alleviated colonic histopathological damage in the DSS-induced colitis mice. BDG not only reversed the TNF-α-induced degradation of tight junction proteins (occludin and ZO-1) but also suppressed the elevated apoptosis seen in intestinal epithelial cells (NCM460). In addition, BDG significantly attenuated damage in alveolar epithelial cells (MLE-12) co-cultured with NCM460 cells under inflammatory conditions. Furthermore, BDG in vivo significantly prevented the symptoms of respiratory disorders and repressed alveolar inflammation by regulating DSS-induced chronic colitis in mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; BDG effectively inhibited the apoptosis of intestinal epithelial cells and suppressed the activation of the NLRP3 inflammasome which resulted in the restoration of the intestinal barrier. Therefore, the enhanced integrity of intestinal epithelial cells produced by BDG intervention contributed to its anti-colitis effects, indicating its great potential as an inhibitor of UC and lung injury. Therefore, restoring intestinal integrity may represent a promising strategy in the prevention of pulmonary disease.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
