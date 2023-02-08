@@ -1656,12 +1656,15 @@
     </item>
     
     <item>
-      <title>In vivo induction of activin A-producing alveolar macrophages supports the progression of lung cell carcinoma</title>
-      <link>https://example.com/article/36650150/</link>
+      <title>ADAMTS7-Mediated Complement Factor H Degradation Potentiates Complement Activation to Contributing to Renal Injuries</title>
+      <link>https://example.com/article/36735376/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36650150/</guid>
+      <guid>https://example.com/article/36735376/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Alveolar macrophages (AMs) are crucial for maintaining normal lung function. They are abundant in lung cancer tissues, but their pathophysiological significance remains unknown. Here we show, using an orthotopic murine lung cancer model and human carcinoma samples, that AMs support cancer cell proliferation and thus contribute to unfavourable outcome. Inhibin beta A (INHBA) expression is upregulated in AMs under tumor-bearing conditions, leading to the secretion of activin A, a homodimer of INHBA. Accordingly, follistatin, an antagonist of activin A is able to inhibit lung cancer cell proliferation. Single-cell RNA sequence analysis identifies a characteristic subset of AMs specifically induced in the tumor environment that are abundant in INHBA, and distinct from INHBA-expressing AMs in normal lungs. Moreover, postnatal deletion of INHBA/activin A could limit tumor growth in experimental models. Collectively, our findings demonstrate the critical pathological role of activin A-producing AMs in tumorigenesis, and provides means to clearly distinguish them from their healthy counterparts.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The dysfunction of complement factor H (CFH), the main soluble complement negative regulator, potentiates various complement-induced renal injuries. However, insights into the underlying mechanism of CFH dysfunction remain limited. In this study, we investigated whether extracellular protease-mediated degradation accounts for CFH dysfunction in complement-mediated renal injuries.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; An unbiased interactome of lupus mice kidneys identified CFH-binding protease. In vitro cleavage assay clarified CFH degradation. Pristane-induced SLE or renal ischemia-reperfusion (I/R) injury models were used in wild-type and ADAMTS7-/- mice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We identified the metalloprotease ADAMTS7 as a CFH-binding protein in lupus kidneys. Moreover, the upregulation of ADAMTS7 correlated with CFH reduction in both lupus mice and patients. Mechanistically, ADAMTS7 is directly bound to CFH complement control protein (CCP) 1-4 domain and degraded CCP 1-7 domain through multiple cleavages. In mice with lupus nephritis or renal I/R injury, ADAMTS7 deficiency alleviated complement activation and related renal pathologies, but without affecting complement-mediated bactericidal activity. Adeno-associated virus-mediated CFH silencing compromised these protective effects of ADAMTS7 knockout against complement-mediated renal injuries in vivo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; ADAMTS7-mediated CFH degradation potentiates complement activation and related renal injuries. ADAMTS7 would be a promising anticomplement therapeutic target that does not increase bacterial infection risk.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
@@ -1681,15 +1684,12 @@
     </item>
     
     <item>
-      <title>Robust rank aggregation for gene list integration and meta-analysis</title>
-      <link>https://example.com/article/36735376/</link>
+      <title>In vivo induction of activin A-producing alveolar macrophages supports the progression of lung cell carcinoma</title>
+      <link>https://example.com/article/36650150/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/article/36735376/</guid>
+      <guid>https://example.com/article/36650150/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt; The dysfunction of complement factor H (CFH), the main soluble complement negative regulator, potentiates various complement-induced renal injuries. However, insights into the underlying mechanism of CFH dysfunction remain limited. In this study, we investigated whether extracellular protease-mediated degradation accounts for CFH dysfunction in complement-mediated renal injuries.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Methods:&lt;/em&gt; An unbiased interactome of lupus mice kidneys identified CFH-binding protease. In vitro cleavage assay clarified CFH degradation. Pristane-induced SLE or renal ischemia-reperfusion (I/R) injury models were used in wild-type and ADAMTS7-/- mice.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt; We identified the metalloprotease ADAMTS7 as a CFH-binding protein in lupus kidneys. Moreover, the upregulation of ADAMTS7 correlated with CFH reduction in both lupus mice and patients. Mechanistically, ADAMTS7 is directly bound to CFH complement control protein (CCP) 1-4 domain and degraded CCP 1-7 domain through multiple cleavages. In mice with lupus nephritis or renal I/R injury, ADAMTS7 deficiency alleviated complement activation and related renal pathologies, but without affecting complement-mediated bactericidal activity. Adeno-associated virus-mediated CFH silencing compromised these protective effects of ADAMTS7 knockout against complement-mediated renal injuries in vivo.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Conclusion:&lt;/em&gt; ADAMTS7-mediated CFH degradation potentiates complement activation and related renal injuries. ADAMTS7 would be a promising anticomplement therapeutic target that does not increase bacterial infection risk.&lt;/p&gt;
+&lt;p&gt;Alveolar macrophages (AMs) are crucial for maintaining normal lung function. They are abundant in lung cancer tissues, but their pathophysiological significance remains unknown. Here we show, using an orthotopic murine lung cancer model and human carcinoma samples, that AMs support cancer cell proliferation and thus contribute to unfavourable outcome. Inhibin beta A (INHBA) expression is upregulated in AMs under tumor-bearing conditions, leading to the secretion of activin A, a homodimer of INHBA. Accordingly, follistatin, an antagonist of activin A is able to inhibit lung cancer cell proliferation. Single-cell RNA sequence analysis identifies a characteristic subset of AMs specifically induced in the tumor environment that are abundant in INHBA, and distinct from INHBA-expressing AMs in normal lungs. Moreover, postnatal deletion of INHBA/activin A could limit tumor growth in experimental models. Collectively, our findings demonstrate the critical pathological role of activin A-producing AMs in tumorigenesis, and provides means to clearly distinguish them from their healthy counterparts.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
